@@ -138,7 +138,8 @@ for (const [id, d] of data) {
   const { error } = await supabase.from('characters').upsert({
     id, name: d.name, anime_title: d.anime_title,
     description: d.description, traits: d.traits, nicknames: d.nicknames,
-    image: 'https://s4.anilist.co/file/anilistcdn/character/large/b' + id + '.jpg',
+    // ⚠️ 图片 URL 必须从 AniList API 获取真实地址！不能用拼接
+    image: 'FETCH_REAL_URL_FROM_ANILIST',
   }, { onConflict: 'id' })
 
   // Insert VAs

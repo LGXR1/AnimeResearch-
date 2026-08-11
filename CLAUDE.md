@@ -79,4 +79,5 @@ Dark theme: page bg `#0f0f0f`, card bg `#1a1a1a`, accent `#ff6b8a` (sakura pink)
 ## Rules
 
 - **每次修改完必须自己验证** — 改动前端就 `npm run build` 确认无报错，改动数据就查询验证结果正确，改动搜索就实际搜一下看命中是否符合预期。不要等用户反馈才修。
+- **添加角色后检查图片** — 用 Supabase 查询新增角色的 `image` 字段，确认 URL 是 AniList CDN 的真实地址（包含 hash 如 `-aFJLRPGAWAae`），不是拼接出来的无效 URL。
 - **push 前必须询问用户** — 每次 `git push` 之前，先问用户有没有需要写的提交备注或注释，得到确认后再推送。
