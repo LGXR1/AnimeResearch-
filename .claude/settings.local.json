@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"e:\\\\AI code\\\\anime\\\\docs\\\\superpowers\\\\plans\")",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(npm create *)",
+      "Bash(npm init *)",
+      "Bash(npx vite *)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(pkill -f \"vite\")",
+      "Bash(sleep 3 && cat /c/Users/LENOVO/AppData/Local/Temp/claude/e--AI-code-anime/3a1150ec-d6cb-4ad1-8c27-21c860cff750/tasks/b5x796vsc.output 2>/dev/null)",
+      "Read(//c/Users/LENOVO/AppData/Local/Temp/claude/e--AI-code-anime/3a1150ec-d6cb-4ad1-8c27-21c860cff750/tasks/**)",
+      "Bash(node -e ' *)"
+    ],
+    "additionalDirectories": [
+      "e:\\AI code\\anime\\docs\\superpowers"
+    ]
+  }
+}
