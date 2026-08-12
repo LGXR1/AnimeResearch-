@@ -64,39 +64,56 @@ export default function SearchResultsPage() {
   const hasSearchResults = results && results.data.length > 0
 
   return (
-    <div className="min-h-screen px-4 py-6">
-      <div className="flex flex-col items-center mb-8">
-        <h1 className="text-3xl font-bold mb-4 cursor-pointer hover:text-[#ff6b8a] transition-colors" onClick={() => navigate('/')}>动漫人物搜索</h1>
+    <div className="min-h-screen relative overflow-hidden"
+      style={{ background: 'linear-gradient(170deg, #0a0a12 0%, #1a1025 30%, #0f1724 60%, #0a0a12 100%)' }}>
+
+      {/* 装饰 */}
+      <div className="absolute top-4 right-8 text-[#ff6b8a]/6 text-7xl select-none rotate-12">探</div>
+      <div className="absolute bottom-4 left-4 text-[#ff6b8a]/5 text-6xl select-none -rotate-6">尋</div>
+
+      <div className="relative z-[1] px-4 py-6">
+      {/* Header */}
+      <div className="flex flex-col items-center mb-10">
+        <h1 className="text-3xl font-bold cursor-pointer hover:text-[#ff6b8a] transition-colors"
+          style={{ textShadow: '0 0 40px rgba(255,107,138,0.1)' }}
+          onClick={() => navigate('/')}>
+          <span className="bg-gradient-to-r from-[#ff6b8a] via-[#ff8fab] to-[#ff6b8a] bg-clip-text text-transparent">
+            动漫人物搜索
+          </span>
+        </h1>
+        <p className="text-gray-600 text-xs tracking-widest mt-2 mb-6">結果を表示中</p>
         <SearchBar initialValue={query} onSearch={handleSearch} />
       </div>
 
       {/* Loading */}
       {loading && (
-        <div className="flex justify-center py-10">
-          <div className="w-8 h-8 border-2 border-gray-600 border-t-[#ff6b8a] rounded-full animate-spin" />
+        <div className="flex justify-center py-16">
+          <div className="w-10 h-10 border-2 border-[#ff6b8a]/20 border-t-[#ff6b8a] rounded-full animate-spin" />
         </div>
       )}
 
       {/* Error */}
       {error && (
-        <div className="text-center py-10">
-          <p className="text-red-400 mb-4">{error}</p>
+        <div className="text-center py-16">
+          <p className="text-red-400/80 mb-4 text-sm">{error}</p>
           <button onClick={() => setSearchParams({ q: query, page: '1' })}
-            className="px-6 py-2 bg-[#ff6b8a] text-white rounded-lg hover:bg-[#ff5a7a] transition-colors">
-            重试
+            className="px-8 py-2.5 bg-[#ff6b8a]/90 text-white rounded-full text-sm hover:bg-[#ff5a7a] transition-all shadow-lg shadow-[#ff6b8a]/20">
+            再試行
           </button>
         </div>
       )}
 
-      {/* ====== 搜索结果区 ====== */}
+      {/* Search results */}
       {query && !loading && !error && results && (
-        <div className="max-w-5xl mx-auto mb-12">
-          <h2 className="text-xl font-semibold mb-4 text-gray-300">
-            {hasSearchResults ? `搜索结果：${results.data.length} 个角色` : '搜索结果：未找到相关角色'}
+        <div className="max-w-5xl mx-auto mb-16">
+          <h2 className="text-lg font-medium mb-6 text-gray-400 tracking-wide">
+            {results.data.length > 0
+              ? <><span className="text-[#ff6b8a]">{results.data.length}</span> 件の検索結果</>
+              : <span className="text-gray-500">該当なし — 別のキーワードをお試しください</span>}
           </h2>
-          {hasSearchResults ? (
+          {results.data.length > 0 ? (
             <>
-              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-5">
                 {results.data.map((char) => (
                   <CharacterCard key={char.id} character={char} onClick={handleCardClick} />
                 ))}
@@ -108,18 +125,18 @@ export default function SearchResultsPage() {
               />
             </>
           ) : (
-            <p className="text-gray-500">换个关键词试试？</p>
+            <p className="text-gray-500 text-sm">新しいキーワードで試してみてください</p>
           )}
         </div>
       )}
 
-      {/* ====== 全部角色区（搜索结果有结果时隐藏） ====== */}
-      {!hasSearchResults && allChars && !loading && (
-        <div className="max-w-5xl mx-auto">
-          <h2 className="text-xl font-semibold mb-4 text-gray-300">
-            {query ? '所有角色' : `全部角色 (${allChars.total} 个)`}
+      {/* All characters */}
+      {!hasSearchResults && !loading && allChars && allChars.data.length > 0 && (
+        <div className="max-w-5xl mx-auto pb-16">
+          <h2 className="text-lg font-medium mb-6 text-gray-400 tracking-wide">
+            {query ? 'すべてのキャラクター' : <><span className="text-[#ff6b8a]">{allChars.total}</span> キャラクター収録中</>}
           </h2>
-          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
+          <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-5">
             {allChars.data.map((char) => (
               <CharacterCard key={char.id} character={char} onClick={handleCardClick} />
             ))}
@@ -131,6 +148,7 @@ export default function SearchResultsPage() {
           />
         </div>
       )}
+      </div>
     </div>
   )
 }
