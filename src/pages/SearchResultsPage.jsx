@@ -66,7 +66,7 @@ export default function SearchResultsPage() {
   return (
     <div className="min-h-screen px-4 py-6">
       <div className="flex flex-col items-center mb-8">
-        <h1 className="text-3xl font-bold mb-4">动漫人物搜索</h1>
+        <h1 className="text-3xl font-bold mb-4 cursor-pointer hover:text-[#ff6b8a] transition-colors" onClick={() => navigate('/')}>动漫人物搜索</h1>
         <SearchBar initialValue={query} onSearch={handleSearch} />
       </div>
 

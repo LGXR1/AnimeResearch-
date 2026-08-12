@@ -83,7 +83,12 @@ export default function CharacterDetailPage() {
 
   return (
     <div className="min-h-screen px-4 py-6 max-w-4xl mx-auto">
-      <BackButton onClick={handleBack} />
+      <div className="flex items-center justify-between mb-6">
+        <BackButton onClick={handleBack} />
+        <button onClick={() => navigate('/')} className="text-sm text-gray-400 hover:text-[#ff6b8a] transition-colors">
+          🏠 首页
+        </button>
+      </div>
       <CharacterHero imageUrl={imageUrl} name={character.name} animeTitle={animeTitle} />
       <AboutSection text={character.description} />
       <TagList tags={nicknames} title="别名" />
