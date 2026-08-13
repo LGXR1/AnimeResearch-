@@ -18,6 +18,7 @@ export default function CommentSection({ characterId }) {
   const [text, setText] = useState('')
   const [sending, setSending] = useState(false)
   const [msg, setMsg] = useState('')
+  const [honeypot, setHoneypot] = useState('')
 
   const load = async () => {
     try {
@@ -31,6 +32,8 @@ export default function CommentSection({ characterId }) {
   useEffect(() => { load() }, [characterId])
 
   const submit = async () => {
+    // 蜜罐：bot 会自动填这个隐藏字段，人类看不到；填了就直接丢弃
+    if (honeypot) return
     const content = text.trim()
     if (!content) return
     if (content.length > 500) { setMsg('评论最多 500 字'); return }
@@ -52,6 +55,16 @@ export default function CommentSection({ characterId }) {
       <h2 className="text-xl font-semibold mb-3">评论</h2>
 
       <div className="flex gap-2 mb-4">
+        {/* 蜜罐字段：人类不可见，bot 会自动填写 */}
+        <input
+          type="text"
+          value={honeypot}
+          onChange={(e) => setHoneypot(e.target.value)}
+          tabIndex={-1}
+          autoComplete="off"
+          aria-hidden="true"
+          className="absolute -left-[9999px] w-px h-px opacity-0"
+        />
         <input
           value={text}
           onChange={(e) => setText(e.target.value)}

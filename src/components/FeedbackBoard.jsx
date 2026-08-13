@@ -6,6 +6,7 @@ export default function FeedbackBoard({ compact = false }) {
   const [text, setText] = useState('')
   const [sending, setSending] = useState(false)
   const [msg, setMsg] = useState('')
+  const [honeypot, setHoneypot] = useState('')
 
   const load = async () => {
     const { data } = await supabase.from('feedback').select('*').order('created_at', { ascending: false }).limit(50)
@@ -15,6 +16,7 @@ export default function FeedbackBoard({ compact = false }) {
   useEffect(() => { load() }, [])
 
   const submit = async () => {
+    if (honeypot) return
     const content = text.trim()
     if (!content || content.length < 3) { setMsg('最少3个字'); return }
     setSending(true)
@@ -47,6 +49,15 @@ export default function FeedbackBoard({ compact = false }) {
       {!compact && <p className="text-sm text-gray-500 mb-4">缺少的动漫/人物、错误的信息、网站建议——都可以写，所有人可见。</p>}
 
       <div className={compact ? 'flex flex-col gap-1.5 mb-3' : 'flex gap-2 mb-6'}>
+        <input
+          type="text"
+          value={honeypot}
+          onChange={e => setHoneypot(e.target.value)}
+          tabIndex={-1}
+          autoComplete="off"
+          aria-hidden="true"
+          className="absolute -left-[9999px] w-px h-px opacity-0"
+        />
         <input value={text} onChange={e => setText(e.target.value)} onKeyDown={e => e.key === 'Enter' && submit()}
           placeholder="建议或纠错…" className={inputClasses} />
         <button onClick={submit} disabled={sending}
