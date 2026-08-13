@@ -1,10 +1,5 @@
 import { useState, useEffect } from 'react'
-import { createClient } from '@supabase/supabase-js'
-
-const supabase = createClient(
-  'https://yjsthpnwcjfktwychskq.supabase.co',
-  'sb_publishable_w-I9P1-ipx2T3_qDt_gq1w_F2VBl0hU'
-)
+import { supabase } from '../lib/api'
 
 export default function FeedbackBoard({ compact = false }) {
   const [list, setList] = useState([])

@@ -3,6 +3,7 @@ import { useSearchParams, useNavigate } from 'react-router-dom'
 import SearchBar from '../components/SearchBar'
 import CharacterCard from '../components/CharacterCard'
 import Pagination from '../components/Pagination'
+import Layout from '../components/Layout'
 import { searchCharacters, getAllCharacters } from '../lib/api'
 
 export default function SearchResultsPage() {
@@ -64,8 +65,7 @@ export default function SearchResultsPage() {
   const hasSearchResults = results && results.data.length > 0
 
   return (
-    <div className="min-h-screen relative overflow-hidden"
-      style={{ background: 'linear-gradient(170deg, #0a0a12 0%, #1a1025 30%, #0f1724 60%, #0a0a12 100%)' }}>
+    <Layout>
 
       {/* 装饰 */}
       <div className="absolute top-4 right-8 text-[#ff6b8a]/6 text-7xl select-none rotate-12">探</div>
@@ -81,7 +81,10 @@ export default function SearchResultsPage() {
             动漫人物搜索
           </span>
         </h1>
-        <p className="text-gray-600 text-xs tracking-widest mt-2 mb-6">結果を表示中</p>
+        <p className="text-gray-500 text-xs tracking-widest mt-2 mb-6 flex items-center gap-2">
+          <span>显示搜索结果</span>
+          <span className="text-gray-600/50">結果を表示中</span>
+        </p>
         <SearchBar initialValue={query} onSearch={handleSearch} />
       </div>
 
@@ -98,7 +101,7 @@ export default function SearchResultsPage() {
           <p className="text-red-400/80 mb-4 text-sm">{error}</p>
           <button onClick={() => setSearchParams({ q: query, page: '1' })}
             className="px-8 py-2.5 bg-[#ff6b8a]/90 text-white rounded-full text-sm hover:bg-[#ff5a7a] transition-all shadow-lg shadow-[#ff6b8a]/20">
-            再試行
+            重试 <span className="opacity-50 text-xs">再試行</span>
           </button>
         </div>
       )}
@@ -108,8 +111,8 @@ export default function SearchResultsPage() {
         <div className="max-w-5xl mx-auto mb-16">
           <h2 className="text-lg font-medium mb-6 text-gray-400 tracking-wide">
             {results.data.length > 0
-              ? <><span className="text-[#ff6b8a]">{results.data.length}</span> 件の検索結果</>
-              : <span className="text-gray-500">該当なし — 別のキーワードをお試しください</span>}
+              ? <><span className="text-[#ff6b8a]">{results.data.length}</span> 条搜索结果 <span className="text-gray-600/50 text-sm">件の検索結果</span></>
+              : <span className="text-gray-400">没有找到该角色 <span className="text-gray-600/50 text-xs">該当なし</span></span>}
           </h2>
           {results.data.length > 0 ? (
             <>
@@ -125,7 +128,7 @@ export default function SearchResultsPage() {
               />
             </>
           ) : (
-            <p className="text-gray-500 text-sm">新しいキーワードで試してみてください</p>
+            <p className="text-gray-400 text-sm">试试其他关键词 <span className="text-gray-600/50 text-xs">新しいキーワードで試してみてください</span></p>
           )}
         </div>
       )}
@@ -134,7 +137,7 @@ export default function SearchResultsPage() {
       {!hasSearchResults && !loading && allChars && allChars.data.length > 0 && (
         <div className="max-w-5xl mx-auto pb-16">
           <h2 className="text-lg font-medium mb-6 text-gray-400 tracking-wide">
-            {query ? 'すべてのキャラクター' : <><span className="text-[#ff6b8a]">{allChars.total}</span> キャラクター収録中</>}
+            {query ? <>全部角色 <span className="text-gray-600/50 text-sm">すべてのキャラクター</span></> : <><span className="text-[#ff6b8a]">{allChars.total}</span> 个角色收录中 <span className="text-gray-600/50 text-sm">キャラクター収録中</span></>}
           </h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-5">
             {allChars.data.map((char) => (
@@ -149,6 +152,6 @@ export default function SearchResultsPage() {
         </div>
       )}
       </div>
-    </div>
+    </Layout>
   )
 }
