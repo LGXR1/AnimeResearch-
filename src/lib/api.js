@@ -7,6 +7,21 @@ const supabase = createClient(
 
 export { supabase }
 
+export async function getStats() {
+  // 角色总数
+  const { count } = await supabase.from('characters').select('id', { count: 'exact', head: true })
+  // 动漫数（拉全部 anime_title 去重）
+  const titles = []
+  let offset = 0
+  while (true) {
+    const { data } = await supabase.from('characters').select('anime_title').range(offset, offset + 999)
+    titles.push(...(data || []))
+    if ((data || []).length < 1000) break
+    offset += 1000
+  }
+  return { characters: count || 0, anime: new Set(titles.map(t => t.anime_title)).size }
+}
+
 export async function getAllCharacters(page = 1, limit = 24) {
   const offset = (page - 1) * limit
   const { data, count, error } = await supabase

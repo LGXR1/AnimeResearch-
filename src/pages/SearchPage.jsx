@@ -1,13 +1,20 @@
-import { useEffect, useRef } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import SearchBar from '../components/SearchBar'
 import FeedbackBoard from '../components/FeedbackBoard'
 import Layout from '../components/Layout'
 import { Sakura, Bubble, Star } from 'acgui'
+import { getStats } from '../lib/api'
 
 export default function SearchPage() {
   const navigate = useNavigate()
   const effectsRef = useRef(null)
+  const [stats, setStats] = useState(null)
+
+  // 动态获取角色数和动漫数
+  useEffect(() => {
+    getStats().then(setStats).catch(() => {})
+  }, [])
 
   // 初始化 AcgUI 特效（樱花 + 气泡）
   useEffect(() => {
@@ -85,8 +92,13 @@ export default function SearchPage() {
       </div>
 
       {/* 底部 */}
-      <div className="absolute bottom-6 left-1/2 -translate-x-1/2 text-gray-700 text-xs tracking-wider">
-        768 characters · 206 anime · and counting
+      <div className="absolute bottom-6 left-1/2 -translate-x-1/2 text-xs tracking-wider flex items-center gap-2">
+        {stats && (
+          <>
+            <span className="text-gray-500">{stats.characters} 个角色 · {stats.anime} 部动漫</span>
+            <span className="text-gray-700/60">and counting</span>
+          </>
+        )}
       </div>
 
       {/* 悬浮反馈栏 */}

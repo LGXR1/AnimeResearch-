@@ -12,15 +12,14 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **Tailwind CSS 4** for styling
 - **React Router 7** for client-side routing
 - **Supabase** — PostgreSQL database, direct client-side queries via `@supabase/supabase-js`
-- Deploy target: Vercel (static SPA + optional API functions)
+- Deploy target: Netlify (static SPA)
 
 ## Commands
 
 ```bash
 npm run dev        # start Vite dev server
 npm run build      # production build → dist/
-npm run preview    # preview production build locally
-node scripts/populate.js   # fetch + translate + insert characters from AniList
+node scripts/xxx.js  # 数据脚本（需 SUPABASE_URL / SUPABASE_SECRET_KEY 环境变量）
 ```
 
 ## Database
@@ -57,35 +56,57 @@ Dark theme: page bg `#0f0f0f`, card bg `#1a1a1a`, accent `#ff6b8a` (sakura pink)
 
 每个角色必须完整覆盖以下 7 个字段。信息不足时主动联网搜索（百度百科/萌娘百科/AniList），**宁缺毋滥但力求完整准确**。
 
-**添加动漫时必须尽可能补全人物** — 每部动漫至少添加 5-8 个角色（主要角色优先），如果 AniList 数据充足且时间允许，次要角色也一并补上。已有动漫补全时同样适用。
+**添加动漫时必须尽可能补全人物** — 每部动漫至少添加 5-8 个角色（主要角色优先），次要角色也一并补上。
+
 - **角色中文名以常见音译为准** — 优先使用百度百科/萌娘百科/中文维基上的主流译名（如"夏尔"而非"西雅尔"、"康娜"而非"神奈神威"）。如多个译名都常见则任选一个，但标注别名。
-- **添加角色严格遵循所有规则** — 每加一个角色必须对照上述所有 spec 逐项检查：name 中文常见译名、nicknames 包含英文名和别名、anime_title 简体中文、traits 至少 8-10 个含发色瞳色性格技能、description 100-200 字中文且不提及任何其他角色名、voice_actors 有名字有图、search_text 不含 description。缺任何一项都不能入库。
 
 | # | 字段 | 要求 |
 |---|------|------|
 | 1 | `name` | **中文名优先**，如"艾伦·耶格尔" |
-| 2 | `nicknames` | 英文名 + 中文简称 + 日文名 + 常见外号，如 `["Eren Yeager", "艾伦", "进击的巨人"]` |
+| 2 | `nicknames` | 英文名 + 中文简称 + 日文名 + 常见外号，**必须非空** |
 | 3 | `anime_title` | **简体中文**，如"进击的巨人"（不是"進擊的巨人"） |
-| 4 | `traits` | 发色、瞳色、性格、技能、身份、武器、血型、身高体型等，**每个角色至少 8-10 个** |
-| 5 | `description` | 100-200 字中文简介，**简介中不提及任何其他角色名**（否则会导致搜索污染） |
-| 6 | `voice_actors` | 日配声优姓名 + AniList 头像 URL |
+| 4 | `traits` | 发色、瞳色、性格、技能、身份、武器、体型等，**至少 8-10 个** |
+| 5 | `description` | 100-200 字中文简介，可自然提及其他角色名（search_text 不含 description，不影响搜索） |
+| 6 | `voice_actors` | 日配声优姓名 + AniList 头像 URL（**必填**；国产番无日配可留空） |
 | 7 | `search_text` | `name + anime_title + nicknames + traits + 声优名` 拼接，**不含 description** |
+
+### 数据红线（违反即不合格，不能入库）
+
+- traits < 8 个 → 补足再入库
+- description 空 / < 100 字 → 重写
+- 非国产番 voice_actors 空 → 补声优
+- 图片非 AniList CDN 真实地址（含 hash 如 `-aFJLRPGAWAae`）→ 重取
+- 发色/瞳色标注错误 → 修正后再入库
+
+**发色常见坑**：花垣武道=黑发（非金发）、白龙人形=黑发（非白发）、凤凰寺风=浅绿发（非金发）。
 
 ### 添加/修改角色后的验证步骤
 
 1. `npm run build` 确认无报错
 2. 搜角色中文名 → 应命中 1 个
 3. 搜英文名/别名 → 应命中 1 个
-4. 搜特征词（如发色、性格）→ 应命中该角色
-5. 搜同动漫其他角色名 → 不应命中该角色（简介污染检查）
+4. 搜特征词（发色/性格）→ 应命中该角色
+5. 搜同动漫其他角色名 → 不应命中该角色（确认 search_text 不含 description）
 6. 点进详情页 → 简介/别名/特征/声优全部显示正常
+7. 全库扫描（分页）确认：traits ≥ 8、description ≥ 100 字、nicknames 非空、图片真实、声优完整
+
+## 技术坑（血的教训）
+
+1. **AniList voiceActorRoles 查询必须加 `node { id }`**，否则返回 null
+2. **AniList 限流 90 req/min** — 串行请求 + 约 700ms 间隔，勿并发
+3. **Supabase 单次查询/导出最多 1000 行** — 必须分页 `range(0,999)` 循环
+4. **密钥** — publishable key 可硬编码（本就公开，前端用 `import.meta.env.VITE_* || 硬编码值` fallback）；**secret key 绝不能出现在任何前端代码或提交里**（脚本里只用 `process.env.SUPABASE_SECRET_KEY`）
+5. **批量脚本不能省略字段** — 曾因 `add_30c.js` 硬编码 `traits:[]` 导致 66 个角色空数据，每个字段都要写
+6. **Netlify 部署** — 前端改用环境变量后必须留 fallback，否则 Netlify 未配置会导致全黑
 
 ## Rules
 
-- **每次修改完必须自己验证** — 改动前端就 `npm run build` 确认无报错，改动数据就查询验证结果正确，改动搜索就实际搜一下看命中是否符合预期。不要等用户反馈才修。
-- **添加角色后立即更新 ANIME_LIST.md** — 每次新增或补全角色入库后立刻同步更新该文档，不要等提交时才更新。
-- **重复动漫/人物直接跳过** — 添加前先查数据库是否已存在（同名同动漫），已存在的忽略不重复添加。
-- **"添加动漫"无指定 → 随机 10 部** — 用户说"添加动漫"但没列具体名称时，自动选 15 部数据库中不存在的动漫添加，覆盖不同类型。
-- **添加角色后检查图片** — 用 Supabase 查询新增角色的 `image` 字段，确认 URL 是 AniList CDN 的真实地址（包含 hash 如 `-aFJLRPGAWAae`），不是拼接出来的无效 URL。
-- **不要自动 commit** — 修改完代码后先验证，等用户明确说"提交"再进行 git 操作。
-- **提交时提醒备注** — 用户说"提交"时，提醒用户填写提交备注，不要用默认 message 直接 commit。
+- **每次修改完必须自己验证** — 改动前端就 `npm run build`，改动数据就查询验证，改动搜索就实际搜一下。不要等用户反馈才修。
+- **添加角色后立即更新 ANIME_LIST.md** — 入库后立刻同步，不等提交。
+- **重复动漫/人物直接跳过** — 添加前先查数据库是否已存在（同名同动漫）。
+- **"添加动漫"无指定 → 随机 15 部** — 选数据库中不存在的动漫，覆盖不同类型。
+- **添加角色后检查图片** — 确认 image 字段是 AniList CDN 真实地址。
+- **特征标签** — 客观标签（发色/瞳色/身材/服装/能力）和网络流行词（白丝/黑丝/长腿/绝对领域/颜艺）可加；主观梗（"败犬""天降系"）谨慎。
+- **不要自动 commit** — 等用户明确说"提交"。
+- **提交时提醒备注** — 用用户给的备注，不用默认 message。
+- **提交前检查密钥** — `grep -rn "sb_secret"` 确认无硬编码 secret key。
