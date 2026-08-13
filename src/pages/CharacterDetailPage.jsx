@@ -7,6 +7,7 @@ import CharacterHero from '../components/CharacterHero'
 import AboutSection from '../components/AboutSection'
 import TagList from '../components/TagList'
 import VoiceActorList from '../components/VoiceActorList'
+import CommentSection from '../components/CommentSection'
 
 export default function CharacterDetailPage() {
   const { id } = useParams()
@@ -84,6 +85,7 @@ export default function CharacterDetailPage() {
             <TagList tags={nicknames} title="别名" />
             <TagList tags={character.traits || []} title="特征" />
             <VoiceActorList actors={character.voices || []} />
+            <CommentSection characterId={Number(id)} />
           </>
         )}
       </div>

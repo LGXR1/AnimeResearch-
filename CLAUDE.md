@@ -103,6 +103,7 @@ Dark theme: page bg `#0f0f0f`, card bg `#1a1a1a`, accent `#ff6b8a` (sakura pink)
 
 - **每次修改完必须自己验证** — 改动前端就 `npm run build`，改动数据就查询验证，改动搜索就实际搜一下。不要等用户反馈才修。
 - **添加角色后立即更新 ANIME_LIST.md** — 入库后立刻同步，不等提交。
+- **添加角色后重新生成 sitemap** — 跑 `node --env-file=.env.local scripts/generate_sitemap.js`，让 sitemap.xml 保持最新。
 - **重复动漫/人物直接跳过** — 添加前先查数据库是否已存在（同名同动漫）。
 - **"添加动漫"无指定 → 随机 15 部** — 选数据库中不存在的动漫，覆盖不同类型。
 - **添加角色后检查图片** — 确认 image 字段是 AniList CDN 真实地址。

@@ -78,7 +78,27 @@ export async function searchCharacters(query, page = 1) {
       current_page: page,
       last_visible_page: Math.max(1, Math.ceil((count || 0) / limit)),
     },
+    total: count || 0,
   }
+}
+
+export async function getComments(characterId) {
+  const { data, error } = await supabase
+    .from('comments')
+    .select('id, content, created_at')
+    .eq('character_id', characterId)
+    .order('created_at', { ascending: false })
+
+  if (error) throw new Error(error.message)
+  return data || []
+}
+
+export async function addComment(characterId, content) {
+  const { error } = await supabase
+    .from('comments')
+    .insert({ character_id: characterId, content })
+
+  if (error) throw new Error(error.message)
 }
 
 export async function getCharacterFull(id) {

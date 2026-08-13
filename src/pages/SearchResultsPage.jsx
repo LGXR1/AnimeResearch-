@@ -111,7 +111,7 @@ export default function SearchResultsPage() {
         <div className="max-w-5xl mx-auto mb-16">
           <h2 className="text-lg font-medium mb-6 text-gray-400 tracking-wide">
             {results.data.length > 0
-              ? <><span className="text-[#ff6b8a]">{results.data.length}</span> 条搜索结果 <span className="text-gray-600/50 text-sm">件の検索結果</span></>
+              ? <><span className="text-[#ff6b8a]">{results.total}</span> 条搜索结果 <span className="text-gray-600/50 text-sm">件の検索結果</span></>
               : <span className="text-gray-400">没有找到该角色 <span className="text-gray-600/50 text-xs">該当なし</span></span>}
           </h2>
           {results.data.length > 0 ? (
