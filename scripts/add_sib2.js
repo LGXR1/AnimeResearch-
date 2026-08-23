@@ -1,23 +1,12 @@
 import { createClient } from '@supabase/supabase-js'
 import fs from 'fs'
-import { CN } from './cn_koi4.js'
-
-// 校园恋爱番第 1 批入库
-// 运行：node --env-file=.env.local scripts/add_koi4.js
-
+import { CN } from './cn_sib2.js'
 const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SECRET_KEY)
-const raw = JSON.parse(fs.readFileSync('scripts/koi4_data.json', 'utf-8'))
-
+const raw = JSON.parse(fs.readFileSync('scripts/sib2_data.json', 'utf-8'))
 const byId = {}
-for (const anime of raw) {
-  for (const c of anime.characters) {
-    byId[c.id] = { image: c.image, va: (c.voiceActors || [])[0] }
-  }
-}
-
+for (const anime of raw) for (const c of anime.characters) byId[c.id] = { image: c.image, va: (c.voiceActors || [])[0] }
 const entries = Object.entries(CN)
 let ok = 0, err = 0, vaOk = 0
-
 for (const [idStr, cn] of entries) {
   const id = Number(idStr)
   const fetched = byId[id]
@@ -30,20 +19,17 @@ for (const [idStr, cn] of entries) {
   ok++
   if (va && va.name) {
     const vaName = va.native || va.name
-    const vaImg = va.image || null
     const { data: existing } = await supabase.from('voice_actors').select('id').eq('character_id', id).eq('name', vaName).limit(1)
     if (!existing || existing.length === 0) {
-      const { error: vaErr } = await supabase.from('voice_actors').insert({ character_id: id, name: vaName, image: vaImg, language: '日语' })
-      if (vaErr) console.log(`⚠️ [${id}] ${cn.name} 声优 ${vaName}: ${vaErr.message}`)
+      const { error: vaErr } = await supabase.from('voice_actors').insert({ character_id: id, name: vaName, image: va.image || null, language: '日语' })
+      if (vaErr) console.log(`⚠️ [${id}] ${cn.name} 声优: ${vaErr.message}`)
       else vaOk++
     }
   }
   await new Promise((r) => setTimeout(r, 30))
 }
-
 console.log(`\n角色: ${ok} 成功, ${err} 失败 | 声优: ${vaOk} 新增`)
-
-console.log('\n重建 search_text...')
+console.log('重建 search_text...')
 for (const [idStr] of entries) {
   const id = Number(idStr)
   const { data: ch } = await supabase.from('characters').select('id, name, anime_title, nicknames, traits, voice_actors(name)').eq('id', id).single()
