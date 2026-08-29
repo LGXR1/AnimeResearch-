@@ -57,6 +57,42 @@ CREATE TABLE IF NOT EXISTS comments (
   created_at   TIMESTAMPTZ DEFAULT NOW()
 );
 
+-- ------------------------------------------------------------
+-- 站点访问量（全站共享，匿名访问每个浏览器会话计一次）
+-- ------------------------------------------------------------
+CREATE TABLE IF NOT EXISTS site_visits (
+  id         INTEGER PRIMARY KEY CHECK (id = 1),
+  total      BIGINT NOT NULL DEFAULT 0 CHECK (total >= 0),
+  updated_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
+);
+
+INSERT INTO site_visits (id, total)
+VALUES (1, 0)
+ON CONFLICT (id) DO NOTHING;
+
+CREATE OR REPLACE FUNCTION increment_site_visits()
+RETURNS BIGINT
+LANGUAGE plpgsql
+SECURITY DEFINER
+SET search_path = public
+AS $$
+DECLARE
+  next_total BIGINT;
+BEGIN
+  INSERT INTO site_visits (id, total)
+  VALUES (1, 1)
+  ON CONFLICT (id) DO UPDATE
+    SET total = site_visits.total + 1,
+        updated_at = NOW()
+  RETURNING total INTO next_total;
+
+  RETURN next_total;
+END;
+$$;
+
+REVOKE ALL ON FUNCTION increment_site_visits() FROM PUBLIC;
+GRANT EXECUTE ON FUNCTION increment_site_visits() TO anon, authenticated;
+
 -- ============================================================
 -- 索引
 -- ============================================================
@@ -125,3 +161,9 @@ CREATE POLICY "comments public read" ON comments
 DROP POLICY IF EXISTS "comments public insert" ON comments;
 CREATE POLICY "comments public insert" ON comments
   FOR INSERT WITH CHECK (true);
+
+-- site_visits：公开读，写入只允许通过上面的原子 RPC
+ALTER TABLE site_visits ENABLE ROW LEVEL SECURITY;
+DROP POLICY IF EXISTS "site_visits public read" ON site_visits;
+CREATE POLICY "site_visits public read" ON site_visits
+  FOR SELECT USING (true);

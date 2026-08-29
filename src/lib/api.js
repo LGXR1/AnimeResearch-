@@ -22,6 +22,24 @@ export async function getStats() {
   return { characters: count || 0, anime: new Set(titles.map(t => t.anime_title)).size }
 }
 
+export async function getVisitCount() {
+  const { data, error } = await supabase
+    .from('site_visits')
+    .select('total')
+    .eq('id', 1)
+    .maybeSingle()
+
+  if (error) throw new Error(error.message)
+  return Number(data?.total || 0)
+}
+
+export async function recordVisit() {
+  const { data, error } = await supabase.rpc('increment_site_visits')
+
+  if (error) throw new Error(error.message)
+  return Number(data || 0)
+}
+
 export async function getAllCharacters(page = 1, limit = 24) {
   const offset = (page - 1) * limit
   const { data, count, error } = await supabase
