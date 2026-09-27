@@ -1,8 +1,16 @@
 import { useEffect, useState } from 'react'
-import { getVisitCount, recordVisit } from '../lib/api'
+import { recordVisit } from '../lib/api'
 
-const sessionKey = 'anime-character-search:visit-recorded'
-let visitRequest
+// One increment per full document load. Reuse it across React remounts and Strict Mode.
+let pageVisitRequest
+
+function recordPageVisit() {
+  pageVisitRequest ||= recordVisit().catch((error) => {
+    pageVisitRequest = undefined
+    throw error
+  })
+  return pageVisitRequest
+}
 
 export default function VisitCounter() {
   const [visits, setVisits] = useState(null)
@@ -12,21 +20,10 @@ export default function VisitCounter() {
 
     async function loadVisits() {
       try {
-        const alreadyRecorded = sessionStorage.getItem(sessionKey) === 'true'
-        if (alreadyRecorded) {
-          const total = await getVisitCount()
-          if (!cancelled) setVisits(total)
-          return
-        }
-
-        // React Strict Mode may mount twice in development; reuse the same request.
-        visitRequest ||= recordVisit()
-        const total = await visitRequest
-        sessionStorage.setItem(sessionKey, 'true')
+        const total = await recordPageVisit()
 
         if (!cancelled) setVisits(total)
       } catch (error) {
-        try { sessionStorage.removeItem(sessionKey) } catch {}
         console.error('无法加载全站访问量:', error)
       }
     }
