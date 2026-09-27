@@ -65,6 +65,22 @@ export default function SearchPage() {
       <div className="absolute top-8 right-12 text-[#ff6b8a]/10 text-9xl select-none rotate-12">桜</div>
       <div className="absolute bottom-12 left-8 text-[#ff6b8a]/8 text-8xl select-none -rotate-6">夢</div>
 
+      {/* 站务公告 */}
+      <aside
+        aria-label="站务公告"
+        className="absolute top-4 left-4 right-4 z-[2] mx-auto flex max-w-4xl flex-wrap items-center gap-x-3 gap-y-2 rounded-2xl border border-[#ff6b8a]/20 bg-[#17131d]/75 px-4 py-3 shadow-lg shadow-black/10 backdrop-blur-md sm:top-6 sm:px-5"
+      >
+        <span className="shrink-0 rounded-full border border-[#ff6b8a]/25 bg-[#ff6b8a]/10 px-2.5 py-1 text-[11px] tracking-widest text-[#ff9aaf]">
+          站务公告
+        </span>
+        <p className="min-w-0 flex-1 text-sm leading-relaxed text-gray-200">
+          站主这几天很懒，刚想起来自己还有这个东西，遂更新
+        </p>
+        <time dateTime="2026-09-27" className="shrink-0 text-xs tracking-wide text-gray-500">
+          2026年9月27日
+        </time>
+      </aside>
+
       {/* 主内容 */}
       <div className="relative z-[1] flex flex-col items-center">
         {/* 日式标题 */}
