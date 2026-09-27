@@ -3,113 +3,179 @@ import { createClient } from '@supabase/supabase-js'
 const supabase = createClient(process.env.SUPABASE_URL, process.env.SUPABASE_SECRET_KEY)
 const api = 'https://graphql.anilist.co'
 
+// Fifteen titles not present in the current catalog, selected across mystery,
+// science fiction, historical drama, comedy, fantasy, and crime.
 const groups = [
-  { id: 98707, title: '宝石之国', themes: ['奇幻', '宝石生命', '战斗'], names: { 123385: '磷叶石', 123384: '辰砂', 123393: '翡翠', 123386: '亚历山大石', 124307: '南极石' } },
-  { id: 128547, title: '奇巧计程车', themes: ['悬疑', '群像剧', '都市'], names: { 204522: '小户川宏', 204530: '大门兄', 204540: '道布', 204554: '花音', 204523: '白川美保' } },
-  { id: 109298, title: '别对映像研出手！', themes: ['校园', '动画制作', '日常'], names: { 149677: '金森沙耶加', 149676: '浅草绿', 149678: '水崎燕', 159998: '关', 159999: '小林' } },
-  { id: 110349, title: '大欺诈师', themes: ['犯罪', '欺诈', '冒险'], names: { 158447: '枝村真人', 158448: '罗兰·蒂埃里', 158450: '阿比盖尔·琼斯', 158449: '辛西娅·摩尔', 173777: '安德森' } },
-  { id: 128546, title: 'Vivy -氟化物之眼之歌-', themes: ['科幻', '人工智能', '音乐'], names: { 209902: '松本', 209903: '薇薇', 216426: '纳比', 220599: 'M-00205', 216427: '档案' } },
-  { id: 124845, title: '奇蛋物语', themes: ['奇幻', '心理', '校园'], names: { 199890: '川井莉香', 199892: '大户爱', 199893: '青沼宁瑠', 199891: '泽木桃惠', 204143: '西城久留美' } },
-  { id: 20574, title: '高分少女', themes: ['校园', '恋爱', '街机游戏'], names: { 126962: '大野晶', 127767: '矢口春雄', 127808: '日高小春', 132443: '爷爷', 132445: '大野真' } },
-  { id: 98385, title: '恋如雨止', themes: ['恋爱', '校园', '日常'], names: { 122212: '橘晶', 122213: '近藤正己', 130559: '久保佳代子', 130558: '喜屋武遥', 130556: '加濑亮介' } },
-  { id: 97922, title: '犬屋敷', themes: ['科幻', '超能力', '社会'], names: { 123581: '狮子神皓', 123583: '犬屋敷壹郎', 123579: '犬屋敷麻理', 185884: '犬屋敷万理江', 247022: '织田的父亲' } },
-  { id: 98505, title: '公主准则', themes: ['谍战', '蒸汽朋克', '少女'], names: { 122800: '安洁', 122801: '比阿特丽斯', 122802: '藤堂千世', 122803: '多萝西', 122804: '公主' } },
-  { id: 21838, title: '终末的伊泽塔', themes: ['战争', '魔法', '架空历史'], names: { 90188: '伊泽塔', 90189: '菲涅', 120713: '汉斯·奥贝尔迈耶', 123287: '索菲', 120714: '格尔茨' } },
-  { id: 21261, title: '阿松', themes: ['喜剧', '日常', '六胞胎'], names: { 89279: '松野十四松', 89280: '松野一松', 89281: '松野十松', 89282: '松野轻松', 89283: '松野空松' } },
-  { id: 110350, title: '异度侵入', themes: ['悬疑', '科幻', '心理'], names: { 143399: '鸣瓢秋人', 145224: '百贵船太郎', 154397: '富久田保津', 145228: '本堂町小春', 145226: '东乡纱利奈' } },
-  { id: 101261, title: '皿三昧', themes: ['奇幻', '青春', '超自然'], names: { 132230: '矢逆一稀', 132231: '阵内燕太', 132232: '久慈悠', 140276: '矢逆春河', 140668: '阵内音宁' } },
-  { id: 100077, title: '黑社会的超能力女儿', themes: ['喜剧', '超能力', '日常'], names: { 89228: '雏', 89229: '新田义史', 137165: '安先生', 154172: '相泽早苗', 166375: '吉田' } },
+  { id: 19, title: '怪物', themes: ['悬疑', '心理', '犯罪'], characters: [
+    { id: 718, name: '天马贤三', aliases: ['天马医生', 'Kenzou Tenma'], traits: ['日本脑外科医生', '杜塞尔多夫医院', '医术高超', '坚持救治病人', '温和克制', '追查连环命案', '背负道德责任'], description: '天马贤三是任职于杜塞尔多夫艾斯勒纪念医院的日本脑神经外科医生，医术出众并坚持病患平等原则。一次违背院方指示救治男孩约翰后，他失去事业前途，却在多年后发现患者与一连串离奇命案有关。天马为弥补过去作出的选择而追查真相，也在逃亡中不断面对医者伦理与罪责问题。' },
+    { id: 719, name: '约翰·李贝尔特', aliases: ['Johan Liebert', '约翰', '怪物'], traits: ['金发', '双胞胎', '高智商', '擅长操纵人心', '身份成谜', '连环杀手', '冷静优雅', '天马的病患'], description: '约翰·李贝尔特是天马曾经救治的少年，外表温文尔雅，内心却隐藏着极端冷酷的意志。他善于洞察并操纵他人的恐惧，能够让身边的人走向暴力与毁灭；其身世与童年实验逐步牵出故事核心。约翰与双胞胎妹妹安娜拥有难以割舍的过去，也是天马不断追寻的关键人物。' },
+    { id: 720, name: '安娜·李贝尔特', aliases: ['妮娜·弗度纳', 'Anna Liebert', 'Anna'], traits: ['棕发', '约翰的双胞胎妹妹', '大学生', '枪术训练', '善良坚韧', '失去童年记忆', '改名生活', '追查身世'], description: '安娜·李贝尔特是约翰的双胞胎妹妹，后来以妮娜·弗度纳的名字在海德堡生活并进入大学。她温和善良，努力摆脱童年创伤，却不断被哥哥的行踪和过去牵回危险之中。安娜曾接受射击训练，也逐渐恢复被抹去的记忆；她一面保护身边的人，一面试图理解约翰为何变成如今的模样。' },
+    { id: 721, name: '鲁恩格', aliases: ['海因里希·伦格', 'Heinrich Lunge', '伦格警部'], voiceActorName: '磯部勉', traits: ['德国刑警', '联邦刑事警察局', '擅长侧写', '记忆力惊人', '调查天马', '纪律严谨', '执着追踪', '冷面作风'], description: '鲁恩格是德国联邦刑事警察局的资深刑警，以惊人的记忆力和严密推理能力闻名。他起初认定天马是连续命案的幕后凶手，长期追踪对方的足迹；调查越深入，他越需要重新审视最初的判断。鲁恩格习惯把情绪压在工作之下，办案方式冷静而固执，也逐渐直面自己对家庭与职责的疏离。' },
+    { id: 6123, name: '艾娃·海涅曼', aliases: ['Eva Heinemann', '海涅曼教授之女', '艾娃'], traits: ['金发', '医生之女', '上流社会出身', '与天马订婚', '感情执拗', '酗酒问题', '孤独敏感', '关键证人'], description: '艾娃·海涅曼是医院院长海涅曼的女儿，曾与天马订婚，熟悉医院权力关系和医生群体。父亲去世、婚约破裂后，她陷入酗酒与孤独之中，常以尖刻态度掩饰受伤的自尊。艾娃掌握着约翰事件的重要线索，在寻找安全感和报复心之间摇摆，也逐渐显露出脆弱与求助的一面。' },
+  ] },
+  { id: 5630, title: '东之伊甸', themes: ['科幻', '悬疑', '社会'], characters: [
+    { id: 19930, name: '泷泽朗', aliases: ['Akira Takizawa', '泷泽', 'Takizawa'], traits: ['失忆青年', '手机持有者', 'Seleção候选人', '持有巨额电子货币', '行动力强', '性格开朗', '曾在白宫前醒来', '改变日本计划'], description: '泷泽朗是在华盛顿白宫前失去记忆的青年，醒来时手持一部能调动巨额资金的特殊手机，身边还放着一把枪。他回到日本后结识森美咲，并发现自己是被卷入拯救日本计划的Seleção之一。泷泽外向机敏、善于即兴应对，却无法确定自己的过去，必须在有限资金与时间中寻找选择的代价。' },
+    { id: 19931, name: '森美咲', aliases: ['Saki Morimi', '美咲', 'Morimi'], traits: ['大学生', '前往美国旅行', '性格温和', '独立坚强', '泷泽的伙伴', '关心日本未来', '寻找工作', '现实主义者'], description: '森美咲是前往美国旅行的日本大学生，在华盛顿遇见失忆的泷泽朗后，陪他返回东京寻找线索。她性格温和却有主见，既关心身边人的安危，也对毕业后的道路感到迷茫。美咲逐渐参与到手机持有者之间的神秘计划中，并用普通人的视角追问拯救国家究竟意味着什么。' },
+    { id: 21270, name: '大杉智', aliases: ['Satoshi Ohsugi', '大杉', 'Ohsugi'], traits: ['大学生', '美咲的同学', '暗恋美咲', '细心谨慎', '担心泷泽', '普通青年', '参与寻找线索', '现实视角'], description: '大杉智是美咲的大学同学，对她怀有好感，也担心突然出现的泷泽会给她带来危险。他并非掌握特殊资源的英雄，只是试图在混乱事件中保护朋友的普通青年。大杉的嫉妒和不安使他做出过仓促判断，但他仍愿意调查线索、帮助美咲，也让作品呈现年轻人在未知危机前的真实反应。' },
+    { id: 21271, name: '平泽一臣', aliases: ['Kazuomi Hirasawa', '平泽', 'Hirasawa'], traits: ['大学毕业生', '东之伊甸成员', '计算机高手', '策划能力强', '经营网络项目', '理性务实', '美咲的伙伴', '社会观察者'], description: '平泽一臣是东之伊甸网络社团的核心成员，擅长计算机技术和统筹策划，常负责把团队的想法变成可执行的方案。他和美咲等人尝试通过网络与青年行动影响社会，同时对大规模计划保持警惕。平泽务实冷静，重视证据和资源分配，在伙伴的理想与现实限制之间努力寻找可行路径。' },
+    { id: 21272, name: '葛原未来', aliases: ['Mikuru Katsuhara', '葛原', 'Mikuru'], traits: ['东之伊甸成员', '网络社团伙伴', '行动积极', '善于沟通', '关注青年处境', '愿意协助美咲', '参与社会计划', '团队协调者'], description: '葛原未来是东之伊甸网络社团的成员，与美咲和平泽等人共同参与改善社会的行动。她善于和伙伴沟通，面对突发状况时愿意投入实际工作，也关注年轻人被就业和社会压力困住的处境。葛原在团队中负责联络与协助，把抽象的理想落实到一次次具体行动里。' },
+  ] },
+  { id: 12031, title: '王者天下', themes: ['历史', '战争', '成长'], characters: [
+    { id: 64109, name: '嬴政', aliases: ['Zheng Ying', '秦王政', '始皇帝'], traits: ['秦国国王', '战国时代', '志在统一天下', '政治家', '冷静果决', '经历宫廷政变', '李信的盟友', '胸怀远志'], description: '嬴政是战国末期秦国的年轻国王，幼年曾在赵国为质，回国后又遭遇成蟜发动的宫廷叛乱。他沉着克制，目标是结束诸侯混战、建立统一天下的秩序，因此需要在朝堂谋略与战场局势之间作出抉择。嬴政与李信结成重要同盟，彼此的理想共同推动秦国走向变革。' },
+    { id: 64573, name: '李信', aliases: ['Xin Li', '信', '李信'], traits: ['秦国步兵', '战争孤儿', '与漂结拜', '目标成为大将军', '擅长突击', '成长型武将', '嬴政的盟友', '勇敢热血'], description: '李信出身贫寒，是在战争中失去家人的少年，与好友漂一同立志成为秦国大将军。他性格直率、勇敢冲动，凭借敏锐战场直觉和惊人胆量从步兵队伍中崭露头角。漂去世后，信接受嬴政的委托卷入权力斗争，并在一次次战役中学会统率同伴、承担胜败责任。' },
+    { id: 65407, name: '河了貂', aliases: ['Liao Diao He', '貂', '河了貂'], traits: ['山民族少女', '戴鸟头面具', '擅长谋划', '秦军参谋', '与李信同行', '机敏细心', '重视伙伴', '熟悉战场情报'], description: '河了貂是来自山民族的少女，初登场时戴着鸟头面具，以聪明机敏和谨慎判断帮助李信与漂完成任务。她后来进入秦军体系，逐渐成为信的重要参谋，负责分析情势并协助部队制定战术。河了貂看似柔弱，实则意志坚强，既珍惜与信建立的伙伴关系，也不断磨练自己的军事能力。' },
+    { id: 65445, name: '羌瘣', aliases: ['Lei Qiang', '羌瘣', '蚩尤候补'], traits: ['女剑士', '蚩尤一族', '使用巫舞剑术', '身法迅捷', '复仇之旅', '秦军千人将', '冷静寡言', '李信的战友'], description: '羌瘣是拥有高超剑术的年轻女将，出身以刺杀训练闻名的蚩尤一族。她为替姐姐复仇而踏上旅途，后来加入李信的队伍，在战场上凭借迅捷身法和独特巫舞发挥巨大作用。羌瘣平日寡言冷静，习惯独自承担风险，却逐渐将伙伴视为可以并肩前行的家人。' },
+    { id: 65399, name: '昌文君', aliases: ['Chang Wen Jun', '昌文君', '秦国重臣'], traits: ['秦国大臣', '忠于嬴政', '王宫政治人物', '支持平定叛乱', '熟悉朝局', '沉稳谨慎', '王族阵营', '政变幸存者'], description: '昌文君是秦国重臣，长期支持嬴政恢复王权，在成蟜叛乱期间承担护卫与联络职责。他熟悉宫廷政治，处事谨慎而忠诚，能够在危急时刻协助嬴政组织反击。昌文君不像前线武将那样直接冲锋，却凭借对朝局的理解为秦王稳固政权，是早期故事中连接政治斗争与战争行动的重要人物。' },
+  ] },
+  { id: 4722, title: '华丽的挑战', themes: ['演艺', '成长', '恋爱'], characters: [
+    { id: 4158, name: '最上恭子', aliases: ['Kyouko Mogami', '恭子', 'Kyoko'], traits: ['长发少女', '加入演艺圈', '料理能手', '坚韧勤奋', '擅长变换角色', '曾被青梅竹马利用', '情绪表现力强', '追求独立'], description: '最上恭子曾为了青梅竹马不破尚放弃学业与兴趣，陪他到东京追求歌手事业，却意外听见自己只是被当作免费帮手。愤怒之后，她进入演艺圈，凭借惊人的毅力、细腻观察和丰富情感逐步寻找自己的舞台。恭子外表温顺，内心好胜又有创造力，在工作中不断学习如何把伤痛转化为表演力量。' },
+    { id: 4335, name: '敦贺莲', aliases: ['Ren Tsuruga', '莲', '莲大人'], traits: ['当红男演员', '艺名敦贺莲', '演技精湛', '外表温和', '工作自律', '欣赏恭子', '隐藏真实身份', '擅长角色塑造'], description: '敦贺莲是演艺圈备受欢迎的男演员，以亲切稳重的公众形象和扎实演技闻名。他对工作要求严格，善于深入理解角色，也敏锐察觉恭子的表演潜力。莲平时温和有礼，面对感情却显得克制；随着两人合作加深，他逐渐面对被自己隐藏的过去，以及演员身份与真实自我的差距。' },
+    { id: 10646, name: '不破尚', aliases: ['Shoutarou Fuwa', '尚', 'Sho Fuwa'], traits: ['流行歌手', '恭子的青梅竹马', '自我中心', '追求名气', '擅长舞台表演', '竞争心强', '演艺圈新人', '促使恭子成长'], description: '不破尚是恭子的青梅竹马，离开家乡到东京成为流行歌手。他外表英俊、重视人气与舞台表现，却曾把恭子的付出当成理所当然，导致两人关系破裂。尚习惯用自信和锋芒掩饰不安，在与恭子重逢后不断受到刺激，也被迫重新审视自己对成功、感情和同行竞争的看法。' },
+    { id: 11848, name: '社幸一', aliases: ['Yukihito Yashiro', '幸一', '莲的经纪人'], traits: ['敦贺莲的经纪人', '熟悉演艺行业', '观察敏锐', '擅长协调工作', '关心艺人', '说话幽默', '保护莲的隐私', '事务能力强'], description: '社幸一是敦贺莲的经纪人，负责安排拍摄、宣传与工作协商，对演艺行业的运作十分熟悉。他观察敏锐，能够发现莲的情绪变化，也会用幽默方式提醒对方别把所有事情都压在心里。社在艺人和事务所之间承担协调责任，既尊重莲的职业选择，也尽力维护他的私人界限。' },
+    { id: 14649, name: '饭冢宽子', aliases: ['Hiroko Iizuka', '宽子', 'Iizuka'], traits: ['演艺事务所工作人员', '参与演员工作安排', '了解行业规则', '办事干练', '沟通协调', '重视职业态度', '观察演员表现', '支持新人发展'], description: '饭冢宽子是演艺事务所的工作人员，负责演员相关事务与现场协调，熟悉试镜、通告和剧组运作的实际要求。她做事干练，重视专业态度，也会根据演员表现给出明确意见。随着恭子逐渐进入行业，宽子所在的工作环境让新人得以看见表演之外的竞争、准备和团队协作。' },
+  ] },
+  { id: 101316, title: '来自多彩世界的明天', themes: ['奇幻', '校园', '成长'], characters: [
+    { id: 128075, name: '月白瞳美', aliases: ['Hitomi Tsukishiro', '瞳美', 'Hitomi'], traits: ['魔法师家族后裔', '来自未来', '色觉缺失', '性格内向', '高中生', '学习摄影', '使用时间魔法', '寻找情感联结'], description: '月白瞳美来自魔法逐渐衰退的未来，是月白家族的后代，却失去了辨认色彩的能力，因而常与世界保持距离。祖母琥珀将她送回六十年前，希望她重新找回感受生活的方式。瞳美进入高中美术部，接触葵唯翔及伙伴们后，通过绘画、摄影和友情逐步打开内心，也重新理解魔法与情感的关系。' },
+    { id: 128077, name: '月白琥珀', aliases: ['Kohaku Tsukishiro', '琥珀', 'Kohaku'], traits: ['月白家魔法师', '瞳美的祖母', '擅长时间魔法', '活泼直率', '海外留学归来', '高中生时期', '重视家人', '行动力强'], description: '月白琥珀是月白家族的魔法师，也是瞳美的祖母。年轻时的她从海外留学归来，性格活泼直率，对魔法研究充满热情；她发现孙女无法感受色彩后，决定将瞳美送回自己的高中时代。琥珀相信伙伴与经历能够改变一个人，因此积极推动瞳美融入同学，也在学习控制力量的过程中不断成长。' },
+    { id: 128080, name: '葵唯翔', aliases: ['Yuito Aoi', '唯翔', 'Aoi'], traits: ['高中生', '美术部成员', '擅长绘画', '性格安静', '创作瓶颈', '对瞳美重要', '观察细致', '重视作品表达'], description: '葵唯翔是高中美术部成员，擅长绘画，却一度因创作瓶颈而无法完成自己满意的作品。他性格安静，常把真实想法藏在画作和沉默之后；瞳美穿越到他的时代后，两人因艺术与日常相处逐渐靠近。唯翔帮助瞳美重新观察色彩，也在她的影响下寻找继续创作的理由。' },
+    { id: 128076, name: '深泽千草', aliases: ['Chigusa Fukazawa', '千草', 'Fukazawa'], traits: ['高中生', '月白琥珀的同班同学', '运动健将', '开朗外向', '行动果断', '重视友情', '美术部伙伴', '擅长带动气氛'], description: '深泽千草是琥珀同学中的活跃成员，性格开朗、行动力强，常主动把伙伴们聚在一起。他在校园活动与美术部相关的相处中展现出运动能力和爽快作风，也愿意支持朋友的决定。千草并非擅长表达细腻情绪的人，但他能用实际行动缓和团队气氛，帮助瞳美逐渐适应新的时代与人际关系。' },
+    { id: 128078, name: '风野浅葱', aliases: ['Asagi Kazano', '浅葱', 'Kazano'], traits: ['高中女生', '月白琥珀的朋友', '摄影爱好者', '性格温柔', '细心体贴', '擅长观察', '美术部成员', '默默支持伙伴'], description: '风野浅葱是琥珀与瞳美的同学，喜欢摄影，习惯通过镜头记录身边人的日常。她性格温柔细心，观察力敏锐，能够注意到朋友没有说出口的情绪，也愿意默默提供帮助。浅葱在美术部的相处中与瞳美建立友谊，让她逐渐不再独自封闭自己，并以影像分享对世界的感受。' },
+  ] },
+  { id: 7647, title: '荒川爆笑团', themes: ['喜剧', '日常', '群像'], characters: [
+    { id: 28622, name: '市之宫行', aliases: ['Kou Ichinomiya', '小行', 'Recruit'], traits: ['大企业继承人', '精英教育出身', '不习惯欠人情', '荒川居民', '利根川水里命名', '努力适应生活', '内心敏感', '与妮诺交往'], description: '市之宫行出身名门企业家庭，从小遵守绝不欠人情的家训，习惯依靠自己解决一切。一次落水事件后，他被妮诺救起，只好搬到荒川河岸并接受新的生活方式，获得“Recruit”的称号。行起初看重身份和规则，随后在与古怪居民相处中学会放下执念，也逐渐理解人与人之间互相依靠的意义。' },
+    { id: 28623, name: '妮诺', aliases: ['Nino', '小妮诺', '金星人'], traits: ['荒川河岸居民', '自称金星人', '金发', '游泳高手', '性格单纯', '喜欢鱼', '市之宫行的恋人', '生活节奏随性'], description: '妮诺是住在荒川河岸的神秘少女，自称来自金星，平时穿着运动服并喜欢游泳和钓鱼。她思考方式直接单纯，不太受世俗规则影响，却会认真回应自己在意的人。妮诺救下市之宫行后，两人开始共同生活；她与河岸居民之间建立了独特的日常，也让行逐渐习惯不靠金钱衡量关系。' },
+    { id: 30444, name: '星', aliases: ['Hoshi', '河星', '星先生'], traits: ['荒川居民', '戴星形面具', '前音乐人', '自称人气歌手', '擅长吉他', '竞争心强', '喜欢妮诺', '嘴硬心软'], description: '星是荒川河岸的居民之一，头戴巨大的星形面具，自称曾经是人气音乐人。他擅长弹吉他，性格好胜又爱逞强，常把自己与Recruit放在竞争关系中，尤其在意妮诺的看法。星的夸张言行构成河岸生活的喜剧部分，但在关键时刻也会照顾伙伴，显露出不愿承认的善意。' },
+    { id: 30628, name: '玛利亚', aliases: ['Maria', '玛丽亚', '荒川牧场主'], traits: ['荒川居民', '经营农场', '金发女子', '战斗力强', '说话毒舌', '头脑灵活', '擅长经营', '以言语捉弄修女'], description: '玛利亚是荒川附近农场的经营者，外表优雅，言语却十分犀利，尤其喜欢用刻薄玩笑捉弄别人。她不仅精于经营，也拥有出乎意料的强悍身手，因此河岸居民很少敢轻视她。玛利亚与修女之间常有针锋相对的互动，冷酷表面下却保持着清醒判断和照看农场伙伴的责任感。' },
+    { id: 30648, name: '村长', aliases: ['Village Chief', '河童村长', '村长先生'], traits: ['荒川居民首领', '穿河童装', '命名新居民', '规则制定者', '行为古怪', '擅长即兴发言', '维护河岸秩序', '秘密身份成谜'], description: '村长是荒川河岸居民推举出的首领，平时穿着绿色河童服装，负责介绍新住民并制定社区规则。他行事古怪、爱讲无厘头的话题，却熟悉每个居民的特点，也会在冲突时维持河岸秩序。村长的真实身份始终带着神秘感，他与Recruit的互动不断打破精英社会的常规逻辑。' },
+  ] },
+  { id: 103874, title: '同居人是猫', themes: ['日常', '治愈', '成长'], characters: [
+    { id: 127136, name: '三日月素晴', aliases: ['Subaru Mikazuki', '素晴', '三日月'], traits: ['推理小说作家', '内向', '独居青年', '不善社交', '收养流浪猫', '容易沉浸写作', '逐渐学会照顾他人', '观察细致'], description: '三日月素晴是性格内向的推理小说作家，习惯独自生活并长时间沉浸在写作中。父母意外离世后，他在墓前遇见流浪猫小春，决定把她带回家。照顾猫咪的过程打乱了素晴原有的生活节奏，也让他逐步学会理解他人的需求、与邻居交流，并从不同视角重新认识自己。' },
+    { id: 127137, name: '小春', aliases: ['Haru', '春', '小猫'], traits: ['三花猫', '流浪猫', '被素晴收养', '警惕心强', '保护幼猫', '独立敏捷', '喜欢食物', '以猫的视角叙事'], description: '小春是一只曾在街头流浪的猫，因保护年幼猫咪而四处寻找食物，后来被素晴带回家。她对新环境保持警惕，最初常以自己的方式理解人类的举动，却逐渐把素晴视作可靠的家人。小春的故事从猫咪视角展现同居生活，她的陪伴让素晴不再孤立，也让自己得到安稳的居所。' },
+    { id: 134773, name: '河濑笃', aliases: ['Atsushi Kawase', '河濑', 'Atsushi'], traits: ['宠物医院兽医', '熟悉猫咪照护', '素晴的邻居', '耐心温和', '提供养猫建议', '照顾动物', '实际可靠', '支持新手饲主'], description: '河濑笃是宠物医院的兽医，也是素晴在养猫过程中求助的重要对象。他耐心说明猫咪的健康、饮食和日常照护方法，帮助缺乏经验的素晴避免因误解而伤害小春。河濑做事务实温和，既关心动物，也尊重饲主逐步学习的过程，是素晴和小春建立稳定生活的一位可靠协助者。' },
+    { id: 134774, name: '矢坂大翔', aliases: ['Hiroto Yasaka', '大翔', 'Yasaka'], traits: ['素晴的朋友', '性格外向', '经常上门探望', '擅长沟通', '关心素晴生活', '接受小春存在', '乐于帮忙', '拉近邻里关系'], description: '矢坂大翔是素晴的朋友，性格比素晴外向许多，常主动上门探望并把对方拉回日常生活。他能够自然地和小春相处，也会在素晴忙于写作或不擅求助时提供实际帮助。大翔的直率与热心成为素晴重新建立社交关系的桥梁，让他慢慢接受有人陪伴、互相照看的生活方式。' },
+    { id: 134775, name: '押守奈奈', aliases: ['Nana Oukami', '奈奈', 'Nana'], traits: ['宠物店工作人员', '熟悉猫用品', '温柔亲切', '帮助素晴准备饲养用品', '了解动物习性', '细心周到', '关心小春', '支持领养'], description: '押守奈奈在宠物相关工作中接触各种动物与饲主，熟悉猫咪用品和基础照护知识。素晴刚开始照顾小春时，她会耐心帮忙挑选合适的用品，并提醒他留意猫咪的情绪和健康。奈奈待人温和、做事细心，鼓励以负责任的态度收养动物，也让素晴在手足无措时得到具体支持。' },
+  ] },
+  { id: 9863, title: '学园救援团', themes: ['校园', '喜剧', '社团'], characters: [
+    { id: 17244, name: '藤崎佑助', aliases: ['Yuusuke Fujisaki', 'Bossun', '佑助'], traits: ['高中生', 'SKET团团长', '擅长解决委托', '射击游戏高手', '戴护目镜', '观察力强', '热心助人', '与椿是双胞胎兄弟'], description: '藤崎佑助是开设在高中校园里的SKET团团长，和姬子、Switch一起接受同学委托，解决各种大小麻烦。他平时爱搞笑、反应夸张，却拥有敏锐观察力和关键时刻的行动力，戴上护目镜后尤其擅长集中精神。佑助重视伙伴，遇到复杂委托时常靠倾听与临场发挥找到突破口。' },
+    { id: 17245, name: '鬼冢一爱', aliases: ['Hime Onizuka', '姬子', 'Himeko'], traits: ['高中女生', 'SKET团成员', '前不良少女', '大阪腔', '曲棍球高手', '使用球棍', '喜欢甜食', '保护同伴'], description: '鬼冢一爱是SKET团成员，曾以“鬼姬”之名活跃于不良少女圈，后来放下过去加入校园助人社团。她擅长曲棍球，常带着球棍解决突发状况，性格直率强势却十分照顾伙伴。姬子喜欢甜食，说话带有关西腔；她逐渐学会把力量用来保护同学，也在友情中面对曾经的伤痛。' },
+    { id: 17246, name: '笛吹和义', aliases: ['Kazuyoshi Usui', 'Switch', '开关'], traits: ['高中生', 'SKET团成员', '电脑高手', '戴眼镜', '通过语音软件说话', '情报搜集', '宅文化爱好者', '思维冷静'], description: '笛吹和义是SKET团的技术担当，擅长使用电脑、搜集资料和分析委托背后的线索。他戴着眼镜，平时通过语音合成软件与人交流，言辞冷静，偶尔也会用网络梗吐槽伙伴。Switch看似对人际关系保持距离，实际上十分在意社团成员，并以自己的方式帮助他们解决难题。' },
+    { id: 19462, name: '椿佐介', aliases: ['Sasuke Tsubaki', '椿', 'Tsubaki'], traits: ['高中生', '学生会副会长', '纪律委员', '认真严谨', '正义感强', '擅长管理', '与佑助是双胞胎兄弟', '和SKET团竞争'], description: '椿佐介是学校学生会副会长，做事认真严谨，重视纪律与校园秩序，经常与SKET团因处理方式不同而发生争执。他拥有强烈正义感，愿意亲自处理同学问题，也逐渐学会在规则之外理解具体的人。椿与佑助实际是双胞胎兄弟，两人从对立到互相支持的关系构成故事的重要线索。' },
+    { id: 19463, name: '安形惣司郎', aliases: ['Soujirou Agata', '安形会长', 'Agata'], traits: ['高中生', '学生会会长', '头脑灵活', '擅长出难题', '运动能力强', '悠闲随性', '信任椿佐介', '领导学生会'], description: '安形惣司郎是校园学生会会长，头脑灵活、运动能力出色，却常用随性态度掩饰自己的认真。他喜欢给椿佐介安排考验，借此观察副会长的判断与责任感；面对学校事务时，安形也会在轻松作风下迅速作出可靠决定。作为学生会领袖，他与SKET团之间既有竞争，也有相互认可。' },
+  ] },
+  { id: 820, title: '银河英雄传说', themes: ['科幻', '战争', '政治'], characters: [
+    { id: 2780, name: '杨威利', aliases: ['Wenli Yang', '杨提督', '杨文里'], traits: ['自由行星同盟军人', '历史学爱好者', '擅长防守战', '不热衷权力', '外号魔术师杨', '冷静分析', '珍视民主制度', '统率第十三舰队'], description: '杨威利是自由行星同盟的军事指挥官，原本希望成为历史学家，却因战争走上军旅道路。他擅长以有限兵力设计防守和反击战术，因此被称为“魔术师杨”，本人却厌恶战争与政治权力。杨珍视民主制度，也清楚制度的缺陷，在与莱因哈特的对抗中不断思考个人、国家与历史的关系。' },
+    { id: 3066, name: '莱因哈特·冯·罗严克拉姆', aliases: ['Reinhard von Lohengramm', '莱因哈特', '金发小子'], traits: ['银河帝国元帅', '出身贵族体系', '金发蓝眼', '军事天才', '追求宇宙统一', '改革帝国政治', '重视吉尔菲艾斯', '野心坚定'], description: '莱因哈特·冯·罗严克拉姆出身帝国贵族体系，凭借卓越的军事才能迅速崛起，并以统一银河、革除腐败贵族为目标。他拥有强烈野心和果断行动力，能够鼓舞部下，也会在权力增长后面对统治者的孤独。吉尔菲艾斯是他最亲密的伙伴，杨威利则成为他最重视的对手，两人的较量推动银河格局改变。' },
+    { id: 3869, name: '达斯提·亚典波罗', aliases: ['Dusty Attenborough', '亚典波罗', '达斯提'], traits: ['自由行星同盟军人', '杨威利的部下', '舰队司令', '擅长游击作战', '幽默乐观', '政治立场鲜明', '经验丰富', '重视战友'], description: '达斯提·亚典波罗是自由行星同盟军的舰队指挥官，长期追随杨威利并参与多场艰难战役。他作战经验丰富，擅长灵活调动兵力，也以幽默乐观的态度缓和军中压力。亚典波罗对民主理念有坚定信念，能够在高层政治摇摆时保持判断，并始终将战友的生命放在重要位置。' },
+    { id: 5897, name: '瓦尔特·冯·先寇布', aliases: ['Walter von Schönkopf', '先寇布', '蔷薇骑士团团长'], traits: ['帝国流亡者后裔', '蔷薇骑士团指挥官', '自由行星同盟军人', '近战专家', '豪爽直率', '善于带兵', '重视荣誉', '杨威利的部下'], description: '瓦尔特·冯·先寇布出身帝国流亡者家庭，是自由行星同盟军蔷薇骑士团的指挥官，以近战能力和强悍领导作风著称。他说话直率豪爽，既能带队执行高风险突击，也会用玩笑缓和紧张气氛。先寇布尊重杨威利的指挥判断，在帝国与同盟的长期战争中始终维护部下的荣誉与安全。' },
+    { id: 6026, name: '奥斯卡·冯·罗严塔尔', aliases: ['Oskar von Reuenthal', '罗严塔尔', '异色瞳将领'], traits: ['银河帝国将领', '双眼异色', '冷静敏锐', '擅长舰队指挥', '罗严克拉姆麾下', '自尊心强', '与米达麦亚交好', '政治野心复杂'], description: '奥斯卡·冯·罗严塔尔是帝国军的重要将领，拥有敏锐洞察力和出色舰队指挥能力，双眼异色也成为其鲜明特征。他与米达麦亚并称帝国双璧，既忠于莱因哈特的事业，又对自身出身与权力位置怀有复杂感受。罗严塔尔沉稳克制、判断精准，最终在忠诚、野心和个人尊严之间走向难以回头的抉择。' },
+  ] },
+  { id: 105228, title: '异兽魔都', themes: ['黑暗奇幻', '动作', '魔法'], characters: [
+    { id: 9192, name: '开曼', aliases: ['Kaiman', '蜥蜴头', 'カイマン'], traits: ['蜥蜴头男子', '记忆丧失', '魔法使用者受害者', '擅长近身搏斗', '喜欢饺子', '寻找真实身份', '与二阶堂搭档', '口中藏着神秘男子'], description: '开曼是被魔法变成蜥蜴头的男子，失去大部分记忆后住在洞穴城，靠追查魔法师寻找自己的身份。他身形强健、擅长近身战，常把魔法师的头塞进嘴里，让其中神秘男子判断对方是否是施术者。开曼性格直爽，尤其喜欢二阶堂做的饺子，与伙伴一起踏上荒诞又危险的真相调查。' },
+    { id: 16057, name: '二阶堂', aliases: ['Nikaido', '妮卡伊多', 'ニカイドウ'], traits: ['女性格斗家', '经营饺子店', '开曼的伙伴', '身手敏捷', '擅长厨艺', '拥有魔法', '隐瞒身世', '胆大果断'], description: '二阶堂是洞穴城饺子店“空腹虫”的经营者，也是开曼追查身世时最可靠的伙伴。她身手敏捷，能够在混乱战斗中保护自己和朋友，平日则专注于制作饺子并维持店铺生意。二阶堂隐藏着与魔法有关的过去，不愿让力量决定自己的人生；她与开曼之间的信任在一次次危险中不断加深。' },
+    { id: 16058, name: '心', aliases: ['Shin', 'シン', '烟的搭档'], traits: ['魔法师', '烟家族成员', '戴面具', '使用锤子', '身体强化魔法', '行动冷静', '与能井搭档', '对同伴忠诚'], description: '心是烟家族的魔法师，常戴面具并使用巨大的锤子作战，能够以魔法强化身体并将对手切割成块。他行事冷静，执行任务时效率极高，与能井组成默契搭档；在残酷的魔法师世界里，他对伙伴保有少见的忠诚。心的过去与人类身份经历，也让他面对敌人时呈现出不同于单纯暴力的一面。' },
+    { id: 16059, name: '能井', aliases: ['Noi', 'ノイ', '心的搭档'], traits: ['魔法师', '烟家族成员', '身材高大', '恢复魔法', '擅长近身格斗', '活泼直爽', '戴面具', '与心并肩行动'], description: '能井是烟家族的强力魔法师，身材高大，拥有能够治愈重伤的恢复魔法，也擅长徒手格斗。她性格爽朗直接，常与搭档心一起执行危险任务，战斗时反应迅速，私下则显露出对朋友的亲近和关心。能井的治疗能力在充满暴力的世界中十分罕见，也使她成为队伍不可替代的支援者。' },
+    { id: 16060, name: '烟', aliases: ['En', 'えん', '烟家族首领'], traits: ['魔法师首领', '蘑菇魔法', '经营家族组织', '权势强大', '喜爱蘑菇', '重视部下', '作风奢华', '追查开曼'], description: '烟是魔法师世界里势力强大的家族首领，能够把目标变成蘑菇，并用这一能力扩张自己的影响。他性格自信讲究，喜欢蘑菇料理和奢华生活，对部下却有强烈的保护欲。烟派遣心和能井追查洞穴城的异常，也因此与开曼的调查发生交集；他在权力与私人情感之间有着复杂的一面。' },
+  ] },
+  { id: 20997, title: '夏洛特', themes: ['超能力', '校园', '青春'], characters: [
+    { id: 88950, name: '乙坂有宇', aliases: ['Yuu Otosaka', '有宇', '乙坂'], traits: ['星之海学园学生会成员', '能力是短暂附身', '曾利用能力作弊', '失去姐姐', '拥有多种异能', '保护弟弟妹妹', '性格逐渐成熟', '寻找异能者'], description: '乙坂有宇是星之海学园的学生，早期利用短暂附身能力作弊以进入名校，后来被友利奈绪揭穿并加入学生会。他起初自私懒散，姐姐步未遭遇意外后人生急转直下，逐渐承担起保护异能者的责任。有宇在寻找与收容能力者的过程中面对巨大失去，也必须学会控制自己不断增长的力量。' },
+    { id: 88951, name: '友利奈绪', aliases: ['Nao Tomori', '奈绪', '学生会长'], traits: ['星之海学园学生会长', '能力是隐身', '只对一人隐身', '摄像机爱好者', '观察力敏锐', '保护异能者', '行动果断', '喜欢摇滚乐'], description: '友利奈绪是星之海学园学生会长，拥有让自己对某一个目标隐身的能力。她利用摄像机收集异能者违规证据，并带领学生会寻找、保护拥有能力的学生。奈绪说话直接、做事果断，表面冷静强势，内心却背负着哥哥遭受实验的痛苦；她帮助有宇面对失去，也逐渐成为他最重要的伙伴。' },
+    { id: 88952, name: '高城丈士朗', aliases: ['Joujirou Takajou', '高城', '丈士朗'], traits: ['星之海学园学生会成员', '能力是高速移动', '无法自主刹车', '常戴护具', '热爱偶像', '忠于学生会', '行动力强', '有宇的同学'], description: '高城丈士朗是星之海学园学生会成员，拥有高速移动能力，却无法轻易控制停下的位置，因此常穿戴护具避免撞伤。他性格热情执着，尤其崇拜偶像团体ZHIEND的歌手，遇到任务时会毫不犹豫地冲在前面。高城在学生会中承担突入和追踪工作，也以夸张行动为团队带来轻松气氛。' },
+    { id: 88953, name: '西森柚咲', aliases: ['Yusa Kurobane', '柚咲', 'Yusa'], traits: ['偶像歌手', '星之海学园学生', '能力是灵媒附身', '舞台艺名柚咲', '温柔开朗', '与姐姐关系深厚', '学生会协力者', '能变身为美砂'], description: '西森柚咲是人气偶像歌手，同时就读星之海学园，拥有能被亡灵附身的灵媒体质。姐姐美砂附身时，她会显露出截然不同的性格与力量；柚咲本人则温柔开朗，努力兼顾校园生活、演艺工作和异能者保护行动。她珍视姐姐留下的联系，也在学生会伙伴的陪伴下逐渐找到自己的选择。' },
+    { id: 88955, name: '乙坂步未', aliases: ['Ayumi Otosaka', '步未', '妹妹'], traits: ['初中女生', '乙坂有宇的妹妹', '喜欢烤蛋包饭', '天真开朗', '能力是崩坏', '喜欢ZHIEND', '依赖哥哥', '与同学相处融洽'], description: '乙坂步未是有宇的妹妹，性格天真开朗，喜欢做饭并和同学分享自己的日常。她特别喜爱乐队ZHIEND，也常用活泼举动鼓励经历挫折的哥哥。有宇暂时失去照看能力后，步未的异能失控带来重大转折；她的安全与选择成为哥哥重新承担责任的重要原因。' },
+  ] },
+  { id: 20931, title: '死亡游行', themes: ['心理', '悬疑', '超自然'], characters: [
+    { id: 81853, name: '迪姆', aliases: ['Decim', '德基姆', '奎因酒吧裁决者'], traits: ['奎因德基姆酒吧经理', '死后世界裁决者', '白发', '冷静理性', '以游戏审判亡者', '观察人类情感', '人偶出身', '逐渐产生同理心'], description: '迪姆是死后世界酒吧“奎因德基姆”的经理，负责通过桌上游戏观察死者在极端情境中的本性，并据此作出裁决。他外表冷静、遵循规则，最初难以理解人类情绪；与黑发女子共同工作后，他开始重新思考审判是否应只依靠本能反应。迪姆逐渐展现同理心，也面对自己作为裁决者的职责边界。' },
+    { id: 82037, name: '黑发女子', aliases: ['Kurokami no Onna', '小黑', 'Chiyuki'], traits: ['死后世界来客', '失去生前记忆', '奎因德基姆助手', '观察亡者', '富有同情心', '质疑裁决制度', '擅长花样滑冰', '帮助迪姆理解人类'], description: '黑发女子在失去记忆的状态下来到奎因德基姆，协助迪姆观察每一批前来接受裁决的亡者。她比酒吧人偶更能感受到恐惧与悲伤，因此不断追问游戏中显露的行为能否代表一个人的全部。随着记忆逐步恢复，她发现自己也必须面对生前经历；她对人的理解改变了迪姆看待裁决的方式。' },
+    { id: 88681, name: '诺娜', aliases: ['Nona', '诺娜小姐', '裁决者主管'], traits: ['死后世界管理者', '负责裁决者', '与昆相识', '思维开放', '安排迪姆任务', '质疑既有制度', '观察人偶成长', '态度随和'], description: '诺娜是死后世界的管理者之一，负责监督裁决者和各间酒吧的运作。她与迪姆关系密切，安排黑发女子协助他，期待观察人偶在接触人类情感后会发生什么变化。诺娜看起来随和爱开玩笑，实际上对裁决体系抱有疑问，并通过实验和讨论推动管理层重新审视旧有规则。' },
+    { id: 88683, name: '金蒂', aliases: ['Ginti', 'ギンティ', '金蒂酒吧裁决者'], traits: ['死后世界裁决者', '负责酒吧维金蒂', '性格暴躁', '不信任人类', '使用游戏审判亡者', '与五月关系复杂', '判断直接', '反对迪姆的做法'], description: '金蒂是另一间酒吧“维金蒂”的裁决者，脾气暴躁，习惯以强硬方式逼迫亡者显露本性。他对人类抱有怀疑，认为人在生死压力下的反应足以作为裁决依据，因此常与迪姆和诺娜的观点发生冲突。金蒂的直率判断也受到自己过往经历影响，在与五月相处时显露出不愿承认的情感。' },
+    { id: 88780, name: '克拉维斯', aliases: ['Clavis', 'Clavis the elevator attendant', '电梯管理员'], traits: ['死后世界工作人员', '负责电梯运行', '负责灵魂转运', '态度轻松', '经常开玩笑', '熟悉裁决酒吧', '连接楼层区域', '与诺娜共事'], description: '克拉维斯是死后世界的工作人员，负责操作连接不同区域的电梯，将亡者送往相应酒吧。他性格轻松爱开玩笑，常以看似漫不经心的方式处理严肃的灵魂转运工作，也熟悉各位裁决者的日常。克拉维斯并不直接参与审判，却承担着让裁决流程顺利运作的重要职责。' },
+  ] },
+  { id: 5356, title: '迦南', themes: ['动作', '谍战', '悬疑'], characters: [
+    { id: 19713, name: '迦南', aliases: ['Canaan', 'カナン', '迦南'], traits: ['女佣兵', '视觉共感能力', '擅长枪械', '身手敏捷', '在上海活动', '与大泽玛利亚相识', '冷静沉着', '寻找真实自我'], description: '迦南是一名在上海活动的年轻女佣兵，拥有能感知颜色与情绪联系的特殊能力，能够据此辨认周围人的状态。她枪法精准、行动敏捷，长期追查恐怖组织蛇的动向，并与记者大泽玛利亚重逢。迦南表面冷静寡言，内心珍惜与玛利亚建立的友谊，也必须直面自己与阿尔法尔德之间纠缠的过去。' },
+    { id: 19714, name: '阿尔法尔德', aliases: ['Alphard Al Sheya', '阿尔法尔德·阿尔·舒亚', 'Alphard'], traits: ['恐怖组织蛇首领', '国际犯罪策划者', '枪械专家', '冷静强势', '与迦南敌对', '擅长伪装与潜入', '追求控制力', '身世与CIA有关'], description: '阿尔法尔德是恐怖组织“蛇”的首领，精于策划跨国行动，枪械与近身战能力都十分出众。她冷静强势，善于利用他人的恐惧和欲望达成目的，与迦南之间既是宿敌，也有难以割舍的师徒过往。阿尔法尔德的行动牵动上海恐袭事件，她对力量和自由的执念逐渐揭示了自身创伤。' },
+    { id: 19814, name: '梁琪', aliases: ['Liang Qi', 'リャン・チー', '梁琪'], traits: ['蛇组织成员', '阿尔法尔德的部下', '行动狂热', '擅长枪战', '情绪偏执', '崇拜阿尔法尔德', '负责组织执行', '危险而冲动'], description: '梁琪是恐怖组织“蛇”的核心成员，极度崇拜首领阿尔法尔德，愿意为她执行危险任务。她熟悉枪战与行动部署，情绪却十分偏执，容易把私人感情混入组织事务。梁琪对迦南抱有强烈敌意，在上海事件中不断推动冲突升级，她对忠诚的理解也暴露出控制与依附交织的心理。' },
+    { id: 20737, name: '哈柯', aliases: ['Hakkoh', 'ハッコー', '哈柯'], traits: ['蛇组织成员', '失语女子', '声音具有破坏性', '外表温柔', '与萨达克相识', '情绪敏感', '被组织利用', '命运悲剧'], description: '哈柯是“蛇”组织中的女性成员，外表温柔安静，却因特殊的发声能力而无法像常人一样说话，她的声音能够对他人造成严重伤害。她与萨达克有过重要交集，也因此被卷入组织的暴力行动。哈柯敏感而善良，常压抑真实情绪，她的遭遇让迦南和玛利亚重新思考能力、控制与救赎。' },
+    { id: 22672, name: '卡明斯', aliases: ['Cummings', 'カミングズ', '卡明斯'], traits: ['蛇组织成员', '阿尔法尔德的随从', '负责组织事务', '行动谨慎', '情绪克制', '熟悉地下行动', '忠于首领', '在混乱中执行命令'], description: '卡明斯是恐怖组织“蛇”的成员，长期追随阿尔法尔德，负责协助组织行动与处理各类事务。他行事谨慎、情绪克制，习惯服从命令并在混乱局势中维持执行效率。卡明斯并非冲在最前线的战士，却参与了上海事件背后的多项安排，也见证了阿尔法尔德与迦南之间逐渐失控的冲突。' },
+    { id: 151227, name: '羽鸟', aliases: ['Hatori', 'ハトリ', '羽鸟'], traits: ['蛇组织成员', '参与上海行动', '熟悉地下网络', '执行能力强', '服从阿尔法尔德', '谨慎观察', '处理情报', '身处恐袭阴谋'], description: '羽鸟是恐怖组织“蛇”的成员，参与围绕上海展开的秘密行动，熟悉组织的地下联络与情报网络。他做事谨慎，能够按照阿尔法尔德的安排执行任务，并在行动中观察局势变化。羽鸟的工作让恐怖袭击计划得以推进，也使迦南、玛利亚和当地执法力量不断逼近“蛇”的核心。' },
+  ] },
+  { id: 21711, title: '91天', themes: ['犯罪', '复仇', '黑帮'], characters: [
+    { id: 89965, name: '阿维里奥', aliases: ['Angelo Lagusa', '安杰洛', 'Avirio'], traits: ['本名安杰洛·拉古萨', '黑手党复仇者', '失去家人', '潜入梵内提家族', '头脑冷静', '擅长谋划', '与尼禄建立关系', '禁酒令时期'], description: '阿维里奥原名安杰洛·拉古萨，童年时目睹家人遭梵内提家族杀害，七年后收到匿名信而返回故乡复仇。他以新身份潜入家族内部，冷静安排每一步行动，却逐渐与尼禄建立复杂的信任关系。阿维里奥在复仇、友情和生存之间不断权衡，必须面对计划真正完成后自己将失去什么。' },
+    { id: 89966, name: '尼禄·梵内提', aliases: ['Nero Vanetti', '尼禄', 'Nero'], traits: ['梵内提家族成员', '黑手党少主', '性格豪爽', '枪械使用者', '保护弟弟弗拉泰', '重视家族', '与阿维里奥搭档', '身处禁酒令时代'], description: '尼禄·梵内提是黑手党家族的重要成员，性格豪爽直率，面对敌人时果断狠厉，对弟弟弗拉泰却十分保护。他结识阿维里奥后，将对方带入家族事务并与其共同执行任务，逐渐把复仇者视作可信赖的伙伴。尼禄对家族忠诚，也不得不在父亲、兄弟和权力斗争之间作出残酷选择。' },
+    { id: 89964, name: '文森特·梵内提', aliases: ['Vincent Vanetti', '梵内提老大', 'Vincent'], traits: ['梵内提家族首领', '尼禄的父亲', '黑手党领袖', '处事老练', '维护家族权力', '身患疾病', '善于权衡', '禁酒令时期'], description: '文森特·梵内提是梵内提家族的首领，也是尼禄与弗拉泰的父亲。他长期经营家族势力，在禁酒令时期与其他黑帮争夺地盘和利益，处事老练而谨慎。随着健康状况恶化，文森特必须考虑继承安排，家族内部的权力冲突因此升级，也让儿子们被迫站到不同立场上。' },
+    { id: 89967, name: '瓦诺·克莱门特', aliases: ['Vanno Clemente', '瓦诺', 'Clemente'], traits: ['梵内提家族成员', '尼禄的朋友', '黑帮行动人员', '忠诚可靠', '性格爽朗', '参与家族事务', '重视伙伴', '枪战经验丰富'], description: '瓦诺·克莱门特是梵内提家族的成员，也是尼禄信任的朋友与行动伙伴。他性格爽朗，熟悉家族地盘和黑帮规矩，能够在枪战与谈判中提供可靠支援。瓦诺对尼禄保持忠诚，在家族与其他势力的冲突不断扩大时，他的选择也体现了友情在暴力环境中的代价。' },
+    { id: 89968, name: '方戈', aliases: ['Fango', '法戈', 'Fango Galassia'], traits: ['加拉西亚家族成员', '黑手党干部', '残酷暴躁', '毒品交易者', '野心强烈', '敌视梵内提家族', '擅长施压', '混乱局势制造者'], description: '方戈是加拉西亚家族的黑手党干部，以残酷暴躁和不可预测的作风闻名。他参与毒品与地盘交易，常以暴力逼迫对手屈服，也试图利用梵内提家族内部的矛盾扩大自身势力。方戈的行为把阿维里奥和尼禄卷入更危险的冲突，让复仇计划从私人恩怨升级为帮派生存之争。' },
+  ] },
+  { id: 100388, title: '战栗杀机', themes: ['犯罪', '悬疑', '成长'], characters: [
+    { id: 13580, name: '亚修·林克斯', aliases: ['Ash Lynx', '亚修', 'Aslan Jade Callenreese'], traits: ['纽约街头帮派首领', '金发绿眼', '枪械高手', '高智商', '童年受创', '追查香蕉鱼', '保护奥村英二', '渴望自由生活'], description: '亚修·林克斯自幼在纽约街头长大，凭借高智商、枪法和领导力成为年轻帮派首领。他童年遭受暴力与控制，却始终试图摆脱黑帮头目迪诺的支配，并调查致使哥哥精神失常的“香蕉鱼”。亚修与来自日本的奥村英二相遇后，第一次认真想象逃离暴力的生活，但追查真相也让他们不断陷入危险。' },
+    { id: 21928, name: '奥村英二', aliases: ['Eiji Okumura', '英二', 'Eiji'], traits: ['日本青年', '前撑杆跳运动员', '摄影助理', '性格温柔', '勇敢坚定', '亚修的伙伴', '来自日本', '用相机记录纽约'], description: '奥村英二来自日本，曾是撑杆跳运动员，因伤退役后赴美担任摄影师伊部的助理。他性格温柔真诚，却并不软弱，在纽约黑帮冲突中仍努力保护朋友、坚持自己的判断。英二与亚修建立深厚信任，使亚修短暂看到暴力之外的生活可能；英二也通过摄影记录这座城市被忽略的真实面貌。' },
+    { id: 29567, name: '辛·苏·林', aliases: ['Sing Soo-Ling', '辛', 'Sing'], traits: ['华人帮派少年领袖', '在纽约长大', '年纪轻但稳重', '尊重英二', '与亚修结盟', '熟悉街头势力', '重视同伴', '逐渐承担领导责任'], description: '辛·苏·林是在纽约成长的华人少年，年纪轻轻便承担帮派领袖责任。他起初对亚修抱有警惕，也必须在家族立场与个人判断之间寻找平衡；与奥村英二相识后，他逐渐建立跨越阵营的信任。辛沉稳谨慎，重视同伴安危，在冲突扩大后不断学习如何带领伙伴走出仇恨循环。' },
+    { id: 29575, name: '马克斯·罗博', aliases: ['Max Lobo', '马克斯', 'Max'], traits: ['美国记者', '退伍军人', '调查香蕉鱼', '亚修父亲的旧友', '有军事经验', '正义感强', '帮助收集证据', '保护年轻人'], description: '马克斯·罗博是曾服役的美国记者，因调查“香蕉鱼”而重新接触旧战友亚修的哥哥。他拥有军事经验，也熟悉新闻调查工作，能够为亚修寻找证据并提供行动支援。马克斯起初试图把事件控制在报道范围内，后来逐渐理解少年们面对的危险，选择冒险保护他们并揭开背后的权力交易。' },
+    { id: 29576, name: '李月龙', aliases: ['Yue-Lung Lee', '月龙', 'Lee'], traits: ['华人黑帮家族继承人', '李家少主', '擅长谋略', '精通多国语言', '冷静克制', '童年遭受控制', '与辛关系复杂', '追求自身权力'], description: '李月龙出身纽约华人黑帮家族，是李家重要继承人，精于谋略并善于在多方势力间周旋。他表面冷静优雅，内心却承受家族暴力与童年创伤，对权力、自由和亲密关系都抱有复杂态度。月龙与亚修、辛之间既有竞争也有相似处境，他的选择不断改变纽约地下势力的平衡。' },
+  ] },
 ]
 
-const query = `query ($id: Int) {
-  Media(id: $id, type: ANIME) {
-    characters(page: 1, perPage: 20, sort: ROLE) {
-      edges {
-        role
-        node { id name { full native } image { large } }
-        voiceActors(language: JAPANESE) { name { full native } image { large } }
-      }
-    }
-  }
-}`
+const query = `query ($id:Int) { Media(id:$id,type:ANIME) { characters(page:1,perPage:50,sort:ROLE) { edges { node { id name { full native } image { large } } voiceActors(language:JAPANESE) { name { full native } image { large } } } } } }`
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
 
-function description(name, title, themes, role) {
-  const part = role === 'MAIN' ? '核心人物' : '重要的常驻角色'
-  return `${name}是《${title}》中的${part}。作品以${themes.join('、')}为故事背景，${name}通过自身的行动与选择参与关键事件，并和其他角色形成紧密关联。其经历不仅推动了情节发展，也让作品的主题和人物关系逐步展开。在日常互动、冲突抉择与团队协作中，${name}始终保有鲜明的位置，是理解这部作品世界观与叙事脉络不可忽略的一员。`
-}
-
-function aliases(edge, name) {
-  return [...new Set([edge.node.name.full, edge.node.name.native, name].filter(Boolean))]
-}
-
-function traits(themes, role) {
-  return [...new Set([
-    ...themes,
-    role === 'MAIN' ? '主角' : '重要配角',
-    '核心角色',
-    '剧情推动者',
-    '常驻人物',
-    '日语配音',
-    '日本动画',
-  ])]
-}
-
-async function fetchGroup(group) {
-  const response = await fetch(api, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ query, variables: { id: group.id } }),
-  })
+async function fetchCharacters(group) {
+  const response = await fetch(api, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ query, variables: { id: group.id } }) })
+  if (!response.ok) throw new Error(`AniList ${group.title} 请求失败：${response.status}`)
   const payload = await response.json()
   if (payload.errors) throw new Error(payload.errors.map((error) => error.message).join(', '))
-  const wanted = new Map(Object.entries(group.names).map(([id, name]) => [Number(id), name]))
   const edges = payload.data?.Media?.characters?.edges || []
-  const records = []
-  for (const edge of edges) {
-    const name = wanted.get(edge.node.id)
-    if (!name) continue
-    const actor = edge.voiceActors[0]
-    const characterTraits = traits(group.themes, edge.role)
-    const text = description(name, group.title, group.themes, edge.role)
-    if (!edge.node.image?.large || !actor?.name?.native || !actor.image?.large) throw new Error(`${group.title} ${name} lacks AniList image or Japanese voice actor`)
-    if (characterTraits.length < 8 || text.length < 100 || text.length > 200) throw new Error(`${group.title} ${name} fails the data specification`)
-    records.push({
-      character: {
-        id: edge.node.id,
-        name,
-        image: edge.node.image.large,
-        description: text,
-        anime_title: group.title,
-        nicknames: aliases(edge, name),
-        traits: characterTraits,
-      },
-      voiceActor: { character_id: edge.node.id, name: actor.name.native, image: actor.image.large, language: '日语' },
-    })
-  }
-  if (records.length !== wanted.size) throw new Error(`${group.title}: expected ${wanted.size} characters, received ${records.length}`)
-  return records
+  const byId = new Map(edges.map((edge) => [edge.node.id, edge]))
+  return group.characters.map((record) => {
+    const edge = byId.get(record.id)
+    if (!edge) throw new Error(`AniList 未返回《${group.title}》角色 ${record.name} (${record.id})`)
+    const actor = edge.voiceActors.find((person) => person?.name?.native && person.image?.large)
+    const image = edge.node.image?.large
+    if (!image?.includes('/anilistcdn/character/') || !image.split('/').pop().includes('-')) throw new Error(`${record.name} 的角色头像缺少有效 AniList hash`)
+    if (!actor) throw new Error(`${record.name} 缺少日语声优头像`)
+    const traits = [...new Set([...group.themes, ...record.traits])]
+    const nicknames = [...new Set([edge.node.name.full, edge.node.name.native, ...record.aliases, group.title].filter(Boolean))]
+    const descriptionLength = [...record.description].length
+    if (traits.length < 8 || nicknames.length === 0 || descriptionLength < 100 || descriptionLength > 200) {
+      throw new Error(`${record.name} 字段不符合规范：特征 ${traits.length} 项，别名 ${nicknames.length} 项，简介 ${descriptionLength} 字`)
+    }
+    const character = { id: record.id, name: record.name, image, description: record.description, anime_title: group.title, nicknames, traits }
+    const voiceActor = { character_id: record.id, name: record.voiceActorName || actor.name.native, image: actor.image.large, language: '日语' }
+    return { character: { ...character, search_text: [character.name, group.title, ...nicknames, ...traits, voiceActor.name].join(' ') }, voiceActor }
+  })
 }
 
 async function main() {
-  const records = []
+  if (!process.env.SUPABASE_URL || !process.env.SUPABASE_SECRET_KEY) throw new Error('需要 SUPABASE_URL 和 SUPABASE_SECRET_KEY 环境变量。')
+  const titleSet = new Set()
+  const idSet = new Set()
   for (const group of groups) {
-    records.push(...await fetchGroup(group))
-    await new Promise((resolve) => setTimeout(resolve, 750))
+    if (titleSet.has(group.title)) throw new Error(`批次内作品重复：${group.title}`)
+    titleSet.add(group.title)
+    if (group.characters.length < 5) throw new Error(`${group.title} 少于 5 位角色`)
+    for (const character of group.characters) {
+      if (idSet.has(character.id)) throw new Error(`批次内角色 ID 重复：${character.id}`)
+      idSet.add(character.id)
+    }
   }
-  const characters = records.map(({ character, voiceActor }) => ({
-    ...character,
-    search_text: [character.name, character.anime_title, ...character.nicknames, ...character.traits, voiceActor.name].join(' '),
-  }))
-  const voiceActors = records.map(({ voiceActor }) => voiceActor)
-  if (new Set(characters.map((character) => character.anime_title)).size !== 15 || characters.length !== 75) throw new Error('Batch completeness check failed')
-  const { error: characterError } = await supabase.from('characters').upsert(characters, { onConflict: 'id' })
-  if (characterError) throw new Error(characterError.message)
-  const ids = characters.map((character) => character.id)
-  const { error: deleteError } = await supabase.from('voice_actors').delete().in('character_id', ids)
-  if (deleteError) throw new Error(deleteError.message)
-  const { error: voiceActorError } = await supabase.from('voice_actors').insert(voiceActors)
-  if (voiceActorError) throw new Error(voiceActorError.message)
-  console.log(`Synced ${characters.length} characters across 15 anime.`)
+
+  const { data: existing, error: lookupError } = await supabase.from('characters').select('id, name, anime_title').in('anime_title', [...titleSet])
+  if (lookupError) throw new Error(`数据库查重失败：${lookupError.message}`)
+  if (existing?.length) throw new Error(`数据库已存在本批次作品，已停止写入：${existing.map((character) => `${character.anime_title}/${character.name}`).join('、')}`)
+  const { data: idMatches, error: idError } = await supabase.from('characters').select('id, name').in('id', [...idSet])
+  if (idError) throw new Error(`角色 ID 查重失败：${idError.message}`)
+  if (idMatches?.length) throw new Error(`角色 ID 已被其他作品使用：${idMatches.map((character) => `${character.name}(${character.id})`).join('、')}`)
+
+  const rows = []
+  for (const group of groups) {
+    rows.push(...await fetchCharacters(group))
+    await sleep(750)
+  }
+  const characters = rows.map((row) => row.character)
+  const voiceActors = rows.map((row) => row.voiceActor)
+  const { error: insertError } = await supabase.from('characters').insert(characters)
+  if (insertError) throw new Error(`角色写入失败：${insertError.message}`)
+  const { error: actorError } = await supabase.from('voice_actors').insert(voiceActors)
+  if (actorError) throw new Error(`声优写入失败：${actorError.message}`)
+  console.log(`已新增 ${groups.length} 部动漫、${characters.length} 位角色及 ${voiceActors.length} 位日语声优。`)
 }
 
 main().catch((error) => { console.error(error.message); process.exit(1) })
