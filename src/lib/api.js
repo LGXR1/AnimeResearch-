@@ -34,10 +34,31 @@ export async function getVisitCount() {
 }
 
 export async function recordVisit() {
-  const { data, error } = await supabase.rpc('increment_site_visits')
+  const { data: total, error: incrementError } = await supabase.rpc('increment_site_visits')
 
-  if (error) throw new Error(error.message)
-  return Number(data || 0)
+  if (incrementError) throw new Error(incrementError.message)
+
+  const { data: counts, error: countError } = await supabase
+    .from('site_visits')
+    .select('total, today_total, today_date')
+    .eq('id', 1)
+    .maybeSingle()
+
+  if (countError) throw new Error(countError.message)
+
+  const dateParts = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit',
+  }).formatToParts(new Date())
+  const date = Object.fromEntries(dateParts.map(({ type, value }) => [type, value]))
+  const today = `${date.year}-${date.month}-${date.day}`
+
+  return {
+    today: counts?.today_date === today ? Number(counts.today_total || 0) : 0,
+    total: Number(counts?.total ?? total ?? 0),
+  }
 }
 
 export async function getAllCharacters(page = 1, limit = 24) {
