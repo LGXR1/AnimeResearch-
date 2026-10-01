@@ -1,113 +1,40 @@
-# CLAUDE.md
+# AGENTS.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+动漫角色搜索站（React 18、Vite、Tailwind 4、React Router 7、Supabase，部署到 Netlify）。按任务只读相关文件，避免无关的全仓扫描；默认简洁汇报。
 
-## Project overview
+## 常用命令
 
-动漫人物搜索网站 — a single-search-box anime character search site. Users search by character name, anime title, or trait keywords (e.g. "金发", "剑士"). Results show as a card grid; clicking a card opens a detail page with full character info.
+- `npm run dev`：本地开发；`npm run build`：生产构建。
+- 数据脚本需 `SUPABASE_URL`、`SUPABASE_SECRET_KEY` 环境变量。
 
-## Tech stack
+## 数据库与搜索
 
-- **React 18** + **Vite**
-- **Tailwind CSS 4** for styling
-- **React Router 7** for client-side routing
-- **Supabase** — PostgreSQL database, direct client-side queries via `@supabase/supabase-js`
-- Deploy target: Netlify (static SPA)
+Supabase：`https://yjsthpnwcjfktwychskq.supabase.co`。主要表：`characters`（角色资料及 `search_text`）、`voice_actors`（角色声优）。公开读取；写入仅用 secret key。
 
-## Commands
+`search_text` 由角色名、动漫名、别名、特征、声优名拼接，**不含简介**，避免简介中的其他角色名造成误命中。写入或修改角色时必须重建它。
 
-```bash
-npm run dev        # start Vite dev server
-npm run build      # production build → dist/
-node scripts/xxx.js  # 数据脚本（需 SUPABASE_URL / SUPABASE_SECRET_KEY 环境变量）
-```
+## 动漫与角色数据
 
-## Database
+未指定作品时，添加数据库里没有的随机 15 部动漫，题材尽量多样；每部至少 5 位主要角色，并尽量补全其他重要角色。写入前按动漫名和角色名查重，已存在则跳过。
 
-Supabase project: `https://yjsthpnwcjfktwychskq.supabase.co`
+每个角色必须满足：
 
-Tables:
-- `characters` — id, name, image, description, anime_title, nicknames (text[]), traits (text[]), search_text
-- `voice_actors` — id, character_id, name, image, language
+- `name`：常见简体中文译名优先；其他常见译名放入别名。
+- `nicknames`：非空，尽量含英文名、日文名、中文简称和常见外号。
+- `anime_title`：简体中文名。
+- `traits`：至少 8 个准确特征，涵盖外观、性格、身份或能力等。
+- `description`：100–200 字中文简介。
+- `voice_actors`：非国产番填写日配声优和 AniList 头像；国产番无日配可为空。
+- 角色及声优图片使用真实 AniList CDN 地址（含图片 hash）；核对发色、瞳色等事实。
 
-RLS: public SELECT allowed, write requires secret key.
+特征以客观信息为主；网络流行标签可酌情添加，主观梗谨慎使用。易错例：花垣武道、白龙人形为黑发；凤凰寺风为浅绿发。
 
-### search_text field
+## 操作与验证
 
-Built by concatenating: `name + anime_title + nicknames + traits + voice_actor_names`
-
-**Description is excluded** from search_text to avoid false positives (e.g. searching "艾伦" matching Mikasa's description).
-
-When adding/updating characters, always rebuild `search_text`.
-
-## Routing
-
-| Route | Page | Key param |
-|---|---|---|
-| `/` | SearchPage | — |
-| `/search?q=<keyword>` | SearchResultsPage | `q` drives search |
-| `/character/:id` | CharacterDetailPage | `id` = AniList character ID |
-
-## Visual design
-
-Dark theme: page bg `#0f0f0f`, card bg `#1a1a1a`, accent `#ff6b8a` (sakura pink), secondary text `#9ca3af`.
-
-## Character data spec
-
-每个角色必须完整覆盖以下 7 个字段。信息不足时主动联网搜索（百度百科/萌娘百科/AniList），**宁缺毋滥但力求完整准确**。
-
-**添加动漫时必须尽可能补全人物** — 每部动漫至少添加 5-8 个角色（主要角色优先），次要角色也一并补上。
-
-- **角色中文名以常见音译为准** — 优先使用百度百科/萌娘百科/中文维基上的主流译名（如"夏尔"而非"西雅尔"、"康娜"而非"神奈神威"）。如多个译名都常见则任选一个，但标注别名。
-
-| # | 字段 | 要求 |
-|---|------|------|
-| 1 | `name` | **中文名优先**，如"艾伦·耶格尔" |
-| 2 | `nicknames` | 英文名 + 中文简称 + 日文名 + 常见外号，**必须非空** |
-| 3 | `anime_title` | **简体中文**，如"进击的巨人"（不是"進擊的巨人"） |
-| 4 | `traits` | 发色、瞳色、性格、技能、身份、武器、体型等，**至少 8-10 个** |
-| 5 | `description` | 100-200 字中文简介，可自然提及其他角色名（search_text 不含 description，不影响搜索） |
-| 6 | `voice_actors` | 日配声优姓名 + AniList 头像 URL（**必填**；国产番无日配可留空） |
-| 7 | `search_text` | `name + anime_title + nicknames + traits + 声优名` 拼接，**不含 description** |
-
-### 数据红线（违反即不合格，不能入库）
-
-- traits < 8 个 → 补足再入库
-- description 空 / < 100 字 → 重写
-- 非国产番 voice_actors 空 → 补声优
-- 图片非 AniList CDN 真实地址（含 hash 如 `-aFJLRPGAWAae`）→ 重取
-- 发色/瞳色标注错误 → 修正后再入库
-
-**发色常见坑**：花垣武道=黑发（非金发）、白龙人形=黑发（非白发）、凤凰寺风=浅绿发（非金发）。
-
-### 添加/修改角色后的验证步骤
-
-1. `npm run build` 确认无报错
-2. 搜角色中文名 → 应命中 1 个
-3. 搜英文名/别名 → 应命中 1 个
-4. 搜特征词（发色/性格）→ 应命中该角色
-5. 搜同动漫其他角色名 → 不应命中该角色（确认 search_text 不含 description）
-6. 点进详情页 → 简介/别名/特征/声优全部显示正常
-7. 全库扫描（分页）确认：traits ≥ 8、description ≥ 100 字、nicknames 非空、图片真实、声优完整
-
-## 技术坑（血的教训）
-
-1. **AniList voiceActorRoles 查询必须加 `node { id }`**，否则返回 null
-2. **AniList 限流 90 req/min** — 串行请求 + 约 700ms 间隔，勿并发
-3. **Supabase 单次查询/导出最多 1000 行** — 必须分页 `range(0,999)` 循环
-4. **密钥** — publishable key 可硬编码（本就公开，前端用 `import.meta.env.VITE_* || 硬编码值` fallback）；**secret key 绝不能出现在任何前端代码或提交里**（脚本里只用 `process.env.SUPABASE_SECRET_KEY`）
-5. **批量脚本不能省略字段** — 曾因 `add_30c.js` 硬编码 `traits:[]` 导致 66 个角色空数据，每个字段都要写
-6. **Netlify 部署** — 前端改用环境变量后必须留 fallback，否则 Netlify 未配置会导致全黑
-
-## Rules
-
-- **每次修改完必须自己验证** — 改动前端就 `npm run build`，改动数据就查询验证，改动搜索就实际搜一下。不要等用户反馈才修。
-- **添加角色后立即更新 ANIME_LIST.md** — 入库后立刻同步，不等提交。
-- **添加角色后重新生成 sitemap** — 跑 `node --env-file=.env.local scripts/generate_sitemap.js`，让 sitemap.xml 保持最新。
-- **重复动漫/人物直接跳过** — 添加前先查数据库是否已存在（同名同动漫）。
-- **"添加动漫"无指定 → 随机 15 部** — 选数据库中不存在的动漫，覆盖不同类型。
-- **添加角色后检查图片** — 确认 image 字段是 AniList CDN 真实地址。
-- **特征标签** — 客观标签（发色/瞳色/身材/服装/能力）和网络流行词（白丝/黑丝/长腿/绝对领域/颜艺）可加；主观梗（"败犬""天降系"）谨慎。
-- **不要自动 commit** — 等用户明确说"提交"。
-- **提交时提醒备注** — 用用户给的备注，不用默认 message。
-- **提交前检查密钥** — `grep -rn "sb_secret"` 确认无硬编码 secret key。
+- AniList 请求串行发送，间隔约 700ms；查询声优角色时包含 `node { id }`。
+- Supabase 查询和导出按页处理，每页最多 1000 条。
+- 新增或修改角色后更新 `ANIME_LIST.md`，并运行 `node --env-file=.env.local scripts/generate_sitemap.js`。
+- 前端改动运行 `npm run build`；数据改动查询本次新增或修改的记录，核对数量、中文名/别名/特征搜索、详情字段及简介不参与搜索。只在用户要求全库审计或发现全库问题时扫描全库。
+- 不要自动提交。用户明确要求提交后，检查暂存改动中无 secret key；按近期 Git 提交风格撰写中文备注，用户指定备注时优先使用。
+- 前端只能使用公开 publishable key；可用 `import.meta.env.VITE_*` 并保留部署 fallback。secret key 仅供本地数据脚本使用，绝不写入前端或提交。
+- AniList 资料不完整时查可靠来源；信息无法核实时不要编造，补齐后再入库。
