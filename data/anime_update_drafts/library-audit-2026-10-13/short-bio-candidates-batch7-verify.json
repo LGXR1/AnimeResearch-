@@ -1,0 +1,45 @@
+{
+  "verifiedAt": "2026-10-23T12:20:30.521Z",
+  "characters": 12665,
+  "voiceActors": 12891,
+  "remainingShortDescriptions": 735,
+  "updated": [
+    {
+      "id": 149,
+      "name": "相乐左之助",
+      "descriptionLength": 145
+    },
+    {
+      "id": 1542,
+      "name": "中岛阳子",
+      "descriptionLength": 134
+    },
+    {
+      "id": 1543,
+      "name": "景麒",
+      "descriptionLength": 113
+    },
+    {
+      "id": 1544,
+      "name": "尚隆",
+      "descriptionLength": 141
+    },
+    {
+      "id": 1545,
+      "name": "延麒",
+      "descriptionLength": 134
+    },
+    {
+      "id": 1628,
+      "name": "支仓令",
+      "descriptionLength": 131
+    },
+    {
+      "id": 1636,
+      "name": "水野蓉子",
+      "descriptionLength": 139
+    }
+  ],
+  "searchTextExcludesDescriptions": true,
+  "source": "AniList live GraphQL + Supabase readback/export"
+}
