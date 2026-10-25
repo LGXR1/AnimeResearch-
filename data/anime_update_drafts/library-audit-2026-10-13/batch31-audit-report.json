@@ -1,0 +1,805 @@
+{
+  "checkedAt": "2026-10-19T10:29:25.944Z",
+  "checkedCount": 100,
+  "checkedIds": [
+    36696,
+    36765,
+    36772,
+    36773,
+    36774,
+    36778,
+    36828,
+    36829,
+    36830,
+    36831,
+    36885,
+    36912,
+    36945,
+    36946,
+    36947,
+    36969,
+    36976,
+    37062,
+    37067,
+    37069,
+    37074,
+    37083,
+    37120,
+    37154,
+    37156,
+    37171,
+    37212,
+    37215,
+    37245,
+    37248,
+    37249,
+    37250,
+    37301,
+    37302,
+    37303,
+    37346,
+    37349,
+    37354,
+    37430,
+    37442,
+    37446,
+    37466,
+    37486,
+    37512,
+    37513,
+    37514,
+    37553,
+    37561,
+    37583,
+    37681,
+    37685,
+    37687,
+    37698,
+    37720,
+    37771,
+    37781,
+    37782,
+    37783,
+    37784,
+    37785,
+    37787,
+    37788,
+    37813,
+    37814,
+    37822,
+    37832,
+    37861,
+    37862,
+    37871,
+    37876,
+    37909,
+    37910,
+    37996,
+    38005,
+    38052,
+    38185,
+    38194,
+    38395,
+    38408,
+    38443,
+    38485,
+    38486,
+    38535,
+    38536,
+    38537,
+    38538,
+    38539,
+    38559,
+    38566,
+    38574,
+    38575,
+    38625,
+    38632,
+    38635,
+    38662,
+    38663,
+    38707,
+    38760,
+    38878,
+    38904
+  ],
+  "checkedRange": {
+    "firstId": 36696,
+    "lastId": 38904
+  },
+  "profileSnapshotVerifiedCount": 94,
+  "profileDescriptionAvailableCount": 88,
+  "modifiedIds": [
+    36830,
+    36831,
+    36885,
+    36912,
+    36945,
+    36976,
+    37062,
+    37067,
+    37069,
+    37074,
+    37083,
+    37156,
+    37171,
+    37212,
+    37215,
+    37245,
+    37248,
+    37249,
+    37250,
+    37301,
+    37430,
+    37466,
+    37787,
+    37788,
+    37832,
+    37871,
+    37876,
+    37909,
+    37910,
+    38005,
+    38052,
+    38194,
+    38395,
+    38485,
+    38486,
+    38566,
+    38662,
+    38707,
+    38904,
+    37120,
+    37349
+  ],
+  "source": {
+    "name": "本地 AniList 角色资料快照、角色字段和结构核对；实时网页请求不可用",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "records": [
+      {
+        "id": 36696,
+        "url": "https://anilist.co/character/36696"
+      },
+      {
+        "id": 36765,
+        "url": "https://anilist.co/character/36765"
+      },
+      {
+        "id": 36772,
+        "url": "https://anilist.co/character/36772"
+      },
+      {
+        "id": 36773,
+        "url": "https://anilist.co/character/36773"
+      },
+      {
+        "id": 36774,
+        "url": "https://anilist.co/character/36774"
+      },
+      {
+        "id": 36778,
+        "url": "https://anilist.co/character/36778"
+      },
+      {
+        "id": 36828,
+        "url": "https://anilist.co/character/36828"
+      },
+      {
+        "id": 36829,
+        "url": "https://anilist.co/character/36829"
+      },
+      {
+        "id": 36830,
+        "url": "https://anilist.co/character/36830"
+      },
+      {
+        "id": 36831,
+        "url": "https://anilist.co/character/36831"
+      },
+      {
+        "id": 36885,
+        "url": "https://anilist.co/character/36885"
+      },
+      {
+        "id": 36912,
+        "url": "https://anilist.co/character/36912"
+      },
+      {
+        "id": 36945,
+        "url": "https://anilist.co/character/36945"
+      },
+      {
+        "id": 36946,
+        "url": "https://anilist.co/character/36946"
+      },
+      {
+        "id": 36947,
+        "url": "https://anilist.co/character/36947"
+      },
+      {
+        "id": 36976,
+        "url": "https://anilist.co/character/36976"
+      },
+      {
+        "id": 37062,
+        "url": "https://anilist.co/character/37062"
+      },
+      {
+        "id": 37067,
+        "url": "https://anilist.co/character/37067"
+      },
+      {
+        "id": 37069,
+        "url": "https://anilist.co/character/37069"
+      },
+      {
+        "id": 37074,
+        "url": "https://anilist.co/character/37074"
+      },
+      {
+        "id": 37083,
+        "url": "https://anilist.co/character/37083"
+      },
+      {
+        "id": 37120,
+        "url": "https://anilist.co/character/37120"
+      },
+      {
+        "id": 37154,
+        "url": "https://anilist.co/character/37154"
+      },
+      {
+        "id": 37156,
+        "url": "https://anilist.co/character/37156"
+      },
+      {
+        "id": 37171,
+        "url": "https://anilist.co/character/37171"
+      },
+      {
+        "id": 37212,
+        "url": "https://anilist.co/character/37212"
+      },
+      {
+        "id": 37215,
+        "url": "https://anilist.co/character/37215"
+      },
+      {
+        "id": 37245,
+        "url": "https://anilist.co/character/37245"
+      },
+      {
+        "id": 37248,
+        "url": "https://anilist.co/character/37248"
+      },
+      {
+        "id": 37249,
+        "url": "https://anilist.co/character/37249"
+      },
+      {
+        "id": 37250,
+        "url": "https://anilist.co/character/37250"
+      },
+      {
+        "id": 37301,
+        "url": "https://anilist.co/character/37301"
+      },
+      {
+        "id": 37302,
+        "url": "https://anilist.co/character/37302"
+      },
+      {
+        "id": 37303,
+        "url": "https://anilist.co/character/37303"
+      },
+      {
+        "id": 37346,
+        "url": "https://anilist.co/character/37346"
+      },
+      {
+        "id": 37349,
+        "url": "https://anilist.co/character/37349"
+      },
+      {
+        "id": 37354,
+        "url": "https://anilist.co/character/37354"
+      },
+      {
+        "id": 37430,
+        "url": "https://anilist.co/character/37430"
+      },
+      {
+        "id": 37442,
+        "url": "https://anilist.co/character/37442"
+      },
+      {
+        "id": 37446,
+        "url": "https://anilist.co/character/37446"
+      },
+      {
+        "id": 37466,
+        "url": "https://anilist.co/character/37466"
+      },
+      {
+        "id": 37486,
+        "url": "https://anilist.co/character/37486"
+      },
+      {
+        "id": 37512,
+        "url": "https://anilist.co/character/37512"
+      },
+      {
+        "id": 37513,
+        "url": "https://anilist.co/character/37513"
+      },
+      {
+        "id": 37514,
+        "url": "https://anilist.co/character/37514"
+      },
+      {
+        "id": 37553,
+        "url": "https://anilist.co/character/37553"
+      },
+      {
+        "id": 37561,
+        "url": "https://anilist.co/character/37561"
+      },
+      {
+        "id": 37681,
+        "url": "https://anilist.co/character/37681"
+      },
+      {
+        "id": 37685,
+        "url": "https://anilist.co/character/37685"
+      },
+      {
+        "id": 37687,
+        "url": "https://anilist.co/character/37687"
+      },
+      {
+        "id": 37698,
+        "url": "https://anilist.co/character/37698"
+      },
+      {
+        "id": 37720,
+        "url": "https://anilist.co/character/37720"
+      },
+      {
+        "id": 37771,
+        "url": "https://anilist.co/character/37771"
+      },
+      {
+        "id": 37781,
+        "url": "https://anilist.co/character/37781"
+      },
+      {
+        "id": 37782,
+        "url": "https://anilist.co/character/37782"
+      },
+      {
+        "id": 37783,
+        "url": "https://anilist.co/character/37783"
+      },
+      {
+        "id": 37784,
+        "url": "https://anilist.co/character/37784"
+      },
+      {
+        "id": 37785,
+        "url": "https://anilist.co/character/37785"
+      },
+      {
+        "id": 37787,
+        "url": "https://anilist.co/character/37787"
+      },
+      {
+        "id": 37788,
+        "url": "https://anilist.co/character/37788"
+      },
+      {
+        "id": 37813,
+        "url": "https://anilist.co/character/37813"
+      },
+      {
+        "id": 37814,
+        "url": "https://anilist.co/character/37814"
+      },
+      {
+        "id": 37822,
+        "url": "https://anilist.co/character/37822"
+      },
+      {
+        "id": 37832,
+        "url": "https://anilist.co/character/37832"
+      },
+      {
+        "id": 37861,
+        "url": "https://anilist.co/character/37861"
+      },
+      {
+        "id": 37862,
+        "url": "https://anilist.co/character/37862"
+      },
+      {
+        "id": 37871,
+        "url": "https://anilist.co/character/37871"
+      },
+      {
+        "id": 37876,
+        "url": "https://anilist.co/character/37876"
+      },
+      {
+        "id": 37909,
+        "url": "https://anilist.co/character/37909"
+      },
+      {
+        "id": 37910,
+        "url": "https://anilist.co/character/37910"
+      },
+      {
+        "id": 37996,
+        "url": "https://anilist.co/character/37996"
+      },
+      {
+        "id": 38005,
+        "url": "https://anilist.co/character/38005"
+      },
+      {
+        "id": 38052,
+        "url": "https://anilist.co/character/38052"
+      },
+      {
+        "id": 38194,
+        "url": "https://anilist.co/character/38194"
+      },
+      {
+        "id": 38395,
+        "url": "https://anilist.co/character/38395"
+      },
+      {
+        "id": 38485,
+        "url": "https://anilist.co/character/38485"
+      },
+      {
+        "id": 38486,
+        "url": "https://anilist.co/character/38486"
+      },
+      {
+        "id": 38535,
+        "url": "https://anilist.co/character/38535"
+      },
+      {
+        "id": 38536,
+        "url": "https://anilist.co/character/38536"
+      },
+      {
+        "id": 38537,
+        "url": "https://anilist.co/character/38537"
+      },
+      {
+        "id": 38538,
+        "url": "https://anilist.co/character/38538"
+      },
+      {
+        "id": 38539,
+        "url": "https://anilist.co/character/38539"
+      },
+      {
+        "id": 38559,
+        "url": "https://anilist.co/character/38559"
+      },
+      {
+        "id": 38566,
+        "url": "https://anilist.co/character/38566"
+      },
+      {
+        "id": 38574,
+        "url": "https://anilist.co/character/38574"
+      },
+      {
+        "id": 38575,
+        "url": "https://anilist.co/character/38575"
+      },
+      {
+        "id": 38625,
+        "url": "https://anilist.co/character/38625"
+      },
+      {
+        "id": 38632,
+        "url": "https://anilist.co/character/38632"
+      },
+      {
+        "id": 38635,
+        "url": "https://anilist.co/character/38635"
+      },
+      {
+        "id": 38662,
+        "url": "https://anilist.co/character/38662"
+      },
+      {
+        "id": 38663,
+        "url": "https://anilist.co/character/38663"
+      },
+      {
+        "id": 38707,
+        "url": "https://anilist.co/character/38707"
+      },
+      {
+        "id": 38760,
+        "url": "https://anilist.co/character/38760"
+      },
+      {
+        "id": 38904,
+        "url": "https://anilist.co/character/38904"
+      }
+    ]
+  },
+  "pendingExternalVerificationIds": [
+    36947,
+    36969,
+    37069,
+    37583,
+    38185,
+    38408,
+    38443,
+    38878
+  ],
+  "pendingShortDescriptionIds": [],
+  "pendingDescriptionQualityIds": [],
+  "pendingTraitVerificationIds": [],
+  "pendingVoiceActorIds": [
+    37442,
+    37446
+  ],
+  "pendingVisualVerificationIds": [],
+  "networkAttempts": {
+    "anilistGraphQL": "本轮请求失败：Node fetch failed。",
+    "browserSearch": "尝试打开 AniList 页面超时，未完成逐条网页检索。"
+  },
+  "note": "已核对本地资料、结构、简介质量和搜索索引；所有列出的已修改记录均通过字段回读自检。没有本地文字来源的记录、颜色图片目视核验和声优独立核对仍需外部来源。",
+  "scopeLimitations": [
+    "22条模板简介和2条短简介缺少可用资料来源，仍待核实。",
+    "208位人物仍含模板化或泛化特征标签，不能视为特征已完整准确。",
+    "发色、瞳色尚未逐张角色图目视确认。",
+    "声优姓名及声优头像未逐项独立交叉核验。",
+    "AniList未提供具体人物身份的无名配音占位项仍保留待处理。"
+  ],
+  "databaseSync": {
+    "syncedAt": "2026-10-19T10:31:24.613Z",
+    "syncedCount": 33,
+    "readbackVerified": true,
+    "searchTextExcludesDescription": true
+  },
+  "syncAttempt": {
+    "success": true
+  },
+  "followupEvidence": [
+    {
+      "id": 36831,
+      "descriptionSources": [],
+      "traitSource": null,
+      "imageSource": "https://s4.anilist.co/file/anilistcdn/character/large/b36831-JfyFU7gPPVmr.png"
+    },
+    {
+      "id": 36945,
+      "descriptionSources": [],
+      "traitSource": null,
+      "imageSource": "https://s4.anilist.co/file/anilistcdn/character/large/36945.jpg"
+    },
+    {
+      "id": 37069,
+      "descriptionSources": [
+        "https://myanimelist.net/character/37069",
+        "https://kitsu.io/characters/fumihiro"
+      ],
+      "traitSource": null,
+      "imageSource": null
+    },
+    {
+      "id": 37083,
+      "descriptionSources": [
+        "https://myanimelist.net/character/37083"
+      ],
+      "traitSource": null,
+      "imageSource": null
+    },
+    {
+      "id": 37871,
+      "descriptionSources": [],
+      "traitSource": null,
+      "imageSource": "https://s4.anilist.co/file/anilistcdn/character/large/b37871-e9fzoh9wAIu8.jpg"
+    },
+    {
+      "id": 37876,
+      "descriptionSources": [],
+      "traitSource": null,
+      "imageSource": "https://s4.anilist.co/file/anilistcdn/character/large/b37876-T6Wy6yCulqdU.jpg"
+    },
+    {
+      "id": 38052,
+      "descriptionSources": [
+        "https://myanimelist.net/character/38052",
+        "https://kitsu.io/characters/saburouta-negishi"
+      ],
+      "traitSource": null,
+      "imageSource": null
+    },
+    {
+      "id": 38662,
+      "descriptionSources": [],
+      "traitSource": null,
+      "imageSource": "https://s4.anilist.co/file/anilistcdn/character/large/b38662-8oKAx1ZUN9X4.png"
+    }
+  ],
+  "localFollowup": {
+    "updatedAt": "2026-10-19T14:10:52.747Z",
+    "modifiedCount": 39,
+    "pendingDescriptionQualityCount": 2,
+    "pendingTraitVerificationCount": 28,
+    "pendingVisualVerificationCount": 0,
+    "externalWritePending": false,
+    "syncedAt": "2026-10-19T14:12:02.114Z",
+    "syncedCount": 8,
+    "readbackVerified": true,
+    "traitCorrections": {
+      "36885": {
+        "source": "https://kitsu.io/characters/minoru-fujii",
+        "correctedAt": "2026-10-19T14:30:21.816Z",
+        "readbackVerified": true
+      },
+      "36912": {
+        "source": "https://kitsu.io/characters/honey-a81f10b3-88e1-4e32-af6b-795e0cd77aa7",
+        "correctedAt": "2026-10-20T01:14:11.542Z",
+        "readbackVerified": true
+      },
+      "37062": {
+        "source": "https://kitsu.io/characters/yuuichi-tachibana",
+        "correctedAt": "2026-10-20T01:16:50.676Z",
+        "readbackVerified": true
+      },
+      "37067": {
+        "source": "https://kitsu.io/characters/kenta-nakamura",
+        "correctedAt": "2026-10-19T14:30:21.816Z",
+        "readbackVerified": true
+      },
+      "37069": {
+        "source": "https://kitsu.io/characters/fumihiro",
+        "correctedAt": "2026-10-19T14:30:21.816Z",
+        "readbackVerified": true
+      },
+      "37074": {
+        "source": "https://kitsu.io/characters/kenji-2eaedf8d-c351-4cd6-bb0d-18e2f8cd191b",
+        "correctedAt": "2026-10-19T14:30:21.816Z",
+        "readbackVerified": true
+      },
+      "37156": {
+        "source": "https://kitsu.io/characters/ryousuke-katashiro",
+        "correctedAt": "2026-10-20T01:16:50.677Z",
+        "readbackVerified": true
+      },
+      "37171": {
+        "source": "https://kitsu.io/characters/reiji-miyabi",
+        "correctedAt": "2026-10-19T14:33:59.466Z",
+        "readbackVerified": true
+      },
+      "37215": {
+        "source": "https://kitsu.io/characters/nako-oshimizu",
+        "correctedAt": "2026-10-19T14:32:05.491Z",
+        "readbackVerified": true
+      },
+      "37245": {
+        "source": "https://kitsu.io/characters/takashi-dai",
+        "correctedAt": "2026-10-19T14:36:38.509Z",
+        "readbackVerified": true
+      },
+      "37248": {
+        "source": "https://kitsu.io/characters/midori-okamoto",
+        "correctedAt": "2026-10-19T14:36:38.510Z",
+        "readbackVerified": true
+      },
+      "37249": {
+        "source": "https://anilist.co/character/37249; https://kitsu.io/characters/ruri-makina",
+        "correctedAt": "2026-10-20T01:44:00.449Z",
+        "readbackVerified": true
+      },
+      "37250": {
+        "source": "https://kitsu.io/characters/tiger-sugatame",
+        "correctedAt": "2026-10-19T14:32:05.491Z",
+        "readbackVerified": true
+      },
+      "37301": {
+        "source": "https://kitsu.io/characters/lemon-yamagishi",
+        "correctedAt": "2026-10-20T01:18:49.010Z",
+        "readbackVerified": true
+      },
+      "37430": {
+        "source": "https://anilist.co/character/37430; https://kitsu.io/characters/mint",
+        "correctedAt": "2026-10-20T01:44:00.449Z",
+        "readbackVerified": true
+      },
+      "37466": {
+        "source": "https://kitsu.io/characters/rinne-higaki",
+        "correctedAt": "2026-10-20T01:05:26.148Z",
+        "readbackVerified": true
+      },
+      "37787": {
+        "source": "https://kitsu.io/characters/yuuko-nishi",
+        "correctedAt": "2026-10-20T01:20:46.646Z",
+        "readbackVerified": true
+      },
+      "37788": {
+        "source": "https://kitsu.io/characters/nagisa-tennouji",
+        "correctedAt": "2026-10-19T14:36:38.510Z",
+        "readbackVerified": true
+      },
+      "37909": {
+        "source": "https://kitsu.io/characters/mizuno-you",
+        "correctedAt": "2026-10-19T14:36:38.510Z",
+        "readbackVerified": true
+      },
+      "37910": {
+        "source": "https://kitsu.io/characters/marino-you",
+        "correctedAt": "2026-10-19T14:33:59.466Z",
+        "readbackVerified": true
+      },
+      "38485": {
+        "source": "https://kitsu.io/characters/takeo-takumi",
+        "correctedAt": "2026-10-20T01:20:46.646Z",
+        "readbackVerified": true
+      },
+      "38486": {
+        "source": "https://kitsu.io/characters/tsukihiko-bou",
+        "correctedAt": "2026-10-20T01:33:12.729Z",
+        "readbackVerified": true
+      },
+      "38707": {
+        "source": "https://kitsu.io/characters/sakurako-yukihira",
+        "correctedAt": "2026-10-19T14:32:05.491Z",
+        "readbackVerified": true
+      },
+      "38904": {
+        "source": "https://kitsu.io/characters/tooru-ichii",
+        "correctedAt": "2026-10-20T01:27:59.969Z",
+        "readbackVerified": true
+      }
+    },
+    "researchCorrections": {
+      "37083": {
+        "sources": [
+          "https://ja.wikipedia.org/wiki/頭文字Dの登場人物",
+          "https://myanimelist.net/character/37083/Miki"
+        ],
+        "correctedAt": "2026-10-22T01:47:57.176Z",
+        "databaseReadbackVerified": true,
+        "introExcludedFromSearch": true
+      },
+      "37120": {
+        "sources": [
+          "https://ja.wikipedia.org/wiki/GA_芸術科アートデザインクラス",
+          "https://myanimelist.net/character/37120/Mayumi_Usami"
+        ],
+        "correctedAt": "2026-10-22T01:47:57.176Z",
+        "databaseReadbackVerified": true,
+        "introExcludedFromSearch": true
+      },
+      "37349": {
+        "sources": [
+          "https://ja.wikipedia.org/wiki/機動戦艦ナデシコの登場人物",
+          "https://myanimelist.net/character/37349/Genichirou_Tsukiomi"
+        ],
+        "correctedAt": "2026-10-22T01:47:57.176Z",
+        "databaseReadbackVerified": true,
+        "introExcludedFromSearch": true
+      },
+      "38052": {
+        "sources": [
+          "https://ja.wikipedia.org/wiki/海月姫",
+          "https://myanimelist.net/character/38052/Saburouta_Negishi"
+        ],
+        "correctedAt": "2026-10-22T01:47:57.176Z",
+        "databaseReadbackVerified": true,
+        "introExcludedFromSearch": true
+      }
+    }
+  }
+}

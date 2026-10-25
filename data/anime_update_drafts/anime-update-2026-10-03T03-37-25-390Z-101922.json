@@ -1,0 +1,1465 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:37:25.391Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "鬼灭之刃",
+      "id": 126071,
+      "name": "Tanjirou Kamado",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 127518,
+      "name": "Nezuko Kamado",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 129130,
+      "name": "Inosuke Hashibira",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 129131,
+      "name": "Zenitsu Agatsuma",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 129132,
+      "name": "Muzan Kibutsuji",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 129133,
+      "name": "Kyoujurou Rengoku",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 130050,
+      "name": "Giyuu Tomioka",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 136069,
+      "name": "Muichirou Tokitou",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 136070,
+      "name": "Shinobu Kochou",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 136071,
+      "name": "Tengen Uzui",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 136072,
+      "name": "Mitsuri Kanroji",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 137773,
+      "name": "Sakonji Urokodaki",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 137774,
+      "name": "Sanemi Shinazugawa",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 138847,
+      "name": "Tamayo",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 138990,
+      "name": "Hotaru Haganezuka",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 139038,
+      "name": "Kanao Tsuyuri",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 139039,
+      "name": "Kanae Kochou",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 139460,
+      "name": "Kiriya Ubuyashiki",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 139737,
+      "name": "Enmu",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 139738,
+      "name": "Kyougai",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 139739,
+      "name": "Rui",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 139740,
+      "name": "Kumo Oni Ani",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 141692,
+      "name": "Kumo Oni Haha",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 206330,
+      "name": "Tanjurou Kamado",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 206331,
+      "name": "Kozo Kanamori",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 207949,
+      "name": "Gotou",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 207953,
+      "name": "Teruko",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 207954,
+      "name": "Kiyoshi",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 207955,
+      "name": "Tokie",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 207958,
+      "name": "Kamanue",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 207959,
+      "name": "Mukago",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 207961,
+      "name": "Rokuro",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "鬼灭之刃",
+      "id": 306223,
+      "name": "Ozaki",
+      "reason": "AniList ID 已存在或批次重复"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 101922,
+      "anime_title": "鬼灭之刃",
+      "anime_origin": "JP",
+      "source": {
+        "id": 101922,
+        "titles": [
+          "Kimetsu no Yaiba",
+          "Demon Slayer: Kimetsu no Yaiba",
+          "鬼滅の刃",
+          "KnY",
+          "Kimetsu no Yaiba: Kyoudai no Kizuna",
+          "Demon Slayer: Kimetsu no Yaiba: Bonds of Siblings",
+          "鬼滅の刃-兄妹の絆-",
+          "鬼灭之刃",
+          "הלהב קוטל השדים",
+          "قاتل الشياطين",
+          "ดาบพิฆาตอสูร",
+          "Miecz zabójcy demonów – Kimetsu no Yaiba",
+          "Guardians de la nit: Kimetsu no Yaiba",
+          "İblis Keser",
+          "ΚΥΝΗΓΟΣ ΔΑΙΜΟΝΩΝ: KIMETSU NO YAIBA",
+          "Zabiják démonů",
+          "شیطان کش",
+          "귀멸의 칼날",
+          "Истребитель демонов",
+          "Клинок, рассекающий демонов"
+        ],
+        "year": 2019,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/101922"
+      },
+      "characters": [
+        {
+          "id": 137775,
+          "name": "Jigorou Kuwajima",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137775-WVj9nyVaYo45.png",
+          "description": "",
+          "nicknames": [
+            "Jigorou Kuwajima",
+            "桑島慈悟郎",
+            "Jigoro"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "千葉繁",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jigorou Kuwajima",
+            "name_native": "桑島慈悟郎",
+            "name_alternative": [
+              "Jigoro"
+            ],
+            "description": "Retired member of the Demon Slayer Corps, having previously held the title of Thunder Hashira. He trained Zenitsu Agatsuma and Kaigaku."
+          }
+        },
+        {
+          "id": 137776,
+          "name": "Genya Shinazugawa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137776-E0QuFD7y19OQ.jpg",
+          "description": "",
+          "nicknames": [
+            "Genya Shinazugawa",
+            "不死川玄弥"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岡本信彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Genya Shinazugawa",
+            "name_native": "不死川玄弥",
+            "name_alternative": [],
+            "description": "__Height:__ 180 cm (5'11\")\n\nGenya Is a Demon Hunter of the Demon Killing Corps. He is also the younger brother of the Wind Pillar [Sanemi Shinazugawa](https://anilist.co/character/137774).\n\n~! Due to his lack of breath forms he is dependent on using his shotgun and demon form. His shotgun pelts are made from sun steel to be effective against demons. His demon form is active when he digests anything from a demon to gain demon like strength and abilities. He is the only demon hunter to have this ability given that it is drastically rare !~"
+          }
+        },
+        {
+          "id": 137777,
+          "name": "Obanai Iguro",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137777-kGViiNyx0wa7.jpg",
+          "description": "",
+          "nicknames": [
+            "Obanai Iguro",
+            "伊黒小芭内",
+            "Snake Hashira",
+            "Snake Pillar"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鈴村健一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95005-SkoVN02iOglr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Obanai Iguro",
+            "name_native": "伊黒小芭内",
+            "name_alternative": [
+              "Snake Hashira",
+              "Snake Pillar"
+            ],
+            "description": "__Height:__ 162 cm (5'3\")\n\nObanai is a Demon Slayer and the Snake Pillar of the Demon Slayer Corps.\n\nA young man of short stature and a pale complexion. He has straight-edged black hair of varying lengths, the longest reaching down to his shoulders and the shortest stopping at his cheekbones, which he wears down with two shorter strands hanging between his eyes. He wears a navy blue version of the standard Demon Slayer uniform, along with a black and white pinstriped haori, the hem and cuffs of which are striped lengthways rather than vertically, which covers his hands. Obanai also sports bandages in place of the leg-wraps around his calves, as well as another set of bandages that cover his mouth, and blue-strapped zori on his feet.\n\nHe is also always seen with his white snake, Kaburamaru, wrapped around his shoulders."
+          }
+        },
+        {
+          "id": 137778,
+          "name": "Gyoumei Himejima",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137778-H4Uzb9cSCvZ6.jpg",
+          "description": "",
+          "nicknames": [
+            "Gyoumei Himejima",
+            "悲鳴嶼行冥",
+            "Rock Hashira",
+            "Rock Pillar"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "杉田智和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gyoumei Himejima",
+            "name_native": "悲鳴嶼行冥",
+            "name_alternative": [
+              "Rock Hashira",
+              "Rock Pillar"
+            ],
+            "description": "__Height:__ 220 cm (7'2½\")\n\nHe is a Demon Slayer and the Stone Hashira of the Demon Slayer Corps. Gyomei also serves as the mentor of [Genya Shinazugawa](https://anilist.co/character/137776/Shinazugawa-Genya)."
+          }
+        },
+        {
+          "id": 137806,
+          "name": "Makomo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137806-43Lqae34Vzqu.png",
+          "description": "",
+          "nicknames": [
+            "Makomo",
+            "真菰"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "加隈亜衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113511-F58Tk4OFKs1w.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Makomo",
+            "name_native": "真菰",
+            "name_alternative": [],
+            "description": "A cute and mysterious girl who wears a floral pattern kimono. Her fox mask has two flowers on its right cheek.\n\n~!She is a former apprentice of [Sakonji Urokodaki](https://anilist.co/character/137773/Urokodaki-Sakonji).!~\n\n"
+          }
+        },
+        {
+          "id": 137808,
+          "name": "Kagaya Ubuyashiki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137808-4yA8XQUDrAho.png",
+          "description": "",
+          "nicknames": [
+            "Kagaya Ubuyashiki",
+            "産屋敷耀哉",
+            "Oyakata-sama"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "森川智之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kagaya Ubuyashiki",
+            "name_native": "産屋敷耀哉",
+            "name_alternative": [
+              "Oyakata-sama"
+            ],
+            "description": "He is the head of the Ubuyashiki Family and 97th leader of the Demon Slayer Corps known mainly as \"Oyakata-sama\" (\"Master\") by his subordinates and peers."
+          }
+        },
+        {
+          "id": 137809,
+          "name": "Sabito",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137809-6Tkle99lCBl8.png",
+          "description": "",
+          "nicknames": [
+            "Sabito",
+            "錆兎"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "梶裕貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sabito",
+            "name_native": "錆兎",
+            "name_alternative": [],
+            "description": "He is a former apprentice of [Urokodaki Sakonji](https://anilist.co/character/137773/Urokodaki-Sakonji).\n\n~!He dies saving the participators in the final selection, including [Giyuu](https://anilist.co/character/130050/Tomioka-Giyuu).!~"
+          }
+        },
+        {
+          "id": 137810,
+          "name": "Matsuemon Tennouji",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137810-x5JEOQTuxd86.png",
+          "description": "",
+          "nicknames": [
+            "Matsuemon Tennouji",
+            "天王寺松右衛門",
+            "Kasugai Garasu (鎹鴉)",
+            "Tanjirou's Kasugai Crow"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山崎たくみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95346-YNXEZtXvJttr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Matsuemon Tennouji",
+            "name_native": "天王寺松右衛門",
+            "name_alternative": [
+              "Kasugai Garasu (鎹鴉)",
+              "Tanjirou's Kasugai Crow"
+            ],
+            "description": "Kasugai Crow assigned to [Tanjirou Kamado](https://anilist.co/character/126071/Kamado-Tanjirou). Very intelligent and seems to have a large ego."
+          }
+        },
+        {
+          "id": 138810,
+          "name": "Susamaru",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138810-1d6mUy8lzr8K.png",
+          "description": "",
+          "nicknames": [
+            "Susamaru",
+            "朱紗丸"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小松未可子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105071-Hcj0X2gcliPq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Susamaru",
+            "name_native": "朱紗丸",
+            "name_alternative": [],
+            "description": "~!Susamaru was a Demon that aspired to join Kibutsuji Muzan's Twelve Demon Moons group.!~"
+          }
+        },
+        {
+          "id": 138811,
+          "name": "Yahaba",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138811-V9NNgNp9dAjq.png",
+          "description": "",
+          "nicknames": [
+            "Yahaba",
+            "矢琶羽"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "福山潤",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yahaba",
+            "name_native": "矢琶羽",
+            "name_alternative": [],
+            "description": "~!was a Demon that aspired to join Kibutsuji Muzan's Twelve Demon Moons group.!~"
+          }
+        },
+        {
+          "id": 138812,
+          "name": "Numa Oni",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138812-Imqj3sSfpcso.jpg",
+          "description": "",
+          "nicknames": [
+            "Numa Oni",
+            "沼鬼",
+            "Swamp Demon"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "木村良平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Numa Oni",
+            "name_native": "沼鬼",
+            "name_alternative": [
+              "Swamp Demon"
+            ],
+            "description": "~!was a Demon that went on a rash of kidnappings during Kamado Tanjirou's first mission for the Demon Killing Corps.!~\n\n"
+          }
+        },
+        {
+          "id": 138846,
+          "name": "Yushirou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138846-i8frJEl8baly.jpg",
+          "description": "",
+          "nicknames": [
+            "Yushirou",
+            "愈史郎",
+            "Yushiro"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山下大輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116971-KDHjlYPO4HrS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yushirou",
+            "name_native": "愈史郎",
+            "name_alternative": [
+              "Yushiro"
+            ],
+            "description": "__Height:__ 157 cm (5'2\")\n\nYushiro is a traveling companion of Tamayo and close ally of Kamado Tanjirou. He was turned into a Demon by Tamayo. Yushiro was a human who was under the care of Tamayo as she was practicing as a medical practitioner. He was in the frail state fighting disease when Tamayo gave him the choice of succumbing to his illness or to live longer as a Demon. He agreed to become a Demon and has since stayed by Tamayo's side serving as an assistant as well as her guard.\n~!Yushiro would become the last known survivor of the Demon race. In time he would dedicate himself to a life of art and become a world famous painter in the present day under the name of Yushiro Yamamoto, known for his paintings of Tamayo to wide critical acclaim!~"
+          }
+        },
+        {
+          "id": 141690,
+          "name": "Kumo Oni Ane",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141690-IFs8C1TVRS7m.png",
+          "description": "",
+          "nicknames": [
+            "Kumo Oni Ane",
+            "蜘蛛鬼「姉」"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白石涼子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95348-sLIy7IMrgZeA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kumo Oni Ane",
+            "name_native": "蜘蛛鬼「姉」",
+            "name_alternative": [],
+            "description": "She is a member of the spider family."
+          }
+        },
+        {
+          "id": 141693,
+          "name": "Kumo Oni Chichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141693-18yNfOx3iopF.png",
+          "description": "",
+          "nicknames": [
+            "Kumo Oni Chichi",
+            "蜘蛛鬼「父」"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "稲田徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kumo Oni Chichi",
+            "name_native": "蜘蛛鬼「父」",
+            "name_alternative": [],
+            "description": "~!He was a member of the Spider Family.!~"
+          }
+        },
+        {
+          "id": 142420,
+          "name": "Ukogi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142420-S8qfnTq1rKeW.jpg",
+          "description": "",
+          "nicknames": [
+            "Ukogi",
+            "うこぎ",
+            "Chuntaro",
+            "Chuntarou (チュン太郎)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石見舞菜香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121821-tQSkHZEuB3XH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ukogi",
+            "name_native": "うこぎ",
+            "name_alternative": [
+              "Chuntaro",
+              "Chuntarou (チュン太郎)"
+            ],
+            "description": "Ukogi is Zenitsu's Kasugai Crow. He is the only sparrow to appear in the series and pass the Kasugai Crow Test and also the only Kasugai Crow without the ability to talk. His family was killed by Demons."
+          }
+        },
+        {
+          "id": 145286,
+          "name": "Naho Takada",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145286-dWQZ9VB0DlHv.jpg",
+          "description": "",
+          "nicknames": [
+            "Naho Takada",
+            "高田なほ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "桑原由気",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118399-qM9moluPEbV2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Naho Takada",
+            "name_native": "高田なほ",
+            "name_alternative": [],
+            "description": "She is a servant of the Butterfly Estate."
+          }
+        },
+        {
+          "id": 145287,
+          "name": "Kiyo Terauchi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145287-XMoG5upMikFs.jpg",
+          "description": "",
+          "nicknames": [
+            "Kiyo Terauchi",
+            "寺内きよ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山下七海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118472-YEwaeltqQmPc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kiyo Terauchi",
+            "name_native": "寺内きよ",
+            "name_alternative": [],
+            "description": "She is a servant of the Butterfly Estate."
+          }
+        },
+        {
+          "id": 145288,
+          "name": "Aoi Kanzaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145288-1sZG1vJmysmY.jpg",
+          "description": "",
+          "nicknames": [
+            "Aoi Kanzaki",
+            "神崎アオイ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "江原裕理",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n145839-rkyFGhFm24nM.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aoi Kanzaki",
+            "name_native": "神崎アオイ",
+            "name_alternative": [],
+            "description": "She is a Demon Slayer, though she works as a servant in the Butterfly Estate rather than taking to the front lines."
+          }
+        },
+        {
+          "id": 145289,
+          "name": "Sumi Nakahara",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145289-cdQSDA9CIy2U.jpg",
+          "description": "",
+          "nicknames": [
+            "Sumi Nakahara",
+            "中原すみ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "真野あゆみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125035-08CpsDFvGvki.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sumi Nakahara",
+            "name_native": "中原すみ",
+            "name_alternative": [],
+            "description": "She is a servant of the Butterfly Estate."
+          }
+        },
+        {
+          "id": 153220,
+          "name": "Kanata Ubuyashiki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153220-QH10oCcepSdz.jpg",
+          "description": "",
+          "nicknames": [
+            "Kanata Ubuyashiki",
+            "産屋敷かなた"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井澤詩織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111453-7fe0B5uogy3Z.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kanata Ubuyashiki",
+            "name_native": "産屋敷かなた",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 165862,
+          "name": "Kaigaku",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165862-G9PpuvlEsfdN.jpg",
+          "description": "",
+          "nicknames": [
+            "Kaigaku",
+            "獪岳"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "細谷佳正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kaigaku",
+            "name_native": "獪岳",
+            "name_alternative": [],
+            "description": "__Height:__ 167 cm (5'6\")\n\nA member of the Demon Slaying Corps, who was taught the Breath of Thunder by former Thunder Pillar, Jigoro, with fellow disciple Zenitsu.\n\n"
+          }
+        },
+        {
+          "id": 167548,
+          "name": "Nichika Ubuyashiki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167548-2bPBlCKBiIBY.png",
+          "description": "",
+          "nicknames": [
+            "Nichika Ubuyashiki",
+            "産屋敷 にちか"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小澤亜李",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118663-fFzQqJDtYNdA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nichika Ubuyashiki",
+            "name_native": "産屋敷 にちか",
+            "name_alternative": [],
+            "description": "Nichika Ubuyashiki is one of the older daughters of Kagaya Ubuyashiki."
+          }
+        },
+        {
+          "id": 167549,
+          "name": "Hinaki Ubuyashiki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167549-1fG4eh5KkmZg.png",
+          "description": "",
+          "nicknames": [
+            "Hinaki Ubuyashiki",
+            "産屋敷 ひなき"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "花守ゆみり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116543-ugu1HZWiQkqi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hinaki Ubuyashiki",
+            "name_native": "産屋敷 ひなき",
+            "name_alternative": [],
+            "description": "Hinaki Ubuyashiki is one of the older daughters of Kagaya Ubuyashiki."
+          }
+        },
+        {
+          "id": 171150,
+          "name": "Murata",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b171150-3Ju2DXBVq41F.png",
+          "description": "",
+          "nicknames": [
+            "Murata",
+            "村田"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宮田幸季",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95344-wYgLhxYeWEp4.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Murata",
+            "name_native": "村田",
+            "name_alternative": [],
+            "description": "Murata is a member of the Demon Slayer Corps."
+          }
+        },
+        {
+          "id": 196849,
+          "name": "Kie Kamado",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196849-xnYBt0Jf5Htf.png",
+          "description": "",
+          "nicknames": [
+            "Kie Kamado",
+            "竈門葵枝"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "桑島法子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95057-zkd7yTPVxfyu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kie Kamado",
+            "name_native": "竈門葵枝",
+            "name_alternative": [],
+            "description": "Kie is Tanjiro Kamado's mother."
+          }
+        },
+        {
+          "id": 196850,
+          "name": "Hisa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196850-T9wLOqziha6k.png",
+          "description": "",
+          "nicknames": [
+            "Hisa",
+            "ひさ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "谷育子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5907.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hisa",
+            "name_native": "ひさ",
+            "name_alternative": [],
+            "description": "Hisa is an old lady who welcomes Demon Slayers to rest in her house. Tanjiro Kamado and his group visit her after they fight Kyogai at the Drum House."
+          }
+        },
+        {
+          "id": 196851,
+          "name": "Shigeru Kamado",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196851-r5px2ZuOU9I2.png",
+          "description": "",
+          "nicknames": [
+            "Shigeru Kamado",
+            "竈門茂"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "本渡楓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119416-7RC2mPKDKydB.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shigeru Kamado",
+            "name_native": "竈門茂",
+            "name_alternative": [],
+            "description": "Shigeru was Tanjiro's second youngest brother."
+          }
+        },
+        {
+          "id": 196852,
+          "name": "Takeo Kamado",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196852-zzu0xZXJrFr9.png",
+          "description": "",
+          "nicknames": [
+            "Takeo Kamado",
+            "竈門竹雄"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大地葉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109251-ge8rmZwppqxy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takeo Kamado",
+            "name_native": "竈門竹雄",
+            "name_alternative": [],
+            "description": "Takeo was Tanjiro Kamado's first younger brother."
+          }
+        },
+        {
+          "id": 196853,
+          "name": "Hanako Kamado",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196853-3MBhoPxBTvrN.png",
+          "description": "",
+          "nicknames": [
+            "Hanako Kamado",
+            "竈門花子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小原好美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121961-TaMewK1taQm6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hanako Kamado",
+            "name_native": "竈門花子",
+            "name_alternative": [],
+            "description": "Hanako was Tanjiro Kamado's youngest sister."
+          }
+        },
+        {
+          "id": 196854,
+          "name": "Saburou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196854-OxXRBTZJKPE5.png",
+          "description": "",
+          "nicknames": [
+            "Saburou",
+            "三郎"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "てらそままさき",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95563-tMN0xtsy1qyh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Saburou",
+            "name_native": "三郎",
+            "name_alternative": [],
+            "description": "Saburou is a villager from the village near Tanjiro's home."
+          }
+        },
+        {
+          "id": 206329,
+          "name": "Rei Kibutsuji",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206329-7FVSo4gsNYYl.png",
+          "description": "",
+          "nicknames": [
+            "Rei Kibutsuji",
+            "きぶつじれい"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "皆口裕子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95170-oAiTh7t2T1J0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rei Kibutsuji",
+            "name_native": "きぶつじれい",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 207857,
+          "name": "Rokuta Kamado",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207857-sn24LyeKSrPr.jpg",
+          "description": "",
+          "nicknames": [
+            "Rokuta Kamado",
+            "竈門六太"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "古賀葵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123268-zIZLjZ5Xfbk4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rokuta Kamado",
+            "name_native": "竈門六太",
+            "name_alternative": [],
+            "description": "Tanjiro's youngest sibling."
+          }
+        },
+        {
+          "id": 207950,
+          "name": "Shoichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207950-QQzsB5OmINoW.jpg",
+          "description": "",
+          "nicknames": [
+            "Shoichi",
+            "正一"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "市来光弘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1527.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shoichi",
+            "name_native": "正一",
+            "name_alternative": [],
+            "description": "Shoichi is a young boy saved by Tanjiro Kamado and Zenitsu Agatsuma when they approached him to help his older brother, Kiyoshi, escape from the Drum House. He also has a younger sister, Teruko."
+          }
+        },
+        {
+          "id": 207951,
+          "name": "Female Kakushi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207951-yTClnNQvda4X.jpg",
+          "description": "",
+          "nicknames": [
+            "Female Kakushi",
+            "隠"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Female Kakushi",
+            "name_native": "隠",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 207952,
+          "name": "Kibutsuji no Musume",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207952-W0vp1yGKN1SW.jpg",
+          "description": "",
+          "nicknames": [
+            "Kibutsuji no Musume",
+            "鬼舞辻の娘",
+            "Muzan's Daughter"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白石晴香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112629-U0y9a5Z9ogfk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kibutsuji no Musume",
+            "name_native": "鬼舞辻の娘",
+            "name_alternative": [
+              "Muzan's Daughter"
+            ],
+            "description": "Muzan's Daughter"
+          }
+        },
+        {
+          "id": 207956,
+          "name": "Toyo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207956-UZyuTqSS9xCy.jpg",
+          "description": "",
+          "nicknames": [
+            "Toyo",
+            "豊"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岩田光央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/95399-HGKWUmKmZ1el.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Toyo",
+            "name_native": "豊",
+            "name_alternative": [],
+            "description": "Toyo is an udon street vendor."
+          }
+        },
+        {
+          "id": 207957,
+          "name": "Tsunojou Oni",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207957-oY3z8wQ334i9.png",
+          "description": "",
+          "nicknames": [
+            "Tsunojou Oni",
+            "角状鬼"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "川原慶久",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95409-87S6L0u8gQNf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tsunojou Oni",
+            "name_native": "角状鬼",
+            "name_alternative": [],
+            "description": "Tsunojou oni was a Demon that lived in the Drum House."
+          }
+        },
+        {
+          "id": 207960,
+          "name": "Shita Oni",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207960-do83Y1g3VhtN.png",
+          "description": "",
+          "nicknames": [
+            "Shita Oni",
+            "舌鬼"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "新垣樽助",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102242-bx8hrisiHiSK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shita Oni",
+            "name_native": "舌鬼",
+            "name_alternative": [],
+            "description": "Shita Oni was a Demon that lived in the Drum House."
+          }
+        },
+        {
+          "id": 268212,
+          "name": "Chachamaru",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268212-cdX6j5xYomyU.jpg",
+          "description": "",
+          "nicknames": [
+            "Chachamaru",
+            "茶々丸"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chachamaru",
+            "name_native": "茶々丸",
+            "name_alternative": [],
+            "description": "Chachamaru is a feline familiar that assists in Tamayo's medical research with Demon blood.\n\n~!Chachamaru is seen during the battle with Muzan, after the Infinity Castle collapses. The cat jumps above the remaining Hashira in order to administer an antidote to stave off the poisonous effects of Muzan's attacks. As a result, it is sliced in half by the demon. However, it was later reassembled by Yushirou.!~"
+          }
+        },
+        {
+          "id": 138988,
+          "name": "Teoni",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138988-xU0pGFRXSweT.png",
+          "description": "",
+          "nicknames": [
+            "Teoni",
+            "手鬼",
+            "Hand Demon"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Teoni",
+            "name_native": "手鬼",
+            "name_alternative": [
+              "Hand Demon"
+            ],
+            "description": "The Hand Demon was a notorious Demon that killed thirteen of Urokodaki Sakonji's apprentices, including Sabito and Makomo."
+          }
+        },
+        {
+          "id": 138989,
+          "name": "Odou no Oni",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138989-2ZWGyfLbCxtV.png",
+          "description": "",
+          "nicknames": [
+            "Odou no Oni",
+            "お堂の鬼",
+            "Head Demon"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "緑川光",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95112-c275OLptkSYO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Odou no Oni",
+            "name_native": "お堂の鬼",
+            "name_alternative": [
+              "Head Demon"
+            ],
+            "description": "The Head Demon is the first Demon encountered by Kamado Tanjirou."
+          }
+        },
+        {
+          "id": 139736,
+          "name": "Nakime",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139736-CrfqAqlktDTP.png",
+          "description": "",
+          "nicknames": [
+            "Nakime",
+            "鳴女",
+            "琵琶鬼",
+            "Biwa Demon"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Nakime",
+            "name_native": "鳴女",
+            "name_alternative": [
+              "琵琶鬼",
+              "Biwa Demon"
+            ],
+            "description": "Nakime is a mysterious Biwa Demon that dwells in the Dimensional Infinity Fortress.\n\n~!Actually she is a member of the Twelve Demon Moons, replacing Hantengu and holding the position of Upper Moon Four.!~\n\n(Source: Fandom)"
+          }
+        },
+        {
+          "id": 161211,
+          "name": "Kotoha Hashibira",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161211-Wu2RXlkFQdE1.png",
+          "description": "",
+          "nicknames": [
+            "Kotoha Hashibira",
+            "嘴平琴葉",
+            "謎の女性"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "能登麻美子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kotoha Hashibira",
+            "name_native": "嘴平琴葉",
+            "name_alternative": [
+              "謎の女性"
+            ],
+            "description": "~!Kotoha was Inosuke's mother!~"
+          }
+        },
+        {
+          "id": 306224,
+          "name": "Wakuraba",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306224-jC7A24uB82Xb.png",
+          "description": "",
+          "nicknames": [
+            "Wakuraba",
+            "病葉"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "保志総一朗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Wakuraba",
+            "name_native": "病葉",
+            "name_alternative": [],
+            "description": "Wakuraba was a member of the Twelve Kizuki, having held the position of Lower Rank Three."
+          }
+        },
+        {
+          "id": 306225,
+          "name": "Asakusa Oni",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306225-JHEG5fwFYIT7.png",
+          "description": "",
+          "nicknames": [
+            "Asakusa Oni",
+            "Asakusa Demon"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Asakusa Oni",
+            "name_native": "",
+            "name_alternative": [
+              "Asakusa Demon"
+            ],
+            "description": "The Asakusa Demon is a minor character in Kimetsu no Yaiba. He was a pedestrian in Asakusa who [Muzan Kibutsuji](https://anilist.co/character/129132/Muzan-Kibutsuji) turned into a demon."
+          }
+        },
+        {
+          "id": 310302,
+          "name": "Satoko",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310302-RBzdk050JPBO.jpg",
+          "description": "",
+          "nicknames": [
+            "Satoko",
+            "里子"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Satoko",
+            "name_native": "里子",
+            "name_alternative": [],
+            "description": "Satoko was a villager betrothed to Kazumi. She was kidnapped and killed by the Swamp Demon."
+          }
+        },
+        {
+          "id": 310306,
+          "name": "Yatsu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310306-RgzjoCzKx1Vy.jpg",
+          "description": "",
+          "nicknames": [
+            "Yatsu",
+            "やつ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "長谷川芳明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119855-B21adyPXI4PL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Yatsu",
+            "name_native": "やつ",
+            "name_alternative": [],
+            "description": "Yatsu is a minor character of Kimetsu no Yaiba. He is a civilian that [Muzan Kibutsuji](https://anilist.co/character/129132/Muzan-Kibutsuji) bumped into at an alleyway in Asakusa."
+          }
+        },
+        {
+          "id": 310311,
+          "name": "Kazumi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b310311-dQPOkhVMGOuv.jpg",
+          "description": "",
+          "nicknames": [
+            "Kazumi",
+            "和巳"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "酒井広大",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119832-6UV28VP1MXWI.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kazumi",
+            "name_native": "和巳",
+            "name_alternative": [],
+            "description": "Kazumi was a minor character in Kimetsu no Yaiba. He was a villager whose fiancée, Satoko, was kidnapped and eaten by the Swamp Demon."
+          }
+        }
+      ]
+    }
+  ]
+}

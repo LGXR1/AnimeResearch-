@@ -1,0 +1,2447 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:38:13.176Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "Dragon Ball",
+      "id": 246,
+      "name": "Gokuu Son",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Dragon Ball",
+      "id": 678,
+      "name": "Bulma",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Dragon Ball",
+      "id": 914,
+      "name": "Piccolo",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Dragon Ball",
+      "id": 36309,
+      "name": "Narrator",
+      "reason": "AniList ID 已存在或批次重复"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 223,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 223,
+        "titles": [
+          "Dragon Ball",
+          "ドラゴンボール",
+          "Dragonball",
+          "Bola de Drac",
+          "דרגון בול",
+          "ดราก้อนบอล",
+          "Bảy Viên Ngọc Rồng",
+          "DB",
+          "Драконий жемчуг"
+        ],
+        "year": 1986,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/223"
+      },
+      "characters": [
+        {
+          "id": 2159,
+          "name": "Kuririn",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2159-qtEuMYyOUkwY.jpg",
+          "description": "",
+          "nicknames": [
+            "Kuririn",
+            "クリリン",
+            "Kurin-chan",
+            "Krillin",
+            "Kulilin",
+            "Clearin",
+            "Crilin",
+            "Crili"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中真弓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95075-1qD4TeW1ON92.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kuririn",
+            "name_native": "クリリン",
+            "name_alternative": [
+              "Kurin-chan",
+              "Krillin",
+              "Kulilin",
+              "Clearin",
+              "Crilin",
+              "Crili"
+            ],
+            "description": "A short, hairless (for most of the series) warrior monk, loyal Kuririn provides comic relief during tense moments. Like [Chiaotzu](https://anilist.co/character/2151/Chaozu), Kuririn doesn't have a nose. He is a good-natured, outgoing and competitive martial artist.\n\nOnce a fierce rival of [Son Goku](https://anilist.co/character/246/Son-Gokuu), he quickly became his best friend while training under [Muten Roshi](https://anilist.co/character/6167/Muten-Roushi). He also is close to Goku's son, [Gohan](https://anilist.co/character/2093/Son-Gohan).\n\n~!He eventually marries [Android 18](https://anilist.co/character/4318/Jinzouningen-18-gou) and settles down, having a daughter named [Marron](https://anilist.co/character/2106/Marron).!~"
+          }
+        },
+        {
+          "id": 4014,
+          "name": "Yamcha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4014-of2ONLvA7T8p.jpg",
+          "description": "",
+          "nicknames": [
+            "Yamcha",
+            "ヤムチャ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "古谷徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95326-OfRv2DBnFVZU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yamcha",
+            "name_native": "ヤムチャ",
+            "name_alternative": [],
+            "description": "__Dragonball:__ Yamcha, the notorious desert bandit, started out as an antagonist of [Goku](https://anilist.co/character/246/Son-Gokuu) but quickly became his friend thanks to [Bulma](https://anilist.co/character/678/Bulma). He lived in the desert, which resulted in him never having much female contact. Whenever he encountered Bulma, he would blush immensely and become petrified right on the spot.  Yamcha's trade mark move was known as the Fist of the Wolf Fang. With this move, he would strike the opponent with his hands in a claw like pose with his middle finger, ring finger and thumb curled.  His best friend is a floating shift-shaping cat named [Pu'ar](https://anilist.co/character/677/Puar).\n\n__Dragonball Z:__ Yamcha's cleaned up his act as a desert bandit and become a member of the Z-fighters as well as a student of [Master Roshi](https://anilist.co/character/6167/Muten-Roushi).  Yamcha gained incredible ki control as displayed in his new signature move the Spirit Ball.  With this move, he can guide a ki ball in any direction using his middle and index fingers. \n\n~!When the Saiyans, [Vegeta](https://anilist.co/character/913/Vegeta) and his henchman [Nappa](https://anilist.co/character/5224/Nappa), first came to earth. Yamcha was the first to die after Nappa planted the Saibaman.  In the Android Saga, Yamcha was the first to discover [Androids 19](https://anilist.co/character/6115/Jinzouningen-19gou) and [20](https://anilist.co/character/2146/Dr-Gero) and was the second to be harmed by them (after [Yajirobe](https://anilist.co/character/2097/Yajirobe)).!~"
+          }
+        },
+        {
+          "id": 6167,
+          "name": "Muten Roushi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6167-aMPt1bHf5YbV.jpg",
+          "description": "",
+          "nicknames": [
+            "Muten Roushi",
+            "武天老師",
+            "Master Roshi",
+            "Kame Sennin",
+            "Jackie Chun",
+            "Turtle Hermit",
+            "Master Kame",
+            "Turtle Immortal",
+            "Follet Tortuga",
+            "Den Gamle",
+            "Genio delle Tartarughe di Mare",
+            "Genio della Testuggine",
+            "Mutenzo"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "八奈見乗児",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95670-fTFcKuDyrOjc.png",
+              "language": "日语"
+            },
+            {
+              "name": "宮内幸平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/9188.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Muten Roushi",
+            "name_native": "武天老師",
+            "name_alternative": [
+              "Master Roshi",
+              "Kame Sennin",
+              "Jackie Chun",
+              "Turtle Hermit",
+              "Master Kame",
+              "Turtle Immortal",
+              "Follet Tortuga",
+              "Den Gamle",
+              "Genio delle Tartarughe di Mare",
+              "Genio della Testuggine",
+              "Mutenzo"
+            ],
+            "description": "The \"Turtle Immortal\" is an ancient and wise martial arts master and the first Earthling to wield the Kamehameha. Though he seems frail, he is a mighty warrior. Muten-Rôshi trained [Grandpa Son Gohan](https://anilist.co/character/2104/Son-Gohan), [Ox King](https://anilist.co/character/2094/Gyuumaou), [Son Goku](https://anilist.co/character/246/Son-Gokuu), [Kuririn](https://anilist.co/character/2159/Kuririn), and [Yamcha](https://anilist.co/character/4014/Yamcha). His home, Kame House, a shack on a small isolated island, serves as a gathering place for the Z Fighters and friends.\n\nHe is a stock character, as he is both the archetypal wise old man and dirty old man, the latter being typical of shōnen anime. Sometimes he gets cranky, which further provides comic relief. He is bald, with a thick goatee and a thick mustache. Muten-Rôshi wears beach clothes or a martial arts suit and a turtle shell on his back. He usually wields a walking stick.\n\nHis companions are usually [Oolong](https://anilist.co/character/2108/Oolong), [Umigame](https://anilist.co/character/2112/Umigame) and [Lunch](https://anilist.co/character/2105/Lunch)."
+          }
+        },
+        {
+          "id": 677,
+          "name": "Pu'ar",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b677-PTNZaPeuV1Dx.jpg",
+          "description": "",
+          "nicknames": [
+            "Pu'ar",
+            "プーアル",
+            "Puar",
+            "Pu'erh",
+            "Squeaker"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "渡辺菜生子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95674-VNsBjVJQe5kD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pu'ar",
+            "name_native": "プーアル",
+            "name_alternative": [
+              "Puar",
+              "Pu'erh",
+              "Squeaker"
+            ],
+            "description": "Pu'ar is a soft-spoken shapechanging blue creature and the constant companion of Yamcha. The name is revealed to be a pun on Pu-erh tea. Pu'ar is neither a cat or a mouse, albeit the series creator Akira Toriyama stated that he had drawn the character to look a little bit like a cat. Traveling alongside Yamcha, the two worked as a team robbing anyone traveling through the desert area in which they lived. Pu'ar has an innate ability of levitation or flight, and is nearly always seen simply 'standing' in thin air at about human head height.  Pu'ar has the unique ability to shapeshift into any form, even inanimate objects, and can hold that form for as long as desired; his strength is not increased by the change, however, and as such he is unable to turn into something that can be used up like fuel or food. Pu'ar graduated from the same shapeshifting academy as Oolong, although unlike Oolong, Pu'ar had completed all of the academy training and does not have Oolong's difficulties with maintaining a transformed state. Pu'ar shows up quite a bit in the beginning, but becomes less of a presence as the series continues. As the driving theme of the series is mostly about fighting, Pu'ar can do little more than react to the horrors of the latest supervillains in the story.  There is some debate regarding the character's gender. Despite being portrayed by several female voice actors, the character has been referred to with both male and female pronouns during the anime. Though the issue of gender is never directly addressed, Toriyama has referred to Pu'ar as \"he\" while answering a fan question in the \"Ask Me Anything\" section in the back of the manga. Some fans believe that since shape-shifters can assume many different forms, gender is a moot point."
+          }
+        },
+        {
+          "id": 2094,
+          "name": "Gyuumaou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2094.jpg",
+          "description": "",
+          "nicknames": [
+            "Gyuumaou",
+            "牛魔王",
+            "Ox-King"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "郷里大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95744-Iu1p0eNvShfN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gyuumaou",
+            "name_native": "牛魔王",
+            "name_alternative": [
+              "Ox-King"
+            ],
+            "description": "Gyuumaou is based on Niúmówáng (\"Ox-Demon-King\", \"Ox Devil Lord\" or \"Ox Tyrant\") a character from the Chinese novel Journey to the West.\n\nDespite his threatening name, he is really quite harmless and fun-loving; given that Gyuu is the crest on his helmet, it is incorrectly assumed by fans that Gyuu is his surname and Maō is his first. He was somewhat demonic and frightening when his castle became engulfed in flames on Frypan Mountain.\n\nHe wreaked havoc through the village at the foot of the mountain, threatening anyone he presumed would steal his treasure, until Kamesen'nin showed him the error of his ways. He is Chichi's father and thus Son Goku's father-in-law. Gyuumaouis very strong and trained alongside Grandpa Son Gohan under Muten-Rôshi's tutelage.\n\nAs the series progresses, Gyuumaou's role lessens in the story and eventually fades into being a background character, used only for slight comic relief. Gyuumaouis also the grandfather of Gohan and Goten. In anime filler, he has a few large roles though from time to time, mainly accompanying his family and the others."
+          }
+        },
+        {
+          "id": 2095,
+          "name": "Suno",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2095.jpg",
+          "description": "",
+          "nicknames": [
+            "Suno",
+            "スノ",
+            "Snow"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "渡辺菜生子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95674-VNsBjVJQe5kD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Suno",
+            "name_native": "スノ",
+            "name_alternative": [
+              "Snow"
+            ],
+            "description": "A 9-year-old girl who lives in Jingle Village. She rescues Son Goku from the freezing weather that he isn't accustomed to when his plane crashes in the cold northern region. After the Red Ribbon Army saga, she appears later mostly in the anime when Piccolo Daima� destroys a town's celebrations and she was to give the King some flowers. She reappears later on in DBZ when Goku asks for energy. In Dragon Ball GT, she makes her final appearance alongside Android #8 in the episode that Piccolo sacrifices himself to rid of the Black Star Dragon Balls' existence. It is important to note that, not only are her subsequent appearances not canon to the manga (except in the Buu Saga), but that she is only named in the anime as well."
+          }
+        },
+        {
+          "id": 2096,
+          "name": "Upa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2096.jpg",
+          "description": "",
+          "nicknames": [
+            "Upa",
+            "ウパ",
+            "Oopa"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "堀江美都子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95683-MajreqecBQpy.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Upa",
+            "name_native": "ウパ",
+            "name_alternative": [
+              "Oopa"
+            ],
+            "description": "The son of Bora, he accompanies Son Goku for a short time during the Fortuneteller Baba Saga in order to recover all of the Dragon Balls so they can wish his father back to life. Upa is a member of the native tribe who serve as the guardians of Karin Tower. His father is the chief, however, the rest of the tribe is not seen until the end of the manga. He participates in the fight against Uranai Baba's thugs and helps Pu'ar defeat Dracula Man (a kickboxing vampire) with garlic breath. At the end of Dragon Ball Z, now an adult, he is shown giving energy to Goku's Genki Dama. Upa and his father also make a final cameo appearance in Dragon Ball GT on the episode \"Piccolo's Decision\". It is interesting to note that when Kuririn first meets Upa, he thinks that Upa is a cute girl. He is disgusted when he finds out otherwise and apologizes to Upa."
+          }
+        },
+        {
+          "id": 2097,
+          "name": "Yajirobe",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2097.jpg",
+          "description": "",
+          "nicknames": [
+            "Yajirobe",
+            "ヤジロベー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中真弓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95075-1qD4TeW1ON92.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yajirobe",
+            "name_native": "ヤジロベー",
+            "name_alternative": [],
+            "description": "Yajirobe is a human who first appeared near the end of Dragon Ball. He is a samurai who used to live in the wilderness. He met Son Goku when Goku ate the fish he was cooking, which lead to a conflict between them. The two become friends just as Piccolo Daimao's third offspring Cymbal shows up wanting the One-Star Dragon Ball Yajirobe has. Yajirobe defeats and eats Cymbal. With the Piccolo Daimao threat abound, Yajirobe cowers instead of joining Goku to defeat him. He supports the Z Fighters mostly from the sidelines after by living with Karin, growing and delivering Senzu to the group.    ~!Yajirobe shows a surprising moment of bravery during the Vegeta Saga, when he uses his katana to sever Oozaru Vegeta's tail, and later slicing through Vegeta's armor. !~  After that, his role as a fighter ends, and his overall role in the series is just giving the heroes Senzu Beans, although he is the spotlight of some comic-relief filler during the Artificial Human and Cell Sagas. By the time of the Majin Buu Saga, he is a minor character, but still makes small appearances. He only briefly appears in Dragon Ball GT, now having a mustache, in episode 40.  In the alternate Future Trunks time line, Yajirobe, interestingly enough, didn't go into hiding with Master Roshi and the others but instead fought against the Artificial Humans. Although this is not seen in the Trunks TV Special, a brief scene of his death is seen in the Cell Saga of the anime.  He is voiced in the original Japanese version by Mayumi Tanaka, who also voices Kuririn (this was more than likely done because the original manga has Goku saying that Yajirobe's voice sounds like Kuririn's).  (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 2098,
+          "name": "Jinzouningen 8-gou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2098.jpg",
+          "description": "",
+          "nicknames": [
+            "Jinzouningen 8-gou",
+            "人造人間８号",
+            "Hacchan",
+            "Android 8",
+            "Eighter"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "飯塚昭三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95726-SddF7dYKZshB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jinzouningen 8-gou",
+            "name_native": "人造人間８号",
+            "name_alternative": [
+              "Hacchan",
+              "Android 8",
+              "Eighter"
+            ],
+            "description": "Android 8  is the first android seen in the series, and the eighth in the series of androids built by Dr. Gero. He resembles the monster in Frankenstein. He was nicknamed \"Eighter\" (Hat-chan in Japanese and Octavio in the Mexican dub) by Goku. He then took it on as his real name. He was first seen when Murasaki tried to use him to fight Goku as a last resort inside Muscle Tower. He helped take down General White and drive the Red Ribbon Army away from Jingle Village.  In the anime only, he appears in the King Piccolo Saga when Chow Castle is sieged by Piccolo and Snow is there. He makes small cameos during the two sequels, Dragon Ball Z and GT."
+          }
+        },
+        {
+          "id": 2101,
+          "name": "Bora",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2101-VF2lGo5GXtkT.png",
+          "description": "",
+          "nicknames": [
+            "Bora",
+            "ボラ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "銀河万丈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95330-PHDm9uDhKAsT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bora",
+            "name_native": "ボラ",
+            "name_alternative": [],
+            "description": "A powerful native who lives at the base of Karin Tower with his son Upa. He is muscular, tall, and a man of few words.      ~!Shortly after befriending Son Goku, he fends off Captain Yellow&#039;s men by himself, but he is later speared by Tao Pai Pai, who is looking for Goku, and killed. Goku avenges him by taking training from Karin and defeating Tao Pai Pai himself. When Shenlong is summoned again, Goku&#039;s wish is that Bora be brought back to life. In his next appearance, he assists Goku once more by throwing Yajirobe (with an injured Goku on his back) up Karin Tower. Bora is seen with his son (and several other natives) in the first and last couple episodes of Dragon Ball Z when the Z Warriors go to Kami&#039;s Lookout for training against the Saiyans and when he gives energy to Goku for his Genki Dama. He also briefly appears in the GT episode &quot;Piccolo&#039;s Decision&quot; when Goku is with Upa. Bora&#039;s appearance and customs are based upon the stereotypical Native American.!~"
+          }
+        },
+        {
+          "id": 2102,
+          "name": "Chi-Chi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2102.jpg",
+          "description": "",
+          "nicknames": [
+            "Chi-Chi",
+            "チチ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "荘真由美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96649-A5CDLPxmlr8A.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chi-Chi",
+            "name_native": "チチ",
+            "name_alternative": [],
+            "description": "__Race:__ Earthling\n __Height:__ 5' 2\"\n__Birth year:__ 737 Age\n__Hobbies:__ Working in the Farm, Gohan's Education\n__Favorite Food:__ Chimaki\n__Favorite Vehicle:__ Tractor\n\nChi-Chi (チチ, Chichi) is the wife of Son Goku, and the mother of Son Gohan and Son Goten. She is often depicted as a sometimes nagging, overprotective but fundamentally well-meaning woman, who sincerely looks for her children and husband's well-being even when their views clash. She and Goku meet as children, and Goku promises to marry her thinking marriage is food. Several years later, she finds him at the 23rd Tenkaichi Budoukai, and despite confessing that he misunderstood what she had meant, he fulfills his promise and asks her to marry him. As she gets older, she disapproves of Goku's lifestyle, enough to ban Gohan from following in his foot steps, but due to the threats like Vegeta and Freeza, she is forced to let him train under Piccolo and Goku. She relaxes this with Goten by training him herself while Gohan is away for school. She has a wild temper and can react in violent anger over the slightest annoyance which means all of the Z Warriors fear her and try to avoid making her mad.  (Source: Dragon Ball Super Exciting Guide, Character Edition)"
+          }
+        },
+        {
+          "id": 2103,
+          "name": "Briefs Hakase",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2103.jpg",
+          "description": "",
+          "nicknames": [
+            "Briefs Hakase",
+            "ブリーフ博士",
+            "Dr. Brief",
+            "Dr. Briefs"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "八奈見乗児",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95670-fTFcKuDyrOjc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Briefs Hakase",
+            "name_native": "ブリーフ博士",
+            "name_alternative": [
+              "Dr. Brief",
+              "Dr. Briefs"
+            ],
+            "description": "The father of Bulma, Dr. Briefs is an elderly, brilliant and eccentric scientist. He is one of the smartest men in the world. Dr. Briefs is the founder of Capsule Corporation and the man responsible for the invention of the Hoi-Poi Capsules, which can shrink inanimate objects down to pocket sized capsule of namesake. He is easy-going and friendly. Dr. Briefs rarely leaves his home, even if he knows he'll die (in the Buu Saga, he and his wife refuse to leave their pets even after Capsule Corp. has been specifically targeted for destruction; they know they can always be wished back) and he can often be found tinkering on a number of complicated gadgets while surrounded by his beloved pets. His favorite pet is a small black cat, named \"Tama\" in the original anime and \"Scratch\" in the FUNimation dub."
+          }
+        },
+        {
+          "id": 2104,
+          "name": "Gohan Son",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2104.jpg",
+          "description": "",
+          "nicknames": [
+            "Gohan Son",
+            "孫悟飯じいさん",
+            "Grandpa Gohan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "阪脩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95147-FQpTmnogj7v1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gohan Son",
+            "name_native": "孫悟飯じいさん",
+            "name_alternative": [
+              "Grandpa Gohan"
+            ],
+            "description": "Grandpa Son Gohan became the adoptive father and grandfather of [Son Goku](https://anilist.co/character/246/Son-Gokuu) when he found him near the landing site of his space ship when he was an infant. Gohan was taught martial arts by [Muten-Roshi](https://anilist.co/character/6167/Muten-Roushi) and passed on his knowledge to Goku. Gohan warned Goku to never look at a full moon and to stay indoors on nights of one - implying that he had already transformed before and Gohan managed to survive the first time. He followed his advice for sometime until one night when Goku stepped outside to relieve himself; he then glanced at it, transformed into an Oozaru and killed Gohan by stomping on him. From that time on, Goku believed that Gohan's soul was in the Four-Star Dragon Ball.\n\n~!He is brought back by Uranai Baba during the Fortuneteller Baba Saga to make a point to Goku that he needs to train harder and make his tail work for him instead of against him. He also appears in the filler mini-saga \"The Wedding arc\" where he is an assistant to Annin and Goku must use the Magical Furnace to put out the fire on Ox King's castle.!~\n\nHe then only appears in flashbacks for the rest of the series. Grandpa Gohan is a playable character in Dragon Ball: Advanced Adventure and Dragon Ball Z: Budokai Tenkaichi 2."
+          }
+        },
+        {
+          "id": 2105,
+          "name": "Lunch",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2105-u5dq4fBpSho9.png",
+          "description": "",
+          "nicknames": [
+            "Lunch",
+            "ランチ",
+            "Launch",
+            "Marilynn",
+            "Easy Pickings Lunch (頂きランチ)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小山茉美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95571-QuL7zlRwRcxa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lunch",
+            "name_native": "ランチ",
+            "name_alternative": [
+              "Launch",
+              "Marilynn",
+              "Easy Pickings Lunch (頂きランチ)"
+            ],
+            "description": "Lunch is [Muten-Roshi's](https://anilist.co/character/6167/Muten-Roushi) house maid, retrieved by the young [Goku](https://anilist.co/character/246/Son-Gokuu) and [Krilin](https://anilist.co/character/2159/Kuririn) in order to receive martial-arts training from him (his requirement was to \"bring him a pretty girl\").\n\nShe has dissociative identity disorder; whenever she sneezes, she switches between a sweet, innocent girl with blue hair, and a cleavage-bearing blonde bombshell who commits crimes for fun and is quick to respond with gunfire when angered (pulling a machine-gun out from nowhere when needed). Neither of Lunch's personalities remembers what the other says or does, and it is never said if the evil side knows of the innocent self; however, the innocent Lunch is aware of her evil side, although she doesn't really seem very concerned over her presence."
+          }
+        },
+        {
+          "id": 2107,
+          "name": "Bulma no Mama",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2107.jpg",
+          "description": "",
+          "nicknames": [
+            "Bulma no Mama",
+            "ブルマのママ",
+            "Mam",
+            "Mom",
+            "Mama",
+            "Mrs. Briefs"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "向井真理子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105681-gdz4eOxVEEdn.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bulma no Mama",
+            "name_native": "ブルマのママ",
+            "name_alternative": [
+              "Mam",
+              "Mom",
+              "Mama",
+              "Mrs. Briefs"
+            ],
+            "description": "Mrs. Briefs is Bulma's mother and the wife of Dr. Briefs. She is always interested in flirting with Goku and Vegeta. In the anime, she comments that she would like to go on a date with Vegeta and Goku. When Vegeta was offered a place to stay by Bulma - not long after Vegeta had tried to kill the Z Fighters - he was immediately welcomed in and taken aback by Mrs. Briefs; the shock of someone being so pleasant to him almost overwhelmed him.\n\nNot much is known about her, but in the anime she's characterized as the archetypal blonde airhead who loves shopping and eating expensive cakes. Probably the most special feature of this woman is the fact that, as far as physical appearances go, she looks at least as young as her daughter, and unlike Bulma, she doesn't appear to age at all throughout Dragon Ball Z.\n\nNot much is known about her, but in the anime she's perpetually happy, and is characterized as the archetypal blonde airhead who loves shopping and eating expensive cakes. Her first name is unknown."
+          }
+        },
+        {
+          "id": 2108,
+          "name": "Oolong",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2108.jpg",
+          "description": "",
+          "nicknames": [
+            "Oolong",
+            "ウーロン",
+            "Oolon"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "龍田直樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1522.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "玄田哲章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95761-nwndYRCqJxno.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Oolong",
+            "name_native": "ウーロン",
+            "name_alternative": [
+              "Oolon"
+            ],
+            "description": "Oolong is a shapeshifting humanoid pig, standing about three feet tall with pale pink skin, who tends to dress in trousers, button-down shirts, and suspenders. He was expelled from shapeshifting training for stealing the teacher's underwear and lacks the ability to change his form for more than five minutes at a time without a break. With his shapeshifting, Oolong can look like anything at all.\n\nOolong's initial appearance was as a villain who terrorized a village and kidnapped their young women. [Son Goku](https://anilist.co/character/246/Son-Gokuu) defeated Oolong and the girls were returned to their village. [Bulma](https://anilist.co/character/678/Bulma) decided that he might be useful on her Dragonball quest and persuaded him to join their expedition. Eventually he becomes good friends with Goku and the others, and helps them to find more Dragonballs. He plays a large role in the beginning of Dragon Ball, but by the end of Dragon Ball Z, he just shows up from time to time. His poor shapeshifting skills (and innate cowardice) made him a very weak character that didn't have much to do once the tone was shifted to more serious action.\n\nIn the anime and several movies, he appears quite often as comic relief. He is loosely based on the character Zhu Bajie from the classic Chinese novel Journey to the West."
+          }
+        },
+        {
+          "id": 2109,
+          "name": "Tenkaichi Budokai Announcer",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2109.jpg",
+          "description": "",
+          "nicknames": [
+            "Tenkaichi Budokai Announcer",
+            "天下一武道会アナウンサー",
+            "Announcer",
+            "World Tournament Announcer"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内海賢二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95138-0iK7jnkuJb6o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tenkaichi Budokai Announcer",
+            "name_native": "天下一武道会アナウンサー",
+            "name_alternative": [
+              "Announcer",
+              "World Tournament Announcer"
+            ],
+            "description": "The man who hosts every Tenka-ichi Budokai from the beginning of Dragon Ball to the end of Dragon Ball Z. He mainly just commentates on the matches, but over the years he has become an acquaintance with the Z Warriors, and knows that they are responsible for saving the Earth. He even says so in one episode that they killed Cell, although it was Son Gohan in actuality that destroyed the villain. He doubts Mr. Satan's abilities, such as in the episode Vegeta goes out of control. In every tournament, aside from the 21st, something bad happens that enhances his role such as in the King Piccolo Saga, he witnessed Kuririn murdered by the Demon King Piccolo's warrior Tambourine and later he becomes very important as he witnesses Son Goku's fight with Piccolo from the sidelines with the others, making him one of the few \"civilians\" to know the truth.   At the end of Dragon Ball Z, his age starts to show as he is losing hair and has very noticeable wrinkles, but in Dragon Ball GT his descendant's hair remains white. Although he doubts Mr. Satan for being the one who defeated Cell, he praises him in order to make fans cheer."
+          }
+        },
+        {
+          "id": 2110,
+          "name": "Baba Uranai",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2110.jpg",
+          "description": "",
+          "nicknames": [
+            "Baba Uranai",
+            "占いババ",
+            "Old Hag",
+            "Witch",
+            "Fortuneteller Baba"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "滝口順平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95478-OmoNR62eCi7t.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Baba Uranai",
+            "name_native": "占いババ",
+            "name_alternative": [
+              "Old Hag",
+              "Witch",
+              "Fortuneteller Baba"
+            ],
+            "description": "Uranai Baba (占いババ, Uranai Baba?) is an old witch that has been fortune-telling for more than 500 years. She is Muten Roshi's older sister, whom he bickers with. With her unique clairvoyant capabilities, she is able to see into the future using her crystal ball. She is more than happy to tell anyone what their future holds for them, although, the price is very costly at a payment up front of Ƶ10,000,000,000 zeni. However, the alternative way of gaining one's fortune is to defeat her five &quot;other-worldly&quot; martial arts experts. She has a knack for divination skills with her crystal ball, allowing her to see any place on Earth, or even look deep into the future. She can also travel to the &quot;Other World&quot; and back."
+          }
+        },
+        {
+          "id": 2112,
+          "name": "Umigame",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2112.jpg",
+          "description": "",
+          "nicknames": [
+            "Umigame",
+            "海亀",
+            "Turtle",
+            "Sea Turtle"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "郷里大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95744-Iu1p0eNvShfN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Umigame",
+            "name_native": "海亀",
+            "name_alternative": [
+              "Turtle",
+              "Sea Turtle"
+            ],
+            "description": "Muten-Rôshi's friend and long-time companion, the good-natured lovable turtle lives in the Kame House with the elderly hermit. During Dragon Ball Z in the anime filler, he celebrates his 1,000th birthday in episode 117. He plays a relatively small part in the manga, but he has quite a few large roles in the anime. When he first appeared, he was in the wilderness, alone and lost. He was picking mushrooms when he got separated from his friends and had since been wandering around on land for over a year. Goku kindly takes on the task of returning him to the ocean, which he is very grateful for. It is Umigame who introduces Muten-Rôshi to Bulma and Son Goku. Umigame does not care much for Muten-Rôshi's perverse interests, enjoying honest interests himself. He was one of the first animal characters Goku meets and befriends, giving a small sense of irony that in the final Dragon Ball GT episode, he's one of the few characters that Goku bids farewell to after departing with Shenlong. In the anime, his power level is 0.001, as evident when Bulma tests Raditz's scouter in the Vegeta Saga."
+          }
+        },
+        {
+          "id": 2113,
+          "name": "Tama",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2113.jpg",
+          "description": "",
+          "nicknames": [
+            "Tama",
+            "タマ",
+            "Scratch"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "TARAKO",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95345-mcIqzQn9Fmi7.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tama",
+            "name_native": "タマ",
+            "name_alternative": [
+              "Scratch"
+            ],
+            "description": "A small black cat, a pet of Dr. Briefs that is always seen sitting on his shoulder. \"Tama\", which is \"Ball\" in Japanese, is suggested to be a female, although nothing official has been stated on the cat's gender (In the English dub, however, Tama is female, referring to a quote by Dr. Briefs; \"This is no ordinary cat! She's had 5 years experience!\"). It is also suggested that Tama knows about how machines work and can be fixed, but the lack of speech would pose quite an issue."
+          }
+        },
+        {
+          "id": 2114,
+          "name": "Akkuman",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2114.jpg",
+          "description": "",
+          "nicknames": [
+            "Akkuman",
+            "アックマン",
+            "Devil Man",
+            "Spike the Devil Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "池水通洋",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96075-pKIYt8gerJmJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akkuman",
+            "name_native": "アックマン",
+            "name_alternative": [
+              "Devil Man",
+              "Spike the Devil Man"
+            ],
+            "description": "He was originally Uranai Baba's strongest fighter, but was bumped down one rank by Grandpa Son Gohan. His Akkumaito Kousen has the unusual ability to make people explode into pieces by expanding the evil inside of their heart; apart from that, his skill as a fighter is unbelievable, having won the Tenka-ichi Budokai twice in the past. He gave Son Goku a run for his money and tried to blow him to shreds, but unfortunately for him, he didn't know that Goku had a pure heart. He returns in Dragon Ball Z to give his energy to Goku's Super Genki Dama. His name is a pun on Akuma (悪魔 \"devil\")."
+          }
+        },
+        {
+          "id": 2115,
+          "name": "Sanzoku Kuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2115.jpg",
+          "description": "",
+          "nicknames": [
+            "Sanzoku Kuma",
+            "山賊熊",
+            "Bear Thief"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "坂熊孝彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10594.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sanzoku Kuma",
+            "name_native": "山賊熊",
+            "name_alternative": [
+              "Bear Thief"
+            ],
+            "description": "A huge sword-wielding bear that has a taste for sea turtle. Goku's first true battle is with this bear, who refuses to back down after Goku threatens to fight him if he won't let them pass. He was defeated easily by Goku with a punch to the forehead. The bear thief is a playable character in the game Dragon Ball: Advanced Adventure."
+          }
+        },
+        {
+          "id": 2116,
+          "name": "Shen",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2116.jpg",
+          "description": "",
+          "nicknames": [
+            "Shen",
+            "シェン",
+            "Kami",
+            "Hero"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "青野武",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95142-73E1XmGOOmhG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shen",
+            "name_native": "シェン",
+            "name_alternative": [
+              "Kami",
+              "Hero"
+            ],
+            "description": "The alias that Kami enters the 23rd Tenka-ichi Bud"
+          }
+        },
+        {
+          "id": 2118,
+          "name": "Ran Fuan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2118.jpg",
+          "description": "",
+          "nicknames": [
+            "Ran Fuan",
+            "ランファン",
+            "Ranfan",
+            "Mystery Fighter"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "川浪葉子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103793-ABOn8cqigHMb.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ran Fuan",
+            "name_native": "ランファン",
+            "name_alternative": [
+              "Ranfan",
+              "Mystery Fighter"
+            ],
+            "description": "A competitor in the 21st Martial Arts Tournment who uses the fact that she's a \"defenseless\" woman as a weapon. For example, she shrieks when someone is about to hit her, causing them to pause, and in that time, she'll deliver a crushing punch or kick. If that technique fails, then she strips and tries to shock or embarrass her opponent. Namu is only able to defeat her by closing his eyes and attacking her without, \"looking upon her womanly flesh.\" In the manga, her picture is briefly seen on one of the image rosters as one of the many targets of Tambourine's mission to kill the martial artists in the King Piccolo Saga, though it is unknown if Ran Fuan was slain; given that she had not appeared in the manga or the anime after the Budoukai, it is safe to say that Tambourine was stopped before he could kill her. In the U.S. dub, the stripping was excluded. Instead, the scene of one of Namu's failed attacks is shown followed by her twitching foot to show she was knocked out. This is strangely not edited in recaps, which clearly show her in her underwear. The words Ran &amp; Fuan are Japanese for \"Lingerie &amp; Foundation garments\"."
+          }
+        },
+        {
+          "id": 2120,
+          "name": "Namu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2120.jpg",
+          "description": "",
+          "nicknames": [
+            "Namu",
+            "ナム",
+            "Nam"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "塩沢兼人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95424-Zd7vHDVhSWKs.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Namu",
+            "name_native": "ナム",
+            "name_alternative": [
+              "Nam"
+            ],
+            "description": "Namu first appears in the 21st Tenka-ichi Budōkai, fighting Ran Fuan. He has problems fighting her, because he is a Buddhist monk and she strips to her underwear, socks &amp; shoes, but he overcomes and defeats her. His next fight is against Son Goku, and while it is an intense fight, he loses in the end. He competed because he needed the money to buy lots of water; where he was from, there was a terrible drought, and he had been sent to find a solution. Being defeated, however, he is unable to get the money to buy water and decides to leave. Muten Roshi reads his mind and gets acquainted with his intentions. He then gives him a capsule so that he can store water from a well, and in return, asks Namu to impersonate Muten Roshi in the crowd, as to protect Roshi's secret identity from his students, who were suspicious of Chun being Muten Roshi. In the 22nd Tenka'chi Bud�kai, he also makes an appearance in one of its anime filler, claiming to Goku and Roshi that this time he came to enjoy it, but he ends up losing to Tenshinhan on the preliminary rounds, as he was left unconscious and nearly killed as Tenshinhan wanted to leave a message to Goku and his friends. Later, he is killed by Piccolo Daimaō's minion, Tambourine. He is then revived by Shenlong. He is seen later in the DBZ series contributing to Goku's spirited bomb, and has a brief appearance in GT in the episode titled Piccolo's Decision. There are some rumors indicating that he might be related to Uub, but there is no confirmation. His name comes from the Nenbutsu: \"Namu Amida Butsu\"."
+          }
+        },
+        {
+          "id": 2121,
+          "name": "Mutaito",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2121.jpg",
+          "description": "",
+          "nicknames": [
+            "Mutaito",
+            "武泰斗",
+            "Master Mutaito"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内海賢二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95138-0iK7jnkuJb6o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mutaito",
+            "name_native": "武泰斗",
+            "name_alternative": [
+              "Master Mutaito"
+            ],
+            "description": "Mutaito is Muten Roshi and the Tsuru-Sen&#039;nins&#039; teacher. He successfully seals Piccolo Daimaō in the Denshi Jar with his Mafūba technique, but in invoking the attack, he dies from the severe exhaustion of using the move. In the anime, Son Goku actually meets Mutaito and he&#039;s the first person in the series to teach Goku about controlling his &quot;ki&quot;. In fact, he&#039;s the first person to even mention the word, which soon becomes the explanation for the incredible energy techniques used throughout all of the Dragon Ball series."
+          }
+        },
+        {
+          "id": 2122,
+          "name": "Mira-kun",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2122.jpg",
+          "description": "",
+          "nicknames": [
+            "Mira-kun",
+            "ミイラくん",
+            "Mummy Man",
+            "Bandages the Mummy"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "飯塚昭三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95726-SddF7dYKZshB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mira-kun",
+            "name_native": "ミイラくん",
+            "name_alternative": [
+              "Mummy Man",
+              "Bandages the Mummy"
+            ],
+            "description": "Bandages is Baba's mummy fighter. He fought third, and his first competitor was Yamcha. Bandages defeated him, but was later defeated by Goku. He and Akkuman later return to give Goku their energy so he can defeat Majin Buu (thinking they were helping Mr. Satan).   The word mirra is Portuguese for the embalming ointment myrrh and has come to mean \"mummy\" in Japanese."
+          }
+        },
+        {
+          "id": 2124,
+          "name": "Chapa-O",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2124.jpg",
+          "description": "",
+          "nicknames": [
+            "Chapa-O",
+            "チャパ王",
+            "King Chapa"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "柴田秀勝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95018-HXJMMED74SVO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chapa-O",
+            "name_native": "チャパ王",
+            "name_alternative": [
+              "King Chapa"
+            ],
+            "description": "A famed competitor known for his strength, he loses to Son Goku in the preliminary rounds of both the 22nd and 23rd Tenka-ichi Bud0kai's.  He is named after the Indian food Chapati.    ~!In the anime, he was the second victim to be attacked and murdered by Tambourine, but was revived due to the Dragon Balls. !~"
+          }
+        },
+        {
+          "id": 2125,
+          "name": "Dracula Man",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2125.jpg",
+          "description": "",
+          "nicknames": [
+            "Dracula Man",
+            "ドラキュラマン",
+            "Fangs the Vampire"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "戸谷公次",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96523-TTfykOzdDdLJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dracula Man",
+            "name_native": "ドラキュラマン",
+            "name_alternative": [
+              "Fangs the Vampire"
+            ],
+            "description": "Dracula Man is one of Baba's ghostly fighters. He is a vampire Muay Thai kickboxer and performs an annoyingly long Wai khru ram muay dance before his match. He first fights Kuririn and manages to suck his blood. Kuririn breaks free but loses by ring out. Dracula Man then fights Pu'ar and Upa. They don't seem to stand a chance until Upa eats a bunch of garlic &amp; starts breathing on Dracula Man. He fights back by trying to bite Pu'ar. Pu'ar turns into a porcupine seconds before and Dracula Man gets a mouth full of needles. Upa then gets into a stance that resembles a cross. This freaks Dracula Man out so he turns into a bat and tries to escape. Pu'ar quickly turns into a giant hand a slaps Dracula Man out of the ring.  Dracula Man appears to make a brief appearance in the anime of DBZ during the Android Saga as a member of the biker gang that chases the Androids while they're riding around in their van."
+          }
+        },
+        {
+          "id": 2126,
+          "name": "Bacterian",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2126.jpg",
+          "description": "",
+          "nicknames": [
+            "Bacterian",
+            "バクテリアン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中康郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/9114.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bacterian",
+            "name_native": "バクテリアン",
+            "name_alternative": [],
+            "description": "A huge filthy competitor in the 21st Tenka-ichi Bud�kai who has never washed or brushed his teeth since the day he was born. He uses his stench as a weapon since his opponents need to hold their noses closed, so he can attack them better. All of his special attacks are disgusting and range from spitting on his victim, to touching them with sweat from his groin. Kuririn almost loses to him, until Son Goku reminds Kuririn that he's just imagining the smell because he doesn't have a nose (A joke on Kuririn's drawn appearance), which Kuririn quickly remembers and beats Bacterian almost instantly. Later, in the anime, it was revealed that he was homeless and living in a city dump. The anime also shows him being attacked and murdered by Tambourine, but came back to life due to the Dragon Balls."
+          }
+        },
+        {
+          "id": 2127,
+          "name": "Giran",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2127.jpg",
+          "description": "",
+          "nicknames": [
+            "Giran",
+            "ギラン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "銀河万丈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95330-PHDm9uDhKAsT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Giran",
+            "name_native": "ギラン",
+            "name_alternative": [],
+            "description": "A huge Pteranodon monster who competes against Son Goku in the 21st Tenka'ichi Budokai and forfeits the match. He's very powerful for his strength, but Goku counters him eventually. In the anime, his character is built up a lot more with a bar-fight scene. (Some drunks make fun of him for ordering milk so he beats all of them). He likes introducing himself as \"Kujirada.\" During the Piccolo Daimao arc, Giran is confronted by Tambourine due to Piccolo's order to have all past Tenkaichi Budokai competitors killed. Giran proves to be no match for Piccolo's offspring, and is quickly taken out; however he's revived thanks to the Dragon Balls at the end of the saga."
+          }
+        },
+        {
+          "id": 2130,
+          "name": "Tsurusen'nin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2130.jpg",
+          "description": "",
+          "nicknames": [
+            "Tsurusen'nin",
+            "鶴仙人",
+            "Crane Sage",
+            "Master Shen",
+            "Lord Wu Zu"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "永井一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101730-PQO9AMRtT5jB.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tsurusen'nin",
+            "name_native": "鶴仙人",
+            "name_alternative": [
+              "Crane Sage",
+              "Master Shen",
+              "Lord Wu Zu"
+            ],
+            "description": "Tsuru-Sen'nin (Crane Sage) is the older brother of Tao Pai Pai, and master to Tenshinhan and Chaozu. In an early Harmony Gold English dub from the 1980s, he is known as Lord Wu Zu.  He was once comrades with Muten-Roshi and studied under the same Martial Arts school. However, they were defeated by the evil forces of the Piccolo Daimaō and their mentor and sensei Mutaito-sama died after sealing the demon away. Over time, bitterness and resentment began to grow in his heart and he eventually turned away from his master's old teachings and began a school where his hatred of the world began to spread among his pupils.  In the 22nd Tenka-ichi Budokai, he entered his two star pupils, Tenshinhan and Chaozu to counter Muten-Roshi's pupils, Goku, Kuririn, and Yamcha.   ~!After Tenshinhan and Chaozu left him, he had his brother Tao Pai Pai rebuilt back to life as a cyborg (Tao was blown up by his own grenade that Goku kicked back at him), and had him enter in the 23rd Tenka-ichi Budōkai to exact revenge on both Tenshinhan and Goku. Tenshinhan, however, easily knocks out Tao with a punch and warns Tsuru-Sen'nin that he never wants to see both of them again.!~"
+          }
+        },
+        {
+          "id": 2131,
+          "name": "Tao Pai Pai",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2131.jpg",
+          "description": "",
+          "nicknames": [
+            "Tao Pai Pai",
+            "桃白白",
+            "Mercenary Tao",
+            "General Tao"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大塚周夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95974-SvJQqqEApoSf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tao Pai Pai",
+            "name_native": "桃白白",
+            "name_alternative": [
+              "Mercenary Tao",
+              "General Tao"
+            ],
+            "description": "Tao Pai Pai is Tsuru-Sen&#039;nin&#039;s younger brother and a highly skilled assassin-for-hire. He is hired by the Red Ribbon Army in order to retrieve the Dragon Balls that Goku holds, and to kill him. He succeeds beating Goku and taking all, but one of his Dragon Balls, which saves Goku life from Tao&#039;s final strike. Tao Pai Pai returns three days later to retrieve the Dragon Ball. Goku, however, received special training from Karin during the three days, and proves to be far too strong for Tao. Tao tries to kill Goku with a grenade, but Goku deflects it straight back at him, greatly wounding him. Tao Pai Pai is rebuilt as a cyborg by his older brother, and competes in the 23rd Tenkaichi Bud?kai, brutally defeating Chaozu. He fights Tenshinhan next, and cuts his chest with a knife, leaving the warrior with a scar. Tenshinhan disarms and defeats him shortly after. Tao Pai Pai re-appears later in the anime during the Cell Games Saga. He also Resembles Lau Chan from Virtua Fighter"
+          }
+        },
+        {
+          "id": 2133,
+          "name": "Shu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2133.jpg",
+          "description": "",
+          "nicknames": [
+            "Shu",
+            "シュウ",
+            "Soba"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "玄田哲章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95761-nwndYRCqJxno.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shu",
+            "name_native": "シュウ",
+            "name_alternative": [
+              "Soba"
+            ],
+            "description": "Emperor Pilaf's ninja crony who apparently is a humanoid dog. He and Mai usually work together to carry out the work of their vertically-challenged and short tempered Emperor. He's one of the first villains in the Dragon Ball series, but perhaps villain is too strong a word for such a weakling. He's almost comic relief. Originally known as Soba in the manga, but was renamed due to match the anime name given after Akira Toriyama forgot he had named him previously. He appears along with Mai and Pilaf in two episodes of Dragonball GT."
+          }
+        },
+        {
+          "id": 2134,
+          "name": "Metallic-gunsou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2134.jpg",
+          "description": "",
+          "nicknames": [
+            "Metallic-gunsou",
+            "メタリック軍曹",
+            "Sergeant Metallic",
+            "Full Metal Jacket"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "青森伸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/9016.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Metallic-gunsou",
+            "name_native": "メタリック軍曹",
+            "name_alternative": [
+              "Sergeant Metallic",
+              "Full Metal Jacket"
+            ],
+            "description": "Of all of Muscle Tower, Goku&#039;s second challenge - to get past Sergeant Metallic (a.k.a. Full Metal Jacket) - was by far the most difficult task. Since Metallic was a robot, he was very hard, and in all truth the only reason Goku won was because the major&#039;s batteries ran out of power. At one point in the anime, Goku accidentally blows off his head using a Kamehameha, but even that doesn&#039;t stop Metallic from continuing its&#039; rampage. Even without a head and eventually losing both wrists, he tried to repeatedly stomp Goku flat. It was the first time in the series someone was actually able to take a couple hits from the Saiyan warrior and survive. Metallic appeared for a couple seconds in Dragonball GT, firing his fist off and causing major damage to a building. Stylistically, he is an obvious tribute/parody of The Terminator played by Arnold Schwarzenegger."
+          }
+        },
+        {
+          "id": 2135,
+          "name": "Sergeant Major Purple",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2135.jpg",
+          "description": "",
+          "nicknames": [
+            "Sergeant Major Purple",
+            "ムラサキ曹長",
+            "Murasaki",
+            "Ninja Murasaki"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "青野武",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95142-73E1XmGOOmhG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sergeant Major Purple",
+            "name_native": "ムラサキ曹長",
+            "name_alternative": [
+              "Murasaki",
+              "Ninja Murasaki"
+            ],
+            "description": "Even though he is smart, Sergeant Purple (a.k.a. Ninja Murasaki) loses to Goku after a long, drawn out, somewhat farcical fight. He uses several ninja tricks to which Goku counters in his own kooky way. Even when he \"split\" into 5 Murasakis (the Murasakis were just 5 identical brothers with Sergeant Purple as the oldest), Goku was still able to defeat him. After the fight he tries to unleash Android 8 upon Goku, or he would destroy Android 8. Android 8 refuses, and Goku knocks out Purple before he could do anything. Murasaki eventually goes after Dr. Flappe and Android #8, but was presumably killed when Goku unintentionally tossed #8's bomb onto Murasaki's cheek in the anime only."
+          }
+        },
+        {
+          "id": 2136,
+          "name": "Buyon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2136.jpg",
+          "description": "",
+          "nicknames": [
+            "Buyon",
+            "ブヨン",
+            "The Jiggler"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Buyon",
+            "name_native": "ブヨン",
+            "name_alternative": [
+              "The Jiggler"
+            ],
+            "description": "Buyon is the hidden, blubbery monster of Muscle Tower. In the manga he was called The Jiggler. Buyon resides on the fifth floor of the tower, which is only accessible by falling through the trap door on sixth level, where General White resides with the imprisoned major of the nearby Jingle Village. At first, Buyon posed a seemingly undefeatable threat to Goku and Android #8, as everything Goku threw at him, such as a Kamehameha in the stomach or a kick in the face, simply bounced back. Judging by all of the cow skeletons on the floor, Buyon is a creature of insatiable appetite, and will do just about anything to get some food. Through a long, tiring process - in which both Goku and #8 were almost devoured - Goku eventually discovers Buyon's weakness; the cold. Knocking a small hole in the wall, Buyon froze. Goku simply walked up to the frozen monster and punched him once, which made him crumble apart as if he were made of dried clay. After that, it was the simple matter of using the Power Pole to bash through the ceiling to confront the leader of Muscle Tower. He is an obvious parody of The Blob"
+          }
+        },
+        {
+          "id": 2137,
+          "name": "General White",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2137.jpg",
+          "description": "",
+          "nicknames": [
+            "General White",
+            "ホワイト将軍"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "玄田哲章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95761-nwndYRCqJxno.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "General White",
+            "name_native": "ホワイト将軍",
+            "name_alternative": [],
+            "description": "General White is the questionably sane, often over-reactive Russian commander of Muscle Tower, the Red Ribbon Army&#039;s northern fortress. The oldest of the known officers, White, while not a gifted strategist, is observant and draws conclusions with surprising speed, and is the only officer to have ever found out Goku&#039;s primary weakness; his tail. Trapped at the top of the six-level tower through status, White spends his time either smoking a pipe, taking sips from his flask, yelling, or bursting out in laughter for no apparent reason. While he is easily irritated and slightly impatient, White is surprisingly complementary, congratulating Goku when he reached the sixth floor and praising Ninja Murasaki for a job well done when he supposedly killed Goku. As Goku and Android 8 reach the sixth and final level of the tower, which is his level, Goku and General White fight, but it is clear that Goku is much stronger. He then threatens to kill the village chief if Android 8 doesn&#039;t comply to kill Goku, and shoots the boy with a handgun. In retaliation, Android 8 finally punches General White out of Muscle Tower, flying into the mountains, never to be seen or heard of again."
+          }
+        },
+        {
+          "id": 2138,
+          "name": "General Blue",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2138-Jg42fRDMvrDQ.png",
+          "description": "",
+          "nicknames": [
+            "General Blue",
+            "ブルー将軍"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "古川登志夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95673-jNN4GqGgpssj.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "General Blue",
+            "name_native": "ブルー将軍",
+            "name_alternative": [],
+            "description": "General Blue is one of the highest ranking members of the Red Ribbon Army seen in the series. \nHe possesses special psychic abilities in the form of telekinesis, which can be used to paralyze his opponents or control inanimate objects. This combined with his physical prowess make him one of Goku’s toughest opponents in the series.\n\n~!He is later defeated by Arale Norimaki when his and Goku’s battle takes them to Penguin Village. Upon returning to the Red Ribbon Army base, he is killed by Tao Pai-Pai.!~\n\nGeneral Blue makes subsequent appearances in the films [_Dragon Ball: Makafushigi Daibouken_](https://anilist.co/anime/892/Dragon-Ball-Makafushigi-Daibouken/) and [_Dragon Ball: Saikyou e no Michi_](https://anilist.co/anime/893/Dragon-Ball-Saikyou-e-no-Michi/), both being loose retellings of the Red Ribbon Army story arc. \n\nIt is also implied that Blue is homosexual, though it is never directly confirmed, only speculated on. \n"
+          }
+        },
+        {
+          "id": 2139,
+          "name": "Staff Officer Black",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2139.jpg",
+          "description": "",
+          "nicknames": [
+            "Staff Officer Black",
+            "ブラック参謀",
+            "Adjutant Black",
+            "Assistant Black"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤正治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5386.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Staff Officer Black",
+            "name_native": "ブラック参謀",
+            "name_alternative": [
+              "Adjutant Black",
+              "Assistant Black"
+            ],
+            "description": "Adjutant Black  isn't given much of a role in the Dragon Ball series. Soft-spoken and quick-witted, Black carries out Commander Red's orders and informs Red of the current situations with the remaining Red Ribbon officers. It is also worth noting that Black is one of the few black people to appear in Dragon Ball. Overhearing Red's joyful speech about becoming a taller person, Black was appalled, saying that his mad ambition has cost the Army dearly as shown in Goku's invasion, and may eventually lead to its defeat. Red replies it doesn't matter how many soldiers he risks as long as he reaches his goal, and makes it clear that he is just a lackey, and is as the rest of the Red Ribbon Army, expendable. Angered, Black then shot Red in the head with his pistol, killing him instantly. In the anime, Goku was offered a position in Black's new army — the Black Ribbon Army — which Goku refused. Goku killed Black after he tried to kill him in a robotic suit."
+          }
+        },
+        {
+          "id": 2140,
+          "name": "Commander Red",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2140.jpg",
+          "description": "",
+          "nicknames": [
+            "Commander Red",
+            "レッド総帥"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内海賢二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95138-0iK7jnkuJb6o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Commander Red",
+            "name_native": "レッド総帥",
+            "name_alternative": [],
+            "description": "Commander Red is the leader of the Red Ribbon Army. While he puts up the front that he plans to take over the world, his true plan was to use the Dragon Balls to wish to become tall. Assistant Black overhears this and pleads that the Red Ribbon Army did so much, and risked a lot for his ambition, instead of world conquest, therefore it wasn't worth the risk and could lead to their ultimate defeat. When Red doesn't listen, he is then shot on the head and killed by Black who then renames it the Black Ribbon Army."
+          }
+        },
+        {
+          "id": 2141,
+          "name": "Pilaf",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2141.jpg",
+          "description": "",
+          "nicknames": [
+            "Pilaf",
+            "ピラフ",
+            "Emperor Pilaf"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "千葉繁",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pilaf",
+            "name_native": "ピラフ",
+            "name_alternative": [
+              "Emperor Pilaf"
+            ],
+            "description": "Pilaf is a major antagonist during Dragon Ball. He is a small, impish demi-human who craves nothing more than power and dreams of ruling the world. He is an emperor in that he has a crown and a castle. He rules over an empire known as the Reich Pilaf, however the only members of this evil empire are his two followers Shu and Mai. He collects all of the Dragon Balls once, but is foiled by Goku, and his friends. A second time, he is stopped by the Red Ribbon Army, and a third time, he releases Piccolo Daimaō, who betrays him soon after. At the beginning of the Dragonball GT, Pilaf accidentally wishes for Goku to be turned into a young kid with the Black Star Dragon Balls, setting into motion the events of the entire series."
+          }
+        },
+        {
+          "id": 2143,
+          "name": "Mai",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2143.jpg",
+          "description": "",
+          "nicknames": [
+            "Mai",
+            "マイ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山田栄子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100763-V7UZZ6qFEOeP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mai",
+            "name_native": "マイ",
+            "name_alternative": [],
+            "description": "Mai is a brilliant scientist and one of the top assistants to Emperor Pilaf, the other being Shu. She is much brighter than Shu and Pilaf who are mainly comic relief characters while Mai is not, but she is always incompetent at her mission. She mainly appears in the Emperor Pilaf, Red Ribbon Army, Fortuneteller Baba, King Piccolo and Piccolo Junior Sagas of Dragon Balls, but returns for 2 episodes in Dragon Ball GT. She is also a lot older in the GT series."
+          }
+        },
+        {
+          "id": 2151,
+          "name": "Chaozu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2151.jpg",
+          "description": "",
+          "nicknames": [
+            "Chaozu",
+            "餃子",
+            "Chiaotzu",
+            "Jiaozi",
+            "Riff"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "江森浩子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103760-dpGyjwM4R4Uz.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chaozu",
+            "name_native": "餃子",
+            "name_alternative": [
+              "Chiaotzu",
+              "Jiaozi",
+              "Riff"
+            ],
+            "description": "Chiaotzu is seemingly a small, doll-like human with plain white skin and red cheeks; his name is based off of the food jiaozi. When first introduced Chiaotzu is a student of the Crane Hermit (a rival of Master Roshi) and the constant companion of fellow student Tien; he quickly amends his ways though and joins Goku and his friends. While not outstanding in physical prowess compared to other superhuman warriors in Dragon Ball, Chiaotzu has considerable potency in psionics, especially in psychokinesis. Chiaotzu is not very well educated, as shown in the Tien Shinhan Saga. There was one part where Krillin was called &quot;squid&quot; due to his shaved head. Krillin angered and said that Chiaotzu was also a bald. But Chiaotzu took off his cap, revealling ONE hair on top of his head (which makes Krillin very angry). Chiaotzu lost the battle in the 22nd Martial Arts Tournament by Krillin&#039;s maths knowledge.    Chiaotzu&#039;s importance in the series rapidly diminishes after his introduction in the Tenshinhan Saga, where he is a major character. He is a minor character in the subsequent Demon King Piccolo, Piccolo Junior and Vegeta sagas, and is more-or-less a background character for the others. Chiaotzu also has a prominent role in the Dragon Ball movie &quot;Mystical Adventure&quot;.    *Wikipedia"
+          }
+        },
+        {
+          "id": 3182,
+          "name": "Arale Norimaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3182-x4O8F7qRjlhG.png",
+          "description": "",
+          "nicknames": [
+            "Arale Norimaki",
+            "則巻アラレ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小山茉美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95571-QuL7zlRwRcxa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Arale Norimaki",
+            "name_native": "則巻アラレ",
+            "name_alternative": [],
+            "description": "Arale is a robot built by Senbei Norimaki that looks like a little girl. She is known for her naivety, energetic personality, lack of common sense, and amazingly unbelievable strength. Among her strength she can use abilities that range from the terrain splitting Chikyūwari ( Earth Chop) to the beam-like Nchahou ( N'cha Cannon). She is nearsighted and needs to wear glasses. Senbei Norimaki's mission is to convince the other citizens of Penguin Village that she is just a normal human girl. It seems to work, despite her superhuman athletic ability.  She has long, bluish-purple hair in the original manga and anime series, but has dark-brown hair in the 1997 Dr. Slump anime. Like the name of the other major characters (senbei), Arale is a pun on the name for a bite-sized rice cracker (arare) and with the family name (\"Norimaki Arare\") it refers to a sort of arare wrapped with nori seaweed.  (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 3183,
+          "name": "Senbei Norimaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/3183.jpg",
+          "description": "",
+          "nicknames": [
+            "Senbei Norimaki",
+            "則巻千兵衛",
+            "Dr. Slump",
+            "Jurek Spadowski"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内海賢二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95138-0iK7jnkuJb6o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Senbei Norimaki",
+            "name_native": "則巻千兵衛",
+            "name_alternative": [
+              "Dr. Slump",
+              "Jurek Spadowski"
+            ],
+            "description": "(則巻千兵衛 Norimaki Senbei, \"Seaweed-wrapped Rice cracker\"), Penguin Village's goofy, and lecherous genius inventor; he can also transform into a more handsome, taller version of himself (for a very brief period of three minutes). When in this state he very strongly resembles Tony Stark, the billionaire inventor of Iron Man."
+          }
+        },
+        {
+          "id": 5499,
+          "name": "Tenshinhan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5499-Cn9kTD2J9dU5.png",
+          "description": "",
+          "nicknames": [
+            "Tenshinhan",
+            "天津飯",
+            "Tien",
+            "Tien Shinhan",
+            "Tensing"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鈴置洋孝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95572-H6tkZ7SsId5E.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tenshinhan",
+            "name_native": "天津飯",
+            "name_alternative": [
+              "Tien",
+              "Tien Shinhan",
+              "Tensing"
+            ],
+            "description": "Tenshinhan is a fictional character from the Dragon Ball metaseries and the franchise equivalent created by Akira Toriyama. Trained by Muten-Rôshi's rival, the Crane hermit he starts out as an enemy of Son Goku, but soon makes peace and becomes an ally. He is usually accompanied by Chaozu, his training partner and best friend, whom he can communicate with telepathically.  At the time of his introduction, Tenshinhan is among the most powerful warriors in the series, matched only by Goku himself. Like most other characters, his relative strength quickly diminishes as the story progresses.  As is the case with a handful of other characters from the early chapters of Dragon Ball, Tenshinhan was inspired by a character from Journey to the West; his unique feature of having a third eye was derived from the Chinese god Erlang Shen.  According to the Daizenshuu book 7 and the PlayStation 2 game Dragon Ball Z: Budokai Tenkaichi, Tenshinhan belongs to the alien race of the \"three-eyed\".  (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 6106,
+          "name": "Mr. Popo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/6106.jpg",
+          "description": "",
+          "nicknames": [
+            "Mr. Popo",
+            "ミスター・ポポ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "西尾徳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102578-uMx77FlKfo95.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mr. Popo",
+            "name_native": "ミスター・ポポ",
+            "name_alternative": [],
+            "description": "Mr. Popo is an immortal djinn who lives with [Kami](https://anilist.co/character/6108/Kami) in Kami's Lookout and is bound there eternally as the gardener and caretaker. He has served every other Kami (God/Guardian) of the Earth since the beginning of time. He was trained by the recent Kami himself and trained [Goku](https://anilist.co/character/246/Son-Gokuu) for 3 years in order to fight [Piccolo](https://anilist.co/character/914/Piccolo)."
+          }
+        },
+        {
+          "id": 6108,
+          "name": "Kami",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/6108.jpg",
+          "description": "",
+          "nicknames": [
+            "Kami",
+            "神",
+            "God",
+            "Guardian of Earth"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "青野武",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95142-73E1XmGOOmhG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kami",
+            "name_native": "神",
+            "name_alternative": [
+              "God",
+              "Guardian of Earth"
+            ],
+            "description": "He is known respectfully in Japanese as Kami-sama as a title meaning &quot;God&quot;. Kami was the good half of the Namekian that came to be the God of Earth, with his evil half becoming the Piccolo Daimao. In the anime, he competed with Garlic for the position and won. 300 years later, Garlic's son Garlic Jr., bearing a perpetual grudge, attempted twice to fight for the title and lost. He then watched over the planet for centuries to ensure its safety.    Seeing the spawn of his other half Piccolo threatening the planet, he goes to Earth in secret and competes in the Tenka-ichi Budōkai by possessing a human. After advancing to the semifinals he battles Piccolo, trying to trap him in a bottle using the Mafūba. Piccolo is able to overcome it by reversing the attack, trapping Kami in the bottle himself. He then swallows the bottle for safe keeping before losing Kami in his match with Son Goku. During the Artificial Human Saga, Kami agreed to merge and rejoin Piccolo so they would be a match for the Artificial Humans.  Source - Wikipedia"
+          }
+        },
+        {
+          "id": 6127,
+          "name": "Shen Long",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/6127.jpg",
+          "description": "",
+          "nicknames": [
+            "Shen Long",
+            "神龍",
+            "Shenron",
+            "Shenlong",
+            "Scenron",
+            "Dragon God",
+            "Divine Dragon"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内海賢二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95138-0iK7jnkuJb6o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shen Long",
+            "name_native": "神龍",
+            "name_alternative": [
+              "Shenron",
+              "Shenlong",
+              "Scenron",
+              "Dragon God",
+              "Divine Dragon"
+            ],
+            "description": "Shen Long is the wish granting dragon of Earth. The Shen Long of the Black Star Dragon Balls is red, opposed to the Shen Long of Earth who is green.  Shen Long can be summoned by gathering all seven of the Dragon Balls of Earth. Shen Long can bestow any wish as long as it does not exceed the power of his creator, who must be still alive (i.e. Kami or Dende). \n\nMultiple times in the Dragon Ball series, Shen Long threatens to kill the summoner if they do not say a wish on time, or if they do not say a wish at all. Shen Long cannot bring back a person from the dead more than once. The Dragon Balls cannot be used for 365 Earth days after a wish is made, as they turn to stone. The Earth Dragon Balls are relatively small, each about the size of a large orange, much smaller than the Namekian Dragon Balls, which are the size of beach balls. The base for Shen Long is a stone statue kept by his creator. If Shen Long is killed, the Dragon Balls turn to stone. The statue also shatters. If the creator or another Namekian wishes to, they can rebuild the statue to give life back to Shen Long and the Dragon Balls. This happened after Shen Long granted Demon King Piccolo's wish for youth.  \n\nWhile Kami and Piccolo weren't merged, Shen Long could only grant one wish. After Dende brought him back to life, he was able to grant two wishes (three if the first does not revive more than one at a time). If the summoner wants, he can only make one wish. This makes the Dragon Balls turn to stone for only six months.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 7309,
+          "name": "Karin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/7309.jpg",
+          "description": "",
+          "nicknames": [
+            "Karin",
+            "カリン",
+            "Korin",
+            "Cat Hermit",
+            "Balzar"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "永井一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101730-PQO9AMRtT5jB.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Karin",
+            "name_native": "カリン",
+            "name_alternative": [
+              "Korin",
+              "Cat Hermit",
+              "Balzar"
+            ],
+            "description": "Karin is a Senbyou who has lived at the top of Karin Tower for more than 800 years. The tower is located right underneath Kami's Lookout, which is a few hundred meters[verification needed] higher than Karin's tower and can be reached by Son Goku's nyoi-bō. Karin is a deity just below the rank of Kami, and plays a large role in Dragon Ball when he trains Goku during the Commander Red Saga to defeat Tao Pai Pai. At later points in the series and in Dragon Ball Z, Karin lends his assistance periodically to Goku and the other characters by growing them Senzu, which only grow in a tree in his tower.  He is voiced in the original Japanese version by Ichirō Nagai and then later by Naoki Tatsuta."
+          }
+        },
+        {
+          "id": 9235,
+          "name": "Cymbal",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/9235.jpg",
+          "description": "",
+          "nicknames": [
+            "Cymbal"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "郷里大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95744-Iu1p0eNvShfN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Cymbal",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Cymbal was one of Piccolo Daimaoh&#039;s minions. His main purpose was to collect the Dragon Balls for him. While in search for the balls, he encounters Goku and Yajirobe. They play rock, paper, scissors to see who fights him, and Yajirobe wins. After a short fight, Yajirobe slices Cymbal in half, and eats him."
+          }
+        },
+        {
+          "id": 9715,
+          "name": "Tambourine",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9715-3ecw9xtD0QeG.png",
+          "description": "",
+          "nicknames": [
+            "Tambourine",
+            "タンバリン",
+            "Tanbarin"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中尾隆聖",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95259-A1sNVqfD2MWp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tambourine",
+            "name_native": "タンバリン",
+            "name_alternative": [
+              "Tanbarin"
+            ],
+            "description": "Tambourine is Piccolo Daimao's second son, a humanoid gargoyle-like member of the _Mazoku_. His orders were to assassinate all contestants from the _Tenkaichi Budokai_, in addition to acquiring the Dragon Balls. \n\n~!Tambourine murders Kuririn, as well as other tournament participants such as Man Wolf, Chapa-O, Pamput, Bacterian, Namu, and Giran. Later, he would be killed by Goku in revenge.!~\n   \nIn a flashback, another _Mazoku_ similar to Tambourine is seen during the time of Piccolo Daimao’s initial reign, though it is impossible for them to be the same. He also makes a cameo in Dragon Ball GT as one of the villains who escape from Hell. \n"
+          }
+        },
+        {
+          "id": 9762,
+          "name": "Colonel Silver",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/9762.jpg",
+          "description": "",
+          "nicknames": [
+            "Colonel Silver",
+            "シルバー大佐"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "銀河万丈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95330-PHDm9uDhKAsT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Colonel Silver",
+            "name_native": "シルバー大佐",
+            "name_alternative": [],
+            "description": "Colonel Silver is the first of the high-ranking Red Ribbon Army officers Goku fights, and thus is overwhelmed and unprepared.  He is shown to be a talented, powerful fighter with a love of weapons, and excellent in marksmanship as well. As evident in both the anime and the manga on multiple occasions, unlike most officers, he doesn't immediately turn to violence and threats in order to get information, but rather simply asks a couple questions and only resorts to physical means if he's not getting the requested answers. Colonel Silver is also rather fast, shocking even Goku when he runs past and swipes the bundle of cloth containing the Dragon Balls and Dragon Radar from Goku's hands.  Colonel Silver had a fairly small role in the Manga, but he had a considerably larger role in the Anime. This is because the Red Ribbon Army was introduced a little earlier in the Anime and Toei created several filler episodes involving Colonel Silver and Emperor Pilaf before the next chapter of the Dragon Ball manga was released and the animators could continue on with the story.  The anime, much like they did with Colonel Violet, gave Colonel Silver a lot more characterisation. One thing to note about this character is the strange fact that his personality warps with each Dub, despite no one making any alterations to the animation whatsoever.  In the Japanese Dub, Colonel Silver is portrayed as being quiet and serious, in the FUNimation Dub, he changes to being short-tempered, aggressive, and courteous to superiors and occasionally complimentary towards random citizens. In the French Dub he is assertive, in the Castilian Dub he is irritable and foul-tempered, whereas, in a contradiction to all, the Portuguese Dub, he is incapable of becoming angry, and is understanding and patient.  In the manga, Commander Red said he was going to be executed for his failure, but that scene is never shown. In the anime, Colonel Silver is called back to the Red Ribbon base for questioning. Colonel Silver begs for a second chance, but Commander Red replies that there are no second chances in the Red Ribbon Army. He orders the guards to take him out of his sight, but Colonel Silver brushes them off. He than calmly walks out the door. Though the fact that Commander Red sends two guards after him suggests that he was executed off-screen shortly after being dismissed. It is unknown if he escaped alive and still lived up until the end of Dragon Ball GT, as he was not seen at all in the Super 17 Saga when all villains escaped from Hell.   © http://dragonball.wikia.com/"
+          }
+        },
+        {
+          "id": 9767,
+          "name": "Piccolo Daimaou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/9767.jpg",
+          "description": "",
+          "nicknames": [
+            "Piccolo Daimaou",
+            "ピッコロ大魔王",
+            "King Piccolo",
+            "Piccolo Dai-Ma-Ku"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "青野武",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95142-73E1XmGOOmhG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Piccolo Daimaou",
+            "name_native": "ピッコロ大魔王",
+            "name_alternative": [
+              "King Piccolo",
+              "Piccolo Dai-Ma-Ku"
+            ],
+            "description": "Piccolo Daimao is a character from the anime and manga series Dragon Ball, and appears from time to time in a couple flashbacks of Dragon Ball Z. He is introduced as a Mazoku in the story who once precipitated the Earth into utter chaos and pandemonium, giving birth to a brood of animal-like Namekians from within himself and converting a peaceful planet into a living hell. Later, it is revealed that he is the evil half and evil twin brother of Kami; the two were once a single entity. Piccolo Daimao's name is based on the instrument of the same name — hence, all of his sons share the names of various musical instruments. While he is named after a flute, the others are named after percussion instruments.  Piccolo Daimao came into being some 300 years before the beginning of Dragon Ball sometime after a powerful Namekian on Earth attempted to assume the position of guardian of Earth, he was neglected of the position due to the evil that occulted within. As a result, the Namekian concentrated and trained to relinquish the evil within; which conspired into producing two separate entities — if one should perish, the other would also. The concentrated evil being known as Piccolo Daimao. At first, the name \"Piccolo\" was a reference to the wind instrument, but then a revelation by Mr. Popo to Bulma meant it translated to \"different world\" in Namekian.  It remained unknown if Piccolo Daimao knew he was a Namekian, as he was shown to know the language and some of his powers and techniques are of Namekian origin, even replicating Guru's throne. If Piccolo Daimao knew, this could mean that the evil within Kami originated from being a Namekian warrior."
+          }
+        },
+        {
+          "id": 9768,
+          "name": "Piano",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/9768.jpg",
+          "description": "",
+          "nicknames": [
+            "Piano",
+            "ピアノ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "平野正人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100795-vfXmbcIlRD6T.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Piano",
+            "name_native": "ピアノ",
+            "name_alternative": [],
+            "description": "Piccolo Daimao's first son. The longest living member of PiccoloDaimao's animal-like Namekian sons. He is a humanoid pterodactyl-like Namekian, and is very bright.     ~!He's killed by his own father's crushing weight when Goku kicks King Piccolo into him, killing him instantly.!~    In Dragon Ball Z, he makes a small cameo along with Cell, Freeza, King Cold, Spice and the Ginyu Force, Dr. Gero watches the final battle between Son Goku and Kid Buu.     &copy; http://dragonball.wikia.com/"
+          }
+        },
+        {
+          "id": 9781,
+          "name": "Colonel Violet",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/9781.jpg",
+          "description": "",
+          "nicknames": [
+            "Colonel Violet",
+            "バイオレット大佐"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "杉山佳寿子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95786-faCWVJgFUw8i.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Colonel Violet",
+            "name_native": "バイオレット大佐",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 13663,
+          "name": "Suppaman",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/13663-4iN2Sd6vzRQ4.png",
+          "description": "",
+          "nicknames": [
+            "Suppaman",
+            "スッパマン",
+            "Kenta Kuraaku"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "玄田哲章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95761-nwndYRCqJxno.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Suppaman",
+            "name_native": "スッパマン",
+            "name_alternative": [
+              "Kenta Kuraaku "
+            ],
+            "description": "Hero-wannabe from a far away planet, who unfortunately has no super powers or sense of justice; rolls around with his belly on a skateboard, throws grenades, and changes his clothes in a phone booth, eating an umeboshi to transform. Suppaman works as a reporter when in disguise as Kenta Kuraaku (暗悪健太, Kuraaku Kenta?), which literally translates to &quot;Dark-and-Evil&quot; [generic man&#039;s name]; note that to Japanese ears &quot;Kuraaku Kenta&quot; sounds like Clark Kent)."
+          }
+        },
+        {
+          "id": 18063,
+          "name": "Gajira Norimaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/18063.jpg",
+          "description": "",
+          "nicknames": [
+            "Gajira Norimaki",
+            "則巻ガジラ",
+            "Gatchan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中野聖子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109733-YYAyhixfEev5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gajira Norimaki",
+            "name_native": "則巻ガジラ",
+            "name_alternative": [
+              "Gatchan"
+            ],
+            "description": "A green-haired, cherub-like creature with wings, hatched from an egg brought home by Senbei from a time traveling trip; later s/he (it) inexplicably replicates into twins. Gatchan eats almost anything, except for rubber, and particularly likes to eat metal; s/he can also shoot rays from his/her antennae. Gatchan speaks in his/her own language consisting primarily of sounds like \"pupipopipi\" that Arale somehow seems to understand. In Volume 17, it is revealed that Gatchan is actually an angel sent by God (or Kami if this story connects with Dragon Ball) to prevent further development of the human civilization. After seeing that other civilizations eventually destroyed themselves and the planets they lived on, God placed an angel's egg on Earth. Gatchan's ability to replicate as well as his/her fondness of metal should have ensured that humanity would remain primitive and innocent. Seeing that Gatchan failed in the mission (due to Senbei's time traveling intervention), God was about to destroy humanity. However, after seeing the life of Penguin village, he changed his mind and left the earth as it is. Gatchan's real name is a combination of the names of Gamera and Gojira, who is known as Godzilla in the West; hence s/he is known as \"Gadzilla\" in the English version. Gajira is occasionally mistranslated as \"Gazira.\""
+          }
+        },
+        {
+          "id": 18064,
+          "name": "Turbo Norimaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/18064.jpg",
+          "description": "",
+          "nicknames": [
+            "Turbo Norimaki",
+            "則巻ターボ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井口友子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/638.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Turbo Norimaki",
+            "name_native": "則巻ターボ",
+            "name_alternative": [],
+            "description": "Senbei and Midori's first son, who is nearly killed by aliens and then revived by them, in the process imbuing him with many super powers including teleportation, flight, and telekinesis. Also a genius surpassing his father."
+          }
+        },
+        {
+          "id": 18065,
+          "name": "Midori Yamabuki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/18065.jpg",
+          "description": "",
+          "nicknames": [
+            "Midori Yamabuki",
+            "山吹みどり",
+            "Midori Norimaki"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "向井真理子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105681-gdz4eOxVEEdn.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Midori Yamabuki",
+            "name_native": "山吹みどり",
+            "name_alternative": [
+              "Midori Norimaki"
+            ],
+            "description": "Arale&#039;s beautiful teacher and Senbei&#039;s dream girl. After a long period of unrequited love and nervous misunderstandings, Senbei proposes to her while thinking she is out of earshot. Surprisingly, she accepts immediately (while on the toilet, no less) and they are married in the next manga panel, resulting in a name change."
+          }
+        },
+        {
+          "id": 18066,
+          "name": "Obotchaman",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/18066.jpg",
+          "description": "",
+          "nicknames": [
+            "Obotchaman",
+            "オボッチャマン",
+            "Caramelman #4"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "堀江美都子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95683-MajreqecBQpy.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Obotchaman",
+            "name_native": "オボッチャマン",
+            "name_alternative": [
+              "Caramelman #4"
+            ],
+            "description": "Robot built by Dr Mashirito using the plans for Arale, but male. Arale calls him Obotchiman-kun (おぼっちまん君, Obotchiman-kun). Extremely polite and well-mannered. He later becomes a love interest for Arale. Initially dubbed &quot;Caramelman #4&quot; by Dr Mashirito, his creator."
+          }
+        },
+        {
+          "id": 18067,
+          "name": "Akane Kimidori",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/18067.jpg",
+          "description": "",
+          "nicknames": [
+            "Akane Kimidori",
+            "木緑あかね"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "杉山佳寿子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95786-faCWVJgFUw8i.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akane Kimidori",
+            "name_native": "木緑あかね",
+            "name_alternative": [],
+            "description": "Arale&#039;s &quot;bad girl&quot; friend. She is called &quot;Akani-chin&quot; by Arale instead of &quot;Akane-chan&quot;."
+          }
+        },
+        {
+          "id": 18071,
+          "name": "Tarou Soramame",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/18071.jpg",
+          "description": "",
+          "nicknames": [
+            "Tarou Soramame",
+            "空豆タロウ",
+            "Butch"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "古川登志夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95673-jNN4GqGgpssj.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tarou Soramame",
+            "name_native": "空豆タロウ",
+            "name_alternative": [
+              "Butch"
+            ],
+            "description": "Arale&#039;s &quot;bad boy&quot; friend at school who tries to act cool. After graduating from high school, he becomes a police officer (because he is allowed to carry a gun and wear dark glasses all the time)."
+          }
+        },
+        {
+          "id": 18072,
+          "name": "Peasuke Soramame",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/18072.jpg",
+          "description": "",
+          "nicknames": [
+            "Peasuke Soramame",
+            "空豆ピースケ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "神保なおみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Peasuke Soramame",
+            "name_native": "空豆ピースケ",
+            "name_alternative": [],
+            "description": "Taro&#039;s little brother who always wears an animal hat. At one point, he saved a girl named Hiyoko from a beetle. Of course, this wouldn&#039;t have been necessary if not for Arale; when she saw that Peasuke had fallen in love with a girl much taller than he, she used the Big-Small Gun to shrink Hiyoko to insect size"
+          }
+        },
+        {
+          "id": 21134,
+          "name": "Hasky",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/21134.jpg",
+          "description": "",
+          "nicknames": [
+            "Hasky",
+            "Master Thief Hasky",
+            "Haski"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤田淑子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95483-q3MQ7a7tYsFO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hasky",
+            "name_native": "",
+            "name_alternative": [
+              "Master Thief Hasky",
+              "Haski"
+            ],
+            "description": "Hasky is a master thief who is occasionally employed by the Red Ribbon Army. She is a filler character, as she only appears in the anime.    Hasky has made a career out of doing the most impossible tasks. After she accepts a job, her abilities are so great that not even the tightest security can stop her from making off with her prize. Commander Red recruits her to steal the Dragon Balls and get rid of Goku during the Red Ribbon Army Saga."
+          }
+        },
+        {
+          "id": 21344,
+          "name": "Nikochan Daiou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/21344.jpg",
+          "description": "",
+          "nicknames": [
+            "Nikochan Daiou",
+            "ニコチャン大王",
+            "King Nikochan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大竹宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96572-z9s5fXiwJFum.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nikochan Daiou",
+            "name_native": "ニコチャン大王",
+            "name_alternative": [
+              "King Nikochan"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 34540,
+          "name": "Toninjinka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34540-olHCmmb3kzB0.png",
+          "description": "",
+          "nicknames": [
+            "Toninjinka",
+            "兎人参化",
+            "Monster Carrot",
+            "Carrot Master",
+            "Carrotizer Bunny"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大竹宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96572-z9s5fXiwJFum.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Toninjinka",
+            "name_native": "兎人参化",
+            "name_alternative": [
+              "Monster Carrot",
+              "Carrot Master",
+              "Carrotizer Bunny"
+            ],
+            "description": "The Carrotizer Bunny is a human-like Rabbit with the ability to turn anyone he touches into a carrot, which gives him an upper hand despite being physically weak. After his and his henchmen's defeat, the trio are left on the moon by Goku to pound mochi. Their fate is in reference to the Japanese fable of a rabbit said to live on the moon and pound mochi. \n\nIn the _Dragon Ball: Adventure Special_ guide book, Akira Toriyama said that since Jackie Chun destroyed the moon, the Carrotizer Bunny and his henchmen are now simply drifting through space (though after the moon returns, they seemingly returned to their prior role as seen in an extra page of _Dragon Ball Super_).\n\n(Source: Kanzenshuu)"
+          }
+        },
+        {
+          "id": 42015,
+          "name": "Suke-San",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42015-vOO2EiSEwVIC.png",
+          "description": "",
+          "nicknames": [
+            "Suke-San",
+            "スケさん",
+            "Invisible Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大竹宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96572-z9s5fXiwJFum.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Suke-San",
+            "name_native": "スケさん",
+            "name_alternative": [
+              "Invisible Man"
+            ],
+            "description": "One of Baba&#039;s henchman."
+          }
+        },
+        {
+          "id": 58439,
+          "name": "Gala",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/58439.jpg",
+          "description": "",
+          "nicknames": [
+            "Gala",
+            "ガラ",
+            "Gara"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田の中勇",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1427.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gala",
+            "name_native": "ガラ",
+            "name_alternative": [
+              "Gara"
+            ],
+            "description": "A short policeman in Penguin Village. He is always seen alongside Pagos and often gets their police car destroyed by Arale on accident."
+          }
+        },
+        {
+          "id": 58441,
+          "name": "Pagos",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/58441.jpg",
+          "description": "",
+          "nicknames": [
+            "Pagos",
+            "パゴス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤正治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5386.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pagos",
+            "name_native": "パゴス",
+            "name_alternative": [],
+            "description": "A tall policeman in Penguin Village who is always seen alongside Gala. They often have their police car destroyed by Arale on accident."
+          }
+        },
+        {
+          "id": 59291,
+          "name": "Tsukutsun Tsun",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/59291.jpg",
+          "description": "",
+          "nicknames": [
+            "Tsukutsun Tsun",
+            "摘突詰"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "千葉繁",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tsukutsun Tsun",
+            "name_native": "摘突詰",
+            "name_alternative": [],
+            "description": "The son of the Tsun family. He is a martial artists and becomes Akane's boyfriend."
+          }
+        },
+        {
+          "id": 59293,
+          "name": "Nikochan's Servant",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/59293.jpg",
+          "description": "",
+          "nicknames": [
+            "Nikochan's Servant",
+            "ニコチャン家来"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "千葉繁",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nikochan's Servant",
+            "name_native": "ニコチャン家来",
+            "name_alternative": [],
+            "description": "King Nikochan's servant that follows him around. He is a lot smarter than Nikochan and tries to warn him about his bad ideas but Nikochan doesn't listen to him."
+          }
+        },
+        {
+          "id": 60631,
+          "name": "Mermaid",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60631-Sk4IYqksrqFK.png",
+          "description": "",
+          "nicknames": [
+            "Mermaid",
+            "人魚"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "島本須美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95425-wEl09IWpLxIA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mermaid",
+            "name_native": "人魚",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 173779,
+          "name": "Annin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b173779-Qb38SZffHB3Y.png",
+          "description": "",
+          "nicknames": [
+            "Annin",
+            "アンニン",
+            "太上老君",
+            "Taijō-Rōkun",
+            "Supreme Elderly Lord"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "横沢啓子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1449.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Annin",
+            "name_native": "アンニン",
+            "name_alternative": [
+              "太上老君",
+              "Taijō-Rōkun",
+              "Supreme Elderly Lord"
+            ],
+            "description": "Annin, also known as the Supreme Elderly Lord (太上老君 Taijō-Rōkun), is the guardian of the sacred Furnace of Eight Divisions, the border between life on Earth and the Other World. She is among one of the few beings working under [King Enma](https://anilist.co/character/9773/Lord-Enma) that does not appear to be an ogre."
+          }
+        },
+        {
+          "id": 332771,
+          "name": "Musume",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332771-XmSyK09hoB1o.png",
+          "description": "",
+          "nicknames": [
+            "Musume",
+            "娘",
+            "Daughter",
+            "Pochawompa"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "本多知恵子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95677-5luaaavs3b8I.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Musume",
+            "name_native": "娘",
+            "name_alternative": [
+              "Daughter",
+              "Pochawompa"
+            ],
+            "description": "A village girl who Oolong wishes to marry. \n\nShe remains nameless in the manga and Japanese language version of the anime, but in the English dub she is given the name \"Pochawompa\"."
+          }
+        },
+        {
+          "id": 332772,
+          "name": "Wani",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332772-jc4alwy7MLbx.png",
+          "description": "",
+          "nicknames": [
+            "Wani",
+            "ワニ",
+            "Crocodile"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤正治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5386.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Wani",
+            "name_native": "ワニ",
+            "name_alternative": [
+              "Crocodile"
+            ],
+            "description": "A crocodile that briefly lived on Muten Roshi's island. He is never seen again after his initial appearance."
+          }
+        },
+        {
+          "id": 332773,
+          "name": "Pteranodon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332773-RAbV7VogXzEG.png",
+          "description": "",
+          "nicknames": [
+            "Pteranodon",
+            "プテラノドン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大竹宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96572-z9s5fXiwJFum.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pteranodon",
+            "name_native": "プテラノドン",
+            "name_alternative": [],
+            "description": "A pterodactyl-like monster that attempts to kidnap Blooma. He is defeated by Son Goku."
+          }
+        },
+        {
+          "id": 332774,
+          "name": "Sherman Priest",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332774-Cb9Rvu0vSds2.png",
+          "description": "",
+          "nicknames": [
+            "Sherman Priest",
+            "シャーマン・プリースト",
+            "Axe-Wielding Old Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中亮一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96675-D33astyM2pF8.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sherman Priest",
+            "name_native": "シャーマン・プリースト",
+            "name_alternative": [
+              "Axe-Wielding Old Man"
+            ],
+            "description": "The father of the girl Oolong wishes to marry. He attacks Goku thinking he is Oolong.\n\nThe name \"Sherman Priest\" comes from Daizenshuu 7 (as does \"Axe-Wielding Old Man), though in the original anime he is simply credited as \"Villager\"."
+          }
+        },
+        {
+          "id": 332775,
+          "name": "Saber Tiger",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332775-eELtYKffpN4H.png",
+          "description": "",
+          "nicknames": [
+            "Saber Tiger",
+            "サーベルタイガー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤正治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5386.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Saber Tiger",
+            "name_native": "サーベルタイガー",
+            "name_alternative": [],
+            "description": "A saber toothed tiger that attempts to attack Son Goku. \n\nA tiger similar to it appears in the first episode of Dragon Ball Z to attack Son Gohan in a similar manner."
+          }
+        },
+        {
+          "id": 332776,
+          "name": "Usagi-dan Dannin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332776-x3HZx2l66NJH.png",
+          "description": "",
+          "nicknames": [
+            "Usagi-dan Dannin",
+            "ウサギ団団員",
+            "Rabbit Gang Member A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤正治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5386.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Usagi-dan Dannin",
+            "name_native": "ウサギ団団員",
+            "name_alternative": [
+              "Rabbit Gang Member A"
+            ],
+            "description": "A member of the Rabbit Gang terrorizing a village the Dragon Crew journey through. After being beaten, he is left on the moon to pound mochi."
+          }
+        },
+        {
+          "id": 332777,
+          "name": "Paozu Obaa-chan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332777-CCU8y43BdWjX.png",
+          "description": "",
+          "nicknames": [
+            "Paozu Obaa-chan",
+            "パオズばあちゃん",
+            "Grandma Paozu",
+            "Old Woman"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鈴木れい子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101504-v5pnjcD80zDL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Paozu Obaa-chan",
+            "name_native": "パオズばあちゃん",
+            "name_alternative": [
+              "Grandma Paozu",
+              "Old Woman"
+            ],
+            "description": "An old woman living in the village Oolong terrorizes. She gives the Six-Star Dragon Ball to Goku and Blooma in exchange for them dealing with Oolong.\n\nIn the anime, despite having the name \"Grandma Paozu\", she is credited as \"Old Woman\"."
+          }
+        },
+        {
+          "id": 332778,
+          "name": "Usagi-dan Dannin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b332778-v3WWF7HyB5Vq.png",
+          "description": "",
+          "nicknames": [
+            "Usagi-dan Dannin",
+            "ウサギ団団員",
+            "Rabbit Gang Member B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "二又一成",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95629-WgKFV9c2Wxpu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Usagi-dan Dannin",
+            "name_native": "ウサギ団団員",
+            "name_alternative": [
+              "Rabbit Gang Member B"
+            ],
+            "description": "A member of the Rabbit Gang terrorizing a village the Dragon Crew journey through. After being beaten, he is left on the moon to pound mochi."
+          }
+        },
+        {
+          "id": 149325,
+          "name": "Daigoro Kurigashira",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b149325-pcLbwL4JO5qI.png",
+          "description": "",
+          "nicknames": [
+            "Daigoro Kurigashira",
+            "栗頭大五郎"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Daigoro Kurigashira",
+            "name_native": "栗頭大五郎",
+            "name_alternative": [],
+            "description": "Daigoro Kurigashira is a teacher at Penguin Village high school. He has a very large, chestnut-shaped head and usually wears a green suit and red tie.  He appears in the third chapter as a news reporter on Television that Jaco is watching.\n\nDaigoro moves to Penguin Village to teach high school when Arale, Akane, and Peasuke entered their first year and became their teacher. Later on, Tsukutsun Tsun and Obotchaman joined his class. The Gatchans and Turbo sometimes accompanied Arale in his class as well. \n\nIn the Dragon Ball manga, Daigoro is seen in the background with several other Penguin Village residents making the peace sign. In the Dragon Ball anime, Goku asks him if he saw General Blue close by, but he just nods his head. \nDaigoro Kurigashira is later seen in the audience of the 22nd World Martial Arts Tournament during the match between Yamcha and Tien Shinhan.\n\nTechniques: Headbutt of Love – Daigoro often uses this technique to discipline misbehaving students. \n\nDaigoro Kurigashira is one of the few Dr. Slump characters, along with Tori-Bot and Frankenstein, to make an appearance outside of Penguin Village in Dragon Ball. \n\n(Source: Dragon Ball Wikia)"
+          }
+        }
+      ]
+    }
+  ]
+}

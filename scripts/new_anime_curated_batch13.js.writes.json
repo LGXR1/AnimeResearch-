@@ -1,0 +1,378 @@
+[
+  {
+    "verifiedAt": "2026-10-05T11:42:47.684Z",
+    "curatedFile": "scripts/new_anime_curated_batch13.js",
+    "anime": [
+      {
+        "id": 156854,
+        "title": "边缘服务",
+        "count": 9,
+        "excluded": [
+          {
+            "name": "诺亚、莉莉、良·阿加塔、厄尼、玛丽亚、布鲁斯、埃迪、伊兹纳、伊莎贝拉、贝内特、丹尼、玄藏",
+            "reason": "官网有对应介绍，但本轮完整分页AniList动画角色关联仅有9人，其他人物缺少与作品关联的合规图片，待补查"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/156854",
+          "https://marginalservice.com/character/",
+          "https://moegirl.uk/index.php?title=THE_MARGINAL_SERVICE&variant=zh-hans",
+          "https://www.shochiku.co.jp/cinema/lineup/the-marginal-service/"
+        ]
+      }
+    ],
+    "insertedCharacters": 9,
+    "insertedVoiceActors": 9,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 9,
+    "verifiedVoiceActors": 9
+  },
+  {
+    "verifiedAt": "2026-10-05T11:48:50.539Z",
+    "curatedFile": "scripts/new_anime_curated_batch13.js",
+    "anime": [
+      {
+        "id": 21422,
+        "title": "魔法少女什么的已经够了啦。",
+        "count": 6,
+        "excluded": [],
+        "references": [
+          "https://anilist.co/anime/21422",
+          "https://smiral-label.com/mahoii/",
+          "https://www.bilibili.com/bangumi/media/md3126",
+          "https://en.wikipedia.org/wiki/Mahō_Shōjo_Nante_Mō_Ii_Desu_kara."
+        ]
+      },
+      {
+        "id": 21597,
+        "title": "斯特拉的魔法",
+        "count": 7,
+        "excluded": [
+          {
+            "name": "饭野水叶、饭野夏",
+            "reason": "AniList关联角色图片不含hash，待补查合规图片"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/21597",
+          "https://www.b-ch.com/titles/5408/",
+          "https://www.kadokawa.co.jp/product/video2491/",
+          "https://mangapedia.com/ステラのまほう-ao6ty3qu3",
+          "https://en.wikipedia.org/wiki/Magic_of_Stella",
+          "https://enpedia.org/wiki/ステラのまほう"
+        ]
+      }
+    ],
+    "insertedCharacters": 13,
+    "insertedVoiceActors": 13,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 13,
+    "verifiedVoiceActors": 13
+  },
+  {
+    "verifiedAt": "2026-10-05T11:52:38.201Z",
+    "curatedFile": "scripts/new_anime_curated_batch13.js",
+    "anime": [
+      {
+        "id": 10372,
+        "title": "神样DOLLS",
+        "count": 14,
+        "excluded": [
+          {
+            "name": "日向勾司朗、枸雅日都美、濑能千波野",
+            "reason": "角色图片合格，但关联日配声优的AniList头像没有hash，待补查"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/10372",
+          "https://www.tv-tokyo.co.jp/anime/kamisama-dolls/chara/index.html",
+          "https://zh.wikipedia.org/wiki/神样DOLLS",
+          "https://www.mau2.com/anime/kamisamadolls",
+          "https://cal.syoboi.jp/tid/2196"
+        ]
+      }
+    ],
+    "insertedCharacters": 14,
+    "insertedVoiceActors": 14,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 14,
+    "verifiedVoiceActors": 14
+  },
+  {
+    "verifiedAt": "2026-10-05T11:54:50.931Z",
+    "curatedFile": "scripts/new_anime_curated_batch13.js",
+    "anime": [
+      {
+        "id": 144323,
+        "title": "惑星公主蜥蜴骑士",
+        "count": 23,
+        "excluded": [
+          {
+            "name": "南云宗一朗、秋谷稻近、夕日的祖父",
+            "reason": "关联角色头像没有hash，祖父记录为无图，待补查"
+          },
+          {
+            "name": "库·里特、洛基·赫利俄斯、龙·月",
+            "reason": "关联日配缺少合规AniList头像，待补查"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/144323",
+          "https://hoshinosamidare.jp/member/",
+          "https://www.bilibili.com/bangumi/play/ss42106",
+          "https://zh.wikipedia.org/wiki/惑星公主蜥蜴騎士"
+        ]
+      }
+    ],
+    "insertedCharacters": 23,
+    "insertedVoiceActors": 23,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 23,
+    "verifiedVoiceActors": 23
+  },
+  {
+    "verifiedAt": "2026-10-05T11:57:34.876Z",
+    "curatedFile": "scripts/new_anime_curated_batch13.js",
+    "anime": [
+      {
+        "id": 97939,
+        "title": "时间支配者",
+        "count": 6,
+        "excluded": [
+          {
+            "name": "史涅克",
+            "reason": "官网已确认重要身份，补查AniList未找到本作品关联记录及合规图片，待补齐"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/97939",
+          "https://www.chronosruler.jp/character/",
+          "https://www.chronosruler.jp/story/",
+          "https://zh.wikipedia.org/wiki/時間支配者"
+        ]
+      },
+      {
+        "id": 21872,
+        "title": "星梦手记",
+        "count": 6,
+        "excluded": [
+          {
+            "name": "白雪翔子、片冈宗一郎、安川凑、安川美波、速水莲、森拓海",
+            "reason": "授权播出名单确认存在，补查AniList尚未找到与本作关联的角色及合规图片，待补齐"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/21872",
+          "https://www.bilibili.com/bangumi/play/ss5486",
+          "https://www.animatetimes.com/news/details.php?id=1467974049",
+          "https://www.gcores.com/articles/19651",
+          "https://en.wikipedia.org/wiki/Idol_Memories"
+        ]
+      }
+    ],
+    "insertedCharacters": 12,
+    "insertedVoiceActors": 12,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 12,
+    "verifiedVoiceActors": 12
+  },
+  {
+    "verifiedAt": "2026-10-05T11:58:56.437Z",
+    "curatedFile": "scripts/new_anime_curated_batch13.js",
+    "anime": [
+      {
+        "id": 100644,
+        "title": "七美德",
+        "count": 7,
+        "excluded": [
+          {
+            "name": "救世主候补A至G",
+            "reason": "单回匿名人物，现有简介只有登场集数，缺少可核实的详细人物资料，暂缓"
+          },
+          {
+            "name": "贝尔芬格",
+            "reason": "跨作品客串，优先保留七位主要天使；待核查既有原作归属记录后补关联"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/100644",
+          "https://7-virtues.net/anime/",
+          "https://7-virtues.net/chara/faith.html",
+          "https://7-virtues.net/chara/patience.html",
+          "https://7-virtues.net/chara/chastity.html",
+          "https://7-virtues.net/chara/temperance.html",
+          "https://7-virtues.net/chara/kindness.html",
+          "https://7-virtues.net/chara/charity.html",
+          "https://7-virtues.net/chara/diligence.html"
+        ]
+      }
+    ],
+    "insertedCharacters": 7,
+    "insertedVoiceActors": 7,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 7,
+    "verifiedVoiceActors": 7
+  },
+  {
+    "verifiedAt": "2026-10-05T12:05:20.628Z",
+    "curatedFile": "scripts/new_anime_curated_batch13.js",
+    "anime": [
+      {
+        "id": 171400,
+        "title": "噗妮露是可爱史莱姆",
+        "count": 25,
+        "excluded": [
+          {
+            "name": "匿名背景人物及部分单回人物",
+            "reason": "仅有姓名或出场记录，详细资料不足；本轮优先补齐主要人物与常驻配角"
+          },
+          {
+            "name": "DX纶纶",
+            "reason": "属于同一原创吉祥物的玩具版本，避免把不同玩具造型当成独立主要人物重复收录"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/171400",
+          "https://anilist.co/anime/185755",
+          "https://puniru-anime.com/character/puniru/",
+          "https://puniru-anime.com/character/kotaro/",
+          "https://puniru-anime.com/character/hone/",
+          "https://puniru-anime.com/special/comment/",
+          "https://back-cms.puniru-anime.com/archives/290",
+          "https://zh.wikipedia.org/wiki/噗妮露是可愛史萊姆"
+        ]
+      }
+    ],
+    "insertedCharacters": 25,
+    "insertedVoiceActors": 26,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 25,
+    "verifiedVoiceActors": 26
+  },
+  {
+    "verifiedAt": "2026-10-05T12:07:12.568Z",
+    "curatedFile": "scripts/new_anime_curated_batch13.js",
+    "anime": [
+      {
+        "id": 21275,
+        "title": "彗星路西法",
+        "count": 6,
+        "excluded": [
+          {
+            "name": "罗曼·瓦洛夫、奥托·摩多、一·多·蒙",
+            "reason": "官网确认存在，但AniList补查未找到本作关联资料及合规图片，待补齐"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/21275",
+          "https://8bit-studio.co.jp/works/comet-lucifer",
+          "https://comet-lucifer.jp/news/20150726/post-4",
+          "https://zh.wikipedia.org/wiki/彗星·路西法"
+        ]
+      }
+    ],
+    "insertedCharacters": 6,
+    "insertedVoiceActors": 6,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 6,
+    "verifiedVoiceActors": 6
+  },
+  {
+    "verifiedAt": "2026-10-05T12:10:25.606Z",
+    "curatedFile": "scripts/new_anime_curated_batch13.js",
+    "anime": [
+      {
+        "id": 21197,
+        "title": "爆音少女！！",
+        "count": 5,
+        "excluded": [
+          {
+            "name": "川崎来梦",
+            "reason": "已确认是主要角色，但当前AniList人物头像不含hash，等待合规真实图片后补齐"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/21197",
+          "https://www.tms-e.co.jp/alltitles/2010s/719101.html",
+          "https://bakuon-anime.com/story/01.html",
+          "https://bakuon-anime.com/news/index00460000.html",
+          "https://bakuon-anime.com/characters/hijiri.html",
+          "https://zh.wikipedia.org/wiki/爆音少女！！"
+        ]
+      }
+    ],
+    "insertedCharacters": 5,
+    "insertedVoiceActors": 5,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 5,
+    "verifiedVoiceActors": 5
+  },
+  {
+    "verifiedAt": "2026-10-05T12:11:58.607Z",
+    "curatedFile": "scripts/new_anime_curated_batch13.js",
+    "anime": [
+      {
+        "id": 165,
+        "title": "翼神传说",
+        "count": 10,
+        "excluded": [
+          {
+            "name": "神名麻弥、艾尔菲·哈迪亚特、埃伦斯特·冯·巴贝姆",
+            "reason": "关联存在，但当前日配头像无hash，待补合规图片"
+          },
+          {
+            "name": "亘理士郎、海莲娜·巴贝姆、鸟饲守、功刀仁、金湖月、八云总一、七森小夜子、二神让二",
+            "reason": "关联存在，但当前人物头像无hash，待补合规图片"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/165",
+          "https://en.wikipedia.org/wiki/List_of_RahXephon_characters",
+          "https://zh.wikipedia.org/wiki/翼神世音"
+        ]
+      }
+    ],
+    "insertedCharacters": 10,
+    "insertedVoiceActors": 10,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 10,
+    "verifiedVoiceActors": 10
+  },
+  {
+    "verifiedAt": "2026-10-05T12:15:21.789Z",
+    "curatedFile": "scripts/new_anime_curated_batch13.js",
+    "anime": [
+      {
+        "id": 14345,
+        "title": "惊爆游戏",
+        "count": 15,
+        "excluded": [
+          {
+            "name": "吉良康介、吉良义久、近藤勇、坂本幸江、坂本信久",
+            "reason": "已确认身份，当前AniList人物图片无hash，待补合规真实图片"
+          },
+          {
+            "name": "鹰嘴",
+            "reason": "人物关联已确认，但日配头像无hash，待补合规图片"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/14345",
+          "https://www.btooom.com/story/",
+          "https://www.btooom.com/staffcast/",
+          "https://mangapedia.com/BTOOOM！-u30kxs67u",
+          "https://zh.wikipedia.org/wiki/BTOOOM!",
+          "https://btooom.fandom.com/wiki/Yoshiaki_Imagawa",
+          "https://btooom.fandom.com/wiki/Tsuneaki_Iida",
+          "https://www.mau2.com/anime/btooom",
+          "https://yenpress.com/titles/9780316380478-btooom-vol-10"
+        ]
+      }
+    ],
+    "insertedCharacters": 15,
+    "insertedVoiceActors": 15,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 15,
+    "verifiedVoiceActors": 15
+  }
+]

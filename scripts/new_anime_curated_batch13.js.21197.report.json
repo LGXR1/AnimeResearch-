@@ -1,0 +1,30 @@
+{
+  "verifiedAt": "2026-10-05T12:10:25.606Z",
+  "curatedFile": "scripts/new_anime_curated_batch13.js",
+  "anime": [
+    {
+      "id": 21197,
+      "title": "爆音少女！！",
+      "count": 5,
+      "excluded": [
+        {
+          "name": "川崎来梦",
+          "reason": "已确认是主要角色，但当前AniList人物头像不含hash，等待合规真实图片后补齐"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/21197",
+        "https://www.tms-e.co.jp/alltitles/2010s/719101.html",
+        "https://bakuon-anime.com/story/01.html",
+        "https://bakuon-anime.com/news/index00460000.html",
+        "https://bakuon-anime.com/characters/hijiri.html",
+        "https://zh.wikipedia.org/wiki/爆音少女！！"
+      ]
+    }
+  ],
+  "insertedCharacters": 5,
+  "insertedVoiceActors": 5,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 5,
+  "verifiedVoiceActors": 5
+}

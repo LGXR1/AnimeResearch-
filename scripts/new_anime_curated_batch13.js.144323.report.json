@@ -1,0 +1,32 @@
+{
+  "verifiedAt": "2026-10-05T11:54:50.931Z",
+  "curatedFile": "scripts/new_anime_curated_batch13.js",
+  "anime": [
+    {
+      "id": 144323,
+      "title": "惑星公主蜥蜴骑士",
+      "count": 23,
+      "excluded": [
+        {
+          "name": "南云宗一朗、秋谷稻近、夕日的祖父",
+          "reason": "关联角色头像没有hash，祖父记录为无图，待补查"
+        },
+        {
+          "name": "库·里特、洛基·赫利俄斯、龙·月",
+          "reason": "关联日配缺少合规AniList头像，待补查"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/144323",
+        "https://hoshinosamidare.jp/member/",
+        "https://www.bilibili.com/bangumi/play/ss42106",
+        "https://zh.wikipedia.org/wiki/惑星公主蜥蜴騎士"
+      ]
+    }
+  ],
+  "insertedCharacters": 23,
+  "insertedVoiceActors": 23,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 23,
+  "verifiedVoiceActors": 23
+}

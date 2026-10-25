@@ -1,0 +1,323 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T11:20:02.013Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 21096,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21096,
+        "titles": [
+          "Doukyuusei",
+          "Doukyuusei -Classmates-",
+          "同級生",
+          "Classmates"
+        ],
+        "year": 2016,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21096"
+      },
+      "characters": [
+        {
+          "id": 33933,
+          "name": "Hikaru Kusakabe",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33933-3X9QQlVIiJsC.png",
+          "description": "",
+          "nicknames": [
+            "Hikaru Kusakabe",
+            "草壁光",
+            "Beyan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "神谷浩史",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hikaru Kusakabe",
+            "name_native": "草壁光",
+            "name_alternative": [
+              "Beyan"
+            ],
+            "description": "A second year high school student. He's an average student but a talented musician. Very comfortable around people and usually speaks his mind."
+          }
+        },
+        {
+          "id": 33934,
+          "name": "Rihito Sajou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33934-Kwcy5ANGfo2e.jpg",
+          "description": "",
+          "nicknames": [
+            "Rihito Sajou",
+            "佐条利人",
+            "Licht Sajo"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "野島健児",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95074-ilLCdbpWIgrF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Rihito Sajou",
+            "name_native": "佐条利人",
+            "name_alternative": [
+              "Licht Sajo"
+            ],
+            "description": "Rihito Sajou is an excellent student and he seems to have a high IQ although he works very hard to maintain his top grades. He doesn't actually reach out to people, so he doesn't have any friends until he meets Kusakabe."
+          }
+        },
+        {
+          "id": 65593,
+          "name": "Manabu Hara",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65593-LG0mtez0cNYO.jpg",
+          "description": "",
+          "nicknames": [
+            "Manabu Hara",
+            "原マナブ",
+            "原学",
+            "Harasen",
+            "Hara-sensei"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石川英郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95412-czaGpvAm5pWx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Manabu Hara",
+            "name_native": "原マナブ ",
+            "name_alternative": [
+              "原学",
+              "Harasen",
+              "Hara-sensei"
+            ],
+            "description": "A lonely 37-year-old high school teacher who has been the subject of multiple unrequited loves, his first being his old teacher Arisaka and later his own student Sajou. His name Manabu means to \"study.\" Students are prone to making nicknames for him such as Sekuhara (Sexual Harassment) and Harasensei due to his name being easy to create puns with."
+          }
+        },
+        {
+          "id": 165908,
+          "name": "Tani",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165908-DF24VmfFbxj5.png",
+          "description": "",
+          "nicknames": [
+            "Tani",
+            "谷"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "髙坂篤志",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101968-MbkpqticPIk4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tani",
+            "name_native": "谷",
+            "name_alternative": [],
+            "description": "[Hikaru's](https://anilist.co/character/33933) childhood friend and bandmate."
+          }
+        },
+        {
+          "id": 165909,
+          "name": "Sakaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Sakaki",
+            "サカキ",
+            "さかき"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "平野潤也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124959-vmCWJw9t8ql8.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sakaki",
+            "name_native": "サカキ",
+            "name_alternative": [
+              "さかき"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 165917,
+          "name": "Mikipon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165917-wqzIrQjVRjZ5.png",
+          "description": "",
+          "nicknames": [
+            "Mikipon",
+            "ミキポン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "Yurino",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n165918-8XDIMmbqCpPS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mikipon",
+            "name_native": "ミキポン",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 231785,
+          "name": "Koten Kyoushi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231785-fB3finlQMzKx.png",
+          "description": "",
+          "nicknames": [
+            "Koten Kyoushi",
+            "古典教師"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "窪田吾朗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n231786-zMTeefwX9uga.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Koten Kyoushi",
+            "name_native": "古典教師",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 231795,
+          "name": "Uketsuke no Onee-san",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231795-47oDVmXGx7rd.png",
+          "description": "",
+          "nicknames": [
+            "Uketsuke no Onee-san",
+            "受付のおねーさん",
+            "Receptionist"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宇治田愛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Uketsuke no Onee-san",
+            "name_native": "受付のおねーさん",
+            "name_alternative": [
+              "Receptionist"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 231797,
+          "name": "Onna Tomodachi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Onna Tomodachi",
+            "女友達"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高久田まみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n231798-cKHxalywFIGw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Onna Tomodachi",
+            "name_native": "女友達",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 231799,
+          "name": "Kumi Sajou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231799-fjz2asbTZyGI.png",
+          "description": "",
+          "nicknames": [
+            "Kumi Sajou",
+            "佐条久美"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大地葉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109251-ge8rmZwppqxy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kumi Sajou",
+            "name_native": "佐条久美",
+            "name_alternative": [],
+            "description": "[Rihito's](https://anilist.co/character/33934) mother."
+          }
+        },
+        {
+          "id": 231818,
+          "name": "Hashimoto Sensei",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231818-osP7FCttQObX.png",
+          "description": "",
+          "nicknames": [
+            "Hashimoto Sensei",
+            "橋本先生"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐々健太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163674-f2W4ohvETz1B.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Hashimoto Sensei",
+            "name_native": "橋本先生",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    }
+  ]
+}

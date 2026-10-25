@@ -82,7 +82,7 @@ export default function SearchPage() {
       </aside>
 
       {/* 主内容 */}
-      <div className="relative z-[1] flex flex-col items-center">
+      <div className="relative z-[1] flex w-full flex-col items-center">
         {/* 日式标题 */}
         <div className="mb-2 flex items-center gap-3">
           <span className="text-[#ff6b8a]/60 text-lg font-light">〜</span>
@@ -90,14 +90,14 @@ export default function SearchPage() {
           <span className="text-[#ff6b8a]/60 text-lg font-light">〜</span>
         </div>
 
-        <h1 className="text-5xl md:text-6xl font-bold mb-3 tracking-wider"
+        <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-3 tracking-wider"
           style={{ textShadow: '0 0 80px rgba(255,107,138,0.15)' }}>
           <span className="bg-gradient-to-r from-[#ff6b8a] via-[#ff8fab] to-[#ff6b8a] bg-clip-text text-transparent">
             动漫人物搜索
           </span>
         </h1>
 
-        <p className="text-gray-400 mb-12 text-sm tracking-widest flex items-center justify-center gap-3">
+        <p className="text-gray-400 mb-12 text-sm tracking-widest flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-center">
           <span>按角色 · 动漫 · 特征搜索</span>
           <span className="text-gray-600/60 text-xs">キャラクター・アニメ・特徴で検索</span>
         </p>
@@ -108,7 +108,7 @@ export default function SearchPage() {
       </div>
 
       {/* 底部 */}
-      <div className="absolute bottom-6 left-1/2 -translate-x-1/2 text-xs tracking-wider flex items-center gap-2">
+      <div className="absolute bottom-6 left-1/2 w-[calc(100%-2rem)] -translate-x-1/2 text-xs tracking-wider flex flex-wrap items-center justify-center gap-2 text-center">
         {stats && (
           <>
             <span className="text-gray-500">{stats.characters} 个角色 · {stats.anime} 部动漫</span>

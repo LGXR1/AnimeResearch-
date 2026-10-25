@@ -1,0 +1,494 @@
+{
+  "checkedAt": "2026-10-22T07:58:29.670Z",
+  "batchStatus": "reviewed_with_followups",
+  "checkedCount": 100,
+  "checkedIds": [
+    206201,
+    206206,
+    206208,
+    206327,
+    206330,
+    206331,
+    206359,
+    206364,
+    206365,
+    206366,
+    206367,
+    206368,
+    206374,
+    206391,
+    206392,
+    206489,
+    206490,
+    206491,
+    206604,
+    206739,
+    206741,
+    207168,
+    207175,
+    207214,
+    207262,
+    207272,
+    207348,
+    207492,
+    207698,
+    207746,
+    207747,
+    207748,
+    207766,
+    207783,
+    207817,
+    207937,
+    207949,
+    207953,
+    207954,
+    207955,
+    207958,
+    207959,
+    207961,
+    207989,
+    208058,
+    208062,
+    208077,
+    208078,
+    208079,
+    208080,
+    208124,
+    208125,
+    208126,
+    208140,
+    208204,
+    208337,
+    208338,
+    208339,
+    208522,
+    208523,
+    208524,
+    208525,
+    208526,
+    208527,
+    208530,
+    208531,
+    208532,
+    208534,
+    208535,
+    208599,
+    208618,
+    208619,
+    208620,
+    208621,
+    208622,
+    208694,
+    208851,
+    208902,
+    208909,
+    208914,
+    209017,
+    209018,
+    209027,
+    209126,
+    209210,
+    209211,
+    209212,
+    209213,
+    209214,
+    209215,
+    209480,
+    209532,
+    209533,
+    209536,
+    209694,
+    209902,
+    209903,
+    210062,
+    210065,
+    210154
+  ],
+  "checkedRange": {
+    "firstId": 206201,
+    "lastId": 210154
+  },
+  "profileSnapshotVerifiedCount": 22,
+  "profileDescriptionAvailableCount": 20,
+  "modifiedIds": [
+    206201,
+    206489,
+    206490,
+    206491,
+    207168,
+    209027,
+    210065
+  ],
+  "source": {
+    "name": "AniList GraphQL 角色资料快照（本地缓存 + 2026-10-22 实时补查）",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "voiceMediaFetchedAt": "2026-10-13T03:04:01.115Z",
+    "records": [
+      {
+        "id": 206392,
+        "url": "https://anilist.co/character/206392"
+      },
+      {
+        "id": 206604,
+        "url": "https://anilist.co/character/206604"
+      },
+      {
+        "id": 207214,
+        "url": "https://anilist.co/character/207214"
+      },
+      {
+        "id": 207262,
+        "url": "https://anilist.co/character/207262"
+      },
+      {
+        "id": 207348,
+        "url": "https://anilist.co/character/207348"
+      },
+      {
+        "id": 207492,
+        "url": "https://anilist.co/character/207492"
+      },
+      {
+        "id": 208058,
+        "url": "https://anilist.co/character/208058"
+      },
+      {
+        "id": 208062,
+        "url": "https://anilist.co/character/208062"
+      },
+      {
+        "id": 208077,
+        "url": "https://anilist.co/character/208077"
+      },
+      {
+        "id": 208078,
+        "url": "https://anilist.co/character/208078"
+      },
+      {
+        "id": 208079,
+        "url": "https://anilist.co/character/208079"
+      },
+      {
+        "id": 208080,
+        "url": "https://anilist.co/character/208080"
+      },
+      {
+        "id": 208204,
+        "url": "https://anilist.co/character/208204"
+      },
+      {
+        "id": 208618,
+        "url": "https://anilist.co/character/208618"
+      },
+      {
+        "id": 208619,
+        "url": "https://anilist.co/character/208619"
+      },
+      {
+        "id": 208620,
+        "url": "https://anilist.co/character/208620"
+      },
+      {
+        "id": 208621,
+        "url": "https://anilist.co/character/208621"
+      },
+      {
+        "id": 208622,
+        "url": "https://anilist.co/character/208622"
+      },
+      {
+        "id": 208902,
+        "url": "https://anilist.co/character/208902"
+      },
+      {
+        "id": 208909,
+        "url": "https://anilist.co/character/208909"
+      },
+      {
+        "id": 208914,
+        "url": "https://anilist.co/character/208914"
+      },
+      {
+        "id": 209126,
+        "url": "https://anilist.co/character/209126"
+      }
+    ],
+    "round23FetchedAt": "2026-10-22T08:12:12.134Z",
+    "voiceMediaRound23": "2026-10-22T08:13:37.394Z",
+    "voiceStaffSearchRound23B": "2026-10-22T08:42:40.218Z"
+  },
+  "pendingExternalVerificationIds": [],
+  "pendingProfileNoDescriptionIds": [
+    207348,
+    208337,
+    208339,
+    208530,
+    208532,
+    209126,
+    209211,
+    209213,
+    209215
+  ],
+  "pendingShortDescriptionIds": [
+    206201,
+    207937
+  ],
+  "pendingDescriptionQualityIds": [
+    206201,
+    206327,
+    207746,
+    207747,
+    207748,
+    207766,
+    208599,
+    208694,
+    209027,
+    209210,
+    209211,
+    209212,
+    209213,
+    209214,
+    209215,
+    210065
+  ],
+  "pendingTraitVerificationIds": [
+    206208,
+    206327,
+    206330,
+    206331,
+    206392,
+    206604,
+    207348,
+    207746,
+    207747,
+    207748,
+    207766,
+    207949,
+    207953,
+    207954,
+    207955,
+    207958,
+    207959,
+    207961,
+    208077,
+    208078,
+    208079,
+    208126,
+    208204,
+    208524,
+    208599,
+    208694,
+    208909,
+    209027,
+    209126,
+    209210,
+    209211,
+    209212,
+    209213,
+    209214,
+    209215,
+    209694,
+    209902,
+    209903,
+    210062,
+    210065,
+    210154
+  ],
+  "pendingExactGenericTraitIds": [
+    206201,
+    206327,
+    206490,
+    207168,
+    207746,
+    207747,
+    207748,
+    207766,
+    208599,
+    208694,
+    209027,
+    209210,
+    209211,
+    209212,
+    209213,
+    209214,
+    209215,
+    209902,
+    209903,
+    210065
+  ],
+  "pendingVoiceActorIds": [],
+  "pendingVoiceActorImageIds": [
+    206327
+  ],
+  "pendingVisualVerificationIds": [],
+  "pendingColorTraitKeywordIds": [],
+  "pendingImageMismatchIds": [],
+  "localFollowup": {
+    "nicknameIssuesResolved": [
+      206201,
+      206489,
+      206490,
+      206491,
+      207168,
+      209027,
+      210065
+    ],
+    "voiceActorImagesRepaired": [],
+    "characterImagesRefreshed": [],
+    "factualCorrections": [],
+    "searchIndex": {
+      "rebuilt": true,
+      "formulaVerified": true,
+      "descriptionExcluded": true,
+      "mismatchCountBeforeRebuild": 7
+    },
+    "localExportsRegenerated": true,
+    "nicknameAudit": {
+      "checkedCount": 100,
+      "duplicateCountAfter": 0,
+      "canonicalAniListNameMissingAfter": 0
+    },
+    "anilistProfilesRefetched": [
+      206392,
+      206604,
+      207214,
+      207262,
+      207348,
+      207492,
+      208058,
+      208062,
+      208077,
+      208078,
+      208079,
+      208080,
+      208204,
+      208618,
+      208619,
+      208620,
+      208621,
+      208622,
+      208902,
+      208909,
+      208914,
+      209126
+    ],
+    "anilistDescriptionsAvailable": [
+      206392,
+      206604,
+      207214,
+      207262,
+      207492,
+      208058,
+      208062,
+      208077,
+      208078,
+      208079,
+      208080,
+      208204,
+      208618,
+      208619,
+      208620,
+      208621,
+      208622,
+      208902,
+      208909,
+      208914
+    ],
+    "officialAliasesAdded": [],
+    "officialCharacterImagesRefreshed": [
+      208080
+    ],
+    "searchIndexRebuiltForProfileChanges": [
+      208080
+    ],
+    "voiceActorImagesFetchedRound23": [],
+    "voiceActorImagesFetchedAt": "2026-10-22T08:13:37.394Z",
+    "visualImageAuditRound23": {
+      "checkedAt": "2026-10-22T08:32:24.195Z",
+      "source": "逐张检查 AniList 官方角色头像；图片与角色链接见 visual-audit-round23/manifest.json",
+      "reviewedIds": [
+        206201,
+        206374,
+        206489,
+        206490,
+        206491,
+        207168,
+        207937,
+        208534,
+        209027
+      ],
+      "colorCorrections": [
+        {
+          "id": 206490,
+          "name": "藤白琳",
+          "anime": "指尖相触恋恋不舍",
+          "beforeColorTraits": [
+            "棕发",
+            "棕色眼瞳"
+          ],
+          "afterColorTraits": [
+            "金发",
+            "绿瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b206490-zXi4Z96IDuW3.png"
+        },
+        {
+          "id": 207937,
+          "name": "乾心寿",
+          "anime": "更衣人偶坠入爱河",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "粉发",
+            "紫瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207937-ytYjcNtNX77K.png"
+        },
+        {
+          "id": 209027,
+          "name": "埃米尔·内科拉",
+          "anime": "冰上的尤里",
+          "beforeColorTraits": [
+            "棕发",
+            "棕眼"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209027-mJziezZlSPuU.png"
+        }
+      ],
+      "pendingIds": []
+    },
+    "factualCorrectionsRound23": [],
+    "voiceActorImagesResolvedFromAniListStaffRound23B": [],
+    "voiceActorStaffSearchRound23B": "2026-10-22T08:42:40.218Z",
+    "supabaseSyncRound23B": {
+      "verifiedAt": "2026-10-22T09:08:41.850Z",
+      "voiceActorImagesSynced": 0,
+      "characterIdsSynced": [],
+      "placeholderVoiceActorRemoved": false
+    }
+  },
+  "note": "角色图像已逐张目视复核；可辨认的颜色错误已修正，图片无法确认的记录继续待核。",
+  "scopeLimitations": [
+    "发色、瞳色没有逐图目视核验。",
+    "短简介、模板简介和泛化特征在缺少可靠事实来源时未改写。",
+    "本次只更新本地文件；Supabase 未同步，远端数据未回读。",
+    "AniList 实时接口仅未返回合成占位 ID 990000001；该记录继续标为待核。",
+    "AniList 未提供简介的角色仍需其他可靠人物资料来源；未根据作品简介推造人物传记。"
+  ],
+  "databaseSync": {
+    "syncedAt": null,
+    "syncedCount": 0,
+    "readbackVerified": false,
+    "status": "not_synced"
+  },
+  "syncAttempt": {
+    "attemptedThisTurn": false,
+    "reason": "本轮仅处理本地缓存与导出，没有向 Supabase 发起写入。"
+  }
+}

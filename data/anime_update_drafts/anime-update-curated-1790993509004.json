@@ -1,0 +1,294 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T02:06:26.203Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 100714,
+      "anime_title": "小邪神飞踢",
+      "anime_origin": "JP",
+      "source": {
+        "id": 100714,
+        "titles": [
+          "Jashin-chan Dropkick",
+          "Dropkick on My Devil!",
+          "邪神ちゃんドロップキック",
+          "Drop Kick on My Devil!",
+          "Un calcio volante al mio demonio!",
+          "Um chute no meu diabo!"
+        ],
+        "year": 2018,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/100714"
+      },
+      "characters": [
+        {
+          "id": 126884,
+          "name": "邪神酱",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126884-vXoMjYNSGxLK.png",
+          "description": "邪神酱是从地狱被花园百合铃召唤到人间的蛇身恶魔。她性格自私任性，常为了金钱和食物操纵朋友美杜莎，也会因自己的恶作剧招来百合铃的暴力惩罚。邪神酱拥有强大的再生能力，即使身体被切碎或受到致命伤也能恢复，因此两人的冲突往往以夸张的方式反复上演。她虽然自称高贵恶魔，却经常在地球生活中陷入狼狈处境。",
+          "nicknames": [
+            "邪神酱",
+            "Jashin-chan",
+            "邪神ちゃん",
+            "Jashin",
+            "小邪神"
+          ],
+          "traits": [
+            "从地狱被召唤到人间",
+            "蛇身恶魔",
+            "性格自私任性",
+            "被花园百合铃召唤",
+            "拥有再生能力",
+            "常遭百合铃惩罚",
+            "喜欢把美杜莎当作提款机",
+            "在日常中闯出大量麻烦"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴木愛奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119438-womFTwYhPw5o.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Jashin-chan",
+            "name_native": "邪神ちゃん",
+            "name_alternative": [],
+            "description": "Jashin-chan is a self-centered serpent who was summoned from Hell by [Yurine](https://anilist.co/character/126885/Hanazono-Yurine). She possesses regenerative abilities which allow her to revive herself after her actions lead to bloody vengeance from Yurine."
+          }
+        },
+        {
+          "id": 126885,
+          "name": "花园百合铃",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126885-OYjhmihFB9Fa.jpg",
+          "description": "花园百合铃是一名召唤了邪神酱的魔女，两人因此开始在人间共同生活。她平时冷静、善良，能正常处理学习和日常事务；面对邪神酱的贪财、撒谎和闯祸行为时，却会毫不犹豫地施以严厉惩罚。百合铃拥有魔法能力，也会照顾其他来到人间的恶魔与天使。她与邪神酱的相处构成作品的核心，日常温和的一面和惩罚邪神酱时的果断形成鲜明反差。",
+          "nicknames": [
+            "花园百合铃",
+            "Yurine Hanazono",
+            "花園ゆりね",
+            "百合铃",
+            "花园百合音"
+          ],
+          "traits": [
+            "召唤邪神酱的魔女",
+            "居住在人间",
+            "性格冷静沉着",
+            "对邪神酱的恶作剧严厉惩罚",
+            "平时待人友善",
+            "擅长使用魔法",
+            "生活作息稳定",
+            "与地狱来客共同生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "大森日雅",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118921-7AzEhQWBDfFp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yurine Hanazono",
+            "name_native": "花園ゆりね",
+            "name_alternative": [],
+            "description": "Yurine Hanazono is a witch who summoned [Jashin-chan](https://anilist.co/character/126884/Jashin-chan) to Earth. She is relentless in brutally attacking her as penance for her actions, but is generally kind to others."
+          }
+        },
+        {
+          "id": 127125,
+          "name": "美杜莎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127125-BPjrQcShYsC2.jpg",
+          "description": "美杜莎是来自地狱的戈耳工，与邪神酱关系亲密。她外出时会把纸袋戴在头上，避免自己的目光意外让他人石化。美杜莎性格温柔，常被邪神酱当成可以借钱的对象，却依然能看到对方偶尔流露的善意。两人的关系既有依赖也有被利用的无奈，百合铃有时觉得她们像一对相处多年的伴侣。美杜莎与邪神酱之间深厚的互相依靠，使她始终留在人间陪伴好友。",
+          "nicknames": [
+            "美杜莎",
+            "Medusa",
+            "メデューサ",
+            "戈耳工"
+          ],
+          "traits": [
+            "来自地狱的戈耳工",
+            "邪神酱的亲密朋友",
+            "与邪神酱关系深厚",
+            "外出时戴纸袋避免石化他人",
+            "性格温柔体贴",
+            "容易被邪神酱利用钱财",
+            "能看到邪神酱善良的一面",
+            "与百合铃也保持友好关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "久保田未夢",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119204-BFiRcsxZrMti.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Medusa",
+            "name_native": "メデューサ",
+            "name_alternative": [],
+            "description": "A gorgon from Hell who is close friends with [Jashin](https://anilist.co/character/126884/Jashin-chan), despite the later seeing her more as a walking cash machine. She and Jashin are pretty close, to such a level that their relationship leaves [Yurine](https://anilist.co/character/126885/Hanazono-Yurine) a feel of a \"boy-girl relationship\", with Jashin often behaving like an immoral husband who constantly manipulates her \"wife\" Medusa for the sake of monetary gain. At the same time, the tender side of Medusa allows her to discover the hidden good side of Jashin, which allows them to remain closest persons and regularly emphasize their strong bonds and interdependence.\n\nWhile outdoors, she wears a paper bag on her head to avoid accidentally turning people into stone."
+          }
+        },
+        {
+          "id": 127126,
+          "name": "佩可拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127126-hhYRHkCwk4jd.png",
+          "description": "佩可拉原本是天界的天使，因为失去光环而无法返回天界，只能滞留在人间。她没有收入，常常挨饿，却因认为百合铃是魔女而不愿接受对方的帮助。即使处境窘迫，佩可拉仍保持倔强和自尊，努力寻找恢复光环、回到天界的办法。她与邪神酱等地狱来客相处时经常发生冲突，也让作品呈现天使在地球生活中的窘迫与坚持。",
+          "nicknames": [
+            "佩可拉",
+            "Pekora",
+            "ぺこら",
+            "Pekola",
+            "佩克拉"
+          ],
+          "traits": [
+            "从天界来到人间的天使",
+            "因失去光环而滞留地球",
+            "经济拮据常常挨饿",
+            "性格倔强",
+            "不轻易接受百合铃的善意",
+            "误以为百合铃是魔女",
+            "曾担任天使长",
+            "努力寻找返回天界的方法"
+          ],
+          "voice_actors": [
+            {
+              "name": "小坂井祐莉絵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127127-9PscYdruJd4S.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pekora",
+            "name_native": "ぺこら",
+            "name_alternative": [
+              "Pekola"
+            ],
+            "description": "An angel who lost her halo and became stranded on Earth. She is often starved due to not having any money, but is also somewhat defiant in accepting kindness from [Yurine](https://anilist.co/character/126885/Hanazono-Yurine) as she believes her to be a witch."
+          }
+        },
+        {
+          "id": 127128,
+          "name": "米诺斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127128-I6iGhHeoySJU.jpg",
+          "description": "米诺斯是来自地狱的牛头人，也是邪神酱的朋友。她性格直爽，体格强健，能够适应人间生活；作品还以她身为牛头人却毫不介意吃牛肉作为反差笑料。米诺斯常与邪神酱、美杜莎等人一起行动，后来也和性格温和的珀耳塞福涅二世共同生活。她并不像邪神酱那样总是主动惹事，更多时候以爽快随和的态度参与朋友们的日常。",
+          "nicknames": [
+            "米诺斯",
+            "Minos",
+            "ミノス",
+            "米诺陶洛斯"
+          ],
+          "traits": [
+            "来自地狱的牛头人",
+            "邪神酱的朋友",
+            "性格直爽",
+            "即使是牛头人也吃牛肉",
+            "体能出众",
+            "常与邪神酱和美杜莎往来",
+            "能够适应人间日常",
+            "与珀耳塞福涅二世共同生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "小見川千明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96760-z00Vs7vhLR07.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Minos",
+            "name_native": "ミノス",
+            "name_alternative": [],
+            "description": "A minotaur who is friends with [Jashin](https://anilist.co/character/126884/Jashin-chan). Despite being based on a cow, she has no qualms about eating beef."
+          }
+        },
+        {
+          "id": 127546,
+          "name": "波波隆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b127546-cwYrR5qOxOWX.jpg",
+          "description": "波波隆曾是佩可拉的部下，来到人间后希望取代她成为正式天使，也一度试图杀死佩可拉。邪神酱吞下她的光环后，波波隆失去了天使力量，只能留在人间谋生，先后在拉面店工作并尝试以偶像身份活动。她野心不小，行动常被现实处境打乱；与佩可拉的旧日上下级关系也使她们的冲突带有竞争和依赖交织的意味。",
+          "nicknames": [
+            "波波隆",
+            "Poporon",
+            "ぽぽろん",
+            "Noel Amatsuka",
+            "波波龙"
+          ],
+          "traits": [
+            "天界天使",
+            "曾是佩可拉的部下",
+            "想取代佩可拉成为正式天使",
+            "曾试图杀死佩可拉",
+            "光环被邪神酱吞下后失去力量",
+            "在人间做拉面店工作",
+            "也以偶像身份活动",
+            "行动目标常因现实处境改变"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐々木李子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n122233-oAWW3lhH4rjg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Poporon",
+            "name_native": "ぽぽろん",
+            "name_alternative": [
+              "Noel Amatsuka"
+            ],
+            "description": "[Pekola](https://anilist.co/character/127126/Pekora)'s former subordinate, who seeks to kill Pekola so she can take her place as a fully-fledged angel. ~!However, she loses her powers after [Jashin](https://anilist.co/character/126884/Jashin-chan) eats her halo, taking up jobs as both a ramen shop worker and an idol.!~"
+          }
+        },
+        {
+          "id": 162564,
+          "name": "珀耳塞福涅二世",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162564-ufj9KEasrKYH.jpg",
+          "description": "珀耳塞福涅二世是冥界的恶魔，也是哈迪斯与珀耳塞福涅的女儿。她来到人间寻找邪神酱，后来与米诺斯一起生活。珀耳塞福涅二世说话轻声温和，对人类文化并不熟悉，常会不加修饰地说出自己的想法，因此容易让邪神酱陷入尴尬。她本意善良，愿意主动结交遇见的人，以天真直率的态度融入地球生活。",
+          "nicknames": [
+            "珀耳塞福涅二世",
+            "Persephone II",
+            "ペルセポネ2世",
+            "Per-chan",
+            "冥界公主"
+          ],
+          "traits": [
+            "来自冥界的恶魔",
+            "哈迪斯与珀耳塞福涅之女",
+            "为寻找邪神酱来到人间",
+            "后来与米诺斯共同生活",
+            "说话轻声温和",
+            "不熟悉人类文化",
+            "性格天真善良",
+            "常直率表达自己的想法"
+          ],
+          "voice_actors": [
+            {
+              "name": "飯田里穂",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112207-FZGGO2a34Wqt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Persephone II",
+            "name_native": "ペルセポネ2世",
+            "name_alternative": [
+              "Per-chan"
+            ],
+            "description": "A devil who came to the Earth to find [Jashin-chan](https://anilist.co/character/126884). She is the daughter of the Underworld God, Hades and [Persephone](https://anilist.co/character/288414). She later lives with [Minos](https://anilist.co/character/127128).\nPersephone II is very soft-spoken and naïve to human culture. She means well and tries to befriend whoever she meets. Being a kid and all, she tends to state her opinions point blank, usually at Jashin-chan's expense."
+          }
+        }
+      ]
+    }
+  ]
+}

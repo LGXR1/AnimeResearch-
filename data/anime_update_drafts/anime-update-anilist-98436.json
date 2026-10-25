@@ -1,0 +1,1475 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-04T03:28:46.627Z",
+  "mode": "curated",
+  "instructions": "AniList 源记录；核实角色中文名、特征和简介后，保留可靠资料并按官网/可靠来源补全。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 98436,
+      "anime_title": "魔法使的新娘",
+      "anime_origin": "JP",
+      "source": {
+        "id": 98436,
+        "title": [
+          "Mahoutsukai no Yome",
+          "The Ancient Magus' Bride",
+          "魔法使いの嫁"
+        ],
+        "year": 2017,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/98436",
+        "external_links": [
+          {
+            "site": "Official Site",
+            "url": "http://mahoyome.jp/"
+          },
+          {
+            "site": "Twitter",
+            "url": "https://twitter.com/mahoyomeproject"
+          },
+          {
+            "site": "Crunchyroll",
+            "url": "http://www.crunchyroll.com/the-ancient-magus-bride"
+          },
+          {
+            "site": "Instagram",
+            "url": "https://www.instagram.com/mahoyomeproject/"
+          }
+        ]
+      },
+      "characters": [
+        {
+          "id": 88344,
+          "name": "Chise Hatori",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88344-zn7wbe8rKgqT.png",
+          "description": "__Height:__ 155 cm\n\nChise Hatori is a Sleigh Beggy and one of the main protagonists of the series. She is the apprentice and wife of [Elias Ainsworth](https://anilist.co/character/121430/Ainsworth-Elias).\n\nDevoid of love from a young age, Chise has a mysterious connection to magic, which causes her to attract fairies. She learns more about her magical abilities as she finds herself in the care and tutelage of Elias, a powerful mage.\n\n(Source: Ancient Magus Bride Wiki & Crunchyroll)",
+          "nicknames": [
+            "羽鳥智世",
+            "Chise Hatori"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 112215,
+              "name": "種﨑敦美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN"
+          }
+        },
+        {
+          "id": 121430,
+          "name": "Elias Ainsworth",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121430-n1k9M5RdkXyI.png",
+          "description": "He is an ancient magician with both human and fae characteristics. Despite his appearance, he is gentle and polite with humans and shows a great interest in them. He understands why humans feel the emotions they do, but has never experienced them himself. \n\nOne day, he buys [Hatori Chise](https://anilist.co/character/88344/Chise-Hatori) from the black market and makes her his Mage Apprentice.",
+          "nicknames": [
+            "エリアス・エインズワーズ",
+            "Elias Ainsworth"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 107615,
+              "name": "竹内良太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107615-e4FrG8jtyQKY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN"
+          }
+        },
+        {
+          "id": 129385,
+          "name": "Cartaphilus",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129385-jdRVhN7MJUTb.png",
+          "description": "Cartaphilus is a sorcerer that serves as a recurring antagonist of the series. ~!Later is found out that Cartaphilus is actually an unknown being that has lived for over 2000 years, that was found by and later fused with a man called Joseph.!~\n\n(Source: The Ancient Magus Bride Wikia)",
+          "nicknames": [
+            "カルタフィルス",
+            "Cartaphilus"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 110919,
+              "name": "村瀬歩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN"
+          }
+        },
+        {
+          "id": 124153,
+          "name": "Titania",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124153-40mppXmtFzLz.jpg",
+          "description": "Titania is the queen of the fairies and wife to Oberon. She looks like a beautiful woman riding a donkey. She is an acquaintance of Elias Ainsworth and appears to know something about his origin. She does not discriminate against Elias for being a part fairy and part something else.",
+          "nicknames": [
+            "ティターニア",
+            "Titania"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95092,
+              "name": "大原さやか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 124155,
+          "name": "Oberon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124155-iDJCsdqXTR4P.jpg",
+          "description": "The faerie king and husband of Titania. He resembles a satyr, with hooves and deer antlers.",
+          "nicknames": [
+            "オベロン",
+            "Oberon"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95067,
+              "name": "山口勝平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 125915,
+          "name": "Silky",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125915-cDwNFGfAGy4s.png",
+          "description": "House keeper of Elias and Chise's residence.",
+          "nicknames": [
+            "シルキー",
+            "Silky"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95054,
+              "name": "遠藤綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 125916,
+          "name": "Ruth",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/125916-FmtQGDFTX0Rr.jpg",
+          "description": "Chise's familiar and a Church Grim. He shares a mental link with Chise and considers her a sister.",
+          "nicknames": [
+            "ルツ",
+            "Ruth"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 96764,
+              "name": "内山昂輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96764-yJWGrhjanDJQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 126974,
+          "name": "Simon Callum",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/126974-Yg3ed9YyB5X9.jpg",
+          "description": "The priest who lives in the village near Elias' house and is an acquaintance of his.",
+          "nicknames": [
+            "サイモン・カラム",
+            "Simon Callum"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95006,
+              "name": "森川智之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 129384,
+          "name": "Lindel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n129384-zSLY3QNgirXd.png",
+          "description": "Elias' magician master, commonly referred to as Lindel, who lives in the Land of Dragons.",
+          "nicknames": [
+            "リンデル",
+            "Lindel"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95087,
+              "name": "浪川大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161251,
+          "name": "Ethan Barklem",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161251-yzndK0MYpMlr.jpg",
+          "description": "An ordinary human and the younger brother of Stella.",
+          "nicknames": [
+            "イーサン・バークレム",
+            "Ethan Barklem"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 103555,
+              "name": "金元寿子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103555-2ZtBwZfy9DTi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161252,
+          "name": "Chika Hatori",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161252-fLwqMv8LMMin.jpg",
+          "description": "The wife of Yuuki Hatori and the mother of Chise and Fumiki Hatori.",
+          "nicknames": [
+            "羽鳥智花",
+            "Chika Hatori"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95195,
+              "name": "井上喜久子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161253,
+          "name": "Yuuki Hatori",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161253-2E06gpCSMRsG.jpg",
+          "description": "The husband of Chika Hatori and the father of Chise and Fumiki Hatori.",
+          "nicknames": [
+            "羽鳥夕輝",
+            "Yuuki Hatori"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95410,
+              "name": "川田紳司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95410-AosJKUc7YZXE.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161254,
+          "name": "Joel Garland",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161254-7UoFgcZiXdQy.jpg",
+          "description": "A widowed old man who took care of a rose garden. A vampire resided with him, and while he didn't have the ability to see her, he was somewhat sensitive to her presence on a subconscious level.",
+          "nicknames": [
+            "ジョエル・ガーランド",
+            "Joel Garland"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 101602,
+              "name": "梅津秀行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101602-wUvWtCkvNGNB.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161256,
+          "name": "Seth Noel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161256-FPJUkW3Uhnz4.jpg",
+          "description": "An auctioneer working at the Black Market.",
+          "nicknames": [
+            "セス・ノエル",
+            "Seth Noel"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95095,
+              "name": "諏訪部順一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161257,
+          "name": "Redcurrant",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161257-ubeA0uwkmFmG.jpg",
+          "description": "A Leánnan sídhe that watches over Garland's Household. Her name was given to her by Chise Hatori.",
+          "nicknames": [
+            "レッドカラント",
+            "Redcurrant"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95869,
+              "name": "早見沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161258,
+          "name": "Nevin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161258-EB9p7RkUQlEI.jpg",
+          "description": "A Wu-il from the Land of Dragons.",
+          "nicknames": [
+            "ネヴィン",
+            "Nevin"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95836,
+              "name": "大友龍三郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95836-cHQyycQ0PWo2.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161259,
+          "name": "Fumiki Hatori",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161259-CSbW1AblB6n2.jpg",
+          "description": "The son of Yuuki and Chika Hatori and the younger brother of Chise Hatori.",
+          "nicknames": [
+            "羽鳥史輝",
+            "Fumiki Hatori"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 125030,
+              "name": "佐藤はな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125030-qmzaBaeQA7xF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161260,
+          "name": "Mikhail Renfred",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161260-vXgm5MGgq9oh.jpg",
+          "description": "A Sorcerer and mentor to Alice.",
+          "nicknames": [
+            "ミハイル・レンフレッド",
+            "Mikhail Renfred"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95245,
+              "name": "日野聡",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161261,
+          "name": "Stella Barklem",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161261-ZOuLZhcajtWK.jpg",
+          "description": "A friend of Chise and the older sister of Ethan.",
+          "nicknames": [
+            "ステラ・バークレム",
+            "Stella Barklem"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 106404,
+              "name": "諸星すみれ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106404-uodatsBbsnJh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161262,
+          "name": "Hugo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161262-G3ObTp2721cN.jpg",
+          "description": "A Vodyanoi and Angelica's Familiar.",
+          "nicknames": [
+            "ヒューゴ",
+            "Hugo"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 106641,
+              "name": "久野美咲",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106641-zsyRkJ74NXvE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161263,
+          "name": "Spriggan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161263-RR75Js7ptuhc.jpg",
+          "description": "A Faerie that serves the faerie queen, Titania",
+          "nicknames": [
+            "スプリガン",
+            "Spriggan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95025,
+              "name": "安元洋貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161264,
+          "name": "Angelica Barley",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161264-WKJ2WMKUpFPX.jpg",
+          "description": "A Mage and an Artificer with her own magic shop.",
+          "nicknames": [
+            "アンジェリカ・バーレイ",
+            "Angelica Barley"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95428,
+              "name": "甲斐田裕子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95428-1e4kSvr5fkmQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161265,
+          "name": "Alice Swayne",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161265-vKqji5ON23W7.jpg",
+          "description": "Sorcerer and Renfred's apprentice.",
+          "nicknames": [
+            "アリス",
+            "Alice Swayne"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 105013,
+              "name": "田村睦心",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105013-DffN0XN2Zw7G.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161266,
+          "name": "Jade Ariel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161266-DvfJK2j1VTCh.jpg",
+          "description": "An Ariel and an acquaintance of Chise.",
+          "nicknames": [
+            "ジェイドアリエル",
+            "Jade Ariel"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 161267,
+              "name": "内藤有海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n161267-BowvmvYRyhLy.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161268,
+          "name": "Althea Barley",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161268-KDaCED5bnJCl.jpg",
+          "description": "The daughter of Angelica Barley and her husband David Barley.",
+          "nicknames": [
+            "アルシア・バーレイ",
+            "Althea Barley"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 118939,
+              "name": "朝井彩加",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118939-6W4V2P4JL6QH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161269,
+          "name": "Akiko Hatori",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161269-pVPgMo8LvaOU.jpg",
+          "description": "Distant relative of Chise thorugh marriage. Her husband Shouji forced her to take her in to avoid having a negative reputation and raised her along her two sons.\n\nHowever, Akiko was heavily negligent of of Chise and was constantly complaining to her husband due to his buisness trips leaving him not deal with the young mage to be. Like most humans Akiko could not see the \"neighbors\", and thus did not know the torment that Chise went through on a daily basis, instead seeing her as a problem child and a burden.",
+          "nicknames": [
+            "羽鳥晶子",
+            "Akiko Hatori"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95080,
+              "name": "久川綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95080-7dOAcrnsSghI.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 161270,
+          "name": "Adolf Stroud",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161270-aeTi8y4s4EU0.png",
+          "description": "A Sorcerer at the College. He is a former pupil of Lindel.",
+          "nicknames": [
+            "アドルフ・ストラウド",
+            "Adolf Stroud"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95005,
+              "name": "鈴村健一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95005-SkoVN02iOglr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164494,
+          "name": "Merituuli",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164494-0DoPHvCfnRT7.png",
+          "description": "A Selkie and Lindel's Familiar.",
+          "nicknames": [
+            "メリトゥーリ",
+            "Merituuli"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 107961,
+              "name": "潘めぐみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164497,
+          "name": "Jasper",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164497-PzPEBhpLI5tB.png",
+          "description": "A Cat that resides within the village of Ulthar.",
+          "nicknames": [
+            "ジャスパー",
+            "Jasper"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 119855,
+              "name": "長谷川芳明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119855-B21adyPXI4PL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164498,
+          "name": "Isabel no Chichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164498-db0WWec5ZaBO.png",
+          "description": "",
+          "nicknames": [
+            "イザベルの父",
+            "Isabel no Chichi"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 128197,
+              "name": "三瓶雄樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128197-Ay0C6BKWw5fu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164499,
+          "name": "Kyuuketsuki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164499-vMGr4Td1reCA.jpg",
+          "description": "",
+          "nicknames": [
+            "吸血鬼",
+            "Kyuuketsuki"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 161267,
+              "name": "内藤有海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n161267-BowvmvYRyhLy.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164500,
+          "name": "Fuyu no Megami",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164500-Nmd9glcKUvsC.png",
+          "description": "Winter Goddess is one of the old gods of Winter and Death.\n\nThe Winter Goddess is first mentioned just before the night of Yule, an important cycle of the year that showcases the shift between the winter and the coming spring, by the Heralds of Yule and later by Elias. The Winter Goddess later seen riding on top of another god, it's revealed that she's pregnant as she unknowingly passes by Elias, Chise and Ruth. Before leaving she takes notice and picks up a mistletoe.\n\nThe Winter Goddess later appears again before Ruth as he searches for Chise, being first mistaken to be the Slay Vega before Ruth gets a closer look at her and sees a resemblance between her and the Winter Goddess from earlier, quickly deducing that this must be her daughter. The Winter Goddess learns that Ruth had offered gifts to her mother, the mistletoe, and as thanks, she decides to help him by lending Ruth her \"flame\", which reveals Elias position to him. Ruth says thank you before leaving to find Chise, the Winter Goddess replies only that next winter, when she's her mother, she asks only for that which Ruth offered her then.\n\nAs the mother, the Winter Goddess is a tall woman with exceptionally long, dark and wavy hair with a motherly figure. Her eyes are bright with white pupils. She's clad in a long dress that reaches down to her feet, it's black from the ankles and upwards while the lower parts are white.\nAs the daughter, her appearance takes a stark contrast to her mother as she's a small child with white hair and a shorter dress. Her eyes have a black sclera while her iris remains bright and the pupils are white.\n\n(Source: Mahou Tsukai no Yome Wiki)",
+          "nicknames": [
+            "冬の女神",
+            "Fuyu no Megami"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95013,
+              "name": "川澄綾子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95013-854sZdHTaabG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164501,
+          "name": "Hazel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164501-npaqm41YUevo.png",
+          "description": "A Faerie, specifically a Centaur, working as Courier. He delivers both letters and packages for anyone who calls upon him.",
+          "nicknames": [
+            "ヘイゼル",
+            "Hazel"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 119048,
+              "name": "松川裕輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119048-7hScWHmCgSL7.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164503,
+          "name": "Masked Monster",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164503-umhrrXdtsF4h.png",
+          "description": "",
+          "nicknames": [
+            "仮面の怪",
+            "Masked Monster"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 125030,
+              "name": "佐藤はな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125030-qmzaBaeQA7xF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164504,
+          "name": "Hawthorn Spirit",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164504-RFjg0pf2UBju.png",
+          "description": "",
+          "nicknames": [
+            "サンザシの精",
+            "Hawthorn Spirit"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 125030,
+              "name": "佐藤はな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125030-qmzaBaeQA7xF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164505,
+          "name": "Barney",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164505-BJnjPy71sUr5.png",
+          "description": "",
+          "nicknames": [
+            "バーニー",
+            "Barney"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 105148,
+              "name": "高橋伸也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105148-wgwzwTxAERbM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164507,
+          "name": "Ally",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164507-XebqOQ31IelL.png",
+          "description": "",
+          "nicknames": [
+            "アリー",
+            "Ally"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 118806,
+              "name": "Lynn",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118806-2aFjOHv08Iwm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164509,
+          "name": "Molly",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164509-mImeby4hP203.png",
+          "description": "A Cat that resides within the village of Ulthar. She currently holds the position as the last King of Cats.",
+          "nicknames": [
+            "モリィ",
+            "Molly"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 96111,
+              "name": "佐久間レイ ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96111-69cAO9T9llGo.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164511,
+          "name": "Gwee Hatchling",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164511-b8LkBIzI5FrA.png",
+          "description": "",
+          "nicknames": [
+            "ドラゴンの雛(グィー種)",
+            "Gwee Hatchling"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 119740,
+              "name": "藤原夏海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119740-EEZ5DErQhOht.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164513,
+          "name": "Beana Hatchling",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164513-ppO5XqT5ZbOV.png",
+          "description": "",
+          "nicknames": [
+            "ドラゴンの雛(ベァナ種)",
+            "Beana Hatchling"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 161267,
+              "name": "内藤有海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n161267-BowvmvYRyhLy.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164516,
+          "name": "Isabel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164516-ZiIn4LiOkjcl.png",
+          "description": "The original owner of Ruth, though she named him Ulysse.",
+          "nicknames": [
+            "イザベル",
+            "Isabel"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 112215,
+              "name": "種﨑敦美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164517,
+          "name": "Leannán Sídhe",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164517-7CWbtGwOVP5O.png",
+          "description": "",
+          "nicknames": [
+            "リャナン・シー",
+            "Leannán Sídhe"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 115100,
+              "name": "清都ありさ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/20100.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164519,
+          "name": "Marielle",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164519-u3GJ8nObwai8.png",
+          "description": "A witch part of an unknown coven.",
+          "nicknames": [
+            "マリエル",
+            "Marielle"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95090,
+              "name": "坂本真綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95090-oARRP42NEhu0.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164520,
+          "name": "Matthew",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164520-0x7KILKjwNaI.png",
+          "description": "Mina's husband",
+          "nicknames": [
+            "マシュー",
+            "Matthew"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 118498,
+              "name": "上村祐翔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118498-6YvZZS0HM2qD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164521,
+          "name": "Angelica no Chichioya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164521-jANW18ZQLcCN.png",
+          "description": "",
+          "nicknames": [
+            "アンジェリカの父親",
+            "Angelica no Chichioya"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 104816,
+              "name": "金光宣明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104816-0kU8ww2ogISO.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164523,
+          "name": "David Barley",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164523-rffiIrQL7TNV.png",
+          "description": "The husband of Angelica Barley and father of Althea.",
+          "nicknames": [
+            "デイビット・バーレイ",
+            "David Barley"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 107708,
+              "name": "福田賢二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107708-0PH2NmJ3vVIU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164525,
+          "name": "Ashen Eye",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164525-drhBm7ynR3Hx.png",
+          "description": "A very old Faerie.",
+          "nicknames": [
+            "アッシェンアイ",
+            "Ashen Eye"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95091,
+              "name": "中田譲治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95091-idoMaN26z80B.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164526,
+          "name": "Yule no Futago",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164526-uLmDVNTuoyD7.png",
+          "description": "",
+          "nicknames": [
+            "ユールの双子",
+            "Yule no Futago"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 107238,
+              "name": "村中知",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107238-dDJNRNH3N4yy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164527,
+          "name": "Fire Sprite",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164527-FxMMyEEa9ife.png",
+          "description": "",
+          "nicknames": [
+            "Fire Sprite"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 125030,
+              "name": "佐藤はな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125030-qmzaBaeQA7xF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164530,
+          "name": "Mina",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164530-Gw5pk7yPwFlp.png",
+          "description": "Matthew's wife.",
+          "nicknames": [
+            "ミナ",
+            "Mina"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 104973,
+              "name": "沼倉愛美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104973-rymSxCu8uP0Y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164533,
+          "name": "Shanahan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164533-V6NPMobMY05U.png",
+          "description": "Former Human, now Faerie, living in the faerie world. He's married to Shannon.",
+          "nicknames": [
+            "シャナハン",
+            "Shanahan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 119617,
+              "name": "内田雄馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164536,
+          "name": "Stella no Chichioya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164536-3JOltNgt3JLj.png",
+          "description": "",
+          "nicknames": [
+            "ステラの父親",
+            "Stella no Chichioya"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 116237,
+              "name": "布施川一寛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/21237.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164537,
+          "name": "Stella no Hahaoya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164537-m5O9Obgcutui.png",
+          "description": "",
+          "nicknames": [
+            "ステラの母親",
+            "Stella no Hahaoya"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95215,
+              "name": "早水リサ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95215-CvyYAqsZaaaK.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164538,
+          "name": "Tim",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164538-Oj04U5JEmZW5.png",
+          "description": "A Cat that resided within the village of Ulthar. He was the pet of Mina.",
+          "nicknames": [
+            "ティム",
+            "Tim"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 128197,
+              "name": "三瓶雄樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128197-Ay0C6BKWw5fu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164539,
+          "name": "Uil Hatchling",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164539-FgjZaM4R82Xy.png",
+          "description": "",
+          "nicknames": [
+            "ドラゴンの雛",
+            "Uil Hatchling"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 125030,
+              "name": "佐藤はな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125030-qmzaBaeQA7xF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164540,
+          "name": "Will o' The Wisp",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164540-1KW5T9ktXErc.png",
+          "description": "Faerie that lures humans away from safe paths.",
+          "nicknames": [
+            "ウィルオウィスプ",
+            "Will o' The Wisp"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95017,
+              "name": "石田彰",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164541,
+          "name": "Phyllis",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164541-qahOqrR8pM5Z.png",
+          "description": "A witch and the leader of an unknown coven.",
+          "nicknames": [
+            "ピュリス",
+            "Phyllis"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95075,
+              "name": "田中真弓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95075-1qD4TeW1ON92.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164543,
+          "name": "Seth's Assistant",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164543-oe8I97yofTfu.png",
+          "description": "",
+          "nicknames": [
+            "アシスタント",
+            "Seth's Assistant"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 119855,
+              "name": "長谷川芳明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119855-B21adyPXI4PL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164544,
+          "name": "Yule no Futago",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164544-IHahbC8MSUga.png",
+          "description": "",
+          "nicknames": [
+            "ユールの双子",
+            "Yule no Futago"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 107238,
+              "name": "村中知",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107238-dDJNRNH3N4yy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164545,
+          "name": "Shannon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164545-t0Apk1PwhJcp.png",
+          "description": "A changeling and a doctor. She's married to Shanahan.",
+          "nicknames": [
+            "シャノン",
+            "Shannon"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 96696,
+              "name": "下田麻美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96696-nWJbm04iuOWW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164546,
+          "name": "Shouji Hatori",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164546-QTPfULDeNVMQ.png",
+          "description": "Akiko Hatori's husband and a relative of Chise.",
+          "nicknames": [
+            "羽鳥昭次",
+            "Shouji Hatori"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 96074,
+              "name": "保村真",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96074-mcIujin2kl4o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164547,
+          "name": "Rahab",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164547-N3GbNPK65mYn.png",
+          "description": "Mage who served as Lindel's magic teacher. She is fond of giving names, having chosen Lindel's and Elias' names.",
+          "nicknames": [
+            "ラハブ",
+            "Rahab"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95009,
+              "name": "三石琴乃",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95009-d01Dg8mMwcg6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164549,
+          "name": "Torrey Innis",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164549-PkV2FxbEWfBH.png",
+          "description": "A Sorcerer and a teacher at the College, with a fanatical interest in magic.",
+          "nicknames": [
+            "トーリー・イニス",
+            "Torrey Innis"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95020,
+              "name": "小西克幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164550,
+          "name": "Dragon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164550-CJlGXZEIcMNa.png",
+          "description": "She's almost always seen beside Lindel as they both protect the Dragon Aerie.",
+          "nicknames": [
+            "ドラゴン",
+            "Dragon"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 145777,
+              "name": "白城なお",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n145777-RF1V1MJtA7hc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING"
+          }
+        },
+        {
+          "id": 164542,
+          "name": "Wooly Bug",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b164542-ManUlVJ5yl2q.png",
+          "description": "",
+          "nicknames": [
+            "綿蟲",
+            "Wooly Bug"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "id": 95054,
+              "name": "遠藤綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND"
+          }
+        }
+      ]
+    }
+  ]
+}

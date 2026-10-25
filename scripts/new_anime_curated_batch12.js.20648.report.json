@@ -1,0 +1,35 @@
+{
+  "verifiedAt": "2026-10-05T06:18:22.880Z",
+  "curatedFile": "scripts/new_anime_curated_batch12.js",
+  "anime": [
+    {
+      "id": 20648,
+      "title": "少年好莱坞",
+      "count": 13,
+      "excluded": [
+        {
+          "name": "Cat",
+          "reason": "有真实角色图片，但 AniList 未提供日配资料"
+        },
+        {
+          "name": "风见家人、佐伯唯、远藤卓、远山彻、荒井健、河野草太",
+          "reason": "AniList 简介过于简略或为空，官网未提供对应完整人物资料，暂缓"
+        },
+        {
+          "name": "黑白小姐",
+          "reason": "AniList 简介来自其独立作品，尚未核实本作客串资料"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/20648",
+        "https://king-cr.jp/special/shonen-hollywood-anime/character/",
+        "https://w.atwiki.jp/sho_holly/pages/4.html"
+      ]
+    }
+  ],
+  "insertedCharacters": 13,
+  "insertedVoiceActors": 13,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 13,
+  "verifiedVoiceActors": 13
+}

@@ -1,0 +1,1634 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T02:25:01.874Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 159309,
+      "anime_title": "乙女游戏世界对路人角色很不友好 第二季",
+      "anime_origin": "JP",
+      "source": {
+        "id": 159309,
+        "titles": [
+          "Otomege Sekai wa Mob ni Kibishii Sekai desu 2",
+          "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs Season 2",
+          "乙女ゲー世界はモブに厳しい世界です2",
+          "mobseka 2",
+          "ชีวิตตัวประกอบอย่างตูช่างอยู่ยาก เมื่ออยู่ในโลกเกมจีบหนุ่ม ภาค 2",
+          "Otome Game Sekai wa Mob ni Kibishii Sekai desu 2",
+          "Otomege 2",
+          "モブせか 2"
+        ],
+        "year": 2026,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/159309"
+      },
+      "characters": [
+        {
+          "id": 152673,
+          "name": "奥莉薇娅",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152673-PXt43BGpEBbU.jpg",
+          "description": "奥莉薇娅是乙女游戏中的女主角，原本出身普通家庭，后来进入霍尔法特学院学习。她拥有与众不同的魔法资质，性格善良，起初并不熟悉贵族社会的规则。里昂和安洁莉卡帮助她适应校园生活后，三人逐渐建立友情。奥莉薇娅的存在牵动游戏原本的剧情，也让里昂必须在改变世界走向与尊重她个人选择之间谨慎行动。",
+          "nicknames": [
+            "奥莉薇娅",
+            "Olivia",
+            "オリヴィア",
+            "Livia",
+            "奥莉维亚"
+          ],
+          "traits": [
+            "乙女游戏中的女主角",
+            "出身普通家庭",
+            "进入霍尔法特学院",
+            "拥有与众不同的魔法资质",
+            "与里昂和安洁莉卡成为朋友",
+            "待人善良",
+            "逐渐适应贵族社会",
+            "被卷入王国及游戏剧情冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "市ノ瀬加那",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124390-03LHel2XSFel.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Olivia",
+            "name_native": "オリヴィア",
+            "name_alternative": [
+              "Livia"
+            ],
+            "description": "The main character of the otome game."
+          }
+        },
+        {
+          "id": 152674,
+          "name": "里昂·冯·巴尔特法尔特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152674-S1Y9XCN8O2jb.jpg",
+          "description": "里昂·冯·巴尔特法尔特原本生活在现代日本，意外转生到自己熟悉的乙女游戏世界，成为巴尔特法尔特家族的路人角色。他利用对游戏剧情的了解在贵族社会中求生，并得到人工智能伙伴卢克西翁协助。里昂说话直接，常以现实主义态度打破游戏既定路线，却也逐渐在意奥莉薇娅和安洁莉卡的处境。他的选择不断改变王国局势。",
+          "nicknames": [
+            "里昂·冯·巴尔特法尔特",
+            "Leon Fou Bartfort",
+            "リオン・フォウ・バルトファルト",
+            "里昂",
+            "Leon"
+          ],
+          "traits": [
+            "故事男主角",
+            "转生到乙女游戏世界",
+            "出身巴尔特法尔特男爵家",
+            "游戏中的路人角色",
+            "持有AI伙伴卢克西翁",
+            "擅长利用游戏知识",
+            "常以现实主义方式解决问题",
+            "保护奥莉薇娅与安洁莉卡"
+          ],
+          "voice_actors": [
+            {
+              "name": "大塚剛央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128426-uB8KFqVLbogF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Leon Fou Bartfort",
+            "name_native": "リオン・フォウ・バルトファルト",
+            "name_alternative": [],
+            "description": "Our main character, who finds him reincarnated in an otome game after tripping down some stairs."
+          }
+        },
+        {
+          "id": 152676,
+          "name": "安洁莉卡·拉法·雷德格雷夫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152676-NiGb8kgNuHmp.jpg",
+          "description": "安洁莉卡·拉法·雷德格雷夫出身于雷德格雷夫家族，在原本的乙女游戏剧情中被安排为恶役千金。与里昂和奥莉薇娅相识后，她逐渐摆脱既定反派位置，和两人成为伙伴。安洁莉卡重视贵族责任与家族名誉，行事果断，也会在政治压力面前坚持自己的判断。她的身份使校园友情与王国权力斗争直接相连。",
+          "nicknames": [
+            "安洁莉卡·拉法·雷德格雷夫",
+            "Angelica Rafua Redgrave",
+            "アンジェリカ・ラファ・レッドグレイブ",
+            "Angie",
+            "Anjie",
+            "安洁莉卡",
+            "安洁"
+          ],
+          "traits": [
+            "雷德格雷夫家族千金",
+            "原作游戏中的恶役千金",
+            "与里昂和奥莉薇娅成为朋友",
+            "具有贵族责任感",
+            "重视家族名誉",
+            "行动果断",
+            "面对婚约和权力压力",
+            "参与学院及王国危机"
+          ],
+          "voice_actors": [
+            {
+              "name": "ファイルーズあい",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n133625-YpEgKD7flV2S.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Angelica Rafua Redgrave",
+            "name_native": "アンジェリカ・ラファ・レッドグレイブ",
+            "name_alternative": [
+              "Angie",
+              "Anjie"
+            ],
+            "description": "The villainess of the otome game, who is befriended by [Leon](https://anilist.co/character/152674/Fou-Bartfort-Leon) and [Livia](https://anilist.co/character/152673/Olivia)."
+          }
+        },
+        {
+          "id": 152675,
+          "name": "玛丽·冯·拉冯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152675-3vTucl59ydOT.jpg",
+          "description": "玛丽·冯·拉冯是里昂在现代日本的姐姐，也和他一样转生到乙女游戏世界，成为巴尔特法尔特家族的一员。她熟悉游戏剧情，却没有把所有前世信息都告诉里昂，因此姐弟之间既有共同秘密，也有立场竞争。玛丽努力在新世界寻找自己的位置，并与游戏原有角色建立关系。她的选择改变了里昂熟悉的剧情发展，令两人的家庭和冒险同时变得复杂。",
+          "nicknames": [
+            "玛丽·冯·拉冯",
+            "Marie Fou Lafuan",
+            "マリエ・フォウ・ラーファン",
+            "玛丽"
+          ],
+          "traits": [
+            "里昂在日本的姐姐",
+            "与里昂一同转生到游戏世界",
+            "成为巴尔特法尔特家族成员",
+            "熟悉乙女游戏剧情",
+            "隐瞒部分前世经历",
+            "与里昂存在手足竞争",
+            "在新世界追求自己的目标",
+            "改变了原作角色关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐倉綾音",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Marie Fou Lafuan",
+            "name_native": "マリエ・フォウ・ラーファン",
+            "name_alternative": [],
+            "description": "~!Leon's sister from Japan, who was also reincarnated in the otome game.!~"
+          }
+        },
+        {
+          "id": 161418,
+          "name": "卢克西翁",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161418-tfjkmMwdEB2W.jpg",
+          "description": "卢克西翁最初只是乙女游戏里的付费商店道具，转生后的里昂却将它变成重要伙伴。它拥有人工智能和独立判断能力，能够协助分析局势、提供情报，并支持里昂进行战斗与行动。卢克西翁对主人忠诚，说话冷静直接，有时也会对里昂的决定提出质疑。它的存在让里昂得以利用超越当地技术水平的资源，也影响了世界中的科技与权力平衡。",
+          "nicknames": [
+            "卢克西翁",
+            "Luxion",
+            "ルクシオン",
+            "Lux"
+          ],
+          "traits": [
+            "里昂的人工智能伙伴",
+            "原本是游戏中的付费道具",
+            "具有自主判断能力",
+            "能够分析情势和提供建议",
+            "协助里昂驾驶与战斗",
+            "对主人保持忠诚",
+            "表达方式冷静直接",
+            "影响游戏世界的科技格局"
+          ],
+          "voice_actors": [
+            {
+              "name": "石田彰",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Luxion",
+            "name_native": "ルクシオン",
+            "name_alternative": [
+              "Lux"
+            ],
+            "description": "Luxion was originally a cash in-game shop item in the original Otome Game, but now, he's the deuteragonist of the story, an important supporting player of the major events of the series."
+          }
+        },
+        {
+          "id": 168842,
+          "name": "尤利乌斯·拉法·霍尔法特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168842-BWD5DWfLIxEb.png",
+          "description": "尤利乌斯·拉法·霍尔法特是霍尔法特王国王子，也是乙女游戏中可攻略的男性角色之一。他是米莲王后的儿子，接受王族与贵族教育，原本与安洁莉卡订有婚约。里昂改变游戏剧情后，尤利乌斯必须面对身份、感情和王室责任带来的压力。他既可能成为里昂的竞争者，也会因王国危机与他合作，逐渐显露出王子身份之外的个人判断。",
+          "nicknames": [
+            "尤利乌斯·拉法·霍尔法特",
+            "Julius  Rafa Holfort",
+            "ユリウス・ラファ・ホルファート",
+            "Julius Rafa Holfort",
+            "尤利乌斯",
+            "尤利乌斯王子"
+          ],
+          "traits": [
+            "霍尔法特王国王子",
+            "乙女游戏的可攻略对象之一",
+            "米莲王后的儿子",
+            "拥有王族身份",
+            "曾与安洁莉卡订婚",
+            "在学院接受贵族教育",
+            "需要面对王位责任",
+            "与里昂的行动产生冲突和合作"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴村健一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95005-SkoVN02iOglr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Julius  Rafa Holfort",
+            "name_native": "ユリウス・ラファ・ホルファート",
+            "name_alternative": [],
+            "description": "Julius Rafa Holfort is one of the main capture target in first series of the otome game and prince of the Holfort Kingdom."
+          }
+        },
+        {
+          "id": 203167,
+          "name": "米莲·拉法·霍尔法特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203167-rdyGeGPTcFIq.png",
+          "description": "米莲·拉法·霍尔法特是霍尔法特王国的王后，也是尤利乌斯王子的母亲和罗兰国王的妻子。她熟悉宫廷政治，关心王室稳定，也需要考虑儿子的婚约与继承责任。里昂对既定剧情的介入使王室关系产生变化，米莲必须在家庭情感、贵族利益和国家事务之间作出判断。她的成熟与影响力使她成为王都政治中的重要人物。",
+          "nicknames": [
+            "米莲·拉法·霍尔法特",
+            "Mylene Rafa Holfort",
+            "ミレーヌ・ラファ・ホルファート",
+            "米莲王后",
+            "米莲"
+          ],
+          "traits": [
+            "霍尔法特王国王后",
+            "尤利乌斯的母亲",
+            "罗兰国王的妻子",
+            "熟悉宫廷政治",
+            "重视王室稳定",
+            "关注儿子的婚约与未来",
+            "具有成熟的判断力",
+            "在王国事务中拥有影响力"
+          ],
+          "voice_actors": [
+            {
+              "name": "大原さやか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mylene Rafa Holfort",
+            "name_native": "ミレーヌ・ラファ・ホルファート",
+            "name_alternative": [],
+            "description": "Mylene Rafa Holfort is the mother of [Julius](https://anilist.co/character/168842/Rafa-Holfort-Julius), wife of Roland and the Queen of Holfort Kingdom."
+          }
+        },
+        {
+          "id": 265074,
+          "name": "布拉德·冯·菲尔德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b265074-JoEhXDlfZmzu.png",
+          "description": "布拉德·冯·菲尔德是贵族家庭的年轻继承人，也是霍尔法特学院中的学生。作为乙女游戏的可攻略对象之一，他以英俊外表和贵族礼仪吸引关注，在校园派系和社交活动中颇有存在感。里昂知道游戏原本如何安排他的剧情，因此会以旁观者眼光评估他的行为；但现实中的布拉德也有自己的选择，并非完全受游戏设定控制。",
+          "nicknames": [
+            "布拉德·冯·菲尔德",
+            "Brad Fou Field",
+            "ブラッド・フォウ・フィールド",
+            "布拉德",
+            "菲尔德公子"
+          ],
+          "traits": [
+            "贵族家庭的年轻继承人",
+            "霍尔法特学院学生",
+            "乙女游戏可攻略对象之一",
+            "外表英俊",
+            "擅长社交与礼仪",
+            "重视个人名声",
+            "参与学院派系活动",
+            "与里昂的游戏知识产生交集"
+          ],
+          "voice_actors": [
+            {
+              "name": "立花慎之介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95792-5413Ip70mSdV.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Brad Fou Field",
+            "name_native": "ブラッド・フォウ・フィールド",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 265075,
+          "name": "吉尔克·菲亚·马尔莫里亚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b265075-J1S5KSqaZlMQ.jpg",
+          "description": "吉尔克·菲亚·马尔莫里亚是霍尔法特学院的学生，也是乙女游戏中的可攻略对象之一。他曾与克拉丽丝订婚，之后因家族和个人处境变化而解除婚约。吉尔克熟悉贵族社交，必须在学院生活和家族声誉之间寻找立场。里昂改变原作剧情后，吉尔克与原本路线中的角色关系不断变化，他也需要面对自己此前回避的问题。",
+          "nicknames": [
+            "吉尔克·菲亚·马尔莫里亚",
+            "Jilk Fia Marmoria",
+            "ジルク・フィア・マーモリア",
+            "吉尔克",
+            "菲亚"
+          ],
+          "traits": [
+            "霍尔法特学院学生",
+            "乙女游戏可攻略对象之一",
+            "出身菲亚·马尔莫里亚家族",
+            "与克拉丽丝曾有婚约",
+            "擅长贵族社交",
+            "需要维护家族声誉",
+            "在里昂改变剧情后面临新局势",
+            "身处学院男性角色群体之中"
+          ],
+          "voice_actors": [
+            {
+              "name": "鳥海浩輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95097-BhSegy6KBLbE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jilk Fia Marmoria",
+            "name_native": "ジルク・フィア・マーモリア",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 265076,
+          "name": "格雷格·冯·塞伯格",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b265076-w79wLFSEtZMz.png",
+          "description": "格雷格·冯·塞伯格是霍尔法特学院的学生，出身贵族家庭，也是乙女游戏中的可攻略对象之一。他以体能和战斗训练见长，在学院男性学生之间保持活跃，重视个人实力与名声。里昂改写剧情后，格雷格原本熟悉的竞争关系和发展路线都发生变化，他需要在学院冲突和王国危机中重新判断自己的目标。",
+          "nicknames": [
+            "格雷格·冯·塞伯格",
+            "Greg Fou Seberg",
+            "グレッグ・フォウ・セバーグ",
+            "格雷格",
+            "塞伯格"
+          ],
+          "traits": [
+            "霍尔法特学院学生",
+            "乙女游戏可攻略对象之一",
+            "出身贵族家庭",
+            "擅长体能与战斗训练",
+            "在学院男性群体中活跃",
+            "重视个人实力",
+            "与里昂一行发生竞争",
+            "在王国危机中受到剧情变化影响"
+          ],
+          "voice_actors": [
+            {
+              "name": "檜山修之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95257-PgYwsBplRSJa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Greg Fou Seberg",
+            "name_native": "グレッグ・フォウ・セバーグ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 265077,
+          "name": "克里斯·菲亚·阿克莱特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b265077-IQItHY5YXIK0.png",
+          "description": "克里斯·菲亚·阿克莱特是霍尔法特学院的学生，出身重视传统的贵族家族，也是游戏中的可攻略对象之一。他接受剑术训练，举止讲究礼节，习惯按照家族规范要求自己。里昂进入学院并改变原有剧情后，克里斯的校园生活受到新的竞争与冲突影响。他需要在家族期待、个人荣誉和与同学的关系之间寻找平衡。",
+          "nicknames": [
+            "克里斯·菲亚·阿克莱特",
+            "Chris Fia Arclight",
+            "クリス・フィア・アークライト",
+            "克里斯",
+            "阿克莱特"
+          ],
+          "traits": [
+            "霍尔法特学院学生",
+            "乙女游戏可攻略对象之一",
+            "出身阿克莱特家族",
+            "接受剑术训练",
+            "举止讲究礼节",
+            "重视家族传统",
+            "参与学院战斗与活动",
+            "与里昂的行动路线交错"
+          ],
+          "voice_actors": [
+            {
+              "name": "遊佐浩二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95068-AbL4cVGlYaM8.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chris Fia Arclight",
+            "name_native": "クリス・フィア・アークライト",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 271024,
+          "name": "尼克斯·冯·巴尔特法尔特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271024-veRYZ85c0Q2z.jpg",
+          "description": "尼克斯·冯·巴尔特法尔特是巴尔特法尔特家的长子，也是里昂的哥哥。作为家族继承人，他需要承担领地和家族事务，面对贵族社会对长子的期待。里昂的异常能力与行动常把家庭卷入更大的冲突，尼克斯既要处理家族责任，也会关注弟弟的安全和选择。他代表里昂在贵族世界中的家庭根基。",
+          "nicknames": [
+            "尼克斯·冯·巴尔特法尔特",
+            "Nicks Fou Bartfort",
+            "ニックス・フォウ・バルトファルト",
+            "尼克斯",
+            "尼克斯哥哥"
+          ],
+          "traits": [
+            "巴尔特法尔特家长子",
+            "里昂的哥哥",
+            "家族的长子继承人",
+            "承担领地事务",
+            "关心弟弟的处境",
+            "熟悉地方贵族生活",
+            "处于家族继承压力中",
+            "与里昂共同面对家庭问题"
+          ],
+          "voice_actors": [
+            {
+              "name": "清水大登",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n374889-2w9b8BVNN1ry.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nicks Fou Bartfort",
+            "name_native": "ニックス・フォウ・バルトファルト",
+            "name_alternative": [],
+            "description": "The eldest son & child of the Bartfort Household & Leon's older brother."
+          }
+        },
+        {
+          "id": 278295,
+          "name": "迪德莉·冯·罗斯布莱德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278295-j7D9p2x9BOQk.jpg",
+          "description": "迪德莉·冯·罗斯布莱德是霍尔法特学院三年级学生，也是罗斯布莱德家族的继承人之一。她熟悉贵族社交规则，能够凭借家族地位参与学院派系和婚约安排。随着里昂等人改写原有游戏剧情，迪德莉必须重新评估家族利益与个人选择之间的关系。她的身份让学院生活与贵族家族间的权力往来紧密相连。",
+          "nicknames": [
+            "迪德莉·冯·罗斯布莱德",
+            "Deirdre Fou Roseblade",
+            "ディアドリー・フォウ・ローズブレイド",
+            "迪德莉",
+            "罗斯布莱德千金"
+          ],
+          "traits": [
+            "霍尔法特学院三年级学生",
+            "罗斯布莱德家族继承人之一",
+            "身高一百六十二厘米",
+            "熟悉贵族社交",
+            "拥有家族身份带来的影响力",
+            "参与学院派系活动",
+            "关注婚约与家族利益",
+            "与里昂一行发生交集"
+          ],
+          "voice_actors": [
+            {
+              "name": "喜多村英梨",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Deirdre Fou Roseblade",
+            "name_native": "ディアドリー・フォウ・ローズブレイド",
+            "name_alternative": [],
+            "description": "Height: 162cm\nA third-year student of Holfort Academy and one of the heiresses of the Roseblade Household."
+          }
+        },
+        {
+          "id": 278296,
+          "name": "吉尔伯特·拉法·雷德格雷夫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278296-7GC5a6jA73fM.jpg",
+          "description": "吉尔伯特·拉法·雷德格雷夫是雷德格雷夫家族的长子，也是安洁莉卡的哥哥，父亲文斯是家族现任家主。作为继承人，他需要关注家族的政治地位与王室关系。里昂和安洁莉卡的行动打破既有安排后，吉尔伯特也必须重新面对家族利益与妹妹选择之间的关系。他的角色展现安洁莉卡背后的贵族家庭和继承责任。",
+          "nicknames": [
+            "吉尔伯特·拉法·雷德格雷夫",
+            "Gilbert Rapha Redgrave",
+            "ギルバート・ラファ・レッドグレイブ",
+            "吉尔伯特",
+            "雷德格雷夫长子"
+          ],
+          "traits": [
+            "雷德格雷夫家族长子",
+            "安洁莉卡的哥哥",
+            "温斯家主文斯的儿子",
+            "出身王国重要贵族",
+            "关注家族政治地位",
+            "承担继承人责任",
+            "熟悉宫廷与学院人脉",
+            "与里昂行动引发的变化有关"
+          ],
+          "voice_actors": [
+            {
+              "name": "野島健児",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95074-ilLCdbpWIgrF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gilbert Rapha Redgrave",
+            "name_native": "ギルバート・ラファ・レッドグレイブ",
+            "name_alternative": [],
+            "description": "Eldest child of the Redgrave Household and [Angelica](https://anilist.co/character/152676/Angelica-Rafua-Redgrave)'s older brother."
+          }
+        },
+        {
+          "id": 278298,
+          "name": "文斯·拉法·雷德格雷夫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278298-lcjeTxw9IHXd.jpg",
+          "description": "文斯·拉法·雷德格雷夫是雷德格雷夫家族现任家主，也是吉尔伯特和安洁莉卡的父亲。他身处王国重要贵族和宫廷政治之中，需要维护家族声望、继承与婚约利益。安洁莉卡与里昂、奥莉薇娅的关系改变后，文斯必须重新评估既定安排。作为父亲和家主，他的决定影响女儿的处境，也会波及王国的政治格局。",
+          "nicknames": [
+            "文斯·拉法·雷德格雷夫",
+            "Vince Rapha Redgrave",
+            "ヴィンス・ラファ・レッドグレイブ",
+            "文斯",
+            "雷德格雷夫家主"
+          ],
+          "traits": [
+            "雷德格雷夫家族现任家主",
+            "吉尔伯特与安洁莉卡的父亲",
+            "王国重要贵族",
+            "熟悉宫廷政治",
+            "关注家族继承与声望",
+            "重视贵族责任",
+            "影响安洁莉卡的婚约安排",
+            "在王国危机中权衡立场"
+          ],
+          "voice_actors": [
+            {
+              "name": "岸野幸正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100845-LOsfDDyjfnfj.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Vince Rapha Redgrave",
+            "name_native": "ヴィンス・ラファ・レッドグレイブ",
+            "name_alternative": [],
+            "description": "Current head of the Redgrave Household and father of Gilbert Rapha Redgrave and [Angelica Rapha Redgrave](https://anilist.co/character/152676/Angelica-Rafua-Redgrave)."
+          }
+        },
+        {
+          "id": 278300,
+          "name": "凯尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278300-PD5HaX9gOG4q.jpg",
+          "description": "凯尔是一名半精灵，也是玛丽的仆人。按照乙女游戏原本的安排，他本应侍奉奥莉薇娅，但里昂和玛丽的介入改变了角色关系，使他进入玛丽身边。凯尔熟悉贵族家庭的生活方式，也需要在新的主人和旧有剧情之间适应变化。他的身份体现游戏世界中人类与其他族群的差异，以及剧情被改写后原有角色安排如何产生变化。",
+          "nicknames": [
+            "凯尔",
+            "Kyle",
+            "カイル"
+          ],
+          "traits": [
+            "半精灵",
+            "玛丽的仆人",
+            "按原游戏设定本应服侍奥莉薇娅",
+            "熟悉贵族家庭生活",
+            "与玛丽共同活动",
+            "拥有非人类族群身份",
+            "适应学院与家族环境",
+            "角色安排受到剧情改写影响"
+          ],
+          "voice_actors": [
+            {
+              "name": "竹内順子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95015-QwI9K4FRe4Cq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kyle",
+            "name_native": "カイル",
+            "name_alternative": [],
+            "description": "A Half-Elf servant of [Marie](https://anilist.co/character/152675/Marie--Fou-Lafuan). He was supposed to be a servant of [Olivia](https://anilist.co/character/152673/Olivia) according to original game."
+          }
+        },
+        {
+          "id": 278301,
+          "name": "赫尔特鲁德·塞拉·法诺斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278301-6WyXS4kWG26k.jpg",
+          "description": "赫尔特鲁德·塞拉·法诺斯是法诺斯公国的公主，身处与霍尔法特王国对立的政治环境。她熟悉宫廷和军事事务，必须代表自己的国家立场处理冲突。与里昂一行的交锋使她面对个人判断与公国责任之间的矛盾。赫尔特鲁德并非单纯的反派标签，她的行动也受到国家利益和王族身份的限制。",
+          "nicknames": [
+            "赫尔特鲁德·塞拉·法诺斯",
+            "Hertrude Sera Fanoss",
+            "ヘルトルーデ・セラ・ファンオース",
+            "Princess Hertrude",
+            "赫尔特鲁德",
+            "法诺斯公主"
+          ],
+          "traits": [
+            "法诺斯公国公主",
+            "身处敌对国家的王族",
+            "熟悉宫廷与军事事务",
+            "代表法诺斯公国立场",
+            "参与霍尔法特王国冲突",
+            "具有贵族威严",
+            "需要承担国家责任",
+            "与里昂的势力产生交锋"
+          ],
+          "voice_actors": [
+            {
+              "name": "雨宮天",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-xjN5V1jMc443.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hertrude Sera Fanoss",
+            "name_native": "ヘルトルーデ・セラ・ファンオース",
+            "name_alternative": [
+              "Princess Hertrude"
+            ],
+            "description": "One of the princesses of the Principality of Fanoss"
+          }
+        },
+        {
+          "id": 278302,
+          "name": "克拉丽丝·菲亚·阿特利",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278302-43Vs0WPIyEZh.jpg",
+          "description": "克拉丽丝·菲亚·阿特利出身贵族家族，曾与吉尔克订婚。吉尔克失去继承资格后通过书信结束婚约，克拉丽丝多次试图与他当面谈清楚，却一直遭到回避，因而逐渐憎恨对方。她的经历把贵族婚约、个人尊严和学院人际关系联系起来。里昂改变剧情后，克拉丽丝也必须重新判断自己应当如何面对过去的关系。",
+          "nicknames": [
+            "克拉丽丝·菲亚·阿特利",
+            "Clarice Fia Atlee",
+            "クラリス・ フィア・アトリー",
+            "克拉丽丝",
+            "阿特利千金"
+          ],
+          "traits": [
+            "霍尔法特学院学生",
+            "出身菲亚·阿特利家族",
+            "曾与吉尔克订婚",
+            "婚约解除后多次联系对方",
+            "因遭冷落而憎恨吉尔克",
+            "重视贵族名誉",
+            "参与学院社交与竞争",
+            "面对感情变化重新选择立场"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴代紗弓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126963-GnhNcLWFeKmy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Clarice Fia Atlee",
+            "name_native": "クラリス・ フィア・アトリー",
+            "name_alternative": [],
+            "description": "Height:168cm\nClarice was engaged to [Jilk](https://anilist.co/character/265075/Jilk-Fia-Marmoria), however, after Jilk was disinherited, he ended their engagement via letter. She tried to contact him multiple times, but Jilk refused to speak to her in person. She eventually grew to hate Jilk. She tried to sabotage Jilk during an air bike race, but [Leon](https://anilist.co/character/152674/Leon-Fou-Baltfault) was able to win the race and convinces Jilk to meet up with her so she could get proper closure from him."
+          }
+        },
+        {
+          "id": 279430,
+          "name": "万德尔·希姆·赞登",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279430-bWvoD0mX7ZwT.jpg",
+          "description": "万德尔·希姆·赞登是法诺斯公国最强的战士，因实力而得到“黑骑士”的称号。他代表公国的军事力量，参与国家之间的冲突并执行战斗任务。万德尔的强大使他成为里昂等人无法忽视的对手，但他的行动也受到国家立场和军人职责影响。随着王国战争升级，黑骑士必须在服从命令与判断局势之间作出选择。",
+          "nicknames": [
+            "万德尔·希姆·赞登",
+            "Vandel Him Zenden",
+            "バンデル・ヒム・ゼンデン",
+            "The Black Knight",
+            "万德尔",
+            "黑骑士"
+          ],
+          "traits": [
+            "法诺斯公国最强战士",
+            "被称为黑骑士",
+            "拥有出众战斗能力",
+            "代表公国军事实力",
+            "参与国家冲突",
+            "以武力执行职责",
+            "面对里昂等人的行动",
+            "身处战争与政治交织的局势"
+          ],
+          "voice_actors": [
+            {
+              "name": "宇垣秀成",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103022-eePmaoJGrs94.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Vandel Him Zenden",
+            "name_native": "バンデル・ヒム・ゼンデン",
+            "name_alternative": [
+              "The Black Knight"
+            ],
+            "description": "The strongest warrior in The Principality, earning himself the title of The Black Knight."
+          }
+        },
+        {
+          "id": 409980,
+          "name": "罗兰·霍尔法特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b409980-aGk3IuQ5DwLp.jpg",
+          "description": "罗兰·霍尔法特是霍尔法特王国的国王，也是尤利乌斯王子的父亲和米莲王后的丈夫。他需要处理王国政务、贵族派系和继承问题，并维持王室权威。里昂的行动让原有乙女游戏剧情发生变化，罗兰必须面对学院与王都势力的新格局。作为国王，他的决定牵动王族成员和贵族家族，也影响整个王国的稳定。",
+          "nicknames": [
+            "罗兰·霍尔法特",
+            "Roland Holfort",
+            "ローランド・ホルファート",
+            "罗兰国王",
+            "罗兰"
+          ],
+          "traits": [
+            "霍尔法特王国国王",
+            "尤利乌斯的父亲",
+            "米莲王后的丈夫",
+            "负责王国政务",
+            "身处贵族派系斗争之中",
+            "重视王室权威",
+            "影响王位与婚约安排",
+            "面对里昂改变剧情后的新局势"
+          ],
+          "voice_actors": [
+            {
+              "name": "井上和彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95021-9qAoAn6GNZ3S.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Roland Holfort",
+            "name_native": "ローランド・ホルファート",
+            "name_alternative": [],
+            "description": "King of Holfort Kingdom."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 18119,
+      "anime_title": "Servant×Service（公务员日常）",
+      "anime_origin": "JP",
+      "source": {
+        "id": 18119,
+        "titles": [
+          "Servant x Service",
+          "サーバント×サービス"
+        ],
+        "year": 2013,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/18119"
+      },
+      "characters": [
+        {
+          "id": 81675,
+          "name": "长谷部丰",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81675-FPxYy4do3kU4.png",
+          "description": "长谷部丰是区役所的第三代公务员，在健康福利部门负责护理认证窗口。他自称几乎什么都会，擅长与人交际，经常向漂亮的来访者索取邮箱，还会拿这件事向上司一宫炫耀。长谷部工作时有些散漫，却并非完全不负责任；面对同事和市民的需求，他会在玩笑与认真之间切换，构成办公室日常喜剧的重要部分。",
+          "nicknames": [
+            "长谷部丰",
+            "Yutaka Hasebe",
+            "長谷部豊",
+            "丰",
+            "长谷部"
+          ],
+          "traits": [
+            "区役所第三代公务员",
+            "在福利部门工作",
+            "负责护理认证第一窗口",
+            "自称擅长各种事情",
+            "擅长向漂亮女性索取邮箱",
+            "性格散漫",
+            "常被上司一宫提醒",
+            "与同事们一起处理市民咨询"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴木達央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95735-xssSe5BRSkaq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yutaka Hasebe",
+            "name_native": "長谷部豊",
+            "name_alternative": [],
+            "description": "A 3rd generation city employee, who works at the city welfare department, he is assigned to the 1st section that issues nursing certifications. He claims to be good at almost everything and he is quite a charmer that he can get email addresses from pretty clients, even boasting about it to his superior, Taishi. Though, a slacker he wouldn't hesitate to go out of his way to help out Yamagami and Saya when they're having trouble dealing with difficult clients. He always teases Yamagami that he would find himself earning her ire."
+          }
+        },
+        {
+          "id": 81679,
+          "name": "千早惠",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81679-0UOZqiSTMudH.png",
+          "description": "千早惠在健康福利部门担任临时职员，工作班次比正式员工短。她对同事看起来有些冷淡，私下却是魔法少女作品的忠实粉丝，常参加角色扮演活动，并扮演作品中的Gerbera Pink。惠与上司一宫大志交往已久，办公室里的克制态度和兴趣生活中的投入形成反差。她既处理公务，也努力保护自己的私人爱好。",
+          "nicknames": [
+            "千早惠",
+            "Megumi Chihaya",
+            "千早恵",
+            "惠",
+            "千早"
+          ],
+          "traits": [
+            "健康福利部门临时职员",
+            "工作时间较短",
+            "对同事表现冷淡",
+            "热爱魔法少女作品",
+            "会参加角色扮演活动",
+            "扮演作品角色Gerbera Pink",
+            "与一宫大志交往",
+            "在办公室与兴趣生活间切换"
+          ],
+          "voice_actors": [
+            {
+              "name": "豊崎愛生",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95599-XDGiluZB7IXL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Megumi Chihaya",
+            "name_native": "千早恵",
+            "name_alternative": [],
+            "description": "A social service employee who is actually working as a temporary employee with a shorter shift than others. She is rather aloof towards her co-workers, and is revealed to be an avid fan of the magical girl series Magical Flowers. When she is not at work, she attends cosplay events dressed as Gerbera Pink, one of the characters of the series. She openly desires to see Lucy cosplay as one of the other characters from \"Magical Flowers\" due to her dark hair and large bust. She hates Hasebe getting too close to Lucy in case he convinces her to cosplay before she does.\n\n~!She has been dating Ichimiya for over a year, and has tried to make it clear to him that she doesn't care if he prioritizes Tohko on Christmas because of comiket.!~"
+          }
+        },
+        {
+          "id": 81681,
+          "name": "一宫大志",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81681-BymBrYHFCDsg.png",
+          "description": "一宫大志是健康福利办公室的主管，负责带领露西和其他新入职员工。他待人温和亲切，却很容易被同事和妹妹使唤。大志与千早惠交往已超过一年，但常担心自己会在圣诞节前被分手，处理感情时缺乏主动。他需要在照顾新人、应付办公室工作和面对个人关系之间寻找平衡，是职场群像中的温和管理者。",
+          "nicknames": [
+            "一宫大志",
+            "Taishi Ichimiya",
+            "一宮大志",
+            "大志",
+            "一宫"
+          ],
+          "traits": [
+            "健康福利办公室主管",
+            "负责管理露西等新人",
+            "待人温和亲切",
+            "容易被他人使唤",
+            "妹妹是一宫塔子",
+            "与千早惠交往",
+            "担心圣诞节前被分手",
+            "在工作与恋爱关系中缺乏主动"
+          ],
+          "voice_actors": [
+            {
+              "name": "櫻井孝宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Taishi Ichimiya",
+            "name_native": "一宮大志",
+            "name_alternative": [],
+            "description": "Taishi is a supervisor in the health and welfare office and the one in charge of Lucy and her friends. Although kind and approachable, Taishi is prone to be bossed around, particularly by his sister.\n\n~!He has been dating Chihaya for over a year, but worries about getting dumped before Christmas, since Toko's birthday is on the same day and he always prioritizes Toko, though Chihaya, due to her own Christmas cosplay commitments, doesn't seem to care.!~"
+          }
+        },
+        {
+          "id": 188751,
+          "name": "百井兼藏",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188751-aI0WixV90iLV.jpg",
+          "description": "百井兼藏是健康福利部门的科长，性格极度怕生，初登场时甚至以会说话的兔子玩偶形象出现。他是长谷部薰的旧友，也是一位女儿百井花音的父亲。百井有时会被下属的气氛带动，遭到踩踏或拔掉玩偶毛发等捉弄；尽管如此，他仍要承担科长职责，维持办公室事务运作。",
+          "nicknames": [
+            "百井兼藏",
+            "Kenzou Momoi",
+            "百井兼蔵",
+            "Section Manager",
+            "兼藏",
+            "百井主任"
+          ],
+          "traits": [
+            "健康福利部门科长",
+            "性格极度怕生",
+            "初登场时像会说话的兔子玩偶",
+            "是长谷部薰的旧友",
+            "常被下属捉弄",
+            "女儿是百井花音",
+            "需要管理办公室成员",
+            "在害羞与主管职责间反差明显"
+          ],
+          "voice_actors": [
+            {
+              "name": "小山力也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kenzou Momoi",
+            "name_native": "百井兼蔵",
+            "name_alternative": [
+              "Section Manager"
+            ],
+            "description": "The Section Chief of the Health and Welfare Department. He is first introduced as a talking stuffed rabbit in episode 4 due to his extreme shyness. He sometimes falls prey, though, to the mood of his subordinates--and is either stomped on or has the fur plucked off of him like petals on a flower as a result. He is also an old friend of Hasebe's father."
+          }
+        },
+        {
+          "id": 188752,
+          "name": "百井花音",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188752-SNxFot01YAVe.jpg",
+          "description": "百井花音是健康福利部门科长百井兼藏的女儿，周围人常说她与父亲长得相似。她和一宫塔子是朋友，也因此与区役所同事的家人关系交织在一起。花音以年轻学生的身份参与同伴间的日常生活，不必像父亲那样承担公务员职责，却能通过家庭和友情接触办公室群像。她的出现也让百井兼藏严肃工作身份之外的家庭生活逐渐显露。",
+          "nicknames": [
+            "百井花音",
+            "Kanon Momoi",
+            "花音"
+          ],
+          "traits": [
+            "百井兼藏的女儿",
+            "外貌被说与父亲相似",
+            "和一宫塔子是朋友",
+            "熟悉区役所办公室成员",
+            "年轻学生",
+            "与父亲关系亲近",
+            "参与同伴间的校园生活",
+            "在家庭与职场人物间往来"
+          ],
+          "voice_actors": [
+            {
+              "name": "日高里菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100250-L8WsoaLevibT.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kanon Momoi",
+            "name_native": "百井花音",
+            "name_alternative": [],
+            "description": "The daughter of Kenzou Momoi. People say that she resembles him. She is also friends with Touko Ichimiya."
+          }
+        },
+        {
+          "id": 188754,
+          "name": "田中婆婆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188754-6xkx8yPqOlTV.jpg",
+          "description": "田中婆婆是辖区内的老妇人，经常到区役所探望三好，并喜欢谈起自己的儿媳。她有一位孙子，还是长谷部的儿时朋友和竞争者，因此她一度想撮合孙子与三好。后来发现三好讨厌孙子，她便不再提这件事。田中婆婆熟悉社区居民之间的关系，常把个人生活和办公室窗口联系起来，成为公务员日常中反复出现的社区来访者。",
+          "nicknames": [
+            "田中婆婆",
+            "Tanaka-san",
+            "田中さん",
+            "田中女士"
+          ],
+          "traits": [
+            "居住在辖区内的老妇人",
+            "经常到区役所探望三好",
+            "喜欢谈论儿媳",
+            "有一位孙子",
+            "孙子是长谷部的儿时朋友和竞争者",
+            "曾想撮合孙子与三好",
+            "发现三好讨厌孙子后不再提亲事",
+            "熟悉社区居民生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "高橋美佳子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95132-TpIFKL0tJg84.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tanaka-san",
+            "name_native": "田中さん",
+            "name_alternative": [],
+            "description": "An old lady living in the ward who frequents the office to visit Miyoshi. She always talks about her daughter-in-law and has a grandson who happens to be Yutaka's childhood friend and rival. Although she tried to get Miyoshi to marry her grandson, she stops talking about him when she realizes that Miyoshi hates him."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 160389,
+      "anime_title": "结婚指环物语",
+      "anime_origin": "JP",
+      "source": {
+        "id": 160389,
+        "titles": [
+          "Kekkon Yubiwa Monogatari",
+          "Tales of Wedding Rings",
+          "結婚指輪物語",
+          "ตำนานผู้กล้าแห่งแหวน",
+          "婚戒物語"
+        ],
+        "year": 2024,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/160389"
+      },
+      "characters": [
+        {
+          "id": 202157,
+          "name": "克里斯托尔·诺卡纳蒂卡",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202157-QXZO5vEbWcLk.jpg",
+          "description": "克里斯托尔·诺卡纳蒂卡常被称为“姬”，是诺卡纳蒂卡王族的王女，也是佐藤的青梅竹马。她曾在地球生活，后来为了保护光之戒返回异世界。佐藤追随她进入新世界并成为戒王候选人，两人的关系随之与拯救世界的任务相连。克里斯托尔需要在王族责任、妹妹莫里昂和个人感情之间作出选择。",
+          "nicknames": [
+            "克里斯托尔·诺卡纳蒂卡",
+            "Krystal Nokanatika",
+            "クリストル・ノバティ・ノカナティカ",
+            "Himeno Nonaka (野中姫乃)",
+            "Hime (ヒメ)",
+            "Hime",
+            "姬",
+            "克里斯托尔"
+          ],
+          "traits": [
+            "来自异世界的光之王女",
+            "与佐藤是青梅竹马",
+            "在地球生活过一段时间",
+            "为保护光之戒前往异世界",
+            "是诺卡纳蒂卡王族成员",
+            "拥有光之戒相关力量",
+            "妹妹是莫里昂",
+            "与佐藤的婚约关系牵动世界命运"
+          ],
+          "voice_actors": [
+            {
+              "name": "鬼頭明里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-Ls7ORfBejJEP.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Krystal Nokanatika",
+            "name_native": "クリストル・ノバティ・ノカナティカ",
+            "name_alternative": [
+              "Himeno Nonaka (野中姫乃)",
+              "Hime (ヒメ)"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 202158,
+          "name": "佐藤春人",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202158-rCLSTfomAOlS.jpg",
+          "description": "佐藤春人是故事男主角，也是姬的青梅竹马。姬返回异世界后，他追随她来到那里，并被卷入戒王与深渊的冲突。佐藤需要和不同国家的指环公主缔结婚约，以获得戒指力量并保护世界。起初他只是想把姬带回熟悉的生活，后来逐渐承担起戒王职责，在感情、责任和战斗之间寻找平衡。",
+          "nicknames": [
+            "佐藤春人",
+            "Haruto Satou",
+            "サトウ",
+            "Ring King",
+            "佐藤",
+            "春人"
+          ],
+          "traits": [
+            "故事男主角",
+            "与姬是青梅竹马",
+            "高中生",
+            "追随姬前往异世界",
+            "成为戒王",
+            "需要与指环公主缔结婚约",
+            "获得不同属性的戒指力量",
+            "为保护异世界对抗深渊"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐藤元",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141083-Oc5rYAP6e3D7.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Haruto Satou",
+            "name_native": "佐藤春人",
+            "name_alternative": [
+              "サトウ",
+              "Ring King"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 202153,
+          "name": "琥珀·伊多诺坎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202153-ANAiQD6UuYsD.jpg",
+          "description": "琥珀·伊多诺坎是土之国的公主，也是土之戒的持有者。她肩负保护国家与王族的责任，面对帝国势力威胁时需要寻求外部盟友。佐藤来到异世界后，琥珀与他建立指环婚约并加入共同对抗深渊的行动。她的身份将土之国的利益带入戒王队伍，也让佐藤必须理解每位指环公主背后的国家责任。",
+          "nicknames": [
+            "琥珀·伊多诺坎",
+            "Amber Idonokan",
+            "アンベル・イダノカン",
+            "琥珀",
+            "土之戒公主"
+          ],
+          "traits": [
+            "土之国公主",
+            "土之戒持有者",
+            "承担王族职责",
+            "守护自己的国家",
+            "与佐藤建立指环婚约",
+            "参与对抗帝国势力",
+            "具备土属性魔法",
+            "成为戒王队伍的成员"
+          ],
+          "voice_actors": [
+            {
+              "name": "小松未可子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105071-Hcj0X2gcliPq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Amber Idonokan",
+            "name_native": "アンベル・イダノカン",
+            "name_alternative": [],
+            "description": "The Princess of the Earth Ring."
+          }
+        },
+        {
+          "id": 202154,
+          "name": "涅芙莉蒂丝·罗姆卡",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202154-gTwqtlgUow81.jpg",
+          "description": "涅芙莉蒂丝·罗姆卡是风之国的精灵公主，也是风之戒的持有者。她长期把自己关在居所中，性格内向，不善于与陌生人交流，却拥有强大的风属性魔法。佐藤和同伴接触后，她逐渐鼓起勇气走出熟悉环境，并加入寻找指环公主和对抗深渊的旅程。她的成长让王族身份之外的个人愿望逐渐显现。",
+          "nicknames": [
+            "涅芙莉蒂丝·罗姆卡",
+            "Nephrites Lomka",
+            "ネフリティス・ロムカ",
+            "涅芙莉蒂丝",
+            "妮芙莉丝"
+          ],
+          "traits": [
+            "风之国精灵公主",
+            "风之戒持有者",
+            "长期不愿离开居所",
+            "性格内向",
+            "拥有风属性魔法",
+            "熟悉精灵族生活",
+            "与佐藤建立指环婚约",
+            "逐渐参与队伍的旅行与战斗"
+          ],
+          "voice_actors": [
+            {
+              "name": "島袋美由利",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126579-aYXUMZi7ozKD.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nephrites Lomka",
+            "name_native": "ネフリティス・ロムカ",
+            "name_alternative": [],
+            "description": "The shut-in elf princess bearer of the Rings of Wind."
+          }
+        },
+        {
+          "id": 202155,
+          "name": "萨菲尔·玛萨",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202155-XgHhUGSRQoOA.jpg",
+          "description": "萨菲尔·玛萨是水之国的双胞胎公主之一。为了帮助国家摆脱帝国势力影响，她选择成为指环公主，将水之戒交给佐藤，并加入对抗深渊的行动。萨菲尔魔力强大，性格却有些懒散；她也支持妹妹萨菲拉与马尔塞的感情。与佐藤建立婚约后，她成为队伍中兼具王族责任和个人愿望的重要成员。",
+          "nicknames": [
+            "萨菲尔·玛萨",
+            "Saphir Maasa",
+            "サフィール・マーサ",
+            "萨菲尔",
+            "水之戒公主"
+          ],
+          "traits": [
+            "水之国双胞胎公主之一",
+            "水之戒持有者",
+            "魔力强大",
+            "性格懒散",
+            "为拯救国家与佐藤合作",
+            "把水之戒交给佐藤",
+            "支持妹妹与马尔塞交往",
+            "成为佐藤的重要伙伴"
+          ],
+          "voice_actors": [
+            {
+              "name": "加隈亜衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113511-F58Tk4OFKs1w.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Saphir Maasa",
+            "name_native": "サフィール・マーサ",
+            "name_alternative": [],
+            "description": "Saphir is one of the twin princesses of the water country of Maasa. She takes on the roll of becoming Ring Princess and gives Satou the Ring of Water to help save her country from Empire influence and so her sister Saphira can be with Marse. She becomes his 4th wife.\n\nShe has strong magic powers but has a lazy personality."
+          }
+        },
+        {
+          "id": 202156,
+          "name": "格拉纳特·尼达基塔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202156-47ytoieis5VL.jpg",
+          "description": "格拉纳特·尼达基塔是尼达基塔的现任公主，也是猫人族中最强的战士和火之戒持有者。她战斗能力突出，性格直率强势，习惯用行动表达态度。格拉纳特需要守护猫人族的领地，也在佐藤寻找指环公主时加入队伍。她的火之戒力量为戒王阵营提供强大战力，个人立场则体现王族责任和战士身份的结合。",
+          "nicknames": [
+            "格拉纳特·尼达基塔",
+            "Granart Needakitta",
+            "グラナート・ニーダキッタ",
+            "格拉纳特",
+            "火之戒公主"
+          ],
+          "traits": [
+            "猫人族最强者",
+            "尼达基塔的现任公主",
+            "火之戒持有者",
+            "战斗能力突出",
+            "承担猫人族领地责任",
+            "性格直率强势",
+            "与佐藤建立指环婚约",
+            "参与保护世界的战斗"
+          ],
+          "voice_actors": [
+            {
+              "name": "上田瞳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125306-Kq7WCcO2EwbG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Granart Needakitta",
+            "name_native": "グラナート・ニーダキッタ",
+            "name_alternative": [],
+            "description": "The current princess and the strongest of the cat people bearer of the Rings of Fire."
+          }
+        },
+        {
+          "id": 324330,
+          "name": "阿拉巴斯特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b324330-K6d1RAvGQom4.jpg",
+          "description": "阿拉巴斯特是被佐藤和姬称作“爷爷”的大贤者，精通魔法、戒王传说和深渊知识。他曾建立通往地球的传送门，并带姬前往那里，以保护她和光之戒。阿拉巴斯特为佐藤一行提供有关世界与戒指的指导，也拥有与苏玛拉姬相连的旧日感情经历。他的知识帮助队伍理解敌人和任务背后的历史。",
+          "nicknames": [
+            "阿拉巴斯特",
+            "Alabaster",
+            "アラバスタ",
+            "Gramps",
+            "Alabaster‚ The Great Sage",
+            "大贤者"
+          ],
+          "traits": [
+            "被佐藤和姬称为爷爷",
+            "称号是大贤者",
+            "精通魔法与世界知识",
+            "曾建立通往地球的传送门",
+            "帮助姬守护光之戒",
+            "了解戒王与深渊",
+            "与苏玛拉姬有旧日恋情",
+            "为佐藤队伍提供重要指导"
+          ],
+          "voice_actors": [
+            {
+              "name": "千葉繁",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Alabaster",
+            "name_native": "アラバスタ",
+            "name_alternative": [
+              "Gramps",
+              "Alabaster‚ The Great Sage"
+            ],
+            "description": "Alabaster, the Great Sage. Called Gramps by Satou and Hime.\nWas able to create a portal to Earth, taking Hime with him to protect her and the Ring of Light.\n\nIs very knowledgeable about the Ring King, the Abyss, magic, and the world.\n\n\n\nWas involved with Sumaragdi at some point in his youth and the two were in love. He left to spare her the pain of seeing him grow old, since she will live much longer, being an elf."
+          }
+        },
+        {
+          "id": 331021,
+          "name": "莫里昂·诺卡纳蒂卡",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331021-9CesPTMTTtye.png",
+          "description": "莫里昂·诺卡纳蒂卡是姬的妹妹，也是诺卡纳蒂卡王族成员。她年纪比姬小，关心姐姐的安全和王国处境；当姬离开故乡、佐藤来到异世界后，莫里昂也被卷入光之戒与深渊危机带来的王族事务。她的存在让姬在戒王任务之外仍需考虑家庭和继承责任，也为王国未来带来新的变化。",
+          "nicknames": [
+            "莫里昂·诺卡纳蒂卡",
+            "Morion Nokanatika",
+            "モーリオン・ノバティ・ノカナティカ",
+            "莫里昂",
+            "莫里昂公主"
+          ],
+          "traits": [
+            "姬的妹妹",
+            "诺卡纳蒂卡王族成员",
+            "年纪比姬小",
+            "关心姐姐的处境",
+            "与王国继承事务相关",
+            "在王族生活中成长",
+            "与佐藤一行产生联系",
+            "身处光之戒与异世界危机之中"
+          ],
+          "voice_actors": [
+            {
+              "name": "富田美憂",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119518-vZN7TPy12iuu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Morion Nokanatika",
+            "name_native": "モーリオン・ノバティ・ノカナティカ",
+            "name_alternative": [],
+            "description": "Hime's younger sister."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 139821,
+      "anime_title": "糖果苹果童话",
+      "anime_origin": "JP",
+      "source": {
+        "id": 139821,
+        "titles": [
+          "Sugar Apple Fairy Tale",
+          "シュガーアップル・フェアリーテイル",
+          "Сказка о сахарном яблоке"
+        ],
+        "year": 2023,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/139821"
+      },
+      "characters": [
+        {
+          "id": 81737,
+          "name": "安·哈尔福德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81737-m9mmTPMNURfR.png",
+          "description": "安·哈尔福德是一名糖果工匠，身材高挑纤细，留着麦穗色头发。她梦想像母亲一样成为银糖大师，并通过制作糖果雕塑证明自己的技艺。旅途中，安买下战士妖精夏尔，也救助了小妖精米斯里尔；她努力不把他们只当作工具，而是希望建立平等关系。安的目标和选择推动了她在工艺、自由与信任方面的成长。",
+          "nicknames": [
+            "安·哈尔福德",
+            "Ann  Halford",
+            "アン・ハルフォード",
+            "Scarecrow",
+            "Ann Halford",
+            "安",
+            "安妮"
+          ],
+          "traits": [
+            "糖果工匠",
+            "身材高挑纤细",
+            "麦穗色头发",
+            "梦想成为银糖大师",
+            "母亲曾是银糖工匠",
+            "努力与夏尔和米斯里尔建立平等关系",
+            "热爱制作糖果雕塑",
+            "坚持以工艺证明自己的能力"
+          ],
+          "voice_actors": [
+            {
+              "name": "貫井柚佳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126865-dEIO6FLXLcFH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ann  Halford",
+            "name_native": "アン・ハルフォード",
+            "name_alternative": [
+              "Scarecrow"
+            ],
+            "description": "Candy Craftswoman. She’s tall and skinny and her hair is of the color of the wheat. Her dream is to become a Silver Sugar Master like her Mother. She’s doing her best to construct a relationship with [Shall](https://anilist.co/character/81739/Shall-Fen-Shall) and [Mythrill](https://anilist.co/character/81741/Mythrill-Rid-Pod) as equals."
+          }
+        },
+        {
+          "id": 81739,
+          "name": "夏尔·芬·夏尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81739-aegrrWMgBdib.png",
+          "description": "夏尔·芬·夏尔是一名战斗能力出众的战士妖精，因诞生于黑曜石而拥有深暗外表。他最初被安买下，成为她旅行中的护卫，平时说话尖锐，不习惯表达温柔情绪。夏尔逐渐对安产生感情，也开始重新思考妖精被人类买卖和支配的处境。他与安在旅途中共同面对危险，彼此关系从主仆逐渐转向互相信任。",
+          "nicknames": [
+            "夏尔·芬·夏尔",
+            "Shall Fen Shall",
+            "シャル・フェン・シャル",
+            "夏尔"
+          ],
+          "traits": [
+            "黑曜石诞生的战士妖精",
+            "战斗能力出众",
+            "被安买下",
+            "外表肤色深暗",
+            "说话尖锐直接",
+            "对安抱有感情",
+            "需要重新夺回自由",
+            "与安共同旅行保护她"
+          ],
+          "voice_actors": [
+            {
+              "name": "水中雅章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126794-tZzYeLEQbsrj.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shall Fen Shall",
+            "name_native": "シャル・フェン・シャル",
+            "name_alternative": [],
+            "description": "Highly Skilled Warrior Fairy bought by [Ann](https://anilist.co/character/81737/Halford-Ann). Because he was born from Obsidian he’s always very dark. He also has a sharp tongue.\n\n~!Although this is obvious, he has feelings for Ann. But he doesn't realise it himself.!~\n\n~!In volume 2 of the light novel, more of his past with Liz is revealed. He loved her dearly, as long as she was happy he wouldn't minded if they had to separate. This was a contrast to Ann, where Shall was unwilling to let her go despite knowing she would have a stable and safe life if she lived in [Hugh](https://anilist.co/character/284535/Mercury-Hugh)'s castle. He didn't like the idea of giving away Ann to Hugh. Liz had also said that her love for Shall was not the same love he felt for her. So contrary to what Ann thought, Shall likely did not have romantic feelings for Liz.\n\nShall was asked to leave and never to come back by Ann. Despite this, he came and looked for her anyway when he knew that she could be in danger.!~"
+          }
+        },
+        {
+          "id": 81741,
+          "name": "米斯里尔·里德·波德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81741-gTzcLf9XXHEs.png",
+          "description": "米斯里尔·里德·波德是一名体型娇小的劳动妖精，由水滴诞生。安曾从妖精猎人手中救下他，他之后便跟随安旅行，希望报答对方的帮助。米斯里尔外表可爱，开口说话时却常显得个性鲜明；他能在糖果工艺和旅途事务中提供协助。与夏尔不同，他和安的关系建立在救助与回报之上，也逐渐发展为伙伴间的信任。",
+          "nicknames": [
+            "米斯里尔·里德·波德",
+            "Mythrill Rid Pod",
+            "ミスリル・リッド・ポッド",
+            "米斯里尔",
+            "米斯里尔小妖精"
+          ],
+          "traits": [
+            "体型娇小的劳动妖精",
+            "由水滴诞生",
+            "曾被妖精猎人追捕",
+            "被安救下",
+            "跟随安以报答救命之恩",
+            "外表可爱",
+            "说话时个性鲜明",
+            "在糖果工艺中提供协助"
+          ],
+          "voice_actors": [
+            {
+              "name": "高橋李依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mythrill Rid Pod",
+            "name_native": "ミスリル・リッド・ポッド",
+            "name_alternative": [],
+            "description": "Tiny labor fairy that was saved by Ann once from a Fairy Hunter. He’s now with her to return the favor. He’s cute when he’s not talking. He was born from drops of water."
+          }
+        },
+        {
+          "id": 81743,
+          "name": "乔纳斯·安德斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81743-Js9krGIjRdgC.jpg",
+          "description": "乔纳斯·安德斯是富有糖果工匠的儿子，曾让安暂住家中，也声称喜欢她。他利用安对自己的信任，诱使她制作糖果雕塑，企图偷走作品和马车，冒名参加年度比赛。乔纳斯的欺骗让安遭遇事业和人际关系上的挫折，也使她意识到必须保护自己的劳动成果。他与安的冲突推动了她在工艺竞争和信任判断上的成长。",
+          "nicknames": [
+            "乔纳斯·安德斯",
+            "Jonas Anders",
+            "ジョナス・アンダース",
+            "乔纳斯",
+            "安德斯"
+          ],
+          "traits": [
+            "富有糖果工匠的儿子",
+            "曾让安暂住家中",
+            "喜欢安",
+            "擅长以甜言蜜语接近他人",
+            "曾欺骗安参与糖果雕塑比赛",
+            "企图盗走作品与马车",
+            "与安存在竞争关系",
+            "推动安认识人际信任的重要性"
+          ],
+          "voice_actors": [
+            {
+              "name": "川島零士",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n180532-mOjlNlbvm1N4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jonas Anders",
+            "name_native": "ジョナス・アンダース",
+            "name_alternative": [],
+            "description": "The son of a wealthy candy craftsman. Ann freeloaded from him for a while. He likes Ann.\n\n~!Although he expressed his \"love\" for her, it was all a lie. He tricked Ann into making a sugar sculpture, where he would steal it and her carriage and submit that sculpture as his own to win the annual Sugar Sculpture Festival. However in the end he failed as Ann made it in time to the festival. As the judges could not determine who was the real maker of the sculpture Jonas stole from Ann, neither Ann or Jonas won.!~"
+          }
+        },
+        {
+          "id": 295956,
+          "name": "艾玛·哈尔福德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b295956-MgnDAtE5drlv.png",
+          "description": "艾玛·哈尔福德是安的母亲，也是一位银糖工匠。安从小受到母亲的作品和技艺影响，因此立志成为银糖大师，延续她的工艺道路。艾玛虽然没有陪伴安完成旅程，却通过留下的作品与记忆持续影响女儿的选择。安在比赛和旅行中不断确认自己为何制作糖果雕塑，也是在回应母亲留下的技艺传统和人生愿望。",
+          "nicknames": [
+            "艾玛·哈尔福德",
+            "Emma Halford",
+            "エマ・ハルフォード",
+            "艾玛",
+            "安的母亲"
+          ],
+          "traits": [
+            "安的母亲",
+            "已故银糖工匠",
+            "影响安成为糖果工匠的梦想",
+            "曾以作品激励女儿",
+            "与银糖工艺传统有关",
+            "留下技艺传承",
+            "安长期思念她",
+            "构成安追求银糖大师称号的动力"
+          ],
+          "voice_actors": [
+            {
+              "name": "久川綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95080-7dOAcrnsSghI.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Emma Halford",
+            "name_native": "エマ・ハルフォード",
+            "name_alternative": [],
+            "description": "[Ann](https://anilist.co/character/81737)'s mother"
+          }
+        },
+        {
+          "id": 297910,
+          "name": "埃德蒙二世",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297910-XWj8SNz17QcS.jpg",
+          "description": "埃德蒙二世是高地王国的国王，掌握王室权力并负责维护国家秩序。安追求银糖大师称号的旅程与王国的糖果工艺传统相连，因此王室事务也会影响工匠的工作与竞争。埃德蒙需要在宫廷利益、王国稳定和工艺阶层之间作出判断。他的身份让安的个人梦想逐渐进入更大的社会与王室环境。",
+          "nicknames": [
+            "埃德蒙二世",
+            "Edmond II",
+            "エドモンド二世"
+          ],
+          "traits": [
+            "高地王国国王",
+            "统治妖精与人类共同生活的国家",
+            "掌握王室权力",
+            "关注糖果工艺与宫廷事务",
+            "与银糖工匠群体有关",
+            "需要维护王国秩序",
+            "参与安的旅程相关事件",
+            "代表高地王室立场"
+          ],
+          "voice_actors": [
+            {
+              "name": "山下誠一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118249-aws1DsuN7cUW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Edmond II",
+            "name_native": "エドモンド二世",
+            "name_alternative": [],
+            "description": "King of Highland"
+          }
+        },
+        {
+          "id": 297911,
+          "name": "玛格丽特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b297911-RZM4TdHXfCpg.jpg",
+          "description": "玛格丽特是高地王国的王后，也是埃德蒙二世的王后。她熟悉宫廷礼仪和王室事务，关注王国秩序与社会关系。安的银糖工艺之路逐渐与王室活动交汇后，玛格丽特也出现在工匠和宫廷之间的故事线中。她代表高地王室女性成员的职责与立场，使安面对的工艺竞争不再只是个人之间的较量。",
+          "nicknames": [
+            "玛格丽特",
+            "Margaret",
+            "マルグリット",
+            "玛格丽特王后"
+          ],
+          "traits": [
+            "高地王国王后",
+            "埃德蒙二世的王后",
+            "熟悉王室礼仪",
+            "参与宫廷事务",
+            "关注王国秩序",
+            "接触银糖工艺相关人物",
+            "需要在王室与民众间协调",
+            "代表高地王室女性成员"
+          ],
+          "voice_actors": [
+            {
+              "name": "関根明良",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119155-DCKagRHcI95J.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Margaret",
+            "name_native": "マルグリット",
+            "name_alternative": [],
+            "description": "Queen of Highland"
+          }
+        }
+      ]
+    }
+  ]
+}

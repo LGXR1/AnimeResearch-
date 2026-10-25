@@ -1,0 +1,879 @@
+{
+  "completedAt": "2026-10-05T14:20:31.513Z",
+  "checkedAnimeLists": 8,
+  "completedSupplementAnime": 3,
+  "newCharacters": 26,
+  "updatedCharacters": 1,
+  "verifiedCurrentRecords": 27,
+  "totalAnime": 874,
+  "totalCharacters": 7652,
+  "totalVoiceActors": 7516,
+  "stopRemainingPercent": 4,
+  "targetRemainingPercent": 5,
+  "stopReason": "完成当前小批次时额度从7%到4%，停止新的检查并完成同步",
+  "corrections": [
+    {
+      "id": 120978,
+      "before": "才川莉子",
+      "after": "才川苗",
+      "details": "原人物ID及图片属于姐姐，已纠正姓名、别名、简介和声优；另以正确ID120972补入妹妹才川莉子"
+    },
+    {
+      "staffId": 102278,
+      "before": "知夏藤東",
+      "after": "藤東知夏"
+    }
+  ],
+  "synchronized": [
+    "data/characters_full.json",
+    "data/characters_slim.json",
+    "data/characters.csv",
+    "ANIME_LIST.md",
+    "public/sitemap.xml"
+  ],
+  "anime": [
+    {
+      "mediaId": 21311,
+      "title": "文豪野犬",
+      "sourceFetchedAt": "2026-10-05T14:13:25.508Z",
+      "sourceCharacters": 28,
+      "currentCount": 22,
+      "scope": "已对照本作品分页；未声称覆盖系列所有续作和漫画角色",
+      "pending": [
+        {
+          "id": 138144,
+          "name": "Yamagiwa",
+          "native": "山際",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 138147,
+          "name": "Nobuko Sasaki",
+          "native": "佐々城信子",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 138151,
+          "name": "Rokuzou Taguchi",
+          "native": "田口六蔵",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 138152,
+          "name": "Minoura",
+          "native": "箕浦",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 203971,
+          "name": "Aoiki King",
+          "native": "蒼き王",
+          "reason": "缺少人物资料，需补查"
+        },
+        {
+          "id": 203972,
+          "name": "James L",
+          "native": "ジェームズ・L",
+          "reason": "日配图片缺少hash"
+        }
+      ]
+    },
+    {
+      "mediaId": 5680,
+      "title": "轻音少女",
+      "sourceFetchedAt": "2026-10-05T14:13:28.970Z",
+      "sourceCharacters": 23,
+      "currentCount": 9,
+      "scope": "已对照本作品分页；未声称覆盖系列所有续作和漫画角色",
+      "pending": [
+        {
+          "id": 23344,
+          "name": "Megumi Sokabe",
+          "native": "曽我部恵",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 31525,
+          "name": "Satoshi Tainaka",
+          "native": "田井中聡",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 67011,
+          "name": "Yui to Ui no Haha",
+          "native": "唯・憂の母",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 67407,
+          "name": "Yui to Ui no Papa",
+          "native": "唯・憂の父",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 68185,
+          "name": "Youko Sasaki",
+          "native": "佐々木洋子",
+          "reason": "人物图片缺少hash"
+        },
+        {
+          "id": 174310,
+          "name": "Azu-nyan 2",
+          "native": "あずにゃん2号",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 174311,
+          "name": "Hitomi Hoshino",
+          "native": "星野ひとみ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 174313,
+          "name": "Della",
+          "native": "デラ",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 174314,
+          "name": "Jane",
+          "native": "ジェーン",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 174826,
+          "name": "Kazuko Miura",
+          "native": "三浦一子",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 174828,
+          "name": "Fumie Kimura",
+          "native": "木村文恵",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        }
+      ]
+    },
+    {
+      "mediaId": 4382,
+      "title": "凉宫春日的忧郁",
+      "sourceFetchedAt": "2026-10-05T14:13:29.874Z",
+      "sourceCharacters": 22,
+      "currentCount": 5,
+      "scope": "已对照本作品分页；未声称覆盖系列所有续作和漫画角色",
+      "pending": [
+        {
+          "id": 255,
+          "name": "Ryouko Asakura",
+          "native": "朝倉涼子",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 256,
+          "name": "Tsuruya",
+          "native": "鶴屋",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 257,
+          "name": "Taniguchi",
+          "native": "谷口",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 258,
+          "name": "Kunikida",
+          "native": "国木田",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 882,
+          "name": "Arakawa",
+          "native": "新川",
+          "reason": "人物图片缺少hash"
+        },
+        {
+          "id": 883,
+          "name": "Sonou Mori",
+          "native": "森園生",
+          "reason": "人物图片缺少hash"
+        },
+        {
+          "id": 884,
+          "name": "Yutaka Tamaru",
+          "native": "多丸裕",
+          "reason": "人物图片缺少hash"
+        },
+        {
+          "id": 885,
+          "name": "Keiichi Tamaru",
+          "native": "多丸圭一",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 912,
+          "name": "Kyon no Imouto",
+          "native": "キョンの妹",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 3620,
+          "name": "Kiyosumi Morimura",
+          "native": "森村清純",
+          "reason": "人物图片缺少hash"
+        },
+        {
+          "id": 3621,
+          "name": "Okabe",
+          "native": null,
+          "reason": "人物图片缺少hash"
+        },
+        {
+          "id": 3622,
+          "name": "Umpire",
+          "native": null,
+          "reason": "人物图片缺少hash"
+        },
+        {
+          "id": 9143,
+          "name": "Emiri Kimidori",
+          "native": "喜緑江美里",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 12335,
+          "name": "Computer Kenkyuukai Buchou",
+          "native": "コンピュータ研究会部長",
+          "reason": "人物图片缺少hash"
+        },
+        {
+          "id": 12660,
+          "name": "Shamisen",
+          "native": "シャミセン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 27353,
+          "name": "Mai Zaizen",
+          "native": "財前 舞",
+          "reason": "人物图片缺少hash"
+        },
+        {
+          "id": 44635,
+          "name": "Mizuki Okajima",
+          "native": "岡島瑞樹",
+          "reason": "人物图片缺少hash"
+        }
+      ]
+    },
+    {
+      "mediaId": 130003,
+      "title": "孤独摇滚",
+      "sourceFetchedAt": "2026-10-05T14:13:32.816Z",
+      "sourceCharacters": 80,
+      "currentCount": 5,
+      "scope": "已对照本作品分页；未声称覆盖系列所有续作和漫画角色",
+      "pending": [
+        {
+          "id": 289054,
+          "name": "Seika Ijichi",
+          "native": "伊地知星歌",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 289055,
+          "name": "PA-san",
+          "native": "PAさん",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 289056,
+          "name": "Jimihen",
+          "native": "ジミへン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 289057,
+          "name": "Naoki Gotou",
+          "native": "後藤直樹",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 289058,
+          "name": "Michiyo Gotou",
+          "native": "後藤美智代",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 289059,
+          "name": "Futari Gotou",
+          "native": "後藤ふたり",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 291640,
+          "name": "Hitori no Fan 1-gou",
+          "native": "ひとりのファン1号",
+          "reason": "缺少人物资料，需补查"
+        },
+        {
+          "id": 291641,
+          "name": "Hitori no Fan 2-gou",
+          "native": "ひとりのファン2号",
+          "reason": "缺少人物资料，需补查"
+        },
+        {
+          "id": 293861,
+          "name": "Shima Iwashita",
+          "native": "岩下志麻",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 293862,
+          "name": "Eliza Shimizu",
+          "native": "清水イライザ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 293863,
+          "name": "Ginjirou Yoshida",
+          "native": "吉田銀次郎",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        }
+      ]
+    },
+    {
+      "mediaId": 21355,
+      "title": "Re:从零开始的异世界生活",
+      "sourceFetchedAt": "2026-10-05T14:13:27.446Z",
+      "sourceCharacters": 49,
+      "currentCount": 18,
+      "scope": "已对照本作品分页；未声称覆盖系列所有续作和漫画角色",
+      "pending": [
+        {
+          "id": 90179,
+          "name": "Wilhelm van Astrea",
+          "native": "ヴィルヘルム・ヴァン・アストレア",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 124110,
+          "name": "Otto Suwen",
+          "native": "オットー・スーウェン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 124115,
+          "name": "Rachins Hoffman",
+          "native": "ラチンス・ホフマン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 124116,
+          "name": "Theresia van Astrea",
+          "native": "テレシア・ヴァン・アストレア",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 124117,
+          "name": "Rom",
+          "native": "ロム",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 124118,
+          "name": "Kadomon Risch",
+          "native": "カドモン・リッシュ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 124119,
+          "name": "Plum Risch",
+          "native": "プラム・リッシュ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 141858,
+          "name": "Petra Leyte",
+          "native": "ペトラ・レイテ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 157961,
+          "name": "Mimi Pearlbaton",
+          "native": "ミミ・パールバトン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 175577,
+          "name": "Meili Portroute",
+          "native": "メィリィ・ポートルート",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 181313,
+          "name": "Patrasche",
+          "native": "パトラッシュ",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 181314,
+          "name": "Ricardo Welkin",
+          "native": "リカード・ウェルキン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 185043,
+          "name": "Lucas",
+          "native": "リュカ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 185044,
+          "name": "Ketty Muttart",
+          "native": "ケティ・ムッタート",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 185045,
+          "name": "Raksha Risch",
+          "native": "ラクシャ・リッシュ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 187763,
+          "name": "Tivey Pearlbaton",
+          "native": "ティビー・パールバトン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 203919,
+          "name": "Hetaro Pearlbaton",
+          "native": "ヘータロー・パールバトン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 205260,
+          "name": "Marcos Gildark",
+          "native": "マーコス・ギルダーク",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 205261,
+          "name": "Kan",
+          "native": "カン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 205262,
+          "name": "Gaston",
+          "native": "ガストン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 205582,
+          "name": "Temae",
+          "native": "テマエ",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 205583,
+          "name": "Setanta",
+          "native": "セタンタ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 205584,
+          "name": "Quark",
+          "native": "クオーク",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 218202,
+          "name": "Bordeaux Zellgef",
+          "native": "ボルドー・ツェルゲフ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 226757,
+          "name": "Rickert Hoffman",
+          "native": "リッカートホフマン",
+          "reason": "缺少人物资料，需补查"
+        },
+        {
+          "id": 226758,
+          "name": "Hitosashiyubi",
+          "native": "人差し指",
+          "reason": "缺少人物资料，需补查"
+        },
+        {
+          "id": 354519,
+          "name": "Miklotov McMahon",
+          "native": "マイクロトフ・マクマホン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        }
+      ]
+    },
+    {
+      "mediaId": 21202,
+      "title": "为美好的世界献上祝福",
+      "sourceFetchedAt": "2026-10-05T14:14:09.008Z",
+      "sourceCharacters": 30,
+      "currentCount": 4,
+      "scope": "已对照本作品分页；未声称覆盖系列所有续作和漫画角色",
+      "pending": [
+        {
+          "id": 120655,
+          "name": "Wiz",
+          "native": "ウィズ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 120657,
+          "name": "Luna",
+          "native": "ルナ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 120658,
+          "name": "Eris",
+          "native": "エリス",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 122424,
+          "name": "Sena",
+          "native": "セナ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 126854,
+          "name": "Arakuremono",
+          "native": "荒くれ者",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 136042,
+          "name": "Beldia",
+          "native": "ベルディア",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 136043,
+          "name": "Keith",
+          "native": "キース",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 136044,
+          "name": "Kyouya Mitsurugi",
+          "native": "御剣響夜",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 136046,
+          "name": "Dust",
+          "native": "ダスト",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 203544,
+          "name": "Hakase",
+          "native": "博士",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 240105,
+          "name": "Rin",
+          "native": "リーン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 294249,
+          "name": "Lolisa",
+          "native": "ロリーサ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 307853,
+          "name": "Fio",
+          "native": "フィオ",
+          "reason": "缺少人物资料，需补查"
+        },
+        {
+          "id": 307854,
+          "name": "Cremea",
+          "native": "クレメア",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 326526,
+          "name": "Cedre",
+          "native": "セドル",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 326527,
+          "name": "Garilhe",
+          "native": "ガリル",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 326529,
+          "name": "Heinz",
+          "native": "ヘインズ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 326530,
+          "name": "Uketsuke Succubus",
+          "native": "受付サキュバス",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        }
+      ]
+    },
+    {
+      "mediaId": 21776,
+      "title": "小林家的龙女仆",
+      "sourceFetchedAt": "2026-10-05T14:14:10.030Z",
+      "sourceCharacters": 20,
+      "currentCount": 11,
+      "scope": "已对照本作品分页；未声称覆盖系列所有续作和漫画角色",
+      "pending": [
+        {
+          "id": 209895,
+          "name": "Sone",
+          "native": "曽根",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 209896,
+          "name": "Yana",
+          "native": "谷菜",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 209897,
+          "name": "Touzoku no Shoujo",
+          "native": "盗賊の少女",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 209898,
+          "name": "Kachou",
+          "native": "課長",
+          "reason": "缺少人物资料，需补查"
+        }
+      ]
+    },
+    {
+      "mediaId": 108465,
+      "title": "无职转生",
+      "sourceFetchedAt": "2026-10-05T14:14:12.247Z",
+      "sourceCharacters": 54,
+      "currentCount": 6,
+      "scope": "已对照本作品分页；未声称覆盖系列所有续作和漫画角色",
+      "pending": [
+        {
+          "id": 88347,
+          "name": "Paul Greyrat",
+          "native": "パウロ・グレイラット",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 145458,
+          "name": "Norn Greyrat",
+          "native": "ノルン・グレイラット",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 145459,
+          "name": "Aisha Greyrat",
+          "native": "アイシャ・グレイラット",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 179854,
+          "name": "Lilia",
+          "native": "リーリャ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 179855,
+          "name": "Zenith Greyrat",
+          "native": "ゼニス・グレイラット",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 186490,
+          "name": "Elinalise Dragonroad",
+          "native": "エリナリーゼ・ドラゴンロード",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 186588,
+          "name": "Kishirika Kishirisu",
+          "native": "キシリカ・キシリス",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 187382,
+          "name": "Orsted",
+          "native": "オルステッド",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 206392,
+          "name": "Ghislaine Dedoldia",
+          "native": "ギレーヌ・デドルディア",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 206430,
+          "name": "Pax Shirone",
+          "native": "パックス・シーローン",
+          "reason": "缺少人物资料，需补查"
+        },
+        {
+          "id": 207341,
+          "name": "Philip Boreas Greyrat",
+          "native": "フィリップ・ボレアス・グレイラット",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 207342,
+          "name": "Thomas",
+          "native": "トーマス",
+          "reason": "缺少人物资料，需补查"
+        },
+        {
+          "id": 207786,
+          "name": "Sauros Boreas Greyrat",
+          "native": "サウロス・ボレアス・グレイラット",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 208081,
+          "name": "Hilda Boreas Greyrat",
+          "native": "ヒルダ・ボレアス・グレイラット",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 208082,
+          "name": "Alphonse",
+          "native": "アルフォンス",
+          "reason": "缺少人物资料，需补查"
+        },
+        {
+          "id": 208754,
+          "name": "Edna Leylune",
+          "native": "エドナ・レイルーン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 209571,
+          "name": "Almanfi",
+          "native": "アルマンフィ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 209572,
+          "name": "Perugius Dola",
+          "native": "ペルギウス・ドーラ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 211165,
+          "name": "Hitogami",
+          "native": "ヒトガミ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 211180,
+          "name": "Rokari Migurdia",
+          "native": "ロカリー・ミグルディア",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 211181,
+          "name": "Rowin Migurdia",
+          "native": "ロイン・ミグルディア",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 211182,
+          "name": "Rokkus Migurdia",
+          "native": "ロックス・ミグルディア",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 212901,
+          "name": "Nokopara",
+          "native": "ノコパラ",
+          "reason": "日配图片缺少hash"
+        },
+        {
+          "id": 212902,
+          "name": "Blaze",
+          "native": "ブレイズ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 212903,
+          "name": "Perutko",
+          "native": "ペルトコ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 212904,
+          "name": "Kurt",
+          "native": "クルト",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 212905,
+          "name": "Bachirou",
+          "native": "バチロウ",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 212906,
+          "name": "Gablin",
+          "native": "ガブリン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 212907,
+          "name": "Vizquel",
+          "native": "ヴェスケル",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 212908,
+          "name": "Jalil",
+          "native": "ジャリル",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 212909,
+          "name": "Lohman",
+          "native": "ロウマン",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 213958,
+          "name": "Talhand",
+          "native": "タルハンド",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        },
+        {
+          "id": 295915,
+          "name": "Somar",
+          "native": "ソマル",
+          "reason": "已发现遗漏，未完成详细事实核对，后续继续补全"
+        }
+      ]
+    }
+  ],
+  "git": "未提交、未推送"
+}

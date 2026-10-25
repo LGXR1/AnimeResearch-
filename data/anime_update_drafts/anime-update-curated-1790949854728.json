@@ -1,0 +1,1380 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:59:50.784Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 101361,
+      "anime_title": "天狼 Sirius the Jaeger",
+      "anime_origin": "JP",
+      "source": {
+        "id": 101361,
+        "titles": [
+          "Tenrou: Sirius the Jaeger",
+          "Sirius the Jaeger",
+          "天狼 Sirius the Jaeger",
+          "Sirius"
+        ],
+        "year": 2018,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/101361"
+      },
+      "characters": [
+        {
+          "id": 136386,
+          "name": "尤里·日罗夫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136386-zWzdLoXVe92k.jpg",
+          "description": "尤里·日罗夫是一名十七岁的狼人混血青年，拥有远超常人的身体能力。吸血鬼袭击并毁灭了他的故乡后，尤里立誓复仇，并加入秘密猎人组织Jaeger，专门追踪和猎杀吸血鬼。他与哥哥米哈伊尔曾在故乡平静生活，但灾难使兄弟走上不同道路。随着寻找“天狼之匣”的行动展开，尤里不断面对复仇、族群身份和家人羁绊之间的冲突。",
+          "nicknames": [
+            "尤里·日罗夫",
+            "Yuliy Jirov",
+            "ユーリィ・ジロフ",
+            "尤里"
+          ],
+          "traits": [
+            "十七岁的狼人混血青年",
+            "拥有超常的身体能力",
+            "故乡曾遭吸血鬼毁灭",
+            "立志向吸血鬼复仇",
+            "加入猎人组织Jaeger",
+            "追寻天狼之匣的线索",
+            "在队伍中担任战斗主力",
+            "与哥哥米哈伊尔关系深厚"
+          ],
+          "voice_actors": [
+            {
+              "name": "上村祐翔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118498-6YvZZS0HM2qD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuliy Jirov",
+            "name_native": "ユーリィ・ジロフ",
+            "name_alternative": [],
+            "description": "A 17 years old half-werewolf with exceptional physical ability. He has sworn to take revenge on the vampires who destroyed his homeland and became a “Jaeger” ever since."
+          }
+        },
+        {
+          "id": 136385,
+          "name": "费隆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136385-Mi6kES51rXUv.jpg",
+          "description": "费隆是二十六岁的Jaeger成员，拥有爱尔兰裔美国人背景，身材强壮，体能与心理韧性都很出色。他与威拉德等人组成猎人团队，负责追踪并对抗吸血鬼势力。费隆能够在危险任务中承担正面战斗，也会凭借坚韧意志支援队友。作为经验丰富的行动人员，他与年轻的尤里共同调查“天狼之匣”相关线索，是Jaeger日本行动组的重要成员。",
+          "nicknames": [
+            "费隆",
+            "Fallon",
+            "ファロン"
+          ],
+          "traits": [
+            "二十六岁的Jaeger成员",
+            "拥有爱尔兰裔美国人背景",
+            "体格强壮",
+            "身体力量出众",
+            "心理意志坚韧",
+            "参加吸血鬼猎人行动",
+            "是威拉德团队的成员",
+            "常以正面战斗支援队友"
+          ],
+          "voice_actors": [
+            {
+              "name": "武内駿輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119185-65kkxuTRxAgo.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Fallon",
+            "name_native": "ファロン",
+            "name_alternative": [],
+            "description": "26 years old and a member of “Jaeger”. Muscular Irish-American guy, who is tough both physically and mentally."
+          }
+        },
+        {
+          "id": 136390,
+          "name": "多萝西娅",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136390-HmqNs6MsHTrK.jpg",
+          "description": "多萝西娅是二十七岁的Jaeger成员，拥有西班牙裔背景，外表美丽优雅，也是队长威拉德的得力助手。她参与猎人小队在日本展开的吸血鬼调查与战斗，协助威拉德处理行动安排和团队事务。相较于年轻冲动的尤里，多萝西娅表现得更成熟稳重，能够在任务中照顾队员并判断局势。她是Jaeger日本行动组中不可或缺的成员。",
+          "nicknames": [
+            "多萝西娅",
+            "Dorothea",
+            "ドロテア"
+          ],
+          "traits": [
+            "二十七岁的Jaeger成员",
+            "拥有西班牙裔背景",
+            "外表优雅",
+            "是威拉德的得力助手",
+            "参与猎杀吸血鬼的行动",
+            "具备成熟的行动经验",
+            "与Jaeger小队在日本活动",
+            "能协助统筹团队任务"
+          ],
+          "voice_actors": [
+            {
+              "name": "森なな子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118454-c5IJ0x8GoDuo.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dorothea",
+            "name_native": "ドロテア",
+            "name_alternative": [],
+            "description": "27 years old. Hispanic beauty who is part of the “Jaeger” and also Willard’s right hand."
+          }
+        },
+        {
+          "id": 136391,
+          "name": "叶夫格拉夫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136391-4IvyPifUQceb.jpg",
+          "description": "叶夫格拉夫是吸血鬼皇族中的年轻王子，在贵族势力中拥有重要地位。他的行动与“天狼之匣”的争夺密切相关，也使他成为Jaeger猎人小队必须面对的主要敌人之一。作为吸血鬼王族成员，叶夫格拉夫掌握强大的超自然力量，能够调动族群资源推进自己的目标。他的野心让吸血鬼阵营内部出现权力冲突，也不断把尤里一行人卷入危险局势。",
+          "nicknames": [
+            "叶夫格拉夫",
+            "Yevgraf",
+            "エフグラフ",
+            "叶夫格拉夫王子"
+          ],
+          "traits": [
+            "皇族吸血鬼的年轻王子",
+            "属于吸血鬼贵族势力",
+            "在族群中拥有高位身份",
+            "与天狼之匣争夺有关",
+            "拥有强大的超自然能力",
+            "是猎人小队的主要敌人之一",
+            "行事冷酷而有野心",
+            "推动吸血鬼阵营的权力冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yevgraf",
+            "name_native": "エフグラフ",
+            "name_alternative": [],
+            "description": "Young vampire prince of the Royals."
+          }
+        },
+        {
+          "id": 136392,
+          "name": "阿加莎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136392-IU6tItxtIn3h.jpg",
+          "description": "阿加莎是吸血鬼皇族中的女性成员，曾经从上海来到日本。她在公众面前表现得美丽优雅、举止得体，然而在展露真实一面时，说话和行事都显得粗犷强势。阿加莎拥有吸血鬼贵族的身份与能力，参与日本境内的吸血鬼势力活动，也因此与Jaeger猎人小队的调查产生交集。她表里反差鲜明，是吸血鬼阵营中具有代表性的角色。",
+          "nicknames": [
+            "阿加莎",
+            "Agatha",
+            "アガサ"
+          ],
+          "traits": [
+            "吸血鬼皇族女性成员",
+            "从上海来到日本",
+            "在公众面前举止优雅",
+            "外表美丽动人",
+            "真实性格粗犷强势",
+            "说话方式直接",
+            "属于吸血鬼贵族阵营",
+            "与日本吸血鬼事件有关"
+          ],
+          "voice_actors": [
+            {
+              "name": "大原さやか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Agatha",
+            "name_native": "アガサ",
+            "name_alternative": [],
+            "description": "Royal Female vampire, who came to Japan via Shanghai. She is beautiful and graceful in the public but act and speaks rough when showing her true-self."
+          }
+        },
+        {
+          "id": 136393,
+          "name": "伊庭秀臣",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136393-9UBgtwDprI7v.jpg",
+          "description": "伊庭秀臣二十九岁，是日本陆军省军事课的秘密特工，隶属重要的“九段卫星办公室”。他负责处理具有机密性质的事务，并接触吸血鬼活动和天狼之匣相关情报。伊庭在政府机构与Jaeger猎人小队之间活动，既要履行特工职责，也必须判断如何应对超自然威胁。他的官方身份为故事提供了军事与情报线索，使猎人行动和日本政府层面的调查产生联系。",
+          "nicknames": [
+            "伊庭秀臣",
+            "Hideomi Iba",
+            "伊庭"
+          ],
+          "traits": [
+            "二十九岁的男性",
+            "陆军省军事课的秘密特工",
+            "隶属九段卫星办公室",
+            "接触政府机密事务",
+            "调查吸血鬼相关情况",
+            "在官方机构与猎人之间活动",
+            "具有情报搜集职责",
+            "是日本方面行动的重要联络者"
+          ],
+          "voice_actors": [
+            {
+              "name": "間島淳司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95820-5Fuosf1ljdSc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hideomi Iba",
+            "name_native": "伊庭秀臣",
+            "name_alternative": [],
+            "description": "29 years old. He is a secret agent of Military Affairs Bureau in the Ministry of the Army, and belongs to one of the most important office known as “Kudan Satellite Office”."
+          }
+        },
+        {
+          "id": 136394,
+          "name": "米哈伊尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136394-V6HzHDObBiu5.jpg",
+          "description": "米哈伊尔是尤里的哥哥，兄弟二人曾在被称作“狗村”的偏远村落与母亲共同生活。吸血鬼毁灭故乡之前，他们过着平静日子；灾难发生后，米哈伊尔与尤里的道路逐渐分开，并与吸血鬼势力产生联系。尤里加入Jaeger后始终追寻哥哥的下落，兄弟关系也成为复仇故事中的情感核心。米哈伊尔的选择让尤里不得不重新思考敌我、家族和狼人身份。",
+          "nicknames": [
+            "米哈伊尔",
+            "Mikhail",
+            "ミハイル"
+          ],
+          "traits": [
+            "尤里的哥哥",
+            "与尤里在故乡共同长大",
+            "出身狼人村落",
+            "童年曾过着平静生活",
+            "故乡遭吸血鬼袭击后命运改变",
+            "与吸血鬼阵营发生联系",
+            "与尤里的复仇目标相连",
+            "是故事重要的兄弟角色"
+          ],
+          "voice_actors": [
+            {
+              "name": "櫻井孝宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mikhail",
+            "name_native": "ミハイル",
+            "name_alternative": [],
+            "description": "Yuliy’s older brother. He was born in a rural village known as the dog-ville and lived peacefully with Yuliy and their mother."
+          }
+        },
+        {
+          "id": 136395,
+          "name": "卡什纳",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136395-Vuh2KXHvZkGo.jpg",
+          "description": "卡什纳是效忠叶夫格拉夫王子的吸血鬼皇族成员，拥有吸血鬼的超自然能力，并参与贵族阵营的行动。威拉德领导的Jaeger以及V Shipping公司已经追踪他一段时间，因此他成为猎人调查中的重要目标。卡什纳执行叶夫格拉夫交代的任务，与尤里一行人多次发生冲突。他既是吸血鬼势力的行动者，也代表猎人阵营必须逐步揭开的敌方网络。",
+          "nicknames": [
+            "卡什纳",
+            "Kershner",
+            "カーシュナー"
+          ],
+          "traits": [
+            "吸血鬼皇族成员",
+            "效忠叶夫格拉夫王子",
+            "参与吸血鬼阵营行动",
+            "威拉德和V Shipping长期追踪的目标",
+            "拥有吸血鬼的超自然能力",
+            "与猎人小队多次交锋",
+            "在贵族势力中执行任务",
+            "是Jaeger行动的重要敌手"
+          ],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kershner",
+            "name_native": "カーシュナー",
+            "name_alternative": [],
+            "description": "Royal vampire who serves Yevgraf. Willards and V shipping company had been after him for some time."
+          }
+        },
+        {
+          "id": 136396,
+          "name": "直江凉子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136396-a1brQgGBkuJz.jpg",
+          "description": "直江凉子是直江家的独生女，威拉德领导的Jaeger团队在日本行动期间寄住在她家中。她因此与吸血鬼猎人们建立联系，也接触到原本远离普通生活的秘密行动。凉子为小队提供在当地停留的住所，使成员们能够从容调查日本境内的吸血鬼踪迹。作为普通家庭中的年轻女性，她的生活被猎人任务打破，也为故事带来日常与超自然冲突交会的一面。",
+          "nicknames": [
+            "直江凉子",
+            "Ryouko Naoe",
+            "直江涼子",
+            "凉子"
+          ],
+          "traits": [
+            "直江家独生女",
+            "Jaeger团队在日本期间寄住其家",
+            "为猎人小队提供落脚处",
+            "生活在日本",
+            "与威拉德团队建立联系",
+            "接触吸血鬼猎人行动",
+            "是故事中的普通人类角色",
+            "为队伍融入当地生活提供帮助"
+          ],
+          "voice_actors": [
+            {
+              "name": "高橋李依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ryouko Naoe",
+            "name_native": "直江涼子",
+            "name_alternative": [],
+            "description": "She is the only daughter of the family whom Willard’s team stay with while they are in Japan."
+          }
+        },
+        {
+          "id": 136398,
+          "name": "克拉尔维因",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136398-IRoQpcOEpYRM.jpg",
+          "description": "克拉尔维因是一名疯狂科学家，为实现自己长期追求的目标而与吸血鬼势力合作。他参与超自然研究与实验，试图借助科学手段达成个人野心，也因此把人类、吸血鬼和猎人组织卷入危险计划。克拉尔维因的行动给Jaeger小队带来不同于正面战斗的威胁，尤里等人不仅要面对吸血鬼，也要阻止他的实验造成更多伤害。",
+          "nicknames": [
+            "克拉尔维因",
+            "Klarwein",
+            "クラルヴァイン"
+          ],
+          "traits": [
+            "疯狂的科学家",
+            "与吸血鬼势力合作",
+            "拥有长期追求的研究目标",
+            "参与超自然实验",
+            "以研究推动个人野心",
+            "掌握科学技术",
+            "对猎人小队构成威胁",
+            "把人类与吸血鬼力量卷入实验"
+          ],
+          "voice_actors": [
+            {
+              "name": "飛田展男",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95157-td6WhlGehuDJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Klarwein",
+            "name_native": "クラルヴァイン",
+            "name_alternative": [],
+            "description": "Mad scientist who teamed up with the Vampires to achieve long held desire."
+          }
+        },
+        {
+          "id": 136403,
+          "name": "菲利普",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136403-aEC4wQ6Uumke.png",
+          "description": "菲利普是十四岁的Jaeger成员，出生于英国，是威拉德小队中年龄最小的一员。尽管年纪轻，他的猎人技巧相当优秀，能够参与追踪和对抗吸血鬼的危险任务。菲利普与尤里等队友一同在日本行动，也需要在战斗中依赖团队协作。作为年少的猎人，他的成长与队友之间的照应并行，体现出Jaeger成员在复仇和任务之外相互扶持的一面。",
+          "nicknames": [
+            "菲利普",
+            "Phillip",
+            "フィリップ"
+          ],
+          "traits": [
+            "十四岁的Jaeger成员",
+            "出生于英国",
+            "是威拉德小队年龄最小的成员",
+            "拥有优秀的猎人技巧",
+            "参加吸血鬼追踪任务",
+            "与尤里共同执行行动",
+            "年纪虽轻但实战能力出众",
+            "在团队中接受前辈照应"
+          ],
+          "voice_actors": [
+            {
+              "name": "小林裕介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118407-DMPcKY2AUSHV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Phillip",
+            "name_native": "フィリップ",
+            "name_alternative": [],
+            "description": "14 years old. A British born member of the “Jaeger”. He is the youngest in Willard’s team but his skills as Jaeger is exceptional."
+          }
+        },
+        {
+          "id": 187175,
+          "name": "比肖普",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187175-5AjEp071ELpi.png",
+          "description": "比肖普是V Shipping公司的特工，负责与尤里合作寻找“天狼之匣”。他代表商业组织参与遗物调查，在公司任务目标与Jaeger猎人对抗吸血鬼的行动之间建立合作。比肖普拥有特工的情报搜集职责，也需要在危险环境中与尤里共同追踪线索。天狼之匣关系到多方势力的计划，他的加入让故事中的调查不再局限于猎人团队。",
+          "nicknames": [
+            "比肖普",
+            "Bishop",
+            "ビショップ"
+          ],
+          "traits": [
+            "V Shipping公司的特工",
+            "与尤里合作调查天狼之匣",
+            "负责搜寻重要遗物线索",
+            "拥有公司行动人员身份",
+            "在猎人和商业组织间活动",
+            "为尤里提供合作支持",
+            "熟悉V Shipping任务目标",
+            "参与对抗吸血鬼的行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "浜田賢二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95371-nyA7w7nPrlPr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bishop",
+            "name_native": "ビショップ",
+            "name_alternative": [],
+            "description": "Bishop is an agent of V Shipping Company who teams up with Yuliy to find the Sirius Arc.\n"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 21714,
+      "anime_title": "轻拍翻转小魔女",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21714,
+        "titles": [
+          "Flip Flappers",
+          "FLIP FLAPPERS",
+          "フリップフラッパーズ",
+          "轻拍翻转小魔女",
+          "Flip Flappers: Fantazja kontra świat"
+        ],
+        "year": 2016,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21714"
+      },
+      "characters": [
+        {
+          "id": 89630,
+          "name": "帕皮卡",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89630-HocnaKAoGHLb.jpg",
+          "description": "帕皮卡是一名神秘少女，突然出现在可可娜面前。她性格开朗活泼，强烈渴望冒险，面对危险几乎没有恐惧，还擅长驾驶悬浮滑板在空中滑行。与可可娜成为伙伴后，帕皮卡不断邀请她再次进入纯幻境，展开新的探索。她过去曾以“帕皮卡娜”的名字与米米搭档，这段隐藏经历逐渐揭示了她和可可娜之间更深的联系。",
+          "nicknames": [
+            "帕皮卡",
+            "Papika",
+            "パピカ",
+            "Pure Barrier,",
+            "帕皮卡娜"
+          ],
+          "traits": [
+            "突然出现在可可娜面前的少女",
+            "性格开朗活泼",
+            "强烈渴望冒险",
+            "几乎没有恐惧感",
+            "擅长驾驶悬浮滑板",
+            "能在空中滑行",
+            "与可可娜成为伙伴",
+            "不断邀请可可娜回到纯幻境",
+            "过去曾被称作帕皮卡娜"
+          ],
+          "voice_actors": [
+            {
+              "name": "市道真央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Papika",
+            "name_native": "パピカ",
+            "name_alternative": [
+              "Pure Barrier,"
+            ],
+            "description": "A mysterious girl who appears in front of Cocona. She's always bright and active, thirsting for adventure, along with having nearly no fear. She is also proficient at riding a hoverboard, often surfing the skies.\n\nAfter becoming friends with Cocona, Papika insists on returning to Pure Illusion for more adventures. \n\n~!In the past, she was referred to as, \"Papikana,\" when she was partners with Mimi.!~"
+          }
+        },
+        {
+          "id": 89631,
+          "name": "可可娜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89631-tbDsKS5a7Li9.jpg",
+          "description": "可可娜是初中二年级学生，与祖母共同生活，学习成绩优秀并担任班级委员。她性格谨慎，面对陌生机会时容易犹豫，起初并不确定是否要接受帕皮卡的邀请。进入纯幻境后，可可娜逐渐与帕皮卡组成搭档，在不断变化的世界中经历冒险，也开始面对自己的成长和身世。她的理性与帕皮卡的冲劲形成互补，推动两人一起寻找通往真相的道路。",
+          "nicknames": [
+            "可可娜",
+            "Cocona Cocomine",
+            "ココナ・ココミネ",
+            "Pure Blade",
+            "可可米涅可可娜"
+          ],
+          "traits": [
+            "初中二年级学生",
+            "与祖母共同生活",
+            "学习成绩优秀",
+            "担任班级委员",
+            "性格谨慎小心",
+            "面对新机会时容易犹豫",
+            "与帕皮卡组成搭档",
+            "进入纯幻境参与冒险"
+          ],
+          "voice_actors": [
+            {
+              "name": "髙橋ミナミ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117003-UucaZmQjVSV7.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Cocona Cocomine",
+            "name_native": "ココナ・ココミネ",
+            "name_alternative": [
+              "Pure Blade"
+            ],
+            "description": "A second-year middle school student who lives with her grandmother. She's an honor student who serves as the class representative. Because of her cautious personality, she's unable to step foot into new opportunities."
+          }
+        },
+        {
+          "id": 120453,
+          "name": "优优",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120453-oHr4ASXLa3HA.png",
+          "description": "优优是小学生，也是托托的双胞胎妹妹。她性格沉稳冷静，说话时几乎听不出情绪起伏；在现实世界中左臂打着石膏，进入纯幻境后则会使用力量拳套战斗。优优与哥哥托托一起替阿斯克勒庇俄斯收集不定形碎片，即使身处危险环境也能保持冷静。她与托托后来被揭示为阿斯克勒庇俄斯创造的第一批不定形儿童。",
+          "nicknames": [
+            "优优",
+            "Yuyu",
+            "ユユ"
+          ],
+          "traits": [
+            "小学生",
+            "托托的双胞胎妹妹",
+            "性格沉稳冷静",
+            "说话时几乎没有情绪起伏",
+            "现实世界中左臂打着石膏",
+            "进入纯幻境后使用力量拳套",
+            "与托托一起执行任务",
+            "曾为阿斯克勒庇俄斯收集碎片"
+          ],
+          "voice_actors": [
+            {
+              "name": "愛梨歳納",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/120459-m0E36F4pCyYK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuyu",
+            "name_native": "ユユ",
+            "name_alternative": [],
+            "description": "An elementary school student and Toto's younger twin sister. Yuyu is calm and collected, while also speaking with little to no emotion in her voice. Outside of Pure Illusion, Yuyu wears a cast on her left arm; however, while in Pure Illusion, she wields a power fist."
+          }
+        },
+        {
+          "id": 120454,
+          "name": "绫香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120454-iOb60oB097Bg.jpg",
+          "description": "绫香是可可娜的童年朋友和同班同学，以冷静坚强的性格让可可娜十分依赖。她非常关心可可娜，当可可娜结交新朋友时也会显露嫉妒。绫香暗中为阿斯克勒庇俄斯工作，负责收集不定形碎片，并与托托、优优组成搭档。她必须在组织任务与对可可娜的友情之间作出选择，随着两人关系变化，隐藏身份也逐渐成为故事的重要冲突。",
+          "nicknames": [
+            "绫香",
+            "Yayaka",
+            "ヤヤカ",
+            "弥弥香"
+          ],
+          "traits": [
+            "可可娜的童年朋友",
+            "与可可娜同班",
+            "性格冷静坚强",
+            "可可娜很依赖她",
+            "十分关心可可娜",
+            "看见新朋友接近可可娜时会吃醋",
+            "暗中为阿斯克勒庇俄斯工作",
+            "与托托和优优搭档收集碎片"
+          ],
+          "voice_actors": [
+            {
+              "name": "大橋彩香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110903-GTQtkAs2pmO5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yayaka",
+            "name_native": "ヤヤカ",
+            "name_alternative": [],
+            "description": "Cocona's childhood friend and classmate. Cocona relies on her for her cool and strong-minded personality. She cares for Cocona deeply, getting jealous when she gets a new friend.\n\n~!Yayaka secretly works with FlipFlap's rival organization, Asclepius, to collect amorphous fragments. She is partners with Toto and Yuyu.!~"
+          }
+        },
+        {
+          "id": 120455,
+          "name": "日高",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120455-2UvyDvvjdWue.png",
+          "description": "日高是FlipFlap组织的科学家，负责研究“米米碎片”，也制造了TT-392等装置。他技术能力出色，一谈到研究和发明便显得异常兴奋。日高会向可可娜介绍纯幻境的相关信息，试图帮助她理解任务与世界规则；不过他的讲解往往过于专业，常让可可娜听得一头雾水。他是FlipFlap的技术支援者，为队伍提供研究成果和冒险所需的设备。",
+          "nicknames": [
+            "日高",
+            "Hidaka",
+            "ヒダカ"
+          ],
+          "traits": [
+            "FlipFlap组织的科学家",
+            "研究米米碎片",
+            "参与制造TT-392",
+            "开发过多种发明",
+            "技术能力出色",
+            "谈到工作时情绪高涨",
+            "会向可可娜介绍纯幻境",
+            "讲解常因过于专业而难以理解"
+          ],
+          "voice_actors": [
+            {
+              "name": "福島潤",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105094-Udz3lBFTZa5W.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hidaka",
+            "name_native": "ヒダカ",
+            "name_alternative": [],
+            "description": "A scientist who researches the, \"Shards of Mimi,\" at FlipFlap, and created the TT-392 and other inventions. Hidaka is technical and excitable, especially when it comes to his work. He gives Cocona info about Pure Illusion from time to time; but, due to his excitability and technicality, often leads to it going over her head."
+          }
+        },
+        {
+          "id": 120456,
+          "name": "索尔特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120456-tCyb4Eih61rM.png",
+          "description": "索尔特是FlipFlap的领导者，负责收集“米米碎片”。他性格难以捉摸，平时冷静严肃，表面上不易读出情绪，但实际关心组织成员的安危。索尔特过去与帕皮卡娜和米米是好友，也是可可娜的生父。他的旧日关系和组织任务把帕皮卡、可可娜及米米的身世连接起来，随着真相揭开，他的冷静外表下逐渐显露出复杂的亲情与保护欲。",
+          "nicknames": [
+            "索尔特",
+            "Salt",
+            "ソルト"
+          ],
+          "traits": [
+            "FlipFlap组织的领导者",
+            "负责收集米米碎片",
+            "性格难以捉摸",
+            "平时冷静严肃",
+            "关心组织成员的安危",
+            "过去与帕皮卡娜和米米相识",
+            "是可可娜的生父",
+            "领导对抗阿斯克勒庇俄斯的行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "櫻井孝宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "天崎滉平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119871-Tz1rIT1YahPu.png",
+              "language": "日语"
+            },
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Salt",
+            "name_native": "ソルト",
+            "name_alternative": [],
+            "description": "An unreadable man who is collecting the \"Shards of Mimi,\" along with being the leader of FlipFlap. Salt is cold and almost always serious. Despite that, he does care about what happens to FlipFlap's employees.\n\n~!Prior to leading FlipFlap, he was good friends with Papikana and Mimi; along with having a caring personality.!~ ~!Salt is Cocona's biological father.!~"
+          }
+        },
+        {
+          "id": 120457,
+          "name": "托托",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120457-aS9iDvIrlvBv.png",
+          "description": "托托是小学生，也是优优的双胞胎哥哥。他性格冷静沉稳，即使处于危险情况也很少表现出明显情绪，说话语调近乎平淡。托托和优优一起为阿斯克勒庇俄斯收集不定形碎片，进入纯幻境后会使用能够连续发射导弹的装置。两人后来被揭示为阿斯克勒庇俄斯创造的第一批不定形儿童，他们的身世也使任务关系变得更加复杂。",
+          "nicknames": [
+            "托托",
+            "Toto",
+            "トト"
+          ],
+          "traits": [
+            "小学生",
+            "优优的双胞胎哥哥",
+            "性格沉稳冷静",
+            "即使危急时也能保持镇定",
+            "说话几乎没有情绪起伏",
+            "与优优一起替阿斯克勒庇俄斯行动",
+            "进入纯幻境后使用导弹装置",
+            "是最早诞生的不定形儿童之一"
+          ],
+          "voice_actors": [
+            {
+              "name": "井上沙香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/120460-8W84ewSTWJhh.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Toto",
+            "name_native": "トト",
+            "name_alternative": [],
+            "description": "An elementary school student and Yuyu's older twin brother. Toto, along with Yuyu, work under Asclepius to get amorphous fragments. Like his sister, he is calm and collected, even in dire situations. Furthermore, he speaks with little to no emotion. While in Pure Illusion, he uses a device that fires a barrage of missiles.\n\n~!Toto, along with Yuyu, was created by Asclepius; thus making them the first two amorphous children.!~"
+          }
+        },
+        {
+          "id": 120458,
+          "name": "小百合",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120458-OeLlLEAhHgo6.png",
+          "description": "小百合是FlipFlap组织的操作员，负责协助处理日常任务和冒险行动。与对发明充满热情的科学家日高不同，她总会担心新装置是否可靠、使用时会不会带来危险。小百合因此常在技术团队中过滤风险，提醒成员注意设备安全。她参与收集米米碎片的工作，是FlipFlap行动组的后勤成员，也为日高和其他队员的冒险提供实际支援。",
+          "nicknames": [
+            "小百合",
+            "Sayuri",
+            "サユリ"
+          ],
+          "traits": [
+            "FlipFlap组织的操作员",
+            "负责协助组织日常行动",
+            "经常担心新发明的安全性",
+            "对日高的技术热情保持谨慎",
+            "为冒险任务提供后勤支援",
+            "参与米米碎片相关工作",
+            "性格比日高更稳重",
+            "是FlipFlap团队成员"
+          ],
+          "voice_actors": [
+            {
+              "name": "日笠陽子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sayuri",
+            "name_native": "サユリ",
+            "name_alternative": [],
+            "description": "An operator that works for FlipFlap who, unlike Hidaka, is always worried about inventions."
+          }
+        },
+        {
+          "id": 120466,
+          "name": "TT-392",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120466-XwAfXunpreSn.png",
+          "description": "TT-392是科学家日高制造的机器人，拥有多种功能，经常被帕皮卡带去执行任务。它无论遇到伙伴还是敌人都很容易被打坏，但每次损坏后都会得到修理并重新投入行动。TT-392的机体内部装有大脑，这也是它能够表现出个性的原因之一；此外，它还能变形成肌肉发达的形态。它常以笨拙却可靠的设备伙伴身份陪伴冒险。",
+          "nicknames": [
+            "TT-392",
+            "Bu-chan",
+            "ティーティー392"
+          ],
+          "traits": [
+            "由日高制造的机器人",
+            "拥有多种实用功能",
+            "经常被帕皮卡使用",
+            "能在任务中协助队伍",
+            "经常被敌我双方打坏",
+            "损坏后总会被重新修复",
+            "机体内部装有大脑",
+            "能够变形成肌肉发达的形态"
+          ],
+          "voice_actors": [
+            {
+              "name": "興津和幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "TT-392",
+            "name_native": "",
+            "name_alternative": [
+              "Bu-chan"
+            ],
+            "description": "A robot seemingly created by Hidaka. It has various functions and is often used by Papika. TT-392 is often beaten up, be it by friend or foe, but is always fixed. Contained in its body is a brain, which gives TT-392 its traits. ~!TT-392 is able to transform into a more muscular form.!~"
+          }
+        },
+        {
+          "id": 120467,
+          "name": "尤克斯库尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120467-d14qPmZLOeBp.jpg",
+          "description": "尤克斯库尔是可可娜的宠物，身体能够变大或缩小，也会展现丰富表情。它喜欢钻进狭窄空间，在现实生活中常陪伴可可娜；进入纯幻境后则会呈现近似人类的外形。它的名字取自德国生物学家雅各布·冯·于克斯屈尔，为角色增添了与作品世界观相呼应的知识梗。尤克斯库尔在可可娜的生活和冒险中都占有一席之地。",
+          "nicknames": [
+            "尤克斯库尔",
+            "Uexküll",
+            "ユクスキュル",
+            "乌克斯库尔"
+          ],
+          "traits": [
+            "可可娜饲养的宠物",
+            "身体能够变大或缩小",
+            "会展现不同表情",
+            "喜欢狭窄空间",
+            "进入纯幻境后呈现人形",
+            "陪伴可可娜日常生活",
+            "名字取自生物学家 Jakob von Uexküll",
+            "由村濑迪与配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "村瀬迪与",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116813-GT3gjxNFr1XR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Uexküll",
+            "name_native": "ユクスキュル",
+            "name_alternative": [],
+            "description": "Cocona's pet. It can grow and shrink and show various facial expressions. It likes small spaces. Its name is a reference to the German biologist Jakob von Uexküll. \n\nWhile in Pure Illusion, it has a human-like appearance."
+          }
+        },
+        {
+          "id": 120468,
+          "name": "彩伊吕波",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120468-k4LcrBAi99tC.png",
+          "description": "彩伊吕波是可可娜学校的三年级学生，也是美术社成员，擅长绘画，许多作品都令可可娜赞叹。她曾认为自己不配涂指甲油，这与童年时父母经常争吵、她常去祖母家生活有关；伊吕波还因为没有兑现与祖母的约定而长期后悔。帕皮卡和可可娜在纯幻境中帮助她面对这段经历后，她的态度发生变化，重新开始涂指甲油。",
+          "nicknames": [
+            "彩伊吕波",
+            "Iroha Irodori",
+            "彩いろは",
+            "伊吕波"
+          ],
+          "traits": [
+            "比可可娜高一届的学姐",
+            "就读于同一所学校",
+            "是美术社成员",
+            "擅长绘画创作",
+            "可可娜欣赏她的作品",
+            "曾因童年经历而缺乏自信",
+            "小时候常去祖母家",
+            "与祖母有未兑现的约定",
+            "后来重新开始涂指甲油"
+          ],
+          "voice_actors": [
+            {
+              "name": "大西沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Iroha Irodori",
+            "name_native": "彩いろは",
+            "name_alternative": [],
+            "description": "A third-year at Cocona's school, and a member of the art club. Iroha paints many great art pieces, which Cocona sometimes is in awe of. She also believes that she doesn't deserve to wear nail polish, due to her past.\n\n~!When Iroha was a kid, her parents were always fighting, so she'd visit her grandma's place often. During that time, she made a promise with her grandma, which she failed to keep, leading her to regret it. After Papika and Cocona keep up on the promise in Pure Illusion, Iroha's personality changes and she begins to wear nail polish.!~"
+          }
+        },
+        {
+          "id": 139541,
+          "name": "纽纽",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139541-w7IMiyTfqDiG.png",
+          "description": "纽纽是第三名不定形儿童，后来取代绫香的位置。与情绪表达较少的托托和优优不同，纽纽性格活泼，会直接表现出各种情绪。她起初为阿斯克勒庇俄斯一方行动，之后很快转而加入FlipFlap，并与组织成员一起活动。纽纽和TT-392关系友好，虽然曾经把机器人弄坏，却也成为它新的伙伴。她的加入让FlipFlap团队增添了更加外向的新成员。",
+          "nicknames": [
+            "纽纽",
+            "Nyunyu",
+            "ニュニュ"
+          ],
+          "traits": [
+            "第三名不定形儿童",
+            "后来取代绫香的位置",
+            "性格活泼",
+            "会直接表达多种情绪",
+            "与托托和优优形成反差",
+            "起初属于阿斯克勒庇俄斯",
+            "之后转而加入FlipFlap",
+            "与TT-392关系友好"
+          ],
+          "voice_actors": [
+            {
+              "name": "高野麻里佳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119383-En92dXrTlJTY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nyunyu",
+            "name_native": "ニュニュ",
+            "name_alternative": [],
+            "description": "The third amorphous child who replaces Yayaka. Unlike Toto and Yuyu, Nyunyu is lively and expresses many emotions. She gets along with TT-392, though she has wrecked it once. ~!Nyunyu quickly changes sides from Asclepius to Flip Flap, and continues to hang out with the crew.!~"
+          }
+        },
+        {
+          "id": 139542,
+          "name": "可可娜的祖母",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139542-qqP2C0QidkGy.png",
+          "description": "可可娜的祖母多年来一直照顾孙女，与她共同生活。由于双腿无法活动，她的行动需要依靠轮椅或周围人的帮助，但仍持续关心可可娜的生活和心情。只要发现可可娜显得不安或难过，祖母就会主动询问她是否遇到了问题。她为可可娜提供稳定的家庭照顾，也是少女在进入纯幻境、面对身世疑问之前的重要亲人。",
+          "nicknames": [
+            "可可娜的祖母",
+            "Cocona no Obaa-chan",
+            "ココナのおばあちゃん",
+            "Cocona's grandma",
+            "祖母"
+          ],
+          "traits": [
+            "多年照顾可可娜长大",
+            "与可可娜共同生活",
+            "双腿无法活动",
+            "需要使用轮椅或他人协助",
+            "十分关心孙女的情绪",
+            "会主动询问可可娜是否遇到烦恼",
+            "为可可娜提供家庭照顾",
+            "是她在现实生活中的重要亲人"
+          ],
+          "voice_actors": [
+            {
+              "name": "久保田民絵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107014-S8FDieKc2CBw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Cocona no Obaa-chan",
+            "name_native": "ココナのおばあちゃん",
+            "name_alternative": [
+              "Cocona's grandma"
+            ],
+            "description": "Cocona's grandmother who has looked after her for years. She is paraplegic, being unable to use her legs. She cares for Cocona, usually asking her if anything is wrong if Cocona is distressed."
+          }
+        },
+        {
+          "id": 139543,
+          "name": "百岁兰",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139543-V8IwKm0xj26O.png",
+          "description": "百岁兰是纯幻境沙漠世界中具有侵入性的防御机制，能够读出可可娜的内心，并说出她对帕皮卡隐藏的真实感受。它身体坚韧、力量强大，是难以对付的敌人，外表看起来接近人类，却能够变成可怕的怪物形态。百岁兰的出现迫使可可娜直面自己的情绪，也展示了纯幻境会把内心秘密转化为具体威胁的特点。",
+          "nicknames": [
+            "百岁兰",
+            "Welwitschia",
+            "ウェルウィッチア"
+          ],
+          "traits": [
+            "纯幻境沙漠世界的防御机制",
+            "具有侵入性和攻击性",
+            "擅长窥探可可娜的内心",
+            "会说出可可娜对帕皮卡的真实感受",
+            "身体坚韧且力量强大",
+            "是难以对付的敌人",
+            "拥有近似人类的外形",
+            "能够变成可怕的怪物形态"
+          ],
+          "voice_actors": [
+            {
+              "name": "豊崎愛生",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95599-XDGiluZB7IXL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Welwitschia",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "An invasive Pure Illusion Defense Mechanism from the desert world. Welwitschia is manipulative, reading into Cocona and saying how she feels deep down about Papika. She's also quite resilient and strong, causing her to be a difficult foe. When Cocona first meets her, she is seen with a harem of girls in bondage gear.\n\nWelwitschia has a wild personality, often making suggestive remarks, be it visually or verbally. Additionally, she is a sadomasochist, enjoying it when she hurts others or is hurt herself. Despite her human-like appearance, Welwitschia is able to turn into a hideous monster, likely being her true form."
+          }
+        },
+        {
+          "id": 139544,
+          "name": "OO-303",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139544-rR88H6937nHO.png",
+          "description": "OO-303也被称作Pops，是纯幻境未来城市的居民和创造者，也是一名古怪的发明家。他制造了许多装置，包括供可可娜和帕皮卡驾驶的机甲。OO-303身材矮小，比两名少女还矮，却拥有很强的自尊心，常表现出与体格不相称的巨大自信。他有异色瞳，左眼黄色、右眼蓝色，并被描述为与可可娜和帕皮卡年龄相同。",
+          "nicknames": [
+            "OO-303",
+            "Pops",
+            "Occhan",
+            "ポップス"
+          ],
+          "traits": [
+            "纯幻境未来城市的居民与创造者",
+            "是一名古怪发明家",
+            "制造多种机械装置",
+            "制作可供可可娜和帕皮卡驾驶的机甲",
+            "身材比两位少女矮小",
+            "自尊心和自我评价很高",
+            "双眼颜色不同",
+            "左眼黄色右眼蓝色"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "OO-303",
+            "name_native": "",
+            "name_alternative": [
+              "Pops",
+              "Occhan"
+            ],
+            "description": "An inhabitant and creator of the futuristic city in Pure Illusion. Pops is an eccentric inventor that has created many things, including the mechas that Cocona and Papika piloted. \n\nPops is a small man, being shorter than Cocona and Papika. He has heterochromia, with is left eye being yellow and his right eye being blue. Pops sports a large ego, which makes up for his size. He's also the same age as Cocona and Papika."
+          }
+        },
+        {
+          "id": 139545,
+          "name": "米米",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b139545-9qiS0HxS3yKg.png",
+          "description": "米米是可可娜梦中反复看见的少女，也是她的母亲，曾与帕皮卡娜搭档。米米拥有进入纯幻境的能力，长期被关在阿斯克勒庇俄斯工厂接受实验，期间与帕皮卡娜和索尔特成为朋友。她深爱女儿、希望保护可可娜的愿望逐渐形成另一重人格，使原本温柔的母亲变得过度保护，甚至会伤害旧友。米米的过去揭开了可可娜身世和组织行动的关键真相。",
+          "nicknames": [
+            "米米",
+            "Mimi",
+            "ミミ"
+          ],
+          "traits": [
+            "可可娜梦中看见的少女",
+            "是可可娜的母亲",
+            "曾与帕皮卡娜搭档",
+            "拥有进入纯幻境的能力",
+            "曾在阿斯克勒庇俄斯工厂生活",
+            "在那里接受组织实验",
+            "过去与帕皮卡娜和索尔特是朋友",
+            "保护女儿的愿望形成另一重人格"
+          ],
+          "voice_actors": [
+            {
+              "name": "茅野愛衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mimi",
+            "name_native": "ミミ",
+            "name_alternative": [],
+            "description": "The girl Cocona sees in her dreams. \n~!Mimi is Cocona's mother and former partner of Papikana. She lived her life in the Asclepius factory, being experimented on due to her ability to go to Pure Illusion. During her time in the factory, she was good friends with Papikana and Salt.!~~!Her love and wish to protect her daughter manifested into a split personality. That personality led to her usual caring self being turned into an overprotective mother; who was willing to harm old friends, and even Cocona, to protect her. As such, she is ruthless and nearly unstoppable while her overprotective personality is in control.!~"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 19703,
+      "anime_title": "京骚戏画",
+      "anime_origin": "JP",
+      "source": {
+        "id": 19703,
+        "titles": [
+          "Kyousougiga (TV)",
+          "Kyousougiga",
+          "京騒戯画 (TV)",
+          "Kyousogiga",
+          "Kyousou Giga"
+        ],
+        "year": 2013,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/19703"
+      },
+      "characters": [
+        {
+          "id": 46989,
+          "name": "古都",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46989-6W6ugNA1kMfm.png",
+          "description": "古都是一名看起来冷淡疏离的年轻女孩，内心却喜欢毛绒玩具等可爱物品，并隐藏着许多秘密。她来到镜都后与明惠及兄弟姐妹共同生活，也不断追寻自己来到此地的原因。古都行动力强，拥有不俗的战斗能力，常以直接方式介入镜都居民的生活。随着她逐步接近母亲和家族过往的真相，原本看似任性的冒险也呈现出对亲情与归属的渴望。",
+          "nicknames": [
+            "古都",
+            "Koto",
+            "コト"
+          ],
+          "traits": [
+            "性格显得冷淡疏离",
+            "是一名年轻女孩",
+            "隐藏着许多秘密",
+            "喜欢毛绒玩具等可爱物品",
+            "来到镜都寻找某个对象",
+            "与明惠和兄弟姐妹共同生活",
+            "拥有强大的战斗能力",
+            "是故事的核心人物"
+          ],
+          "voice_actors": [
+            {
+              "name": "釘宮理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Koto",
+            "name_native": "コト",
+            "name_alternative": [],
+            "description": "An indifferent young girl who holds many secrets. Surprisingly, she likes cute things like stuffed animals."
+          }
+        },
+        {
+          "id": 46993,
+          "name": "明惠",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46993-n7UQNg0TRPgn.png",
+          "description": "明惠是一名僧人，负责照看古都和她的双胞胎兄弟姐妹，并与他们共同生活。他看似承担着守护家庭的职责，却也有一位不为人知的恋人，身边还养着名叫犬山先生的狗。明惠与稻荷之间存在父子关系，后来承接了“明惠”这一称号，背后牵涉镜都创建与家族传承的秘密。他的温和照料与身份谜团共同构成故事的重要线索。",
+          "nicknames": [
+            "明惠",
+            "Myoue",
+            "明恵",
+            "薬師丸",
+            "Yakushimaru"
+          ],
+          "traits": [
+            "负责照看古都和双胞胎",
+            "是一名僧人",
+            "与古都兄妹共同生活",
+            "有一位隐藏身份的恋人",
+            "养着一只名叫犬山先生的狗",
+            "是镜都居民中的重要人物",
+            "与稻荷存在父子关系",
+            "承接了“明惠”这一称号"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴村健一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95005-SkoVN02iOglr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Myoue",
+            "name_native": "明恵",
+            "name_alternative": [
+              "薬師丸",
+              "Yakushimaru"
+            ],
+            "description": "A monk who takes care of Koto and her siblings, the twins. He has a secret lover, and a dog called Inuyama-san."
+          }
+        },
+        {
+          "id": 46991,
+          "name": "古都夫人",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46991-UY4OTXQDXbKe.png",
+          "description": "古都夫人是一名神秘而强大的妖怪，寄居在十四岁人类少女古都的体内。她拥有超自然力量，与镜都的形成及家族过往密切相关，也是年轻古都身份秘密的重要部分。她和明惠、稻荷之间存在深厚联系，尽管并非总以清晰形态出现在现实中，却持续影响着镜都的秩序与家人关系。随着故事推进，她的存在逐渐解释古都为何会来到这个世界。",
+          "nicknames": [
+            "古都夫人",
+            "Lady Koto",
+            "レディ江東区",
+            "古都"
+          ],
+          "traits": [
+            "神秘而强大的妖怪",
+            "寄居在十四岁人类少女古都体内",
+            "拥有超自然力量",
+            "与镜都的形成有关",
+            "和明惠及稻荷关系密切",
+            "是年轻古都的母亲",
+            "影响古都的身份秘密",
+            "以不同形态参与故事"
+          ],
+          "voice_actors": [
+            {
+              "name": "久川綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95080-7dOAcrnsSghI.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lady Koto",
+            "name_native": "レディ江東区",
+            "name_alternative": [],
+            "description": "A mysterious and powerful youkai that lives inside the 14-year-old human Koto."
+          }
+        },
+        {
+          "id": 46995,
+          "name": "翔子博士",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46995-LwPci1ek26Fv.png",
+          "description": "翔子博士在鞍马寺工作，负责管理京都居民及相关事务。她容易发火，却为人直率，遇到问题会直接表达意见。伏见是她的下属，负责协助处理工作；两人共同构成镜都行政管理的一部分。翔子博士熟悉居民情况，也会在古都一行人卷入事件时参与协调。她的务实作风与周围角色的奇幻想象形成反差，为故事提供了处理日常事务的视角。",
+          "nicknames": [
+            "翔子博士",
+            "Shouko",
+            "ショーコ 博士",
+            "Professor Shouko",
+            "翔子"
+          ],
+          "traits": [
+            "在鞍马寺工作",
+            "负责管理京都居民",
+            "拥有博士身份",
+            "容易发火",
+            "性格直率",
+            "处理居民相关事务",
+            "和伏见存在上下级关系",
+            "参与镜都的行政管理"
+          ],
+          "voice_actors": [
+            {
+              "name": "斎藤千和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-R8YSAYX7UFCO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shouko",
+            "name_native": "ショーコ 博士",
+            "name_alternative": [
+              "Professor Shouko"
+            ],
+            "description": "A worker of the Kurama Temple. She is in charge of all the residents of Kyoto. Even though she gets angry easily, she is straightforward."
+          }
+        },
+        {
+          "id": 46999,
+          "name": "阿",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46999-N6fF3O2lMnCe.jpg",
+          "description": "阿是跟随古都行动的妖怪双胞胎之一，与另一位双胞胎吽一起生活。阿性格活泼好动，喜欢恶作剧，常给古都一行人的日常带来热闹变化。古都为他取名“阿”，并赋予名字“开始”的寓意。阿虽然外形与身份带有妖怪色彩，却和镜都的居民共同生活，逐渐成为古都身边熟悉的伙伴。",
+          "nicknames": [
+            "阿",
+            "A"
+          ],
+          "traits": [
+            "跟随古都的妖怪双胞胎之一",
+            "性格活泼好动",
+            "经常恶作剧",
+            "名字由古都取下",
+            "名字寓意“开始”",
+            "与吽是双胞胎",
+            "在古都身边行动",
+            "参与镜都日常生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "日高のり子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95181-VZKOK4WN0UuO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "A",
+            "name_native": "阿",
+            "name_alternative": [],
+            "description": "A is one of the yokai twins that follow Koto. He is hyperactive and mischievous.\n~!According to Koto, who named him, the name stands for \"Beginning.\"!~"
+          }
+        },
+        {
+          "id": 47001,
+          "name": "吽",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b47001-SE1iv4IEW7BX.jpg",
+          "description": "吽是跟随古都行动的妖怪双胞胎之一，与阿组成固定搭档。两人由古都取名，并陪伴她参与镜都的日常生活与冒险。与活泼好动的阿相比，吽在现有角色资料中的个性描述较少，但他和双胞胎兄弟共同构成古都身边的重要伙伴。两人的名字还带有佛教咒语中常见的“阿吽”组合意象，为故事增添了传统文化色彩。",
+          "nicknames": [
+            "吽",
+            "Un"
+          ],
+          "traits": [
+            "跟随古都的妖怪双胞胎之一",
+            "是阿的双胞胎伙伴",
+            "与古都一行共同生活",
+            "名字由古都取下",
+            "参与镜都的日常活动",
+            "属于古都身边的妖怪伙伴",
+            "和阿形成双人组合",
+            "出现在镜都居民群体中"
+          ],
+          "voice_actors": [
+            {
+              "name": "白石涼子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95348-sLIy7IMrgZeA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Un",
+            "name_native": "吽",
+            "name_alternative": [],
+            "description": "One of the twins."
+          }
+        },
+        {
+          "id": 88011,
+          "name": "稻荷",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88011-3DqxyVERbOcU.png",
+          "description": "稻荷是古都的亲生父亲，也是鞍马、八濑和药师丸的父亲与老师。他经常戴着狐狸面具，有时即使在家中也不摘下，并随身携带日本刀。稻荷原本是最初的“明惠”，后来离开镜都时把称号交给养子药师丸。关于他的真实身份、亲子关系和离开镜都的原因，构成古都追查家族历史的重要线索。",
+          "nicknames": [
+            "稻荷",
+            "Inari",
+            "稲荷",
+            "The Fox",
+            "Observer"
+          ],
+          "traits": [
+            "古都的亲生父亲",
+            "也是古都兄弟姐妹的父亲",
+            "担任他们的老师",
+            "经常戴着狐狸面具",
+            "随身携带日本刀",
+            "曾是最初的明惠",
+            "离开镜都时把称号交给养子",
+            "与镜都诞生的秘密有关"
+          ],
+          "voice_actors": [
+            {
+              "name": "石田彰",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Inari",
+            "name_native": "稲荷",
+            "name_alternative": [
+              "The Fox",
+              "Observer"
+            ],
+            "description": "Inari is Koto's biological father and teacher, and also the father of Kurama, Yase, and Yakushimaru. He wears a fox mask and carries a katana. He is the original Myoue, but gives his title to his adopted son, Yakushimaru, when he leaves the Looking Glass City.\n\nInari appears younger than when he was Myoue. He has the same red eyes as both Kotos, but wears a Shrine-issued fox mask in public (and sometimes while at home) which conceals this feature."
+          }
+        },
+        {
+          "id": 88014,
+          "name": "伏见",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88014-sky4AcM6hdUJ.jpg",
+          "description": "伏见是翔子博士的下属，性格较为冷淡，但对工作十分认真，即使上司容易发火，他仍然忠诚地执行职责。伏见实际上也属于神社组织，曾向鞍马提供技术，帮助维持镜都的运作。他既是行政事务的协助者，也是神社势力在镜都中的成员，掌握着连接两方组织的重要信息。随着古都逐渐了解镜都的规则，伏见所处的组织关系也成为理解世界真相的一部分。",
+          "nicknames": [
+            "伏见",
+            "Fushimi",
+            "伏見"
+          ],
+          "traits": [
+            "翔子博士的下属",
+            "工作态度认真严肃",
+            "性格较为冷淡",
+            "对直属上司保持忠诚",
+            "实际隶属神社组织",
+            "曾向鞍马提供神社技术",
+            "协助维持镜都运作",
+            "连接行政机构与神社组织"
+          ],
+          "voice_actors": [
+            {
+              "name": "竹本英史",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95576-daJz6YMxGaX6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Fushimi",
+            "name_native": "伏見",
+            "name_alternative": [],
+            "description": "Professor Shouko's underling. Even though he has a dry personality, he is very serious toward his work. And so, he is loyal to even someone like Professor Shouko.\n\n~!He is actually a member of the Shrine organisation. He provided the Shrine technology to Kurama, which helped a lot in maintaining the City Through the Looking Glass.!~"
+          }
+        }
+      ]
+    }
+  ]
+}

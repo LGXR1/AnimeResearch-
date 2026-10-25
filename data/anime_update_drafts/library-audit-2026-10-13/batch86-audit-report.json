@@ -1,0 +1,556 @@
+{
+  "checkedAt": "2026-10-22T07:58:29.670Z",
+  "batchStatus": "reviewed_with_followups",
+  "checkedCount": 100,
+  "checkedIds": [
+    160951,
+    161088,
+    161206,
+    161213,
+    161214,
+    161222,
+    161223,
+    161225,
+    161229,
+    161230,
+    161231,
+    161236,
+    161251,
+    161252,
+    161253,
+    161254,
+    161256,
+    161257,
+    161258,
+    161259,
+    161260,
+    161261,
+    161263,
+    161264,
+    161265,
+    161366,
+    161367,
+    161368,
+    161418,
+    161450,
+    161457,
+    161463,
+    161479,
+    161604,
+    161605,
+    161623,
+    161624,
+    161625,
+    161637,
+    161669,
+    161676,
+    161677,
+    161678,
+    161679,
+    161696,
+    161698,
+    161699,
+    161700,
+    161715,
+    161716,
+    161730,
+    161741,
+    161742,
+    161743,
+    161745,
+    161746,
+    161789,
+    161803,
+    161804,
+    161811,
+    161812,
+    161813,
+    161814,
+    161838,
+    161839,
+    161841,
+    161842,
+    161843,
+    162034,
+    162035,
+    162036,
+    162041,
+    162043,
+    162061,
+    162062,
+    162063,
+    162064,
+    162065,
+    162087,
+    162134,
+    162135,
+    162136,
+    162137,
+    162138,
+    162139,
+    162140,
+    162167,
+    162168,
+    162169,
+    162170,
+    162213,
+    162214,
+    162228,
+    162229,
+    162242,
+    162243,
+    162244,
+    162245,
+    162246,
+    162247
+  ],
+  "checkedRange": {
+    "firstId": 160951,
+    "lastId": 162247
+  },
+  "profileSnapshotVerifiedCount": 25,
+  "profileDescriptionAvailableCount": 19,
+  "modifiedIds": [
+    161229,
+    161230,
+    161231,
+    161236,
+    161637,
+    161696,
+    161698,
+    161699,
+    161700,
+    161730,
+    162213,
+    162214,
+    162242,
+    162243,
+    162244
+  ],
+  "source": {
+    "name": "AniList GraphQL 角色资料快照（本地缓存 + 2026-10-22 实时补查）",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "voiceMediaFetchedAt": "2026-10-13T03:04:01.115Z",
+    "records": [
+      {
+        "id": 160951,
+        "url": "https://anilist.co/character/160951"
+      },
+      {
+        "id": 161214,
+        "url": "https://anilist.co/character/161214"
+      },
+      {
+        "id": 161366,
+        "url": "https://anilist.co/character/161366"
+      },
+      {
+        "id": 161367,
+        "url": "https://anilist.co/character/161367"
+      },
+      {
+        "id": 161368,
+        "url": "https://anilist.co/character/161368"
+      },
+      {
+        "id": 161479,
+        "url": "https://anilist.co/character/161479"
+      },
+      {
+        "id": 161715,
+        "url": "https://anilist.co/character/161715"
+      },
+      {
+        "id": 161716,
+        "url": "https://anilist.co/character/161716"
+      },
+      {
+        "id": 161789,
+        "url": "https://anilist.co/character/161789"
+      },
+      {
+        "id": 161803,
+        "url": "https://anilist.co/character/161803"
+      },
+      {
+        "id": 161804,
+        "url": "https://anilist.co/character/161804"
+      },
+      {
+        "id": 161811,
+        "url": "https://anilist.co/character/161811"
+      },
+      {
+        "id": 161812,
+        "url": "https://anilist.co/character/161812"
+      },
+      {
+        "id": 161813,
+        "url": "https://anilist.co/character/161813"
+      },
+      {
+        "id": 161814,
+        "url": "https://anilist.co/character/161814"
+      },
+      {
+        "id": 161843,
+        "url": "https://anilist.co/character/161843"
+      },
+      {
+        "id": 162041,
+        "url": "https://anilist.co/character/162041"
+      },
+      {
+        "id": 162043,
+        "url": "https://anilist.co/character/162043"
+      },
+      {
+        "id": 162134,
+        "url": "https://anilist.co/character/162134"
+      },
+      {
+        "id": 162135,
+        "url": "https://anilist.co/character/162135"
+      },
+      {
+        "id": 162136,
+        "url": "https://anilist.co/character/162136"
+      },
+      {
+        "id": 162137,
+        "url": "https://anilist.co/character/162137"
+      },
+      {
+        "id": 162138,
+        "url": "https://anilist.co/character/162138"
+      },
+      {
+        "id": 162139,
+        "url": "https://anilist.co/character/162139"
+      },
+      {
+        "id": 162140,
+        "url": "https://anilist.co/character/162140"
+      }
+    ],
+    "round23FetchedAt": "2026-10-22T08:12:12.134Z",
+    "voiceMediaRound23": "2026-10-22T08:13:37.394Z",
+    "voiceStaffSearchRound23B": "2026-10-22T08:42:40.218Z"
+  },
+  "pendingExternalVerificationIds": [],
+  "pendingProfileNoDescriptionIds": [
+    160951,
+    161206,
+    161214,
+    161225,
+    161236,
+    161366,
+    161368,
+    161605,
+    161624,
+    161625,
+    161715,
+    161716,
+    161838,
+    161839,
+    161841,
+    162167,
+    162168,
+    162169,
+    162170
+  ],
+  "pendingShortDescriptionIds": [
+    161637,
+    161696,
+    161698,
+    161699,
+    161700,
+    162213,
+    162214,
+    162242,
+    162243,
+    162244
+  ],
+  "pendingDescriptionQualityIds": [
+    161206,
+    162034,
+    162035,
+    162036,
+    162243,
+    162244
+  ],
+  "pendingTraitVerificationIds": [
+    161206,
+    162034,
+    162035,
+    162036
+  ],
+  "pendingExactGenericTraitIds": [
+    161206,
+    161637,
+    161696,
+    161698,
+    161699,
+    161700,
+    161730,
+    162034,
+    162035,
+    162036,
+    162242,
+    162243,
+    162244
+  ],
+  "pendingVoiceActorIds": [
+    161625
+  ],
+  "pendingVoiceActorImageIds": [],
+  "pendingVisualVerificationIds": [
+    161231,
+    161236
+  ],
+  "pendingColorTraitKeywordIds": [
+    161231,
+    161236
+  ],
+  "pendingImageMismatchIds": [],
+  "localFollowup": {
+    "nicknameIssuesResolved": [
+      161229,
+      161230,
+      161231,
+      161236,
+      161637,
+      161696,
+      161698,
+      161699,
+      161700,
+      161730,
+      162213,
+      162214,
+      162242,
+      162243,
+      162244
+    ],
+    "voiceActorImagesRepaired": [],
+    "characterImagesRefreshed": [],
+    "factualCorrections": [],
+    "searchIndex": {
+      "rebuilt": true,
+      "formulaVerified": true,
+      "descriptionExcluded": true,
+      "mismatchCountBeforeRebuild": 15
+    },
+    "localExportsRegenerated": true,
+    "nicknameAudit": {
+      "checkedCount": 100,
+      "duplicateCountAfter": 0,
+      "canonicalAniListNameMissingAfter": 0
+    },
+    "anilistProfilesRefetched": [
+      160951,
+      161214,
+      161366,
+      161367,
+      161368,
+      161479,
+      161715,
+      161716,
+      161789,
+      161803,
+      161804,
+      161811,
+      161812,
+      161813,
+      161814,
+      161843,
+      162041,
+      162043,
+      162134,
+      162135,
+      162136,
+      162137,
+      162138,
+      162139,
+      162140
+    ],
+    "anilistDescriptionsAvailable": [
+      161367,
+      161479,
+      161789,
+      161803,
+      161804,
+      161811,
+      161812,
+      161813,
+      161814,
+      161843,
+      162041,
+      162043,
+      162134,
+      162135,
+      162136,
+      162137,
+      162138,
+      162139,
+      162140
+    ],
+    "officialAliasesAdded": [],
+    "officialCharacterImagesRefreshed": [],
+    "searchIndexRebuiltForProfileChanges": [],
+    "voiceActorImagesFetchedRound23": [],
+    "voiceActorImagesFetchedAt": "2026-10-22T08:13:37.394Z",
+    "visualImageAuditRound23": {
+      "checkedAt": "2026-10-22T08:32:24.195Z",
+      "source": "逐张检查 AniList 官方角色头像；图片与角色链接见 visual-audit-round23/manifest.json",
+      "reviewedIds": [
+        161229,
+        161230,
+        161231,
+        161236,
+        161252,
+        161604,
+        161696,
+        161698,
+        161699,
+        161700,
+        161730,
+        162213,
+        162214,
+        162242,
+        162243,
+        162244
+      ],
+      "colorCorrections": [
+        {
+          "id": 161229,
+          "name": "中见丸太",
+          "anime": "放学后失眠的你",
+          "beforeColorTraits": [
+            "黑发",
+            "棕色眼瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161229-pdxEqMtNRlPI.png"
+        },
+        {
+          "id": 161230,
+          "name": "曲伊咲",
+          "anime": "放学后失眠的你",
+          "beforeColorTraits": [
+            "棕发",
+            "棕色眼瞳"
+          ],
+          "afterColorTraits": [
+            "黑发",
+            "金瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161230-KUMSejEwkCoD.png"
+        },
+        {
+          "id": 161698,
+          "name": "梅诺",
+          "anime": "处刑少女的生存之道",
+          "beforeColorTraits": [
+            "黑发",
+            "蓝瞳"
+          ],
+          "afterColorTraits": [
+            "白发",
+            "红瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161698-EENPlUHgwebK.png"
+        },
+        {
+          "id": 161730,
+          "name": "九·阿尔法",
+          "anime": "DARLING in the FRANXX",
+          "beforeColorTraits": [
+            "银发",
+            "蓝眼"
+          ],
+          "afterColorTraits": [
+            "金发",
+            "绿瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161730-rtTfEXIFgPh8.jpg"
+        },
+        {
+          "id": 162213,
+          "name": "蜂乐回",
+          "anime": "蓝色监狱",
+          "beforeColorTraits": [
+            "金发",
+            "金瞳"
+          ],
+          "afterColorTraits": [
+            "黑发",
+            "金瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162213-4czykzdxmWG6.png"
+        },
+        {
+          "id": 162242,
+          "name": "缀里",
+          "anime": "独自一人的异世界攻略",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162242-qWxrGNXXG25O.jpg"
+        },
+        {
+          "id": 162244,
+          "name": "遥",
+          "anime": "独自一人的异世界攻略",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162244-MfLGTdYApUqW.png"
+        }
+      ],
+      "pendingIds": [
+        161231,
+        161236
+      ]
+    },
+    "factualCorrectionsRound23": [],
+    "voiceActorImagesResolvedFromAniListStaffRound23B": [],
+    "voiceActorStaffSearchRound23B": "2026-10-22T08:42:40.218Z",
+    "supabaseSyncRound23B": {
+      "verifiedAt": "2026-10-22T09:08:41.830Z",
+      "voiceActorImagesSynced": 0,
+      "characterIdsSynced": [],
+      "placeholderVoiceActorRemoved": false
+    }
+  },
+  "note": "角色图像已逐张目视复核；可辨认的颜色错误已修正，图片无法确认的记录继续待核。",
+  "scopeLimitations": [
+    "发色、瞳色没有逐图目视核验。",
+    "短简介、模板简介和泛化特征在缺少可靠事实来源时未改写。",
+    "本次只更新本地文件；Supabase 未同步，远端数据未回读。",
+    "AniList 实时接口仅未返回合成占位 ID 990000001；该记录继续标为待核。",
+    "AniList 未提供简介的角色仍需其他可靠人物资料来源；未根据作品简介推造人物传记。"
+  ],
+  "databaseSync": {
+    "syncedAt": null,
+    "syncedCount": 0,
+    "readbackVerified": false,
+    "status": "not_synced"
+  },
+  "syncAttempt": {
+    "attemptedThisTurn": false,
+    "reason": "本轮仅处理本地缓存与导出，没有向 Supabase 发起写入。"
+  }
+}

@@ -1,0 +1,1480 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:43:05.868Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 140502,
+      "anime_title": "白领羽球部",
+      "anime_origin": "JP",
+      "source": {
+        "id": 140502,
+        "titles": [
+          "Ryman's Club",
+          "Salaryman's Club",
+          "リーマンズクラブ"
+        ],
+        "year": 2022,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/140502"
+      },
+      "characters": [
+        {
+          "id": 252890,
+          "name": "白鸟尊",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252890-LVUHM8cey9xh.png",
+          "description": "白鸟尊是Sunlight Beverage羽毛球部的新成员，也是公司新入职的年轻销售员。他在队内司职双打前场，与队长宫澄建组成搭档，主要负责调度战术和捕捉比赛机会。尊在高中时期便接受过系统的羽毛球训练，曾与立花梓马搭档，因此对双打配合和场上预判有自己的理解。进入社会人球队后，他一边适应销售工作，一边重新面对竞技比赛带来的压力与挑战。",
+          "nicknames": [
+            "白鸟尊",
+            "Mikoto Shiratori",
+            "白鳥尊",
+            "白鸟"
+          ],
+          "traits": [
+            "Sunlight Beverage羽毛球部新成员",
+            "公司最新入职的年轻销售员",
+            "企业羽毛球队前场球员",
+            "与宫澄建搭档双打",
+            "负责双打战术安排",
+            "高中时期曾是羽球选手",
+            "曾与立花梓马组成搭档",
+            "以预判和战术意识见长"
+          ],
+          "voice_actors": [
+            {
+              "name": "榎木淳弥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mikoto Shiratori",
+            "name_native": "白鳥尊",
+            "name_alternative": [],
+            "description": "Mikoto Shiratori is the newest member of Sunlight Beverage's corporate badminton team as well as its newest and youngest salesman. He is the tactician and front player of the doubles pair consisting of himself and Tatsuru Miyazumi."
+          }
+        },
+        {
+          "id": 252891,
+          "name": "佐伯苍汰",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252891-6dtQgwb4AT7w.png",
+          "description": "佐伯苍汰是Sunlight Beverage的职员，也是公司羽毛球队的单打选手。他大多数时候表现得沉着冷静，在比赛中承担与双打阵容不同的单打任务。苍汰是佐伯橙也的哥哥，两人都在Sunlight Beverage工作，却分别走上不同岗位和比赛路线。作为队伍的重要成员，他的发挥会影响团队整体战绩，也让兄弟之间的相处与竞争成为作品职场生活的一部分。",
+          "nicknames": [
+            "佐伯苍汰",
+            "Souta Saeki",
+            "佐伯蒼汰",
+            "苍汰"
+          ],
+          "traits": [
+            "Sunlight Beverage职员",
+            "公司羽毛球队成员",
+            "主项为单打",
+            "性格沉着冷静",
+            "是佐伯橙也的哥哥",
+            "与弟弟同在公司任职",
+            "以稳定状态参加比赛",
+            "在队伍中承担单打任务"
+          ],
+          "voice_actors": [
+            {
+              "name": "石川界人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Souta Saeki",
+            "name_native": "佐伯蒼汰",
+            "name_alternative": [],
+            "description": "Souta Sakei is an employee and badminton player for Sunlight Beverage.\n\nSouta is a singles player and comes across very calm and level-headed most of the time. He is Touya's older brother."
+          }
+        },
+        {
+          "id": 252892,
+          "name": "佐伯橙也",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252892-fhZdV4KjN2ti.png",
+          "description": "佐伯橙也是Sunlight Beverage企划部门的职员，同时参加公司的羽毛球队，主要负责双打。他与竹田浩辉组成搭档，是单打选手佐伯苍汰的弟弟。橙也曾在高中时期与白鸟尊成为队友，因此熟悉尊的击球习惯和预判能力；当尊加入Sunlight Beverage后，这段旧日经历也影响着队内磨合。橙也需要在企划工作、兄弟关系和竞技比赛之间寻找平衡。",
+          "nicknames": [
+            "佐伯橙也",
+            "Touya Saeki",
+            "橙也"
+          ],
+          "traits": [
+            "Sunlight Beverage职员",
+            "在公司企划部门工作",
+            "企业羽毛球队成员",
+            "主要参加双打比赛",
+            "与竹田浩辉搭档",
+            "是佐伯苍汰的弟弟",
+            "高中时与白鸟尊同队",
+            "熟悉白鸟尊的打法和预判"
+          ],
+          "voice_actors": [
+            {
+              "name": "逢坂良太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110743-k2SgQwU0JD33.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Touya Saeki",
+            "name_native": "佐伯橙也",
+            "name_alternative": [],
+            "description": "Touya Saeki  is an employee and badminton player for Sunlight Beverage.\n\nTouya works in the planning department at Sunlight Beverage and plays doubles on their corporate badminton team. He is a doubles pair with Kouki Takeda and he is Souta's younger brother. He was a teammate of Mikoto Shiratori in high school and therefore is well-versed in Mikoto's playing style and foresight when Mikoto first joins the team."
+          }
+        },
+        {
+          "id": 252893,
+          "name": "竹田浩辉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252893-qToYDUJDKWzE.png",
+          "description": "竹田浩辉在Sunlight Beverage销售部门工作，也参加公司的企业羽毛球队。他主要打双打，与佐伯橙也组成固定搭档；白鸟尊和宫澄建也与他在销售部门共事。浩辉擅长与人沟通，平时性格活泼，常用玩笑带动气氛，但进入正式比赛后容易被紧张情绪影响。工作中的交际能力与赛场上的心理压力形成反差，是他在球队日常和比赛中需要面对的课题。",
+          "nicknames": [
+            "竹田浩辉",
+            "Kouki Takeda",
+            "竹田浩輝",
+            "浩辉"
+          ],
+          "traits": [
+            "Sunlight Beverage销售部职员",
+            "企业羽毛球队成员",
+            "主要参加双打比赛",
+            "与佐伯橙也搭档",
+            "和白鸟尊同在销售部门",
+            "善于与队友沟通",
+            "性格开朗且爱开玩笑",
+            "正式比赛时容易紧张"
+          ],
+          "voice_actors": [
+            {
+              "name": "柿原徹也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95167-wjIShzThRTlS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kouki Takeda",
+            "name_native": "竹田浩輝",
+            "name_alternative": [],
+            "description": "Kouki Takeda is an employee and badminton player for Sunlight Beverage.\n\nKouki works in the sales department at Sunlight Beverage with Tatsuru Miyazumi and Mikoto Shiratori, and plays badminton with them. His doubles partner is Touya Saeki. Kouki is a good communicator and has a silly personality, but often lets his nerves get the better of him during actual matches."
+          }
+        },
+        {
+          "id": 252894,
+          "name": "宫澄建",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252894-ynD2XFZ50Ld3.png",
+          "description": "宫澄建是Sunlight Beverage销售部职员，也是公司羽毛球队的队长。他在双打中通常负责后场，以力量型打法进攻，并承担后场防守任务；加入球队的白鸟尊则与他搭档，负责前场战术。宫澄既要完成销售工作，也要协调队员训练和比赛安排。身为队长，他需要将个人经验转化为团队配合，在职场职责与竞技目标之间带领队伍前进。",
+          "nicknames": [
+            "宫澄建",
+            "Tatsuru Miyazumi",
+            "宮澄建",
+            "宫澄"
+          ],
+          "traits": [
+            "Sunlight Beverage销售部职员",
+            "企业羽毛球队队长",
+            "在双打中担任后场",
+            "与白鸟尊组成搭档",
+            "擅长力量型进攻",
+            "负责后场防守",
+            "和竹田浩辉在同部门工作",
+            "统筹队伍训练与比赛"
+          ],
+          "voice_actors": [
+            {
+              "name": "三木眞一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Tatsuru Miyazumi",
+            "name_native": "宮澄建",
+            "name_alternative": [],
+            "description": "Tatsuru Miyazumi is an employee of Sunlight Beverage. He works in the Sales Department and is also the captain of their corporate badminton team. As [Mikoto Shiratori](https://anilist.co/character/252890/Shiratori-Mikoto)'s doubles partner, he usually handles power plays and defence from his position in the back court."
+          }
+        },
+        {
+          "id": 262588,
+          "name": "大野安臣",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262588-9rmb1w0Bkiw7.jpg",
+          "description": "大野安臣担任Sunlight Beverage羽毛球队总经理，并兼任队伍教练。他经常戴着太阳镜，嗓门洪亮，性格固执而强势，给人的第一印象颇具压迫感；熟悉他的人则知道，大野比表面看起来更精明，也会认真观察队员的状态。他负责训练与球队管理，是队员在工作和比赛中可以依靠的教练。面对年轻成员的适应问题，他会用直接的方式推动队伍成长。",
+          "nicknames": [
+            "大野安臣",
+            "Yasuomi Ono",
+            "大野"
+          ],
+          "traits": [
+            "Sunlight Beverage羽毛球部总经理",
+            "同时担任球队教练",
+            "经常戴着太阳镜",
+            "说话声音洪亮",
+            "性格固执强势",
+            "善于观察队员情况",
+            "比外表看起来更精明",
+            "受到队员信任"
+          ],
+          "voice_actors": [
+            {
+              "name": "黒田崇矢",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96122-mE58m4OYsIeQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yasuomi Ono",
+            "name_native": "大野安臣",
+            "name_alternative": [],
+            "description": "Yasuomi Ono is the general manager at Sunlight Beverage, and he is also the badminton coach.\n\nYasuomi always wears his sunglasses. He is loud and stubborn and a force to be reckoned with. He is smarter than he appears and is a trusted coach."
+          }
+        },
+        {
+          "id": 263427,
+          "name": "荻野目大树",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263427-IHjuuCJLgOKT.jpg",
+          "description": "荻野目大树是Unisics羽毛球队的双打选手，代表公司参加社会人羽毛球赛事。他与儿时玩伴雾岛隼人搭档，两人长期相识，能够依靠彼此熟悉的节奏完成双打配合。面对其他企业球队时，大树需要兼顾个人技术与搭档协作；他和隼人的比赛也展示了Unisics的竞争实力。作为球队成员，他的表现与队友之间的默契共同决定双打局面的走向。",
+          "nicknames": [
+            "荻野目大树",
+            "Daiki Oginome",
+            "荻野目大樹",
+            "荻野目"
+          ],
+          "traits": [
+            "Unisics羽毛球选手",
+            "代表Unisics参加企业赛事",
+            "主要参加双打比赛",
+            "与雾岛隼人组成搭档",
+            "和雾岛隼人是儿时玩伴",
+            "熟悉搭档的比赛习惯",
+            "与社会人羽球强队竞争",
+            "关注双打配合与轮转"
+          ],
+          "voice_actors": [
+            {
+              "name": "小野友樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96154-B8GAO9wm1Fbd.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Daiki Oginome",
+            "name_native": "荻野目大樹",
+            "name_alternative": [],
+            "description": "Daiki Oginome is a badminton player for Unisics.\n\nDaiki plays doubles for Unisics and he is paired with his chidlhood friend, Hayato Kirishima."
+          }
+        },
+        {
+          "id": 263428,
+          "name": "雾岛隼人",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263428-OsFjYml7i0hx.png",
+          "description": "雾岛隼人是Unisics羽毛球队的双打选手，与儿时玩伴荻野目大树组成搭档。他的双打实力位居世界第二，仅次于弟弟雾岛琢磨，因此无论在赛场还是球队内部都备受关注。隼人不仅以羽毛球技术闻名，也因外貌出众而拥有不少人气。与大树共同比赛时，他需要将个人实力与长期积累的默契结合，在强手云集的企业赛事中争取胜利。",
+          "nicknames": [
+            "雾岛隼人",
+            "Hayato Kirishima",
+            "霧島隼人",
+            "隼人"
+          ],
+          "traits": [
+            "Unisics羽毛球队选手",
+            "与荻野目大树搭档双打",
+            "是荻野目大树的儿时玩伴",
+            "世界排名第二的双打选手",
+            "弟弟是雾岛琢磨",
+            "竞技水平受到关注",
+            "也因外貌而颇受欢迎",
+            "在强队中承担核心双打任务"
+          ],
+          "voice_actors": [
+            {
+              "name": "福山潤",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hayato Kirishima",
+            "name_native": "霧島隼人",
+            "name_alternative": [],
+            "description": "Hayato Kirishima is a badminton player for Unisics.\n\nHayato plays badminton for Unisics. He is paired with his childhood friend, Daiki Oginome. Hayato is currently ranked the number two doubles player in the world, second only to his younger brother, Takuma Kirishima. He is very popular and known not only for his skill in badminton but also his good looks."
+          }
+        },
+        {
+          "id": 263429,
+          "name": "美空绫人",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263429-WW47KCcheqbP.png",
+          "description": "美空绫人是Unisics羽毛球队的年轻选手，曾在上一年度的全国高中个人羽毛球赛事中夺冠。他凭借出色表现，在十七岁时便被Unisics招募，提前进入企业队环境。绫人性格兴奋外向，言行响亮，与沉稳的老队员形成鲜明对照。离开高中赛场后，他需要适应更成熟的对手和企业队训练节奏，并在新的团队中继续证明自己的能力。",
+          "nicknames": [
+            "美空绫人",
+            "Ayato Misora",
+            "美空綾人",
+            "绫人"
+          ],
+          "traits": [
+            "Unisics羽毛球队选手",
+            "曾参加高中羽毛球赛事",
+            "上一年度获全国高中个人赛冠军",
+            "年仅十七岁便获企业队招募",
+            "拥有出众的羽毛球实力",
+            "性格兴奋外向",
+            "说话声音响亮",
+            "是队内年轻的竞技选手"
+          ],
+          "voice_actors": [
+            {
+              "name": "村瀬歩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ayato Misora",
+            "name_native": "美空綾人",
+            "name_alternative": [],
+            "description": "Ayato Misora is a badminton player for Unisics.\n\nAyato won the individual championship at the previous year's Inter-High School Tournament and was recruited to join Unisics at only age 17. He is very excitable and loud."
+          }
+        },
+        {
+          "id": 264663,
+          "name": "立花梓马",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264663-fYldDkltQKj2.png",
+          "description": "立花梓马是Tomari运输的职员与羽毛球选手，主要参加双打，并与外崎士龙搭档。他从初中到高中都曾与白鸟尊组成双打组合，长期站在这位被称作天才的选手身边。梓马在过去一度因为尊的声望而感到自己不够出色，这段经历影响了他看待比赛与搭档关系的方式。进入社会人球队后，他继续投入羽毛球训练，也必须面对昔日伙伴重新相遇带来的复杂心情。",
+          "nicknames": [
+            "立花梓马",
+            "Azuma Tachibana",
+            "立花梓馬",
+            "梓马"
+          ],
+          "traits": [
+            "Tomari运输羽毛球选手",
+            "主要参加双打比赛",
+            "与外崎士龙组成搭档",
+            "曾与白鸟尊打过双打",
+            "和尊从初中起就是搭档",
+            "高中时期也与尊共同比赛",
+            "曾因搭档光环而感到自卑",
+            "进入企业队继续参加赛事"
+          ],
+          "voice_actors": [
+            {
+              "name": "八代拓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119833-6CySrXDVAZ2X.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Azuma Tachibana",
+            "name_native": "立花梓馬",
+            "name_alternative": [],
+            "description": "Azuma Tachibana is an employee and badminton player for Tomari Transport.\n\nAzuma plays doubles for Tomari Transport and he is currently paired with Shiryuu Tonozaki. He played badminton as a doubles team with Mikoto Shiratori in both junior high school and high school, but at the time he felt somewhat inferior being paired with someone who was considered a prodigy."
+          }
+        },
+        {
+          "id": 264664,
+          "name": "外崎士龙",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264664-LyGWz5R9hs8z.png",
+          "description": "外崎士龙是Tomari运输羽毛球队的双打选手，与立花梓马组成搭档，代表企业参加社会人赛事。双打比赛需要队员及时补位并相互支援，士龙在队伍中的任务也与梓马的场上分工紧密相关。Tomari运输要面对Sunlight Beverage、Unisics等实力队伍，他和梓马必须通过训练建立稳定配合。士龙虽没有太多独立背景资料，但其所属球队、比赛项目和搭档关系均有明确记录。",
+          "nicknames": [
+            "外崎士龙",
+            "Shiryuu Tonozaki",
+            "外崎士龍",
+            "士龙"
+          ],
+          "traits": [
+            "Tomari运输羽毛球选手",
+            "主要参加双打比赛",
+            "与立花梓马组成搭档",
+            "所属企业队参加社会人赛事",
+            "重视双打中的搭档配合",
+            "与其他企业队伍交手",
+            "球队位置为双打选手",
+            "参与Tomari运输的羽球竞争"
+          ],
+          "voice_actors": [
+            {
+              "name": "濱野大輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120263-v4Hq7oOv7act.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shiryuu Tonozaki",
+            "name_native": "外崎士龍",
+            "name_alternative": [],
+            "description": "Shiryuu Tonozaki is a badminton player for Tomari Transport.\n\nShiryuu plays doubles for Tomari Transport with Azuma Tachibana."
+          }
+        },
+        {
+          "id": 264665,
+          "name": "郷仓虎彻",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264665-SiJLgqOJS2fD.jpg",
+          "description": "郷仓虎彻是Tomari运输羽毛球队的双打选手，目前与猿桥佑慧搭档，过去也曾与外崎士龙组成组合。他性格十分安静，平时几乎不主动说话，因此队友很少听到他表达意见。虎彻代表公司参加企业羽毛球赛事，在双打中需要通过站位和行动与搭档沟通。对他而言，沉默并不意味着缺席比赛，稳定完成自己的场上职责同样是团队配合的一部分。",
+          "nicknames": [
+            "郷仓虎彻",
+            "Kotetsu Goukura",
+            "郷倉虎徹",
+            "乡仓虎彻",
+            "虎彻"
+          ],
+          "traits": [
+            "Tomari运输羽毛球队选手",
+            "参加企业羽毛球赛事",
+            "主要负责双打比赛",
+            "与猿桥佑慧组成搭档",
+            "曾和外崎士龙组成搭档",
+            "性格极为安静",
+            "很少主动开口说话",
+            "在场上以双打配合为主"
+          ],
+          "voice_actors": [
+            {
+              "name": "杉田智和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kotetsu Goukura",
+            "name_native": "郷倉虎徹",
+            "name_alternative": [],
+            "description": "Kotetsu Goukura is a badminton player for Tomari Transport.\n\nKotetsu plays doubles for Tomari Transport with Yuukei Saruhashi. He was previously paired with Shiryuu Tonozaki before Azuma Tachibana joined the team. He is very very quiet and it is rare to hear him speak."
+          }
+        },
+        {
+          "id": 264666,
+          "name": "猿桥佑慧",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264666-beUV57eX6WlE.jpg",
+          "description": "猿桥佑慧是Tomari运输羽毛球队的双打选手，与性格沉默的郷仓虎彻搭档参加企业赛事。两人必须通过移动、站位和击球选择建立配合，在比赛中弥补沟通方式的差异。佑慧所属的Tomari运输需要与其他企业球队竞争，他和虎彻的组合也是队伍双打阵容的一部分。关于佑慧的个人经历资料较少，因此这里仅保留AniList明确记载的球队、项目及搭档信息，不补写未经核实的背景。",
+          "nicknames": [
+            "猿桥佑慧",
+            "Yuukei Saruhashi",
+            "猿橋佑慧",
+            "猿桥"
+          ],
+          "traits": [
+            "Tomari运输羽毛球队选手",
+            "参加企业羽毛球赛事",
+            "主要参加双打项目",
+            "与郷仓虎彻组成搭档",
+            "负责双打中的协同配合",
+            "和不同企业队伍交手",
+            "属于Tomari运输阵容",
+            "通过比赛争取团队成绩"
+          ],
+          "voice_actors": [
+            {
+              "name": "岡本信彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuukei Saruhashi",
+            "name_native": "猿橋佑慧",
+            "name_alternative": [],
+            "description": "Yuukei Saruhashi is a badminton player for Tomari Transport.\n\nYuukei plays doubles for Tomari Transport with Kotetsu Goukura."
+          }
+        },
+        {
+          "id": 266336,
+          "name": "碓山彻",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266336-IRoN9cpMXz3F.jpg",
+          "description": "碓山彻在Sunlight Beverage品质保证部门工作，是佐伯苍汰的直属上司。他性格认真严肃、要求严格，常因宫澄建在销售工作中的冒进决定而提醒对方注意分寸。碓山过去也打过羽毛球，如今已经不再参赛；这段经历让他能够理解公司球员兼顾工作与训练的处境。他主要以职场前辈的身份参与故事，为Sunlight Beverage队员的办公室生活增添了另一条日常线索。",
+          "nicknames": [
+            "碓山彻",
+            "Toworu Usuyama",
+            "碓山トヲル",
+            "Toru",
+            "碓山"
+          ],
+          "traits": [
+            "Sunlight Beverage品质保证部门职员",
+            "佐伯苍汰的直属上司",
+            "会提醒宫澄建谨慎处理销售",
+            "性格认真严肃",
+            "做事要求严格",
+            "过去曾练习羽毛球",
+            "目前已不再参加羽毛球比赛",
+            "关注公司职员的工作表现"
+          ],
+          "voice_actors": [
+            {
+              "name": "前野智昭",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96489-xTzYxgdC9g9l.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Toworu Usuyama",
+            "name_native": "碓山トヲル",
+            "name_alternative": [
+              "Toru"
+            ],
+            "description": "He is an employee at Sunlight Beverage.\n\nUsuyama is an employee for the Quality Insurance Department at Sunlight Beverage. He is the direct boss of [Souta Saeki](https://anilist.co/character/252891/Saeki-Souta) and regularly has to reprimand [Tatsuru Miyazumi](https://anilist.co/character/252894/Miyazumi-Tatsuru) for reckless sales decisions. He is a very serious and strict person.\n\nHe used to play badminton but no longer does."
+          }
+        },
+        {
+          "id": 270184,
+          "name": "仲邑周平",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270184-Co6vZnvD7E8M.jpg",
+          "description": "仲邑周平是三叶银行羽毛球队的双打选手，与泷本千空组成固定搭档，代表银行参加社会人赛事。他的比赛项目要求两名队员在进攻和防守之间互相补位，也需要根据对手的站位调整击球选择。周平所属的三叶银行队会与其他企业球队交锋，双打组合的发挥关系到队伍整体成绩。现有公开资料主要记录他的球队和搭档信息，因此介绍集中于可确认的竞技身份。",
+          "nicknames": [
+            "仲邑周平",
+            "Shuuhei Nakamura",
+            "周平"
+          ],
+          "traits": [
+            "三叶银行羽毛球选手",
+            "代表三叶银行参加企业赛",
+            "主要参加双打比赛",
+            "与泷本千空组成搭档",
+            "所属球队为银行企业队",
+            "需要与同伴进行双打配合",
+            "参加社会人羽毛球赛事",
+            "是三叶银行队伍成员"
+          ],
+          "voice_actors": [
+            {
+              "name": "堀江瞬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119869-mUUrORIQBlnB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shuuhei Nakamura",
+            "name_native": "仲邑周平",
+            "name_alternative": [],
+            "description": "Shuuhei Nakamura is a badminton player for Mitsuhoshi Banking.\n\nShuuhei plays doubles for Mitsuhoshi Banking with Chiaki Takimoto."
+          }
+        },
+        {
+          "id": 270185,
+          "name": "泷本千空",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270185-nGAYJI0Bz2HP.jpg",
+          "description": "泷本千空是三叶银行羽毛球队的双打选手，与仲邑周平搭档参加企业间的社会人赛事。双打比赛中，他需要与搭档共享场地、轮流压迫对手，并及时完成后场与前场的衔接。千空代表银行队投入训练和比赛，是三叶银行羽毛球阵容的一员。现有角色资料没有提供更多个人背景，因此这里以能够确认的球队归属、比赛项目和搭档关系为准。",
+          "nicknames": [
+            "泷本千空",
+            "Chiaki Takimoto",
+            "瀧本千空",
+            "千空"
+          ],
+          "traits": [
+            "三叶银行羽毛球选手",
+            "代表三叶银行参加企业赛",
+            "主要参加双打比赛",
+            "与仲邑周平组成搭档",
+            "所属球队为银行企业队",
+            "需要与同伴进行双打配合",
+            "参加社会人羽毛球赛事",
+            "是三叶银行阵容的一员"
+          ],
+          "voice_actors": [
+            {
+              "name": "白井悠介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114641-sFxCz9z3KQC9.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chiaki Takimoto",
+            "name_native": "瀧本千空",
+            "name_alternative": [],
+            "description": "Chiaki Takimoto is a badminton player for Mitsuhoshi Banking.\n\nChiaki is a doubles player for Mitsuhoshi Banking with Shuuhei Nakamura."
+          }
+        },
+        {
+          "id": 270186,
+          "name": "雾岛琢磨",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270186-vuyWG6e9XO5W.png",
+          "description": "雾岛琢磨是三叶银行羽毛球队的双打选手，与出云尚弘搭档，并拥有世界第一双打选手的排名。他的哥哥雾岛隼人排名世界第二，两兄弟因此成为羽毛球界备受关注的强手。琢磨代表企业队参加高水平赛事，在双打组合中承担核心竞技任务。与哥哥不同的队友搭配也让他展现出成熟的场上能力，比赛结果常被视作衡量顶级组合实力的重要参考。",
+          "nicknames": [
+            "雾岛琢磨",
+            "Takuma Kirishima",
+            "霧島琢磨",
+            "琢磨"
+          ],
+          "traits": [
+            "三叶银行羽毛球队选手",
+            "与出云尚弘搭档双打",
+            "世界排名第一的双打选手",
+            "是雾岛隼人的弟弟",
+            "实力位居世界顶尖",
+            "代表企业队参加比赛",
+            "在组合中承担核心竞技任务",
+            "兄弟二人分列双打排名前二"
+          ],
+          "voice_actors": [
+            {
+              "name": "内田雄馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takuma Kirishima",
+            "name_native": "霧島琢磨",
+            "name_alternative": [],
+            "description": "Takuma Kirishima is a badminton player for Mitsuhoshi Banking.\n\nTakuma plays doubles for Mitsuhoshi Banking with Naohiro Izumo. He is currently the number one doubles player in the world. His brother, Hayato Kirishima, is ranked second."
+          }
+        },
+        {
+          "id": 270187,
+          "name": "伊吹泉太郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270187-qfGLdorQZVdu.png",
+          "description": "伊吹泉太郎是三叶银行羽毛球队的单打选手，目前位居世界单打排名第一。他代表企业队参加社会人赛事，在单打项目中承担三叶银行的核心竞技任务。与双打组合需要协调两人不同，泉太郎必须独立应对对手的节奏变化和体能消耗。作为世界顶尖选手，他的比赛水平受到其他球队关注，也为三叶银行在企业联赛中的整体竞争力提供重要支撑。",
+          "nicknames": [
+            "伊吹泉太郎",
+            "Sentarou Ibuki",
+            "泉太郎"
+          ],
+          "traits": [
+            "三叶银行羽毛球队选手",
+            "主项为单打",
+            "世界排名第一的单打选手",
+            "代表企业队参加比赛",
+            "在单打项目中承担核心位置",
+            "以顶尖竞技水平受到关注",
+            "参加社会人羽毛球赛事",
+            "是三叶银行的主力选手"
+          ],
+          "voice_actors": [
+            {
+              "name": "置鮎龍太郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95177-6SiaUTf3CLkN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sentarou Ibuki",
+            "name_native": "伊吹泉太郎",
+            "name_alternative": [],
+            "description": "Sentarou Ibuki is a badminton player for Mitsuhoshi Banking.\n\nSentarou is a singles badminton player for Mitsuhoshi Banking and currently ranked the number one singles player in the world."
+          }
+        },
+        {
+          "id": 270188,
+          "name": "出云尚弘",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270188-48EZzSZW8M4s.png",
+          "description": "出云尚弘是三叶银行羽毛球队的双打选手，与世界排名第一的雾岛琢磨搭档。加入三叶银行以前，他曾效力Sunlight Beverage，并与宫澄建组成组合；后来接受招募转队，开始与新的搭档参加企业赛事。出云拥有在不同企业队伍比赛的经历，能够理解球队更替对配合方式的影响。如今他需要与琢磨建立稳定默契，共同应对强劲对手。",
+          "nicknames": [
+            "出云尚弘",
+            "Naohiro Izumo",
+            "出雲尚弘",
+            "尚弘"
+          ],
+          "traits": [
+            "三叶银行羽毛球队选手",
+            "与雾岛琢磨搭档双打",
+            "曾效力Sunlight Beverage",
+            "过去与宫澄建组成搭档",
+            "后来被三叶银行招募",
+            "参加企业羽毛球赛事",
+            "需要适应新的队伍环境",
+            "在双打中与顶尖选手合作"
+          ],
+          "voice_actors": [
+            {
+              "name": "古川慎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112635-ORlGvRvgf5Nq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Naohiro Izumo",
+            "name_native": "出雲尚弘",
+            "name_alternative": [],
+            "description": "Naohiro Izumo is a badminton player for Mitsuhoshi Banking.\n\nNaohiro plays doubles for Mitsuhoshi Banking with Takuma Kirishima. He used to play for Sunlight Beverage and was paired with Tatsuru Miyazumi before getting recruited by Mitsuhoshi."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 123779,
+      "anime_title": "怪病医拉姆尼",
+      "anime_origin": "JP",
+      "source": {
+        "id": 123779,
+        "titles": [
+          "Kai Byoui Ramune",
+          "Dr. Ramune -Mysterious Disease Specialist-",
+          "怪病医ラムネ",
+          "รามูเนะ หมอโรคพิสดาร"
+        ],
+        "year": 2021,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/123779"
+      },
+      "characters": [
+        {
+          "id": 187923,
+          "name": "拉姆尼",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187923-xtpT0PHLPkaI.jpg",
+          "description": "拉姆尼是一位专门治疗“怪病”的医生。这类病症往往源于某种奇异事物侵入脆弱的内心，因而既需要医学判断，也要追查患者所经历的心结。拉姆尼说话粗鲁，待人直接，还经常不懂察言观色，但诊断能力十分出色，能够迅速找到病根。他始终把患者放在首位，即使治疗方式看起来严厉，也会根据病人的情况作出判断。弟子黑协助他处理病例。",
+          "nicknames": [
+            "拉姆尼",
+            "Ramune",
+            "ラムネ",
+            "拉姆尼医生"
+          ],
+          "traits": [
+            "专门治疗神秘怪病的医生",
+            "擅长诊断病因",
+            "医术水平高超",
+            "性格直率且言辞粗鲁",
+            "常常不懂察言观色",
+            "优先考虑患者的处境",
+            "对患者不愿过分苛刻",
+            "是黑的师父"
+          ],
+          "voice_actors": [
+            {
+              "name": "内田雄馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ramune",
+            "name_native": "ラムネ",
+            "name_alternative": [],
+            "description": "He is a doctor who specializes in treating patients with \"mystery diseases,\" which are caused when something \"strange\" sneaks into the hearts of the weak-minded. He is a foul-mouthed physician who is rude to most and very rarely understands the atmosphere around him. However, he is a very skilled doctor who can quickly identify the root cause of any illness. But because he always puts his patient first, he tries not to treat them too harshly."
+          }
+        },
+        {
+          "id": 187922,
+          "name": "黑",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187922-MRXvq4xxgWO0.jpg",
+          "description": "黑是初中生，也是怪病医生拉姆尼的弟子和助手。他判断力好、行动敏捷，思考方式理性冷静，平时常以一张扑克脸面对周围事物，因此不容易看出他的情绪。拉姆尼言行随性又常不顾场合，黑便经常负责指出问题、把对话拉回正题。尽管如此，他完全信任师父处理怪病的专业能力，会协助调查患者的情况并参与诊疗。",
+          "nicknames": [
+            "黑",
+            "Kuro",
+            "クロ",
+            "小黑"
+          ],
+          "traits": [
+            "初中生",
+            "拉姆尼的弟子",
+            "在诊所担任助手",
+            "判断力出色",
+            "运动能力良好",
+            "思维理性冷静",
+            "表情常显得面无波澜",
+            "经常负责吐槽拉姆尼",
+            "完全信任师父的诊断能力"
+          ],
+          "voice_actors": [
+            {
+              "name": "永塚拓馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120404-qXzluYLOZMyc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kuro",
+            "name_native": "クロ",
+            "name_alternative": [],
+            "description": "He is a junior high school student who is [Ramune](https://anilist.co/character/187923)'s disciple and works as an assistant. He has good judgment and motor skills, as well as a rational mind. It's hard to understand his mood due to having a poker face and is always having to play the straight man when Ramune says or does anything. Kuro trusts Ramune's skills as a specialist of mystery diseases completely."
+          }
+        },
+        {
+          "id": 192197,
+          "name": "丹己",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192197-TnzY7QeeEb78.png",
+          "description": "丹己是神秘道具店“晓”的现任店主，也是拉姆尼从小认识的伙伴，两人亲近得像兄弟一样。他性格温和善良，常常面带笑容，因此很受附近孩子欢迎，还被孩子们叫作“笑脸先生”。丹己是菖蒲前世的曾孙，身上也有一种特殊状况，使他能够比普通人更清楚地看见周围事物。作为道具店经营者，他了解许多与怪病有关的神秘物品。",
+          "nicknames": [
+            "丹己",
+            "Nico",
+            "ニコ"
+          ],
+          "traits": [
+            "神秘道具店“晓”的现任店主",
+            "曾是拉姆尼的儿时伙伴",
+            "与拉姆尼像兄弟一样亲近",
+            "性格温和善良",
+            "总是面带笑容",
+            "很受附近孩子欢迎",
+            "孩子们称他为笑脸先生",
+            "拥有看清周遭事物的特殊能力",
+            "是菖蒲前世的曾孙"
+          ],
+          "voice_actors": [
+            {
+              "name": "岡本信彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nico",
+            "name_native": "丹己",
+            "name_alternative": [],
+            "description": "He is Ayame's great grandchild from her previous life and the current owner of \"Mysterious Wares Shop Akatsuki.\" He is very warm and kind and always smiling, so he's extremely popular with the neighborhood kids who call him the smiley man. He's known ramune ever since he was a child and they think of each other as brothers. Because of a certain condition, he's able to see his surroundings better than anyone else."
+          }
+        },
+        {
+          "id": 192198,
+          "name": "菖蒲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b192198-ZqtR1qJUoPNF.png",
+          "description": "菖蒲曾经经营神秘道具店“晓”，也能亲手制作各种与怪病相关的神秘物品。她如今只有九岁，却保留了前世的全部记忆；前世的她曾活到一百零三岁，因此拥有远超外表年龄的经历。菖蒲擅长照料身边的人，同时也喜欢在适当时候挑衅对方；当她判断自己能够取胜时，还会采取相当冒险的行动。她与现任店主丹己有着跨越前世的家族联系。",
+          "nicknames": [
+            "菖蒲",
+            "Ayame",
+            "彩芽",
+            "アヤメ"
+          ],
+          "traits": [
+            "曾经营神秘道具店“晓”",
+            "能够亲手制作神秘道具",
+            "现年九岁",
+            "保留前世记忆",
+            "前世活到一百零三岁",
+            "擅长照顾他人",
+            "有时喜欢故意挑衅别人",
+            "确认有胜算时会冒险行动",
+            "是丹己前世的祖先"
+          ],
+          "voice_actors": [
+            {
+              "name": "植田佳奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ayame",
+            "name_native": "彩芽",
+            "name_alternative": [],
+            "description": "She is the former owner of \"Mysterious Wares Shop Akatsuki\" who creates mysterious wares herself. She's currently only 9 years old, but she retained her memories of her past life where she lived to be 103 years old. She's great at taking care of people but she also likes to provoke people when she can. When she knows she can win a fight, she tends to do dangerous things."
+          }
+        },
+        {
+          "id": 196734,
+          "name": "红叶",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196734-G3WCLNyg2nmz.png",
+          "description": "红叶是一位擅长治疗神秘怪病的医生，也是拉姆尼的师父。他外表英俊，医术精湛，却有捉弄和折腾别人的习惯，对徒弟拉姆尼尤其严格。红叶方向感很差，常带着自己制作的神秘宠物“皮波波”出门，让它帮助指引路线。作为经验丰富的医生，他掌握许多怪病病例和处理方法，也会用近乎苛刻的方式推动拉姆尼提升诊断与治疗能力。",
+          "nicknames": [
+            "红叶",
+            "Momiji",
+            "紅葉",
+            "もみじ"
+          ],
+          "traits": [
+            "专门治疗神秘怪病的医生",
+            "是拉姆尼的师父",
+            "医术水平高超",
+            "外表英俊",
+            "严厉督促拉姆尼",
+            "有折磨他人的爱好",
+            "方向感很差",
+            "制作神秘宠物皮波波引路",
+            "熟悉怪病诊疗方法"
+          ],
+          "voice_actors": [
+            {
+              "name": "諏訪部順一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Momiji",
+            "name_native": "紅葉",
+            "name_alternative": [],
+            "description": "A handsome and top-notch doctor who specializes in treating \"mystery diseases.\" He's a master of Ramune. One of his hobbies is to torment people and he's especially strict with Ramune. Because he has no sense of direction, he always has \"Pipopo\" accompanied by him, a mystery pet that he created to guide him in the right direction."
+          }
+        },
+        {
+          "id": 210714,
+          "name": "丰后达也",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210714-GgOH79xdGPGJ.png",
+          "description": "丰后达也是大友隆晴最要好的朋友，在体育、学业和人际交往方面都表现出色，也因此颇受同龄人欢迎。他与隆晴一直保持亲近关系，两人的友情在一次与怪病有关的事件中受到考验。随着隆晴开始留意彼此在能力和外表上的差距，达也成为这段关系变化的重要一方。故事借由他们的相处呈现少年对比较、嫉妒和友情的复杂感受。",
+          "nicknames": [
+            "丰后达也",
+            "Tatsuya Bungo",
+            "豊後達也",
+            "达也"
+          ],
+          "traits": [
+            "高中生",
+            "大友隆晴最要好的朋友",
+            "擅长体育活动",
+            "学习成绩优秀",
+            "在同龄人中颇受欢迎",
+            "与隆晴长期相识",
+            "是相关怪病事件的当事人",
+            "事件影响两人的友情关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tatsuya Bungo",
+            "name_native": "豊後達也",
+            "name_alternative": [],
+            "description": "Takaharu's best friend who is good at sports, academics, and is popular."
+          }
+        },
+        {
+          "id": 210715,
+          "name": "藤田志保子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210715-uH4xOn1tAqTO.png",
+          "description": "藤田志保子在一家餐厅担任服务员，这家餐厅是胜又健吾经常光顾的地方。她的角色与健吾的日常生活及相关怪病事件相连，使拉姆尼和黑能够从普通的生活场景中接触病例线索。志保子并非怪病医生或超自然专家，而是以餐饮业从业者的身份出现在故事中。关于她的背景资料有限，因此本条只记录AniList明确提供的工作地点关联和角色信息。",
+          "nicknames": [
+            "藤田志保子",
+            "Shihoko Fujita",
+            "志保子"
+          ],
+          "traits": [
+            "在餐厅担任服务员",
+            "出现在胜又健吾常去的餐厅",
+            "与健吾的日常活动有关",
+            "在怪病病例中提供线索",
+            "属于都市日常环境中的普通人",
+            "和顾客保持工作往来",
+            "其登场连接餐饮场景与病例",
+            "由咲々木瞳配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "咲々木瞳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121050-ixtoPbWsZNOw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shihoko Fujita",
+            "name_native": "藤田志保子",
+            "name_alternative": [],
+            "description": "A waitress at a restaurant Kengo frequents."
+          }
+        },
+        {
+          "id": 210717,
+          "name": "柏木琴",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210717-Keu8MxtpKYpX.png",
+          "description": "柏木琴是一名儿童演员，年纪很小时便开始从事演艺活动。她卷入怪病事件后出现与调味料相关的异常流泪现象，身体反应逐渐影响生活与工作，因此需要拉姆尼调查病因并提供治疗。琴的病例将看似滑稽的症状与患者的真实困扰联系起来，也展现怪病可能如何打乱普通人的日常。她由声优鬼头明里配音。",
+          "nicknames": [
+            "柏木琴",
+            "Koto Kashiwagi",
+            "柏木 琴",
+            "琴"
+          ],
+          "traits": [
+            "儿童演员",
+            "在年幼时开始从事演艺工作",
+            "因怪病事件出现异常流泪现象",
+            "事件与调味料有关",
+            "需要拉姆尼协助诊治",
+            "案例呈现怪病对日常生活的影响",
+            "由鬼头明里配音",
+            "名字中的琴也常以片假名书写"
+          ],
+          "voice_actors": [
+            {
+              "name": "鬼頭明里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-Ls7ORfBejJEP.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Koto Kashiwagi",
+            "name_native": "柏木 琴",
+            "name_alternative": [],
+            "description": "Koto is a child actress who began crying condiments."
+          }
+        },
+        {
+          "id": 210718,
+          "name": "胜又健吾",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210718-AgkMAqraImQs.png",
+          "description": "胜又健吾是一名成年人，经常去藤田志保子工作的餐厅用餐。他成为怪病病例的当事人后，身体私密部位发生了变成竹轮的异常变化，荒诞的症状给本人生活带来困扰，也使调查过程带有强烈喜剧色彩。拉姆尼和黑需要查明这一怪病出现的原因，并帮助健吾恢复正常。该病例延续作品将奇特症状与患者实际困境并置的表现方式。",
+          "nicknames": [
+            "胜又健吾",
+            "Kengo Katsumata",
+            "勝又健吾",
+            "健吾"
+          ],
+          "traits": [
+            "成年人",
+            "经常光顾藤田志保子工作的餐厅",
+            "卷入与怪病相关的病例",
+            "身体私密部位变成竹轮",
+            "症状带有明显喜剧效果",
+            "需要面对异常身体变化",
+            "病例由拉姆尼一行调查",
+            "由KENN配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "KENN",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95857-oHOhHwEDyAlL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kengo Katsumata",
+            "name_native": "勝又健吾",
+            "name_alternative": [],
+            "description": "A man whose groin became a chikuwa."
+          }
+        },
+        {
+          "id": 210721,
+          "name": "大友隆晴",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210721-WKOlZItURxlU.png",
+          "description": "大友隆晴是高中生，也是丰后达也最要好的朋友。当他发现自己的学业、运动能力和外表似乎都胜过好友后，便刻意把各方面表现压到普通水平，试图避免两人之间出现差距。与此同时，隆晴卷入指甲变成辣椒的怪病事件，身体异常让他不得不面对真正的自我感受。他与达也的友情因此变得复杂，病例也折射出比较心理和自我压抑造成的困扰。",
+          "nicknames": [
+            "大友隆晴",
+            "Takaharu Ootomo",
+            "大友 隆晴",
+            "隆晴"
+          ],
+          "traits": [
+            "高中生",
+            "丰后达也最要好的朋友",
+            "指甲变成辣椒形状",
+            "察觉自己在学习上更出色",
+            "运动能力也胜过达也",
+            "认为自己的外表更受欢迎",
+            "故意把表现压到普通水平",
+            "与达也的比较引发心理压力"
+          ],
+          "voice_actors": [
+            {
+              "name": "島﨑信長",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takaharu Ootomo",
+            "name_native": "大友 隆晴",
+            "name_alternative": [],
+            "description": "Takaharu is a high school student whose nails turned into chili peppers. When Takaharu realized that he had better academic and physical abilities as well as better physical appearance than his best friend, Tatsuya, he intentionally behaved to be normal at everything."
+          }
+        },
+        {
+          "id": 210722,
+          "name": "理央",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210722-qY0cgo9Pkla1.png",
+          "description": "理央是青菜家的年幼弟弟，故事中的怪病让他十分担心母亲的听力状况。他希望母亲能够再次听见自己的声音，因此在病例调查中表现出对家人的深切牵挂。围绕理央一家发生的异常事件，使拉姆尼和黑需要追查听觉问题背后的原因。理央的愿望简单直接，却构成了病例的重要情感核心，也让诊疗不只是处理身体症状，还要回应家庭成员彼此关心的心情。",
+          "nicknames": [
+            "理央",
+            "Rio",
+            "リオ"
+          ],
+          "traits": [
+            "家中的年幼弟弟",
+            "是青菜春的弟弟",
+            "希望母亲能再次听见自己的声音",
+            "家庭成员卷入怪病事件",
+            "与母亲之间感情深厚",
+            "事件围绕听觉障碍展开",
+            "需要拉姆尼协助调查病因",
+            "由伊濑茉莉也配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "伊瀬茉莉也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95655-cR519BXmteKA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rio",
+            "name_native": "理央",
+            "name_alternative": [],
+            "description": "Rio is the younger brother the family. He wishes for his mother to be able to hear his voice again."
+          }
+        },
+        {
+          "id": 210728,
+          "name": "优",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210728-f5Q1CjeCJDz1.png",
+          "description": "优是理央的哥哥，和弟弟一起面对母亲听力出现异常后的家庭困境。母亲无法顺利听见理央的声音，使理央格外希望恢复原状；优则以年长兄长的身份参与家庭中的沟通与照料。拉姆尼调查这起怪病时，优也是理解家人关系和症状影响的重要人物。由于公开角色介绍着重说明其家庭身份，本条不额外添加未经证实的职业或个人经历。",
+          "nicknames": [
+            "优",
+            "Yuu",
+            "優",
+            "ゆう"
+          ],
+          "traits": [
+            "青菜家的年长兄长",
+            "是理央的哥哥",
+            "与弟弟共同面对母亲的听力问题",
+            "关心母亲的身体状况",
+            "家庭病例中的重要亲属",
+            "事件涉及母子沟通",
+            "陪伴理央处理家庭困境",
+            "由松本沙罗配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "松本沙羅",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n134577-YqnHKJF008t2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuu",
+            "name_native": "優",
+            "name_alternative": [],
+            "description": "Rio's older brother."
+          }
+        },
+        {
+          "id": 215389,
+          "name": "青菜春",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b215389-VxFHXMzpfPhm.jpg",
+          "description": "青菜春是黑的同班同学，拥有出色的艺术创作才能，擅长制作各种作品。他卷入怪病后，爆米花会不断从头部冒出，异常症状使他在家中遭遇新的冲突。春的父亲认为他的创作让住院的母亲伤心，希望他停止制作作品；春则必须面对热爱创作与家人担忧之间的矛盾。拉姆尼调查病例时，也需要厘清疾病、创作和家庭关系之间的联系。",
+          "nicknames": [
+            "青菜春",
+            "Shun Aona",
+            "青菜 春",
+            "春"
+          ],
+          "traits": [
+            "初中生",
+            "是黑的同班同学",
+            "擅长制作艺术作品",
+            "拥有丰富的创作才能",
+            "头部不断冒出爆米花",
+            "因怪病影响而遭父亲反对创作",
+            "希望继续进行创作",
+            "家庭关系牵涉病例解决"
+          ],
+          "voice_actors": [
+            {
+              "name": "村瀬歩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shun Aona",
+            "name_native": "青菜春",
+            "name_alternative": [],
+            "description": "Shun is Kuro's classmate who is incredibly gifted at making artistic creations. His father wants him to stop making things, telling Shun that his mother is at the hospital because Shun's creations are making her sad. \n\n~!His mysterious disease is that popcorn keeps popping out from his head.!~"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 166828,
+      "anime_title": "怪人的沙拉碗",
+      "anime_origin": "JP",
+      "source": {
+        "id": 166828,
+        "titles": [
+          "Henjin no Salad Bowl",
+          "A Salad Bowl of Eccentrics",
+          "変人のサラダボウル",
+          "Hensara",
+          "変サラ"
+        ],
+        "year": 2024,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/166828"
+      },
+      "characters": [
+        {
+          "id": 318360,
+          "name": "镜矢惣助",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318360-srP2NTASriUz.jpg",
+          "description": "镜矢惣助是在岐阜经营小型侦探事务所的私人侦探，经济状况并不宽裕，日常需要靠调查委托维持生活。一次偶然相遇让来自异世界的萨拉进入他的生活，原本平淡的工作与居住环境由此变得热闹起来。惣助必须在处理侦探业务的同时照看这位拥有魔法能力的少女，也逐渐卷入围绕异世界来客展开的各种事件。作品通过他的视角串联岐阜街头的多条生活线索。",
+          "nicknames": [
+            "镜矢惣助",
+            "Sousuke Kaburaya",
+            "鏑矢惣助",
+            "かぶらや・そうすけ",
+            "Kaburaya Sousuke",
+            "惣助"
+          ],
+          "traits": [
+            "在岐阜经营私人侦探事务所",
+            "事务所规模不大",
+            "经济状况拮据",
+            "从事调查与侦探工作",
+            "原本生活在现代日本",
+            "与异世界少女产生交集",
+            "需要应对接连发生的委托",
+            "是岐阜市日常故事的中心人物"
+          ],
+          "voice_actors": [
+            {
+              "name": "古川慎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112635-ORlGvRvgf5Nq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sousuke Kaburaya",
+            "name_native": "鏑矢惣助",
+            "name_alternative": [
+              "かぶらや・そうすけ"
+            ],
+            "description": "An impoverished man who runs a modest detective agency in Gifu."
+          }
+        },
+        {
+          "id": 318361,
+          "name": "萨拉·达·奥丁",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318361-I5jwYthk0Ce8.jpg",
+          "description": "萨拉·达·奥丁是异世界的公主，擅长使用魔法。故乡遭到毁灭后，她通过魔法传送门逃到现代日本，并在那里开始全新的生活。萨拉受到漫画影响，对侦探故事产生浓厚兴趣，立志成为一名出色的侦探。她与在岐阜经营事务所的镜矢惣助相遇后，逐渐接触日本社会的日常规则，也尝试把自己掌握的魔法和侦探知识用于解决身边的问题。",
+          "nicknames": [
+            "萨拉·达·奥丁",
+            "Sara da Odin",
+            "サラ・ダ・オディン",
+            "萨拉"
+          ],
+          "traits": [
+            "异世界奥丁王国的公主",
+            "精通魔法",
+            "故乡遭到毁灭后逃离",
+            "通过魔法传送门来到日本",
+            "来到现代日本生活",
+            "受漫画影响而喜爱侦探题材",
+            "立志成为优秀侦探",
+            "由矢野妃菜喜配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "矢野妃菜喜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n143887-M4a4hO3mxDm6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sara da Odin",
+            "name_native": "サラ・ダ・オディン",
+            "name_alternative": [],
+            "description": "A princess from another world that is proficient in magic.\nAfter her homeland gets destroyed, she flees to modern Japan through a magic portal. \nInfluenced by manga, she aspires to become a great detective."
+          }
+        },
+        {
+          "id": 321906,
+          "name": "莉薇娅·德·乌迪斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321906-qCv8E62YjqIC.png",
+          "description": "莉薇娅·德·乌迪斯是来自异世界的女骑士，曾担任公主萨拉的辅佐者。为了追寻萨拉，她也来到现代日本，却很快失去稳定住所，成为无家可归者。莉薇娅拥有强大的精神意志和身体力量，即使生活条件艰难，也会努力寻找办法继续生活。她在异世界骑士身份与日本街头现实之间经历巨大落差，逐渐结识不同的人，并在新的环境中展开独立行动。",
+          "nicknames": [
+            "莉薇娅·德·乌迪斯",
+            "Livia de Udis",
+            "リヴィア・ド・ウーディス",
+            "莉薇娅"
+          ],
+          "traits": [
+            "来自异世界的女骑士",
+            "曾担任萨拉的辅佐骑士",
+            "追随萨拉来到现代日本",
+            "抵达后失去稳定住所",
+            "一度成为无家可归者",
+            "拥有强大的体力与意志",
+            "能在艰难处境中设法生活",
+            "由市道真央配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "市道真央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Livia de Udis",
+            "name_native": "リヴィア・ド・ウーディス",
+            "name_alternative": [],
+            "description": "A knight from another world who serves as an aide to [Sara](https://anilist.co/character/318361/Odin-Sara). After being transported to modern-day Japan in pursuit of Sara, she becomes homeless. Through her overwhelming mental and physical strength, she manages to make the best of her situation."
+          }
+        },
+        {
+          "id": 328631,
+          "name": "弓指明日美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328631-T62ZzYdFL8b7.jpg",
+          "description": "弓指明日美是一名离家出走的少女，梦想成为职业音乐人。为了维持生活并支持自己的乐队活动，她同时从事多份兼职，把赚来的钱投入音乐练习和演出准备。明日美并非依靠家庭资源追梦，而是在现实压力下努力靠近目标。她在岐阜遇见镜矢惣助一行后，逐渐与这群背景各异的人产生联系，也让作品的街头生活线扩展到乐队与青年梦想。",
+          "nicknames": [
+            "弓指明日美",
+            "Asumi Yumisashi",
+            "Priketsu (プリケツ)",
+            "Yumisashi Asumi",
+            "明日美"
+          ],
+          "traits": [
+            "离家出走的少女",
+            "梦想成为职业音乐人",
+            "通过多份兼职赚取收入",
+            "把收入用于乐队活动",
+            "参与乐队演出与练习",
+            "以音乐作为未来目标",
+            "在岐阜结识惣助一行",
+            "由大地叶配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "大地葉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109251-ge8rmZwppqxy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Asumi Yumisashi",
+            "name_native": "弓指明日美",
+            "name_alternative": [
+              "Priketsu (プリケツ)"
+            ],
+            "description": "A runaway girl that aspires to become a professional musician.\nShe works various part time jobs to fund her band activities."
+          }
+        },
+        {
+          "id": 328633,
+          "name": "永绳友奈",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328633-8yZtElT6Pbpe.jpg",
+          "description": "永绳友奈是一名学生，曾在校园生活中遭到同学欺负。萨拉出手帮助她摆脱困境后，两人逐渐成为好朋友。友奈因此开始与这位来自异世界的公主分享日常，也让萨拉更深入地了解现代日本的学校生活。她的经历展示了萨拉如何运用直率的行动与魔法介入身边人的烦恼，并把原本陌生的异世界关系转变为真诚的同伴情谊。",
+          "nicknames": [
+            "永绳友奈",
+            "Yuna Naganawa",
+            "永縄友奈",
+            "友奈"
+          ],
+          "traits": [
+            "在校园中曾遭到同学欺负",
+            "受到萨拉的帮助",
+            "与萨拉成为好朋友",
+            "逐渐建立自信",
+            "和萨拉分享学校生活",
+            "与异世界来客形成友谊",
+            "是故事中的学生角色",
+            "由高田忧希配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "高田憂希",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119154-sWANDEExAuVD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuna Naganawa",
+            "name_native": "永縄友奈",
+            "name_alternative": [],
+            "description": "After being helped to get back at her bullies, she becomes best friends with [Sara](https://anilist.co/character/318361/Odin-Sara)."
+          }
+        },
+        {
+          "id": 328634,
+          "name": "根谷遥",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328634-NqBRnq5tDTGt.png",
+          "description": "根谷遥在岐阜县规模最大的侦探事务所工作，曾是镜矢惣助的后辈，因此了解他过去在侦探行业中的经历。她的专长是拆散情侣，处理的委托类型与惣助平时接触的调查业务颇不相同。遥凭借专业工作能力在当地侦探圈中活动，也会与惣助及其事务所发生交集。她的登场补充了岐阜侦探行业的另一种工作面貌，并推动人物间的职场关系展开。",
+          "nicknames": [
+            "根谷遥",
+            "Haruka Neya",
+            "閨春花",
+            "遥"
+          ],
+          "traits": [
+            "在岐阜规模最大的侦探事务所工作",
+            "曾是惣助的后辈",
+            "了解侦探行业的工作方式",
+            "专长是拆散情侣",
+            "与惣助存在职场旧识关系",
+            "从事调查相关工作",
+            "活跃于岐阜的侦探圈",
+            "由真野美月配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "真野美月",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n321350-wVK1llXpkqPy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Haruka Neya",
+            "name_native": "閨春花",
+            "name_alternative": [],
+            "description": "She works at the largest detective agency in Gifu Prefecture and was Souske's junior while he still worked there.\nShe specializes in breaking up couples."
+          }
+        },
+        {
+          "id": 328636,
+          "name": "武雄",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328636-BhWtwTqMuOgX.png",
+          "description": "武雄是在现代日本街头活动的不良青年，注意到莉薇娅处于无家可归的困境后，向她提出可以赚钱的工作机会。不过这些工作带有可疑性质，并不属于正规职业，使莉薇娅需要判断是否接受。武雄由此把莉薇娅带入岐阜街头更复杂的一面，也让她接触到与骑士生活截然不同的现实处境。他的角色推动了莉薇娅在异国城市寻找生计的情节发展。",
+          "nicknames": [
+            "武雄",
+            "Takeo",
+            "タケオ"
+          ],
+          "traits": [
+            "在街头活动的不良青年",
+            "注意到莉薇娅的处境",
+            "向莉薇娅提供工作机会",
+            "提供的工作带有可疑性质",
+            "与莉薇娅产生短暂合作",
+            "活跃于现代日本街头",
+            "在故事中连接地下工作线",
+            "由立花慎之介配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "立花慎之介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95792-5413Ip70mSdV.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takeo",
+            "name_native": "タケオ",
+            "name_alternative": [],
+            "description": "A punk that offers [Livia](https://anilist.co/character/321906/Woodis-Livia) shady jobs."
+          }
+        }
+      ]
+    }
+  ]
+}

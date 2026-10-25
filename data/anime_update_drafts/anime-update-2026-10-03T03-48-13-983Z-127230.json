@@ -1,0 +1,1954 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:48:13.984Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "电锯人",
+      "id": 130102,
+      "name": "Denji",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "电锯人",
+      "id": 137079,
+      "name": "Power",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "电锯人",
+      "id": 137080,
+      "name": "Makima",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "电锯人",
+      "id": 137081,
+      "name": "Aki Hayakawa",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "电锯人",
+      "id": 144596,
+      "name": "Himeno",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "电锯人",
+      "id": 174263,
+      "name": "Hirokazu Arai ",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "电锯人",
+      "id": 148740,
+      "name": "Reze",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "电锯人",
+      "id": 289204,
+      "name": "Zombie-tachi",
+      "reason": "作品内同名或别名已存在：Zombie-tachi"
+    },
+    {
+      "anime": "电锯人",
+      "id": 289205,
+      "name": "Zombie-tachi",
+      "reason": "作品内同名或别名已存在：Zombie-tachi"
+    },
+    {
+      "anime": "电锯人",
+      "id": 289206,
+      "name": "Zombie-tachi",
+      "reason": "作品内同名或别名已存在：Zombie-tachi"
+    },
+    {
+      "anime": "电锯人",
+      "id": 294730,
+      "name": "Kobun A",
+      "reason": "作品内同名或别名已存在：Kobun A"
+    },
+    {
+      "anime": "电锯人",
+      "id": 294731,
+      "name": "Kobun B",
+      "reason": "作品内同名或别名已存在：Kobun B"
+    },
+    {
+      "anime": "电锯人",
+      "id": 294732,
+      "name": "Kobun C",
+      "reason": "作品内同名或别名已存在：Kobun C"
+    },
+    {
+      "anime": "电锯人",
+      "id": 294733,
+      "name": "Kobun D",
+      "reason": "作品内同名或别名已存在：Kobun D"
+    },
+    {
+      "anime": "电锯人",
+      "id": 295191,
+      "name": "Announcer",
+      "reason": "作品内同名或别名已存在：Announcer"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 127230,
+      "anime_title": "电锯人",
+      "anime_origin": "JP",
+      "source": {
+        "id": 127230,
+        "titles": [
+          "Chainsaw Man",
+          "チェンソーマン",
+          "CSM",
+          "رجل المنشار",
+          "链锯人",
+          "Человек-бензопила",
+          "체인소 맨",
+          "Thợ Săn Quỷ"
+        ],
+        "year": 2022,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/127230"
+      },
+      "characters": [
+        {
+          "id": 144592,
+          "name": "Yuutarou Kurose",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144592-pUY67nacCeud.png",
+          "description": "",
+          "nicknames": [
+            "Yuutarou Kurose",
+            "黒瀬ユウタロウ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "河西健吾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110877-8mqVadVTaFl4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuutarou Kurose",
+            "name_native": "黒瀬ユウタロウ",
+            "name_alternative": [],
+            "description": "__Height:__ 165 cm (5'5\")\n__Devil Contract:__ ~![Punishment Devil](https://anilist.co/character/306237/Batsu-no-Akuma)!~\n\nA Public Safety Devil Hunter from Kyoto. He is partnered with [Michiko Tendou](https://anilist.co/character/144595/Michiko-Tendou).\n"
+          }
+        },
+        {
+          "id": 144593,
+          "name": "Kishibe",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144593-hdCTT9t54z0s.png",
+          "description": "",
+          "nicknames": [
+            "Kishibe",
+            "岸辺",
+            "Master",
+            "Mad Dog Kishibe"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kishibe",
+            "name_native": "岸辺",
+            "name_alternative": [
+              "Master",
+              "Mad Dog Kishibe"
+            ],
+            "description": "__Height:__ 194 cm\n__Devil Contracts:__ ~!Claw Devil, Knife Devil, Needle Devil!~\n\nA Public Safety Devil Hunter from Special Division 1. ~!After the assault on the Special Divisions, he became captain of the Special Division 4.!~\n\nKishibe is a grizzled man with scraggly facial hair and a stitched scar running across his left cheek from his mouth. He normally wears the standard Public Safety devil hunter uniform with a large overcoat. He has two piercings on his left ear, and one on his right ear. He is often seen with a hip flask which he frequently drinks from. Kishibe is a stoic, straightforward individual. Due to his immense strength and skill, he often undertakes his work with a calm formality, displaying little emotion as he does so. Though he tends to speak in a relaxed, polite manner, his actions often showcase an immense brutality garnered through many years of Devil Hunting. Though he sometimes expresses emotions such as surprise and sadness at certain events, his face and voice remain entirely neutral. Kishibe has been hunting devils for a long time, making him somewhat insane. He espouses a belief that the most fearsome devil hunters to devils isn't the brave or the strong, but the craziest as they are the ones without fear. He admits that he enjoys booze, women and killing devils.\n\n~!He is the former partner of [Quanxi](https://anilist.co/character/162123/Quanxi).!~"
+          }
+        },
+        {
+          "id": 144594,
+          "name": "Kobeni Higashiyama",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144594-0dbO1NSYeZ12.png",
+          "description": "",
+          "nicknames": [
+            "Kobeni Higashiyama",
+            "東山コベニ",
+            "Beni"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋花林",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125920-eGCWlgvsrOyz.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kobeni Higashiyama",
+            "name_native": "東山コベニ",
+            "name_alternative": [
+              "Beni"
+            ],
+            "description": "__Height:__ 155 cm\n\nA Public Safety Devil Hunter, she is a new recruit working under [Makima](https://anilist.co/character/137080/Makima) as a member of Tokyo Special Division 4. She is partnered with [Hirokazu Arai](https://anilist.co/character/174263).\n\nShe is not very courageous and gets scared easily by devils. Kobeni is shown to easily crack under pressure and break into tears during serious moments. Even though Kobeni is timid, she is pretty talented as a devil hunter. When Kobeni gets into action, she has proven to be cool-headed and efficient in battle, only breaking down in a panic once the fighting is over. Kobeni chooses to keep her devil contract a secret."
+          }
+        },
+        {
+          "id": 144595,
+          "name": "Michiko Tendou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144595-R8Lfn0egUR3q.png",
+          "description": "",
+          "nicknames": [
+            "Michiko Tendou",
+            "天童ミチコ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上田瞳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125306-Kq7WCcO2EwbG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Michiko Tendou",
+            "name_native": "天童ミチコ",
+            "name_alternative": [],
+            "description": "__Height:__ 175 cm (5'9\")\n__Devil Contracts:__ ~![Punishment Devil](https://anilist.co/character/306237/Batsu-no-Akuma)!~\n\nA Public Safety Devil Hunter from Kyoto. She is partnered with [Yuutarou Kurose](https://anilist.co/character/144592/Yuutarou-Kurose)."
+          }
+        },
+        {
+          "id": 152231,
+          "name": "Tenshi no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b152231-jiMRx9je7H6y.png",
+          "description": "",
+          "nicknames": [
+            "Tenshi no Akuma",
+            "天使の悪魔",
+            "Angel Devil",
+            "Angel (エンジェル)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内田真礼",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tenshi no Akuma",
+            "name_native": "天使の悪魔",
+            "name_alternative": [
+              "Angel Devil",
+              "Angel (エンジェル)"
+            ],
+            "description": "__Height:__ 155 cm\n\nAngel Devil is a devil who embodies the fear of angels, and a Public Safety Devil Hunter from Special Division 4.\n\nThe Angel Devil is a unique case among devils having virtually no hostility towards humans. He dislikes being ordered around and doesn't seem inclined towards combat. His extreme laziness holds him back from being a strong fighter and he often refuses to work, even claiming to prefer dying to working."
+          }
+        },
+        {
+          "id": 157231,
+          "name": "Bouryoku no Majin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157231-hV81SwGqxl2R.jpg",
+          "description": "",
+          "nicknames": [
+            "Bouryoku no Majin",
+            "暴力の魔人",
+            "Violence Fiend"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内田夕夜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96637-GOQaib9J8Mu6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bouryoku no Majin",
+            "name_native": "暴力の魔人",
+            "name_alternative": [
+              "Violence Fiend"
+            ],
+            "description": "He is a Fiend and Public Safety Devil Hunter from Special Division 4.\n\nDespite his moniker as the Violence Fiend, he is extremely polite and straightforward. He apologized to [Beam](https://anilist.co/character/157232/Beam) after hitting him in self-defense and told the [Spider Devil](https://anilist.co/character/157277/Prinz) to evacuate the area when he mistook her for a human lady.\n\n~!He is later partnered with [Kobeni Higashiyama](https://anilist.co/character/144594/Higashiyama-Kobeni) following the events of the Katana Man Arc!~"
+          }
+        },
+        {
+          "id": 157232,
+          "name": "Beam",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157232-5GuWeqoFN9Kq.jpg",
+          "description": "",
+          "nicknames": [
+            "Beam",
+            "ビーム",
+            "Shark Fiend"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "花江夏樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Beam",
+            "name_native": "ビーム",
+            "name_alternative": [
+              "Shark Fiend"
+            ],
+            "description": "__Height:__ 165 cm (With fin: 176 cm)\n\nHe is a Shark Fiend and a Public Safety Devil Hunter from Special Division 4.\n\nBeam is very eccentric. He often goes along with [Denji](https://anilist.co/character/130102/Denji)'s plans no matter how crazy they are due to having a lot of respect for the [Chainsaw Devil](https://anilist.co/character/170266/Pochita)."
+          }
+        },
+        {
+          "id": 157240,
+          "name": "Eien no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157240-dQJO3S7285nW.png",
+          "description": "",
+          "nicknames": [
+            "Eien no Akuma",
+            "永遠の悪魔",
+            "Eternity Devil"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "近藤浩徳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106840-AC03w0OTFovU.png",
+              "language": "日语"
+            },
+            {
+              "name": "駒谷昌男",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n229985-hCtcWCtVd06i.png",
+              "language": "日语"
+            },
+            {
+              "name": "篠原侑",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127725-5GwOq8MISJhD.png",
+              "language": "日语"
+            },
+            {
+              "name": "斉藤こず恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163702-d44jMLGOOZMW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eien no Akuma",
+            "name_native": "永遠の悪魔",
+            "name_alternative": [
+              "Eternity Devil"
+            ],
+            "description": "The Eien no Akuma is a devil that embodies the fear of eternity. He is the primary antagonist of the titular Eternity Devil arc."
+          }
+        },
+        {
+          "id": 157241,
+          "name": "Samurai Sword",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157241-GkgQVzkFrmUD.jpg",
+          "description": "",
+          "nicknames": [
+            "Samurai Sword",
+            "サムライソード",
+            "Katana Man",
+            "Sideburns Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "濱野大輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120263-v4Hq7oOv7act.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Samurai Sword",
+            "name_native": "サムライソード",
+            "name_alternative": [
+              "Katana Man",
+              "Sideburns Man"
+            ],
+            "description": "Samurai Sword is a human-devil hybrid who merged with the Katana Devil. His [grandfather](https://anilist.co/character/289198/Yakuza) was killed by [Denji](https://anilist.co/character/130102/Denji) when they initially fused with [Pochita](https://anilist.co/character/170266/Pochita), and because of that, he affiliated with the [Gun Devil](https://anilist.co/character/208942/Juu-no-Akuma) to get revenge on Denji. He works alongside [Akane Sawatari](https://anilist.co/character/174264/Akane-Sawatari) and other fellow members of the Yakuza."
+          }
+        },
+        {
+          "id": 157277,
+          "name": "Prinz",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157277-h6M1umQ3N2ve.jpg",
+          "description": "",
+          "nicknames": [
+            "Prinz",
+            "プリンシ",
+            "Kumo no Akuma (蜘蛛の悪魔)",
+            "Spider Devil",
+            "Princi"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "後藤沙緒里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95211-d04fFmOyVpfz.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Prinz",
+            "name_native": "プリンシ",
+            "name_alternative": [
+              "Kumo no Akuma (蜘蛛の悪魔)",
+              "Spider Devil",
+              "Princi"
+            ],
+            "description": "She is a devil who embodies the fear of spiders, and is a Public Safety Devil Hunter from Special Division 4.\n\nThe Spider Devil usually takes a human shape so she tends to be friendly to humans and works as a devil hunter herself, however she will still kill people for just looking at her the wrong way."
+          }
+        },
+        {
+          "id": 170266,
+          "name": "Pochita",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b170266-bBXPkNJnd3mg.png",
+          "description": "",
+          "nicknames": [
+            "Pochita",
+            "ポチタ",
+            "Chainsaw no Akuma (チェンソーの悪魔)",
+            "Chainsaw Devil"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井澤詩織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111453-7fe0B5uogy3Z.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pochita",
+            "name_native": "ポチタ",
+            "name_alternative": [
+              "Chainsaw no Akuma (チェンソーの悪魔)",
+              "Chainsaw Devil"
+            ],
+            "description": "Pochita appears to be a small red canine with a chainsaw like appendage protruding from the center of his head. Handles emerge from his body allowing him to be wielded like a chainsaw and his short tail is in the shape of a chainsaw's pull cord. Unlike most devils, Pochita communicated solely through barks and whines like an actual dog."
+          }
+        },
+        {
+          "id": 172885,
+          "name": "Fushi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172885-hvF2nRMCqNaX.png",
+          "description": "",
+          "nicknames": [
+            "Fushi",
+            "伏"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小林親弘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124703-rtSB51tfBuY7.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Fushi",
+            "name_native": "伏",
+            "name_alternative": [],
+            "description": "A Public Safety Devil Hunter."
+          }
+        },
+        {
+          "id": 172887,
+          "name": "Mirai no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172887-qMCjXPXMSKRk.png",
+          "description": "",
+          "nicknames": [
+            "Mirai no Akuma",
+            "未来の悪魔",
+            "Future Devil"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "裕樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n294726-iZodljDRHSLj.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mirai no Akuma",
+            "name_native": "未来の悪魔",
+            "name_alternative": [
+              "Future Devil"
+            ],
+            "description": "The Future Devil is a devil that embodies the fear of the future. ~!After seeing [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa)'s future, it made a contract with him, so he can see that future himself.!~"
+          }
+        },
+        {
+          "id": 174261,
+          "name": "Taiyou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174261-qRcr40Q3zsyM.png",
+          "description": "",
+          "nicknames": [
+            "Taiyou",
+            "タイヨウ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中臣真菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n291239-ppAr0a8RQ1kr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Taiyou",
+            "name_native": "タイヨウ",
+            "name_alternative": [],
+            "description": "[Aki Hayakawa](https://anilist.co/character/137081)'s younger brother."
+          }
+        },
+        {
+          "id": 174262,
+          "name": "Yuurei no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174262-e1ctdgffT3MP.png",
+          "description": "",
+          "nicknames": [
+            "Yuurei no Akuma",
+            "幽霊の悪魔",
+            "Ghost Devil",
+            "Ghost (ゴースト)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "きそひろこ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n214250-90Iu1qYdhK4d.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuurei no Akuma",
+            "name_native": "幽霊の悪魔",
+            "name_alternative": [
+              "Ghost Devil",
+              "Ghost (ゴースト)"
+            ],
+            "description": "The Ghost Devil is a devil that embodies the fear of ghosts. \n\n**Known Contractors:** ~![Himeno](https://anilist.co/character/144596/Himeno)!~"
+          }
+        },
+        {
+          "id": 174264,
+          "name": "Akane Sawatari ",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174264-dLiZkMXoltQ9.png",
+          "description": "",
+          "nicknames": [
+            "Akane Sawatari",
+            "沢渡アカネ",
+            "Hoodie Girl",
+            "Paakaa no Onna (パーカーの女)",
+            "Snake Girl",
+            "Hebi Onna (ヘビ女)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大地葉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109251-ge8rmZwppqxy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akane Sawatari ",
+            "name_native": "沢渡アカネ",
+            "name_alternative": [
+              "Hoodie Girl",
+              "Paakaa no Onna (パーカーの女)",
+              "Snake Girl",
+              "Hebi Onna (ヘビ女)"
+            ],
+            "description": "__Devil Contract:__ [Snake Devil](https://anilist.co/character/174269/Hebi-no-Akuma)\n\nAn enigmatic former Private Detective Hunter, she pledged her allegiance with the [Gun Devil](https://anilist.co/character/208942/Juu-no-Akuma) after making a contract with him and as a result, she seeks to obtain [Denji](https://anilist.co/character/130102/Denji)'s heart for her master. To that end, she conspires with members of the yakuzas, including the likes of [Katana Man](https://anilist.co/character/157241/Samurai-Sword), while acting as a weapons dealer for them in order to obtain Denji's heart easier."
+          }
+        },
+        {
+          "id": 174265,
+          "name": "Noroi no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174265-NsRTeM1eAals.png",
+          "description": "",
+          "nicknames": [
+            "Noroi no Akuma",
+            "呪いの悪魔",
+            "Curse Devil",
+            "Curse (カース)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上田ゆう子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n293136-pyApbaz6et6S.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Noroi no Akuma",
+            "name_native": "呪いの悪魔",
+            "name_alternative": [
+              "Curse Devil",
+              "Curse (カース)"
+            ],
+            "description": "The Curse Devil is a Devil that embodies the fear of curses.\n\n__Known Contractors:__\n~![Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa), [Tolka's Master](https://anilist.co/character/172888/Tolka-no-Shishou)!~"
+          }
+        },
+        {
+          "id": 174267,
+          "name": "Madoka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174267-2VJVkMILqQpY.png",
+          "description": "",
+          "nicknames": [
+            "Madoka",
+            "円"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "武藤正史",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105267-7sgi6sXCqmn8.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Madoka",
+            "name_native": "円",
+            "name_alternative": [],
+            "description": "A Public Safety Devil Hunter. ~!After the assault on the Devil Hunters by the [Gun Devil](https://anilist.co/character/208942/Juu-no-Akuma-)'s associates, he was one of the few survivors and decided to leave his job as a Devil Hunter.!~"
+          }
+        },
+        {
+          "id": 174270,
+          "name": "Namako no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174270-JcnbKLMlxrkn.png",
+          "description": "",
+          "nicknames": [
+            "Namako no Akuma",
+            "ナマコの悪魔",
+            "Sea Cucumber Devil"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Namako no Akuma",
+            "name_native": "ナマコの悪魔",
+            "name_alternative": [
+              "Sea Cucumber Devil"
+            ],
+            "description": "The Sea Cucumber Devil is a devil that embodies the fear of sea cucumbers."
+          }
+        },
+        {
+          "id": 174271,
+          "name": "Nyaako",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174271-iC0Ul9YfLOk6.png",
+          "description": "",
+          "nicknames": [
+            "Nyaako",
+            "ニャーコ",
+            "Meowy"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nyaako",
+            "name_native": "ニャーコ",
+            "name_alternative": [
+              "Meowy"
+            ],
+            "description": "[Power](https://anilist.co/character/137079/Power)'s cat. ~!Now currently owned by [Denji](https://anilist.co/character/130102/Denji).!~"
+          }
+        },
+        {
+          "id": 174272,
+          "name": "Koumori no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174272-cU9W4oNykNM0.png",
+          "description": "",
+          "nicknames": [
+            "Koumori no Akuma",
+            "コウモリの悪魔",
+            "Bat Devil",
+            "Batty",
+            "Koumori-chan (コウモリちゃん)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松田健一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105273-asextl049B2s.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Koumori no Akuma",
+            "name_native": "コウモリの悪魔",
+            "name_alternative": [
+              "Bat Devil",
+              "Batty",
+              "Koumori-chan (コウモリちゃん)"
+            ],
+            "description": "The Bat Devil is a devil who embodies the fear of bats.\n\n~!He is the primary antagonist of the titular Bat Devil arc and a minor antagonist in the Justice Devil arc.!~"
+          }
+        },
+        {
+          "id": 174275,
+          "name": "Hiru no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174275-cCAGptyn7ZrR.png",
+          "description": "",
+          "nicknames": [
+            "Hiru no Akuma",
+            "ヒルの悪魔",
+            "Leech Devil"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "橘U子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105833-roYfte0Qvg8n.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hiru no Akuma",
+            "name_native": "ヒルの悪魔",
+            "name_alternative": [
+              "Leech Devil"
+            ],
+            "description": "The Leech Devil is a devil that embodies the fear of leeches. ~!She is the secondary antagonist of the Bat Devil arc.!~"
+          }
+        },
+        {
+          "id": 174282,
+          "name": "Zombie no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174282-YFLwuvogHMod.png",
+          "description": "",
+          "nicknames": [
+            "Zombie no Akuma",
+            "ゾンビの悪魔",
+            "Zombie Devil"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宮田幸季",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95344-wYgLhxYeWEp4.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zombie no Akuma",
+            "name_native": "ゾンビの悪魔",
+            "name_alternative": [
+              "Zombie Devil"
+            ],
+            "description": "A devil contracted by [Denji's](https://anilist.co/character/130102/Denji) yakuza employer at the beginning of the series and the first that Denji killed as the Chainsaw Man. Any person it bit would become a zombie."
+          }
+        },
+        {
+          "id": 289198,
+          "name": "Yakuza",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289198-QxBRgBSAVkkK.png",
+          "description": "",
+          "nicknames": [
+            "Yakuza",
+            "ヤクザ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "廣田行生",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102321-RGZyzVH6DAhs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yakuza",
+            "name_native": "ヤクザ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 289200,
+          "name": "Tomato no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289200-mkFXS4A4MRBp.jpg",
+          "description": "",
+          "nicknames": [
+            "Tomato no Akuma",
+            "トマトの悪魔",
+            "Tomato Devil"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田所陽向",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128613-kF3lV0TyV2WG.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tomato no Akuma",
+            "name_native": "トマトの悪魔",
+            "name_alternative": [
+              "Tomato Devil"
+            ],
+            "description": "The Tomato Devil is a devil that embodies the fear of tomatoes. ~!The Tomato Devil was walking around a house, when [Denji](https://anilist.co/character/130102/Denji) with the help of [Pochita](https://anilist.co/character/170266/Pochita) went and killed him.!~"
+          }
+        },
+        {
+          "id": 290671,
+          "name": "Kitsune no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290671-YaauAZvHLnyo.png",
+          "description": "",
+          "nicknames": [
+            "Kitsune no Akuma",
+            "狐の悪魔",
+            "Fox Devil"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "甲斐田裕子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95428-1e4kSvr5fkmQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kitsune no Akuma",
+            "name_native": "狐の悪魔",
+            "name_alternative": [
+              "Fox Devil"
+            ],
+            "description": "The Fox Devil is a devil that embodies the fear of foxes. \n\nIt is friendly with humans, allowing numerous Devil Hunters to make contracts with itself. However it only grants attractive people the ability to summon its head, showing a rather superficial side of itself.\n\n**Known Contractors:** \n~! [Aki Hayakawa](https://anilist.co/character/137081/Aki-Hayakawa), [Hirokazu Arai](https://anilist.co/character/174263/Hirokazu-Arai), [Nomo](https://anilist.co/character/174266/Nomo)!~"
+          }
+        },
+        {
+          "id": 174273,
+          "name": "Sakana no Akuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174273-Du3q4e65DU7k.png",
+          "description": "",
+          "nicknames": [
+            "Sakana no Akuma",
+            "魚の悪魔",
+            "Fish Devil"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Sakana no Akuma",
+            "name_native": "魚の悪魔",
+            "name_alternative": [
+              "Fish Devil"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 174283,
+          "name": "Himeno no Imouto",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b174283-WfXe3FLaEi3y.png",
+          "description": "",
+          "nicknames": [
+            "Himeno no Imouto",
+            "姫野の妹",
+            "Himeno's Sister"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松本沙羅",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n134577-YqnHKJF008t2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Himeno no Imouto",
+            "name_native": "姫野の妹",
+            "name_alternative": [
+              "Himeno's Sister"
+            ],
+            "description": "[Himeno](https://anilist.co/character/144596/Himeno)'s sister."
+          }
+        },
+        {
+          "id": 289199,
+          "name": "Kobun",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289199-QfzL8iFhjUPY.png",
+          "description": "",
+          "nicknames": [
+            "Kobun",
+            "子分"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上住谷崇",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/120291-HBoGM7kftW5Q.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kobun",
+            "name_native": "子分",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 289201,
+          "name": "Buka A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289201-dzChKYumlaoe.png",
+          "description": "",
+          "nicknames": [
+            "Buka A",
+            "部下A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "俊藤光利",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179317-dc8Qo2BQG0fd.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Buka A",
+            "name_native": "部下A",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 289202,
+          "name": "Buka B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289202-bcTrt145iS8Z.png",
+          "description": "",
+          "nicknames": [
+            "Buka B",
+            "部下B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中島卓也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142107-tc4KxRPG1m8w.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Buka B",
+            "name_native": "部下B",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 289203,
+          "name": "Zombie-tachi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Zombie-tachi",
+            "ゾンビ達"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松川裕輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119048-7hScWHmCgSL7.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Zombie-tachi",
+            "name_native": "ゾンビ達",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 289761,
+          "name": "Tenin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289761-DdsSEjykcqoz.png",
+          "description": "",
+          "nicknames": [
+            "Tenin",
+            "店員"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "蓮岳大",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96083-o3mjRlUiFAci.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Tenin",
+            "name_native": "店員",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 289762,
+          "name": "Keikan A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Keikan A",
+            "警官A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤晴男",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100629-TJ2CyI3ebE3l.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Keikan A",
+            "name_native": "警官A",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 289763,
+          "name": "Keikan B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Keikan B",
+            "警官B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "金城大和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126320-KsMu28S8aMAt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Keikan B",
+            "name_native": "警官B",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 289764,
+          "name": "Keikan C",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289764-ZEF1QmvBodz0.png",
+          "description": "",
+          "nicknames": [
+            "Keikan C",
+            "警官C"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "玉井勇輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n206818-pBrDQWW4mpVl.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Keikan C",
+            "name_native": "警官C",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 289765,
+          "name": "Majin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289765-MDgL4Q9AGqW3.png",
+          "description": "",
+          "nicknames": [
+            "Majin",
+            "魔人",
+            "Fiend"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐久間元輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198641-asEtMrB8qh84.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Majin",
+            "name_native": "魔人",
+            "name_alternative": [
+              "Fiend"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 289766,
+          "name": "Minkan no Devil Hunter",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289766-NUUV6DUuH3LH.png",
+          "description": "",
+          "nicknames": [
+            "Minkan no Devil Hunter",
+            "民間のデビルハンター"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐々木義人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106836-TqHuTa22Q8Dw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Minkan no Devil Hunter",
+            "name_native": "民間のデビルハンター",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 290199,
+          "name": "Uketsuke Shokuin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290199-WoD8xG4Bcchf.png",
+          "description": "",
+          "nicknames": [
+            "Uketsuke Shokuin",
+            "受付職員"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小野寺悠貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n290200-cyLRnRm30ycR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Uketsuke Shokuin",
+            "name_native": "受付職員",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 290329,
+          "name": "Kanbu A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290329-6W0zR4DM3cYf.png",
+          "description": "",
+          "nicknames": [
+            "Kanbu A",
+            "幹部A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "平林剛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n287432-RkrxwYRGiYcX.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kanbu A",
+            "name_native": "幹部A",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 290330,
+          "name": "Kanbu C",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290330-eilQqOmcgww0.png",
+          "description": "",
+          "nicknames": [
+            "Kanbu C",
+            "幹部C"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山口恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n247088-KFsxwIgkqdOk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kanbu C",
+            "name_native": "幹部C",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 290331,
+          "name": "Josei OL",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290331-3YiMZNhGHnyw.png",
+          "description": "",
+          "nicknames": [
+            "Josei OL",
+            "女性OL",
+            "Josei Shain (女性社員)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "川岸上子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n290332-cF40Xg0NDeUF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Josei OL",
+            "name_native": "女性OL",
+            "name_alternative": [
+              "Josei Shain (女性社員)"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 290333,
+          "name": "Chichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290333-XXbn2fobH9VV.png",
+          "description": "",
+          "nicknames": [
+            "Chichi",
+            "父"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "露木徳幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n239959-4lHERwzhQ2m4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Chichi",
+            "name_native": "父",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 290334,
+          "name": "Musume",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290334-leoCv0yz9AHk.png",
+          "description": "",
+          "nicknames": [
+            "Musume",
+            "娘"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小針彩希",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n249674-9sy6qozl95mH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Musume",
+            "name_native": "娘",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 290335,
+          "name": "Shanai no Otoko",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290335-K5bjq1SxTaZi.png",
+          "description": "",
+          "nicknames": [
+            "Shanai no Otoko",
+            "車内の男"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "相馬康一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113545-AiM4kzCRQROf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Shanai no Otoko",
+            "name_native": "車内の男",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 291240,
+          "name": "Hayakawa Chichioya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291240-DdaFQl3fWFfa.png",
+          "description": "",
+          "nicknames": [
+            "Hayakawa Chichioya",
+            "早川父親"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上田燿司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95926-00Pd2b8WZwQS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Hayakawa Chichioya",
+            "name_native": "早川父親",
+            "name_alternative": [],
+            "description": "Aki Hayakawa's father."
+          }
+        },
+        {
+          "id": 291241,
+          "name": "Hayakawa Hahaoya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b291241-aKmKz7L1b2eQ.png",
+          "description": "",
+          "nicknames": [
+            "Hayakawa Hahaoya",
+            "早川母親"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斉藤恵理",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101208-legerdxJnMlX.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Hayakawa Hahaoya",
+            "name_native": "早川母親",
+            "name_alternative": [],
+            "description": "Aki Hayakawa's mother."
+          }
+        },
+        {
+          "id": 292666,
+          "name": "Josei Kain",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292666-NurASZuLVcGT.jpg",
+          "description": "",
+          "nicknames": [
+            "Josei Kain",
+            "女性課員"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "國府咲月",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n288957-ruqI4b4zF8ah.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Josei Kain",
+            "name_native": "女性課員",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 292667,
+          "name": "Dansei Kain",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292667-MA9inlE18QjR.png",
+          "description": "",
+          "nicknames": [
+            "Dansei Kain",
+            "男性課員"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "黒澤剛史",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n292668-WzeY9pVmvFYY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Dansei Kain",
+            "name_native": "男性課員",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293138,
+          "name": "Buka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293138-IyZYvwfHzbub.png",
+          "description": "",
+          "nicknames": [
+            "Buka",
+            "部下"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "三瓶雄樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128197-Ay0C6BKWw5fu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Buka",
+            "name_native": "部下",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293139,
+          "name": "Otoko no Koe",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Otoko no Koe",
+            "男の声"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山下タイキ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n236982-mYojVMSBXUl9.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Otoko no Koe",
+            "name_native": "男の声",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293660,
+          "name": "Kobun A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Kobun A",
+            "子分A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石井隆之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n165942-ljGV0xP5kDR7.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kobun A",
+            "name_native": "子分A",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293661,
+          "name": "Kobun B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Kobun B",
+            "子分B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "樋山雄作",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n293662-7FH8gt6C02vt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kobun B",
+            "name_native": "子分B",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293663,
+          "name": "Kobun C",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Kobun C",
+            "子分C"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "奥村翔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n172200-OTOKA2GqyQxb.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kobun C",
+            "name_native": "子分C",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293664,
+          "name": "Kobun D",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Kobun D",
+            "子分D"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "露木徳幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n239959-4lHERwzhQ2m4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kobun D",
+            "name_native": "子分D",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293665,
+          "name": "Joukyaku A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Joukyaku A",
+            "乗客A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宮園拓夢",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190927-al0rO5vIW8wD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Joukyaku A",
+            "name_native": "乗客A",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293666,
+          "name": "Otoko A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Otoko A",
+            "男A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "相馬康一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113545-AiM4kzCRQROf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Otoko A",
+            "name_native": "男A",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293667,
+          "name": "Shokuin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Shokuin",
+            "職員"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "広瀬竜一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n293668-VrgfMmYXV2Vr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Shokuin",
+            "name_native": "職員",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293669,
+          "name": "Hanzaisha A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Hanzaisha A",
+            "犯罪者A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐久間元輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198641-asEtMrB8qh84.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Hanzaisha A",
+            "name_native": "犯罪者A",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293670,
+          "name": "Hanzaisha B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Hanzaisha B",
+            "犯罪者B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鍛治本大樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n130385-zJN2Wol3uhsu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Hanzaisha B",
+            "name_native": "犯罪者B",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 293671,
+          "name": "Hitojichi no Josei",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Hitojichi no Josei",
+            "人質の女性"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "濱口綾乃",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135857-Qp79ZiYPsSlz.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Hitojichi no Josei",
+            "name_native": "人質の女性",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 294172,
+          "name": "Announcer",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Announcer",
+            "アナウンサー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "俊藤光利",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179317-dc8Qo2BQG0fd.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Announcer",
+            "name_native": "アナウンサー",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 294736,
+          "name": "Kumichou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Kumichou",
+            "組長"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松山鷹志",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95685-hBzFgdWzq43x.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kumichou",
+            "name_native": "組長",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 294737,
+          "name": "Shiina",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294737-xNHNlLwqBSuw.jpg",
+          "description": "",
+          "nicknames": [
+            "Shiina",
+            "椎名"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "三瓶雄樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128197-Ay0C6BKWw5fu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Shiina",
+            "name_native": "椎名",
+            "name_alternative": [],
+            "description": "Kanagawa prefectural police"
+          }
+        },
+        {
+          "id": 294738,
+          "name": "Furuno",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b294738-mQPmNepLSuLH.jpg",
+          "description": "",
+          "nicknames": [
+            "Furuno",
+            "古野"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "ソンド",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n150947-xGpcM8t36Yix.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Furuno",
+            "name_native": "古野",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 295192,
+          "name": "Oootoko Zombie",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Oootoko Zombie",
+            "大男ゾンビ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋伸也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105148-wgwzwTxAERbM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Oootoko Zombie",
+            "name_native": "大男ゾンビ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 295193,
+          "name": "Nigeokureta Jyoukyaku",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Nigeokureta Jyoukyaku",
+            "逃げ遅れた乗客"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "濱口綾乃",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135857-Qp79ZiYPsSlz.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Nigeokureta Jyoukyaku",
+            "name_native": "逃げ遅れた乗客",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 311678,
+          "name": "Denji no Chichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311678-oRIk6xOjKo6Q.png",
+          "description": "",
+          "nicknames": [
+            "Denji no Chichi",
+            "デンジの父",
+            "Denji's Father"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Denji no Chichi",
+            "name_native": "デンジの父",
+            "name_alternative": [
+              "Denji's Father"
+            ],
+            "description": "This unnamed man was the father of [Denji](https://anilist.co/character/130102/Denji). ~!When Denji was young he killed his father in self defense, as his father was in a drunken aggressive state and he feared for his life. His father's murder was ruled a suicide by the adults in Denji’s life as acknowledging his death as a murder would mean they would be unable to get any money from his death. After his death, Denji inherits his debt to the Yakuza.!~"
+          }
+        },
+        {
+          "id": 401235,
+          "name": "Shuuzou Mishima",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401235-eDIkKgcqIv1h.png",
+          "description": "",
+          "nicknames": [
+            "Shuuzou Mishima",
+            "三島シュウゾウ"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Shuuzou Mishima",
+            "name_native": "三島シュウゾウ",
+            "name_alternative": [],
+            "description": "Shuzo Mishima is a civilian working for [Samurai Sword](https://anilist.co/character/157241/Samurai-Sword) and [Akane Sawatari](https://anilist.co/character/174264/Akane-Sawatari)."
+          }
+        },
+        {
+          "id": 401236,
+          "name": "Takashi Inoue",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b401236-90Wd05VeF1f1.jpg",
+          "description": "",
+          "nicknames": [
+            "Takashi Inoue",
+            "井上タカシ"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Takashi Inoue",
+            "name_native": "井上タカシ",
+            "name_alternative": [],
+            "description": "Takashi Inoue is a civilian working for [Samurai Sword](https://anilist.co/character/157241/Samurai-Sword) and [Akane Sawatari](https://anilist.co/character/174264/Akane-Sawatari)."
+          }
+        }
+      ]
+    }
+  ]
+}

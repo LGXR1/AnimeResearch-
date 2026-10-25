@@ -1,0 +1,750 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:08:13.514Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 209983,
+      "anime_title": "地狱模式：喜欢挑战高难度的玩家在异世界无双",
+      "anime_origin": "JP",
+      "source": {
+        "id": 209983,
+        "titles": [
+          "Hell Mode: Yarikomi-zuki no Gamer wa Haisettei no Isekai de Musou Suru 2nd Season",
+          "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
+          "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ 2nd Season",
+          "HELL MODE ~อยากเล่นโหด ขอโหมดนรก~ ซีซั่น 2"
+        ],
+        "year": 2026,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/209983"
+      },
+      "characters": [
+        {
+          "id": 351117,
+          "name": "艾伦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351117-jhDrxBCFV80B.png",
+          "description": "艾伦前世是热衷游戏的玩家，转生后出生在一座无名拓荒村，身份却只是农奴。虽然周围人认为他没有天赋，他实际拥有世界上罕见的召唤士职业，并选择挑战成长缓慢、难度极高的“地狱模式”。艾伦善于研究规则、规划战术，通过召唤魔物逐步提升实力，也努力让家人和朋友摆脱贫困处境。",
+          "nicknames": [
+            "艾伦",
+            "Allen",
+            "アレン",
+            "Kenichi Yamada (山田健一)"
+          ],
+          "traits": [
+            "转生前是热衷游戏的玩家",
+            "出生于无名拓荒村",
+            "身份是农奴",
+            "拥有稀有召唤士职业",
+            "主动选择地狱难度",
+            "擅长研究规则与策略",
+            "召唤魔物协助战斗",
+            "努力改善家人生活",
+            "与克蕾娜从小相识",
+            "面对高难度不退缩"
+          ],
+          "voice_actors": [
+            {
+              "name": "加瀬康之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95801-Jno6Y2OawOII.png",
+              "language": "日语"
+            },
+            {
+              "name": "田村睦心",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105013-DffN0XN2Zw7G.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Allen",
+            "name_native": "アレン",
+            "name_alternative": [
+              "Kenichi Yamada (山田健一)"
+            ],
+            "description": "Allen lives in a small, nameless pioneer village. His status is serf. Although he is ostensibly without talent, he actually has the world's only \"Summoner\" class. In fact, he was an enthusiastic gamer in his previous life, and with his experience and enthusiasm of clearing unreasonably high-difficulty games, he challenges the \"hell mode\" of another world."
+          }
+        },
+        {
+          "id": 369796,
+          "name": "塞西尔·格兰维尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369796-2EkvKrg5b5es.png",
+          "description": "塞西尔·格兰维尔是统治艾伦家乡的格兰维尔家族年轻继承人，出身显赫，拥有魔法师职业。她在家人和外人面前通常表现得优雅得体，对亲近的朋友却会显露任性的一面。塞西尔熟悉贵族生活与领地事务，也具备实际战斗能力；她与身为农奴的艾伦身份悬殊，却逐渐成为其成长过程中重要的同伴。",
+          "nicknames": [
+            "塞西尔·格兰维尔",
+            "Cecil Granvelle",
+            "セシル・グランヴェル"
+          ],
+          "traits": [
+            "格兰维尔家族的年轻继承人",
+            "领地拥有者的女儿",
+            "职业为魔法师",
+            "出身贵族",
+            "公开场合举止优雅",
+            "私下对亲近朋友任性",
+            "擅长使用魔法",
+            "与艾伦生活在同一领地",
+            "在意家族身份",
+            "拥有较强自尊心"
+          ],
+          "voice_actors": [
+            {
+              "name": "千本木彩花",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119616-Dakq7gsUo2ja.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Cecil Granvelle",
+            "name_native": "セシル・グランヴェル",
+            "name_alternative": [],
+            "description": "The willful young heiress of the Granvelle family, who own and lord over Allen's hometown. Her class is \"Wizardess\". She usually plays the role of a graceful daughter to her family, but shows her selfish side to her closest friends."
+          }
+        },
+        {
+          "id": 369797,
+          "name": "克蕾娜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369797-KnXfOU3c4Leq.png",
+          "description": "克蕾娜是拓荒村的农奴少女，也是艾伦从小一起长大的伙伴。她天真直率，天生拥有罕见的剑王职业，年仅五岁时剑术就已超过成年人；相比思考复杂问题，她更喜欢挥剑、比试和扮演骑士。克蕾娜在战斗中反应敏捷、行动果断，对艾伦十分信任。她的剑术天赋与单纯热情，使她成为队伍中可靠的近战伙伴。",
+          "nicknames": [
+            "克蕾娜",
+            "Krena",
+            "クレナ",
+            "Kurena"
+          ],
+          "traits": [
+            "拓荒村农奴少女",
+            "艾伦的童年伙伴",
+            "拥有剑王职业天赋",
+            "五岁时剑术已胜过成年人",
+            "喜欢战斗与比试",
+            "思考方式单纯直接",
+            "不擅长复杂计算",
+            "崇拜骑士与剑士",
+            "反应敏捷",
+            "珍视与艾伦的友情"
+          ],
+          "voice_actors": [
+            {
+              "name": "飯塚麻結 ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n166401-Mi9gWByiMzgc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Krena",
+            "name_native": "クレナ",
+            "name_alternative": [
+              "Kurena"
+            ],
+            "description": "A serf girl with an innocent personality. Her natural class is \"Sword Lord\" - while her skills with swordplay already outpaced an adult's when she was five years old, she'd not good with using her head. Loves to fight and plays knights with her childhood friend Allen."
+          }
+        },
+        {
+          "id": 369798,
+          "name": "多戈拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b369798-YW4DWHsSGHoq.png",
+          "description": "多戈拉是格兰维尔村军火商的儿子，在同龄孩子中常摆出领头者的架势。他性格好胜，情绪直接，天生擅长使用斧头，也喜欢捉弄被自己视作弱小的艾伦。多戈拉并非只会逞强，他重视伙伴间的认可，逐渐与艾伦和克蕾娜组成冒险小队。面对真正的危险时，他的力量和直率也能成为队伍的助力。",
+          "nicknames": [
+            "多戈拉",
+            "Dogora",
+            "ドゴラ"
+          ],
+          "traits": [
+            "军火商之子",
+            "居住在格兰维尔村",
+            "孩子们中的领头者",
+            "天生适合使用斧头",
+            "性格好胜",
+            "喜怒常直接表现在脸上",
+            "喜欢捉弄艾伦",
+            "重视同伴认可",
+            "拥有战斗天赋",
+            "与艾伦和克蕾娜一同长大"
+          ],
+          "voice_actors": [
+            {
+              "name": "畠中祐",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107018-UwRPnTdllbPT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dogora",
+            "name_native": "ドゴラ",
+            "name_alternative": [],
+            "description": "The son of an arms dealer in Granvelle Village, Dogora is considered the bratty general of the kids there. He has a competitive personality and wears his heart on his sleeve. His natural talent is wielding axes. He loves to tease Allen, who he considers lower than himself."
+          }
+        },
+        {
+          "id": 381983,
+          "name": "马什",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381983-uKWRfLesokLU.png",
+          "description": "马什是艾伦的弟弟，在拓荒村与家人一起生活。他年纪尚小，性格活泼，名字寄托着希望他能自由奔跑、健康长大的祝愿。马什看到哥哥和伙伴们玩骑士游戏后，开始对长枪产生兴趣，也常模仿他们练习。虽然还没有真正的战斗经验，他对家人的依赖与对武器的好奇，展现出逐渐成长的可能。",
+          "nicknames": [
+            "马什",
+            "Mash",
+            "マッシュ"
+          ],
+          "traits": [
+            "艾伦的弟弟",
+            "在拓荒村长大",
+            "性格活泼好动",
+            "名字寓意健康成长",
+            "对长枪产生兴趣",
+            "喜欢模仿骑士游戏",
+            "崇拜哥哥艾伦",
+            "重视家人陪伴",
+            "年纪尚小经验不足",
+            "展现出练习武器的热情"
+          ],
+          "voice_actors": [
+            {
+              "name": "小市眞琴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129325-RhR0e5aA6Yj5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mash",
+            "name_native": "マッシュ",
+            "name_alternative": [],
+            "description": "Allen's younger brother. His name has the meaning of \"so that you will grow up to be a child who runs around freely\". He became interested in spears after watching Allen and his friends play knights."
+          }
+        },
+        {
+          "id": 381984,
+          "name": "特蕾西亚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381984-FtbJjgBEF0m7.png",
+          "description": "特蕾西亚是艾伦与马什的母亲，日常以温柔而坚定的方式照料家庭。艾伦被村里人判定为没有天赋时，她没有因此疏远或放弃儿子，而是始终接纳他、鼓励他寻找自己的道路。特蕾西亚面对农奴家庭的艰苦生活仍努力维持温暖的家，也关心孩子们的安全与成长。她的支持让艾伦在面对偏见和高难度挑战时保有信心。",
+          "nicknames": [
+            "特蕾西亚",
+            "Theresia",
+            "テレシア"
+          ],
+          "traits": [
+            "艾伦与马什的母亲",
+            "勤劳照顾家庭",
+            "对孩子充满关爱",
+            "接纳被认为没有天赋的艾伦",
+            "不以职业评价孩子",
+            "性格温柔包容",
+            "鼓励子女成长",
+            "面对农奴生活坚韧",
+            "重视家庭团聚",
+            "为艾伦提供情感支持"
+          ],
+          "voice_actors": [
+            {
+              "name": "大原さやか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Theresia",
+            "name_native": "テレシア",
+            "name_alternative": [],
+            "description": "Allen's mother. She raises her children with a lot of love. She does not disown Allen, who is judged to have no talent, but accepts him gently."
+          }
+        },
+        {
+          "id": 381985,
+          "name": "罗丹",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381985-cZ0vvuXfVImF.png",
+          "description": "罗丹是艾伦与马什的父亲，作为拓荒村的农奴，他靠勤劳工作与狩猎维持家计。虽然外表粗犷，罗丹内心善良温厚，对妻子和孩子十分关心，也愿意承担保护家人的责任。他熟悉村庄周边的野外环境，在狩猎魔兽时能够发挥经验。罗丹支持艾伦努力成长，既是家庭中的依靠，也让儿子看到普通村民坚韧生活的一面。",
+          "nicknames": [
+            "罗丹",
+            "Rodan",
+            "ロダン"
+          ],
+          "traits": [
+            "艾伦与马什的父亲",
+            "拓荒村农奴",
+            "外表粗犷",
+            "内心善良温厚",
+            "勤奋可靠",
+            "非常关心家人",
+            "熟悉野外狩猎",
+            "参与狩猎魔兽",
+            "承担家庭生计",
+            "以行动保护村民"
+          ],
+          "voice_actors": [
+            {
+              "name": "石川英郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95412-czaGpvAm5pWx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rodan",
+            "name_native": "ロダン",
+            "name_alternative": [],
+            "description": "Allen's father. Contrary to his wild appearance, he has a kind heart. He cares about his family very much. Besides, that, he's a hard worker. He is a serf in the pioneering village and plays an active role when hunting the demonic beast Boa."
+          }
+        },
+        {
+          "id": 381988,
+          "name": "米哈伊·格兰维尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b381988-wrKO86rtNwTi.png",
+          "description": "米哈伊·格兰维尔是格兰维尔家族的长子，出身领地贵族，拥有出色的剑术天赋。他虽然实力强，却性格谦逊温和，不会在旁人面前炫耀本领，也愿意尊重他人的努力。作为家族继承序列中的重要成员，米哈伊从小接受贵族教育并承担相应责任；他与塞西尔等家人之间的关系，也让贵族领地的日常和权力结构逐渐展现出来。",
+          "nicknames": [
+            "米哈伊·格兰维尔",
+            "Mikhail Granvelle",
+            "ミハイ＝グランヴェル"
+          ],
+          "traits": [
+            "格兰维尔家族长子",
+            "出身地方贵族",
+            "擅长剑术",
+            "性格谦逊温和",
+            "不以实力炫耀",
+            "重视家族责任",
+            "受过贵族教育",
+            "与弟妹共同生活",
+            "具备战斗天赋",
+            "尊重他人的努力"
+          ],
+          "voice_actors": [
+            {
+              "name": "千葉翔也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119672-2CrLoxBEYTMk.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mikhail Granvelle",
+            "name_native": "ミハイ＝グランヴェル",
+            "name_alternative": [],
+            "description": "The eldest son of the Granvelle family. He is skilled in swordsmanship but is also a humble and gentle person who never shows off his skills to those around him."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 180929,
+      "anime_title": "琉璃的宝石",
+      "anime_origin": "JP",
+      "source": {
+        "id": 180929,
+        "titles": [
+          "Ruri no Houseki",
+          "Ruri Rocks",
+          "瑠璃の宝石",
+          "Introduction to Mineralogy"
+        ],
+        "year": 2025,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/180929"
+      },
+      "characters": [
+        {
+          "id": 345368,
+          "name": "荒砥凪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b345368-cFLgbircDRLH.png",
+          "description": "荒砥凪是主修矿物学的研究生，知识扎实，性格耐心沉稳，对野外调查和矿物研究怀有长期热情。她在与谷川瑠璃相遇后，帮助这名高中生把对漂亮宝石的兴趣转化为系统的矿物学探索。凪善于观察岩石结构，也愿意用容易理解的方式讲解专业知识；她鼓励瑠璃亲自观察、提出问题，并重视科学记录与野外采集规范。",
+          "nicknames": [
+            "荒砥凪",
+            "Nagi Arato",
+            "荒砥 凪"
+          ],
+          "traits": [
+            "矿物学研究生",
+            "知识扎实",
+            "性格耐心沉稳",
+            "热爱野外地质调查",
+            "善于观察矿石结构",
+            "指导瑠璃认识矿物",
+            "重视科学证据",
+            "乐于分享专业知识",
+            "持续从事矿物研究",
+            "尊重自然与采集规范"
+          ],
+          "voice_actors": [
+            {
+              "name": "瀬戸麻沙美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-ojpoY7XEGYgc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Nagi Arato",
+            "name_native": "荒砥凪",
+            "name_alternative": [],
+            "description": "Nagi is a graduate student majoring in mineralogy. She is intelligent, patient, and passionate about her field of study."
+          }
+        },
+        {
+          "id": 345369,
+          "name": "谷川琉璃",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b345369-ekr1DhqEpbjy.png",
+          "description": "谷川琉璃是一名高中生，从小就被闪亮漂亮的宝石吸引，因而开始接触矿物学。她好奇心旺盛，喜欢亲自观察石头、收集样本，并在研究生荒砥凪的指导下学习矿物鉴定和野外记录。瑠璃最初凭直觉寻找喜欢的石头，之后逐渐理解地质环境与矿物形成的关系；她积极探索，也带动身边同学参与这份兴趣。",
+          "nicknames": [
+            "谷川琉璃",
+            "Ruri Tanigawa",
+            "谷川瑠璃"
+          ],
+          "traits": [
+            "高中生",
+            "喜欢闪亮的宝石",
+            "对矿物学产生兴趣",
+            "好奇心旺盛",
+            "喜欢亲自观察石头",
+            "从凪处学习科学知识",
+            "行动积极",
+            "逐渐掌握采集方法",
+            "重视与朋友同行",
+            "将兴趣发展为持续探索"
+          ],
+          "voice_actors": [
+            {
+              "name": "根本京里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n238272-Uj0tTXqzJ1pw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ruri Tanigawa",
+            "name_native": "谷川瑠璃",
+            "name_alternative": [],
+            "description": "Ruri is a high schooler with a love for pretty gemstones, which leads her to become interested in mineralogy."
+          }
+        },
+        {
+          "id": 358731,
+          "name": "伊万里曜子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358731-NDEKUW0grcKj.png",
+          "description": "伊万里曜子是主修矿物学的大学生，与荒砥凪在研究和野外调查中密切合作。她熟悉大学阶段的研究流程，能够协助辨认样本并记录矿物特征，也会把专业视角带入团队的观察。曜子对地质现象抱有持续兴趣，既认真处理调查资料，也愿意与谷川瑠璃等初学者交流，让矿物学知识从课堂延伸到实际的自然环境。",
+          "nicknames": [
+            "伊万里曜子",
+            "Youko Imari"
+          ],
+          "traits": [
+            "矿物学专业大学生",
+            "与凪共同研究",
+            "熟悉野外调查流程",
+            "关注矿石样本",
+            "具有大学研究经验",
+            "愿意协助同伴学习",
+            "参与矿物鉴定",
+            "重视观察记录",
+            "与研究团队合作",
+            "对地质现象保持兴趣"
+          ],
+          "voice_actors": [
+            {
+              "name": "宮本侑芽",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104510-hB8YLsPRLNKq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Youko Imari",
+            "name_native": "伊万里曜子",
+            "name_alternative": [],
+            "description": "Youko is a university student majoring in mineralogy. She works closely with [Nagi](https://anilist.co/character/345368)"
+          }
+        },
+        {
+          "id": 358730,
+          "name": "濑户硝子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358730-agBhE85luqHk.png",
+          "description": "濑户硝子是谷川瑠璃的同班同学，从小便对矿物学感兴趣，也一直关注石头和宝石。她拥有比瑠璃更早积累的观察经验，愿意在同学交流时分享自己熟悉的知识。硝子做事认真，能够注意到岩石外观与产地环境的细节；随着瑠璃开始系统学习矿物，她也参与到共同探索中，让兴趣从个人收藏扩展为朋友间的交流。",
+          "nicknames": [
+            "濑户硝子",
+            "Shouko Seto",
+            "瀬戸硝子"
+          ],
+          "traits": [
+            "瑠璃的同班同学",
+            "从小对矿物学感兴趣",
+            "喜欢观察石头与宝石",
+            "拥有相关基础知识",
+            "愿意分享兴趣",
+            "参与同学间的探索",
+            "做事认真",
+            "对地质现象敏感",
+            "支持瑠璃的好奇心",
+            "保持长期收藏热情"
+          ],
+          "voice_actors": [
+            {
+              "name": "林咲紀",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n358733-uGMWhRs9QFsW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shouko Seto",
+            "name_native": "瀬戸硝子",
+            "name_alternative": [],
+            "description": "Shouko is [Ruri](https://anilist.co/character/345369)'s classmate. She's been interested in mineralogy for her whole life."
+          }
+        },
+        {
+          "id": 358732,
+          "name": "笠丸葵",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358732-3I3aOsqXVbJ4.png",
+          "description": "笠丸葵是瑠璃的朋友与同班同学，平日亲切随和，愿意陪伴朋友参加校园活动和矿物探索。她起初并非专业研究者，却会认真倾听瑠璃介绍发现的石头，并在共同外出时逐渐对矿物产生兴趣。葵善于留意同伴的情绪，也能在小组活动中提供轻松的氛围；她与瑠璃、硝子的友情让科学探索变得更像一段共享的青春经历。",
+          "nicknames": [
+            "笠丸葵",
+            "Aoi Kasamaru"
+          ],
+          "traits": [
+            "瑠璃的朋友与同班同学",
+            "性格亲切",
+            "愿意陪伴朋友探索",
+            "参与校园日常",
+            "对矿物逐渐产生兴趣",
+            "乐于倾听同伴介绍",
+            "适应野外活动",
+            "珍视朋友关系",
+            "观察力细致",
+            "为探索小组增添活力"
+          ],
+          "voice_actors": [
+            {
+              "name": "山田美鈴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n205454-1FFQ4rzTE0jW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aoi Kasamaru",
+            "name_native": "笠丸葵",
+            "name_alternative": [],
+            "description": "Aoi is Ruri's friend and classmate."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 134,
+      "anime_title": "神枪少女",
+      "anime_origin": "JP",
+      "source": {
+        "id": 134,
+        "titles": [
+          "GUNSLINGER GIRL",
+          "Gunslinger Girl",
+          "ガンスリンガー・ガール",
+          "Школа убийц"
+        ],
+        "year": 2003,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/134"
+      },
+      "characters": [
+        {
+          "id": 2018,
+          "name": "亨丽埃塔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2018-OXIxnwqsh4C8.jpg",
+          "description": "亨丽埃塔是社会福利公社行动部门的义体少女，由荷西负责照护与训练。她经历家庭惨剧后被公社救下，接受身体改造并成为执行危险任务的特工。亨丽埃塔平日安静顺从，逐渐适应新的生活，也十分依赖给予自己照顾的荷西；当荷西把注意力转向别人时，她会显露孩子般的嫉妒。她的经历呈现出少女身份与军事任务之间的冲突。",
+          "nicknames": [
+            "亨丽埃塔",
+            "Henrietta",
+            "ヘンリエッタ"
+          ],
+          "traits": [
+            "社会福利公社的义体少女",
+            "隶属行动部门",
+            "由荷西负责照护与训练",
+            "接受过身体改造",
+            "擅长使用枪械执行任务",
+            "性格安静而依赖熟人",
+            "对荷西怀有强烈情感",
+            "会因他关注别人而吃醋",
+            "努力适应新的生活",
+            "在任务中服从搭档安排"
+          ],
+          "voice_actors": [
+            {
+              "name": "南里侑香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95366-8PqkqaC1vc2X.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Henrietta",
+            "name_native": "ヘンリエッタ",
+            "name_alternative": [],
+            "description": "She was left for dead after the brutal murder of all members of her family, Henrietta is the newest addition to the Agency. She was assaulted repeatedly next to the dead bodies all night, which had inflicted psychological trauma to her, making her suicidal. Her struggle is the most developed of all the girls as she adjusts to her new life. Henrietta's favorite activity is to spend time with her handler, Jose. Whenever Jose seems to turn his attention to other women (including the other cyborgs of the SWA), Henrietta becomes slightly jealous. This is due to Henrietta's strong romantic feelings for him, as a result of her faint conditioning and the care he gives her."
+          }
+        },
+        {
+          "id": 2019,
+          "name": "特莉耶拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2019-Ute2SDjpctzZ.png",
+          "description": "特莉耶拉是社会福利公社的义体少女，搭档是特工希尔夏。她在遭遇犯罪集团伤害后获救，接受改造并加入行动部门。特莉耶拉常穿中性风格的衣服，说话带着讽刺感，却会像姐姐一样照看其他女孩。她擅长使用手枪与霰弹枪，作战时勇敢坚韧；同时，她比同伴更清楚地意识到自己被安排执行任务的现实。",
+          "nicknames": [
+            "特莉耶拉",
+            "Triela",
+            "トリエラ",
+            "Princess"
+          ],
+          "traits": [
+            "社会福利公社义体少女",
+            "搭档是希尔夏",
+            "擅长使用手枪与霰弹枪",
+            "穿着偏中性风格",
+            "说话带讽刺感",
+            "常照顾年幼同伴",
+            "在少女中像姐姐一样",
+            "对自身处境看得清醒",
+            "经历过严重创伤",
+            "作战时勇敢坚韧"
+          ],
+          "voice_actors": [
+            {
+              "name": "仙台エリ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95523-Z2mIzxl8NgnE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Triela",
+            "name_native": "トリエラ",
+            "name_alternative": [
+              "Princess"
+            ],
+            "description": "She was former victim of a Mafia child smuggling group based in Amsterdam, Triela was one among many who regularly suffered abuse in the form of drugs, torture, rape and mutilation. She was rescued by a pair of Europol detectives, one of whom was her future handler, [Hilshire](https://anilist.co/character/2026/Hilshire). After being mortally wounded in a gunfight, Hilshire's partner bravely used the last of her strength to perform CPR on Triela, enabling Hilshire to save the child's life.\n\nTriela has a sarcastic wit and prefers to wear masculine clothing. She serves as a sort of mentor/Mother to the other girls of the SWA and she retains the most realistic outlook on their situation.\n\nTriela's preferred weapons are the SIG-Sauer P230 SL pistol (after losing her P230 to Pinocchio, she is given a 232-SL as a replacement) and the M1897 Trench Shotgun with bayonet attachment. She has also been shown using a selection of Heckler &amp; Koch weaponry, including the H&amp;K G3A3 battle rifle, the H&amp;K P7M8 pistol, H&amp;K UMP submachine gun and H&amp;K MP7 PDW.\n\n~!During the assault on the nuclear plant, Triela is severely wounded but manages to hold off several soldiers allowing [Rico](https://anilist.co/character/2020/Rico) and [Henrietta](https://anilist.co/character/2018/Henrietta) to advance further into the plant. Hilshire comes to her aid after Rico informs him that Triela had been injured.!~"
+          }
+        },
+        {
+          "id": 2020,
+          "name": "莉可",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2020-vfS9Y9WW6IWb.jpg",
+          "description": "莉可是社会福利公社的义体少女，由让·克罗切负责训练与任务安排。她幼年时因严重的先天疾病长期住院，十一岁时被家人交给公社，随后接受义体手术并获得行动能力。莉可珍惜改造后的身体与新生活，平时保持开朗态度，即使搭档常把她当作工具，她仍努力从每天的经历中寻找希望。她也是少数清楚记得过去生活细节的女孩。",
+          "nicknames": [
+            "莉可",
+            "Rico",
+            "リコ"
+          ],
+          "traits": [
+            "社会福利公社义体少女",
+            "由让·克罗切负责",
+            "自幼长期住院",
+            "接受义体手术后加入公社",
+            "喜欢改造后的身体",
+            "珍惜每天的生活",
+            "性格开朗乐观",
+            "仍记得原生家庭经历",
+            "执行任务时服从安排",
+            "把新生活视作礼物"
+          ],
+          "voice_actors": [
+            {
+              "name": "三橋加奈子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95546-5e9W5NbCZroo.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Rico",
+            "name_native": "リコ",
+            "name_alternative": [],
+            "description": "She was born with severe birth defects confining her to a hospital since birth, Rico's parents signed her over to the SWA on her eleventh birthday, where she was given a new lease on life due to her cybernetic operation. Rico loves her new body and life at the SWA, viewing each day as a blessing. She maintains a happy disposition, despite her treatment as a machine by her handler, Jean. Rico is only one who clearly remembers her past: that she was in a hospital, that her parents fought, and where her father works."
+          }
+        },
+        {
+          "id": 2021,
+          "name": "克拉耶斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2021-WeHo6MjxcRTf.jpg",
+          "description": "克拉耶斯是社会福利公社的义体少女，改造前曾名为弗蕾达·克拉耶斯·约翰松。搭档拉巴洛去世后，她一度无法参加外勤任务，后来被安排接受义体性能观察。克拉耶斯佩戴眼镜，把它当作旧生活与承诺的纪念；她知识丰富、比同龄人沉稳，喜欢阅读和独自思考。虽然话不多，她对拉巴洛的记忆始终影响着自己的选择。",
+          "nicknames": [
+            "克拉耶斯",
+            "Claes",
+            "クラエス",
+            "Fleda Claes Johansson"
+          ],
+          "traits": [
+            "社会福利公社义体少女",
+            "曾用名弗蕾达·克拉耶斯·约翰松",
+            "搭档拉巴洛已经去世",
+            "起初没有外勤任务",
+            "曾作为义体实验观察对象",
+            "佩戴眼镜",
+            "保留旧生活的记忆",
+            "知识丰富且成熟",
+            "重视对拉巴洛的承诺",
+            "习惯独自阅读与思考"
+          ],
+          "voice_actors": [
+            {
+              "name": "小清水亜美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Claes",
+            "name_native": "クラエス",
+            "name_alternative": [
+              "Fleda Claes Johansson"
+            ],
+            "description": "Once known as Fleda Claes Johansson, this girl has undefined origins. In the beginning, Claes is confined to the Agency, unable to participate in missions with the other girls because her handler, Raballo, had died, which caused her to snap. She is used as a test subject by the cyborg engineers, who utilize controlled situations and equipment to monitor the usefulness of her implants. Claes wears glasses from her life before her cybernetic operation as a visual reminder of the promise she once made to Raballo and is knowledgeable and mature for her age."
+          }
+        },
+        {
+          "id": 2025,
+          "name": "让·克罗切",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2025-9xdXwSb2LRYA.jpg",
+          "description": "让·克罗切是社会福利公社第二科特工，也是行动部门的现场指挥官，由他负责莉可的训练和任务安排。他是荷西的哥哥，性格冷硬，处理工作时重视效率与纪律，常把莉可视作完成行动的工具。妹妹及未婚妻索菲亚死于恐怖袭击后，让对恐怖主义怀有强烈憎恨，这也使他在执行任务时变得严厉甚至冷酷。",
+          "nicknames": [
+            "让·克罗切",
+            "Jean Croce",
+            "ジャン"
+          ],
+          "traits": [
+            "社会福利公社第二科特工",
+            "行动部门现场指挥官",
+            "莉可的搭档与训练负责人",
+            "荷西的哥哥",
+            "性格冷硬严厉",
+            "把任务纪律看得很重",
+            "因亲人遭遇恐怖袭击而憎恨恐怖主义",
+            "对莉可的态度疏离",
+            "擅长安排行动计划",
+            "在工作中追求效率"
+          ],
+          "voice_actors": [
+            {
+              "name": "宮本充",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96469-uVRO2mYXvXxP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jean Croce",
+            "name_native": "ジャン",
+            "name_alternative": [],
+            "description": "Field commander and  An agent of Section 2, Rico&#039;s handler and Jose` older brother. Where as Jose` shows genuine care and concern for Henrietta&#039;s welfare, Jean adopts a cold and impersonal attitude, viewing Rico as a tool and keeping her on heavy doses of conditioning. When his younger sister and fiancee Sophia was killed, Jean learned to hate terrorism. As a result, Jean became driven, hard-hearted, ruthless and sometimes cruel, especially when dealing with terrorists. Jean could have specifically chosen Rico because she would not mind his cold-hearted personality."
+          }
+        }
+      ]
+    }
+  ]
+}

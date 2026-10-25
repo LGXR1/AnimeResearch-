@@ -1,0 +1,842 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:05:29.493Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 167820,
+      "anime_title": "晚安世界",
+      "anime_origin": "JP",
+      "source": {
+        "id": 167820,
+        "titles": [
+          "Good Night World",
+          "GOOD NIGHT WORLD",
+          "グッド・ナイト・ワールド",
+          "Добраніч, світе",
+          "Boa Noite, Mundo",
+          "Καληνύχτα, Κόσμε",
+          "Noapte bună, lume!",
+          "Buenas noches, mundo",
+          "กู๊ดไนท์ เวิลด์",
+          "굿 나이트 월드",
+          "تصبح على خير أيها العالم"
+        ],
+        "year": 2023,
+        "format": "ONA",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/167820"
+      },
+      "characters": [
+        {
+          "id": 311489,
+          "name": "有间太一郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311489-QSTKVmVE3wQY.png",
+          "description": "有间太一郎在虚拟世界Planet中使用“Ichi”作为游戏名，是高阶公会赤羽家族的核心成员。他战斗能力极强，却性格急躁、爱计较，尤其在别人不认真听他的招式名称或取笑他时容易发火。太一郎在游戏中能冷酷击杀其他玩家，现实生活里则是一个与家人疏离的少年；他与赤羽士郎之间的父子关系逐渐成为故事核心。",
+          "nicknames": [
+            "有间太一郎",
+            "Ichi",
+            "イチ",
+            "Taichirou Arima",
+            "赤羽一"
+          ],
+          "traits": [
+            "在Planet中使用Ichi作为游戏名",
+            "是赤羽家族的高阶玩家",
+            "战斗能力极强",
+            "性格急躁而爱计较",
+            "很在意队友是否认可招式名称",
+            "在游戏中不排斥击杀其他玩家",
+            "现实身份是有间太一郎",
+            "与赤羽士郎形成父子关系",
+            "由广濑大介配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "廣瀬大介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121556-clF6MDM5ADgb.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ichi",
+            "name_native": "イチ",
+            "name_alternative": [],
+            "description": "Member of the high-level Akabane Family. Although insanely strong, he's very petty and short-tempered, especially if people don't take his flashy technique names seriously or make fun of him. He also doesn't seem to mind killing other players at any given time - something which the Planet community strongly frowns upon.\n\n~!In the real world, he's a shut-in, living on terrible terms with his family - especially his father, whom he considers loathsome and irredeemable, and his brother, whom he assumes must be looking down on him all the time. However, he's a very skilled programmer, for example being able to create a program to bypass a ban with minimal effort.!~\n\n~!He hates when Aya is brought up in conversation, prompting him to have PTSD flashbacks and snap at whoever brings her up.!~"
+          }
+        },
+        {
+          "id": 311492,
+          "name": "赤羽士郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311492-xsU3K6v1mfNt.png",
+          "description": "赤羽士郎是Planet中高阶公会赤羽家族的成员，可靠、睿智且实力强大，被公会视为不可缺少的支柱，Ichi也把他当作父亲般的人物。士郎在游戏中承担团队稳定者角色，现实身份则是有间家父亲有间浩次郎。游戏中的理想化形象与现实家庭中的沉默和失意形成反差，逐步揭示他与太一郎及其他家人之间的真实关系。",
+          "nicknames": [
+            "赤羽士郎",
+            "Shiro Akabane",
+            "白",
+            "有间浩次郎"
+          ],
+          "traits": [
+            "赤羽家族的骨干成员",
+            "在Planet中使用Shiro Akabane作为游戏名",
+            "为人可靠明智且战斗力强",
+            "公会成员依赖他的判断",
+            "被Ichi视作父亲般的支柱",
+            "现实身份是有间家父亲",
+            "与Ichi在现实中是父子",
+            "在游戏中维持赤羽家族秩序",
+            "由大塚明夫配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "大塚明夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95146-T6IEmqXW3xUN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shiro Akabane",
+            "name_native": "赤羽士郎",
+            "name_alternative": [],
+            "description": "One of the members of the high-ranking Akabane Family. Due to being dependable, wise and strong, Ichi looks up to him as a sort of father figure, and the rest of the guild sees him as their backbone.\n\n~!He's actually Ichi's real-life father, as well as the creator of Planet. Although he's an extremely skilled programmer and tech genius, he's also a hopeless perfectionist who dislikes anything illogical, which often had terrible consequences for his children - most notably Aya, who was often the target of his scrutiny due to her timid nature.!~\n\n~!He blames himself for his daughter's death, having even gone as far as creating an AI replica of her in an attempt to bring her back and apologize for his mistakes.!~"
+          }
+        },
+        {
+          "id": 311493,
+          "name": "有间明",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311493-COSEnEy93FAS.png",
+          "description": "有间明在Planet中使用“AAAAA”作为游戏名，是赤羽家族成员。他性格友好开朗，战斗能力不及公会里的高手，也坦言自己不擅长想名字，因此取了重复字母作为游戏昵称。明在现实生活中是有间家的次子，和哥哥太一郎、父亲浩次郎同住一个家庭，却同样在家中感到疏离；网络公会成为他寻找亲密关系的地方。",
+          "nicknames": [
+            "有间明",
+            "AAAAA",
+            "あああああ",
+            "Asuma Arima",
+            "阿苏马"
+          ],
+          "traits": [
+            "在Planet中使用AAAAA作为游戏名",
+            "是赤羽家族成员",
+            "性格友好开朗",
+            "游戏技术不如公会其他成员",
+            "自认缺乏创意而取了重复字母名",
+            "现实身份是有间明",
+            "与太一郎和父亲同属一个家庭",
+            "在网络世界中寻求家庭归属",
+            "由岛崎信长配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "島﨑信長",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "AAAAA",
+            "name_native": "あああああ",
+            "name_alternative": [],
+            "description": "One of the Akabane Family's members. He's very friendly and cheerful, although not as skilled as the rest of the guild's members. He also remarks that he's not a very creative person, which is why he named himself the way he did.\n\n~!In real life, he's actually Ichi's younger brother and seems to have a successful professional career. However, he struggles to express emotions, which makes him often come off as cold and uncaring.!~"
+          }
+        },
+        {
+          "id": 311495,
+          "name": "有间小夜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311495-wBOPYOZeIKpQ.png",
+          "description": "有间小夜在Planet中使用“May”作为游戏名，是赤羽家族成员。她不擅长正面战斗，却是一名优秀治疗者，也因温柔善良成为公会成员的情感支柱。小夜偏爱游戏里的和平活动，例如照料宠物和体验日常内容。她在现实中是有间家的母亲，游戏中的温暖形象与家庭成员之间的冷漠距离构成鲜明对照。",
+          "nicknames": [
+            "有间小夜",
+            "May",
+            "メイ",
+            "Sayo Arima",
+            "赤羽梅"
+          ],
+          "traits": [
+            "在Planet中使用May作为游戏名",
+            "是赤羽家族成员",
+            "战斗能力不突出",
+            "擅长治疗与支援",
+            "性格温柔善良",
+            "是公会成员的情感支柱",
+            "喜欢游戏中的和平生活内容",
+            "现实身份与有间家母亲有关",
+            "由远藤绫配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "遠藤綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "May",
+            "name_native": "メイ",
+            "name_alternative": [],
+            "description": "One of the Akabane Family's members. Although she's not very good in combat, she's an excellent healer, as well as the emotional backbone of the group due to her kindness. She enjoys peaceful side content in the game a fair bit, such as taking care of the flower garden or cooking for the other three guild members, even though she knows it's only a game.\n\n~!She's actually the wife of Shiro/Kojirou in real life, as well as the mother of Ichi and his siblings. Following the death of Aya, she would move out into a net cafe, where she's lived ever since. Her mental health seems to be in a very poor state - although she still cares for her sons and husband when she decides to visit their house, she seems to be largely just going through the motions without thinking much of her actions, repeating the same phrases repeatedly and often smiling in moments that don't require her to.!~"
+          }
+        },
+        {
+          "id": 311494,
+          "name": "叉叉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311494-ytdZxlBgQL0T.png",
+          "description": "叉叉是Planet中的人工智能角色，也是商会领袖莱昂最好的朋友。它性格幼稚、爱演戏，经常在莱昂被砍下头后把他的头抱着走。叉叉并非普通玩家，而是Planet代码中的AI之一，其存在与士郎对游戏程序的研究有关。它的滑稽行为为虚拟世界增加喜剧色彩，也逐渐让故事触及游戏角色是否拥有自我意识的问题。",
+          "nicknames": [
+            "叉叉",
+            "Sasumata",
+            "サスマタ",
+            "叉形怪",
+            "三角叉"
+          ],
+          "traits": [
+            "Planet中的人工智能角色",
+            "是莱昂最好的朋友",
+            "行为幼稚而戏剧化",
+            "经常把头被砍下的莱昂带着走",
+            "实际身份是游戏代码中的AI",
+            "与士郎的程序实验有关",
+            "存在于Planet的虚拟世界",
+            "由七海弘希配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "七海ひろき",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n151342-XKmi9w02EzHU.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sasumata",
+            "name_native": "サスマタ",
+            "name_alternative": [],
+            "description": "Leon's best friend, a childish sidekick who often engages in wacky theatrics and carries his head around whenever it gets cut off.\n\n~!Their real identity is an AI, being one of many living within Planet's code as a result of Shiro/Kojirou attempting to bring back his dead daughter. However, Sasumata is the only one aware of their true nature as such, which makes them question the nature of their existence and purpose in life constantly.!~\n"
+          }
+        },
+        {
+          "id": 311496,
+          "name": "茂毒",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311496-0oQTzGKpUmef.png",
+          "description": "茂毒是Planet海盗公会头目皮可的部下，也是她严肃而令人生畏的右手。他表面上协助公会活动，真实目的却与皮可不同；茂毒并不关心Planet或玩家，把周围人视作达成个人目标的工具。他的冷酷立场与游戏世界中其他享受冒险的玩家形成反差，也让虚拟世界的冲突逐渐连接到程序和现实中的阴谋。",
+          "nicknames": [
+            "茂毒",
+            "Shigatera",
+            "シガテラ",
+            "希加特拉"
+          ],
+          "traits": [
+            "是海盗公会头目皮可的部下",
+            "担任皮可的严肃副手",
+            "外表令人畏惧",
+            "擅长管理公会行动",
+            "真实身份与Planet中的AI有关",
+            "并不真正关心游戏世界",
+            "把玩家视为达成目的的工具",
+            "与皮可之间存在利用关系",
+            "由津田健次郎配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shigatera",
+            "name_native": "シガテラ",
+            "name_alternative": [],
+            "description": "One of Pico's subordinates, her serious and intimidating right-hand man.\n\n~!He actually never truly cared about Planet and deeply loathes every player around him, seeing everybody, including Pico, as mere means to an end, his only true desire being to get his hands on the prize money offered for capturing the Black Bird.!~\n\n~!In real life, he seems to be a failed musician, living in a rented apartment, which he struggles to pay rent for in time.!~\n\n~!Following his encounter with the Black Bird, he becomes stuck in an endless simulation, dying over and over again.!~"
+          }
+        },
+        {
+          "id": 311497,
+          "name": "皮可",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311497-w2iUK5gSE17k.png",
+          "description": "皮可是Planet中海盗公会的船长，性格傲慢任性，习惯依照自己的兴趣做事，把好玩放在第一位。她常带领公会成员在游戏中捣乱，给其他玩家制造麻烦；海盗团伙伴也大多有相似的恶作剧风格。皮可与副手茂毒共同管理公会，却没有意识到茂毒并不认同她对游戏的热情。",
+          "nicknames": [
+            "皮可",
+            "Pico",
+            "ピコ",
+            "Sakurai Hanako (桜井花子)",
+            "海盗公会长"
+          ],
+          "traits": [
+            "Planet海盗公会的船长",
+            "性格傲慢任性",
+            "喜欢按自己的兴趣行动",
+            "把娱乐放在优先位置",
+            "常通过捣乱影响其他玩家",
+            "公会成员也多喜欢胡闹",
+            "与茂毒共同管理海盗团",
+            "由悠木碧配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "悠木碧",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pico",
+            "name_native": "ピコ",
+            "name_alternative": [
+              "Sakurai Hanako (桜井花子)"
+            ],
+            "description": "Captain of the pirate guild in Planet. A very arrogant girl who enjoys acting on her whims and prioritizes having fun above all else, often griefing and generally being a nuisance in-game, with her crew consisting of likeminded people who play the game to mess with others. At times, she tends to casually make wordplays that integrate her name into random words.\n\nHer only weakness seems to be a hopeless infatuation with Ichi, as the two had bonded over their loneliness in the past and, impressed with his chuunibyou antics, she considered him the coolest player on Planet. She tends to daydream about what could happen if they met in real life, thinking she would be able to help Ichi recover from his life as a shut-in and even fix him in general.\n\n~!She was one of the AIs made by Kojirou in an attempt to bring back his daughter, and arguably one of the more elaborate ones, being able to swap out at will between Planet and a simulation of the real world, as if she were truly an ordinary human playing a videogame. Her mind is a perfect replica of a deceased girl by the name of Hanako.!~"
+          }
+        },
+        {
+          "id": 311498,
+          "name": "莱昂",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311498-S4lnhOLmgLIn.png",
+          "description": "莱昂是Planet贸易公会的负责人，常宣称自己保持中立，却认为真正热爱游戏的玩家有责任守护Planet。他关注虚拟世界的秩序与玩家行为，也会参与公会间的交涉和冲突。莱昂与人工智能角色叉叉关系亲密，后者经常陪伴他行动。随着游戏世界出现异常，他开始面对玩家是否应当保护虚拟居民的问题。",
+          "nicknames": [
+            "莱昂",
+            "Leon",
+            "レオン",
+            "Kikusaka Seishito (菊坂聖人)",
+            "贸易公会会长"
+          ],
+          "traits": [
+            "Planet贸易公会的负责人",
+            "试图在各公会之间保持中立",
+            "自认为属于真正热爱游戏的玩家群体",
+            "相信玩家有责任维护Planet",
+            "与人工智能叉叉关系亲密",
+            "关注游戏世界的安全",
+            "会参与公会间的冲突和交涉",
+            "由木村良平配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "木村良平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Leon",
+            "name_native": "レオン",
+            "name_alternative": [
+              "Kikusaka Seishito (菊坂聖人)"
+            ],
+            "description": "Head of a trading guild in Planet. Although he tries to stay neutral and maintains that he is, he considers himself to be part of a very small group of Planet players that genuinely love the game, strongly believing that they are morally obliged to backseat moderate, sabotage and eliminate those who, in their view, spoil others' fun, such as Pico's pirates.\n\n~!In real life, he's a young schoolkid who never had friends before meeting Sasumata, which made him want to create a world where AIs get what they want, believing that they are alike.!~"
+          }
+        },
+        {
+          "id": 311499,
+          "name": "神室花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311499-a40LTqfm7w6R.png",
+          "description": "神室花是有间浩次郎的得力助手，工作时冷静沉着，把上司视作无可置疑的天才。她对浩次郎抱有强烈而单方面的爱慕，常主动表达亲密意愿，令浩次郎感到为难。花参与现实中的工作和程序研究，也逐渐接触有间家庭与Planet之间的秘密。她的感情执着与专业能力并存，是现实线的重要人物。",
+          "nicknames": [
+            "神室花",
+            "Hana Kamuro",
+            "花",
+            "浩次郎的秘书"
+          ],
+          "traits": [
+            "有间浩次郎的得力助手",
+            "工作时冷静沉着",
+            "将浩次郎视作无可置疑的天才",
+            "对上司抱有强烈而单方面的爱慕",
+            "常主动表达亲密意愿",
+            "令浩次郎感到为难",
+            "参与现实中的工作与程序研究",
+            "由高桥李依配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "高橋李依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hana Kamuro",
+            "name_native": "神室花",
+            "name_alternative": [],
+            "description": "Kojirou's right-hand woman, a calm and collected subordinate that sees him as an unquestionable genius. She possesses a very one-sided yet unwavering attraction to her boss, often offering her body to him, much to his ire."
+          }
+        },
+        {
+          "id": 311500,
+          "name": "有间绫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311500-DGzm4DSTd6K7.png",
+          "description": "有间绫是有间家最年幼的孩子，小时候性格善良体贴，却常被父亲浩次郎责骂为笨拙、不理性。父亲离开后，绫的生活发生重大变化，她也成为揭开有间家庭秘密的重要人物。绫的经历与赤羽家族在Planet中的关系相连，展现家庭成员如何把现实伤痛带入虚拟世界。",
+          "nicknames": [
+            "有间绫",
+            "Aya Arima",
+            "有間綾",
+            "绫",
+            "有间家小女儿"
+          ],
+          "traits": [
+            "有间家的女儿",
+            "是三名兄弟姐妹中最年幼的孩子",
+            "小时候性格善良体贴",
+            "曾被父亲责骂做事笨拙不理性",
+            "在父亲离开后经历重大变化",
+            "与家庭成员关系密切",
+            "现实身份与赤羽家族秘密相关",
+            "由水濑祈配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "水瀬いのり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106297-DUyxkSjS9pEK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aya Arima",
+            "name_native": "有間綾",
+            "name_alternative": [],
+            "description": "Kojirou's daughter and the youngest of the three siblings. Although she was a very sweet child who cared a lot about others, she was often the target of her father's wrath, as he considered her to be the most clumsy and irrational.\n\n~!After her father forced her to go back to school late at night to pick up a notebook that she forgot to take home, she would fall victim to a serial killer, prompting the family to break apart and traumatize her oldest brother.!~\n\n"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 146625,
+      "anime_title": "契约之吻",
+      "anime_origin": "JP",
+      "source": {
+        "id": 146625,
+        "titles": [
+          "Engage Kiss",
+          "エンゲージ・キス",
+          "Project Engage",
+          "Клятвенный поцелуй"
+        ],
+        "year": 2022,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/146625"
+      },
+      "characters": [
+        {
+          "id": 268522,
+          "name": "绪方修",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268522-vBKz8MlZzIYR.png",
+          "description": "绪方修身高约179厘米，经营一家小型私人军事公司，平时却因不擅理财而常常负债。他是孤儿，家人在故事开始前的一场恶魔灾害中遇害，修因此持续追查真相并试图复仇。为了获得战斗力量，他与恶魔少女基萨拉建立契约，代价是逐渐失去关于过去的重要记忆。修在金钱、记忆与复仇之间不断付出代价。",
+          "nicknames": [
+            "绪方修",
+            "Shuu Ogata",
+            "緒方シュウ",
+            "修"
+          ],
+          "traits": [
+            "经营一家小型私人军事公司",
+            "身高约179厘米",
+            "平时常因不会理财而手头拮据",
+            "是孤儿",
+            "家人曾在系列开始前的事件中遇害",
+            "与恶魔少女基萨拉缔结契约",
+            "会以记忆作为恶魔力量的代价",
+            "对过去和复仇执念很深",
+            "由齐藤壮马配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "斉藤壮馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shuu Ogata",
+            "name_native": "緒方シュウ",
+            "name_alternative": [],
+            "description": "**Height:** 179 cm\n\nThe protagonist who runs a small private military company. He is usually broke as he cannot handle finances well. He is an orphan, as the rest of his family is presumed to be dead after an incident prior to the events of the series."
+          }
+        },
+        {
+          "id": 268523,
+          "name": "基萨拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268523-2hLDHb2pJ40S.png",
+          "description": "基萨拉外表是就读于贝隆市高中的少女，真实身份却是已经存活数百年的恶魔，身高约158厘米。她拥有吞食他人记忆的能力，与绪方修缔结契约后，会以夺取修的记忆为代价换取战斗力量。基萨拉在修经营的私人军事公司中协助处理恶魔灾害，对修抱有深厚感情，却也不断让他失去珍贵回忆。",
+          "nicknames": [
+            "基萨拉",
+            "Kisara",
+            "キサラ",
+            "奇萨拉",
+            "恶魔少女"
+          ],
+          "traits": [
+            "外表是就读高中少女的恶魔",
+            "实际年龄数百岁",
+            "身高约158厘米",
+            "拥有吞食他人记忆的能力",
+            "与绪方修缔结恶魔契约",
+            "通过夺取修的记忆提供力量",
+            "在修的公司协助处理恶魔灾害",
+            "对修怀有深厚感情",
+            "由会泽纱弥配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "会沢紗弥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129326-LGj20gEbOAPX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kisara",
+            "name_native": "キサラ",
+            "name_alternative": [],
+            "description": "**Height:** 158 cm\n\nA young girl who goes to a high school in Bayron City. She is actually a demon girl who is hundreds of years old. She has the ability to eat the memories of people, including [Shuu](https://anilist.co/character/268522/Ogata-Shuu)."
+          }
+        },
+        {
+          "id": 268524,
+          "name": "夕桐绫乃",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268524-XejpzfaojYZ6.png",
+          "description": "夕桐绫乃是绪方修的前女友，虽然两人已经分手，她仍然对修怀有感情。绫乃身高约165厘米，是秋乃夕桐的女儿，也熟悉贝隆市应对恶魔灾害的工作。她在职业任务中会与修再次合作，既要面对对他的旧情，也需要判断基萨拉介入后的新关系。绫乃的感情和专业能力常在同一事件中发生冲突。",
+          "nicknames": [
+            "夕桐绫乃",
+            "Ayano Yuugiri",
+            "夕桐アヤノ",
+            "绫乃",
+            "夕桐"
+          ],
+          "traits": [
+            "绪方修的前女友",
+            "与修分手后仍然喜欢他",
+            "身高约165厘米",
+            "任职于恶魔灾害相关公司",
+            "是秋乃夕桐的女儿",
+            "熟悉贝隆市恶魔灾害应对事务",
+            "会协助修处理工作和调查",
+            "在感情与职业之间维持复杂关系",
+            "由Lynn配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "Lynn",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118806-2aFjOHv08Iwm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ayano Yuugiri",
+            "name_native": "夕桐アヤノ",
+            "name_alternative": [],
+            "description": "**Height:** 165 cm\n\n[Shuu Ogata's](https://anilist.co/character/268522/Ogata-Shuu) first ex-girlfriend. Although she and Shuu have broken up, she still has feelings for him. She is also [Akino's](https://anilist.co/character/278138/Yuugiri-Akino) daughter."
+          }
+        },
+        {
+          "id": 271925,
+          "name": "莎伦·霍利格雷尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271925-wsPQZS5qEbZs.png",
+          "description": "莎伦·霍利格雷尔是绪方修的第二任前女友，平时常穿修女服装，真实身份却是一名刺客。她隶属于负责对抗恶魔灾害的国际组织，具备执行高危任务的能力。莎伦与修有复杂的过去关系，重新出现后也介入修和基萨拉的行动。她的修女外表与职业身份形成反差，使她在战斗和感情线中都极具威胁性。",
+          "nicknames": [
+            "莎伦·霍利格雷尔",
+            "Sharon Holygrail",
+            "シャロン・ホーリーグレイル",
+            "莎伦",
+            "修的前女友"
+          ],
+          "traits": [
+            "绪方修的第二任前女友",
+            "平时穿着修女服装",
+            "真实身份是刺客",
+            "隶属国际反恶魔灾害组织",
+            "身高约162厘米",
+            "擅长执行危险任务",
+            "与修有复杂的过去关系",
+            "会介入修和基萨拉的行动",
+            "由大久保瑠美配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "大久保瑠美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107041-ZqPloXZhcuQw.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sharon Holygrail",
+            "name_native": "シャロン・ホーリーグレイル",
+            "name_alternative": [],
+            "description": "**Height:** 162 cm\n\n[Shuu Ogata's](https://anilist.co/character/268522/Ogata-Shuu) second ex-girlfriend, who dresses as a nun. She is actually an assassin and a part of an international organization tasked with fight against D-Hazards."
+          }
+        },
+        {
+          "id": 278138,
+          "name": "夕桐秋乃",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278138-sIToMWokwPMu.jpg",
+          "description": "夕桐秋乃是夕桐绫乃的母亲，身高约169厘米，与贝隆市的恶魔灾害应对工作有关。她熟悉相关公司的运作和任务流程，也会关注女儿的职业选择及与绪方修之间的旧关系。秋乃以成熟务实的方式处理事务，是绫乃家庭生活和工作环境中的重要长辈。",
+          "nicknames": [
+            "夕桐秋乃",
+            "Akino Yuugiri",
+            "夕桐アキノ",
+            "秋乃",
+            "绫乃的母亲"
+          ],
+          "traits": [
+            "夕桐绫乃的母亲",
+            "身高约169厘米",
+            "与贝隆市恶魔灾害应对工作有关",
+            "是修等人职业关系中的长辈",
+            "熟悉公司的运作和任务流程",
+            "关心女儿绫乃的职业与感情",
+            "以成熟务实的态度处理事务",
+            "由渡边明乃配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "渡辺明乃",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95094-nRPWBG1cVGo5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akino Yuugiri",
+            "name_native": "夕桐アキノ",
+            "name_alternative": [],
+            "description": "__Height:__ 169cm\n\n[Ayano](https://anilist.co/character/268524/Ayano-Yuugiri)'s mother"
+          }
+        },
+        {
+          "id": 278139,
+          "name": "蜂须贺凛花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278139-Qb3LqNtHdEMZ.jpg",
+          "description": "蜂须贺凛花是贝隆市市长的女儿，也是蜂须贺家第二年长的女儿。她成长于政治世家，熟悉市政家族所处的社会环境，并会接触恶魔灾害后的城市治理和上层社交活动。凛花与绪方修等人的工作和调查产生交集，为故事补充了市长家族在贝隆市权力结构中的位置。",
+          "nicknames": [
+            "蜂须贺凛花",
+            "Linhua Hachisuka",
+            "蜂須賀凛花",
+            "凛花",
+            "蜂须贺家二女"
+          ],
+          "traits": [
+            "贝隆市市长的女儿",
+            "是蜂须贺家第二年长的女儿",
+            "成长于政治世家",
+            "与蜂须贺家族的市政事务相关",
+            "会接触恶魔灾害后的城市治理",
+            "参与贝隆市上层社交活动",
+            "与修一行的工作产生交集",
+            "由大西沙织配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "大西沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Linhua Hachisuka",
+            "name_native": "蜂須賀凛花",
+            "name_alternative": [],
+            "description": "The second-oldest daughter of Baylong City's mayor"
+          }
+        },
+        {
+          "id": 278140,
+          "name": "蜂须贺莎花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278140-pgrUhi7ULXsj.jpg",
+          "description": "蜂须贺莎花是贝隆市市长的长女，也是蜂须贺家中最年长的女儿。她成长于政治家族，参与市长家庭的社交与城市事务，与妹妹凛花共同代表贝隆市上层家庭的一面。恶魔灾害影响城市治理时，莎花也会接触相关议题，使故事中的私人军事公司行动与市政府、政治家族产生联系。",
+          "nicknames": [
+            "蜂须贺莎花",
+            "Shenhua Hachisuka",
+            "蜂須賀莎花",
+            "莎花",
+            "蜂须贺长女"
+          ],
+          "traits": [
+            "贝隆市市长的长女",
+            "是蜂须贺家中最年长的女儿",
+            "成长于政治家族",
+            "参与市长家庭的社会活动",
+            "与妹妹凛花共同出现在城市事务中",
+            "会接触恶魔灾害相关话题",
+            "代表贝隆市上层家庭",
+            "由内田彩配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "内田彩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103921-bnSaJsF0jgH1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shenhua Hachisuka",
+            "name_native": "蜂須賀莎花",
+            "name_alternative": [],
+            "description": "The oldest daughter of Baylong City's mayor"
+          }
+        },
+        {
+          "id": 278183,
+          "name": "蜂须贺米哈伊尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278183-UpGigR1zlmju.jpg",
+          "description": "蜂须贺米哈伊尔是贝隆市市长的儿子，身高约175厘米，属于当地具有影响力的蜂须贺政治家族。他与姐姐莎花、凛花共同生活在市长家庭，熟悉城市权力圈的社交环境。恶魔灾害和相关调查影响贝隆市时，米哈伊尔也会与绪方修一行产生联系，为故事补充市长家族年轻一代的视角。",
+          "nicknames": [
+            "蜂须贺米哈伊尔",
+            "Mikhail Hachisuka",
+            "蜂須賀ミハイル",
+            "米哈伊尔",
+            "市长之子"
+          ],
+          "traits": [
+            "贝隆市市长的儿子",
+            "身高约175厘米",
+            "属于蜂须贺政治家族",
+            "与两位姐姐共同生活在市长家庭",
+            "熟悉城市权力圈的生活",
+            "会接触恶魔灾害和市政事件",
+            "与修等人的调查产生联系",
+            "由逢坂良太配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "逢坂良太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110743-k2SgQwU0JD33.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mikhail Hachisuka",
+            "name_native": "蜂須賀ミハイル",
+            "name_alternative": [],
+            "description": "__Height:__ 175cm\n\nThe son of Baylong City's mayor"
+          }
+        },
+        {
+          "id": 278184,
+          "name": "迈尔斯·摩根",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278184-3Q5aPrid9q4K.jpg",
+          "description": "迈尔斯·摩根是贝隆市警察特别犯罪组的老兵，身高约174厘米，长期处理恶魔灾害案件。他拥有丰富的一线执法经验，熟悉城市内恶魔事件的调查和处置，也会与侦探三上哲也等同事合作。迈尔斯代表警方处理恶魔灾害的专业力量，与修经营的私人军事公司在任务中产生联系。",
+          "nicknames": [
+            "迈尔斯·摩根",
+            "Miles Morgan",
+            "マイルズ・モーガン",
+            "迈尔斯",
+            "特搜队老兵"
+          ],
+          "traits": [
+            "贝隆市警察特别犯罪组成员",
+            "专门处理恶魔灾害案件",
+            "身高约174厘米",
+            "拥有丰富的一线执法经验",
+            "是特别犯罪组的老兵",
+            "参与与恶魔相关的调查",
+            "与侦探三上哲也共事",
+            "由松田健一郎配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "松田健一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105273-asextl049B2s.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miles Morgan",
+            "name_native": "マイルズ・モーガン",
+            "name_alternative": [],
+            "description": "Height: 174cm\nA veteran of Baylong City Police's special crimes unit (the \"demon-eradicating unit\")\n"
+          }
+        },
+        {
+          "id": 278185,
+          "name": "三上哲也",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278185-I5DbXDD7RlfV.jpg",
+          "description": "三上哲也是贝隆市警察特别犯罪组的侦探，身高约184厘米，负责调查恶魔灾害及相关犯罪案件。他熟悉警察调查程序，与经验丰富的迈尔斯·摩根共同工作，也会追查私人军事公司与恶魔事件之间的线索。三上在警方调查线中承担现场侦查和证据整理职责，使恶魔灾害应对不只依赖修一行的武力。",
+          "nicknames": [
+            "三上哲也",
+            "Tetsuya Mikami",
+            "三上テツヤ",
+            "哲也",
+            "三上刑警"
+          ],
+          "traits": [
+            "贝隆市警察特别犯罪组侦探",
+            "身高约184厘米",
+            "负责调查恶魔灾害案件",
+            "与迈尔斯·摩根共同工作",
+            "熟悉警察调查程序",
+            "经常跟进城市犯罪线索",
+            "与修的公司任务产生联系",
+            "由长谷川芳明配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "長谷川芳明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119855-B21adyPXI4PL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tetsuya Mikami",
+            "name_native": "三上テツヤ",
+            "name_alternative": [],
+            "description": "Height: 184cm\nA detective in Baylong City Police's special crimes unit (the \"demon-eradicating unit\")"
+          }
+        },
+        {
+          "id": 288123,
+          "name": "绪方神奈",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288123-mLl5F9raN38t.png",
+          "description": "绪方神奈是绪方修的妹妹，身高约145厘米，拥有一半人类、一半恶魔的血统。她在十二年前的事件后失踪，这件事与修家遭遇的悲剧和贝隆市恶魔灾害密切相关。修不断调查过去，也试图查明神奈的下落；她的身世连接人类与恶魔两方，是整部作品重要的谜团和人物线索。",
+          "nicknames": [
+            "绪方神奈",
+            "Kanna Ogata",
+            "緒方カンナ",
+            "神奈",
+            "修的妹妹"
+          ],
+          "traits": [
+            "绪方修的妹妹",
+            "身高约145厘米",
+            "拥有半人类半恶魔血统",
+            "十二年前的事件后失踪",
+            "她的失踪与修家悲剧有关",
+            "是修追查过去的重要线索",
+            "其身世连接人类与恶魔",
+            "由鬼头明里配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "鬼頭明里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-Ls7ORfBejJEP.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kanna Ogata",
+            "name_native": "緒方カンナ",
+            "name_alternative": [],
+            "description": "__Height:__ 145 cm\n\n[Shuu Ogata](https://anilist.co/character/268522/Ogata-Shuu)'s sister. Half human and half demon. Disappeared due to the incident 12 years prior."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2061 @@
+{
+  "fetchedAt": "2026-10-18T06:30:47.386Z",
+  "id": 874,
+  "title": {
+    "romaji": "Digimon Tamers",
+    "english": null,
+    "native": "デジモンテイマーズ"
+  },
+  "synonyms": [
+    "Digimon: Digital Monsters 03"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2001,
+    "month": 4,
+    "day": 1
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "description": "Takato Matsuda, Ruki Matsuno, and Lee Jenrya are children who have, by fate, received real Digimon, unlike the imaginary ones in the card game they play. Each of the children, or \"Digimon Tamers\", have their different views on how Digimon should be treated. But when other Digimon begin to appear around Japan, they must put aside their differences to fend off the digital intruders; even though Yamaki, who is the head of a secret organization called Hypnos is trying to eliminate all of the Digimon himself.\n<br><br>\n(Source: Anime News Network)",
+  "siteUrl": "https://anilist.co/anime/874",
+  "characters": [
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 36309,
+        "name": {
+          "full": "Narrator",
+          "native": "ナレーター",
+          "alternative": [
+            "Katarite (語り手)",
+            "Narration (ナレーション)",
+            "Narrador",
+            "Rozprávač",
+            "Vyprávěč",
+            "Dış ses",
+            "Narratore",
+            "Pripovjedač",
+            "Narradora",
+            "Рассказчик",
+            "Người dẫn chuyện",
+            "Tagapagsalaysay",
+            "내레이터",
+            "Narratore",
+            "Erzählperson",
+            "מספר",
+            "Narrátor",
+            "讲述人",
+            "راوي",
+            "Forteller",
+            "Berättare",
+            "Αφηγητής",
+            "Narrate"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+        },
+        "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95557,
+          "name": {
+            "full": "Masako Nozawa",
+            "native": "野沢雅子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95557-5a2nnIBK05ul.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 3540,
+        "name": {
+          "full": "Ruki Makino",
+          "native": "牧野留姫",
+          "alternative": [
+            "Rika Nonaka"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b3540-RpO54KVQXzVR.png"
+        },
+        "description": "Ruki is the type of person who, in the beginning, sees Digimon as nothing more than mere computer data. She aspires for her partner, Renamon, to become the strongest Digimon ever. Eventually, she realizes that the two must be on equal partnership and friendship. She is a bit bitter and slightly antisocial thanks to her parents' divorce, but Takato, Jenrya and Renamon, manage to bring out the best in her, by showing her (among other things) that friendship is priceless.  Ruki's relationship with Renamon is unusual (due to Renamon being the most mature of rookie Digimon), they talk as equal than either a pet or a playful child. Ruki's proud, independent, grouchy and cynical personality is substantially different from most of the female characters in the series, pretty much a typical teenage rebel.   ~!Her personality is due to her parents divorcing. She was closer to her dad, and her mom doesn't really understand her, always pushing the tomboyish Ruki to try and be a model. This left Ruki feeling isolated, and forced her to be defensive and rebellious. As a self defense mechanism mentally, she believes she \"doesn't need anyone\". Which is believed to account for the way she treats Renamon at first.  Deep down, Ruki is loving and caring: wishing to protect her friends as well as the city. Even though she puts on a \"defensive act\", being tomboyish is a genuine part of her personality.!~",
+        "gender": "Female",
+        "age": "10"
+      },
+      "voiceActors": [
+        {
+          "id": 95152,
+          "name": {
+            "full": "Fumiko Orikasa",
+            "native": "折笠富美子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95152-X9K5ciNGSX35.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 13593,
+        "name": {
+          "full": "Terriermon",
+          "native": "テリアモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13593-wyqKbvVhK5fh.png"
+        },
+        "description": "Terriermon is the partner digimon of Henry Wong.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95658,
+          "name": {
+            "full": "Aoi Tada",
+            "native": "多田葵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95658-paHKYOWkhoOd.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 7598,
+        "name": {
+          "full": "Renamon",
+          "native": "レナモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7598-Dd4KLlP6IUFJ.png"
+        },
+        "description": "Renamon is tall and powerful for a Rookie level Digimon. She is far more mature than the other Rookie Digimon, considering her experience and her jaded view on life. Renamon's feral features and penetrating icy blue eyes can make her seem quite intimidating, even when she does not mean to give that impression.\n\nRenamon's Tamer is [Ruki](https://anilist.co/character/3540/Makino-Ruki), and is a main character in the Digimon Tamers season (as well as the two related movies Battle of Adventurers and Runaway Locomon).",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95374,
+          "name": {
+            "full": "Yuka Imai",
+            "native": "今井由香"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95374-ZCLR2wSfxYDX.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 14027,
+        "name": {
+          "full": "Impmon",
+          "native": "インプモン",
+          "alternative": [
+            "Beelzebumon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b14027-HPy2qDjtMx2h.jpg"
+        },
+        "description": "A tricky Digimon who lives in the human world and seems to have it in for the Tamers. Once belonging to two young kids, he left them to live on his own and gain power.  Despite his small size, he is fairly powerful (though he runs more than he fights) and can blast enemies with fire-based attacks. Not truely evil, yet not quite a hero either.  He manages to evolve into Beelzebumon (with motorcycle and dual guns) in the Digital World, but still loses to the Tamers. Once he reunites with his owners in the human world, he transforms into a more powerful version of Beelzebumon, armed with a hand-cannon and wings.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95064,
+          "name": {
+            "full": "Hiroki Takahashi",
+            "native": "高橋広樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95064-CcZ7bbDPvJ4v.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 4168,
+        "name": {
+          "full": "Takato Matsuda",
+          "native": "松田啓人",
+          "alternative": [
+            "Takato Matsuki"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/4168.jpg"
+        },
+        "description": "Takato is the lead protagonist of Digimon Tamers. He is the only child who created his own digimon partner, Guilmon. Takato is a sweet, cheerful and a bit awkward boy who loves Digimon with all his heart, and likes drawing them and playing the Digimon card game with his friends Hirokazu and Kenta. He is kind-hearted and loyal, and is determined to protect his friends. Takato lives with his parents, Takehiro and Yoshie, in a small two-story house. The family lives in the top floor, and runs the family's bakery on the ground floor.",
+        "gender": "Male",
+        "age": "10"
+      },
+      "voiceActors": [
+        {
+          "id": 95648,
+          "name": {
+            "full": "Makoto Tsumura",
+            "native": "津村まこと"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95648-rMpzJIsJ1bxk.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 8762,
+        "name": {
+          "full": "Guilmon",
+          "native": "ギルモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b8762-uLokfCGNHXc7.png"
+        },
+        "description": "Guilmon is a curious and naive digimon, the youngest of the partner Digimon. He was created from Takato's imagination and brought to life by the Blue Card. At first, Guilmon had not been aware of the differences between humans and Digimon, calling his partner Tamer &quot;Takatomon&quot;. Guilmon is normally playful and friendly, proving to be quite popular with Takato's classmates for being a real live Digimon. Despite being portrayed as childlike, Guilmon does at times show deep insight. For example, when Takato didn't want Guilmon to digivolve, in fear that Guilmon would no longer be the same, Guilmon pointed out that Takato has changed over time as well, but he is still the same person.    \n\nGuilmon had one of the deepest realtionships with his tamer out of the whole series, the two did many things together and conquering many hurdles. Guilmon is very loyal and protective of Takato and would do anything for him. When Guilmon dark-digivolved into Megidramon it was because of their deep bond that Takato managed to come to his senses which allowed him to rescue Guilmon and bring him back, later allowing them to biomerge to Dukemon to fight Beelzebumon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95557,
+          "name": {
+            "full": "Masako Nozawa",
+            "native": "野沢雅子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95557-5a2nnIBK05ul.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 70825,
+        "name": {
+          "full": "Beelzebumon",
+          "native": "ベルゼブモン",
+          "alternative": [
+            "Beelzemon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70825-CabDQ2Y3Gyo4.png"
+        },
+        "description": "Beelzebumon is a Demon Lord Digimon whose name and design are derived from the mythological Beelzebub. One of the \"Seven Great Demon Lords\", it represents Venus and the sin of Gluttony. While it possesses the power to command the many Devil Digimon, it dares to observe a solitary existence. It is said that it could stand at the peak of the dark army, \"Nightmare Soldiers\", if it cared to, although it is also said that there exists a Demon Lord Digimon which surpasses even Beelzebumon. It rides on the gigantic motorcycle-type machine, \"Behemoth\", holding its cherished shotguns, the \"Berenjena\" (Esp: \"Eggplant\"). Although its personality is cruel and merciless, it is also exceedingly prideful, so it would never attack the weak.\n\nIn Digimon Tamers, Beelzebumon is the evolved form of Impmon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95064,
+          "name": {
+            "full": "Hiroki Takahashi",
+            "native": "高橋広樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95064-CcZ7bbDPvJ4v.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 4167,
+        "name": {
+          "full": "Jianliang Lee",
+          "native": "李健良",
+          "alternative": [
+            "Lee Jenrya (リー・ジェンリャ)",
+            "Henry Wong"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b4167-nRdff3UjlckE.png"
+        },
+        "description": "Lee Jianliang is one of the main characters of Digimon Tamers. He is the partner of Terriermon, as well as Lee Shaochung's elder brother. He is half-Japanese and half-Chinese.",
+        "gender": "Male",
+        "age": "10"
+      },
+      "voiceActors": [
+        {
+          "id": 95316,
+          "name": {
+            "full": "Mayumi Yamaguchi",
+            "native": "山口眞弓"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95316-sp5oQEI6tURH.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 21130,
+        "name": {
+          "full": "Lopmon",
+          "native": "ロップモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/21130.jpg"
+        },
+        "description": "Lopmon is the &quot;twin sibling&quot; of Terriermon, despite having different colors and more horns. While Terriermon is an over-confident sort and tends to make sarcastic remarks, Lopmon is shy and polite. She/He also has an opposing lonesome personality to the excitable Terriermon. Lopmon spoke in an antiquated dialect in the Japanese version that lacked gender-differing pronouns. Furthermore, while Terriermon is a dog with rabbit&#039;s ears, Lopmon is an actual rabbit digimon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95658,
+          "name": {
+            "full": "Aoi Tada",
+            "native": "多田葵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95658-paHKYOWkhoOd.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 17568,
+        "name": {
+          "full": "Culumon",
+          "native": "クルモン",
+          "alternative": [
+            "Calumon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/17568.jpg"
+        },
+        "description": "Culumon's role is not that of a fighter, and his immature antics and over-expressed emotions leave little doubt about this fact. In Digimon Tamers, Culumon is the only Digimon on the protagonist's side who had no tamer.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95272,
+          "name": {
+            "full": "Tomoko Kaneda",
+            "native": "金田朋子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95272-qfGnqI0gkKK5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 16552,
+        "name": {
+          "full": "Leomon",
+          "native": "レオモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b16552-rTwoq6dLd0jT.png"
+        },
+        "description": "In Digimon Adventure, Leomon is a heroic Digimon who aids the Chosen Children on several occasions. He has a similar role in the 2020 reboot anime.\n\nIn Digimon Tamers, Leomon is Juri Katou's digimon partner.\n\nIn Digimon X-Evolution, Leomon chases DORUmon on a rainy night and corners him near a mountain. \n\nIn Digimon Adventure V-Tamer 02, Leomon is the training officer of Holy Angel Castle under Lord Holy Angemon and a major supporting character. He later evolves into Panjyamon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95125,
+          "name": {
+            "full": "Hiroaki Hirata",
+            "native": "平田広明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95125-NeFFiJupoDVj.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 25700,
+        "name": {
+          "full": "Juri Katou",
+          "native": "加藤樹莉",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b25700-ZtzHTdZMUI2j.png"
+        },
+        "description": "Juri Katou, is a fictional character from the Digimon Tamers series. Usually shown with her sock puppet early on in the series, Juri is a cheerful and sweet person who is always there to encourage her friends. It is made clear that Takato Matsuda has a crush on her.",
+        "gender": "Female",
+        "age": "10"
+      },
+      "voiceActors": [
+        {
+          "id": 100648,
+          "name": {
+            "full": "Youko Asada",
+            "native": "浅田葉子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100648-HiUbu2t8GSUX.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 7569,
+        "name": {
+          "full": "Ryou Akiyama",
+          "native": "秋山遼",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7569-b8RyZAfaPu5y.png"
+        },
+        "description": "He appears as the legendary digimon champion who even beat Ruki-- the Digimon Queen. He ends up in the Digital World just like the others, however, his mission is unknown. His partner is Cyberdramon, an out-of-control digimon who is extremely powerful. Ryo seems to be the only one even able to handle Cyberdramon's power. Yet this appears to be only a hint of what Ryo can really do...",
+        "gender": "Male",
+        "age": "14"
+      },
+      "voiceActors": [
+        {
+          "id": 95238,
+          "name": {
+            "full": "Junichi Kanemaru",
+            "native": "金丸淳一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/238.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 19549,
+        "name": {
+          "full": "Alice McCoy",
+          "native": "アリス・マッコイ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19549-0JekI008qXDk.png"
+        },
+        "description": "Alice McCoy is a character who first appears in episode 44 of Digimon Tamers.  Alice is the granddaughter of Professor Rob McCoy, who keeps a photograph of her. She was sent to the Tamers by the Digimon Sovereigns to give them the ability to Biomerge in the real world, via the power of her partner Dobermon. After this episode Alice is not seen again.    Writings released by Chiaki J. Konaka, executive producer of Digimon Tamers, seem to suggest that Alice &quot;passed on&quot; prior to her appearance in the series and what was seen was actually her ghost. There is little in the series to support this, but in a scene in When is a Mon Justimon?, she is seen fading into the air as she leaves the area. Konaka himself notes that it was probably just his imagination getting the better of him.",
+        "gender": "Female",
+        "age": "11"
+      },
+      "voiceActors": [
+        {
+          "id": 95374,
+          "name": {
+            "full": "Yuka Imai",
+            "native": "今井由香"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95374-ZCLR2wSfxYDX.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 66771,
+        "name": {
+          "full": "Zero ARMS: Grani",
+          "native": "ゼロアームズ・グラニ",
+          "alternative": [
+            "Grani",
+            "ZERO-ARMS:グラニ"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66771-tknkQXQ8Etzg.png"
+        },
+        "description": "Originally, Grani was an ark created by the \"Monster Maker\" team in order to bring the Tamers back to the real world. However, technical problems occurred because of which the Tamers started talking to it since Guilmon was convinced that Grani has a conscience. Due to this, the children were able to return safely.   ~!At the end of  _Digimon Tamers_, Grani was redesigned so that it was able to compete in battle against D-Reaper. It was mainly used by Dukemon which otherwise would not have been able to fly. In one of the last episodes, it also fuses with the aforementioned Digimon, thus creating Dukemon Crimson Mode.!~   ~!It makes another appearance in  _Digimon Xros Wars: Toki wo Kakeru Shounen Huntertachi_, joining forces with the Legendary Heroes and fusing with Dukemon once again, in order to fight against Quartzmon and the Digimon it created.!~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95488,
+          "name": {
+            "full": "Masami Kikuchi",
+            "native": "菊池正美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95488-XPg4VA6rW4jJ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 70773,
+        "name": {
+          "full": "Shaochung Lee",
+          "native": "李 小春",
+          "alternative": [
+            "Suzie Wong"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b70773-ES9FF74HF0ZH.png"
+        },
+        "description": "Shaochung is Jenrya Lee's younger sister and Lopmon's tamer.",
+        "gender": "Female",
+        "age": "7"
+      },
+      "voiceActors": [
+        {
+          "id": 95656,
+          "name": {
+            "full": "Ai Nagano",
+            "native": "愛 永野"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/656.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 13319,
+        "name": {
+          "full": "Hirokazu Shioda",
+          "native": "塩田博和",
+          "alternative": [
+            "Kazu"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13319-gbS5jNg87iwg.png"
+        },
+        "description": "Hirokazu is one of Takato's friend. Another big fan of the Digimon card game, later in the series he becomes a tamer too and his digimon partner is Guardromon.",
+        "gender": "Male",
+        "age": "10"
+      },
+      "voiceActors": [
+        {
+          "id": 101171,
+          "name": {
+            "full": "Yuuki Tamaki",
+            "native": "環有希"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6171.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 65733,
+        "name": {
+          "full": "Mitsuo Yamaki",
+          "native": "山木 満雄",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65733-YfC1dNL9fUuv.png"
+        },
+        "description": "Mitsuo Yamaki is a major secondary character in the Digimon Tamers storyline. He figures within the earlier part of the series as a troubled anti-heroic vigilante who is defeated in his plans by the very forces and tools which he used in his mission to rid the human world of the Digimon. He then becomes a valuable ally of the Tamers in their efforts to save both the Digital World and the Human World from the destruction committed by the D-Reaper.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95260,
+          "name": {
+            "full": "Susumu Chiba",
+            "native": "千葉進歩"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95260-pKyM0LbhEznc.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 34478,
+        "name": {
+          "full": "Kenta Kitagawa",
+          "native": "北川健太",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b34478-6jtgbtkQJOVk.png"
+        },
+        "description": "Kenta is a player of the Digimon card game, but he too often loses to Hirokazu and has yet to win against him. Kenta often gets credit for the numerous jokes that Kazu tells throughout the season, as Kenta tends to be in on many of them, like the time he and Kazu pretended to be Digimon for Babamon and Jijimon when it was meant to be the other way around. He&#039;s soon partnered with MarineAngemon.",
+        "gender": "Male",
+        "age": "10"
+      },
+      "voiceActors": [
+        {
+          "id": 96278,
+          "name": {
+            "full": "Touko Aoyama",
+            "native": "青山桐子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96278-DIPQYeUBOIhd.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 312563,
+        "name": {
+          "full": "Meramon",
+          "native": "メラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b312563-zldrShERmwBm.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100536,
+          "name": {
+            "full": "Kazunari Kojima",
+            "native": "小嶋一成"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100536-hzujcaLCQXCP.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348836,
+        "name": {
+          "full": "MarineAngemon",
+          "native": "マリンエンジェモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348836-Yee5Uxq8oloZ.png"
+        },
+        "description": "MarineAngemon is Kenta Kitagawa's Partner, and is a miniscule, Mega-level Digimon whose strength lies in nonviolent pacification techniques.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 153647,
+          "name": {
+            "full": "Aiko Iwamura",
+            "native": "岩村愛子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n153647-Ew1yhOj6uizA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351980,
+        "name": {
+          "full": "D-Reaper",
+          "native": "デ・リーパー",
+          "alternative": [
+            "Matador",
+            "The Reaper"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351980-oa2NckacDSAu.png"
+        },
+        "description": "The D-Reaper, also known as the \"True Enemy\", is a digital lifeform which appears as the central antagonist in Digimon Tamers. It is referred to as \"Matador\" (Por: Killer) in Brazilian Digimon Tamers materials.\n\nUnlike most inhabitants of the Digital World in Tamers, it is not a Digimon; while Digimon descend from the virtual wildlife system created by the \"Monster Makers\", the D-Reaper was allegedly created in the late 1970s by the United States Department of Defense, as an antiviral program for the \"Creeper\" virus. It is possible it is only a descendant of this program, though, which was then known as the \"Reaper\", and other theories place its origin with the security program used by the United States Department of National Security in the 1980s for their \"ECHELON\" project. The D-Reaper's only purpose is to purge the Digital World once the number of lifeforms within it surpasses a certain number, and it pursues this goal with deadly efficiency.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100648,
+          "name": {
+            "full": "Youko Asada",
+            "native": "浅田葉子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100648-HiUbu2t8GSUX.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 312566,
+        "name": {
+          "full": "Andromon",
+          "native": "アンドロモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b312566-J2UsurmIBFOT.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95798,
+          "name": {
+            "full": "Kiyoyuki Yanada",
+            "native": "梁田清之"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95798-zbNPAckSWMKV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 250476,
+        "name": {
+          "full": "Clockmon",
+          "native": "クロックモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b250476-tqgKecN1fRa4.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 110281,
+          "name": {
+            "full": "Yuusuke Oguri",
+            "native": "小栗雄介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348838,
+        "name": {
+          "full": "Cyberdramon",
+          "native": "サイバードラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348838-fo170Xe14Mlq.png"
+        },
+        "description": "Cyberdramon is an Ultimate Level Digimon, and is the partner of Ryo Akiyama. Feral in personality, his mission is to annihilate any Virus-type Digimon that have invaded the network. However, Cyberdramon is a lone soldier not affiliated with the \"Virus Busters\" group. His partner, Ryo, has been shown to use a unique whip generated from his D-Ark to restrain him if he gets out of control.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 111289,
+          "name": {
+            "full": "Ikkei Seta",
+            "native": "世田 壱恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/16289.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351979,
+        "name": {
+          "full": "Babamon",
+          "native": "ババモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351979-GPCLVKiycQ2f.png"
+        },
+        "description": "Babamon is a Digimon resembling an old woman. She is Mega level, and married to Jijimon. She appeared on episode 26 of Digimon Tamers.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96497,
+          "name": {
+            "full": "Shizuka Okohira",
+            "native": "尾小平志津香"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96497-G1j1EPjAtRuQ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351985,
+        "name": {
+          "full": "IceDevimon",
+          "native": "アイスデビモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351985-4ngL8Cvsevza.png"
+        },
+        "description": "IceDevimon is a Fallen Angel Digimon. In Digimon Tamers, IceDevimon is a serial killer who killed and absorbed many Digimon in order to become more powerful.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95237,
+          "name": {
+            "full": "Juurouta Kosugi",
+            "native": "小杉十郎太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95237-nelrZUfvh2FH.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351996,
+        "name": {
+          "full": "Nami Asanuma",
+          "native": "浅沼奈美",
+          "alternative": [
+            "Nami Asaji"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351996-vnsYlVdjFlBb.png"
+        },
+        "description": "Nami is the homeroom teacher of Yodobashi Elementary School's class 5-2, Takato's classroom.",
+        "gender": "Female",
+        "age": "26"
+      },
+      "voiceActors": [
+        {
+          "id": 95442,
+          "name": {
+            "full": "Kaya Matsutani",
+            "native": "松谷彼哉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95442-gyEf1LcUL6hV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 52297,
+        "name": {
+          "full": "Dobermon",
+          "native": "ドーベルモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b52297-qpvUQun1HMZs.png"
+        },
+        "description": "Partner digimon of Hideaki Mashimo in Xros Wars and partner of Alice McCoy in Tamers.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95064,
+          "name": {
+            "full": "Hiroki Takahashi",
+            "native": "高橋広樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95064-CcZ7bbDPvJ4v.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 260928,
+        "name": {
+          "full": "Majiramon",
+          "native": "マジラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b260928-V6JNuhllNHMS.png"
+        },
+        "description": "Majiramon is a Holy Dragon Digimon. It is the \"Dragon\" Deva, and serves the Digimon Sovereign Azulongmon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100536,
+          "name": {
+            "full": "Kazunari Kojima",
+            "native": "小嶋一成"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100536-hzujcaLCQXCP.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 302723,
+        "name": {
+          "full": "Musyamon",
+          "native": "ムシャモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302723-cnrwOEavM1GW.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95685,
+          "name": {
+            "full": "Takashi Matsuyama",
+            "native": "松山鷹志"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95685-hBzFgdWzq43x.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 312652,
+        "name": {
+          "full": "Santiramon",
+          "native": "サンティラモン",
+          "alternative": [
+            "Sandiramon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b312652-tKZ3fizgpSak.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 111289,
+          "name": {
+            "full": "Ikkei Seta",
+            "native": "世田 壱恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/16289.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 315312,
+        "name": {
+          "full": "Hangyomon",
+          "native": "ハンギョモン",
+          "alternative": [
+            "Divermon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315312-B8UouA2225w9.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95825,
+          "name": {
+            "full": "Yoshikazu Nagano",
+            "native": "永野善一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/825.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 316018,
+        "name": {
+          "full": "Gekomon",
+          "native": "ゲコモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b316018-jVsE9hTr4sBB.jpg"
+        },
+        "description": "Note: Not to be confused with the similarly named [Gekkomon](https://anilist.co/character/371270).",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95752,
+          "name": {
+            "full": "Yasuhiro Takato",
+            "native": "高戸靖広"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95752-9T4nDuosYWTu.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348556,
+        "name": {
+          "full": "Pajiramon",
+          "native": "パジラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348556-5TqbGRhsKnbK.png"
+        },
+        "description": "In Digimon Tamers Pajiramon is the Sheep Deva. She and her partner Vajramon are the fourth and fifth Devas to appear and fight the tamers. She is an Ultimate level Digimon.\n\nIn Digimon Knuckles, Pajiramon shows up in chapter 4 with Vajramon and attacks Gankoomon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95342,
+          "name": {
+            "full": "Masako Katsuki",
+            "native": "勝生真沙子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95342-pC8tGadzfTNb.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348557,
+        "name": {
+          "full": "Vajramon",
+          "native": "ヴァジラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348557-rIRwus6UvV0q.png"
+        },
+        "description": "In Digimon Tamers Vajramon is the Ox Deva. He resembles a centaur. He and his partner Pajiramon are the fourth and fifth Devas to appear and fight the tamers. He is an Ultimate level Digimon. He appeared in the episodes Duel with the Deva and Digital Beauty.\n\nIn Digimon Knuckles Vajramon shows up on chapter 2 and attacks Gankoomon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95357,
+          "name": {
+            "full": "Unshou Ishizuka",
+            "native": "石塚運昇"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348829,
+        "name": {
+          "full": "Caturamon",
+          "native": "チャツラモン",
+          "alternative": [
+            "Chatsuramon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348829-TdVUj188uEyU.png"
+        },
+        "description": "Caturamon is a Holy Beast Digimon. It is the \"Dog\" Deva, and serves the Digimon Sovereign Baihumon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95045,
+          "name": {
+            "full": "Kouji Ishii",
+            "native": "石井康嗣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95045-xvCXMLXwg44s.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348830,
+        "name": {
+          "full": "Makoto",
+          "native": "マコト",
+          "alternative": [
+            "Mako"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348830-bJAPVptkcOEu.png"
+        },
+        "description": "Makoto, together with his older sister, Ai, is the human partner of Impmon in Digimon Tamers.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95937,
+          "name": {
+            "full": "Miwa Matsumoto",
+            "native": "松本美和"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/937.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348831,
+        "name": {
+          "full": "Guardromon",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348831-e6U9kewQwqep.png"
+        },
+        "description": "Guardromon is a fictional character from the Digimon franchise. An Android type, Guardromon is a protector by nature, a mechanical defense specialist who faithfully fights for justice. However, he tends to be rather foppish and frequently unlucky in his endeavors. His name is sometimes spelled as Gardromon.\n\nIn Digimon Tamers Guardromon is Hirokazu's digimon partner.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95798,
+          "name": {
+            "full": "Kiyoyuki Yanada",
+            "native": "梁田清之"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95798-zbNPAckSWMKV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348832,
+        "name": {
+          "full": "Makuramon",
+          "native": "マクラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348832-7ZQYB0F70veo.png"
+        },
+        "description": "Makuramon is a Holy Beast Digimon. It is the \"Monkey\" Deva, and serves the Digimon Sovereign Baihumon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95518,
+          "name": {
+            "full": "Ryou Horikawa",
+            "native": "堀川りょう"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95518-6VFuLBDEPjTa.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348834,
+        "name": {
+          "full": "Indramon",
+          "native": "インダラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348834-NEFDAKXaDgb2.png"
+        },
+        "description": "Indramon is a Holy Beast Digimon. It is the \"Horse\" Deva, and serves the Digimon Sovereign Zhuqiaomon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95262,
+          "name": {
+            "full": "Kenyuu Horiuchi",
+            "native": "堀内賢雄"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/262.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348837,
+        "name": {
+          "full": "Ai",
+          "native": "アイ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348837-pChqGQ3agTa5.png"
+        },
+        "description": "Ai, together with her younger brother, Ai, is the human partner of Impmon in Digimon Tamers.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96501,
+          "name": {
+            "full": "Haruhi Nanao",
+            "native": "七緒はるひ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96501-YdNWqvlQGpIE.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348840,
+        "name": {
+          "full": "Kumbhiramon",
+          "native": "クンビラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348840-bl6zvoHrXvDO.png"
+        },
+        "description": "Kumbhiramon is a Holy Beast Digimon. It is the \"Rat\" Deva, and serves the Digimon Sovereign Ebonwumon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95344,
+          "name": {
+            "full": "Kouki Miyata",
+            "native": "宮田幸季"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95344-wYgLhxYeWEp4.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351981,
+        "name": {
+          "full": "Zhuqiaomon",
+          "native": "スーツェーモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351981-4mKl122ICZ7I.png"
+        },
+        "description": "Zhuqiaomon is a Holy Bird Digimon. It is the \"Digimon Sovereign\" that guards the South, and commands the Deva Sandiramon, Indramon, and Pajiramon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96130,
+          "name": {
+            "full": "Shuichiro Moriyama",
+            "native": "森山周一郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96130-mSWbldVowFjT.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351982,
+        "name": {
+          "full": "Qinglongmon",
+          "native": "チンロンモン",
+          "alternative": [
+            "Azulongmon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351982-YbW8s8d78LSz.png"
+        },
+        "description": "Qinglongmon is a Holy Dragon Digimon. It is the \"Digimon Sovereign\" that guards the East, and commands the Deva Mihiramon, Antylamon, and Majiramon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95237,
+          "name": {
+            "full": "Juurouta Kosugi",
+            "native": "小杉十郎太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95237-nelrZUfvh2FH.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351983,
+        "name": {
+          "full": "Jijimon",
+          "native": "ジジモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351983-lgzO75nhOOTv.png"
+        },
+        "description": "Jijimon is a Digimon resembling an old man. He is a Mega level Digimon, and is married to Babamon. He appeared in episode 26 of Digimon Tamers.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100599,
+          "name": {
+            "full": "Masafumi Kimura",
+            "native": "木村雅史"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100599-Lk00M8kbWDe8.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351986,
+        "name": {
+          "full": "Devidramon",
+          "native": "デビドラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351986-YnoygV51S7N4.png"
+        },
+        "description": "Devidramon is a Dark Dragon Digimon. It is known and feared as the \"Many-eyed Demon\".",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101937,
+          "name": {
+            "full": "Hitoshi Bifu",
+            "native": "上別府仁資"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101937-B98Q78lnxThc.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351988,
+        "name": {
+          "full": "Vikaralamon",
+          "native": "ヴィカラーラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351988-eGtpLvLgPmIJ.png"
+        },
+        "description": "Vikaralamon is an Holy Beast Digimon. It is the \"Pig\" Deva, and serves the Digimon Sovereign Ebonwumon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100599,
+          "name": {
+            "full": "Masafumi Kimura",
+            "native": "木村雅史"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100599-Lk00M8kbWDe8.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351989,
+        "name": {
+          "full": "Orochimon",
+          "native": "オロチモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351989-LVhnjTIWuEHq.png"
+        },
+        "description": "A long time ago, Orochimon fell to another level of the Digital World and has enslaved a Gekomon and Otamamon village, forcing them to make sake. Some time later, Andromon continuously tries to defeat Orochimon, but is unsuccessful, and Juri ends up being kidnapped by Orochimon to make sake. Orochimon is ultimately destroyed by Leomon when Juri uses a LadyDevimon Digi-Modify card.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96682,
+          "name": {
+            "full": "Tetsuo Komura",
+            "native": "小村哲生"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1682.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351994,
+        "name": {
+          "full": "Mihiramon",
+          "native": "ミヒラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351994-Ib0VNG14QDgX.png"
+        },
+        "description": "Mihiramon is a Holy Beast Digimon. It is the \"Tiger\" Deva, and serves the Digimon Sovereign Azulongmon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96414,
+          "name": {
+            "full": "Masahiko Tanaka",
+            "native": "田中正彦"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96414-0dvcgzJwFZO4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351995,
+        "name": {
+          "full": "Baihumon",
+          "native": "バイフーモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351995-Uyb0udRv4ZIC.png"
+        },
+        "description": "Baihumon is a Holy Beast Digimon. It is the \"Digimon Sovereign\" that guards the West, and commands the Deva Makuramon, Sinduramon, and Caturamon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95800,
+          "name": {
+            "full": "Shinpachi Tsuji",
+            "native": "辻親八"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95800-TBMYjwu8Wy6T.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351997,
+        "name": {
+          "full": "Rumiko Makino",
+          "native": "牧野ルミ子",
+          "alternative": [
+            "Rumiko Nonaka"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351997-AhK0A7DQdSEj.png"
+        },
+        "description": "Rumiko is Ruki's mother. She is a model.",
+        "gender": "Female",
+        "age": "28"
+      },
+      "voiceActors": [
+        {
+          "id": 95374,
+          "name": {
+            "full": "Yuka Imai",
+            "native": "今井由香"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95374-ZCLR2wSfxYDX.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351999,
+        "name": {
+          "full": "Reika Ohtori",
+          "native": "鳳麗花",
+          "alternative": [
+            "Riley"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351999-tmA4wfvbNZ79.png"
+        },
+        "description": "Reika Ohtori is an employee of Hypnos. She is also the love interest of her manager, Mitsuo Yamaki, who she assists throughout the series, and to whom she also serves as an emotional counterweight to his obsessive, persistent demeanor.",
+        "gender": "Female",
+        "age": "26"
+      },
+      "voiceActors": [
+        {
+          "id": 95656,
+          "name": {
+            "full": "Ai Nagano",
+            "native": "愛 永野"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/656.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 352000,
+        "name": {
+          "full": "Sinduramon",
+          "native": "シンドゥーラモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b352000-t1W6oWZ1Qz60.png"
+        },
+        "description": "Sinduramon is a Holy Bird Digimon. It is the \"Rooster\" Deva, and serves the Digimon Sovereign Baihumon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95629,
+          "name": {
+            "full": "Issei Futamata",
+            "native": "二又一成"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95629-WgKFV9c2Wxpu.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 352001,
+        "name": {
+          "full": "Xuanwumon",
+          "native": "シェンウーモン",
+          "alternative": [
+            "Ebonwumon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b352001-fEA6gSdDAtxl.png"
+        },
+        "description": "Ebonwumon is a Holy Beast Digimon. It is the \"Digimon Sovereign\" that guards the North, and commands the Deva Vikaralamon, Kumbhiramon, and Vajramon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95670,
+          "name": {
+            "full": "Jouji Yanami",
+            "native": "八奈見乗児"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95670-fTFcKuDyrOjc.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348833,
+        "name": {
+          "full": "Gorou Mizuno",
+          "native": "水野悟郎",
+          "alternative": [
+            "Goro",
+            "Shibumi"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348833-ECUnO0P1nyLp.png"
+        },
+        "description": "Gorou Mizuno, also known as Shibumi, is a character from Digimon Tamers. He is one of the original Monster Makers.\nThe word Shibumi is the plural of \"Shibui\", which is Japanese for \"Effortless Perfection\", and is the title of a book by Trevanian about the application of the \"Shibumi\" ideal in Aikido.",
+        "gender": "Male",
+        "age": "42"
+      },
+      "voiceActors": [
+        {
+          "id": 351978,
+          "name": {
+            "full": "Tarou Suwa",
+            "native": "諏訪太朗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n351978-I04jQjbFUKjk.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 348839,
+        "name": {
+          "full": "Jiangyu Lee",
+          "native": "李鎮宇",
+          "alternative": [
+            "Lee Jiang-yu",
+            "Janyu Wong"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b348839-ndUbW43HshQN.png"
+        },
+        "description": "Lee Jiangyu is a secondary character in Digimon Tamers. He is the father of Jenrya and Shaochung, as well as one of the Monster Makers who were responsible for the creation of Digimon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 109023,
+          "name": {
+            "full": "Yoshiyuki Kaneko",
+            "native": "金子由之"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109023-JkZvuXOhr6N0.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 349893,
+        "name": {
+          "full": "Hagurumon",
+          "native": "ハグルモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b349893-PFWqxrBSR4fX.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95125,
+          "name": {
+            "full": "Hiroaki Hirata",
+            "native": "平田広明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95125-NeFFiJupoDVj.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351984,
+        "name": {
+          "full": "Yoshie Matsuda",
+          "native": "松田美枝",
+          "alternative": [
+            "Yoshie Matsuki"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351984-nFTp3Vkqj9Qd.png"
+        },
+        "description": "Yoshie Matsuda is Takato's mother. She is a baker.",
+        "gender": "Female",
+        "age": "34"
+      },
+      "voiceActors": [
+        {
+          "id": 95442,
+          "name": {
+            "full": "Kaya Matsutani",
+            "native": "松谷彼哉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95442-gyEf1LcUL6hV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351987,
+        "name": {
+          "full": "Takehiro Matsuda",
+          "native": "松田剛弘",
+          "alternative": [
+            "Takehiro Matsuki"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351987-jjD7x5x22eKl.png"
+        },
+        "description": "Takehiro Matsuda is Takato's father. He is a baker.",
+        "gender": "Male",
+        "age": "41"
+      },
+      "voiceActors": [
+        {
+          "id": 104816,
+          "name": {
+            "full": "Nobuaki Kanemitsu",
+            "native": "金光宣明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104816-0kU8ww2ogISO.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351990,
+        "name": {
+          "full": "Aishwarya Rai",
+          "native": "アイシュワリャライ",
+          "alternative": [
+            "Curly",
+            "Kali"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351990-bAFQeGbwpEm0.png"
+        },
+        "description": "Aishwarya Rai is a character in Digimon Tamers. She is a member of the Monster Makers, the group that created the artificial life forms that would eventually evolve into Digimon. Aishwarya appears to be named after Aishwarya Rai Bachchan, an Indian film actress and model.",
+        "gender": "Female",
+        "age": "43"
+      },
+      "voiceActors": [
+        {
+          "id": 96301,
+          "name": {
+            "full": "Youko Matsuoka",
+            "native": "松岡洋子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96301-FZZGgxCdNODm.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351991,
+        "name": {
+          "full": "Daisy",
+          "native": "デイジー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351991-b061w6EZXrZ1.png"
+        },
+        "description": "Daisy is one of the Monster Makers. She has short blonde hair. Her specialty is robotics and software.",
+        "gender": "Female",
+        "age": "40"
+      },
+      "voiceActors": [
+        {
+          "id": 96581,
+          "name": {
+            "full": "Asako Dodo",
+            "native": "百々麻子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1581.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351992,
+        "name": {
+          "full": "Rob McCoy",
+          "native": "ロブ・マッコイ",
+          "alternative": [
+            "Dolphin"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351992-H05aNPo1SfFM.png"
+        },
+        "description": "Dr. Rob McCoy, also known as \"Dolphin\", is a professor at Palo Alto University, and the man who began the project into the creation of artificial life that eventually spawned Digimon. He is Alice McCoy's father.",
+        "gender": "Male",
+        "age": "50"
+      },
+      "voiceActors": [
+        {
+          "id": 95488,
+          "name": {
+            "full": "Masami Kikuchi",
+            "native": "菊池正美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95488-XPg4VA6rW4jJ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351993,
+        "name": {
+          "full": "Mayumi Lee",
+          "native": "李麻由美",
+          "alternative": [
+            "Mayumi Li",
+            "Mayumi Yanase",
+            "柳瀬麻由美"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351993-ejlgTkLilluG.png"
+        },
+        "description": "Mayumi is Jenrya Shaochung's mother, and Janyu's wife. Her maiden name is Yanase.. She is 42 years old.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 108457,
+          "name": {
+            "full": "Mari Adachi",
+            "native": "安達まり"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/13457.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 351998,
+        "name": {
+          "full": "Babel",
+          "native": "バベル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b351998-FiJR3CIPvOKq.png"
+        },
+        "description": "Babel is a member of the Monster Makers.",
+        "gender": "Male",
+        "age": "36"
+      },
+      "voiceActors": [
+        {
+          "id": 95299,
+          "name": {
+            "full": "Kenji Nomura",
+            "native": "乃村健次"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95299-emNsgDYS4DBi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 352002,
+        "name": {
+          "full": "Jaarin Lee",
+          "native": "李嘉玲",
+          "alternative": [
+            "Jaarin Li",
+            "Jaarin Wong"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b352002-TOzrTQNo011o.png"
+        },
+        "description": "Jaarin is Jenrya and Shaochung's older sister. She is 15 years old.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 307188,
+          "name": {
+            "full": "Mari Yoshikura",
+            "native": "吉倉万里"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

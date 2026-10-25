@@ -1,0 +1,470 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T02:42:42.400Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 126192,
+      "anime_title": "女友成堆",
+      "anime_origin": "JP",
+      "source": {
+        "id": 126192,
+        "titles": [
+          "Kanojo mo Kanojo",
+          "Girlfriend, Girlfriend",
+          "カノジョも彼女",
+          "KanoKano",
+          "She is also my Girlfriend",
+          "จะคนไหนก็แฟนสาว",
+          "Мои девушки",
+          "Kupunya Dia dan Dirinya"
+        ],
+        "year": 2021,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/126192"
+      },
+      "characters": [
+        {
+          "id": 162887,
+          "name": "向井直也",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162887-d4IfJSmpGnxr.jpg",
+          "description": "向井直也是一名身高170厘米的高中生，性格坦率直接、为人外向，常常不顾场合把自己的想法说出口。他多年来不断向青梅竹马佐木咲告白，终于与她交往；后来又坦白喜欢上水濑渚，并征求咲同意，提出同时与两人交往。直也坚持自己只会有两名女友，也多次拒绝星崎理香的追求。他的直率和执着让三人的关系不断遇到新的考验。",
+          "nicknames": [
+            "向井直也",
+            "Naoya Mukai",
+            "ナオヤ",
+            "直也"
+          ],
+          "traits": [
+            "身高170厘米",
+            "高中一年级学生",
+            "性格坦率直接",
+            "为人外向",
+            "多年持续向佐木咲告白",
+            "主动征求咲同意交往两名女友",
+            "与水濑渚也建立恋爱关系",
+            "坚持只维持两名女友关系",
+            "持续拒绝星崎理香的追求",
+            "会保护现有恋爱关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "榎木淳弥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Naoya Mukai",
+            "name_native": "向井直也",
+            "name_alternative": [
+              "ナオヤ"
+            ],
+            "description": "**Height:** 170 cm (5'7\")\n\nNaoya is considered to be a very straightforward and outgoing person. His straightforward personality is very explicit and knows no bounds; Naoya is straightforward regardless of his situation, be it in front of the mass crowd or in private with his girlfriends. Additionally, Naoya can be considered slightly selfish for he openly asks his first girlfriend, [Saki Saki](https://anilist.co/character/162886/Saki-Saki), whether he can two-time her and go out with [Minase Nagisa](https://anilist.co/character/162885/Minase-Nagisa).\n\nDespite his two-timing behavior, Naoya would do his best to keep himself to only two girlfriends, as seen by constantly rejecting and fending off [Hoshizaki Mirika](https://anilist.co/character/182020/Rika-Hoshizaki) despite her persistent behavior to gain his affection. He would also protect his relationship from all compromise, as seen with Mirika and Shino who tried to expose his two-timing relationships.\n\nThe straightforward personality branches off into Naoya's persistence, repeatedly asking Saki out until she finally gives in over many years. It also introduced his restraint, in which he refrains himself from laying hand on the girls (his girlfriends, Rika and Shino) no matter how suggestive the situation may have been."
+          }
+        },
+        {
+          "id": 162886,
+          "name": "佐木咲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162886-jHVw29KuITzO.png",
+          "description": "佐木咲身高161厘米，是向井直也的青梅竹马和第一位女友。她性格开朗、精力充沛，情绪表达直接，有时也显得天真健忘；她擅长体育，遇到直也做出过分举动时常会当面制止。直也提出同时与渚交往后，咲起初难以接受这种关系，之后逐渐与渚相处。她与渚共同成为女主角，也持续要求直也认真对待两人的感受。",
+          "nicknames": [
+            "佐木咲",
+            "Saki Saki",
+            "サキ",
+            "Sakisaki",
+            "咲",
+            "Saki"
+          ],
+          "traits": [
+            "身高161厘米",
+            "向井直也的女友",
+            "与直也是青梅竹马",
+            "性格开朗",
+            "精力充沛",
+            "感情丰富",
+            "有时天真健忘",
+            "擅长体育",
+            "会直接对直也表达不满",
+            "接受渚成为共同女友"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐倉綾音",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Saki Saki",
+            "name_native": "佐木咲",
+            "name_alternative": [
+              "サキ",
+              "Sakisaki"
+            ],
+            "description": "**Height:** 161 cm (5'3\")\n\nSaki Saki is [Mukai Naoya](https://anilist.co/character/162887/Mukai-Naoya)'s girlfriend. She is one of the female protagonist of Kanojo mo Kanojo series, along with Naoya's other girlfriend [Minase Nagisa](https://anilist.co/character/162885/Minase-Nagisa).\n\nSaki is stated to be a cheerful and energetic girl. She is also an emotional, naive and forgetful girl. She excels in sports and can be openly aggressive against anyone, mostly Mukai Naoya, whose actions are a bit too much."
+          }
+        },
+        {
+          "id": 162885,
+          "name": "水濑渚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162885-8teW99MU3TSJ.png",
+          "description": "水濑渚身高155厘米，是向井直也的女友，也是本作的女主角之一。她性格沉着、待人周到而谦逊，虽然缺少明显天赋，仍会努力让成绩维持在班级平均水平。渚不擅长唱歌和运动，却会为了守住与直也的恋情想办法，有时甚至采用不光彩的手段。她提出与直也交往后，也努力与咲相处，三人的关系因此从争执逐渐走向共同生活。",
+          "nicknames": [
+            "水濑渚",
+            "Nagisa Minase",
+            "水瀬渚",
+            "Tomomi (トモミ)",
+            "渚",
+            "水濑"
+          ],
+          "traits": [
+            "身高155厘米",
+            "向井直也的女友",
+            "性格沉着",
+            "待人周到",
+            "为人谦逊",
+            "做事勤奋",
+            "学习成绩努力维持在平均水平",
+            "唱歌缺乏天赋",
+            "运动方面不擅长",
+            "为维持恋情偶尔会耍小手段"
+          ],
+          "voice_actors": [
+            {
+              "name": "和氣あず未",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119517-ggxWaTnTOrxW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Nagisa Minase",
+            "name_native": "水瀬渚",
+            "name_alternative": [
+              "Tomomi (トモミ)"
+            ],
+            "description": "**Height:** 155 cm (5'1\")\n\nMinase Nagisa is [Mukai Naoya](https://anilist.co/character/162887)'s girlfriend. She is one of the female protagonist of Kanojo mo Kanojo series, along with Naoya's other girlfriend [Saki Saki](https://anilist.co/character/162886)\n\nNagisa is shown to be a collected, considerate and humble girl. She seems to have no talent, often working hard to stay on her classmates average. Despite her considerate personality, she would resort to underhanded tactics, even to the point of cheating, to preserve her relationship with Mukai Naoya. Nagisa has been shown to have a lack of talent in singing and sports.\n"
+          }
+        },
+        {
+          "id": 182020,
+          "name": "星崎理香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182020-Xc5ifcZlsIcV.png",
+          "description": "星崎理香也使用“Mirika”这个名字，是一名在MeTube拥有高人气的虚拟内容创作者。她是高中一年级学生，与直也和咲就读同一所学校，并持续追求直也，希望获得他的感情。理香的主动追求给直也和咲的关系带来压力；直也虽然多次拒绝她，理香仍不轻易放弃。她既是网络创作者，也是围绕直也展开的恋爱关系中的重要女主角。",
+          "nicknames": [
+            "星崎理香",
+            "Rika Hoshizaki",
+            "Mirika (ミリカ)",
+            "Milika",
+            "Mirika",
+            "米莉卡",
+            "理香"
+          ],
+          "traits": [
+            "高中一年级学生",
+            "就读于直也和咲所在的学校",
+            "使用艺名Mirika",
+            "是MeTube人气创作者",
+            "经营虚拟内容频道",
+            "持续追求向井直也",
+            "想获得直也的感情",
+            "因直也已有女友而遭到拒绝",
+            "是本作女主角之一"
+          ],
+          "voice_actors": [
+            {
+              "name": "竹達彩奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101996-PcY5iaq5LHgd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Rika Hoshizaki ",
+            "name_native": "星崎理香",
+            "name_alternative": [
+              "Mirika (ミリカ)",
+              "Milika"
+            ],
+            "description": "Hoshizaki Rika, also known as her alternate name Mirika, is a popular virtual content creator on MeTube, and is persistently pursuing over [Naoya's](https://anilist.co/character/162887/Mukai-Naoya) affection for her. She is a first year high school student who attends the same school as [Saki Saki](https://anilist.co/character/162886/Saki-Saki) and Naoya."
+          }
+        },
+        {
+          "id": 195567,
+          "name": "桐生紫乃",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195567-1uM7mDi0pFSk.png",
+          "description": "桐生紫乃是佐木咲的好友，与咲同班并参加同一个课外社团。她性格认真、待人周到，学业成绩优秀，曾拿到校内最高分。紫乃发现直也同时与咲和渚交往后，决定揭露这段关系并试图让它结束，因为她认为咲会因此受伤。然而紫乃自己也喜欢直也，逐渐开始犹豫是否该继续隐瞒心意。她既想保护咲，也必须面对自己的感情。",
+          "nicknames": [
+            "桐生紫乃",
+            "Shino Kiryuu",
+            "紫乃",
+            "桐生"
+          ],
+          "traits": [
+            "佐木咲的好友",
+            "与咲同班",
+            "与咲参加同一个课外社团",
+            "性格认真",
+            "待人周到",
+            "学业成绩优秀",
+            "曾是校内成绩第一名",
+            "发现直也同时与咲和渚交往",
+            "试图揭露两人的关系",
+            "对向井直也也有好感"
+          ],
+          "voice_actors": [
+            {
+              "name": "高橋李依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shino Kiryuu",
+            "name_native": "桐生紫乃",
+            "name_alternative": [],
+            "description": "Shino is a close friend of [Saki Saki](https://anilist.co/character/162886/Saki-Saki). They are in the same class and the same after school club. Shino is serious and considerate, and also academically talented, being the top scoring student at school.\n\n~!After learning [Naoya](https://anilist.co/character/162887/Mukai-Naoya) and Saki Saki were both on a two-time relationship with [Nagisa](https://anilist.co/character/162885/Minase-Nagisa), she decided to expose their relationship, and attempt to end it, in order to help Saki, believing it was hurting her feelings. However she also has feelings for Naoya, and started to have doubts about hiding her feelings or not.!~"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 124410,
+      "anime_title": "出租女友 第二季",
+      "anime_origin": "JP",
+      "source": {
+        "id": 124410,
+        "titles": [
+          "Kanojo, Okarishimasu 2nd Season",
+          "Rent-a-Girlfriend Season 2",
+          "彼女、お借りします 第2期",
+          "KanoKari 2",
+          "สะดุดรักยัยแฟนเช่า ภาค 2",
+          "Pacar Sewaan 2"
+        ],
+        "year": 2022,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/124410"
+      },
+      "characters": [
+        {
+          "id": 128105,
+          "name": "木之下和也",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128105-gad6JuGEXPWe.png",
+          "description": "木之下和也是一名身高177厘米、居住在东京的大学生，就读于练马大学。面对重要决定时他常显得优柔寡断，也容易屈从于自己的私欲；由于缺少坦白真相的勇气，他经常因说谎而惹上麻烦。不过和也内心善良，会关心身边的人，并逐渐喜欢上邻居兼租借女友水原千鹤。他在大学生活、恋爱和家庭关系之间反复应对自己的选择。",
+          "nicknames": [
+            "木之下和也",
+            "Kazuya Kinoshita",
+            "木ノ下和也",
+            "Master",
+            "Kazu-kun (かずくん)",
+            "和也"
+          ],
+          "traits": [
+            "身高177厘米",
+            "居住在东京",
+            "练马大学学生",
+            "大学生活并不顺利",
+            "性格优柔寡断",
+            "容易屈从于私欲",
+            "常因说谎惹上麻烦",
+            "缺乏勇气坦白真相",
+            "内心善良",
+            "会关心周围的人",
+            "喜欢水原千鹤"
+          ],
+          "voice_actors": [
+            {
+              "name": "堀江瞬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119869-mUUrORIQBlnB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kazuya Kinoshita",
+            "name_native": "木ノ下和也",
+            "name_alternative": [
+              "Master",
+              "Kazu-kun (かずくん)"
+            ],
+            "description": "__Height:__ 177 cm (5'10\")\n\nA struggling university student living in Tokyo. He studies at Nerima University. Kazuya possesses a wishy-washy nature and is susceptible to yielding to his selfish desires. His lies often get him into trouble, because he cannot muster the strength to tell the truth. On the other hand, possessing a straightforward kindness that cares for those around him. He has also developed feelings for [Chizuru](https://anilist.co/character/128106/Ichinose-Chizuru)."
+          }
+        },
+        {
+          "id": 128106,
+          "name": "一之濑千鹤",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b128106-zSTsuULvz6PX.png",
+          "description": "一之濑千鹤身高162厘米，是练马大学文学专业的学生，住在Royal Hills Nerima的204室，恰好位于木之下和也隔壁。她以“水原千鹤”的身份从事租借女友工作，在职业场合和日常生活中使用不同姓名。千鹤认真维持工作形象，与和也逐渐产生超出服务关系的联系；她既要处理大学生活，也要面对租借女友身份与个人感情之间的边界。",
+          "nicknames": [
+            "一之濑千鹤",
+            "Chizuru Ichinose",
+            "一ノ瀬ちづる",
+            "Chizuru Mizuhara (水原千鶴)",
+            "水原千鹤",
+            "Chizuru Mizuhara",
+            "千鹤"
+          ],
+          "traits": [
+            "身高162厘米",
+            "练马大学学生",
+            "主修文学",
+            "住在Royal Hills Nerima 204室",
+            "住在木之下和也隔壁",
+            "以水原千鹤身份从事租借女友工作",
+            "在工作与私生活中使用不同姓名",
+            "是和也喜欢的人"
+          ],
+          "voice_actors": [
+            {
+              "name": "雨宮天",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-xjN5V1jMc443.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Chizuru Ichinose",
+            "name_native": "一ノ瀬ちづる",
+            "name_alternative": [
+              "Chizuru Mizuhara (水原千鶴)"
+            ],
+            "description": "__Height:__ 162 cm (5'4\")\n\nChizuru Ichinose, alternatively known as Chizuru Mizuhara in her \"rental girlfriend\" persona, is a college student at Nerima University who is majoring in Literature and she currently lives in Room 204 of Royal Hills Nerima, just next to [Kazuya Kinoshita](https://anilist.co/character/128105/Kazuya-Kinoshita)."
+          }
+        },
+        {
+          "id": 144665,
+          "name": "樱泽墨",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144665-aPda7bPvOoYl.png",
+          "description": "樱泽墨身高156厘米，是一名大学生，通过Diamond应用从事租借女友工作。她性格非常害羞，最初很难适应需要与陌生顾客相处的工作。墨与木之下和也接触后逐渐进步，也开始克服交流上的困难。她并非一开始就能轻松扮演活泼的约会对象，而是靠练习和与和也相处的经验慢慢成长，努力让自己的工作表现变得更好。",
+          "nicknames": [
+            "樱泽墨",
+            "Sumi Sakurasawa",
+            "桜沢墨",
+            "墨",
+            "樱泽"
+          ],
+          "traits": [
+            "身高156厘米",
+            "大学生",
+            "通过Diamond应用从事租借女友工作",
+            "性格极度害羞",
+            "起初难以适应工作",
+            "需要克服与陌生人交流的困难",
+            "曾与木之下和也相处",
+            "在和也的陪伴下逐渐进步",
+            "努力提升自己的工作表现"
+          ],
+          "voice_actors": [
+            {
+              "name": "高橋李依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sumi Sakurasawa",
+            "name_native": "桜沢墨",
+            "name_alternative": [],
+            "description": "**Height:** 156 cm (5'1\")\n\nSumi is a college student who works as a rental girlfriend for the Diamond app. She's extremely shy which initially made the job quite difficult for her, but she started to improve after spending time with [Kazuya](https://anilist.co/character/128105/Kinoshita-Kazuya)."
+          }
+        },
+        {
+          "id": 147005,
+          "name": "更科瑠夏",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b147005-5vLFz3lTsssh.png",
+          "description": "更科瑠夏身高158厘米，患有心律不齐，希望找到恋人帮助自己面对病情。她性格强势，对恋爱对象有较强的占有欲；得知病情后遭到同龄人疏远，也让她更加执着于“交往后心跳会变快”的想法。瑠夏不轻易放弃目标，但有时会为了得到想要的结果而作出欠考虑的决定。她对和也的追求使租借女友之间的关系变得更加复杂。",
+          "nicknames": [
+            "更科瑠夏",
+            "Ruka Sarashina",
+            "るか",
+            "sara_gatangoton",
+            "瑠夏",
+            "更科"
+          ],
+          "traits": [
+            "身高158厘米",
+            "患有心律不齐",
+            "希望恋爱关系帮助自己面对病情",
+            "性格强势",
+            "对恋爱对象占有欲强",
+            "因病情而被同龄人疏远",
+            "执着于恋爱时心跳加快",
+            "不轻易放弃目标",
+            "为达目的有时作出欠考虑的决定"
+          ],
+          "voice_actors": [
+            {
+              "name": "東山奈央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106184-rFA0sHFJrbk4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ruka Sarashina",
+            "name_native": "更科瑠夏",
+            "name_alternative": [
+              "るか",
+              "sara_gatangoton"
+            ],
+            "description": "__Height:__ 158 cm (5'2\")\n\nRuka Sarashina suffers from arrhythmia and seeks a lover that will help her cope with her condition. She's seen as being a very pushy and possessive kind of person. This personality of hers developed after learning of her condition and being alienated from her peers. Because of this, she became very fixated on the idea that getting a boyfriend would help her in having a faster heartbeat.\n\nAlong with her rather brash personality, she doesn't like giving up easily; often making poor decisions to get what she wants."
+          }
+        },
+        {
+          "id": 154224,
+          "name": "七海麻美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154224-7dJ09BKEnG3v.png",
+          "description": "七海麻美身高158厘米，是练马大学一年级学生，也是木之下和也的前女友。她与和也只交往了一个月便提出分手，但当和也开始新的恋情后，麻美却无法接受他向前迈进，时常试图破坏他的幸福。她会关注和也与千鹤之间的关系，并利用两人的过去影响当前局面。麻美的行为让和也必须面对前任带来的压力，也使千鹤难以忽视她的介入。",
+          "nicknames": [
+            "七海麻美",
+            "Mami Nanami",
+            "Maya",
+            "Kaori",
+            "Numa (沼)",
+            "麻美",
+            "七海"
+          ],
+          "traits": [
+            "身高158厘米",
+            "练马大学一年级学生",
+            "木之下和也的前女友",
+            "曾与和也交往一个月",
+            "主动提出分手",
+            "难以接受和也开始新恋情",
+            "会试图破坏和也的幸福",
+            "关注和也与千鹤的关系",
+            "是和也过去恋情的关键人物"
+          ],
+          "voice_actors": [
+            {
+              "name": "悠木碧",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mami Nanami",
+            "name_native": "七海麻美",
+            "name_alternative": [
+              "Maya",
+              "Kaori",
+              "Numa (沼)"
+            ],
+            "description": "**Height:** 158 cm (5'2\")\n\nShe is a freshman at Nerima University and the ex-girlfriend of [Kazuya Kinoshita](https://anilist.co/character/128105). \n~!She dumped him after only one month. Even though she broke up with him, she can not fathom Kazuya moving on and seizes every moment attempting to sabotage his happiness.!~"
+          }
+        }
+      ]
+    }
+  ]
+}

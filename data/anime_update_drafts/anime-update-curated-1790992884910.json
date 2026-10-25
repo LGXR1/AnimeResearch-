@@ -1,0 +1,1002 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T01:44:22.368Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 21362,
+      "anime_title": "百武装战记",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21362,
+        "titles": [
+          "Hundred",
+          "ハンドレッド",
+          "ฮันเดรด"
+        ],
+        "year": 2016,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21362"
+      },
+      "characters": [
+        {
+          "id": 89719,
+          "name": "如月隼人",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89719-oxWXnbLMDxc7.png",
+          "description": "如月隼人是《百武装战记》的男主角，来自大和，后来进入学园都市 Little Garden，成为对抗 Savage 的 Slayer。转学后，他结识艾米尔、克莱尔等人，并凭借出色的 Hundred 适应能力投入战斗。隼人也是花怜的哥哥，始终把保护妹妹和同伴放在重要位置；围绕他的能力与身份，各国势力和学园内部逐渐出现新的冲突。",
+          "nicknames": [
+            "如月隼人",
+            "Hayato Kisaragi",
+            "如月ハヤト",
+            "隼人",
+            "桐生隼人"
+          ],
+          "traits": [
+            "故事男主角",
+            "来自大和的少年",
+            "Little Garden 学园学生",
+            "拥有高适应性的 Hundred 操作者",
+            "如月花怜的哥哥",
+            "为保护同伴参与 Savage 战斗",
+            "在学园接受 Slayer 训练",
+            "被卷入多国势力的冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "長谷川芳明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119855-B21adyPXI4PL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hayato Kisaragi",
+            "name_native": "如月ハヤト",
+            "name_alternative": [],
+            "description": "Hayato Kisaragi is the main protagonist of Hundred. He is the older brother of Karen Kisaragi originating from Yamato prior to the Second Attack, but later moved to Gudenburg due to their father's job where he befriended Emilia Hermit until his parents' death, then moved to an insitutute in Yamato. \n\nHayato was later scouted to enroll in Little Garden with both his tuition waived and under a scholarship under the condition his little sister would receive the treatment she needed due to his high aptitude for a Hundred, as a result of him being a variant and become a first-year student in Bugeika High School. \n"
+          }
+        },
+        {
+          "id": 89720,
+          "name": "艾米尔·克罗斯福德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89720-dxzxBQoE5l0i.png",
+          "description": "艾米尔·克罗斯福德是转入 Little Garden 的学生，最初以少年身份出现在隼人面前，真实身份则是古登堡帝国第三公主艾蜜莉亚。她曾多次偷偷离开王宫，向往与同龄人自由交往，因此在学园结识隼人后逐渐把他视作重要伙伴。艾米尔拥有对抗 Savage 的战斗能力，也必须在校园生活与皇族责任之间寻找平衡。",
+          "nicknames": [
+            "艾米尔·克罗斯福德",
+            "Emile Crossfode",
+            "エミール・クロスフォード",
+            "Emilia Gudenburg",
+            "Emilia Hermit",
+            "艾米尔",
+            "艾蜜莉亚·古登堡"
+          ],
+          "traits": [
+            "古登堡帝国第三公主",
+            "以男性身份进入学园",
+            "真实姓名为艾蜜莉亚",
+            "Little Garden 学生",
+            "隼人的同学与伙伴",
+            "具有 Slayer 战斗能力",
+            "曾多次离开王宫外出",
+            "在学校与皇族身份间周旋"
+          ],
+          "voice_actors": [
+            {
+              "name": "大久保瑠美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107041-ZqPloXZhcuQw.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Emile Crossfode",
+            "name_native": "エミール・クロスフォード",
+            "name_alternative": [
+              "Emilia Gudenburg",
+              "Emilia Hermit"
+            ],
+            "description": "Emilia Gudenburg is the main female protagonist in Hundred.\n\nShe is the third princess of the Gudenburg Empire.\n\nHaving snuck outside of the royal palace several times, Emilia befriended, Hayato Kisaragi under the alias of Emilia Hermit. During the Second Attack, she was turned into a variant after being attacked by a savage and was separated from Hayato.\n\nShe soon enrolled in Little Garden under the guise of a male student named Emile Crossfode where she had become the roommate of Hayato but was later removed after Claire found out she was a female."
+          }
+        },
+        {
+          "id": 89721,
+          "name": "克莱尔·哈维",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89721-5gfEJ23QMhQM.jpg",
+          "description": "克莱尔·哈维是哈维家族的女儿，也是 Little Garden 的重要学生。她是比尔与莉妮丝·哈维的次女、朱达尔的妹妹，在学园中以严谨和责任感受到瞩目，并被称为“完美女王”。克莱尔拥有 Hundred 战斗能力，面对 Savage 威胁时会投入防卫行动；她起初与隼人保持距离，之后逐渐认可他的实力，并与艾米尔等人建立起合作关系。",
+          "nicknames": [
+            "克莱尔·哈维",
+            "Claire Harvey",
+            "クレア・ハーヴェイ",
+            "Perfect Queen",
+            "Rose Guardian",
+            "克莱尔",
+            "完美女王",
+            "蔷薇守护者"
+          ],
+          "traits": [
+            "哈维家族成员",
+            "Little Garden 的主要学生",
+            "出身于比尔与莉妮丝·哈维家",
+            "朱达尔·哈维的妹妹",
+            "三位女主角之一",
+            "拥有 Hundred 战斗能力",
+            "责任感强且重视秩序",
+            "与隼人及艾米尔共同应对危机"
+          ],
+          "voice_actors": [
+            {
+              "name": "市道真央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Claire Harvey",
+            "name_native": "クレア・ハーヴェイ",
+            "name_alternative": [
+              "Perfect Queen",
+              "Rose Guardian"
+            ],
+            "description": "Claire Harvey is one of the three main female protagonists of Hundred. She is the first daughter and second child of Bill and Linis Harvey, thus making her the little sister of Judal Harvey and older sister of Liza Harvey. After being admitted into Little Garden, she became the highest-ranked Slayer known as the Perfect Queen and Rose Guardian."
+          }
+        },
+        {
+          "id": 89722,
+          "name": "桐岛樱",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89722-eLMtbQn290m7.jpg",
+          "description": "桐岛樱是享誉世界的偶像，被媒体称为“东方魔女”。她曾在袭击事件中得到隼人帮助，并因此对这名被视作英雄的少年产生好感。樱的公众生活围绕演出与粉丝展开，但她也并非只在舞台上活动，故事让她逐步卷入 Hundred 与 Savage 相关的事件。她兼具偶像身份和战斗一面，在团队中带来不同于学园学生的视角。",
+          "nicknames": [
+            "桐岛樱",
+            "Sakura Kirishima",
+            "霧島サクラ",
+            "樱",
+            "东方魔女"
+          ],
+          "traits": [
+            "世界知名偶像",
+            "拥有东方魔女的称号",
+            "三位女主角之一",
+            "曾被隼人从袭击中救出",
+            "后来对隼人产生好感",
+            "具有 Hundred 相关战斗能力",
+            "公众形象明亮活泼",
+            "在舞台活动与学园事件间往返"
+          ],
+          "voice_actors": [
+            {
+              "name": "吉岡茉祐",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118477-3qPqVRGIv40V.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sakura Kirishima",
+            "name_native": "霧島サクラ",
+            "name_alternative": [],
+            "description": "Sakura Kirishima is a popular idol well-known worldwide as an Oriental Wizard, she later fell in love with Hayato Kisaragi who everyone regarded as a hero for saving Zwei Island from the savages after watching a viral video. Aside from her being an idol, Sakura is also a slayer \n\n~!She is also a Variant.!~"
+          }
+        },
+        {
+          "id": 89723,
+          "name": "如月花怜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89723-5F7xd57hFBUW.png",
+          "description": "如月花怜是隼人的妹妹，也是促使他不断寻找守护力量的重要家人。故事初期两人因 Savage 袭击和后续安排而分开，花怜需要接受照护，隼人则进入 Little Garden 训练并参与防卫任务。她与哥哥之间的亲情贯穿隼人的行动动机；在战斗之外，花怜也让观众看到 Hundred 世界中普通家庭如何承受怪物袭击造成的影响。",
+          "nicknames": [
+            "如月花怜",
+            "Karen Kisaragi",
+            "如月 カレン",
+            "花怜",
+            "如月卡莲"
+          ],
+          "traits": [
+            "如月隼人的妹妹",
+            "故事开端时与哥哥分离",
+            "重视与隼人的亲情",
+            "需要接受医疗照护",
+            "与 Little Garden 有联系",
+            "在危险时期依赖伙伴保护",
+            "性格温和",
+            "她的安危影响隼人的行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "奥野香耶",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118474-QuhROyWT3CQl.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Karen Kisaragi",
+            "name_native": "如月 カレン",
+            "name_alternative": [],
+            "description": "Karen Kisaragi is the little sister of Hayato Kisaragi."
+          }
+        },
+        {
+          "id": 89724,
+          "name": "弗里茨·格兰兹",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89724-B8AwRue4dHAG.png",
+          "description": "弗里茨·格兰兹是 Little Garden 的学生，与蕾蒂娅·圣埃米里昂从小相识。他和隼人同处学园环境，接受 Slayer 训练并参与对抗 Savage 的防卫行动。弗里茨与蕾蒂娅的青梅竹马关系为学园日常增添熟悉感，也让他在同学间的战斗合作之外保有个人情感线索。面对威胁时，他会和伙伴配合行动，而不是独自承担所有任务。",
+          "nicknames": [
+            "弗里茨·格兰兹",
+            "Fritz Glanz",
+            "フリッツ・グランツ",
+            "弗里茨"
+          ],
+          "traits": [
+            "Little Garden 学生",
+            "蕾蒂娅的青梅竹马",
+            "与隼人同届",
+            "具有 Slayer 身份",
+            "参与学园训练与防卫",
+            "擅长与同伴协作",
+            "和蕾蒂娅关系亲近",
+            "为故事提供男性同学视角"
+          ],
+          "voice_actors": [
+            {
+              "name": "羽多野渉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Fritz Glanz",
+            "name_native": "フリッツ・グランツ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 89725,
+          "name": "蕾蒂娅·圣埃米里昂",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89725-KBozla1KqGtq.png",
+          "description": "蕾蒂娅·圣埃米里昂是 Bugeika 学园的一年级学生，也是弗里茨·格兰兹的青梅竹马。她与隼人和艾米尔成为朋友，逐渐加入 Little Garden 学生之间的日常与战斗协作。蕾蒂娅熟悉学园生活，拥有 Slayer 所需的训练背景，在 Savage 威胁出现时会和同伴一起行动。她与弗里茨从小建立的关系，也让两人在紧张战斗之外保留了稳定的伙伴纽带。",
+          "nicknames": [
+            "蕾蒂娅·圣埃米里昂",
+            "Reitia Saint-Émilion",
+            "レイティア・サンテミリオン",
+            "Latia Saint-Émilion",
+            "蕾蒂娅"
+          ],
+          "traits": [
+            "Bugeika 学园一年级学生",
+            "弗里茨的青梅竹马",
+            "隼人与艾米尔的朋友",
+            "具有 Slayer 战斗训练",
+            "与同伴共同应对 Savage",
+            "熟悉 Little Garden 校园生活",
+            "性格开朗主动",
+            "重视和弗里茨的长久友谊"
+          ],
+          "voice_actors": [
+            {
+              "name": "大坪由佳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107452-PcfGagaON83G.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Reitia Saint-Émilion",
+            "name_native": "レイティア・サンテミリオン",
+            "name_alternative": [],
+            "description": "Latia Saint-Émillion is a first-year in Bugeika High School alongside her childhood friend, Fritz Glanz. She is also one of the main friends of Hayato and Emilia."
+          }
+        },
+        {
+          "id": 181577,
+          "name": "柏木美晴",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181577-LZPIyLyPilcQ.png",
+          "description": "柏木美晴是在 Little Garden 工作的护士，负责照顾如月花怜。她的职责并非直接参加 Slayer 战斗，而是为受伤或需要治疗的人提供护理，让学园的医疗支援体系得以运作。花怜与美晴的接触，使隼人能够确认妹妹在学园中的生活情况，也为紧张的战斗主线加入日常照料和恢复过程。美晴以可靠的护理工作支持着主角一行人的生活。",
+          "nicknames": [
+            "柏木美晴",
+            "Miharu Kashiwagi",
+            "柏木ミハル",
+            "美晴"
+          ],
+          "traits": [
+            "Little Garden 的护士",
+            "负责照看如月花怜",
+            "熟悉学园医疗环境",
+            "以护理工作支持学生",
+            "与隼人兄妹的处境相关",
+            "在战斗之外提供照护",
+            "处事认真可靠",
+            "连接学园生活与医疗支援"
+          ],
+          "voice_actors": [
+            {
+              "name": "芳野由奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127248-g8EDcsY0nX7n.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miharu Kashiwagi",
+            "name_native": "柏木ミハル",
+            "name_alternative": [],
+            "description": "Miharu Kashiwagi is a nurse working in Little Garden and is in charge of taking care of Karen Kisaragi."
+          }
+        },
+        {
+          "id": 181581,
+          "name": "朱达尔·哈维",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181581-ucClYimoiihh.png",
+          "description": "朱达尔·哈维是比尔与莉妮丝·哈维的儿子，也是克莱尔的哥哥。他的身份把克莱尔的校园经历与哈维家族的社会地位联系起来，故事中的家族事务和责任也会影响两人的选择。朱达尔并非隼人所在小队的核心战斗成员，但作为重要家族角色，他帮助呈现 Hundred 世界中贵族家庭、学园和军事势力之间的关系。",
+          "nicknames": [
+            "朱达尔·哈维",
+            "Judal Harvey",
+            "ジュダル・ハーヴェイ",
+            "朱达尔"
+          ],
+          "traits": [
+            "哈维家族成员",
+            "比尔与莉妮丝·哈维的儿子",
+            "克莱尔的哥哥",
+            "与哈维家族事务相关",
+            "身处学园外的家族势力圈",
+            "关注家族继承与责任",
+            "与妹妹克莱尔关系密切",
+            "在故事中体现贵族家庭背景"
+          ],
+          "voice_actors": [
+            {
+              "name": "細谷佳正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Judal Harvey",
+            "name_native": "ジュダル・ハーヴェイ",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 20809,
+      "anime_title": "魔弹之王与战姬",
+      "anime_origin": "JP",
+      "source": {
+        "id": 20809,
+        "titles": [
+          "Madan no Ou to Vanadis",
+          "Lord Marksman and Vanadis",
+          "魔弾の王と戦姫 (ヴァナディース)",
+          "The King of the Magic Bullet and Vanadis"
+        ],
+        "year": 2014,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/20809"
+      },
+      "characters": [
+        {
+          "id": 77207,
+          "name": "艾莲娜·维尔塔利亚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b77207-N3H8UXD8Vqcy.png",
+          "description": "艾莲娜·维尔塔利亚是齐斯塔特王国的战姬之一，通常被称作艾莲。她拥有龙具阿利法尔，可以运用风的力量，也以果断直接的性格和军事才能闻名。故事开始时，她在战场上击败阿尔萨斯领主提格尔，却没有杀死他，而是将他带入自己的阵营。此后艾莲与提格尔并肩作战，参与齐斯塔特和布琉努之间的战争与政治纷争。",
+          "nicknames": [
+            "艾莲娜·维尔塔利亚",
+            "Eleonora Viltaria",
+            "エレオノーラ＝ヴィルターリア",
+            "Ellen",
+            "艾莲"
+          ],
+          "traits": [
+            "齐斯塔特的战姬",
+            "阿尔萨斯领主的盟友",
+            "以银发形象为人熟知",
+            "擅长指挥军队",
+            "持有龙具阿利法尔",
+            "风之力量使用者",
+            "性格直率果断",
+            "率军与提格尔并肩作战"
+          ],
+          "voice_actors": [
+            {
+              "name": "戸松遥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Eleonora Viltaria",
+            "name_native": "エレオノーラ＝ヴィルターリア",
+            "name_alternative": [
+              "Ellen"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 82337,
+          "name": "琉德米拉·露里埃",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82337-1b4A7E7qsdrE.png",
+          "description": "琉德米拉·露里埃是齐斯塔特的战姬，统治奥尔米兹领地，并以冰雪之力被称为“冰雪公主”。她持有龙具拉维亚斯，作战时判断冷静，习惯以谨慎方式控制局势。琉德米拉起初与艾莲娜处于竞争关系，对提格尔也保持戒心；随着战事发展，她逐渐承认共同敌人的威胁，并与提格尔一行建立合作。她的立场变化推动多位战姬形成联盟。",
+          "nicknames": [
+            "琉德米拉·露里埃",
+            "Ludmila Lourie Mila",
+            "リュドミラ＝ルリエ",
+            "Lyudmila Mila Lurie",
+            "Snow Princess of the Frozen Wave",
+            "露德米拉",
+            "米拉",
+            "冰雪公主"
+          ],
+          "traits": [
+            "齐斯塔特的战姬",
+            "统治奥尔米兹领地",
+            "以冰雪之力闻名",
+            "持有龙具拉维亚斯",
+            "与艾莲娜存在竞争关系",
+            "擅长战场指挥",
+            "性格冷静自持",
+            "后来与提格尔阵营合作"
+          ],
+          "voice_actors": [
+            {
+              "name": "伊瀬茉莉也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95655-cR519BXmteKA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ludmila Lourie Mila",
+            "name_native": "リュドミラ＝ルリエ",
+            "name_alternative": [
+              "Lyudmila Mila Lurie",
+              "Snow Princess of the Frozen Wave"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 82347,
+          "name": "提格尔维尔穆德·沃伦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82347-O3H6VFs8D8bG.png",
+          "description": "提格尔维尔穆德·沃伦是布琉努王国阿尔萨斯地区的年轻领主，也是故事男主角。他最擅长弓术，战场上凭借准确的远射保护部下和领民。提格尔在与齐斯塔特战姬艾莲娜交战后成为她的俘虏，却因能力和处事方式获得对方认可，继而与战姬们并肩作战。他努力守护家乡，也逐步卷入两国战争、王室继承和贵族权力斗争。",
+          "nicknames": [
+            "提格尔维尔穆德·沃伦",
+            "Tigrevurmund Vorn",
+            "ティグルヴルムド＝ヴォルン",
+            "Tigre",
+            "Star Shooter",
+            "Moonlight Knight",
+            "提格尔",
+            "月光骑士"
+          ],
+          "traits": [
+            "布琉努王国阿尔萨斯领主",
+            "擅长弓术",
+            "使用黑弓",
+            "故事男主角",
+            "被艾莲娜俘获后成为盟友",
+            "具有出色的远距离射击能力",
+            "重视领民安全",
+            "被卷入两国战争与王位斗争"
+          ],
+          "voice_actors": [
+            {
+              "name": "石川界人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Tigrevurmund Vorn",
+            "name_native": "ティグルヴルムド＝ヴォルン",
+            "name_alternative": [
+              "Tigre",
+              "Star Shooter",
+              "Moonlight Knight"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 82325,
+          "name": "莉姆·亚莉莎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82325-kF8DQ0oFccBt.png",
+          "description": "莉姆·亚莉莎是艾莲娜身边的副官和贴身护卫，负责处理军务、安排行动并保护主君安全。她做事认真严谨，对艾莲娜十分忠诚，面对战场事务时也能保持清醒判断。提格尔加入艾莲娜阵营后，莉姆需要与这位布琉努领主合作，逐渐认可他的弓术和领导能力。她在多场行动中承担协调与护卫职责，是艾莲娜军队的重要支柱。",
+          "nicknames": [
+            "莉姆·亚莉莎",
+            "Limalisha",
+            "リムアリーシャ",
+            "Lim",
+            "莉姆"
+          ],
+          "traits": [
+            "艾莲娜的副官",
+            "担任贴身护卫",
+            "齐斯塔特军人",
+            "负责军事事务与行军安排",
+            "做事认真严谨",
+            "对艾莲娜忠诚",
+            "具有战斗训练",
+            "协助提格尔阵营组织行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "井口裕香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95885-NrKdS094Ae59.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Limalisha",
+            "name_native": "リムアリーシャ",
+            "name_alternative": [
+              "Lim"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 82327,
+          "name": "蒂塔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/82327-91Js4eqsLjUO.png",
+          "description": "蒂塔是阿尔萨斯领主提格尔的女仆，也是他的青梅竹马。她出身于侍奉泽克特诸神的祭司家族，从小就在提格尔身边生活，把他视作亲近的家人。战姬与战争将提格尔带离领地后，蒂塔仍持续关心他的安危，并尽力协助身边的人。她不以战斗能力见长，却以忠诚、温柔和对家乡生活的熟悉，成为提格尔的重要情感支撑。",
+          "nicknames": [
+            "蒂塔",
+            "Titta",
+            "ティッタ",
+            "Teita",
+            "蒂妲"
+          ],
+          "traits": [
+            "提格尔的女仆",
+            "与提格尔自幼相识",
+            "来自侍奉泽克特神的祭司家族",
+            "视提格尔为重要之人",
+            "熟悉阿尔萨斯领地生活",
+            "性格温柔体贴",
+            "在战争中关心领主安危",
+            "与提格尔一同卷入战局"
+          ],
+          "voice_actors": [
+            {
+              "name": "上坂すみれ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109441-6y5vZS0FDE18.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Titta",
+            "name_native": "ティッタ",
+            "name_alternative": [
+              "Teita"
+            ],
+            "description": "She is maid to Earl Tigre Vorn, and also his childhood friend (little sister-like existence). Descended from a family of Priestess' who worship the Zechtd gods."
+          }
+        },
+        {
+          "id": 82329,
+          "name": "蕾金",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/82329-uXsVnhk4xa4i.png",
+          "description": "蕾金是布琉努王国的公主，也是法隆国王的女儿。王国内乱期间，她曾被认为已经死亡，后来以隐藏身份重新出现在提格尔等人的行动中。她的真实身份和继承资格关系到布琉努王位与内战走向，因此必须在危险局势中保护自己并争取支持。蕾金既是需要援助的王族成员，也是决定王国未来的重要人物，逐渐在战乱中承担起自己的责任。",
+          "nicknames": [
+            "蕾金",
+            "Regin",
+            "レギン",
+            "蕾金公主",
+            "雷金"
+          ],
+          "traits": [
+            "布琉努王国的公主",
+            "法隆国王的女儿",
+            "曾被认为已经死亡",
+            "在王位继承斗争中隐藏真实身份",
+            "与王国未来密切相关",
+            "需要提格尔等人保护",
+            "具有王族责任感",
+            "卷入布琉努内战"
+          ],
+          "voice_actors": [
+            {
+              "name": "藤井ゆきよ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106162-k7Jn7QGysSFk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Regin",
+            "name_native": "レギン",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 82339,
+          "name": "索菲娅·奥贝塔斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/82339-Thu5N4cZWCbX.png",
+          "description": "索菲娅·奥贝塔斯是齐斯塔特的战姬之一，拥有龙具并承担领地与军队的守护职责。她常以优雅从容的姿态与其他贵族和战姬交往，在战场上则能参与军队指挥和联盟行动。随着提格尔与艾莲娜的势力扩大，索菲娅逐渐卷入布琉努和齐斯塔特之间的政治与军事冲突。她的选择关系到战姬联盟的力量，也体现了领主守护人民的责任。",
+          "nicknames": [
+            "索菲娅·奥贝塔斯",
+            "Sophia Obertas",
+            "ソフィーヤ＝オベルタス",
+            "索菲娅",
+            "苏菲"
+          ],
+          "traits": [
+            "齐斯塔特的战姬",
+            "拥有龙具并参与诸国战争",
+            "以优雅从容的姿态示人",
+            "具备战场指挥能力",
+            "与其他战姬保持联系",
+            "关注王国与领民安危",
+            "在关键战局中提供支援",
+            "加入对抗共同威胁的联盟"
+          ],
+          "voice_actors": [
+            {
+              "name": "茅野愛衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sophia Obertas",
+            "name_native": "ソフィーヤ＝オベルタス",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 82341,
+          "name": "伊丽莎白·弗米娜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b82341-nv5jwMfPsVxj.png",
+          "description": "伊丽莎白·弗米娜是齐斯塔特的战姬，以“彩虹眼”这一称号为人所知。她拥有龙具和统率军队的能力，曾因复杂的政治关系受到他人势力牵制。提格尔与各地战姬的行动逐步改变战局后，伊丽莎白也必须重新判断自己的立场。她的经历展现战姬不仅是强大的战士，也身处领地利益、王国权谋和个人选择交织的环境之中。",
+          "nicknames": [
+            "伊丽莎白·弗米娜",
+            "Elizavetta Fomina",
+            "エリザヴェータ＝フォミナ",
+            "Rainbow Eyes",
+            "伊丽莎白",
+            "彩虹眼"
+          ],
+          "traits": [
+            "齐斯塔特的战姬",
+            "以彩虹般的眼睛闻名",
+            "持有龙具",
+            "统治自己的领地与军队",
+            "战斗能力出众",
+            "曾受他人势力影响",
+            "在战争中重新选择立场",
+            "参与战姬之间的联盟与冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "小林ゆう",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95034-AwobjrcmkMi9.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Elizavetta Fomina",
+            "name_native": "エリザヴェータ＝フォミナ",
+            "name_alternative": [
+              "Rainbow Eyes"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 82343,
+          "name": "瓦伦蒂娜·格林卡·艾斯特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/82343-fvatmYoeK81P.png",
+          "description": "瓦伦蒂娜·格林卡·艾斯特是齐斯塔特的战姬之一，行事神秘，尤其关注王国权力格局和战争走向。她拥有龙具，也善于利用情报和政治谋划影响各方决定。瓦伦蒂娜与其他战姬的关系并非单纯敌友，她会根据局势调整合作方式，使自己掌握更多主动权。她的行动让提格尔一行人必须同时面对战场敌军与王国内部的权谋变化。",
+          "nicknames": [
+            "瓦伦蒂娜·格林卡·艾斯特",
+            "Valentina Glinka Estes",
+            "ヴァレンティナ＝グリンカ＝エステス",
+            "瓦伦蒂娜",
+            "瓦娜蒂丝"
+          ],
+          "traits": [
+            "齐斯塔特的战姬",
+            "擅长政治谋划",
+            "拥有龙具",
+            "行事神秘谨慎",
+            "关注王国权力格局",
+            "会利用情报影响局势",
+            "与其他战姬保持复杂关系",
+            "在战争中推动多方博弈"
+          ],
+          "voice_actors": [
+            {
+              "name": "原田ひとみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103030-CqmMNYO3QRCv.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Valentina Glinka Estes",
+            "name_native": "ヴァレンティナ＝グリンカ＝エステス",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 82345,
+          "name": "亚历山德拉·阿尔沙文",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/82345-BOMzQc0T6Gep.png",
+          "description": "亚历山德拉·阿尔沙文是齐斯塔特的战姬，常被称作萨夏。她拥有龙具并承担领地防卫职责，具有丰富的作战经验，也清楚战争会给普通领民带来的代价。随着布琉努内乱和外敌入侵威胁扩大，萨夏与其他战姬逐步参与跨国协作。她的角色体现战姬作为领地守护者的责任，以及在旧有恩怨之外选择共同应对危机的可能。",
+          "nicknames": [
+            "亚历山德拉·阿尔沙文",
+            "Alexandra Alshavin",
+            "アレクサンドラ＝アルシャーヴィン",
+            "Sasha",
+            "亚历山德拉",
+            "萨夏"
+          ],
+          "traits": [
+            "齐斯塔特的战姬",
+            "别名萨夏",
+            "持有龙具",
+            "承担领地防卫职责",
+            "具有丰富作战经验",
+            "与其他战姬并肩行动",
+            "重视齐斯塔特的稳定",
+            "参与应对跨国战争危机"
+          ],
+          "voice_actors": [
+            {
+              "name": "小松未可子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105071-Hcj0X2gcliPq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Alexandra Alshavin",
+            "name_native": "アレクサンドラ＝アルシャーヴィン",
+            "name_alternative": [
+              "Sasha"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 180301,
+          "name": "杰拉尔·奥格雷",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180301-ZCRLAARGkoO3.jpg",
+          "description": "杰拉尔·奥格雷是休斯的儿子，二十多岁，后来成为提格尔阵营的盟友，并负责银色流星军的后勤管理。他擅长快速计算，能够在物资紧张时统筹粮食、资金和武器分配。杰拉尔性格略带讽刺，经常与鲁里克争论，也会不断检验提格尔是否值得追随。内战结束后，他参与王国重建事务，负责监督重要道路建设。",
+          "nicknames": [
+            "杰拉尔·奥格雷",
+            "Gerard Augre",
+            "ジェラール＝オージェ",
+            "杰拉尔",
+            "杰拉德"
+          ],
+          "traits": [
+            "休斯的儿子",
+            "二十多岁的男性",
+            "担任银色流星军后勤管理",
+            "擅长快速计算",
+            "负责分配粮食金钱与武器",
+            "对提格尔保持审视",
+            "说话带有讽刺感",
+            "战后参与布琉努王国事务"
+          ],
+          "voice_actors": [
+            {
+              "name": "前野智昭",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96489-xTzYxgdC9g9l.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gerard Augre",
+            "name_native": "ジェラール＝オージェ",
+            "name_alternative": [],
+            "description": "Hughes' son, a man in his twenties, he also becomes Tigre's ally along his father. He is very fast making calculations, Gerard takes care of the logistics at the Silver Meteor Army, effectively distributing food, money and weapons in the times of need. Unlike his father, he is a rather sarcastic person and often gets in arguments with Rurick. He constantly tests Tigre to see if he really is worth following, even if his father will punish him severely for it. After the Civil War he becomes Secretary of the Royal Court, being tasked with supervising the progress of the construction of an important road that will connect Brune and Zhcted as part of the peace agreement.\n(Source: Wikipedia)\n"
+          }
+        },
+        {
+          "id": 180302,
+          "name": "皮埃尔·波德安",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180302-ErwbYwlsCrQW.jpg",
+          "description": "皮埃尔·波德安是布琉努王国的首相，也是玛沙斯的朋友。他熟悉宫廷和贵族政治，在提格尔与阿尔萨斯遭遇不公时，必须同时衡量王国秩序和各派势力的利益。皮埃尔处于盖涅隆、泰纳尔迪耶等贵族人物的权力角逐之间，常以谈判和政治判断避免局势进一步失控。他的行动呈现布琉努内战背后的朝廷博弈。",
+          "nicknames": [
+            "皮埃尔·波德安",
+            "Pierre Badouin",
+            "ピエール＝ボードワン",
+            "皮埃尔",
+            "波德安"
+          ],
+          "traits": [
+            "布琉努王国首相",
+            "玛沙斯的朋友",
+            "熟悉王国政治",
+            "关注阿尔萨斯与提格尔的处境",
+            "在贵族派系间周旋",
+            "反对内乱损害王国",
+            "以谈判和权谋处理政务",
+            "见证王国权力斗争"
+          ],
+          "voice_actors": [
+            {
+              "name": "檜山修之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95257-PgYwsBplRSJa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pierre Badouin",
+            "name_native": "ピエール＝ボードワン",
+            "name_alternative": [],
+            "description": "Brune's royal Prime Minister. Friend of Mashas. Also poised to be in a three-way standoff with Ganelon and Thenardier over the treatment of Tigre and Alsace.\n"
+          }
+        },
+        {
+          "id": 180303,
+          "name": "法隆·巴斯蒂安·德·夏尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180303-Wk5BLbCcCclH.jpg",
+          "description": "法隆·巴斯蒂安·德·夏尔是布琉努国王，也是蕾金的父亲。他原本以仁慈公正著称，但在女儿被认为死亡后身心受到严重打击，健康持续恶化，逐渐无法约束盖涅隆和泰纳尔迪耶等权臣。故事后段揭示，他的病情还受到他人下毒和操纵。内战结束后，法隆与蕾金重逢并确认她的继承身份，临终前授予提格尔“月光骑士”称号。",
+          "nicknames": [
+            "法隆·巴斯蒂安·德·夏尔",
+            "Faron Bastien do Charles",
+            "ファーロン＝ソレイユ＝ルイ＝ブランヴィル＝ド＝シャルル",
+            "法隆国王",
+            "法隆"
+          ],
+          "traits": [
+            "布琉努国王",
+            "蕾金的父亲",
+            "曾以仁慈公正著称",
+            "女儿失踪后健康恶化",
+            "受到毒害与权臣操纵",
+            "内战期间难以约束贵族",
+            "后来确认蕾金的身份",
+            "临终授予提格尔月光骑士称号"
+          ],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Faron Bastien do Charles",
+            "name_native": "ファーロン＝ソレイユ＝ルイ＝ブランヴィル＝ド＝シャルル",
+            "name_alternative": [],
+            "description": "King of Brune, Faron was a just a benevolent ruler, until the apparent death of his only daughter, Princess Regin, which caused him to breakdown mentally and suffer an illness that began afflicting his body and rendering him unable to keep Ganelon and Thenardier in check. It is later revealed he was poisoned by Ganelon's minions to (if not the initial cause) keep him mindbroken and ill while killing him extremely slowly. After the civil war ends, he is reunited with his daughter and formally recognizes her as a member of the Royal Family and his heir. He also congratulates Tigre and his friends for saving her and ending Thenardier and Ganelon's plans. With his dying breath, Faron gives Tigre the title of Knight of the Moonlight, a title that, in ancient times, was only given to a hero who became the next king of Brune, although only Badowin knows of the true meaning of the title.\n"
+          }
+        },
+        {
+          "id": 180304,
+          "name": "卡希姆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180304-5C64lk2BYFjc.jpg",
+          "description": "卡希姆是穆奥兹内尔入侵军的先锋将领，曾经身为奴隶，因才能受到赏识后获得自由并进入军队。他以威胁和残酷手段迫使敌方屈服，曾命令处决奴隶以恐吓银色流星军。卡希姆自恃进攻经验，低估了提格尔布置的陷阱，最终在战场上被提格尔精准射出的箭击中。这个角色展示了入侵军的残暴，也推动提格尔承担起保护平民的责任。",
+          "nicknames": [
+            "卡希姆",
+            "Kashim",
+            "カシム",
+            "卡辛"
+          ],
+          "traits": [
+            "穆奥兹内尔军先锋将领",
+            "曾经是奴隶",
+            "因军事才能获释并升任将领",
+            "善于率军进攻",
+            "以恐吓平民制造压力",
+            "与银色流星军交战",
+            "轻视对手的反制计划",
+            "最终被提格尔的箭击中"
+          ],
+          "voice_actors": [
+            {
+              "name": "川原慶久",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95409-87S6L0u8gQNf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kashim",
+            "name_native": "カシム",
+            "name_alternative": [],
+            "description": "General of the vanguard of the invading Muozinel army. He was once a slave but because his talent was recognized, he was freed. In order to provoke the Silver Meteor Army, Kashim ordered the beheading of 10 male slaves and threatened to do the same to the women unless they surrendered. His arrogance is what caused his death, as he failed to realize he had fallen into an enemy's trap. He was shot and killed instantly by Tigre with a well aimed arrow to the face.\n"
+          }
+        },
+        {
+          "id": 180305,
+          "name": "罗兰",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180305-UpCb4bD1G4b7.jpg",
+          "description": "罗兰是布琉努王国的骑士，曾受法隆国王亲自选任并为其效力。他拥有正规骑士训练，职责与王室安全及王国内部的军事行动相关。随着提格尔、蕾金和贵族派系之间的冲突不断升级，罗兰也被卷入王权与内战的局势。作为王室骑士，他的经历体现了忠于国王的军人如何在权臣争斗和国家动荡中履行职责。",
+          "nicknames": [
+            "罗兰",
+            "Roland",
+            "ロラン",
+            "罗兰骑士"
+          ],
+          "traits": [
+            "布琉努王国骑士",
+            "受法隆国王任命",
+            "忠于王室职责",
+            "以骑士身份服役",
+            "参与王国内乱相关行动",
+            "拥有正规战斗训练",
+            "代表王权的军事力量",
+            "与提格尔阵营存在交集"
+          ],
+          "voice_actors": [
+            {
+              "name": "東地宏樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Roland",
+            "name_native": "ロラン",
+            "name_alternative": [],
+            "description": "Was chosen by Faron Bastien do Charles to serve him as his knight.\n"
+          }
+        },
+        {
+          "id": 180306,
+          "name": "鲁里克",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180306-nhV7mmjobDBE.png",
+          "description": "鲁里克是提格尔阵营的重要伙伴，参与银色流星军的战斗和日常行动。他熟悉军队事务，能够在战场与营地之间协助提格尔处理具体问题，也会和负责后勤的杰拉尔发生争论。鲁里克的行动体现了军队中不同职责角色之间的磨合；随着布琉努内战扩大，他持续与提格尔及同伴并肩行动，为银色流星军提供实际支持。",
+          "nicknames": [
+            "鲁里克",
+            "Rurick",
+            "ルーリック"
+          ],
+          "traits": [
+            "提格尔阵营的伙伴",
+            "参与银色流星军行动",
+            "熟悉军队日常事务",
+            "与杰拉尔经常争论",
+            "具有战斗经验",
+            "协助提格尔处理战事",
+            "重视同伴间的信任",
+            "在布琉努内战中持续行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "興津和幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rurick",
+            "name_native": "ルーリック",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    }
+  ]
+}

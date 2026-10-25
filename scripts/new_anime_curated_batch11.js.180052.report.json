@@ -1,0 +1,34 @@
+{
+  "verifiedAt": "2026-10-04T15:25:51.284Z",
+  "curatedFile": "scripts/new_anime_curated_batch11.js",
+  "anime": [
+    {
+      "id": 180052,
+      "title": "战队红战士在异世界当冒险者",
+      "count": 6,
+      "excluded": [
+        {
+          "ids": [
+            355480,
+            355481,
+            355482,
+            355483,
+            355485,
+            355486,
+            355487,
+            358065
+          ],
+          "reason": "AniList 只有默认头像；包括官网列出的阿兹尔、阿布达比和维丹"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/180052",
+        "https://isekai-red-anime.com/character.html"
+      ]
+    }
+  ],
+  "insertedCharacters": 6,
+  "insertedVoiceActors": 6,
+  "verifiedCharacters": 6,
+  "verifiedVoiceActors": 6
+}

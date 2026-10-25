@@ -1,12 +1,14 @@
-export default function CharacterCard({ character, onClick }) {
+import { Link } from 'react-router-dom'
+
+export default function CharacterCard({ character }) {
   const imageUrl = character.image
   const animeTitle = character.animeTitle || ''
 
   return (
-    <div
-      onClick={() => onClick(character.id)}
-      className="bg-[#1a1a1a] border border-gray-800 rounded-xl overflow-hidden cursor-pointer
-        hover:border-[#ff6b8a]/50 hover:-translate-y-1 transition-all duration-200 group"
+    <Link
+      to={`/character/${character.id}`}
+      className="block bg-[#1a1a1a] border border-gray-800 rounded-xl overflow-hidden
+        hover:border-[#ff6b8a]/50 hover:-translate-y-1 focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#ff6b8a] transition-all duration-200 group"
     >
       <div className="aspect-[3/4] overflow-hidden bg-gray-800">
         {imageUrl ? (
@@ -31,6 +33,6 @@ export default function CharacterCard({ character, onClick }) {
           <p className="text-sm text-gray-400 truncate mt-1">{animeTitle}</p>
         )}
       </div>
-    </div>
+    </Link>
   )
 }

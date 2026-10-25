@@ -1,0 +1,27 @@
+{
+  "verifiedAt": "2026-10-05T06:19:05.739Z",
+  "curatedFile": "scripts/new_anime_curated_batch12.js",
+  "anime": [
+    {
+      "id": 19769,
+      "title": "魔法战争",
+      "count": 9,
+      "excluded": [
+        {
+          "name": "狼神鹰雄、一氏诚",
+          "reason": "官网列出人物，但补查未找到与本作品关联的 AniList 角色和合规图片"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/19769",
+        "https://www.tbs.co.jp/anime/mahosen/chara/",
+        "https://www.b-ch.com/titles/3994/"
+      ]
+    }
+  ],
+  "insertedCharacters": 0,
+  "insertedVoiceActors": 0,
+  "updatedCharacters": 1,
+  "verifiedCharacters": 9,
+  "verifiedVoiceActors": 9
+}

@@ -1,0 +1,618 @@
+{
+  "fetchedAt": "2026-10-25T02:27:56.325Z",
+  "id": 180425,
+  "title": {
+    "romaji": "Ame to Kimi to",
+    "english": "With You and the Rain",
+    "native": "雨と君と"
+  },
+  "synonyms": [
+    "AmeKimi",
+    "雨君"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2025,
+    "month": 7,
+    "day": 6
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "description": "On a rainy day, Fuji meets a cute critter posing as a dog and offering an umbrella and a cue card that says, “Please take me home” and she can’t resist. With this dog-poster’s quirky charm and mysterious ways, life together becomes a heartwarming adventure of friendship and shared seasons.\n<br><br>\n(Source: Crunchyroll)",
+  "siteUrl": "https://anilist.co/anime/180425",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 353780,
+        "name": {
+          "full": "Fuji",
+          "native": "藤",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b353780-9dlJjRnlqt1G.png"
+        },
+        "description": "Fuji is a novelist and a woman who lives at her own pace. One day while enjoying the rain she found [Kimi](https://anilist.co/character/353785/Kimi) in a cardboard box, and assumes it is a strange dog.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95869,
+          "name": {
+            "full": "Saori Hayami",
+            "native": "早見沙織"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 353785,
+        "name": {
+          "full": "Kimi",
+          "native": "君",
+          "alternative": [
+            "You"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b353785-xbNI6tCarl1d.png"
+        },
+        "description": "Kimi enjoys living with [Fuji](https://anilist.co/character/353780/Fuji) after she picks them up on a rainy night. They are curious and quick to act, as well as having an ability to understand human language and write notes.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119794,
+          "name": {
+            "full": "Anna Mugiho",
+            "native": "麦穂あんな"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119794-9zGydHnmgADQ.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 353782,
+        "name": {
+          "full": "Ren",
+          "native": "レン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b353782-CDjOGlm8inpo.jpg"
+        },
+        "description": "Ren is a friend of [Fuji](https://anilist.co/character/353780/Fuji) from their school days. She has a healing personality, but speaks frankly with Fuji and [Mimi.](https://anilist.co/character/353781/Mimi) She's good at taking action and likes to travel alone.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101560,
+          "name": {
+            "full": "Satomi Satou",
+            "native": "佐藤聡美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101560-YN8w6EZZtIhb.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 353781,
+        "name": {
+          "full": "Mimi",
+          "native": "ミミ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b353781-wKfSNJUnulN0.jpg"
+        },
+        "description": "Mimi is Fuji's close friend from her school days. She seems like a cool beauty, but has the personality of a caring big sister. She's interested in [Kimi](https://anilist.co/character/353785/Kimi) due to her love for animals, but she keeps her distance due to making a mistake upon their first meeting.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 121941,
+          "name": {
+            "full": "Yuuna Kamakura",
+            "native": "鎌倉有那"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121941-SzVuZybv2De3.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 353783,
+        "name": {
+          "full": "Krause Ella Kii",
+          "native": "クラウゼ・エラ・希依",
+          "alternative": [
+            "Kii-chan",
+            "きいちゃん"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b353783-MmpRQJuowyUd.jpg"
+        },
+        "description": "Krause Ella is a well-behaved and curious first grade student, and [Fuji's](https://anilist.co/character/353780/Fuji) neighbor. She attends an international school, and is the daughter of a German mother and Japanese father.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 353784,
+          "name": {
+            "full": "Yuzu Yumoto",
+            "native": "湯本柚子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n353784-vE9b7A8bfj2w.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 358341,
+        "name": {
+          "full": "Tatsuo",
+          "native": "辰雄",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358341-WOVssPnf9j54.jpg"
+        },
+        "description": "[Fuji's](https://anilist.co/character/353780/Fuji) father. His appearance seems intimidating, but he is devoted to his family and has a playful personality. He frequently tries to visit his daughter's house, but she has started avoiding him so he has been a bit lonely. He loves to dote on [Kimi](https://anilist.co/character/353785/Kimi) and even prepares matching clothing for it.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95926,
+          "name": {
+            "full": "Youji Ueda",
+            "native": "上田燿司"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95926-00Pd2b8WZwQS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 358342,
+        "name": {
+          "full": "Teru",
+          "native": "テル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358342-y1ggtBRGVZ6D.jpg"
+        },
+        "description": "[Fuji's](https://anilist.co/character/353780/Fuji) twin brother, whose face looks exactly the same to the point that [Kimi](https://anilist.co/character/353785/Kimi) gets confused. He is married and expects to be a father soon. He works as a designer. Just like Fuji, he believes Kimi is a dog but wonders which breed.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 284463,
+          "name": {
+            "full": "Kikunosuke Toya",
+            "native": "戸谷菊之介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n284463-w0qcBQXvlz3Z.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 358339,
+        "name": {
+          "full": "Michiko",
+          "native": "道子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358339-UEXW1JSvOXbA.png"
+        },
+        "description": "[Fuji's](https://anilist.co/character/353780/Fuji) mother. She is calm and collected, and speaks in a clear-cut manner. She is worried about [Tatsuo's](https://anilist.co/character/358341/Tatsuo) health, being strict about smoking and snacking. She observes her daughter well, noticing small changes, and she handles [Kimi](https://anilist.co/character/353785/Kimi) calmly.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95602,
+          "name": {
+            "full": "Mie Sonozaki",
+            "native": "園崎未恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95602-kU7d6TvluxWB.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 358343,
+        "name": {
+          "full": "Wako",
+          "native": "ワコ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358343-KY0Oe31Dd8OM.jpg"
+        },
+        "description": "[Teru's](https://anilist.co/character/358342/Teru) wife who is currently pregnant. She is good with her hands and has a mild mannered personality. While she is looking forward to the addition to her family, she is a little anxious about how her life will change after childbirth.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 116543,
+          "name": {
+            "full": "Yumiri Hanamori",
+            "native": "花守ゆみり"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116543-ugu1HZWiQkqi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 366899,
+        "name": {
+          "full": "Arata",
+          "native": "アラタ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b366899-up89jN827Mk3.jpg"
+        },
+        "description": "A young female manga artist and fan of [Fuji's](https://anilist.co/character/353780/Fuji) novels. When she meets Fuji for the first time in order to try to ask her to write a story for her manga, she gives a curt response due to nerves. She is fond of animals and shows her cute side when meeting [Kimi.](https://anilist.co/character/353785/Kimi)",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 104510,
+          "name": {
+            "full": "Yume Miyamoto",
+            "native": "宮本侑芽"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104510-hB8YLsPRLNKq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 358340,
+        "name": {
+          "full": "Juui-san",
+          "native": "獣医さん",
+          "alternative": [
+            "Veterinarian"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358340-UEeQUdoxS4ra.jpg"
+        },
+        "description": "A kind veterinarian who runs a clinic in [Fuji's](https://anilist.co/character/353780/Fuji) neighborhood. He has been aware of [Kimi's](https://anilist.co/character/353785/Kimi) true identity since the beginning and has been trying to tell Fuji but is prevented by getting caught up in the mood.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95831,
+          "name": {
+            "full": "Chafuurin",
+            "native": "茶風林 "
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95831-yMEQTpN1WEtp.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 376440,
+        "name": {
+          "full": "Noriko",
+          "native": "のりこ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376440-48s8aVzYSSwQ.jpg"
+        },
+        "description": "A high school girl and Medaka's friend. She wants to be a cat, so she styles herself to look like one.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 137842,
+          "name": {
+            "full": "Hikaru Toono",
+            "native": "遠野ひかる"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n137842-IOiPpNGNV9uO.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 376441,
+        "name": {
+          "full": "Maracas no Ko",
+          "native": "マラカスの子",
+          "alternative": [
+            "Maracas Girl"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376441-L5lwfoBQcDZN.jpg"
+        },
+        "description": "A child who plays the maracas in the park.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 292760,
+          "name": {
+            "full": "Momoka Terasawa",
+            "native": "寺澤百花"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n292760-CnVs8Bk989Bu.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 376442,
+        "name": {
+          "full": "Kuro Neko",
+          "native": "黒猫",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376442-hPCWUfoEDjJF.jpg"
+        },
+        "description": "Wako and Teru's cat.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119794,
+          "name": {
+            "full": "Anna Mugiho",
+            "native": "麦穂あんな"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119794-9zGydHnmgADQ.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 376433,
+        "name": {
+          "full": "Emma",
+          "native": "エマ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376433-lob4FmaVRkou.jpg"
+        },
+        "description": "Kii's mother. She is German and fluent in Japanese.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 243646,
+          "name": {
+            "full": "Rei Sakai",
+            "native": "酒井玲"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n243646-lPwtLiUntjIB.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 376438,
+        "name": {
+          "full": "Hashigami",
+          "native": "橋上",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376438-OyWQHGe3dCsU.jpg"
+        },
+        "description": "Fuji's editor.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106404,
+          "name": {
+            "full": "Sumire Morohoshi",
+            "native": "諸星すみれ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106404-uodatsBbsnJh.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 376439,
+        "name": {
+          "full": "Medaka",
+          "native": "めだか",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376439-VxioBQ6D8a7u.jpg"
+        },
+        "description": "A high school girl who mistakes Kimi for a racoon.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 238272,
+          "name": {
+            "full": "Miyari Nemoto",
+            "native": "根本京里"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n238272-sip9nPDT2sJY.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 366897,
+        "name": {
+          "full": "Hiura",
+          "native": "日浦",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b366897-pL2CPpOS3DWf.jpg"
+        },
+        "description": "One of [Fuji's](https://anilist.co/character/353780/Fuji) classmates from elementary school who works as an anime director. One day, while in a park after work he discovers [Kimi](https://anilist.co/character/353785/Kimi) and tries to take it home as a stray dog, but unexpectedly reunites with Fuji first.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95431,
+          "name": {
+            "full": "Shuuhei Sakaguchi",
+            "native": "阪口周平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95431-PkQgmAE6FPPd.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 366898,
+        "name": {
+          "full": "Houjou",
+          "native": "北條",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b366898-XqVGpRtNWvSt.jpg"
+        },
+        "description": "One of [Fuji's](https://anilist.co/character/353780/Fuji) classmates from elementary school, who works together with [Hiura.](https://anilist.co/character/366897/Hiura) She is a caring person who accompanies Hiura on his walks (when he is ditching work.) She prefers eating bread over eating three meals a day.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 147549,
+          "name": {
+            "full": "Mitsuho Kambe",
+            "native": "神戸光歩"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n147549-7P6irh4EWR5N.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 376443,
+        "name": {
+          "full": "Kinako",
+          "native": "きなこ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376443-cgIlk8ZSCbpR.jpg"
+        },
+        "description": "Kii's pet dog. She does not like Kimi.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119794,
+          "name": {
+            "full": "Anna Mugiho",
+            "native": "麦穂あんな"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119794-9zGydHnmgADQ.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,582 @@
+{
+  "id": 145740,
+  "title": {
+    "romaji": "Grisaia: Phantom Trigger",
+    "english": "Grisaia: Phantom Trigger",
+    "native": "グリザイア：ファントムトリガー"
+  },
+  "synonyms": [],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2025,
+    "month": 1,
+    "day": 2
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action"
+  ],
+  "popularity": 13584,
+  "characters": [
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 88371,
+        "name": {
+          "full": "Kazuki Kazami",
+          "native": "風見一姫",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b88371-2HVAuje0JpyN.png"
+        },
+        "description": "__Height:__ 150 cm\n\nKazuki is [Yuuji](https://anilist.co/character/80891)'s elder sister as well as the one who taught him throughout the earlier periods of his life.\n\nDespite her delicate and diminutive body, she has brilliant intellect and excels in quick-witted judgement to the point that she has been labelled as a genius. She is the same age as [Amane](https://anilist.co/character/80899), both of which attended the same school \"Takizono Private\" and was also an active member of the basketball team for the aforementioned academy.\n~!She unfortunately dies in an accident which has a great impact on both Amane's and Yuuji's lives, with the latter being more emotionally shaken.!~",
+        "gender": "Female",
+        "age": "19"
+      },
+      "voiceActors": [
+        {
+          "id": 95547,
+          "name": {
+            "full": "Akane Tomonaga",
+            "native": "友永朱音"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95547-Xti2a7h47s3F.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 124816,
+        "name": {
+          "full": "Murasaki Ikoma",
+          "native": "狗駒邑沙季",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124816-6Tvsg69dgtbW.png"
+        },
+        "description": "A self-proclaimed 'Russian ninja,' Murasaki's actual heritage is shrouded in mystery. She makes all sorts of claims about her 'ninja skillz,' including her certification as a 'master ninja.'\n\nHer real forte is disguise, and she takes on a lot of missions involving stealth and infiltration; her calling-card is the .22 subsonic ammo she always uses. Alongside easily concealable weapons like small-bore automatic pistols and her kunai, or Japanese dagger, Murasaki's fond of katana swords and rifles.\n\nHer personality can be difficult to pin down; she rarely displays her true feelings in front of others, and obviously has fun saying weird things to confound other people. Even during the summer, she wears a long scarf around her neck to signal her ninja identity. At first glance, it looks like the kind of scarf a normal female student might wear, but it's actually woven from a mix of aramid fiber and synthetic protein, making it both bullet-proof and fire resistant.\n\nMurasaki's been friends with Haruto since she was a young child, and loves him like an older brother. Or could her adoration for him be something more?\n\nShe ranks third in close-quarters combat, her ferocious speed losing out to Haruto's skill and Rena's raw strength.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 112215,
+          "name": {
+            "full": "Atsumi Tanezaki",
+            "native": "種﨑敦美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 124814,
+        "name": {
+          "full": "Rena Fukami",
+          "native": "深見玲奈",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/124814-uNsaK7Nf4qNp.jpg"
+        },
+        "description": "A gunwoman who's charged with shooting on Haruto's behalf, due to his personal distaste for firearms. Rena's a lively girl, amiable and warm in her dealings with just about everybody. She's tall and well-proportioned, her limbs smooth and powerful. She makes sure to stay healthy and active.\n\nRena has a strong sense of responsibility, and tends to be quite cautious; she's always scanning the environment for threats. Her loyalty to Haruto, her 'Master,' and the docility she demonstrates around him, are most notable.\n\nHowever skilled Rena is physically, she struggles quite a bit in the classroom. When told off, she quickly grows timid; she has a good appetite for learning nonetheless, and responds well to praise.\n\nShe favors an M1911-style pistol, and lets loose about two hundred rounds every day.\n\nRena also has a tendency towards obsession. Once she develops an interest in a handgun, she can't make do with any other weapon until the heft of that particular gun is ingrained in her senses. Though law enforcement agencies having summarily dismissed the superiority of .45 ammo, Rena obstinately persists in using it, even going so far as to get lightweight bullets specially manufactured by the school gunsmith.\n\nShe has a motorcycle license, and when she's feeling particularly ravenous, she'll often sneak out in the middle of the night for ramen.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 108639,
+          "name": {
+            "full": "Maaya Uchida",
+            "native": "内田真礼"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 124813,
+        "name": {
+          "full": "Touka Shishigaya",
+          "native": "獅子ヶ谷桐花",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/124813-IyAL0of8CCJR.jpg"
+        },
+        "description": "A sniper. Her mother is German, her father American. Growing up, Touka learned self-defense techniques and riflery from her father, a former soldier, and his comrades; she was the youngest ever winner of a shooting competition in her hometown. In the wake of her mother's death, she spent two years attached to a PMC (private military contractor) alongside her father.\n\nShe can be extraordinarily belligerent, and sometimes breaks into outbursts of violence. She is, in short, a classic tsundere. Though infinitely curious about the world, she has a pragmatic side, too: she won't tolerate any nonsense. She possesses a measure of shrewdness and inner strength that belies her cute, childish exterior.\n\nWhenever she was left home alone as a child, Touka would shove a shotgun in the face of any cold-caller who came knocking; she's since become known for her shyness around strangers. She tends to take an instant dislike to anyone she meets. She's clearly desperate to be regarded as a friend by others, though, however little effort she exerts in this regard herself.\n\nShe's basically pretty bad at making friends. She also has a bit of a complex about her small stature, and it's to compensate for this that she tries to act all grown-up.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106622,
+          "name": {
+            "full": "Ayane Sakura",
+            "native": "佐倉綾音"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 125191,
+        "name": {
+          "full": "Maki Inohara",
+          "native": "井ノ原真紀",
+          "alternative": [
+            "Soul Speed",
+            "Bucks"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b125191-ioyeRY6s5dgu.png"
+        },
+        "description": "Maki is affiliated with a hostile Russian crime syndicate; it is likely that she is being employed by the organization as both a contract killer and bagman.\n\nMaki is strong and well-built, making her handy in a fight. She wields four Glock 26s, and goes by many aliases. Though wary of others and very quick to anger, Maki’s actually remarkably naïve.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96592,
+          "name": {
+            "full": "Yoshino Nanjou",
+            "native": "南條愛乃"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96592-tiVdVcVi4UkD.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 124815,
+        "name": {
+          "full": "Christina Sakurako Kujirase",
+          "native": "鯨瀬・クリスチィナ・桜子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124815-jN7wguvMlu1f.jpg"
+        },
+        "description": "An explosives and computer specialist, born in Shanghai to British parents. Of the 148 students at Mihama Academy, Chris is ranked eighth in terms of test scores, and she's ended up in charge of helping the rest of the class with their studies. She comports herself well around other people, and ordinarily seems quite meek, but she's said to become genuinely scary when she's angry.\n\nJust like Haruto, Chris isn't too fond of guns, and generally refuses to carry one. In fact, her standard-issue handgun is a defective model that ought to have been returned to the manufacturer, and that doesn't appear to bother her in the least.\n\nShe used to wear her beautiful blonde hair down past her shoulders. When she was in elementary school, though, she accidentally set off a bomb in the school toilets, and singed her hair; ever since then, she's kept it short.\n\nA helpful girl who's proficient in every kind of household chore, Chris is something of a den mother to the other students: she prepares meals in the student dorm, cleans her friends' bedrooms, and does their laundry. She also has rather poor eyesight, wearing contact lenses almost all the time. Only in the brief moment between her waking up and washing her face will you find her in glasses.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95078,
+          "name": {
+            "full": "Kaori Nazuka",
+            "native": "名塚佳織"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 124817,
+        "name": {
+          "full": "Aoi Haruto",
+          "native": "蒼井春人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/124817-vUBLcjK1lvs3.jpg"
+        },
+        "description": "A former CIRS agent who now serves as a tactical instructor at Mihama Academy, and as a handler to the school's students. Though he looks young, he has a great deal of experience on the field, and he still has lots of friends on CIRS' current roster.\n\nHaruto radiates warmth and gentility, but this has left him an object of teasing at Mihama—the girls under his charge tend to treat him like he's just another kid. He can also be pretty tight-lipped about his past. Some of his memories are in fact rather vague, and there remain lots of gaps in his work history.\n\nGunplay really isn't Haruto's strong suit. He doesn't often succeed in striking his target (though some people believe this apparent ineptitude to be a deliberate ploy on his part).\n\nHe has little interest in food, and will usually make do with just a salad.\n\nHaruto will often issue strategic commands on the battlefield, but he rarely finds himself standing in the trenches. He uses a sword, but not one made in the Japanese fashion; it would certainly be a bit of a stretch to call it a katana.\n\n~!He is a genetically modified clone created to serve as the next generation Thanatos System.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95556,
+          "name": {
+            "full": "Tsubasa Yonaga",
+            "native": "代永翼"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95556-Tgolp8AzO49n.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 179378,
+        "name": {
+          "full": "Megumi Kumashiro",
+          "native": "九真城恵",
+          "alternative": [
+            "Gumi (グミ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179378-L2uoIx8npVnk.png"
+        },
+        "description": "A sniper who once belonged to the SORD unit based at St. Aile’s International, Mihama Academy’s sister school. Her main weapon is a Blaser R93. It’s said that once Gumi has you in her sights, there’s no escape - hence her nickname, “Mystic Eye”. Back in her St. Aile’s days, she used to worship upperclassman [Ariizumi Shiho](https://anilist.co/character/179394), who served as her spotter.\n\nGumi behaves like an old-school war veteran, and tends to adopt a ludicrously single-minded approach to her duties. Burning with a powerful sense of justice, Gumi takes a hard line against unscrupulous behavior; the harshness of her rebukes can come as quite a shock.\n\nHer special skill is speed eating, and she won’t be beaten in this by anyone.\n\n",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106359,
+          "name": {
+            "full": "Suzuko Mimori",
+            "native": "三森すずこ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106359-G8dROMWpwlM6.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 124818,
+        "name": {
+          "full": "Shiori Arisaka",
+          "native": "有坂秋桜里",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/124818-7J6dDNLnD1v2.jpg"
+        },
+        "description": "The unfortunate new homeroom teacher at this unusual school, who really has no idea what she's gotten herself into.\n\nAn extremely earnest young woman, she can end up letting people walk all over her in her efforts to accommodate them. She's perhaps best described as 'unassuming'—or, more to the point, 'cowardly.' She wouldn't look out of place as a nameless NPC in some generic role-playing game. She doesn't have much luck at work; she's the type to end up causing a huge calamity, and then get caught out straight away by her superior.\n\nAccording to Arisaka herself, she was equally unlucky as a kid—she's always drawn the short straw. Sometimes it can genuinely seem like she's cursed.\n\nOther than that, though, her life is pretty ordinary. Mundane, even. That can seem like a breath of fresh air somewhere like Mihama Academy. Like everyone else, she appears simply to have drifted into the school.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119401,
+          "name": {
+            "full": "Mikako Izawa",
+            "native": "井澤美香子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119401-rCnDTIzPtuOc.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 124822,
+        "name": {
+          "full": "Sengoku Ichiru",
+          "native": "仙石 一縷",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/124822-YEXrNYqyiQim.jpg"
+        },
+        "description": "Thanks to her background, she has a lot of pull with the upper echelons at CIRS. It's rumored that in the course of her work for the organization, she's come to learn the weaknesses of many of her fellow agents. This may have been a key factor in her \"retirement\" when the organization was restructured.\n\nA report at this time detailing the gap between the American and Japanese intelligence services in terms of both efficacy and intelligence-gathering capabilities inspired Sengoku to create SORD (Social Ops, Research & Development); she then used her dismissal as an opportunity to establish herself, and SORD, as a leading force in tactical development.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 108551,
+          "name": {
+            "full": "Toa Yukinari",
+            "native": "行成とあ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108551-R4Ro9eFab55G.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 125192,
+        "name": {
+          "full": "Taiga Sengoku",
+          "native": "仙石大雅",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/125192-k08pozTD1jwC.jpg"
+        },
+        "description": "First cousin to Sengoku Ichiru, and an elementary student in Mihama Academy’s sapper school. Taiga’s always lived a pampered life, having grown up as heiress to the Sengoku estate. She’s a quick-witted and intelligent girl, as evidenced by the fact that she’s already passed her university entrance exams.\n\nWith all the expectations heaped on her, it’s only natural that Taiga should come across as a little arrogant. This is one of the reasons why she tends to keep her distance from other people - though she’s quite happy on her own. Rena calls her “The Milquik Master”, following a serendipitous encounter back when she first arrived at Mihama.\n\nTaiga is intent on participating in activities that are usually closed to children of her stature; she cares little for age restrictions, nor other people’s opinions of her. Eventually her persistence pays off, when Haruto finally heeds her request to join Class A.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106659,
+          "name": {
+            "full": "Natsumi Takamori",
+            "native": "高森奈津美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106659-3LfNtHDY3P0Z.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 124821,
+        "name": {
+          "full": "Nogami",
+          "native": "野上",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/124821-FLdJnriPjHCe.jpg"
+        },
+        "description": "Nogami has worked as Sengoku Ichiru's assistant ever since her time in CIRS' Special Medical Division, and she continues to uphold that role at Mihama Academy.\n\nWhile brilliant, she also possesses several personal faults that get in the way of her day-to-day life. Case in point: the fact that her room is always such a total mess. Haruto thinks of her as a sort of surrogate older sister, turning to her first whenever he has issues that he's reluctant to discuss with Principal Sengoku.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 104517,
+          "name": {
+            "full": "Tomoe Ohmi",
+            "native": "近江知永"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9517.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 124820,
+        "name": {
+          "full": "Velvet",
+          "native": "ベルベット",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/124820-qw7n8STX6TpZ.jpg"
+        },
+        "description": "Members of St. Aile's SORD team. Vel is a third year, and therefore upperclassmen to Gumi and the others; as older students, they are allowed to wear nuns' habits instead of regular uniforms. She usually works as a pair with Sylvia during missions.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96760,
+          "name": {
+            "full": "Chiaki Omigawa",
+            "native": "小見川千明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96760-z00Vs7vhLR07.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 124823,
+        "name": {
+          "full": "Sylvia",
+          "native": "シルビア",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b124823-QKqIwYJu2DJU.png"
+        },
+        "description": "Member of St. Aile's SORD team. Sylvie is in her third year, and therefore upperclassmen to Gumi and the others; as older students, they are allowed to wear nuns' habits instead of regular uniforms. She usually work as a pair with Velvet during missions.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107737,
+          "name": {
+            "full": "Juri Nagatsuma",
+            "native": "長妻樹里"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107737-BYo4HhC7ubv6.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 363401,
+        "name": {
+          "full": "Aoi Aoi",
+          "native": "蒼井碧",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b363401-e3ASJOr4yZII.png"
+        },
+        "description": "A reserve student and shooter in Mihama Academy's CIRS division, also known as the \"Phantom Triggers\" back in the day.\nAn upper-type assassin from Hollow House, Aoi was given to her master, Sengoku Ichiru, as a gift when she left her family home. As she graduated from Hollow before the regulations were tightened, her generation is seen as one of the most dangerous - maybe it would be more accurate to call her a tool of \"national offense,\" rather than \"national defense.\"\nShe often tried to resist her \"brainwashing\" by disobeying her master's orders, which tended to cause her great agony.\nHer full name may seem like a joke, but Aoi liked it because it was easy to remember. She ended up looking after baby Haruto whenever Ichiru entrusted him to her.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95070,
+          "name": {
+            "full": "Ami Koshimizu",
+            "native": "小清水亜美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 179394,
+        "name": {
+          "full": "Shiho Ariizumi",
+          "native": "有泉志保",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b179394-NDS9vUq9T2Kv.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 142982,
+          "name": {
+            "full": "Natsu Yorita",
+            "native": "依田菜津"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n142982-Sji7xpRDmCZp.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 363400,
+        "name": {
+          "full": "Enishi Urushihara",
+          "native": "漆原縁",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b363400-bizoEj8ooBEX.png"
+        },
+        "description": "A former member of the Phantom Triggers, the organization that evolved into SORD, who doubled as the team's instructor and handler.\n\nHis main job was to teach his students the skills they needed to prevent them from being killed in action. While he's normally a calm and collected thinker, it is rumored that he's seriously scary on the battlefield.\nHe never bragged about his accomplishments on the field, though he could be quite talkative when he was off the clock.\n\nAs the only responsible adult on the team, he is the only father figure that Haruto has ever had.\n\n\"Aoi-kun, this isn't a game. Get a move on and wrap things up. There's no need to go all out on a simple job like this.\"",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95371,
+          "name": {
+            "full": "Kenji Hamada",
+            "native": "浜田賢二"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95371-nyA7w7nPrlPr.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 363402,
+        "name": {
+          "full": "Yuuki Ikoma",
+          "native": "狗駒悠季",
+          "alternative": [
+            "ユーキ",
+            "Nightmare"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b363402-Ht2EweNNHBB2.jpg"
+        },
+        "description": "She is the older sister of Murasaki. She has returned to Mihama after completing a long mission overseas. Her ninja rank is “Ninja Master”, the same as Murasaki's. \n\nShe has many friends, both male and female, but no one she can call her best friend.\nHer personality is cheerful and lighthearted, and her playful and mischievous behavior is noticeable.\nShe is known as a “bitch” to those around her, but in reality, she is just trying to hide her true nature.\n\n~!After using the secret technique of the Ikoma family and losing a fight against Murasaki, she receives brain damage and gains memory loss. To remember things that happened in the past, she reads her journals that recorded past events.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106360,
+          "name": {
+            "full": "Mikoi Sasaki",
+            "native": "佐々木未来"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106360-v5iXFAn6YX1q.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 363399,
+        "name": {
+          "full": "Kuroe Samejima",
+          "native": "鮫島黒江",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b363399-BDB8iFxlij3Z.png"
+        },
+        "description": "Kuroe was a reserve student at Mihama Academy's CIRS division, also known as the \"Phantom Triggers\" back in the day. She also acted as Enishi's personal bodyguard and secretary. While she is a Hollow graduate from the same dangerous generation as Aoi, the clever and quiet Kuroe is classified as a \"downer\" type.\nShe's extremely loyal to her master Enishi, and doesn't have much interest in anything else.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 113511,
+          "name": {
+            "full": "Ai Kakuma",
+            "native": "加隈亜衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113511-F58Tk4OFKs1w.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,580 @@
+{
+  "checkedAt": "2026-10-22T07:52:15.737Z",
+  "batchStatus": "reviewed_with_followups",
+  "checkedCount": 100,
+  "checkedIds": [
+    140050,
+    140051,
+    140052,
+    140053,
+    140129,
+    140161,
+    140162,
+    140276,
+    140290,
+    140292,
+    140293,
+    140294,
+    140380,
+    140382,
+    140383,
+    140384,
+    140385,
+    140386,
+    140393,
+    140394,
+    140395,
+    140401,
+    140403,
+    140404,
+    140636,
+    140637,
+    140638,
+    140640,
+    140641,
+    140668,
+    140696,
+    140697,
+    140802,
+    140828,
+    140829,
+    140830,
+    140831,
+    140845,
+    140856,
+    140918,
+    140953,
+    140968,
+    140969,
+    141060,
+    141061,
+    141077,
+    141078,
+    141079,
+    141080,
+    141081,
+    141122,
+    141134,
+    141135,
+    141136,
+    141137,
+    141138,
+    141139,
+    141151,
+    141152,
+    141153,
+    141154,
+    141235,
+    141269,
+    141287,
+    141290,
+    141292,
+    141294,
+    141296,
+    141297,
+    141357,
+    141418,
+    141457,
+    141458,
+    141459,
+    141460,
+    141461,
+    141462,
+    141481,
+    141532,
+    141533,
+    141582,
+    141589,
+    141590,
+    141609,
+    141610,
+    141611,
+    141612,
+    141613,
+    141614,
+    141615,
+    141616,
+    141617,
+    141618,
+    141619,
+    141624,
+    141625,
+    141687,
+    141688,
+    141692,
+    141817
+  ],
+  "checkedRange": {
+    "firstId": 140050,
+    "lastId": 141817
+  },
+  "profileSnapshotVerifiedCount": 72,
+  "profileDescriptionAvailableCount": 66,
+  "modifiedIds": [
+    140050,
+    140051,
+    140052,
+    140053,
+    140845,
+    140856,
+    141060,
+    141061,
+    141287,
+    141290,
+    141292,
+    141294,
+    141296,
+    141297,
+    141458,
+    141460,
+    141461,
+    141625
+  ],
+  "source": {
+    "name": "本地 AniList 角色资料与日语作品声优关联缓存；本轮未作实时网页查询",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "voiceMediaFetchedAt": "2026-10-13T03:04:01.115Z",
+    "records": [
+      {
+        "id": 140050,
+        "url": "https://anilist.co/character/140050"
+      },
+      {
+        "id": 140051,
+        "url": "https://anilist.co/character/140051"
+      },
+      {
+        "id": 140052,
+        "url": "https://anilist.co/character/140052"
+      },
+      {
+        "id": 140053,
+        "url": "https://anilist.co/character/140053"
+      },
+      {
+        "id": 140276,
+        "url": "https://anilist.co/character/140276"
+      },
+      {
+        "id": 140290,
+        "url": "https://anilist.co/character/140290"
+      },
+      {
+        "id": 140292,
+        "url": "https://anilist.co/character/140292"
+      },
+      {
+        "id": 140293,
+        "url": "https://anilist.co/character/140293"
+      },
+      {
+        "id": 140294,
+        "url": "https://anilist.co/character/140294"
+      },
+      {
+        "id": 140393,
+        "url": "https://anilist.co/character/140393"
+      },
+      {
+        "id": 140394,
+        "url": "https://anilist.co/character/140394"
+      },
+      {
+        "id": 140395,
+        "url": "https://anilist.co/character/140395"
+      },
+      {
+        "id": 140401,
+        "url": "https://anilist.co/character/140401"
+      },
+      {
+        "id": 140403,
+        "url": "https://anilist.co/character/140403"
+      },
+      {
+        "id": 140404,
+        "url": "https://anilist.co/character/140404"
+      },
+      {
+        "id": 140636,
+        "url": "https://anilist.co/character/140636"
+      },
+      {
+        "id": 140637,
+        "url": "https://anilist.co/character/140637"
+      },
+      {
+        "id": 140638,
+        "url": "https://anilist.co/character/140638"
+      },
+      {
+        "id": 140640,
+        "url": "https://anilist.co/character/140640"
+      },
+      {
+        "id": 140641,
+        "url": "https://anilist.co/character/140641"
+      },
+      {
+        "id": 140668,
+        "url": "https://anilist.co/character/140668"
+      },
+      {
+        "id": 140696,
+        "url": "https://anilist.co/character/140696"
+      },
+      {
+        "id": 140697,
+        "url": "https://anilist.co/character/140697"
+      },
+      {
+        "id": 140802,
+        "url": "https://anilist.co/character/140802"
+      },
+      {
+        "id": 140828,
+        "url": "https://anilist.co/character/140828"
+      },
+      {
+        "id": 140829,
+        "url": "https://anilist.co/character/140829"
+      },
+      {
+        "id": 140830,
+        "url": "https://anilist.co/character/140830"
+      },
+      {
+        "id": 140831,
+        "url": "https://anilist.co/character/140831"
+      },
+      {
+        "id": 140845,
+        "url": "https://anilist.co/character/140845"
+      },
+      {
+        "id": 140856,
+        "url": "https://anilist.co/character/140856"
+      },
+      {
+        "id": 140918,
+        "url": "https://anilist.co/character/140918"
+      },
+      {
+        "id": 140953,
+        "url": "https://anilist.co/character/140953"
+      },
+      {
+        "id": 140968,
+        "url": "https://anilist.co/character/140968"
+      },
+      {
+        "id": 140969,
+        "url": "https://anilist.co/character/140969"
+      },
+      {
+        "id": 141060,
+        "url": "https://anilist.co/character/141060"
+      },
+      {
+        "id": 141061,
+        "url": "https://anilist.co/character/141061"
+      },
+      {
+        "id": 141077,
+        "url": "https://anilist.co/character/141077"
+      },
+      {
+        "id": 141078,
+        "url": "https://anilist.co/character/141078"
+      },
+      {
+        "id": 141079,
+        "url": "https://anilist.co/character/141079"
+      },
+      {
+        "id": 141080,
+        "url": "https://anilist.co/character/141080"
+      },
+      {
+        "id": 141081,
+        "url": "https://anilist.co/character/141081"
+      },
+      {
+        "id": 141151,
+        "url": "https://anilist.co/character/141151"
+      },
+      {
+        "id": 141152,
+        "url": "https://anilist.co/character/141152"
+      },
+      {
+        "id": 141153,
+        "url": "https://anilist.co/character/141153"
+      },
+      {
+        "id": 141154,
+        "url": "https://anilist.co/character/141154"
+      },
+      {
+        "id": 141269,
+        "url": "https://anilist.co/character/141269"
+      },
+      {
+        "id": 141287,
+        "url": "https://anilist.co/character/141287"
+      },
+      {
+        "id": 141290,
+        "url": "https://anilist.co/character/141290"
+      },
+      {
+        "id": 141292,
+        "url": "https://anilist.co/character/141292"
+      },
+      {
+        "id": 141294,
+        "url": "https://anilist.co/character/141294"
+      },
+      {
+        "id": 141296,
+        "url": "https://anilist.co/character/141296"
+      },
+      {
+        "id": 141297,
+        "url": "https://anilist.co/character/141297"
+      },
+      {
+        "id": 141418,
+        "url": "https://anilist.co/character/141418"
+      },
+      {
+        "id": 141457,
+        "url": "https://anilist.co/character/141457"
+      },
+      {
+        "id": 141458,
+        "url": "https://anilist.co/character/141458"
+      },
+      {
+        "id": 141459,
+        "url": "https://anilist.co/character/141459"
+      },
+      {
+        "id": 141460,
+        "url": "https://anilist.co/character/141460"
+      },
+      {
+        "id": 141461,
+        "url": "https://anilist.co/character/141461"
+      },
+      {
+        "id": 141462,
+        "url": "https://anilist.co/character/141462"
+      },
+      {
+        "id": 141532,
+        "url": "https://anilist.co/character/141532"
+      },
+      {
+        "id": 141533,
+        "url": "https://anilist.co/character/141533"
+      },
+      {
+        "id": 141589,
+        "url": "https://anilist.co/character/141589"
+      },
+      {
+        "id": 141590,
+        "url": "https://anilist.co/character/141590"
+      },
+      {
+        "id": 141615,
+        "url": "https://anilist.co/character/141615"
+      },
+      {
+        "id": 141616,
+        "url": "https://anilist.co/character/141616"
+      },
+      {
+        "id": 141617,
+        "url": "https://anilist.co/character/141617"
+      },
+      {
+        "id": 141618,
+        "url": "https://anilist.co/character/141618"
+      },
+      {
+        "id": 141619,
+        "url": "https://anilist.co/character/141619"
+      },
+      {
+        "id": 141624,
+        "url": "https://anilist.co/character/141624"
+      },
+      {
+        "id": 141625,
+        "url": "https://anilist.co/character/141625"
+      },
+      {
+        "id": 141692,
+        "url": "https://anilist.co/character/141692"
+      },
+      {
+        "id": 141817,
+        "url": "https://anilist.co/character/141817"
+      }
+    ]
+  },
+  "pendingExternalVerificationIds": [
+    140129,
+    140161,
+    140162,
+    140380,
+    140382,
+    140383,
+    140384,
+    140385,
+    140386,
+    141122,
+    141134,
+    141135,
+    141136,
+    141137,
+    141138,
+    141139,
+    141235,
+    141357,
+    141481,
+    141582,
+    141609,
+    141610,
+    141611,
+    141612,
+    141613,
+    141614,
+    141687,
+    141688
+  ],
+  "pendingShortDescriptionIds": [
+    140050,
+    140051,
+    140052,
+    140053,
+    140845,
+    141457,
+    141458,
+    141459,
+    141460,
+    141462,
+    141624,
+    141625
+  ],
+  "pendingDescriptionQualityIds": [
+    140393,
+    140394,
+    140395,
+    140401,
+    141077,
+    141078,
+    141079,
+    141080,
+    141081
+  ],
+  "pendingTraitVerificationIds": [
+    140276,
+    140393,
+    140394,
+    140395,
+    140401,
+    140668,
+    141077,
+    141078,
+    141079,
+    141080,
+    141081,
+    141458
+  ],
+  "pendingVoiceActorIds": [],
+  "pendingVoiceActorImageIds": [],
+  "pendingVisualVerificationIds": [
+    140050,
+    140051,
+    140052,
+    140053,
+    140845,
+    140856,
+    141060,
+    141061,
+    141287,
+    141290,
+    141292,
+    141294,
+    141296,
+    141297,
+    141457,
+    141458,
+    141459,
+    141460,
+    141461,
+    141462,
+    141615,
+    141624,
+    141625,
+    141817
+  ],
+  "pendingImageMismatchIds": [],
+  "localFollowup": {
+    "nicknameIssuesResolved": [
+      140050,
+      140051,
+      140052,
+      140053,
+      140845,
+      140856,
+      141060,
+      141061,
+      141287,
+      141290,
+      141292,
+      141294,
+      141296,
+      141297,
+      141458,
+      141460,
+      141461,
+      141625
+    ],
+    "voiceActorImagesRepaired": [],
+    "characterImagesRefreshed": [],
+    "factualCorrections": [],
+    "searchIndex": {
+      "rebuilt": true,
+      "formulaVerified": true,
+      "descriptionExcluded": true,
+      "mismatchCountBeforeRebuild": 18
+    },
+    "localExportsRegenerated": true,
+    "nicknameAudit": {
+      "checkedCount": 100,
+      "duplicateCountAfter": 0,
+      "canonicalAniListNameMissingAfter": 0
+    }
+  },
+  "note": "完成本地资料、昵称去重、AniList 官方全名/原文名补录、可唯一核实的头像修复及搜索索引回读；仍列出的待核项没有标为事实通过。",
+  "scopeLimitations": [
+    "发色、瞳色没有逐图目视核验；AniList文字与本地特征出现冲突时保留待核。",
+    "短简介、模板简介和泛化特征未在缺少可靠中文事实来源时改写。",
+    "没有本地 AniList 资料、缺少声优关联或无法唯一匹配声优头像的记录保留待核。",
+    "本次只更新本地文件；Supabase 未同步，远端数据未回读。"
+  ],
+  "databaseSync": {
+    "syncedAt": null,
+    "syncedCount": 0,
+    "readbackVerified": false,
+    "status": "not_synced"
+  },
+  "syncAttempt": {
+    "attemptedThisTurn": false,
+    "reason": "本轮仅处理本地缓存与导出，没有向 Supabase 发起写入。"
+  }
+}

@@ -1,0 +1,616 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T14:34:57.682Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 178462,
+      "anime_title": "我和班上最讨厌的女生结婚了。",
+      "anime_origin": "JP",
+      "source": {
+        "id": 178462,
+        "titles": [
+          "Class no Daikirai na Joshi to Kekkon Suru Koto ni Natta.",
+          "I'm Getting Married to a Girl I Hate in My Class",
+          "クラスの大嫌いな女子と結婚することになった。",
+          "Kurakon",
+          "クラ婚",
+          "クラコン",
+          "Cla-Kon"
+        ],
+        "year": 2025,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/178462"
+      },
+      "characters": [
+        {
+          "id": 248384,
+          "name": "樱森朱音",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248384-BrzjgyQ3MDs5.png",
+          "description": "樱森朱音身高约165厘米，是北条才人的同班同学和“天敌”。她安静时拥有模特般的美貌，一遇到才人却总忍不住与他争吵，竞争心也十分强烈。两人因家族安排而结婚，被迫开始同住生活；原本互相看不顺眼的关系，在共同面对家庭和校园琐事后逐渐发生变化。朱音外表强势，内心也在学习理解与信任才人。",
+          "nicknames": [
+            "樱森朱音",
+            "Akane Sakuramori",
+            "桜森朱音",
+            "Akane Houjou",
+            "朱音",
+            "樱森"
+          ],
+          "traits": [
+            "身高约165厘米",
+            "北条才人的同班同学",
+            "在才人面前总是容易吵架",
+            "安静时外表像模特般漂亮",
+            "竞争心很强",
+            "与才人被安排结婚",
+            "外表强势内心细腻",
+            "在婚后生活中逐渐理解才人",
+            "由矢野妃菜喜配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "矢野妃菜喜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n143887-M4a4hO3mxDm6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Akane Sakuramori",
+            "name_native": "桜森朱音",
+            "name_alternative": [
+              "Akane Houjou"
+            ],
+            "description": "__Height:__ 165 cm\n\nSaito's classmate and natural enemy. When she's not talking, she's a model-class beauty, but when she sees Saito, she's always fighting with him. She has a strong competitive spirit, is hardworking, and has a family-oriented side. She has a dream that she wants to fulfill even if she has to marry Saito."
+          }
+        },
+        {
+          "id": 248386,
+          "name": "北条才人",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248386-nLNWPHVdbT4v.jpg",
+          "description": "北条才人身高约175厘米，头脑聪明，是樱森朱音的同班同学和宿命般的竞争对手。两人平时很难相处，见面常常争吵，却因家族安排突然结婚并开始同住。才人需要在学校生活与婚后日常之间寻找平衡，也逐渐发现朱音并非只有强势的一面。他理性、好胜，随着共同生活推进，开始认真面对这段原本被迫开始的关系。",
+          "nicknames": [
+            "北条才人",
+            "Saito Houjou",
+            "Saito Hojo",
+            "才人",
+            "北条"
+          ],
+          "traits": [
+            "身高约175厘米",
+            "樱森朱音的同班同学",
+            "平时与朱音难以相处",
+            "头脑聪明且成绩优秀",
+            "经常和朱音互相争吵",
+            "被家族安排与朱音结婚",
+            "婚后开始与朱音同住",
+            "逐渐发现朱音不为人知的一面",
+            "由坂田将吾配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "坂田将吾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n158510-QDmd7dD9Rg89.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Saito Houjou",
+            "name_native": "北条才人",
+            "name_alternative": [
+              "Saito Hojo"
+            ],
+            "description": "__Height:__ 175 cm\n\n[Akane Sakuramori](https://anilist.co/character/248384/Sakuramori-Akane)'s classmate and natural enemy. He has trouble getting along with Akane, always quarreling with her. He's smart and always places at the top of the class, but he lacks common sense in his daily life. Married Akane so he could succeed his grandfather to control the Houjou Group."
+          }
+        },
+        {
+          "id": 248383,
+          "name": "石仓阳鞠",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248383-Bl0tSlvh0ATJ.png",
+          "description": "石仓阳鞠身高约170厘米，是樱森朱音和北条才人的同班同学。她外表打扮鲜明，带有辣妹风格，但性格温暖，愿意关心朋友。阳鞠知道朱音和才人总是争吵，也会留意两人的婚后关系，必要时出面劝解。她是主角校园生活中的重要朋友，以开朗态度连接同学之间的关系。",
+          "nicknames": [
+            "石仓阳鞠",
+            "Himari Ishikura",
+            "石倉陽鞠",
+            "阳鞠",
+            "石仓"
+          ],
+          "traits": [
+            "身高约170厘米",
+            "朱音和才人的同班同学",
+            "外表是打扮鲜明的辣妹风格",
+            "性格温暖亲切",
+            "关心朱音和才人的相处",
+            "会劝解两人之间的冲突",
+            "善于与同学交往",
+            "由铃代纱弓配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴代紗弓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126963-GnhNcLWFeKmy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Himari Ishikura",
+            "name_native": "石倉陽鞠",
+            "name_alternative": [],
+            "description": "__Height:__ 170 cm\n\nA classmate of Akane and Saito. She is gyaru, but despite her flamboyant appearance she has a warm personality. She cares about Akane and Saito, who fight all the time."
+          }
+        },
+        {
+          "id": 248385,
+          "name": "北条丝青",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b248385-PiwiXO2h00at.jpg",
+          "description": "北条丝青身高约142厘米，是北条才人的表亲和同班同学。她拥有如人偶般精致的外表，平时表情冷静，与才人则是关系亲近的好友。丝青会关心才人与朱音的相处，也会在两人婚后生活出现问题时留意情况。她和热闹的同学们相比显得安静，但对才人的支持十分明确。",
+          "nicknames": [
+            "北条丝青",
+            "Shisei Houjou",
+            "北条糸青",
+            "Shisei Hojo",
+            "丝青",
+            "北条表妹"
+          ],
+          "traits": [
+            "身高约142厘米",
+            "是北条才人的表亲",
+            "与才人同班",
+            "外表像人偶般精致",
+            "常带着冷静的表情",
+            "是才人的好友",
+            "会担心才人与朱音的关系",
+            "由稗田宁宁配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "稗田寧々",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163903-22LPSYo8TEYU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shisei Houjou",
+            "name_native": "北条糸青",
+            "name_alternative": [
+              "Shisei Hojo"
+            ],
+            "description": "__Height:__ 142 cm\n\nA cousin and classmate of [Saito](https://anilist.co/character/248386/Houjou-Saito). She has the appearance of a doll and an attractive cool expression. She is a good friend of Saito, who grew up with her like a brother and sister."
+          }
+        },
+        {
+          "id": 345581,
+          "name": "北条天龙",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b345581-y38ckPcNriXB.png",
+          "description": "北条天龙是北条才人的祖父，属于北条家族中具有影响力的长辈。他参与安排才人与樱森朱音的婚姻，希望两名年轻人能够在共同生活中建立新的关系。天龙关注孙子的成长和家庭责任，也推动了故事从校园竞争转向婚后生活。虽然他并非主角日常中的同学，却是两人婚姻安排的关键人物。",
+          "nicknames": [
+            "北条天龙",
+            "Tenryuu Houjou",
+            "北条天竜",
+            "天龙爷爷",
+            "北条家长辈"
+          ],
+          "traits": [
+            "北条才人的祖父",
+            "属于北条家族长辈",
+            "参与家族婚姻安排",
+            "关注才人的生活和成长",
+            "促成才人与朱音的婚姻",
+            "希望年轻一代建立家庭关系",
+            "由大塚芳忠配音",
+            "是故事家庭线的重要长辈"
+          ],
+          "voice_actors": [
+            {
+              "name": "大塚芳忠",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95337-NnvEQEBKV2dR.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tenryuu Houjou",
+            "name_native": "北条天竜",
+            "name_alternative": [],
+            "description": "Saito's grandfather."
+          }
+        },
+        {
+          "id": 345582,
+          "name": "樱森千代",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b345582-LFu0Stx5zgun.png",
+          "description": "樱森千代是樱森朱音的祖母，也是樱森家族的长辈。她参与安排朱音与北条才人的婚姻，与北条天龙一起推动两家年轻人开始共同生活。千代关心孙女的未来，也希望朱音在婚姻中找到新的关系和成长机会。她的决定改变了朱音原本的校园生活，是故事婚姻设定背后的重要家庭人物。",
+          "nicknames": [
+            "樱森千代",
+            "Chiyo Sakuramori",
+            "桜森千代",
+            "千代奶奶",
+            "朱音的祖母"
+          ],
+          "traits": [
+            "樱森朱音的祖母",
+            "是樱森家族的长辈",
+            "参与朱音的婚姻安排",
+            "关心孙女的生活和未来",
+            "与北条天龙共同推动两家联姻",
+            "为年轻人的关系提供家庭背景",
+            "由平野文配音",
+            "是故事家庭线的重要长辈"
+          ],
+          "voice_actors": [
+            {
+              "name": "平野文",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96067-Joe6uMJ9OgXF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chiyo Sakuramori",
+            "name_native": "桜森千代",
+            "name_alternative": [],
+            "description": "Akane's grandmother."
+          }
+        },
+        {
+          "id": 355133,
+          "name": "樱森真帆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355133-z0MAblOYzx3y.png",
+          "description": "樱森真帆身高约158厘米，是转学到北条才人所在高中的学妹。她兼具孩子般的天真和引人注目的气质，性格自由奔放，常以自己的方式参与校园生活。真帆进入学校后与才人、朱音等人产生交集，也让两人的同居婚姻面临新的同学关系。她为校园故事带来更活泼的后辈视角。",
+          "nicknames": [
+            "樱森真帆",
+            "Maho Sakuramori",
+            "桜森真帆",
+            "真帆",
+            "学妹真帆"
+          ],
+          "traits": [
+            "身高约158厘米",
+            "转学进入北条才人所在的高中",
+            "是才人的学妹",
+            "兼具孩子般的天真和吸引力",
+            "性格自由奔放",
+            "会主动参与校园互动",
+            "与樱森家族有关",
+            "由前田佳织里配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "前田佳織里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126863-UhefvoqVWVbB.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Maho Sakuramori",
+            "name_native": "桜森真帆",
+            "name_alternative": [],
+            "description": "__Height:__ 158 cm\n\nA junior who transferred to [Saito Houjou](https://anilist.co/character/248386/Houjou-Saito)'s high school.\n\nA girl who possesses both childlike innocence and a captivating aura. She's free-spirited and clingy, and she loves [Akane](https://anilist.co/character/248384/Sakuramori-Akane) very much."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 145604,
+      "anime_title": "忍之一时",
+      "anime_origin": "JP",
+      "source": {
+        "id": 145604,
+        "titles": [
+          "Shinobi no Ittoki",
+          "忍の一時",
+          "Синоби Иттоки"
+        ],
+        "year": 2022,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/145604"
+      },
+      "characters": [
+        {
+          "id": 276196,
+          "name": "红雪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b276196-fFbKW2b0WH6A.png",
+          "description": "红雪是伊贺村的忍者，负责保护樱羽一时，并确保他能安全进入忍者世界。她警惕心强，习惯提前确认周围风险，对一时的日常也十分上心。红雪与一时从小相识，外表冷静、行动果断，既是他的护卫，也是值得信任的同伴。甲贺与伊贺冲突升级后，她多次与一时并肩行动。",
+          "nicknames": [
+            "红雪",
+            "Kousetsu",
+            "紅雪",
+            "红雪忍者",
+            "一时的护卫"
+          ],
+          "traits": [
+            "伊贺村的忍者",
+            "负责保护樱羽一时",
+            "警惕心很强",
+            "常留意一时周围的危险",
+            "拥有专业忍者训练",
+            "与一时从小相识",
+            "外表冷静行动果断",
+            "在伊贺与甲贺冲突中并肩作战",
+            "由白石晴香配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "白石晴香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112629-U0y9a5Z9ogfk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kousetsu",
+            "name_native": "紅雪",
+            "name_alternative": [],
+            "description": "Ninja of Iga Village. She always has her guard up and makes sure [Ittoki](https://anilist.co/character/276197/Ittoki-Sakuraba) keeps up with his responsibilities and doesn't slack off.\n\n~!It is later revealed that she is the daughter of [Kidou Minobe](https://anilist.co/character/283067).!~ ~!There is a chip in her brain that gives Koga the ability to control her mind, which they use to make her kill [Yumika](https://anilist.co/character/276198/Yumika-Sakuraba).!~\n\n\n"
+          }
+        },
+        {
+          "id": 276197,
+          "name": "樱羽一时",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b276197-v0q1uAG4Wh1v.png",
+          "description": "樱羽一时原本是一名正直认真的普通高中生，平日参加多门进阶课程，也频繁去补习班。遭遇袭击后，他才发现自己出身忍者家族，是伊贺忍者村首领的继承人。为了活下去并理解家族职责，一时进入忍者学院接受训练，逐步卷入伊贺与甲贺之间的冲突。他需要从普通学生成长为能够保护同伴的忍者。",
+          "nicknames": [
+            "樱羽一时",
+            "Ittoki Sakuraba",
+            "櫻羽一時",
+            "一时",
+            "樱羽"
+          ],
+          "traits": [
+            "原本是普通高中生",
+            "性格正直认真",
+            "同时参加多门进阶课程",
+            "每周多次参加补习",
+            "遭遇忍者袭击后发现家族秘密",
+            "是伊贺忍者村首领的继承人",
+            "进入忍者学院接受训练",
+            "在伊贺和甲贺斗争中成长",
+            "由逢坂良太配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "逢坂良太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110743-k2SgQwU0JD33.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ittoki Sakuraba",
+            "name_native": "櫻羽一時",
+            "name_alternative": [],
+            "description": "Ittoki is an upstanding student in school, taking a multitude of advanced classes and even attending a cram school six times a week. He is also very physically capable, taking a gymnastics class three times per week on top of his other extracurricular activities. He is friends with [Kousetsu](https://anilist.co/character/276196/Kousetsu) although he finds her overbearing at times as she never lets him stray away from his schedule to have fun.\n\n~!He becomes the Chief of Iga Village as the legitimate successor following [Yumika](https://anilist.co/character/276198/Yumika-Sakuraba)'s death.!~"
+          }
+        },
+        {
+          "id": 276195,
+          "name": "加贺时贞",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b276195-DojNaepFiZT4.png",
+          "description": "加贺时贞是樱羽一时的叔叔，也是伊贺村最强的战士之一，因实力获得“半神时贞”的称号。他平时看起来悠闲随意，却会在危急时刻认真承担保护一时和村落的责任。时贞熟悉忍者战斗和伊贺事务，既是家族长辈，也是帮助一时理解忍者世界的重要指导者。",
+          "nicknames": [
+            "加贺时贞",
+            "Tokisada Kaga",
+            "加賀時貞",
+            "时贞",
+            "半神时贞"
+          ],
+          "traits": [
+            "是樱羽一时的叔叔",
+            "属于伊贺村的强大战士",
+            "外号是“半神时贞”",
+            "战斗能力在伊贺中名列前茅",
+            "平时态度悠闲随意",
+            "关键时刻会承担护卫责任",
+            "参与一时的忍者训练与保护",
+            "由小西克幸配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "小西克幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tokisada Kaga",
+            "name_native": "加賀時貞",
+            "name_alternative": [],
+            "description": "Ittoki's uncle and one of Iga's strongest fighters with a reputation of being called \"Tokisada the Demi-God\". Despite his laidback attitude, Tokisada is powerful in combat and will not hesitate to go into extremes to complete a mission."
+          }
+        },
+        {
+          "id": 276198,
+          "name": "樱羽弓香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b276198-2kHRy9qRzb0L.png",
+          "description": "樱羽弓香是樱羽一时的母亲，在丈夫去世后接任伊贺村首领，负责领导忍者村并处理与甲贺的关系。她外表温和，面对村落安全和家族责任时却十分果断，也曾试图让儿子远离危险的忍者世界。随着袭击和冲突升级，弓香必须同时保护一时、维护伊贺村并作出艰难决定。",
+          "nicknames": [
+            "樱羽弓香",
+            "Yumika Sakuraba",
+            "櫻羽弓香",
+            "弓香",
+            "伊贺首领"
+          ],
+          "traits": [
+            "樱羽一时的母亲",
+            "丈夫去世后接任伊贺村首领",
+            "负责领导伊贺忍者",
+            "外表温和但决策果断",
+            "努力保护儿子免受忍者冲突影响",
+            "需要处理伊贺与甲贺关系",
+            "重视村落成员安全",
+            "由井上喜久子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "井上喜久子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yumika Sakuraba",
+            "name_native": "櫻羽弓香",
+            "name_alternative": [],
+            "description": "Ittoki's mother and the current chief of the Iga village who took over the leadership after the death of her husband. Though she wasn't born into a ninja family, her prudence and courage in the face of death that has earned her the respect of the entire Iga Village."
+          }
+        },
+        {
+          "id": 279935,
+          "name": "黄濑川辉丽",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279935-e8xIAXtLXXZ0.png",
+          "description": "黄濑川辉丽是樱羽一时和红雪的同班同学，表面看起来友善柔弱，实际与忍者世界有更深联系。她在普通学生身份下隐藏自己的真实立场，也曾与伴朱雀等人产生交集。辉丽的言行让一时和红雪逐步意识到校园生活与忍者冲突并非彼此分离，她的真实动机在故事中逐渐揭开。",
+          "nicknames": [
+            "黄濑川辉丽",
+            "Kirei Kisegawa",
+            "黄瀬川輝麗",
+            "辉丽",
+            "黄濑川"
+          ],
+          "traits": [
+            "樱羽一时与红雪的同班同学",
+            "表面上友善而柔弱",
+            "真实身份与忍者世界有关",
+            "在同学面前隐藏真实立场",
+            "也曾接触伴朱雀",
+            "熟悉忍者冲突的情况",
+            "行动动机并非表面看起来简单",
+            "由悠木碧配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "悠木碧",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kirei Kisegawa",
+            "name_native": "黄瀬川輝麗",
+            "name_alternative": [],
+            "description": "She's Ittoki and Kosetsu's classmate who appears to be friendly and weak, however unbeknownst to the two and to Suzaku Ban, she's deceptive and manipulative. She belongs to the Fuma Village, whose ways were conservative and radical, they frown about the changing times and prefers the old ways of the ninja."
+          }
+        },
+        {
+          "id": 279936,
+          "name": "铃之音凉子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279936-9OEkHje0t0c5.png",
+          "description": "铃之音凉子来自才贺村，才贺村人口逐渐减少，过去曾是忍者技术发展的中心。她热衷于忍者装备与科技，也因此在校园里与樱羽一时相识。凉子熟悉忍者技术和各村落之间的差异，为一时一行理解忍者世界提供技术视角。她的经历也让作品呈现传统忍术之外的现代装备与研发。",
+          "nicknames": [
+            "铃之音凉子",
+            "Ryouko Suzunone",
+            "鈴ノ音涼子",
+            "凉子",
+            "铃之音"
+          ],
+          "traits": [
+            "属于甲贺旁支的才贺村",
+            "来自人口逐渐减少的村落",
+            "才贺曾是忍者技术中心",
+            "是忍者装备与技术的爱好者",
+            "与一时在学校结识",
+            "了解忍者科技发展",
+            "为伊贺团队提供技术视角",
+            "由关根瞳配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "関根瞳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n191744-L16tFTH3e9Nf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ryouko Suzunone",
+            "name_native": "鈴ノ音涼子",
+            "name_alternative": [],
+            "description": "She belongs to the Saiga village that is already endangered by disappearing, her village was once known as the technological hub of ninjutsu, where during its heydays was to go to place for ninjutsu tech. She and her father were the last of the said village, but despite her father's reluctance to let her continue the family tradition of her being a ninja, she is still hopeful to revive the village and still invents stuff that she and her friends can use. \n\nDespite having moderate fighting skills she excels in studies and would often ace any test, she also excels in the use of technology in conjunction with her ninjutsu."
+          }
+        },
+        {
+          "id": 279937,
+          "name": "椿里美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279937-JIZJM2XbfQrm.png",
+          "description": "椿里美是樱羽一时的同班同学，真实身份却是甲贺村忍者。她曾伪装成一时的临时女友，以普通学生身份接近他，并在校园日常中隐藏任务目的。里美的行动把甲贺的计划带入一时的学校生活，也迫使一时面对同学关系可能被利用的现实。她在伪装和忍者任务之间不断调整立场。",
+          "nicknames": [
+            "椿里美",
+            "Satomi Tsubaki",
+            "里美",
+            "椿"
+          ],
+          "traits": [
+            "一时的同班同学",
+            "真实身份是甲贺村忍者",
+            "曾伪装成一时的临时女友",
+            "以校园关系接近一时",
+            "隐藏忍者身份执行任务",
+            "与伊贺和甲贺冲突有关",
+            "在日常与任务之间维持伪装",
+            "由富田美忧配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "富田美憂",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119518-vZN7TPy12iuu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Satomi Tsubaki",
+            "name_native": "椿里美",
+            "name_alternative": [],
+            "description": "Ittoki's classmate and a ninja from the Koga village. Hiding her ninja status, she \"became\" Ittoki's temporarily girlfriend in an attempt to kill him."
+          }
+        },
+        {
+          "id": 283066,
+          "name": "伴朱雀",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b283066-FFNpSq5yE3eR.jpg",
+          "description": "伴朱雀是伴凤扇之子，与樱羽一时同在忍者学院学习，也是他的竞争对手。朱雀强烈敌视伊贺一族，认为伊贺与父亲之死有关，因此把私人仇恨带入学院生活。他拥有忍者训练和战斗能力，常与一时正面对抗；随着真相逐步揭开，朱雀也必须重新审视仇恨所依据的事实。",
+          "nicknames": [
+            "伴朱雀",
+            "Suzaku Ban",
+            "朱雀",
+            "甲贺朱雀"
+          ],
+          "traits": [
+            "伴凤扇的儿子",
+            "就读忍者学院",
+            "是樱羽一时的同级生和竞争对手",
+            "强烈敌视伊贺一族",
+            "认为伊贺与父亲之死有关",
+            "拥有忍者战斗训练",
+            "在学院中挑战一时",
+            "由坂泰斗配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "坂泰斗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n151336-Z9ZnITPdVRaW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Suzaku Ban",
+            "name_native": "伴朱雀",
+            "name_alternative": [],
+            "description": "Ittoki's rival and classmate from the Ninja Academy. He has a strong prejudiced hate against Ittoki for the Iga clan's murder of Koga's head, a man whom Suzaku had highly admired."
+          }
+        }
+      ]
+    }
+  ]
+}

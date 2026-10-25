@@ -1,0 +1,29 @@
+{
+  "verifiedAt": "2026-10-05T11:52:38.201Z",
+  "curatedFile": "scripts/new_anime_curated_batch13.js",
+  "anime": [
+    {
+      "id": 10372,
+      "title": "神样DOLLS",
+      "count": 14,
+      "excluded": [
+        {
+          "name": "日向勾司朗、枸雅日都美、濑能千波野",
+          "reason": "角色图片合格，但关联日配声优的AniList头像没有hash，待补查"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/10372",
+        "https://www.tv-tokyo.co.jp/anime/kamisama-dolls/chara/index.html",
+        "https://zh.wikipedia.org/wiki/神样DOLLS",
+        "https://www.mau2.com/anime/kamisamadolls",
+        "https://cal.syoboi.jp/tid/2196"
+      ]
+    }
+  ],
+  "insertedCharacters": 14,
+  "insertedVoiceActors": 14,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 14,
+  "verifiedVoiceActors": 14
+}

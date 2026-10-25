@@ -1,0 +1,1763 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:35:36.664Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 40881,
+      "name": "Mikasa Ackerman",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 40882,
+      "name": "Eren Yeager",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 46494,
+      "name": "Armin Arlert",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 45627,
+      "name": "Levi",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 45887,
+      "name": "Sasha Blouse",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 46496,
+      "name": "Erwin Smith",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 71121,
+      "name": "Hange Zoe",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 71457,
+      "name": "Marlo Freudenberg",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 71459,
+      "name": "Dieter Ness",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 71479,
+      "name": "Ymir",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 71481,
+      "name": "Nanaba",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 71687,
+      "name": "Oluo Bozard",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 71689,
+      "name": "Eld Gin",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 83181,
+      "name": "Mina Carolina",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 84305,
+      "name": "Keith Shadis",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 84309,
+      "name": "Moses",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 84315,
+      "name": "Samuel Linke-Jackson ",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 84319,
+      "name": "Hannah Diament",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 86017,
+      "name": "Hitch Dreyse",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 127568,
+      "name": "Boris Feulner",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 127572,
+      "name": "Dimo Reeves",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 127573,
+      "name": "Moblit Berner",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 131208,
+      "name": "Waltz",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 131456,
+      "name": "Darius  Baer Walbrunn",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 131457,
+      "name": "Dieter",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Shingeki no Kyojin",
+      "id": 36309,
+      "name": "Narrator",
+      "reason": "AniList ID 已存在或批次重复"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 16498,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 16498,
+        "titles": [
+          "Shingeki no Kyojin",
+          "Attack on Titan",
+          "進撃の巨人",
+          "SnK",
+          "AoT",
+          "Ataque a los Titanes",
+          "Ataque dos Titãs",
+          "L'Attacco dei Giganti",
+          "מתקפת הטיטאנים",
+          "进击的巨人",
+          "L’Attaque des Titans",
+          "الهجوم على العمالقة",
+          "ผ่าพิภพไททัน",
+          "حمله به تایتان",
+          "Ataque de Titãs",
+          "Atak Tytanów",
+          "Атака титанов",
+          "Đại Chiến Titan"
+        ],
+        "year": 2013,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/16498"
+      },
+      "characters": [
+        {
+          "id": 46484,
+          "name": "Reiner Braun",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46484-P6A2GjNQn49F.png",
+          "description": "",
+          "nicknames": [
+            "Reiner Braun",
+            "ライナー・ブラウン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "細谷佳正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Reiner Braun",
+            "name_native": "ライナー・ブラウン",
+            "name_alternative": [],
+            "description": "__Height__: 185 cm (6'1\")\n\nMember of the Survey Corps and former cadet of the 104th Training Corps. Reiner is a passionate and strong-willed young man with a strong sense of duty. He ranked 2nd in his training class upon graduation, finishing behind only [Mikasa](https://anilist.co/character/40881). His comrades have great trust in him, and he is stated to be the \"big brother\" of the 104th cadets."
+          }
+        },
+        {
+          "id": 46486,
+          "name": "Connie Springer",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n46486-izhPjzut6WCZ.png",
+          "description": "",
+          "nicknames": [
+            "Connie Springer",
+            "コニー・スプリンガー",
+            "Conny"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "下野紘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Connie Springer",
+            "name_native": "コニー・スプリンガー",
+            "name_alternative": [
+              "Conny"
+            ],
+            "description": "__Height__: 158 cm (5'2\")  \n__Relatives:__ [Mother](https://anilist.co/character/137287/Conny-no-Haha), Martin Springer (Brother), Sunny Springer (Sister)\n\nConnie Springer is a graduate of the 104th Training Corps, having ranked 8th in class. He is known to be one of the quickest soldiers while using ODM gear and is skilled at making very sharp turns. He hails from the rural Ragako Village within Wall Rose, his greatest ambition being to make his family and village proud of him. Upon graduation, he chose to join the Survey Corps. \n\nUpbeat and naive, Connie is rather unfocused outside of combat, and enjoys goofing around and messing with his friends, but can also be a bit dense at times, as he can have some difficulty comprehending new developments as they appear. Connie always tries to remain optimistic, consistently caring for the well-being of his friends, family and village, and being willing to help in any way he can. However, this soft spot and the struggles he goes through as a member of the Survey Corps takes a toll on him, as he often responds to grief and loss with anger, irritation and hatred, causing him to at times make rash, impulsive decisions. He will do anything to protect his family, whether it be his biological family or his closest friends."
+          }
+        },
+        {
+          "id": 46488,
+          "name": "Bertolt Hoover",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46488-wm6HvkdkHoZu.jpg",
+          "description": "",
+          "nicknames": [
+            "Bertolt Hoover",
+            "ベルトルト・フーバー",
+            "Bertholdt"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "橋詰知久",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110005-65qAMtTf7qOb.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bertolt Hoover",
+            "name_native": "ベルトルト・フーバー",
+            "name_alternative": [
+              "Bertholdt"
+            ],
+            "description": "__Height__: 192 cm (6'3\")  \n__Affiliation__: Survey Corps\n\nMember of the Survey Corps and former cadet of the 104th Training Corps. Bertoldt ranked 3rd in his training class upon graduation, finishing behind only [Mikasa](https://anilist.co/character/40881) and his hometown friend [Reiner](https://anilist.co/character/46484). He is a quiet young man who identifies himself as someone with a weak will that follows popular opinion. Despite ranking 3rd in his class, his training commandant noted him to be a person with great potential, but an utter lack of initiative. Bertoldt originally he enlisted in the military with aspirations of joining the Military Police and living in the safety of the inner wall, but after the Battle of Trost he instead decided to join the Survey Corps."
+          }
+        },
+        {
+          "id": 46490,
+          "name": "Annie Leonhart",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46490-tan274Ifc1Jf.jpg",
+          "description": "",
+          "nicknames": [
+            "Annie Leonhart",
+            "アニ・レオンハート"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "嶋村侑",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100295-SLfRq3RqJEoF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Annie Leonhart",
+            "name_native": "アニ・レオンハート",
+            "name_alternative": [],
+            "description": "__Height__: 153 cm (5\")  \n\nA member of the 104th Southern Division in the Cadet Corps. After graduating from the 104th, ranked 4th place in the top 10, she ends up joining the Military Police. She is roommates with [Hitch Dreyse](https://anilist.co/character/86017).\n\nA stoic girl, Annie is considered to be an isolated, solitary type, being rarely seen smiling or socializing and often having an emotionless expression. She is apathetic and somnolent, with little desire to put in any effort into meaningless disciplines or activities. Nonetheless, what drives Annie more than anything is her desire for a normal life.\n\n"
+          }
+        },
+        {
+          "id": 46492,
+          "name": "Hannes",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46492-5kRaMLDCVD0B.jpg",
+          "description": "",
+          "nicknames": [
+            "Hannes",
+            "ハンネス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤原啓治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hannes",
+            "name_native": "ハンネス",
+            "name_alternative": [],
+            "description": "A soldier who saves Eren and Mikasa during the prologue. He owes a debt to the Yeager family."
+          }
+        },
+        {
+          "id": 46498,
+          "name": "Jean Kirstein",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46498-ritqAj9FW6jX.png",
+          "description": "",
+          "nicknames": [
+            "Jean Kirstein",
+            "ジャン・キルシュタイン",
+            "Jean Kirschtein",
+            "Jeanie",
+            "Horse Face"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "谷山紀章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95196-t2vbxQMee0ci.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jean Kirstein",
+            "name_native": "ジャン・キルシュタイン",
+            "name_alternative": [
+              "Jean Kirschtein",
+              "Jeanie",
+              "Horse Face"
+            ],
+            "description": "__Height__: 175 cm (5'8\")\n__Relatives__: [Mother](https://anilist.co/character/131444/Jean-no-Haha)\n\nJean Kirschtein is a graduate of the 104th Cadet Corps, among whom he ranked 6th for his skills with ODM gear and ability to look at things through a more tactical lense. Jean hails from Wall Rose's Trost District, and joined the military with hopes of living a peaceful life within the walls as part of the Military Police. However, he would later find himself joining the Survey Corps after being convinced both by his close friend [Marco Bott's](https://anilist.co/character/62479/Marco-Bott) words, and after witnessing the death of several of his comrades.\n\nJean has a blunt personality. He holds no restraint when it comes to speaking his mind, even when he knows it would not be wise to do so or when it could spark conflict. Jean is also pragmatic: he has a strong aversion to exposing himself to dangerous situations. During his time as a cadet, Jean was extremely hot-headed, easily becoming frustrated and quick to resort to violence when pushed. Jean was also very cynical about defeating the Titans, believing that humanity has no chance against them and openly mocking more idealistic individuals like [Eren Yeager](https://anilist.co/character/40882/Eren-Yeager), and saw resisting the Titans as a hopeless cause. However, despite these things, and although he presents himself as self-centered, Jean places high value on the lives of his comrades, and is willing to risk his life to prevent countless more deaths from his comrades. Even with his shortcomings, Jean has shown himself to be a natural leader, being able to understand others and assess situations well because of his flaws, and proves capable of leading his fellow soldiers when they are left confused and without a plan. \n\n"
+          }
+        },
+        {
+          "id": 62475,
+          "name": "Carla Yeager",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n62475-CExspVnLfweu.png",
+          "description": "",
+          "nicknames": [
+            "Carla Yeager",
+            "カルラ・イェーガー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鷹森淑乃",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96057-sTfYZjMdWTRu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Carla Yeager",
+            "name_native": "カルラ・イェーガー",
+            "name_alternative": [],
+            "description": "Eren's mother.   ~!She's eaten alive in the second chapter.!~ Note: Carla Yeager is the official English translation by Kodansha."
+          }
+        },
+        {
+          "id": 62477,
+          "name": "Grisha Yeager",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62477-3AHBGul9bXK8.jpg",
+          "description": "",
+          "nicknames": [
+            "Grisha Yeager",
+            "グリシャ・イェーガー",
+            "Grisha Jaeger"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "土田大",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101214-kvHCKwu88FcF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Grisha Yeager",
+            "name_native": "グリシャ・イェーガー",
+            "name_alternative": [
+              "Grisha Jaeger"
+            ],
+            "description": "Father of [Eren Yaeger](https://anilist.co/character/40882/Eren-Yeager) and caretaker of [Mikasa Ackerman](https://anilist.co/character/40881/Mikasa-Ackerman). He is a renowned doctor who was well respected in the District of Shiganshina after he saved the village from a mysterious viral epidemic by developing vaccines. He also provides a medical house call service to the people of Shiganshina and to various towns in addition to having a network of contacts within the Corps of the Shiganshina District. He is married to [Carla Yaeger](https://anilist.co/character/62475).\n\n~!In the basement of the Yeager family house, he hides a secret which he refers to as the \"truth\". Upon finding Eren after the fall of Wall Maria, he injects him with a series of chemicals and amnesiacs and entrusts him with the key to the \"truth\", before mysteriously disappearing. This strange serum resulted in Eren gaining the ability to transform into a titan.!~"
+          }
+        },
+        {
+          "id": 62479,
+          "name": "Marco Bott",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62479-mYcTkU1RXymL.jpg",
+          "description": "",
+          "nicknames": [
+            "Marco Bott",
+            "マルコ・ボット",
+            "Marco Bodt"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "逢坂良太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110743-k2SgQwU0JD33.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Marco Bott",
+            "name_native": "マルコ・ボット",
+            "name_alternative": [
+              "Marco Bodt"
+            ],
+            "description": "__Height__: 178 cm (5'9\")\n__Affiliations__: 104th Training Corps\n\nOriginally from Jinae District. Marco ranked 7th in the 104th Training Corps and is widely respected by other cadets of the 104th. Marco is a very kind, calm, and idealistic person, valuing the good of the group above his own interests, as well as understanding and coping with his own shortcomings and limitations. He is seen as a natural leader, and desires to join the Military Police to serve near the King. \n\n*Note: Marco Bott is the official English translation by Kodansha.*"
+          }
+        },
+        {
+          "id": 62481,
+          "name": "Krista Lenz",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62481-ZZDa7vn17lMU.png",
+          "description": "",
+          "nicknames": [
+            "Krista Lenz",
+            "クリスタ・レンズ",
+            "Christa",
+            "Cattle-Taming Goddess"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "三上枝織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106236-aGhlIhHPPtjc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Krista Lenz",
+            "name_native": "クリスタ・レンズ",
+            "name_alternative": [
+              "Christa",
+              "Cattle-Taming Goddess"
+            ],
+            "description": "__Height__: 145 cm (4'8\")\n__Affiliations__: 104th Trainees Squad, Survey Corps\n\nRanked tenth in the trainee class, Krista is a very shy and kind, caring person, often being described as a \"goddess\" or \"angel\" by her peers. She is good friends with [Ymir](https://anilist.co/character/71479/Ymir)."
+          }
+        },
+        {
+          "id": 62483,
+          "name": "Thomas Wagner",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62483-zpSlfucUEgwQ.png",
+          "description": "",
+          "nicknames": [
+            "Thomas Wagner",
+            "トーマス・ワグナー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "須嵜成幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/18465.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Thomas Wagner",
+            "name_native": "トーマス・ワグナー",
+            "name_alternative": [],
+            "description": "Thomas Wagner was from Trost District. A member of the 104th Trainees Squad, he first met Eren Yeager while questioning him about the Colossal Titan. Later, he operated the training gear for the Three Dimensional Maneuver Gear during Eren's second attempt at his aptitude test. At Keith Shadis' orders, Thomas exchanged gear with Eren and it was discovered that Eren's gear was defective. After graduating, Thomas planned to join the Scouting Legion.   ~!After the second attack of the Colossal Titan, he was assigned to the middle guard along with Eren Yeager and Armin Arlert. Initially tasked with working under the training corps, they eventually were incorporated into the front guard due to the number of titans. Catching the group unaware, a titan lunged at the rooftop they were standing on. The group scattered but unfortunately, Thomas wasn't fast enough. He was caught and swallowed whole, while his teammate, Eren, looked on in terror.!~"
+          }
+        },
+        {
+          "id": 62485,
+          "name": "Dot Pixis",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b62485-I0U5Cat3z65K.png",
+          "description": "",
+          "nicknames": [
+            "Dot Pixis",
+            "ドット・ピクシス",
+            "Dot Pyxis",
+            "Commander Pyxis"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中正彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96414-0dvcgzJwFZO4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dot Pixis",
+            "name_native": "ドット・ピクシス",
+            "name_alternative": [
+              "Dot Pyxis",
+              "Commander Pyxis"
+            ],
+            "description": "The highest-ranked Administrator of the Southern Region. Head of the Garrison's Southern Territories, Pixis is a cunning leader with astute insights. However, he is also an alcoholic who is constantly watched over by his aid, [Anka](https://anilist.co/character/84331/Anka-Rheinberger), who constantly scolds him for sleeping and drinking during critical moments.\n"
+          }
+        },
+        {
+          "id": 62501,
+          "name": "Petra Ral",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n62501-CfTtAAgs64nE.jpg",
+          "description": "",
+          "nicknames": [
+            "Petra Ral",
+            "ペトラ・ラル",
+            "Petra Rall"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "相川奈都姫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/2123.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Petra Ral",
+            "name_native": "ペトラ・ラル",
+            "name_alternative": [
+              "Petra Rall"
+            ],
+            "description": "__Height:__ 158 cm (5'2\")\n__Affiliation:__ Survey Corps; Soldier, Special Operations Squad.\n__Relatives:__ [Father](https://anilist.co/character/131987/Petra-no-Chichi)\n\nPetra Ral is a soldier of the Survey Corps hand-picked by [Captain Levi](https://anilist.co/character/45627/Levi) to join the Special Operations Squad.\n\nPetra is a very kind and caring woman, going out of her way to look after and guiding [Eren Yaeger](https://anilist.co/character/40882/Eren-Yeager) when he was first admitted to the squad. She seemed to have the most attachment to Eren among Levi Squad, as she was often the only one shown to actually worry about him and his wellbeing, at least at first. Although all of Levi's squad wished for Eren's unconditional trust, it was ultimately Petra who convinced him to do so. \n\nDespite her kind nature, Petra was a conditioned soldier with a quick reaction time against perceived danger. She displays extreme loyalty to her leaders, superiors and their orders, and cares deeply for her team, although she tends to be at odds with [Oluo Bozad](https://anilist.co/character/71687/Oluo-Bozard) due to his irritating tendency to try and imitate Levi. She greatly looks up to Levi as her superior and is deeply devoted to him, willing to completely dedicate her life to his cause. It is implied that she may harbor romantic feelings for her captain."
+          }
+        },
+        {
+          "id": 71119,
+          "name": "Mike Zacharias",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/71119.jpg",
+          "description": "",
+          "nicknames": [
+            "Mike Zacharias",
+            "マイク・ザカリアス",
+            "Miche"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "三宅健太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mike Zacharias",
+            "name_native": "マイク・ザカリアス",
+            "name_alternative": [
+              "Miche"
+            ],
+            "description": "\nSquad Captain of his own squad, Squad Mike, a major division within the Survey Corps. He has been described by others as \"humanity's second strongest soldier\", being only behind [Levi](https://anilist.co/character/45627/Levi).\n\nMike is an extremely strong and durable soldier and an acknowledged leader with a brave heart and a tactical mind. He also has a remarkably good sense of smell, which allows him to detect Titans from great distances. During times of ease, Mike is shown to be a quiet and reserved man, rarely speaking unless it concerned a more serious matter. He also has a bizarre habit of \"sniffing\" people when he meets them."
+          }
+        },
+        {
+          "id": 71123,
+          "name": "Nile Dok",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71123-FswK9rrdbR9h.png",
+          "description": "",
+          "nicknames": [
+            "Nile Dok",
+            "ナイル・ドーク"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "勝杏里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95756-MmmuyQK4Thzl.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nile Dok",
+            "name_native": "ナイル・ドーク",
+            "name_alternative": [],
+            "description": "Chief of the Military Police."
+          }
+        },
+        {
+          "id": 71125,
+          "name": "Darius Zackly",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71125-XXymqijVoYzV.png",
+          "description": "",
+          "nicknames": [
+            "Darius Zackly",
+            "ダリス・ザックレー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "手塚秀彰",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105185-JPuDW9dX28ed.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Darius Zackly",
+            "name_native": "ダリス・ザックレー",
+            "name_alternative": [],
+            "description": "The head of all three divisions of the army.   \n\n__ _Note:___ Darius Zackly is the official English translation by Kodansha."
+          }
+        },
+        {
+          "id": 71453,
+          "name": "Nick",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n71453-IxgKWV5eR1pw.jpg",
+          "description": "",
+          "nicknames": [
+            "Nick",
+            "ニック",
+            "Minister Nick"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "麻生智久",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95854-DovWtfrg4gRV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nick",
+            "name_native": "ニック",
+            "name_alternative": [
+              "Minister Nick"
+            ],
+            "description": "Pastor Nick is a member of a religion that worships the Walls as holy.  He claims that he lost his family as a result of addiction to Vine.   As a religious leader, Pastor Nick used his influence to oppose any modification of the walls, be it permanently sealing the gates or even mounting cannons on the top. Though he claimed it was blasphemy for humans to \"maim\" the wall,  ~!the real reason was to reduce the risk of workers discovering the Titans within during renovations.!~ (Source: Shingeki no Kyojin Wikia)  Note: Minister Nick is the official English translation by Kodansha."
+          }
+        },
+        {
+          "id": 71455,
+          "name": "Keiji",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n71455-Mvk4Pz3tWUuN.jpg",
+          "description": "",
+          "nicknames": [
+            "Keiji"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松田修平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127680-Lnkhk82o8DTF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Keiji",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Member of the Scouting Legion."
+          }
+        },
+        {
+          "id": 71461,
+          "name": "Luke Siss",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/71461.jpg",
+          "description": "",
+          "nicknames": [
+            "Luke Siss",
+            "ルーク・シス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "北田理道",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127684-nUaypoJBu4dO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Luke Siss",
+            "name_native": "ルーク・シス",
+            "name_alternative": [],
+            "description": "Luke Siss  was a skilled member of the Survey Corps and a participant during the 57th Expedition Outside the Walls.\n"
+          }
+        },
+        {
+          "id": 71691,
+          "name": "Gunther Schultz",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71691-9xxv0NFB2CWm.png",
+          "description": "",
+          "nicknames": [
+            "Gunther Schultz",
+            "グンタ・シュルツ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "三戸耕三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1814.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gunther Schultz",
+            "name_native": "グンタ・シュルツ",
+            "name_alternative": [],
+            "description": "__Height:__ 183 cm (6'0\")\n__Relatives:__ [Mother](https://anilist.co/character/131990/Gunther-no-Haha), [Grandfather](https://anilist.co/character/131986/Gunther-no-Ojsan).\n\nGunther Schultz is one of the Survey Corps soldiers hand-picked by [Captain Levi](https://anilist.co/character/45627/Levi) to join the Special Operations Squad, both for his strength and his distrust for [Eren Yaeger](https://anilist.co/character/40882/Eren-Yeager).\n\nBeing a soldier of the Survey Corps who survived multiple encounters with Titans significantly affected Gunther's personality, making him deeply obedient and loyal to his superiors. Within the Special Operations Squad, Gunther seems to be the most reasonable one. However, he is shown to get irritated when his comrades joke around with one another, showing he also possesses a stern side and does not take kindly if a soldier doesn't focus on the task at hand."
+          }
+        },
+        {
+          "id": 84307,
+          "name": "Hugo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84307-faKVhlw386q7.jpg",
+          "description": "",
+          "nicknames": [
+            "Hugo",
+            "フーゴ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "章央陶山",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95583-pcq7rkDjxRTl.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hugo",
+            "name_native": "フーゴ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 84311,
+          "name": "Moses no Haha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n84311-iVwsDOzTSyvJ.png",
+          "description": "",
+          "nicknames": [
+            "Moses no Haha",
+            "モーゼスの母"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "寺瀬今日子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104032-T2WQPMRn19IB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Moses no Haha",
+            "name_native": "モーゼスの母",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 84313,
+          "name": "Armin no Ojii-san",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84313-kYfb2g4OR7je.jpg",
+          "description": "",
+          "nicknames": [
+            "Armin no Ojii-san",
+            "アルミンのお祖父さん",
+            "Armin’s Grandfather"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤正治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5386.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Armin no Ojii-san",
+            "name_native": "アルミンのお祖父さん",
+            "name_alternative": [
+              "Armin’s Grandfather"
+            ],
+            "description": "The paternal grandfather of Armin Arlert. Before the fall of Wall Maria, He possessed a book containing illegal information about the world beyond the Walls. He gave this book to his grandson, Armin Arlert, who showed it to his best friend Eren, kindling his desire to see the outside world"
+          }
+        },
+        {
+          "id": 84317,
+          "name": "Franz Kefka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84317-mIg4hGXJKhQt.png",
+          "description": "",
+          "nicknames": [
+            "Franz Kefka",
+            "フランツ・ケフカ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大隈健太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/22425.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Franz Kefka",
+            "name_native": "フランツ・ケフカ",
+            "name_alternative": [],
+            "description": "Franz is a member of the 104th Trainees Squad.  Franz first appears Ch.3 in walking through Trost District with Eren and Hannah. Eren refers to Hannah and Franz as a couple, which they both embarrassedly deny.    ~!At some point following the breach of the Wall by the Colossal Titan, Franz is attacked by a Titan. He is bitten in half and dies.   Armin finds Hannah futilely attempting CPR on what remains of Franz's corpse. He tells her it's useless, and advises her to retreat to the Wall before it's too late.!~\n\n(Source: Shingeki no Kyojin Wikia)"
+          }
+        },
+        {
+          "id": 84321,
+          "name": "Daz",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84321-i4A69zVC6YMM.png",
+          "description": "",
+          "nicknames": [
+            "Daz",
+            "ダズ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田久保修平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117427-LqiAmQ6Orkcm.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Daz",
+            "name_native": "ダズ",
+            "name_alternative": [],
+            "description": "Daz is a member of the 104th Trainees Squad.   \n\n~!In Ch. 40, Ymir and Historia Reiss recount a story about Dazz from training. Wanting praise and recognition, Dazz undertook harsh physical training in the snowy mountains. However, he wasn't strong enough to endure it, and nearly died. Ymir told Krista to leave him behind or her own life would be endangered; when Krista refused, Ymir used her Titan shifter powers to bring Dazz back to the camp safely.  In Ch. 12, when Dot Pixis announces the plan to reconquer Trost District, Dazz has a breakdown and starts screaming that he doesn't want to die. Though Marco Bott tries to quiet him, a commanding officer overhears and threatens to execute him. Dazz replies that execution would be better then being eaten by a Titan. However, Dot Pixis then announces that all deserters will be pardoned -- but have to live with the guilt that they abandoned their families to the Titans. Dazz is unable to leave his family to that fate, and returns to participate in the operation to plug the breach.   After the mission, he briefly appears in Chapter 21 standing next to Sasha Blouse when Irvin Smith gives a speech urging the 104th Training Squad members to join the Scouting Legion. As he is not present in the group of trainees who join, he presumably opted for the Stationary Guard instead.!~ \n\n(Source: Shingeki no Kyojin Wikia)"
+          }
+        },
+        {
+          "id": 84323,
+          "name": "Megane no Kyoukan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84323-zHWF3Z83EZ7U.png",
+          "description": "",
+          "nicknames": [
+            "Megane no Kyoukan",
+            "眼鏡の教官"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "村上裕哉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112787-Emc8j9Wl0zkC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Megane no Kyoukan",
+            "name_native": "眼鏡の教官",
+            "name_alternative": [],
+            "description": "Instructor with glasses that first appears in episode 3 and is later seen in episode 5 teaching the 104th Corps what is known about the Titans and their origins."
+          }
+        },
+        {
+          "id": 84325,
+          "name": "Kitz Weilman",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84325-RGWFyLMV6JZV.jpg",
+          "description": "",
+          "nicknames": [
+            "Kitz Weilman",
+            "キッツ・ヴェールマン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "志村知幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96520-HBvIVNbD2gvv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kitz Weilman",
+            "name_native": "キッツ・ヴェールマン",
+            "name_alternative": [],
+            "description": "The Captain of the Garrison's 1st Division Elite Forces"
+          }
+        },
+        {
+          "id": 84327,
+          "name": "Bart",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84327-Wg2P1FSDecGc.jpg",
+          "description": "",
+          "nicknames": [
+            "Bart",
+            "バルト",
+            "Barto"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高口公介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8996.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bart",
+            "name_native": "バルト",
+            "name_alternative": [
+              "Barto"
+            ],
+            "description": "Original anime character. He is a Noble in the District of Marquis and friend of Pixis, who challenges him to leisurely games of chess. In the anime, as Pixis makes to leave upon learning of the invasion of Trost in the year 850, he tries to prevent him from going to the battlefield and instead have Pixis and his men stay and protect him and his property, viewing the lowly commoners being attacked as trash.  \n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 84329,
+          "name": "Gustav",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84329-vLIxfAIYGPug.png",
+          "description": "",
+          "nicknames": [
+            "Gustav",
+            "グスタフ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "四宮豪",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101724-MEUzOW3BRvy2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gustav",
+            "name_native": "グスタフ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 84331,
+          "name": "Anka Rheinberger",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84331-9r0TU5kEFitO.png",
+          "description": "",
+          "nicknames": [
+            "Anka Rheinberger",
+            "アンカ・ラインベルガー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "葉山いくみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105065-h1ysNglouHXs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Anka Rheinberger",
+            "name_native": "アンカ・ラインベルガー",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 84333,
+          "name": "Ian Dietrich",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84333-s7JjasoIYuLK.png",
+          "description": "",
+          "nicknames": [
+            "Ian Dietrich",
+            "イアン・ディートリッヒ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "村上裕哉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112787-Emc8j9Wl0zkC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ian Dietrich",
+            "name_native": "イアン・ディートリッヒ",
+            "name_alternative": [],
+            "description": "Ian is a member of the Stationary Guard in Trost District.  Ian first appears in Ch. 5 after Trost District is breached by the Colossal Titan. He compliments Mikasa for killing a Titan that was attacking a group of evacuating civilians.    ~!In Ch. 12, a plan is formed for Eren to use his Titan powers to seal the breach with a boulder. Ian is placed in charge of the elite squad assigned to protect Eren on his mission.   When Eren loses control of his Titan form in Ch. 13, Mitabi and Rico advise Ian to abort the mission and retreat. However, Ian orders his soldiers to continue to defend Eren down to the last man, as Eren is their only hope against the Titans.   In Ch. 14, Eren regains his senses due to Armin's intervention, and Ian orders his soldiers to protect him until he reaches the breach even at the cost of their own lives. Ian uses himself as bait to lure Titans away from Eren, sacrificing his life in order to ensure the success of the mission.!~ \n\n(Source: Shingeki no Kyojin Wikia)"
+          }
+        },
+        {
+          "id": 84335,
+          "name": "Nack Tierce",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84335-o4ECgCR70JoD.png",
+          "description": "",
+          "nicknames": [
+            "Nack Tierce",
+            "ナック・ティアス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "樋口智透",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/11858.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nack Tierce",
+            "name_native": "ナック・ティアス",
+            "name_alternative": [],
+            "description": "One of the graduates from the 104th Training Corps. He was a part of the 34th squad sent to support the rear vanguard during the invasion of Trost. He was killed after the squad was ambushed by a group of Titans.  \n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 84337,
+          "name": "Mylius Zeramuski",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84337-qoU8Uea1oT9C.png",
+          "description": "",
+          "nicknames": [
+            "Mylius Zeramuski",
+            "ミリウス・ゼルムスキー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "布施川一寛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/21237.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mylius Zeramuski",
+            "name_native": "ミリウス・ゼルムスキー",
+            "name_alternative": [],
+            "description": "One of the graduates from the 104th Training Corps. He was a part of the 34th squad sent to support the rear vanguard during the invasion of Trost.   ~!He was killed after the squad was ambushed by a group of Titans.!~ \n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 84339,
+          "name": "Mikasa no Chichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n84339-O2BcKvQoHT94.jpg",
+          "description": "",
+          "nicknames": [
+            "Mikasa no Chichi",
+            "ミカサの父"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "遠藤大智",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105675-XnR4PwkkKbRH.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mikasa no Chichi",
+            "name_native": "ミカサの父",
+            "name_alternative": [],
+            "description": "He and his family lived in a forest within the Shiganshina District.\nHe seemed to be a lighthearted but hard working man. When asked by Mikasa how babies were made, he jokingly claimed he did not know and suggested she ask Dr. Jaeger when he arrives.\n~!It is hinted that Mikasa's father, or a close relative of his, was driven into poverty due to their business failing. As such, Mikasa's father and his family lived in the woods within the Shiganshina District to avoid persecution from the government!~"
+          }
+        },
+        {
+          "id": 84341,
+          "name": "Mikasa no Haha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n84341-o3ojpfHhp7o8.png",
+          "description": "",
+          "nicknames": [
+            "Mikasa no Haha",
+            "ミカサの母"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "広瀬有香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/16223.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mikasa no Haha",
+            "name_native": "ミカサの母",
+            "name_alternative": [],
+            "description": "Mikasa's mother.  First Appearance Anime: Ep. 6\nA woman of Oriental heritage appearing to be in her mid thirties.\nShe appeared to be a kind and loving mother, holding value in keeping with tradition. When her and Mikasa's lives were threatened, she quickly turned into a fierce mother, trying to do whatever was necessary to protect Mikasa."
+          }
+        },
+        {
+          "id": 84707,
+          "name": "Rico Brzenska",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b84707-b43XdPG1SCRK.jpg",
+          "description": "",
+          "nicknames": [
+            "Rico Brzenska",
+            "リコ・ブレツェンスカ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鷄冠井美智子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/22455.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rico Brzenska",
+            "name_native": "リコ・ブレツェンスカ",
+            "name_alternative": [],
+            "description": "The Squad Leader of the 1st Division Elite Force of the Stationary Guard.    ~!She is the sole survivor of the elite squads assigned to protect Eren during the liberation of Trost District. She does not trust Eren and still views him as a traitor.!~"
+          }
+        },
+        {
+          "id": 85211,
+          "name": "Tom",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85211-twgcd2ZHhi1D.jpg",
+          "description": "",
+          "nicknames": [
+            "Tom",
+            "トム"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "須嵜成幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/18465.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tom",
+            "name_native": "トム",
+            "name_alternative": [],
+            "description": "One of the graduates from the 104th Training Corps. During the invasion of Trost in the year 850, he was part of the squad including Jean and Mikasa whose Maneuvering Gears start to run out of propulsion fuel. As his fuel finally depletes he becomes surrounded by a group of Titans and is killed. Jean, who was in charge of the squad, capitalized on the opportunity and used him as bait to distract the Titans while the rest of the squad made their way back to the Headquarters to resupply.  (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 87385,
+          "name": "Mitabi Jarnach",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b87385-4vMsvdmAUlNe.jpg",
+          "description": "",
+          "nicknames": [
+            "Mitabi Jarnach",
+            "ミタビ・ヤルナッハ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "星野貴紀",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1052.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mitabi Jarnach",
+            "name_native": "ミタビ・ヤルナッハ",
+            "name_alternative": [],
+            "description": "Mitabi Jarnach is a member of the Stationary Guard in Trost District.   ~!Mitabi first appears in Ch. 13 as the leader of one of the units assigned to protect Eren on his mission to plug the breach in Trost's Wall created by the Colossal Titan. When Eren loses control of his Titan form, Mitabi advises Ian to abort the mission and retreat to the safety of Wall Rose; however, Ian orders him to continue defending Eren.   In Ch. 14, Eren regains his senses and begins carrying a boulder to plug the breach in the Wall. As there are too many Titans to fight them all, Mitabi and his men instead use themselves as bait to lure the Titans away from Eren, sacrificing their lives to ensure the success of the mission.!~ First Appearance Manga: Ch. 13 Anime: Ep. 11  (Source: Shingeki no Kyojin Wikia)"
+          }
+        },
+        {
+          "id": 127681,
+          "name": "Abel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n127681-9Xhk8VzIuKQ4.jpg",
+          "description": "",
+          "nicknames": [
+            "Abel",
+            "ゴーグル",
+            "Goggles"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "吉開清人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n99761-Q9lm6KhwEZck.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Abel",
+            "name_native": "ゴーグル",
+            "name_alternative": [
+              "Goggles"
+            ],
+            "description": "Goggles is a soldier in the Scout Regiment fourth squad under the command of Hange Zoë, who is noted for his trademark glasses, or \"goggles\". He participated in the 57th Exterior Scouting Mission and often accompanies higher ups, such as Hange and Levi, on serious missions.\n<br><br>\n(Source: Shingeki no Kyojin Wikia)"
+          }
+        },
+        {
+          "id": 130625,
+          "name": "Phil",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130625-PpwqwuxgDr1A.png",
+          "description": "",
+          "nicknames": [
+            "Phil",
+            "フィル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "霜月紫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/17771.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Phil",
+            "name_native": "フィル",
+            "name_alternative": [],
+            "description": "A member of the Garrison."
+          }
+        },
+        {
+          "id": 130657,
+          "name": "Dennis Aiblinger",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b130657-66AtdJLhzfSk.png",
+          "description": "",
+          "nicknames": [
+            "Dennis Aiblinger",
+            "デニス・アイブリンガー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "荻野晴朗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106629-TT3F7WfC3wLq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dennis Aiblinger",
+            "name_native": "デニス・アイブリンガー",
+            "name_alternative": [],
+            "description": "Military Police Officer stationed in the Stohess District."
+          }
+        },
+        {
+          "id": 131455,
+          "name": "Jurgen",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131455-8WPESzF24pcm.png",
+          "description": "",
+          "nicknames": [
+            "Jurgen",
+            "ユルゲン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "布施川一寛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/21237.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jurgen",
+            "name_native": "ユルゲン",
+            "name_alternative": [],
+            "description": "A member of the Scout Regiment and a participant of the 57th Exterior Scouting Mission.\n~!Jurgen was a reckless man, who disobeyed his superiors and put his entire brigade in danger just to retrieve a body. This recklessness would prove to be the end of him. When his friend Ivan was killed, he showed more composure than his friend Dieter; but he still chose to disobey his superiors to retrieve his body. In his final moments, he expressed great fear and regret on his face as he was killed without even completing the task he had set out to do!~"
+          }
+        },
+        {
+          "id": 131986,
+          "name": "Gunther Sofu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131986-6Re0rJWtpeJe.jpg",
+          "description": "",
+          "nicknames": [
+            "Gunther Sofu",
+            "グンタ祖父",
+            "Gunther's Grandfather"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田久保修平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117427-LqiAmQ6Orkcm.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gunther Sofu",
+            "name_native": "グンタ祖父",
+            "name_alternative": [
+              "Gunther's Grandfather"
+            ],
+            "description": "[Gunther](https://anilist.co/character/71691)'s grandfather."
+          }
+        },
+        {
+          "id": 131987,
+          "name": "Petra no Chichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131987-JYRTZAMvHL7U.png",
+          "description": "",
+          "nicknames": [
+            "Petra no Chichi",
+            "ペトラの父"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "てらそままさき",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95563-tMN0xtsy1qyh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Petra no Chichi",
+            "name_native": "ペトラの父",
+            "name_alternative": [],
+            "description": "The father of [Petra Rall](https://anilist.co/character/62501), a skilled female member of Levi's former Special Operations Squad."
+          }
+        },
+        {
+          "id": 131988,
+          "name": "Eld no Haha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131988-XMa1skXV2E0L.jpg",
+          "description": "",
+          "nicknames": [
+            "Eld no Haha",
+            "エルドの母"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鷄冠井美智子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/22455.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eld no Haha",
+            "name_native": "エルドの母",
+            "name_alternative": [],
+            "description": "Eld's mother. Appears in episode 22."
+          }
+        },
+        {
+          "id": 131989,
+          "name": "Peer",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131989-FWaEoAayjB4N.png",
+          "description": "",
+          "nicknames": [
+            "Peer",
+            "ペール"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "遠藤大智",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105675-XnR4PwkkKbRH.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Peer",
+            "name_native": "ペール",
+            "name_alternative": [],
+            "description": "A member of the Scout Regiment"
+          }
+        },
+        {
+          "id": 131990,
+          "name": "Gunther no Haha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131990-v6rILcgW9MQa.jpg",
+          "description": "",
+          "nicknames": [
+            "Gunther no Haha",
+            "グンタの母"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鳳芳野",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/9647.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gunther no Haha",
+            "name_native": "グンタの母",
+            "name_alternative": [],
+            "description": "Gunter's mother. Appears in episode 22."
+          }
+        },
+        {
+          "id": 131991,
+          "name": "Oluo no Haha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131991-nW7ztKNllB8z.jpg",
+          "description": "",
+          "nicknames": [
+            "Oluo no Haha",
+            "オルオの母"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小平有希",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95716-BDejHbIYkT7O.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Oluo no Haha",
+            "name_native": "オルオの母",
+            "name_alternative": [],
+            "description": "Oluo's mother. Appears in episode 22."
+          }
+        },
+        {
+          "id": 131992,
+          "name": "Eld's Lover",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131992-isinQRQQHyec.jpg",
+          "description": "",
+          "nicknames": [
+            "Eld's Lover",
+            "エルド恋人"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "桐島ゆか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131993-Vs8GcFogvyFg.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eld's Lover",
+            "name_native": "エルド恋人",
+            "name_alternative": [],
+            "description": "Appears in episode 22."
+          }
+        },
+        {
+          "id": 131994,
+          "name": "Oluo no Chichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131994-F0MLEE5rQ0Oy.jpg",
+          "description": "",
+          "nicknames": [
+            "Oluo no Chichi",
+            "オルオの父"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "仁科洋平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131995-Qdx8p7NY0Sa0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Oluo no Chichi",
+            "name_native": "オルオの父",
+            "name_alternative": [],
+            "description": "Oluo's father."
+          }
+        },
+        {
+          "id": 137201,
+          "name": "Ellie",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137201-SLx9NWWjdE5g.png",
+          "description": "",
+          "nicknames": [
+            "Ellie",
+            "エリー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小堀幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119201-OPQF6j3YrfTS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ellie",
+            "name_native": "エリー",
+            "name_alternative": [],
+            "description": "She is a young girl from the Calaneth District. She and her brother witness the departure and comeback of the Scout Regiment on the 57th Exterior Scouting Mission."
+          }
+        },
+        {
+          "id": 137283,
+          "name": "Zoku 3",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137283-ykMUBMJq2OBx.png",
+          "description": "",
+          "nicknames": [
+            "Zoku 3",
+            "賊３",
+            "Bandit 3"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大畑伸太郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96818-yAH3Krh7Y7Uy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zoku 3",
+            "name_native": "賊３",
+            "name_alternative": [
+              "Bandit 3"
+            ],
+            "description": "He is one of a trio of men who killed [Mikasa's father](https://anilist.co/character/84339) and [mother](https://anilist.co/character/84341) before kidnapping their daughter [Mikasa Ackerman](https://anilist.co/character/40881) in the year 844."
+          }
+        },
+        {
+          "id": 137284,
+          "name": "Zoku 2",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137284-N6WzhrtSRLVL.png",
+          "description": "",
+          "nicknames": [
+            "Zoku 2",
+            "賊２",
+            "Bandit 2"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "前田弘喜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n137418-JbEZ0inshvpO.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zoku 2",
+            "name_native": "賊２",
+            "name_alternative": [
+              "Bandit 2"
+            ],
+            "description": "He is one of a trio of men who killed [Mikasa's father](https://anilist.co/character/84339) and [mother](https://anilist.co/character/84341) before kidnapping their daughter [Mikasa Ackerman](https://anilist.co/character/40881) in the year 844."
+          }
+        },
+        {
+          "id": 137286,
+          "name": "Zoku 1",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137286-K7DBiibnqjKq.png",
+          "description": "",
+          "nicknames": [
+            "Zoku 1",
+            "賊１",
+            "Bandit 1"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "四宮豪",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101724-MEUzOW3BRvy2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zoku 1",
+            "name_native": "賊１",
+            "name_alternative": [
+              "Bandit 1"
+            ],
+            "description": "He is one of a trio of men who killed [Mikasa's father](https://anilist.co/character/84339) and [mother](https://anilist.co/character/84341) before kidnapping their daughter [Mikasa Ackerman](https://anilist.co/character/40881) in the year 844."
+          }
+        },
+        {
+          "id": 209872,
+          "name": "Lobov",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209872-Q1oywyIDj05n.png",
+          "description": "",
+          "nicknames": [
+            "Lobov",
+            "ロボフ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "遠藤大智",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105675-XnR4PwkkKbRH.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lobov",
+            "name_native": "ロボフ",
+            "name_alternative": [],
+            "description": "A Scout Regiment recruit and former commander of the garrison who participated in the Raid on Liberio."
+          }
+        },
+        {
+          "id": 131257,
+          "name": "Annie no Chichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131257-EywhPQF0aqVU.png",
+          "description": "",
+          "nicknames": [
+            "Annie no Chichi",
+            "アニの父",
+            "Annie's Father",
+            "Mr. Leonhart",
+            "レオンハート"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石塚運昇",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Annie no Chichi",
+            "name_native": "アニの父",
+            "name_alternative": [
+              "Annie's Father",
+              "Mr. Leonhart",
+              "レオンハート"
+            ],
+            "description": "Father and trainer of Annie Leonhart. He relentlessly trained Annie to fight, using mostly kicks and the attacker's weight against them.\n~!Memories of his pleas for forgiveness later create an opening for Annie to crystallize herself before Eren Jaeger has the chance to capture her!~"
+          }
+        },
+        {
+          "id": 131458,
+          "name": "Ivan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131458-X7IACq1k4I7N.png",
+          "description": "",
+          "nicknames": [
+            "Ivan",
+            "イヴァン"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Ivan",
+            "name_native": "イヴァン",
+            "name_alternative": [],
+            "description": "A member of the Scout Regiment and a participant of the 57th Exterior Scouting Mission.\n~!Ivan was killed during the Scout Regiment's 57th Expedition. As the Corps was returning to Calaneth District, two of Ivan's friends, Dieter and Jurgen, tried, unsuccessfully, to retrieve his body to return to his family!~"
+          }
+        },
+        {
+          "id": 133211,
+          "name": "Bean",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n133211-aFP1NreETocM.png",
+          "description": "",
+          "nicknames": [
+            "Bean",
+            "ビーン"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Bean",
+            "name_native": "ビーン",
+            "name_alternative": [],
+            "description": "Beane was the name given by Hange Zoë to a 7m Titan which was captured after the reconquest of Trost District."
+          }
+        },
+        {
+          "id": 133212,
+          "name": "Sonny",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n133212-236DUAUFEHPr.png",
+          "description": "",
+          "nicknames": [
+            "Sonny",
+            "ソニー"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Sonny",
+            "name_native": "ソニー",
+            "name_alternative": [],
+            "description": "Sonny was the name given by Hange Zoë to a 4m Titan which was captured after the reconquest of Trost District."
+          }
+        },
+        {
+          "id": 140903,
+          "name": "Mitsumete no Kyojin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140903-arzkiU9S48ZZ.png",
+          "description": "",
+          "nicknames": [
+            "Mitsumete no Kyojin",
+            "見つめての巨人",
+            "Peering Titan"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Mitsumete no Kyojin",
+            "name_native": "見つめての巨人",
+            "name_alternative": [
+              "Peering Titan"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 209870,
+          "name": "Louise",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b209870-urk2Tf2nV0mQ.png",
+          "description": "",
+          "nicknames": [
+            "Louise",
+            "ルイーゼ"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Louise",
+            "name_native": "ルイーゼ",
+            "name_alternative": [],
+            "description": "A young girl who was in Trost with her mother attempting to flee when the Titans invaded. After being saved by [Mikasa Ackerman](https://anilist.co/character/40881/Mikasa-Ackerman) and the other 104th Cadets, she was inspired by their heroic actions and later joins the military herself as a Survey Corps recruit, hoping to get closer to Mikasa, her idol.\n\nLouise believes that strength is the most important attribute one can have in the world, to the point that she almost seems to have a \"might equals right\" mentality. Much of this mindset stems from her experiences during the Battle of Trost District, where she claims to have learned from watching Mikasa Ackerman fight in the face of adversity to achieve victory. She believes that the ends justify the means, and has no qualms about breaking rules if she believes that disobeying others will get her what she wants."
+          }
+        }
+      ]
+    }
+  ]
+}

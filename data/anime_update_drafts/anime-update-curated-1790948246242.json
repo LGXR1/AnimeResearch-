@@ -1,0 +1,717 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:29:57.896Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 59,
+      "anime_title": "人形电脑天使心",
+      "anime_origin": "JP",
+      "source": {
+        "id": 59,
+        "titles": [
+          "Chobits",
+          "ちょびっツ"
+        ],
+        "year": 2002,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/59"
+      },
+      "characters": [
+        {
+          "id": 225,
+          "name": "本须和秀树",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b225-jhAGBOFjFxWI.jpg",
+          "description": "本须和秀树是从乡下来到东京备考的预备大学生，性格诚实善良，却几乎没有与女性相处的经验。他一直想拥有一台名为“人形电脑”的个人电脑，因经济拮据而买不起；某天回家途中，他意外在垃圾堆旁发现了被丢弃的小叽。秀树为她取名并教她说话，逐渐从照顾电脑的日常中思考人与机器之间的情感。",
+          "nicknames": [
+            "本须和秀树",
+            "Hideki Motosuwa",
+            "本須和秀樹",
+            "Motosuwa Hideki"
+          ],
+          "traits": [
+            "来自乡下的预备大学生",
+            "在东京补习班备考",
+            "性格诚实善良",
+            "缺乏与女性相处的经验",
+            "想拥有一台人形电脑",
+            "在垃圾堆发现小叽",
+            "有丰富的想象力",
+            "常会自言自语",
+            "努力学习电脑知识",
+            "逐渐关心小叽的情感"
+          ],
+          "voice_actors": [
+            {
+              "name": "杉田智和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hideki Motosuwa",
+            "name_native": "本須和秀樹",
+            "name_alternative": [],
+            "description": "**Height:** 178 cm (5'10'')\n\nHideki Motosuwa is a student who is attempting to qualify for university by studying at the Seki cram school in Tokyo. He's an honest and kind teenager who was raised on a farm, and unfortunately for him, has no experience with women. He has a very active imagination, which tends to result in him talking to himself in public. Hideki is interested in finding a girlfriend and has a great desire to have a Persocom—a computer shaped in the form of a human who can do all sorts of things. Although he cannot afford one, his luck holds out when he finds one lying in a garbage dump on his way home from the groceries, which he names [Chii](https://anilist.co/character/227/Chii)."
+          }
+        },
+        {
+          "id": 227,
+          "name": "小叽",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b227-UBfxedtnTzH2.jpg",
+          "description": "小叽是被秀树从垃圾堆旁发现的人形电脑，起初只会重复“叽”，因此得到这个名字。她逐步学习语言、穿衣和日常生活，也开始表达自己的喜好。小叽实际上是传说中能够独立思考并感受情绪的特殊人形电脑“Chobit”，本名艾尔达，与芙蕾雅有密切联系。她体内装有特殊程序，故事围绕她寻找唯一重要之人的过程展开。",
+          "nicknames": [
+            "小叽",
+            "Chii",
+            "ちぃ",
+            "Elda"
+          ],
+          "traits": [
+            "拥有少女外形的人形电脑",
+            "本名艾尔达",
+            "由秀树在垃圾堆发现",
+            "起初只会发出叽的声音",
+            "逐步学习语言与生活",
+            "能够独立思考",
+            "对人类情感抱有好奇",
+            "与芙蕾雅有特殊联系",
+            "体内有连接人形电脑的程序",
+            "寻找只属于自己的那个人"
+          ],
+          "voice_actors": [
+            {
+              "name": "田中理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95060-Rw0HZghxH1hF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Chii",
+            "name_native": "ちぃ",
+            "name_alternative": [],
+            "description": "__Height:__ 152 cm (5'0\")\n\nChii is a Persocom who is found by [Hideki Motosuwa](https://anilist.co/character/225) in a garbage dump. At first, she is only able to say \"Chii\", thus earning her that name. Later on, she is taught various things, and is eventually able to communicate with other people.\n\n~!She is a Chobit, a legendary Persocom that is capable of thinking independently and feeling human emotions. Her real name is Elda. She was created to be a \"little sister\" to Freya, the first Chobit, after Chitose Hibiya noticed Freya becoming increasingly sad. After Freya eventually breaks down, Elda takes Freya's mind into her own in an attempt to save her. In the manga, this causes her own memories to reset. In the anime, Hibiya resets Elda's memories in order to find the One just for her.  Chi has a special program installed on her designed to connect to every persocom on the planet. In the manga, if Chi fails to find the One just for her, she would delete the ability for persocoms to recognize humans from one another. In the anime, if Chi does find the One just for her, the program would give all persocoms the ability to feel real emotions.!~"
+          }
+        },
+        {
+          "id": 226,
+          "name": "新保弘",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b226-x21JcaTOznx0.png",
+          "description": "新保弘是秀树在东京补习班认识的朋友，两人后来住进同一座公寓。弘对人形电脑颇有了解，秀树遇到小叽相关的问题时常向他请教；他自己也拥有一台名为Sumomo的便携式电脑。弘性格开朗，乐于帮朋友出主意，也会在秀树适应城市生活和照顾小叽时提供实际帮助。",
+          "nicknames": [
+            "新保弘",
+            "Hiromu Shinbo",
+            "Shinbo Hiromu"
+          ],
+          "traits": [
+            "秀树的同学与好友",
+            "在同一所补习班上课",
+            "熟悉人形电脑",
+            "拥有一台名为Sumomo的电脑",
+            "常协助秀树照顾小叽",
+            "性格开朗健谈",
+            "愿意为朋友出主意",
+            "对电脑技术有兴趣",
+            "在千岁公寓居住",
+            "与清水老师关系亲近"
+          ],
+          "voice_actors": [
+            {
+              "name": "関智一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hiromu Shinbo",
+            "name_native": "新保弘",
+            "name_alternative": [],
+            "description": "Shinbo quickly becomes Hideki's best friend once Hideki moves into the same apartment complex as him. He is quite knowlegdable when it comes to Persocoms, which ends up in Hideki turning to him whenever he needs help with Chii. He has his own Persocom named Sumomo (Plum). He also attends to the same cram school as Hideki. \n\n~!He ends up being involved with his teacher, Takako Shimizu, when he finds her in a park after being locked out by her husband, who was too involved with his own Persocom.!~"
+          }
+        },
+        {
+          "id": 228,
+          "name": "日比谷千岁",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b228-zmbHojxN4XZX.png",
+          "description": "日比谷千岁是秀树所住公寓的房东，平时负责照看住户与公寓事务。秀树带回小叽后，千岁主动帮她准备衣服，也耐心教她使用浴室和适应日常生活。她待人温柔体贴，像可靠的长辈一样关心秀树与小叽；随着故事推进，千岁与公寓住户以及人形电脑事件之间的联系也逐渐显现。",
+          "nicknames": [
+            "日比谷千岁",
+            "Chitose Hibiya",
+            "日比谷千歳",
+            "Hibiya Chitose"
+          ],
+          "traits": [
+            "秀树居住公寓的房东",
+            "管理公寓日常事务",
+            "帮助小叽准备衣物",
+            "教小叽使用浴室",
+            "性格温柔体贴",
+            "像长辈一样照顾住户",
+            "熟悉公寓邻里情况",
+            "关心秀树与小叽的生活",
+            "与人形电脑事件有关联",
+            "保有自己的家庭回忆"
+          ],
+          "voice_actors": [
+            {
+              "name": "井上喜久子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chitose Hibiya",
+            "name_native": "日比谷千歳",
+            "name_alternative": [],
+            "description": "Hibiya is the landlady at the apartment [Hideki](https://anilist.co/character/225/Motosuwa-Hideki) is living in. After Hideki finds [Chii](https://anilist.co/character/227/Chii), Hibiya helps him get clothes for Chii, and even teaches her how to use the baths."
+          }
+        },
+        {
+          "id": 229,
+          "name": "国分寺稔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b229-c8nUwzawCV3f.jpg",
+          "description": "国分寺稔是年仅十二岁的富家少年，对人形电脑技术非常熟悉，还亲手制作了定制电脑柚姬。柚姬的外形和设定与他已故的姐姐相似，稔因此对她十分珍惜。秀树调查小叽的来历时，稔主动提供电脑知识与技术协助；他平时冷静稳重，但柚姬遇到麻烦时会显露出强烈的担忧与保护欲。",
+          "nicknames": [
+            "国分寺稔",
+            "Minoru Kokubunji",
+            "Kokubunji Minoru"
+          ],
+          "traits": [
+            "年仅十二岁的富家少年",
+            "熟悉人形电脑技术",
+            "自行制作定制电脑柚姬",
+            "对小叽的来历感兴趣",
+            "协助秀树调查问题",
+            "平时冷静稳重",
+            "柚姬遇到问题时会慌张",
+            "把柚姬视作重要家人",
+            "拥有丰富的电脑知识",
+            "愿意为朋友提供帮助"
+          ],
+          "voice_actors": [
+            {
+              "name": "桑島法子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95057-zkd7yTPVxfyu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Minoru Kokubunji",
+            "name_native": "国分寺稔",
+            "name_alternative": [],
+            "description": "Minoru is a wealthy twelve year old who specializes in Persocoms, and has built his own custom Persocom named Yuzuki, who is meant to be almost exactly like his late sister. He becomes one of Hideki's closest friends when he becomes interested in Chii's origins, and assists him whenever there's a problem. He is calm and collective most of the time, but this attitude tends to change whenever Yuzuki is around, and is prone to outbursts whenever she is in trouble, much like Hideki when Chii is in trouble. He is also a very forgiving character, always telling Yuzuki that it is not her fault whenever something goes wrong."
+          }
+        },
+        {
+          "id": 230,
+          "name": "琴子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230-ATTtLUW6tmHV.png",
+          "description": "琴子是一台高规格的笔记本型人形电脑，由吉行定制制作，性能高于普通的Sumomo。她性格严肃，常冷静评价秀树家中的混乱状况，也会对Sumomo的活泼举止感到无奈。琴子的程序设定要求她无论何时都说实话，因此经常揭露对吉行不利的信息；小叽被绑架后，秀树接手照顾她，以保留她对事件的记忆。",
+          "nicknames": [
+            "琴子",
+            "Kotoko",
+            "ことこ"
+          ],
+          "traits": [
+            "高规格笔记本型人形电脑",
+            "由吉行定制制作",
+            "拥有严肃冷静的性格",
+            "程序要求她始终说真话",
+            "擅长记录与提供信息",
+            "后由秀树接手照顾",
+            "对Sumomo的活泼感到无奈",
+            "偶尔展现毒舌吐槽",
+            "记得吉行绑架小叽的事件",
+            "行动方式遵循既定程序"
+          ],
+          "voice_actors": [
+            {
+              "name": "ゆかな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95140-sFp0uedEmZ9f.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kotoko",
+            "name_native": "琴子",
+            "name_alternative": [],
+            "description": "Kotoko is another laptop persocom, like Sumomo, but she was custom-built by Yoshiyuki and has much higher specifications than Sumomo.  ~!Kotoko originally belonged to Yoshiyuki, but following Chi's kidnapping, Hideki and Shinbo force Yoshiyuki to transfer ownership of Kotoko to Hideki so that her memories of Yoshiyuki kidnapping Chi cannot be erased.!~  Kotoko is far more serious than Sumomo, and thinks that everyone in the Motosuwa household is crazy, especially Sumomo, although she herself occasionally exhibits a sarcastic wit. Kotoko is programmed to always tell the truth, no matter what, even when it works to Yoshiyuki's disadvantage."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 168374,
+      "anime_title": "反派千金的七周目人生：在前敌国享受自由的新婚生活",
+      "anime_origin": "JP",
+      "source": {
+        "id": 168374,
+        "titles": [
+          "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu Suru",
+          "7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!",
+          "ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する",
+          "ชีวิตลูปที่ 7 ของนางร้าย ขอเป็นเจ้าสาวนอนกลิ้งสบายในแดนอดีตศัตรู",
+          "Седьмая беззаботная жизнь злодейки в браке со злейшим врагом",
+          "LoopNana",
+          "ルプなな",
+          "輪迴七次的惡役千金，在前敵國享受隨心所欲的新婚生活"
+        ],
+        "year": 2024,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/168374"
+      },
+      "characters": [
+        {
+          "id": 312403,
+          "name": "里榭·伊尔姆加德·魏茨纳",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312403-0NwonEnqDhF0.png",
+          "description": "里榭·伊尔姆加德·魏茨纳出身贵族，曾在二十岁时死去，随后一次次回到解除婚约前的时间点。现在是她的第七次人生循环，过去多种身份积累的技能与经验都保留了下来。里榭与加尔克海因皇太子阿诺德订婚，决心不再重复早逝的命运，而是利用所学技能自由地生活。她观察敏锐、行动独立，也努力理解这段婚约背后的政治和个人选择。",
+          "nicknames": [
+            "里榭·伊尔姆加德·魏茨纳",
+            "Rishe Weitzner",
+            "リーシェ・イルムガルド・ヴェルツナー",
+            "Rishe Irmgard Weitzner"
+          ],
+          "traits": [
+            "魏茨纳家族贵族千金",
+            "曾在二十岁时死亡并回到过去",
+            "正在经历第七次人生循环",
+            "每次循环积累不同技能",
+            "与加尔克海因皇太子阿诺德订婚",
+            "擅长适应新身份与环境",
+            "拥有丰富的人生经验",
+            "希望摆脱早逝命运",
+            "行动独立果断",
+            "把婚姻视为新的选择"
+          ],
+          "voice_actors": [
+            {
+              "name": "長谷川育美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n132768-r4FwpBpHnRtZ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Rishe Weitzner",
+            "name_native": "リーシェ・イルムガルド・ヴェルツナー",
+            "name_alternative": [],
+            "description": "Rishe is a noble who dies at the age of 20 and returns to the moment of her broken engagement five years earlier. As a result of her various lives, she has acquired numerous skills and resilience; in this life, her seventh loop, she is engaged to Crown Prince [Arnold](https://anilist.co/character/312404/Arnold-Hein)."
+          }
+        },
+        {
+          "id": 312404,
+          "name": "阿诺德·海因",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b312404-yF6cWJwnqft9.png",
+          "description": "阿诺德·海因是加尔克海因王国的皇太子，也是里榭在第七次人生循环中的未婚夫。在里榭经历过的其他人生里，他曾以不同方式影响她的命运，因此这次婚约并非普通的政治联姻。阿诺德行事强势果断，拥有军事与政治影响力，也善于观察他人的能力与真实意图；里榭的独立和多方面本领让他对这位未婚妻产生兴趣。",
+          "nicknames": [
+            "阿诺德·海因",
+            "Arnold Hein",
+            "アルノルト・ハイン"
+          ],
+          "traits": [
+            "加尔克海因王国皇太子",
+            "海因皇室成员",
+            "里榭的未婚夫",
+            "行事强势果断",
+            "在多次人生循环中与里榭相遇",
+            "拥有军事与政治影响力",
+            "善于评估他人能力",
+            "对里榭的选择感兴趣",
+            "承担王储职责",
+            "婚约牵动两国关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "島﨑信長",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Arnold Hein",
+            "name_native": "アルノルト・ハイン",
+            "name_alternative": [],
+            "description": "The crown prince of Galkhein."
+          }
+        },
+        {
+          "id": 317216,
+          "name": "西奥多·奥古斯特·海因",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317216-z5RZvynB5Qgs.png",
+          "description": "西奥多·奥古斯特·海因是加尔克海因王国第二王子，也是皇太子阿诺德的弟弟。身处王室继承关系之中，他既关注兄长的婚约，也会主动参与宫廷事务并表达自己的判断。西奥多拥有贵族教育背景，观察敏锐，不甘心只作为旁观者；当里榭进入海因皇室的生活后，他与她的互动也逐渐影响兄弟之间原有的权力平衡。",
+          "nicknames": [
+            "西奥多·奥古斯特·海因",
+            "Theodore Hein",
+            "テオドール・オーギュスト・ハイン"
+          ],
+          "traits": [
+            "加尔克海因第二王子",
+            "阿诺德的弟弟",
+            "海因皇室成员",
+            "处在王位继承关系中",
+            "关注兄长与里榭的婚约",
+            "具有贵族教育背景",
+            "会主动介入宫廷事务",
+            "观察力敏锐",
+            "有自己的政治判断",
+            "在兄弟关系中承担竞争压力"
+          ],
+          "voice_actors": [
+            {
+              "name": "伊瀬茉莉也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95655-cR519BXmteKA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Theodore Hein",
+            "name_native": "テオドール・オーギュスト・ハイン",
+            "name_alternative": [],
+            "description": "Arnold's younger brother and the second prince of Galkhein."
+          }
+        },
+        {
+          "id": 317217,
+          "name": "奥利弗·劳伦茨·弗里德海姆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317217-qdJ8jE1Wulzm.png",
+          "description": "奥利弗·劳伦茨·弗里德海姆原本希望成为骑士，却因受伤失去继续从军的机会，后来被阿诺德收留，成为皇太子的侍从。他长期跟随阿诺德，熟悉王宫礼仪、日程和事务处理，也了解主君的习惯。奥利弗办事认真可靠，虽然无法走上原本期望的骑士道路，仍凭借忠诚和判断力成为阿诺德身边重要的亲信。",
+          "nicknames": [
+            "奥利弗·劳伦茨·弗里德海姆",
+            "Oliver Friedheim",
+            "オリヴァー・ラウレンツ・フリートハイム"
+          ],
+          "traits": [
+            "阿诺德的侍从",
+            "曾因伤无法继续成为骑士",
+            "被阿诺德收留",
+            "长期跟随皇太子工作",
+            "熟悉王宫礼仪与事务",
+            "办事认真可靠",
+            "了解阿诺德的习惯",
+            "在王室成员间传递消息",
+            "具有骑士训练背景",
+            "是皇太子身边的亲信"
+          ],
+          "voice_actors": [
+            {
+              "name": "土岐隼一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123971-tp8zQxlKuhfZ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Oliver Friedheim",
+            "name_native": "オリヴァー・ラウレンツ・フリートハイム",
+            "name_alternative": [],
+            "description": "He was cut off from being a knight due to an injury and was picked up by Arnold. He has served as Arnold's squire ever since."
+          }
+        },
+        {
+          "id": 323312,
+          "name": "凯因·塔利",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323312-ENOMdJjuGRpI.png",
+          "description": "凯因·塔利是阿里亚商会会长，熟悉商品交易、市场行情和跨地区贸易。他拥有广泛的商业人脉，善于谈判并重视商会利益，因此在物资流通和商业计划中拥有重要话语权。里榭希望以自己的经历推动新的生活安排时，凯因所掌握的贸易资源成为可利用的力量；他务实精明，会仔细衡量每项合作带来的成本与收益。",
+          "nicknames": [
+            "凯因·塔利",
+            "Kaine Tully",
+            "ケイン・タリー"
+          ],
+          "traits": [
+            "阿里亚商会会长",
+            "经营跨地区贸易业务",
+            "熟悉商品与市场行情",
+            "拥有广泛商业人脉",
+            "善于谈判与交易",
+            "重视商会利益",
+            "与里榭的计划发生交集",
+            "能影响物资流通",
+            "处事务实精明",
+            "在商业领域拥有话语权"
+          ],
+          "voice_actors": [
+            {
+              "name": "立花慎之介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95792-5413Ip70mSdV.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kaine Tully",
+            "name_native": "ケイン・タリー",
+            "name_alternative": [],
+            "description": "The chief of Aria Trading Company."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 155963,
+      "anime_title": "北海道辣妹贼拉可爱",
+      "anime_origin": "JP",
+      "source": {
+        "id": 155963,
+        "titles": [
+          "Dosanko Gal wa Namara Menkoi",
+          "Hokkaido Gals Are Super Adorable!",
+          "道産子ギャルはなまらめんこい",
+          "Dosanko Gyaru Is Mega Cute",
+          "Dosanko Gyaru wa Namaramenkoi",
+          "สาวแกลเมืองเหนือน่าฮักขนาด",
+          "Dosakoi",
+          "どさこい",
+          "Девчонки с Хоккайдо просто чума!",
+          "غارو هوكّاديو ظريفات جدّاً"
+        ],
+        "year": 2024,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/155963"
+      },
+      "characters": [
+        {
+          "id": 142801,
+          "name": "冬木美波",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142801-OqKiluEFDfJp.png",
+          "description": "冬木美波是北见北陵高中的学生，也是刚从东京搬到北海道的四季翼的同班同学。她追随辣妹文化，染着金发，冬天也会穿短裙，还为了使用手机而不戴手套。美波性格健谈热情，喜欢逗翼害羞，对他逐渐产生好感；她熟悉当地气候和生活习惯，也常带翼体验北海道的风景、食物与方言。",
+          "nicknames": [
+            "冬木美波",
+            "Minami Fuyuki",
+            "Fuyuki Minami"
+          ],
+          "traits": [
+            "北见北陵高中学生",
+            "翼的同班同学",
+            "当地人气辣妹",
+            "金发造型",
+            "冬天也穿短裙",
+            "不戴手套方便使用手机",
+            "性格健谈热情",
+            "喜欢逗弄翼",
+            "对翼抱有好感",
+            "熟悉北海道方言与生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐倉綾音",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Minami Fuyuki",
+            "name_native": "冬木美波",
+            "name_alternative": [],
+            "description": "__Height:__ 160 cm (5'3'')\n\n[Tsubasa](https://anilist.co/character/142802/Shiki-Tsubasa)'s 16-year-old classmate at Kitami Hokuryo High School, who is popular and talkative. She follows the gal subculture; dyeing her hair blonde, wearing short skirts in winter, and refusing to wear gloves in the winter so that she can still use her phone. She seems to have a crush on Tsubasa and enjoys flirting with him to make him embarrassed and flustered.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 142802,
+          "name": "四季翼",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b142802-Enti0ea1Q8Tg.png",
+          "description": "四季翼原本住在东京，搬到北海道北见后进入北见北陵高中就读。他对当地寒冷天气很不适应，常因低温手足无措，说话时也会不经思考地把心里话直接讲出来。翼在学校结识冬木美波和秋野沙友理，逐渐熟悉北海道的生活方式，并在与同学相处的过程中建立友情、萌生恋爱心情，也重新看待自己原本平淡的日常。",
+          "nicknames": [
+            "四季翼",
+            "Tsubasa Shiki",
+            "Shiki Tsubasa"
+          ],
+          "traits": [
+            "从东京搬到北见的高中生",
+            "就读北见北陵高中",
+            "美波与沙友理的同学",
+            "来自较温暖的城市",
+            "非常不耐寒",
+            "有时会不经思考说出心声",
+            "起初对北海道生活陌生",
+            "逐渐结交当地朋友",
+            "喜欢观察美波的日常",
+            "在校园恋爱中逐步成长"
+          ],
+          "voice_actors": [
+            {
+              "name": "倉持若菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n224605-hnWbaMungUK8.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "島﨑信長",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Tsubasa Shiki",
+            "name_native": "四季翼",
+            "name_alternative": [],
+            "description": "__Height:__ 179cm (5'10'')\n\nHe is a city boy who is quite a fool. He speaks his mind at times when he'd rather not let those thoughts slip out. He is very weak to the cold."
+          }
+        },
+        {
+          "id": 148966,
+          "name": "秋野沙友理",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148966-8ZRwipHnB7Kl.png",
+          "description": "秋野沙友理是翼和美波的同班同学，留着乌黑长发，性格内向，不像美波那样使用北海道方言。她热爱电子游戏，也会阅读时尚与化妆杂志来打理外表。沙友理过去因为容易出汗而回避运动，后来也渐渐减少与人交往；她从翼身上感到亲近，开始与他和美波成为朋友，慢慢走出孤独。",
+          "nicknames": [
+            "秋野沙友理",
+            "Sayuri Akino",
+            "Sayurin",
+            "Akino Sayuri"
+          ],
+          "traits": [
+            "翼与美波的同班同学",
+            "留有乌黑长发",
+            "性格内向克制",
+            "不使用北海道方言",
+            "热爱电子游戏",
+            "关注穿搭与化妆",
+            "曾因怕出汗回避运动",
+            "一度缺少朋友",
+            "因翼而开始交友",
+            "与美波逐渐建立友谊"
+          ],
+          "voice_actors": [
+            {
+              "name": "花守ゆみり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116543-ugu1HZWiQkqi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sayuri Akino",
+            "name_native": "秋野沙友理",
+            "name_alternative": [
+              "Sayurin"
+            ],
+            "description": "__Height:__ 157 cm (5'1\")\n\nTsubasa and Minami's classmate who, with her raven-hair, reserved personality and choice not to use the Hokkaido dialect, is the exact opposite of Minami. She is very into video games, but pays attention to her appearance; reading fashion and make-up magazines in order to fit in. Because she sweats a lot, Sayuri avoided all forms of exercise, which eventually found her avoiding people in general. Because she has no friends, Sayuri felt a kinship with Tsubasa, and she becomes friends with him and Minami."
+          }
+        },
+        {
+          "id": 207989,
+          "name": "夏川怜奈",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207989-NncMS5UmEbOn.jpg",
+          "description": "夏川怜奈是比翼高一年级的学姐，也是一名受美波尊敬的辣妹。她在学习方面很有才能，却常显得胆怯和缺乏自信，难以相信自己的能力。怜奈外表时尚，和美波有共同的兴趣，也会在校园生活中与翼等学弟学妹交流。她逐渐尝试正视内心的不安，在他人的鼓励下展现出更积极的一面。",
+          "nicknames": [
+            "夏川怜奈",
+            "Rena Natsukawa",
+            "Natsukawa Rena"
+          ],
+          "traits": [
+            "比翼高一年级的学姐",
+            "同样追随辣妹文化",
+            "受到美波尊敬",
+            "学习能力出众",
+            "性格胆怯缺乏自信",
+            "容易低估自身才能",
+            "与翼在学校相识",
+            "注意学弟学妹的评价",
+            "外表时尚",
+            "逐渐面对自己的不安"
+          ],
+          "voice_actors": [
+            {
+              "name": "上田麗奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118602-C4bNcnyEhDTu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Rena Natsukawa",
+            "name_native": "夏川怜奈",
+            "name_alternative": [],
+            "description": "__Height:__ 150cm (4'11\")\n\n[Tsubasa Shiki's](https://anilist.co/character/142802/Shiki-Tsubasa) senpai or upperclassman one grade above him. \n\nShe is a gal like [Fuyuki](https://anilist.co/character/142801/Fuyuki-Minami), who respects her a lot. She is really timid and insecure, even though she's considered really talented, especially at studying."
+          }
+        },
+        {
+          "id": 220835,
+          "name": "飞鸟",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b220835-18iod5nhUl3y.jpg",
+          "description": "飞鸟是沙友理的青梅竹马，比她低一年级，也是学校游泳队成员。她运动能力出色，留着短发，肤色较深，做事直率可靠。飞鸟很关心沙友理，会主动支持好友面对对翼的恋爱情绪，也愿意陪她参加校园活动。她的开朗行动力与沙友理的内向形成互补，让两人的友情在学校生活中逐渐恢复亲密。",
+          "nicknames": [
+            "飞鸟",
+            "Asuka",
+            "飛鳥"
+          ],
+          "traits": [
+            "沙友理的青梅竹马",
+            "比沙友理低一年级",
+            "校游泳队成员",
+            "运动能力出色",
+            "留着短发",
+            "肤色较深",
+            "主动支持沙友理",
+            "鼓励好友表达恋爱心情",
+            "性格直率可靠",
+            "与翼和美波有校园交集"
+          ],
+          "voice_actors": [
+            {
+              "name": "永井真里子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121992-Go8P8MXHvK2J.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Asuka",
+            "name_native": "飛鳥",
+            "name_alternative": [],
+            "description": "Sayuri's childhood friend and underclassman one grade below her. A member of the swim team, she is athletic and has short hair and a dark complexion. Asuka tries to support Sayuri and her romantic feelings for Tsubasa as much as she can.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 220836,
+          "name": "日菜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b220836-tt4WcUGQqGD9.png",
+          "description": "日菜是飞鸟的朋友与同班同学，自称是冬木美波最大的粉丝。她留着长发，戴着大框眼镜，曾与美波读同一所中学，因为美波像自己喜欢的虚构角色而对她十分着迷。日菜会在网上关注美波，也热衷搜集与她有关的消息，包括她和翼的互动。她的执着和热心为校园恋爱喜剧增添了旁观者视角。",
+          "nicknames": [
+            "日菜",
+            "Hina"
+          ],
+          "traits": [
+            "飞鸟的朋友与同班同学",
+            "自称美波最大的粉丝",
+            "留着长发",
+            "戴大框眼镜",
+            "曾与美波读同一所中学",
+            "喜欢研究美波相关消息",
+            "关注翼与美波的互动",
+            "记忆力与搜集能力强",
+            "性格热心执着",
+            "以旁观者视角加入校园日常"
+          ],
+          "voice_actors": [
+            {
+              "name": "久保ユリカ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112209-6rgze0vZlnG6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hina",
+            "name_native": "日菜",
+            "name_alternative": [],
+            "description": "Asuka's friend and classmate who calls herself Minami's biggest fan. She has long hair and wears big glasses. Having gone to the same middle school as Minami, she is obsessed with her as she resembles her favorite fictional character. Hina follows Minami on the internet and thoroughly researches everything around her, including Tsubasa.\n\n(Source: Wikipedia)"
+          }
+        }
+      ]
+    }
+  ]
+}

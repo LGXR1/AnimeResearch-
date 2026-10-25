@@ -1,0 +1,1287 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T14:06:24.465Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 160090,
+      "anime_title": "怪异与少女与神隐",
+      "anime_origin": "JP",
+      "source": {
+        "id": 160090,
+        "titles": [
+          "Kaii to Otome to Kamikakushi",
+          "Mysterious Disappearances",
+          "怪異と乙女と神隠し",
+          "Mysteries, Maidens, And Mysterious Disappearances",
+          "Totokami",
+          "เรื่องพิศวง เด็กสาว และเทพลักซ่อน"
+        ],
+        "year": 2024,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/160090"
+      },
+      "characters": [
+        {
+          "id": 296535,
+          "name": "小川堇子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b296535-DDS7v15An6Xn.png",
+          "description": "小川堇子是一名立志成为小说家的女性，对神秘学和怪异现象抱有浓厚兴趣。她十五岁时写出获奖小说，原本受到文坛关注，却在此后很长一段时间难以继续创作，如今在书店工作。堇子在书店遇见神秘少年化野莲后，开始接触身边不断发生的怪异事件。她既想重新找回写作灵感，也逐渐被卷入关于失踪、异界和都市传闻的谜团。",
+          "nicknames": [
+            "小川堇子",
+            "Sumireko Ogawa",
+            "緒川菫子",
+            "Danchi Zuma (団地妻)",
+            "堇子"
+          ],
+          "traits": [
+            "立志成为小说家",
+            "对神秘学和怪异现象感兴趣",
+            "十五岁时曾写出获奖小说",
+            "获奖后创作一度陷入瓶颈",
+            "目前在书店工作",
+            "与化野莲在同一家店任职",
+            "主动调查身边怪异事件",
+            "由菲鲁兹·蓝配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "ファイルーズあい",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n133625-YpEgKD7flV2S.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sumireko Ogawa",
+            "name_native": "緒川菫子",
+            "name_alternative": [
+              "Danchi Zuma (団地妻)"
+            ],
+            "description": "An aspiring novelist with an interest in the occult. She wrote an award winning novel at age 15, but struggled to write after that point and now works at a bookstore."
+          }
+        },
+        {
+          "id": 309910,
+          "name": "化野莲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309910-Ro9klGapuqnV.png",
+          "description": "化野莲是一名在书店工作的神秘少年，与小说家小川堇子成为同事后，自称是她的粉丝，并期待她写出新作品。莲对周围发生的怪异现象拥有异常丰富的知识，能够辨认普通人难以理解的征兆，也常带着堇子进入事件现场。他与妹妹化野乙共同处理异界相关问题，真实身份和目的则随着每个案件逐步显露。",
+          "nicknames": [
+            "化野莲",
+            "Ren Adashino",
+            "化野蓮",
+            "莲"
+          ],
+          "traits": [
+            "神秘的少年",
+            "在书店与小川堇子共事",
+            "自称是堇子的粉丝",
+            "期待堇子创作新作品",
+            "对周围怪异现象了解颇多",
+            "拥有调查异常事件的能力",
+            "与妹妹化野乙共同活动",
+            "知道通往异界的途径"
+          ],
+          "voice_actors": [
+            {
+              "name": "山下大輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116971-KDHjlYPO4HrS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ren Adashino",
+            "name_native": "化野蓮",
+            "name_alternative": [],
+            "description": "A mysterious boy who works at the same bookstore as [Sumireko.](https://anilist.co/character/296535/Sumireko-Ogawa) He calls himself her fan and anticipates her new work. However, he also has a strange knowledge of mysterious phenomena happening around them."
+          }
+        },
+        {
+          "id": 323828,
+          "name": "化野乙",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323828-83Vc3oXMKFex.png",
+          "description": "化野乙是化野莲的妹妹，目前就读于女子学校。她起初不太信任哥哥的同事小川堇子，对突然进入自己生活的成年人保持戒心；不过在相处过程中，乙也逐渐与堇子建立联系。她很喜欢甜食，平时会和同学天地和等人来往。乙与莲共同面对怪异事件，兄妹之间的互动也让案件调查和日常校园生活交错展开。",
+          "nicknames": [
+            "化野乙",
+            "Oto Adashino",
+            "乙"
+          ],
+          "traits": [
+            "化野莲的妹妹",
+            "就读于女子学校",
+            "起初不信任小川堇子",
+            "很喜欢甜食",
+            "参与哥哥处理的怪异事件",
+            "与天地和等同学交往",
+            "对陌生人保持戒心",
+            "由幸村惠理配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "幸村恵理",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n130279-GEfikpdWucji.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Oto Adashino",
+            "name_native": "化野乙",
+            "name_alternative": [],
+            "description": "[Ren's](https://anilist.co/character/309910/Ren-Adashino) younger sister who attends an all girls' school. She is initially distrustful of [Sumireko](https://anilist.co/character/296535/Sumireko-Ogawa) and is weak to sweets."
+          }
+        },
+        {
+          "id": 323829,
+          "name": "畦目真奈美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b323829-LUFAyf1ZDZEx.png",
+          "description": "畦目真奈美是女子学校教师，十分留意校园中可能出现的欺凌问题。她关心学生之间的相处，也会鼓励学生追求各自的梦想，即使现实中遇到困难仍不轻易否定她们。真奈美在学校与化野乙等学生产生联系，能够及时察觉不寻常的变化。她以老师身份参与校园案件线，展现怪异事件如何影响学生的日常与自我认同。",
+          "nicknames": [
+            "畦目真奈美",
+            "Manami Uname",
+            "真奈美老师"
+          ],
+          "traits": [
+            "女子学校的教师",
+            "留意校园中的欺凌苗头",
+            "重视学生之间的相处",
+            "努力鼓励学生追求梦想",
+            "关注学生心理状态",
+            "与化野乙在校内相识",
+            "在校务中承担引导职责",
+            "由堀江由衣配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "堀江由衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95028-MHT1m3E5wGZx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Manami Uname",
+            "name_native": "畦目真奈美",
+            "name_alternative": [],
+            "description": "Manami is a teacher at an all girls' school who is sensitive to potential bullying. However, she does her best to encourage her students' dreams."
+          }
+        },
+        {
+          "id": 328513,
+          "name": "约翰·多伊",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328513-DHTUpM6oBdo8.png",
+          "description": "约翰·多伊是化野兄妹的协作者，居住在另一个维度，能够接触在异界中迷失的人并帮助他们。他熟悉不同空间之间的联系，也因此掌握一些普通人无法取得的怪异情报。莲和乙在处理异常事件时会与他合作，借助他的知识寻找失踪者或返回现实的方法。约翰的真实身份带有谜团，是连接现实城市与异界空间的重要角色。",
+          "nicknames": [
+            "约翰·多伊",
+            "John Doe",
+            "Jikuu no Ossan (時空のおっさん)",
+            "ジョン・ドゥ",
+            "不明先生"
+          ],
+          "traits": [
+            "化野兄妹的协作者",
+            "居住在另一个维度",
+            "会帮助迷失的人",
+            "熟悉通往异界的路径",
+            "与怪异事件相关联",
+            "能在不同空间之间活动",
+            "向莲和乙提供协助",
+            "由内田夕夜配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "内田夕夜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96637-GOQaib9J8Mu6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "John Doe",
+            "name_native": "",
+            "name_alternative": [
+              "Jikuu no Ossan (時空のおっさん)"
+            ],
+            "description": "Collaborator of the Adashino siblings. He lives in another dimension, helping people who are lost."
+          }
+        },
+        {
+          "id": 328514,
+          "name": "雫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328514-WF5GY7jMjBzz.png",
+          "description": "雫因家庭问题从乡下搬到城市生活，并在一家女仆咖啡厅工作。她来到城市的另一个重要原因，是寻找失踪已一年的朋友智子。为追查友人的下落，雫不断打听线索，也逐渐接触到与都市怪异相关的异常现象。她的执着让小川堇子和化野莲介入调查，使这起失踪案件成为主线人物了解异界规则的重要契机。",
+          "nicknames": [
+            "雫",
+            "Shizuku",
+            "シズク",
+            "静"
+          ],
+          "traits": [
+            "从乡下搬到城市生活",
+            "在女仆咖啡厅工作",
+            "因家庭问题离开原居地",
+            "正在寻找失踪一年的朋友智子",
+            "持续追查友人下落",
+            "与都市怪异事件产生联系",
+            "需要小川堇子等人协助",
+            "由高桥李依配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "高橋李依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shizuku",
+            "name_native": "シズク",
+            "name_alternative": [],
+            "description": "Moved to the city from the countryside due to family issues and works in a maid cafe. She is looking for her friend Tomoko, who went missing a year ago."
+          }
+        },
+        {
+          "id": 328515,
+          "name": "天地和",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b328515-3OgTDrkC1eHA.png",
+          "description": "天地和是化野乙的朋友，家族经营医院，但她自己怀有成为偶像的梦想。与医学世家的安排相比，和更想站上舞台，通过表演与歌声获得认可。她在女子学校与乙相识，并与同学们分享自己的目标。和的梦想使她面对家庭期待与个人选择之间的拉扯，也让乙一行人接触到另一种围绕愿望与身份展开的怪异事件。",
+          "nicknames": [
+            "天地和",
+            "Nodoka Ametsuchi",
+            "天地のどか",
+            "和"
+          ],
+          "traits": [
+            "化野乙的朋友",
+            "与乙在女子学校相识",
+            "家族经营医院",
+            "梦想成为偶像",
+            "在学业之外练习表演",
+            "与同伴分享偶像梦想",
+            "接触校园中的异常事件",
+            "由会泽纱弥配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "会沢紗弥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129326-LGj20gEbOAPX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nodoka Ametsuchi",
+            "name_native": "天地のどか",
+            "name_alternative": [],
+            "description": "[Oto's](https://anilist.co/character/323828/Oto-Adashino) friend. Her family runs a hospital but she dreams of being an idol."
+          }
+        },
+        {
+          "id": 331128,
+          "name": "姬鱼夜梦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331128-9TRQlihLkZ5d.png",
+          "description": "姬鱼夜梦是一名以人鱼为形象的虚拟主播，拥有约八十万名关注者。她把粉丝称作“小虾米”，会在直播中回答观众提出的烦恼，希望通过建议给大家打气。网络人气让她成为公众人物，也使她的直播活动成为怪异事件关注的焦点。小川堇子和化野莲调查相关现象时，逐渐发现虚拟形象背后仍有真实的愿望与困扰。",
+          "nicknames": [
+            "姬鱼夜梦",
+            "Yorumun Himeuo",
+            "姫魚よるむん",
+            "夜梦"
+          ],
+          "traits": [
+            "人鱼题材的虚拟主播",
+            "拥有八十万名关注者",
+            "称粉丝为“小虾米”",
+            "会在直播中回答观众烦恼",
+            "尝试用建议鼓励粉丝",
+            "通过网络平台与观众互动",
+            "其直播活动卷入怪异事件",
+            "由大空直美配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "大空直美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117329-b0JyOtyttcJI.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yorumun Himeuo",
+            "name_native": "姫魚よるむん",
+            "name_alternative": [],
+            "description": "A mermaid VTuber with 800,000 followers. She calls her fans Small Fries (Zako) and tries to cheer them up by giving them advice on stream."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 101249,
+      "anime_title": "企鹅公路",
+      "anime_origin": "JP",
+      "source": {
+        "id": 101249,
+        "titles": [
+          "Penguin Highway",
+          "ペンギン・ハイウェイ",
+          "Le Mystère des Pingouins"
+        ],
+        "year": 2018,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/101249"
+      },
+      "characters": [
+        {
+          "id": 136996,
+          "name": "大姐姐",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136996-NCtsx8zPzDIy.jpg",
+          "description": "大姐姐是在牙科诊所工作的年轻女性，也会指导小学生青山学习国际象棋。她对自己的父母和海边成长经历保有记忆，却与突然出现的企鹅和神秘球体有着难以解释的联系。青山对她抱有好感，并把她视为值得研究的重要对象。随着他追查小镇异象，大姐姐的身份逐渐显露出超出现实常识的一面，成为企鹅公路谜团的中心。",
+          "nicknames": [
+            "大姐姐",
+            "Onee-san",
+            "お姉さん",
+            "Lady",
+            "牙科诊所的大姐姐"
+          ],
+          "traits": [
+            "在牙科诊所工作",
+            "指导青山学习国际象棋",
+            "拥有海岸生活的童年记忆",
+            "与神秘球体世界有关",
+            "身份并非普通人类",
+            "是青山仰慕的对象",
+            "与企鹅出现之谜相连",
+            "在故事中引导青山探索未知"
+          ],
+          "voice_actors": [
+            {
+              "name": "蒼井優",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96011-WkaSyWh0Pbhg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Onee-san",
+            "name_native": "お姉さん",
+            "name_alternative": [
+              "Lady"
+            ],
+            "description": "A mysterious woman who works at the dental office and also coaches Aoyama in chess. She has memories of her parents and growing up by the coast. ~!It is revealed she is from the world of the sphere.!~"
+          }
+        },
+        {
+          "id": 136997,
+          "name": "青山",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136997-uoItIbpMU181.jpg",
+          "description": "青山是一名早熟的小学生，习惯把新学到的知识记录在笔记本中，并以研究者的态度观察周遭事物。他暗恋在牙科诊所工作的“大姐姐”，也对成年人的身体抱有直白好奇。青山从未见过海洋，却发现企鹅不断出现在远离海岸的小镇，于是开始追查这一现象。他通过记录、实验和与同伴讨论逐步接近答案，同时也经历关于成长和未知世界的夏日冒险。",
+          "nicknames": [
+            "青山",
+            "Aoyama",
+            "アオヤマ君",
+            "Young Man",
+            "青山君"
+          ],
+          "traits": [
+            "年纪早熟的小学生",
+            "习惯把学到的知识写进笔记本",
+            "暗恋牙科诊所的大姐姐",
+            "对女性身体有强烈好奇",
+            "从未见过真正的海洋",
+            "持续观察小镇企鹅出现现象",
+            "擅长记录和提出问题",
+            "把调查当作严肃研究"
+          ],
+          "voice_actors": [
+            {
+              "name": "北香那",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n136999-xFgPTXvwAkRt.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Aoyama",
+            "name_native": "アオヤマ君",
+            "name_alternative": [
+              "Young Man"
+            ],
+            "description": "A precocious boy who keeps a notebook of things he learns. He has a crush on the Lady and a fascination with breasts. He has never seen the ocean."
+          }
+        },
+        {
+          "id": 136998,
+          "name": "内田",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136998-mIvq1MfBPsbo.jpg",
+          "description": "内田是青山的朋友，性格比较腼腆，平时不太擅长直接表达意见，也会在学校遭到铃木欺负。青山开始调查企鹅出现在小镇的异常现象后，内田参与到同伴的小组行动中，和大家一起观察身边变化。他需要一边面对校园里的压力，一边协助朋友追查谜团。内田的加入让调查不只是青山个人的研究，也呈现了少年伙伴之间互相支持的过程。",
+          "nicknames": [
+            "内田",
+            "Uchida",
+            "ウチダ君",
+            "内田君"
+          ],
+          "traits": [
+            "青山的朋友",
+            "性格腼腆害羞",
+            "在学校里遭到铃木欺负",
+            "参与企鹅出现现象的调查",
+            "和青山共同观察小镇变化",
+            "需要克服面对欺凌的压力",
+            "由钉宫理惠配音",
+            "是少年小组中的重要伙伴"
+          ],
+          "voice_actors": [
+            {
+              "name": "釘宮理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Uchida",
+            "name_native": "ウチダ君",
+            "name_alternative": [],
+            "description": "A shy boy who is friends with Aoyama. He is bullied by Suzuki."
+          }
+        },
+        {
+          "id": 140968,
+          "name": "铃木",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140968-bsfT1LNtYUCM.jpg",
+          "description": "铃木是青山的同班同学，平时会欺负内田，同时对滨本抱有好感。他与青山处于同一个校园圈子，却在面对同学时表现出更强势的一面。随着企鹅和球体现象成为镇上的焦点，校园生活也被这些异常事件打断。铃木的行为为内田带来压力，也让少年之间的关系不再只有共同调查时的合作，而需要正视欺凌和善意选择的问题。",
+          "nicknames": [
+            "铃木",
+            "Suzuki",
+            "スズキ"
+          ],
+          "traits": [
+            "青山的同班同学",
+            "在学校欺负内田",
+            "对滨本抱有好感",
+            "与青山处于同一校园圈子",
+            "参与同学间的日常冲突",
+            "需要面对自身言行造成的影响",
+            "是夏日调查小组之外的同学",
+            "由福井美树配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "福井美樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102955-baPVpeJisqqp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Suzuki",
+            "name_native": "スズキ",
+            "name_alternative": [],
+            "description": "A classmate of Aoyama's and a bully. He has a crush on Hamamoto."
+          }
+        },
+        {
+          "id": 140969,
+          "name": "滨本",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140969-8PpEZb5N0BoP.png",
+          "description": "滨本是一名聪明的女学生，对青山抱有好感，也会因他过分关注牙科诊所的大姐姐而感到嫉妒。她参与青山发起的夏日调查，与同伴一起观察企鹅和球体出现的异常情况。滨本既有认真分析的一面，也需要面对年少感情带来的不安。她的加入为研究小组提供了另一双观察的眼睛，让青山在追求答案的过程中学会理解同伴的心情。",
+          "nicknames": [
+            "滨本",
+            "Hamamoto",
+            "ハマモト"
+          ],
+          "traits": [
+            "聪明的女学生",
+            "对青山抱有好感",
+            "会嫉妒青山关注大姐姐",
+            "参与同伴的夏日调查",
+            "与青山分享研究和观察",
+            "和铃木存在校园关系",
+            "在调查中保持理性",
+            "由潘惠美配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "潘めぐみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hamamoto",
+            "name_native": "ハマモト",
+            "name_alternative": [],
+            "description": "An intelligent girl who has a crush on Aoyama. She is jealous of the Lady."
+          }
+        },
+        {
+          "id": 190539,
+          "name": "滨本的父亲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190539-f1Mb0ZqFIw5H.jpg",
+          "description": "滨本的父亲是一名气象研究人员，也是滨本的父亲。他读到女儿关于神秘球体的记录后，对球体现象产生兴趣，开始从气象和科学角度进行调查。成年研究者的介入让青山等人的发现获得另一种解释路径，也进一步确认小镇异常并非普通错觉。滨本父亲在科学知识与孩子的直观观察之间搭起联系，为企鹅与球体之谜提供了成人视角。",
+          "nicknames": [
+            "滨本的父亲",
+            "Hanamoto no Otou-san",
+            "ハマモトさんのお父さん",
+            "Hanamoto's father",
+            "滨本先生"
+          ],
+          "traits": [
+            "气象研究人员",
+            "是滨本的父亲",
+            "对神秘球体现象感兴趣",
+            "阅读女儿的调查记录后开始研究",
+            "从科学角度观察异常事件",
+            "参与小镇球体的调查",
+            "由竹中直人配音",
+            "为青少年的发现提供成人视角"
+          ],
+          "voice_actors": [
+            {
+              "name": "竹中直人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103631-OL6vuS65q6Sv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hanamoto no Otou-san",
+            "name_native": "ハマモトさんのお父さん",
+            "name_alternative": [
+              "Hanamoto's father"
+            ],
+            "description": "A meteorological researcher who has an interest in the sphere after reading his daughter's journal."
+          }
+        },
+        {
+          "id": 232343,
+          "name": "青山的妹妹",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232343-xKA3KFsbN3tZ.png",
+          "description": "青山的妹妹是青山家的年幼孩子，与哥哥共同生活，出现在他日常的家庭环境中。青山习惯把发现写进笔记并认真研究，妹妹则从身边视角见证哥哥忙于企鹅和球体现象的调查。她的角色补充了青山在同学圈之外的家庭生活，也让观众看到这个早熟少年仍然是家中的哥哥。公开资料对她的个人经历描述有限，因此介绍集中于家庭身份与故事中的位置。",
+          "nicknames": [
+            "青山的妹妹",
+            "Aoyama no Imouto",
+            "アオヤマ君の妹",
+            "Aoyamas' sister",
+            "妹妹"
+          ],
+          "traits": [
+            "青山的年幼妹妹",
+            "与青山共同生活",
+            "出现在青山的家庭生活中",
+            "会接触哥哥的日常观察记录",
+            "是青山家庭成员",
+            "由久野美咲配音",
+            "在故事中补充家庭场景",
+            "与小镇夏日生活相连"
+          ],
+          "voice_actors": [
+            {
+              "name": "久野美咲",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106641-zsyRkJ74NXvE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aoyama no Imouto",
+            "name_native": "アオヤマ君の妹",
+            "name_alternative": [
+              "Aoyamas' sister"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 232344,
+          "name": "青山的父亲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232344-aLbyyXw6ZLbV.png",
+          "description": "青山的父亲外表端正沉稳，是青山和妹妹的父亲。他因工作需要经常前往海外出差，因此并非总能陪伴孩子，但仍会在家庭生活中与青山互动。青山的父亲面对儿子把企鹅和球体当作研究课题的态度，为故事提供成年人观察孩子好奇心的视角。父子之间的交流也表现出青山虽然早熟，仍需要在家庭关系中成长。",
+          "nicknames": [
+            "青山的父亲",
+            "Aoyama no Otou-san",
+            "アオヤマ君のお父さん",
+            "Aoyama's father",
+            "青山先生"
+          ],
+          "traits": [
+            "青山的父亲",
+            "外表端正沉稳",
+            "因工作经常出国旅行",
+            "是青山家庭成员",
+            "与青山讨论家庭日常",
+            "为儿子的研究提供成人视角",
+            "由西岛秀俊配音",
+            "在故事中展现父子互动"
+          ],
+          "voice_actors": [
+            {
+              "name": "西島秀俊",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n195968-HGmd4odYSdee.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aoyama no Otou-san",
+            "name_native": "アオヤマ君のお父さん",
+            "name_alternative": [
+              "Aoyama's father"
+            ],
+            "description": "A well-posed man. He leaves for international work trips."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 20638,
+      "anime_title": "六叠间的侵略者！？",
+      "anime_origin": "JP",
+      "source": {
+        "id": 20638,
+        "titles": [
+          "Rokujouma no Shinryakusha!?",
+          "Invaders of the Rokujoma!?",
+          "六畳間の侵略者!?",
+          "ห้องเช่าป่วนก๊วนคนแปลก"
+        ],
+        "year": 2014,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/20638"
+      },
+      "characters": [
+        {
+          "id": 88073,
+          "name": "里见孝太郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88073-91StkXT0JZSF.jpg",
+          "description": "里见孝太郎是高中生，搬进可乐娜庄106号室后，发现这间房月租仅五千日元，便决心无论如何都要住下去。没想到幽灵、魔法少女、地底人和外星公主接连出现，都想夺走这间房。孝太郎在考古工地发生事故后获得看见幽灵和使用古代遗物的能力，逐渐被卷入更大的冲突。他与各路侵略者从争夺房间发展到共同应对危机。",
+          "nicknames": [
+            "里见孝太郎",
+            "Koutarou Satomi",
+            "里見孝太朗",
+            "孝太郎"
+          ],
+          "traits": [
+            "高中生",
+            "搬进可乐娜庄106号室",
+            "月租仅五千日元",
+            "决心保住房间不被夺走",
+            "在考古工地事故后能看见幽灵",
+            "获得使用古代遗物的能力",
+            "同时面对多方房间争夺者",
+            "与106号室住客共同生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "中村悠一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Koutarou Satomi",
+            "name_native": "里見孝太朗",
+            "name_alternative": [],
+            "description": "A high school boy who moves to room 106 and intends to keep it at all costs due to its unexpectedly cheap 5,000 yen per month rent. After an accident in the archaeology site he works at, he gains the ability to see ghosts and wield ancient artifacts."
+          }
+        },
+        {
+          "id": 88074,
+          "name": "东本愿早苗",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88074-Hhu2mKADlsS4.jpg",
+          "description": "东本愿早苗是徘徊在可乐娜庄106号室的女幽灵，希望赶走里见孝太郎并把房间据为己有。她能够操纵实体物品，将物件投向对手作为攻击方式，但接近具有神圣力量的物品时，能力会受到压制。早苗最初把孝太郎视为抢占房间的敌人，随着众人共同生活，她与其他住客之间的关系也逐渐改变。",
+          "nicknames": [
+            "东本愿早苗",
+            "Sanae Higashihongan",
+            "東本願早苗",
+            "早苗"
+          ],
+          "traits": [
+            "徘徊在106号室的女幽灵",
+            "希望赶走里见孝太郎",
+            "想把房间据为己有",
+            "能够操纵实体物品",
+            "会投掷物品攻击对手",
+            "靠近神圣物品时攻击会失效",
+            "与孝太郎争夺房间",
+            "逐渐成为106号室住客之一"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴木絵理",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118688-z1eYfW49NzFc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sanae Higashihongan",
+            "name_native": "東本願早苗",
+            "name_alternative": [],
+            "description": "A female ghost who haunts room 106. She wants to expel [Koutarou](https://anilist.co/character/88073/Satomi-Koutarou) and claim the room as her own. She is able to manipulate solid items and launch them to attack, but her attack is neutralized when near sacred objects."
+          }
+        },
+        {
+          "id": 88075,
+          "name": "虹野由莉佳",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88075-z51PXAl1bCiY.png",
+          "description": "虹野由莉佳是一名笨拙的魔法少女，她认为106号室蕴含强大魔力，因此想先占据房间，避免其他魔法少女利用力量作恶。每当房间住客发生争执，她就会召唤魔法结界保护众人。然而孝太郎等人总不相信她的真实身份，常把她当成热爱Cosplay的宅女。由莉佳必须在解释身份与应对现实危险之间不断努力。",
+          "nicknames": [
+            "虹野由莉佳",
+            "Yurika Nijino",
+            "虹野ゆりか",
+            "Rainbow Yurika",
+            "Cosplay Shoujo Nijino",
+            "由莉佳"
+          ],
+          "traits": [
+            "自称魔法少女",
+            "计划占据106号室的魔力地点",
+            "希望阻止他人利用魔力作恶",
+            "性格笨拙容易慌张",
+            "常为房间冲突施放结界",
+            "结界会保护房间住客",
+            "众人常把她当成喜欢Cosplay的宅女",
+            "拥有真正的魔法能力"
+          ],
+          "voice_actors": [
+            {
+              "name": "大森日雅",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118921-7AzEhQWBDfFp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yurika Nijino",
+            "name_native": "虹野ゆりか",
+            "name_alternative": [
+              "Rainbow Yurika",
+              "Cosplay Shoujo Nijino"
+            ],
+            "description": "A clumsy magical girl who intends to occupy the room, which contains high levels of magical power, with the intention of defending it from other magical girls who may use such power for evil. She constantly summons magical force fields whenever room 106 residents start engaging each other. Despite this, the residents of room 106 refuse to believe that she is a magical girl, instead considering her a mere otaku who loves cosplay."
+          }
+        },
+        {
+          "id": 88076,
+          "name": "仓野奇莉华",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88076-5lf2Nov1l5J7.png",
+          "description": "仓野奇莉华是地底人后裔，所属的仓野一族世代担任巫祝与咒术师。她认为106号室所在的位置适合重建神社，希望利用聚集的以太能量制造武器，并曾计划对地上居民发动侵攻。奇莉华最初与孝太郎争夺房间，之后逐渐了解现代生活和住客之间的关系。她背负族群目标，却也必须重新思考祖先留下的行动计划。",
+          "nicknames": [
+            "仓野奇莉华",
+            "Kiriha Kurano",
+            "クラノキリハ",
+            "奇莉华"
+          ],
+          "traits": [
+            "地底人后裔",
+            "来自长期居住地下的族群",
+            "是仓野一族成员",
+            "家族世代担任巫祝和咒术师",
+            "计划在106号室位置重建神社",
+            "希望利用聚集的以太能量制造武器",
+            "曾计划向地上发动侵攻",
+            "与孝太郎围绕房间展开交涉"
+          ],
+          "voice_actors": [
+            {
+              "name": "田澤茉純",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/23922-Slv15f8EbFOz.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kiriha Kurano",
+            "name_native": "クラノキリハ",
+            "name_alternative": [],
+            "description": "A well-endowed descendant of the Earth People, who moved underground during centuries past, and a member of the Kurano clan, a family of oracles and spellmasters, who claims that she needs to rebuild a shrine on the room's location and use the etheric energy gathered by it to generate weapons and launch an invasion against the people on the surface."
+          }
+        },
+        {
+          "id": 88077,
+          "name": "提亚米莉丝·格雷·佛德赛",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88077-npmAVTJRqCUJ.jpg",
+          "description": "提亚米莉丝·格雷·佛德赛是佛德赛星际帝国的外星公主，为证明自己有资格继承王位，奉命占领可乐娜庄106号室并制服房间居民。她装备脉冲激光和大炮，最初将孝太郎视为任务目标，却逐渐与这群住客产生复杂关系。提亚十分喜爱佛德赛传说中的青骑士，甚至以其名字为飞船和战斗装甲命名。",
+          "nicknames": [
+            "提亚米莉丝·格雷·佛德赛",
+            "Theiamillis Gre Fortorthe",
+            "ティアミリス・グレ・フォルトーゼ",
+            "Thea",
+            "Tulip",
+            "提亚"
+          ],
+          "traits": [
+            "来自佛德赛星的外星公主",
+            "持有王位继承资格",
+            "奉命占领106号室",
+            "需要制服房间居民以证明能力",
+            "装备脉冲激光和大炮",
+            "崇拜佛德赛传说中的青骑士",
+            "用青骑士为飞船和战斗装甲命名",
+            "与孝太郎发展出复杂关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "長縄まりあ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118923-bYbaw5gwD25l.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Theiamillis Gre Fortorthe",
+            "name_native": "ティアミリス・グレ・フォルトーゼ",
+            "name_alternative": [
+              "Thea",
+              "Tulip"
+            ],
+            "description": "An intergalactic alien princess from a planet named Fortorthe, with a flat chest, armed with pulse lasers and cannons. She is given the task of capturing room 106 as well as subduing the resident, which is [Koutarou](https://anilist.co/character/88073/Satomi-Koutarou), in order to prove her worthiness as a successor to the throne. She is fond of a Fortorthe legend known as the Blue Knight, and named her spaceship and battle armor after him."
+          }
+        },
+        {
+          "id": 88663,
+          "name": "樱庭晴海",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88663-fzyTccxnkVZf.jpg",
+          "description": "樱庭晴海出身富裕家庭，性格温和有礼，是学校编织社社长。编织社成员很少，只有晴海和孝太郎两人，因此她与孝太郎关系亲近；这种亲近也常让住在106号室的其他女生感到嫉妒。晴海以编织和社团活动为校园生活的一部分，和孝太郎在学校建立的联系，与房间里多名侵略者围绕他的竞争形成对照。",
+          "nicknames": [
+            "樱庭晴海",
+            "Harumi Sakuraba",
+            "桜庭晴海",
+            "晴海"
+          ],
+          "traits": [
+            "出身富裕家庭",
+            "性格温和有礼",
+            "担任学校编织社社长",
+            "编织社只有她和孝太郎两名成员",
+            "与孝太郎关系亲近",
+            "引起106号室女生的嫉妒",
+            "擅长编织手工",
+            "是孝太郎的学校同伴"
+          ],
+          "voice_actors": [
+            {
+              "name": "高本めぐみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95046-3vW0I3zKOpfW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Harumi Sakuraba",
+            "name_native": "桜庭晴海",
+            "name_alternative": [],
+            "description": "Coming from a wealthy family, she is the kind and well-mannered president of the school knitting club and the only other member besides [Koutarou](https://anilist.co/character/88073/Satomi-Koutarou). Her closeness with him is a constant source of jealousy for the girls living with him."
+          }
+        },
+        {
+          "id": 175509,
+          "name": "克兰",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175509-w7Fw7ETNkySz.png",
+          "description": "克兰是佛德赛银河帝国第二公主，属于与马斯提尔家族敌对的施威格家族。与行动力强的提亚相比，她更习惯投入知识和学术研究，两人的性格差异加上家族竞争，使克兰成为提亚最大的对手。克兰参与帝国王位继承相关事务，也会介入106号室争夺事件。她与孝太郎及其他住客相识后，个人立场和帝国政治目标逐渐交织。",
+          "nicknames": [
+            "克兰",
+            "Clariausa Dawra Fortorthe",
+            "クラリオーサ・ダオラ・フォルトーゼ",
+            "Clan (クラン)",
+            "Clariossa Daora Schweiger Meltsfen Foa Forthorthe",
+            "Clan"
+          ],
+          "traits": [
+            "佛德赛银河帝国第二公主",
+            "属于施威格家族",
+            "施威格家族与马斯提尔家族敌对",
+            "性格偏向学术和思考",
+            "与提亚的行动风格形成对照",
+            "是提亚最大的竞争对手",
+            "参与帝国王位继承竞争",
+            "由田村由香里配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "田村ゆかり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Clariausa Dawra Fortorthe",
+            "name_native": "クラリオーサ・ダオラ・フォルトーゼ",
+            "name_alternative": [
+              "Clan (クラン)",
+              "Clariossa Daora Schweiger Meltsfen Foa Forthorthe"
+            ],
+            "description": "Clariossa Daora Forthorthe, better known as Clan, is the Second Princess of the Forthorthe Galactic Empire. She is a part of the Schweiger family which is rivals with the Mastir family. While [Theiamillis Gre Forthorthe](https://anilist.co/character/88077/Gre-Fortorthe-Theiamillis) is more active, Clan spent her time with intellectual pursuits. This contrast in personalities, as well as their family rivalries has caused her to be Theia's greatest rival."
+          }
+        },
+        {
+          "id": 175510,
+          "name": "蓝华真希",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175510-UNsDn6lA7rdk.jpg",
+          "description": "蓝华真希是一名魔法少女，起初属于极端组织“黑暗彩虹”，并与虹野由莉佳互为宿敌。她原本奉组织命令行动，后来被孝太郎救下，逐渐与他建立信任，最终离开黑暗彩虹并加入孝太郎一行。真希还成为骑士团的财务官，在伙伴关系中承担管理职责。她从敌对阵营转向同伴的经历，展现了106号室住客之间不断变化的立场。",
+          "nicknames": [
+            "蓝华真希",
+            "Maki Aika",
+            "藍華真希",
+            "ダークネイビー",
+            "真希"
+          ],
+          "traits": [
+            "魔法少女",
+            "属于极端组织“黑暗彩虹”",
+            "是虹野由莉佳的宿敌",
+            "参与组织秘密行动",
+            "最初与孝太郎敌对",
+            "被孝太郎救下后改变态度",
+            "后来脱离黑暗彩虹",
+            "加入孝太郎一行并担任骑士团财务官"
+          ],
+          "voice_actors": [
+            {
+              "name": "鬼頭明里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-Ls7ORfBejJEP.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Maki Aika",
+            "name_native": "藍華真希",
+            "name_alternative": [
+              "ダークネイビー"
+            ],
+            "description": "Maki Aika is a magical girl, much like [Yurika](https://anilist.co/character/88075/Nijino-Yurika). However, she is part of \"Darkness Rainbow\", an extremist organisation whose motives are as of yet unknown. She is Yurika's rival/arch-nemesis.\n\n~!She later befriends [Koutarou Satomi](https://anilist.co/character/88073/Satomi-Koutarou) after he saves her life and eventually leaves Darkness Rainbow to join his group and eventually his band of knights as treasurer.!~"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 183274,
+      "anime_title": "我是星际国家的恶德领主！",
+      "anime_origin": "JP",
+      "source": {
+        "id": 183274,
+        "titles": [
+          "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+          "I'm the Evil Lord of an Intergalactic Empire!",
+          "俺は星間国家の悪徳領主!",
+          "OreAku",
+          "我是星際國家的惡德領主！",
+          "Aku Bangsawan Korup di Kekaisaran Antargalaksi!"
+        ],
+        "year": 2025,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/183274"
+      },
+      "characters": [
+        {
+          "id": 292833,
+          "name": "利亚姆·班菲尔德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292833-DK7yal9lSPIn.png",
+          "description": "利亚姆·班菲尔德前世因为过于善良而过得十分痛苦，转生后决定成为恶德领主，打算任意享受权力与财富。他长期规划领地发展、强化军备和治理领土，却总因行动结果和周围贵族的腐败形成对照，被误认为公正仁慈的统治者。利亚姆喜欢黄金，但在新世界里黄金远不如秘银和精金值钱，这种认知落差也常带来喜剧误会。",
+          "nicknames": [
+            "利亚姆·班菲尔德",
+            "Liam Banfield",
+            "リアム・セラ・バンフィールド",
+            "利亚姆"
+          ],
+          "traits": [
+            "转生为星际帝国贵族领主",
+            "前世曾因善良而过得痛苦",
+            "决定今生要做恶德领主",
+            "长期规划领地发展",
+            "努力强化自己的领土",
+            "常被误认为公正仁慈的统治者",
+            "对黄金有强烈兴趣",
+            "不懂新世界金属货币的价值差异"
+          ],
+          "voice_actors": [
+            {
+              "name": "花江夏樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png",
+              "language": "日语"
+            },
+            {
+              "name": "前田佳織里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126863-UhefvoqVWVbB.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "宮田俊哉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176607-tZI17rOOh6X1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Liam Banfield",
+            "name_native": "リアム・セラ・バンフィールド",
+            "name_alternative": [],
+            "description": "Having lived a miserable life being virtuous, Liam decides to be evil in this next life. However, a combination of his long-term plans to strengthen and develop his fiefdom, comparison against the often corrupt and indolent nobility of the Empire, and comedic happenstance, he ends up looking like a benevolent and just ruler. Even his desire for gold looks odd as it has relatively low monetary value in the new world compared to metals like mithril and adamantium."
+          }
+        },
+        {
+          "id": 347837,
+          "name": "天城",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b347837-Dmvxi6NngamL.jpg",
+          "description": "天城是一名人工智能女仆机器人，在利亚姆五岁生日时由母亲送给他。此后不久，利亚姆的父母便离开班菲尔德领地前往帝国首都，天城成为陪伴并协助少年成长的重要角色。她负责家务、行程和日常事务，也会为利亚姆提供信息与建议。天城拥有高度智能，却以冷静的女仆姿态执行职责，是利亚姆在领地治理和私人生活中的可靠助手。",
+          "nicknames": [
+            "天城",
+            "Amagi"
+          ],
+          "traits": [
+            "人工智能女仆机器人",
+            "由利亚姆的母亲赠送",
+            "在利亚姆五岁生日时送达",
+            "负责辅助班菲尔德家事务",
+            "母亲和父亲随后离开领地",
+            "与利亚姆长期共同生活",
+            "拥有人工智能系统",
+            "是利亚姆信赖的家政助手"
+          ],
+          "voice_actors": [
+            {
+              "name": "上田麗奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118602-C4bNcnyEhDTu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Amagi",
+            "name_native": "天城",
+            "name_alternative": [],
+            "description": "An AI maid robot gifted to [Liam](https://anilist.co/character/292833/Banfield-Sera-Liam) on his fifth birthday by his mother, before she and her husband abandoned the Banfield domain for the Imperial Capital Planet."
+          }
+        },
+        {
+          "id": 347838,
+          "name": "引导者",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b347838-gVGlr4ANe7mz.png",
+          "description": "引导者是一种以痛苦、绝望和其他负面情绪为食的存在。利亚姆前世过得悲惨，正是引导者帮助其出轨妻子设计诬陷，令他屡遭不幸。利亚姆转生后，引导者不断试图制造挫折，却总被利亚姆意外化解；更糟的是，利亚姆把这些安排误认为守护与帮助，并真诚表达感激。这样的误解让引导者反而受到伤害，成为贯穿故事的喜剧性幕后敌人。",
+          "nicknames": [
+            "引导者",
+            "Annaibito",
+            "案内人",
+            "The Guide",
+            "Guide"
+          ],
+          "traits": [
+            "以负面情绪为食的存在",
+            "会吸收痛苦和绝望",
+            "前世曾让利亚姆的人生变得悲惨",
+            "帮助利亚姆的出轨妻子诬陷他",
+            "转生后多次试图制造挫折",
+            "利亚姆总误会他是善意守护者",
+            "利亚姆的感激反而令他受伤",
+            "是故事中的幕后对手"
+          ],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Annaibito",
+            "name_native": "案内人",
+            "name_alternative": [
+              "The Guide"
+            ],
+            "description": "A malevolent emotion eater, who feeds on misery, despair, and other negative emotions. He made Liam's life hell by helping his cheating wife frame him for tons of things. Because Liam keeps on succeeding in the new world despite the Guide's best efforts to bring misery, Liam continues to hold the misapprehesion that the Guide is his benevolent guardian, with his feelings of gratitude hurting and starving the Guide."
+          }
+        },
+        {
+          "id": 355112,
+          "name": "妮亚斯·卡林",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355112-IDoWQE1DUQkI.png",
+          "description": "妮亚斯·卡林是第七帝国武器工厂的工程师，参与星际武器和军用装备相关工作。她熟悉帝国的军工技术，也会与利亚姆领地的军备发展产生联系。利亚姆为了强化领土而关注武器与舰队，因此妮亚斯的工程专业成为相关事件的重要一环。她以技术人员身份进入贵族与军事势力交织的故事，展现星际帝国工业体系的运作方式。",
+          "nicknames": [
+            "妮亚斯·卡林",
+            "Nias Carlin",
+            "ニアス・カーリン",
+            "妮亚斯"
+          ],
+          "traits": [
+            "第七帝国武器工厂的工程师",
+            "参与军用技术研发",
+            "熟悉星际武器制造",
+            "在帝国军工体系工作",
+            "与利亚姆领地的装备有关",
+            "具备专业工程知识",
+            "以技术人员身份参与事件",
+            "由竹达彩奈配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "竹達彩奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101996-PcY5iaq5LHgd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nias Carlin",
+            "name_native": "ニアス・カーリン",
+            "name_alternative": [],
+            "description": "An engineer from the Seventh Imperial Weapons Factory."
+          }
+        },
+        {
+          "id": 355113,
+          "name": "克莉丝蒂娜·罗斯布雷亚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355113-oVtzQdB5dIsO.png",
+          "description": "克莉丝蒂娜·罗斯布雷亚曾是罗斯布雷亚圣国的“公主骑士”，在故乡毁灭后被戈亚兹海盗团俘获并遭受残酷折磨。利亚姆击败海盗舰队时，她与其他受害者一同获救，终于脱离囚禁。克莉丝拥有骑士训练和坚强意志，经历创伤后仍试图重新站稳脚跟。她的获救经历让利亚姆的行动影响到更多人，也推动圣国与班菲尔德领地之间的关系变化。",
+          "nicknames": [
+            "克莉丝蒂娜·罗斯布雷亚",
+            "Christiana Rosebreyer",
+            "クリスティアナ・レタ・ローズブレイア",
+            "克莉丝"
+          ],
+          "traits": [
+            "曾任罗斯布雷亚圣国公主骑士",
+            "家园遭海盗摧毁",
+            "被戈亚兹海盗团俘获",
+            "遭受残酷折磨",
+            "后被利亚姆击败海盗舰队时救出",
+            "与其他受害者一同获救",
+            "拥有骑士战斗训练",
+            "由小松未可子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "小松未可子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105071-Hcj0X2gcliPq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Christiana Rosebreyer",
+            "name_native": "クリスティアナ・レタ・ローズブレイア",
+            "name_alternative": [],
+            "description": "Former \"Princess Knight\" of the Holy Kingdom of Rosebreyer, captured by Goaz's pirate gang and subjected to inhumane torture after the destruction of her home. She and other victims are rescued by Liam after defeating Goaz's fleet."
+          }
+        },
+        {
+          "id": 355415,
+          "name": "安士",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355415-fBxrDp0hUBUE.png",
+          "description": "安士是一名受雇教导利亚姆剑术的剑士，自称精通“闪光流”剑法，实际上却是假冒的大师。他为了领取报酬，向利亚姆传授许多毫无道理的招式；没想到利亚姆竟因这些错误指导意外练出惊人剑技。安士害怕欺骗领主的事实曝光后被处刑，最终选择逃跑。他的故事以荒诞方式展现利亚姆的异常运气，也成为班菲尔德领地日常中的喜剧插曲。",
+          "nicknames": [
+            "安士",
+            "Yasushi"
+          ],
+          "traits": [
+            "受雇教授利亚姆剑术",
+            "自称精通闪光流剑法",
+            "实际上并非真正的大师",
+            "传授过荒谬的剑术招式",
+            "利亚姆意外练出惊人剑技",
+            "担心欺骗被发现后遭处刑",
+            "最终逃离班菲尔德领地",
+            "由三木真一郎配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "三木眞一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yasushi",
+            "name_native": "安士",
+            "name_alternative": [],
+            "description": "A master swordsman hired to teach Liam while claiming expertise in the Way of the Flash style. He is later revealed to be a fraud who taught nonsensical techniques, intending only to collect a payment. After Liam miraculously develops incredible swordsmanship skills from the erroneous instruction, the master flees, fearing execution for his deception."
+          }
+        },
+        {
+          "id": 355416,
+          "name": "戈亚兹",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355416-V8fLtgNPs4fU.png",
+          "description": "戈亚兹是星际海盗舰队的首领，统率手下在宇宙中发动袭击并掠夺资源。他的舰队摧毁罗斯布雷亚圣国，俘获克莉丝蒂娜等人并对她们施加残酷对待。利亚姆得知海盗暴行后率军迎战，最终击败戈亚兹的舰队，救出受害者。戈亚兹的行动展示星际边境的危险，也成为利亚姆建立威名并扩大影响力的重要事件。",
+          "nicknames": [
+            "戈亚兹",
+            "Goaz",
+            "ゴアズ"
+          ],
+          "traits": [
+            "海盗舰队首领",
+            "统率星际海盗势力",
+            "袭击罗斯布雷亚圣国",
+            "俘获克莉丝蒂娜等人",
+            "以武力掠夺资源",
+            "与利亚姆的领地发生冲突",
+            "在战斗中指挥海盗舰船",
+            "由稻田彻配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "稲田徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Goaz",
+            "name_native": "ゴアズ",
+            "name_alternative": [],
+            "description": "Goaz is the leader of the pirate fleet."
+          }
+        },
+        {
+          "id": 355417,
+          "name": "布莱恩·博蒙特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b355417-tRyj6IVm3Ras.png",
+          "description": "布莱恩·博蒙特是班菲尔德家的管家，从利亚姆曾祖父在世时便开始为家族服务。他长期管理宅邸和领地日常事务，熟悉班菲尔德家的历史、礼仪与人际关系，也亲眼见证利亚姆逐渐成长为领主。布莱恩协助安排领主生活与公务，面对利亚姆种种出人意料的决定时仍保持忠诚，是家族中经验丰富且值得信赖的资深家臣。",
+          "nicknames": [
+            "布莱恩·博蒙特",
+            "Brian Beaumont",
+            "ブライアン・ボーモント",
+            "布莱恩"
+          ],
+          "traits": [
+            "班菲尔德家的管家",
+            "从利亚姆曾祖父时代起服务家族",
+            "熟悉领地事务",
+            "长期见证家族变化",
+            "协助领主处理日常安排",
+            "是班菲尔德家资深家臣",
+            "对利亚姆保持忠诚",
+            "由上田燿司配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "上田燿司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95926-00Pd2b8WZwQS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Brian Beaumont",
+            "name_native": "ブライアン・ボーモント",
+            "name_alternative": [],
+            "description": "A butler in service to House Banfield since the days of Liam's great-grandfather."
+          }
+        }
+      ]
+    }
+  ]
+}

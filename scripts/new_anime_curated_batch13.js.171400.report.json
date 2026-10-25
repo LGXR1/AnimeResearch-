@@ -1,0 +1,36 @@
+{
+  "verifiedAt": "2026-10-05T12:05:20.628Z",
+  "curatedFile": "scripts/new_anime_curated_batch13.js",
+  "anime": [
+    {
+      "id": 171400,
+      "title": "噗妮露是可爱史莱姆",
+      "count": 25,
+      "excluded": [
+        {
+          "name": "匿名背景人物及部分单回人物",
+          "reason": "仅有姓名或出场记录，详细资料不足；本轮优先补齐主要人物与常驻配角"
+        },
+        {
+          "name": "DX纶纶",
+          "reason": "属于同一原创吉祥物的玩具版本，避免把不同玩具造型当成独立主要人物重复收录"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/171400",
+        "https://anilist.co/anime/185755",
+        "https://puniru-anime.com/character/puniru/",
+        "https://puniru-anime.com/character/kotaro/",
+        "https://puniru-anime.com/character/hone/",
+        "https://puniru-anime.com/special/comment/",
+        "https://back-cms.puniru-anime.com/archives/290",
+        "https://zh.wikipedia.org/wiki/噗妮露是可愛史萊姆"
+      ]
+    }
+  ],
+  "insertedCharacters": 25,
+  "insertedVoiceActors": 26,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 25,
+  "verifiedVoiceActors": 26
+}

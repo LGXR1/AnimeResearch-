@@ -1,0 +1,272 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T02:42:42.400Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 21878,
+      "anime_title": "珈百璃的堕落",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21878,
+        "titles": [
+          "Gabriel Dropout",
+          "Gabriel DropOut",
+          "ガヴリールドロップアウト",
+          "GabDro",
+          "珈百璃的堕落"
+        ],
+        "year": 2017,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21878"
+      },
+      "characters": [
+        {
+          "id": 120937,
+          "name": "天真·珈百璃·怀特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120937-ADgkgnr63mPC.png",
+          "description": "天真·珈百璃·怀特身高144厘米，原本是天使学校成绩最优秀的学生之一。来到人间后，她沉迷电子游戏，逐渐变成被称为“堕落天使”的懒散少女。珈百璃与薇奈特住在同一栋公寓，日常生活常由认真负责的薇奈特照看；她也在咖啡店打工。曾经的优等生与如今沉迷游戏、不愿整理生活的状态形成鲜明反差，是故事的核心笑料来源。",
+          "nicknames": [
+            "天真·珈百璃·怀特",
+            "Gabriel Tenma White",
+            "天真・ガヴリール・ホワイト",
+            "Gab",
+            "珈百璃",
+            "加百列"
+          ],
+          "traits": [
+            "身高144厘米",
+            "来自天界的天使",
+            "曾是天使学校的优等生",
+            "因沉迷电子游戏而堕落",
+            "被称为堕落天使",
+            "在地球上就读学校",
+            "与薇奈特住在同一栋公寓",
+            "会在咖啡店打工",
+            "常把懒散生活留给薇奈特收拾"
+          ],
+          "voice_actors": [
+            {
+              "name": "富田美憂",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119518-vZN7TPy12iuu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Gabriel Tenma White",
+            "name_native": "天真・ガヴリール・ホワイト",
+            "name_alternative": [
+              "Gab"
+            ],
+            "description": "__Height:__ 144 cm\n\nGabriel is the main protagonist of the story and an angel who was the top of her class but turned into a 'Faillen Angel' after her newfound addiction to video games."
+          }
+        },
+        {
+          "id": 120938,
+          "name": "白羽·拉菲尔·恩兹沃思",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120938-ymJZA2V7bLeT.png",
+          "description": "白羽·拉菲尔·恩兹沃思身高160厘米，是天使学校成绩排名第二的天使，也是珈百璃的同学。她表面优雅温和，私下却带有明显的施虐倾向，尤其喜欢戏弄恶魔萨塔妮亚。拉菲尔常故意制造混乱，只为观察别人陷入窘迫时的反应，并以此取乐。她擅长隐藏真实意图，使身边人难以判断她是在友善帮忙，还是又准备了新的恶作剧。",
+          "nicknames": [
+            "白羽·拉菲尔·恩兹沃思",
+            "Raphiel Shiraha Ainsworth",
+            "白羽・ラフィエル・エインズワース",
+            "Raphi",
+            "拉菲尔",
+            "拉菲"
+          ],
+          "traits": [
+            "身高160厘米",
+            "来自天界的天使",
+            "在天使学校成绩排名第二",
+            "与珈百璃同班",
+            "表面举止优雅",
+            "具有明显的施虐倾向",
+            "喜欢戏弄萨塔妮亚",
+            "会为取乐而制造混乱",
+            "以观察他人窘迫为乐"
+          ],
+          "voice_actors": [
+            {
+              "name": "花澤香菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Raphiel Shiraha Ainsworth",
+            "name_native": "白羽・ラフィエル・エインズワース",
+            "name_alternative": [
+              "Raphi"
+            ],
+            "description": "__Height:__ 160 cm\n\nRaphiel is the second-ranked angel in Gabriel's class, who has since become a sadistic stalker who takes delight in teasing Satanichia and causing chaos for entertainment.\n\n(Source: Gabriel DropOut Wiki)"
+          }
+        },
+        {
+          "id": 120939,
+          "name": "胡桃泽·萨塔妮亚·麦克道威尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120939-Xl4FXBKS9kpE.png",
+          "description": "胡桃泽·萨塔妮亚·麦克道威尔身高157厘米，是来自魔界的恶魔。她自称“未来的地狱女王”，总想策划一些小恶作剧来展现恶魔威严，却常因不够机灵而以失败告终。萨塔妮亚经常被天使拉菲尔捉弄，也总被一只爱抢菠萝面包的狗打断计划。尽管屡屡出糗，她仍努力维持自信的恶魔形象，并把自己视作校园里的重要反派。",
+          "nicknames": [
+            "胡桃泽·萨塔妮亚·麦克道威尔",
+            "Satanichia Kurumizawa McDowell",
+            "胡桃沢・サタニキア・マクドウェル",
+            "Satania (サターニャ)",
+            "萨塔妮亚",
+            "萨塔妮娅"
+          ],
+          "traits": [
+            "身高157厘米",
+            "来自魔界的恶魔",
+            "自称未来的地狱女王",
+            "头脑常显得不灵光",
+            "喜欢策划小恶作剧",
+            "恶作剧往往以失败告终",
+            "经常被拉菲尔戏弄",
+            "常被一只狗抢走菠萝面包",
+            "努力维持恶魔的威严"
+          ],
+          "voice_actors": [
+            {
+              "name": "大空直美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117329-b0JyOtyttcJI.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Satanichia Kurumizawa McDowell",
+            "name_native": "胡桃沢・サタニキア・マクドウェル",
+            "name_alternative": [
+              "Satania (サターニャ)"
+            ],
+            "description": "__Height:__ 157 cm\n\nThe self proclaimed \"Future Queen of Hell\". Satanichia is a dimwitted demon who often thinks of petty ways to cause mischief which usually end in failure. She is often pestered by both [Raphiel](https://anilist.co/character/120938) and [a dog](https://anilist.co/character/133465)."
+          }
+        },
+        {
+          "id": 120940,
+          "name": "月乃濑·薇奈特·艾普利尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b120940-QKqf88jKvUbh.png",
+          "description": "月乃濑·薇奈特·艾普利尔身高155厘米，是来自魔界的恶魔，也是珈百璃的同学和邻居。她与同住一栋公寓的珈百璃性格相反，认真负责，经常照料沉迷游戏、不愿整理生活的珈百璃。薇奈特会提醒朋友遵守日常秩序，也常替同伴收拾恶作剧带来的麻烦。她待人亲切、做事可靠，善良周到的作风与恶魔身份形成反差。",
+          "nicknames": [
+            "月乃濑·薇奈特·艾普利尔",
+            "Vignette Tsukinose April",
+            "月乃瀬・ヴィネット・エイプリル",
+            "Vigne",
+            "薇奈特",
+            "薇奈"
+          ],
+          "traits": [
+            "身高155厘米",
+            "来自魔界的恶魔",
+            "与珈百璃住在同一栋公寓",
+            "性格认真负责",
+            "经常照料珈百璃",
+            "与恶魔身份形成反差",
+            "是珈百璃的同学",
+            "会提醒朋友遵守日常秩序",
+            "常为同伴的麻烦善后"
+          ],
+          "voice_actors": [
+            {
+              "name": "大西沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Vignette Tsukinose April",
+            "name_native": "月乃瀬・ヴィネット・エイプリル",
+            "name_alternative": [
+              "Vigne"
+            ],
+            "description": "__Height:__ 155 cm\n\nThe complete opposite of [Gabriel](https://anilist.co/character/120937/Tenma-White-Gabriel), Vignette is very responsible and often has to look after Gabriel, who lives in the same building as her, contrary to her actual role as a demon."
+          }
+        },
+        {
+          "id": 126110,
+          "name": "千咲·塔普莉丝·舒格贝尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/126110-0NrZPpxge0oI.jpg",
+          "description": "千咲·塔普莉丝·舒格贝尔是天使学校的后辈天使，曾十分仰慕珈百璃。来到人间后，她误以为萨塔妮亚是导致珈百璃堕落的元凶，因此对萨塔妮亚抱有戒心。塔普莉丝也认识薇奈特，起初因欣赏她的善良而称她为前辈；得知薇奈特是恶魔后，她又陷入信任与身份立场的矛盾。她对天界秩序的认真态度与人间生活中的种种误会构成了故事支线。",
+          "nicknames": [
+            "千咲·塔普莉丝·舒格贝尔",
+            "Tapris Sugarbell Chisaki",
+            "千咲・タプリス・シュガーベル",
+            "Tap",
+            "塔普莉丝",
+            "塔普莉丝学妹"
+          ],
+          "traits": [
+            "身高152厘米",
+            "来自天界的后辈天使",
+            "在天使学校仰慕珈百璃",
+            "来到人间寻找珈百璃",
+            "误以为萨塔妮亚害珈百璃堕落",
+            "认识薇奈特",
+            "曾称薇奈特为前辈",
+            "欣赏薇奈特的善良",
+            "得知薇奈特是恶魔后变得戒备"
+          ],
+          "voice_actors": [
+            {
+              "name": "水瀬いのり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106297-DUyxkSjS9pEK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tapris Sugarbell Chisaki",
+            "name_native": "千咲・タプリス・シュガーベル",
+            "name_alternative": [
+              "Tap"
+            ],
+            "description": "__Height:__ 152 cm\n\nTapris is an underclassman angel who admired Gabriel in angel school and presumes Satania was the one responsible for turning her into a slob. She also knows of Vignette and calls her senpai (senior) for her kindness, but knowing she is a demon, distrusts her."
+          }
+        },
+        {
+          "id": 125099,
+          "name": "店长",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/125099-4e9M2sjEgi5X.jpg",
+          "description": "店长是咖啡店Coffee Angel的经营者，也是珈百璃的兼职雇主。珈百璃常以懒散举止让他困惑，他便把这些行为理解为外国人的文化差异。店长对自家咖啡十分自豪，招牌拼配使用五种不同咖啡豆，细心追求独特的香气和风味。他性格温和，愿意让珈百璃继续工作，也因此成为她在人间生活中的重要雇主和日常见证者。",
+          "nicknames": [
+            "店长",
+            "Master",
+            "マスター",
+            "咖啡天使店长"
+          ],
+          "traits": [
+            "咖啡店Coffee Angel的店主",
+            "经营自家咖啡店",
+            "雇用珈百璃做兼职",
+            "常被珈百璃的行为弄得困惑",
+            "把她的举止当作外国文化差异",
+            "十分自豪自家拼配咖啡",
+            "招牌配方使用五种咖啡豆",
+            "重视咖啡的香气",
+            "重视咖啡的风味"
+          ],
+          "voice_actors": [
+            {
+              "name": "梅津秀行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101602-wUvWtCkvNGNB.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Master",
+            "name_native": "マスター",
+            "name_alternative": [],
+            "description": "The owner of Coffee Angel, the coffee shop where Gabriel works part time. He is often bewildered by Gabriel's behavior, but assumes it is just because she is a foreigner. He is quite proud of his house blend. To attain his signature flavor and fragrance, he uses five different types of coffee beans."
+          }
+        }
+      ]
+    }
+  ]
+}

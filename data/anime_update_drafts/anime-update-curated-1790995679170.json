@@ -1,0 +1,506 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T02:42:42.400Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 2034,
+      "anime_title": "恋爱情结",
+      "anime_origin": "JP",
+      "source": {
+        "id": 2034,
+        "titles": [
+          "Lovely★Complex",
+          "Lovely Complex",
+          "ラブ★コン",
+          "Love★Com",
+          "Love Com"
+        ],
+        "year": 2007,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/2034"
+      },
+      "characters": [
+        {
+          "id": 2379,
+          "name": "小泉理沙",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2379-WutNL90IxIgh.jpg",
+          "description": "小泉理沙是大阪的一名高中生，身高172厘米，远高于同龄女生，因此常被同学拿身高开玩笑，还被比作长颈鹿。她性格冲动、意志坚强，不太愿意在人前显露柔软的一面。理沙曾喜欢铃木凉二，后来逐渐与身材矮小的大谷敦士走近，两人总因身高反差和吵闹互动被周围人称作“恋爱情结”。她和大谷也都是说唱歌手海坊主的忠实粉丝。",
+          "nicknames": [
+            "小泉理沙",
+            "Risa Koizumi",
+            "小泉リサ",
+            "Amazon",
+            "All Kyojin",
+            "理沙"
+          ],
+          "traits": [
+            "身高172厘米",
+            "大阪高中生",
+            "身材高挑",
+            "性格冲动",
+            "意志坚强",
+            "不轻易流露柔软一面",
+            "曾喜欢铃木凉二",
+            "与大谷敦士常被同学配成一对",
+            "热爱海坊主的音乐"
+          ],
+          "voice_actors": [
+            {
+              "name": "岡村明美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95076-itRGy8F3x5Em.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Risa Koizumi",
+            "name_native": "小泉リサ",
+            "name_alternative": [
+              "Amazon",
+              "All Kyojin"
+            ],
+            "description": "__Height:__ 172 cm \n\nRisa Koizumi is not your average Japanese high school student. Risa's height is well above that of most Japanese girls her age (the average height for a female is 160 cm (5 ft 3 in) Ironically, her surname means 'little spring'.\n\nShe and other characters compare her to a giraffe. Risa can be impulsive and strong-willed at times, and is rarely willing to display her softer side. She had a crush on [Suzuki](https://anilist.co/character/3026/Suzuki-Ryouji) before he started dating [Chiharu](https://anilist.co/character/3024/Tanaka-Chiharu)."
+          }
+        },
+        {
+          "id": 2380,
+          "name": "大谷敦士",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2380-lJs6R8VfdA3W.png",
+          "description": "大谷敦士是就读于大阪高中的男生，身高156厘米，是校篮球队的主力。身材矮小让他经常成为同学开玩笑的对象，他的姓氏“大谷”也与体格形成反差。大谷有时说话粗心、显得失礼，但本质善良，也带着些傻气。他曾喜欢田中千春，之后与身材高挑的理沙建立起吵吵闹闹的关系。两人都喜欢说唱歌手海坊主。",
+          "nicknames": [
+            "大谷敦士",
+            "Atsushi Ootani",
+            "A-chan",
+            "Atsushi-neko",
+            "Midget",
+            "All-Hanshin",
+            "大谷",
+            "敦士"
+          ],
+          "traits": [
+            "身高156厘米",
+            "居住在大阪",
+            "高中生",
+            "学校篮球队主力",
+            "身材比同龄男生矮小",
+            "性格善良",
+            "有时粗心失礼",
+            "为人有些傻气",
+            "曾喜欢田中千春",
+            "是海坊主的粉丝"
+          ],
+          "voice_actors": [
+            {
+              "name": "永田彬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95369-kI7oLEpJOFO6.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Atsushi Ootani",
+            "name_native": "大谷敦士",
+            "name_alternative": [
+              "A-chan",
+              "Atsushi-neko",
+              "Midget",
+              "All-Hanshin"
+            ],
+            "description": "__Residence:__ Osaka\n__Height:__ 156 cm (5'2\")\n\nAtsushi Ootani is one of the main characters. He is very short for a boy, standing 156 centimeters. Like [Koizumi](https://anilist.co/character/2379/Koizumi-Risa), Ootani's surname (roughly, \"big valley\") is a pun on his diminutive stature, and he can be thoughtless and rude; at heart, however, he is kind and a little silly. Ootani is also the star player of the school basketball team. Some say he wears padded shoes so he can reach 162 cm."
+          }
+        },
+        {
+          "id": 2741,
+          "name": "深川遥",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2741-E2SCe2TTr0K5.jpg",
+          "description": "深川遥是理沙的儿时朋友，两人还在小学时他便搬到海外。小时候，其他男生曾因他的名字取笑他，理沙出面替他解围，因此遥一直把理沙当作自己的英雄。长大后他回到理沙身边，并希望成为她的男朋友；但当他发现理沙真正喜欢的人是大谷时，也不得不面对这段单恋。他的出现让理沙重新回想起童年，也令大谷感到竞争压力。",
+          "nicknames": [
+            "深川遥",
+            "Haruka Fukagawa",
+            "遥",
+            "深川"
+          ],
+          "traits": [
+            "理沙的青梅竹马",
+            "小时候与理沙同校",
+            "小学时期搬到海外",
+            "一直把理沙视作英雄",
+            "曾因名字被男生嘲笑",
+            "理沙曾替他出头",
+            "希望成为理沙的男朋友",
+            "知道理沙喜欢的人另有其人"
+          ],
+          "voice_actors": [
+            {
+              "name": "小野坂昌也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95173-LIuN04REF5eA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Haruka Fukagawa",
+            "name_native": "深川遥",
+            "name_alternative": [],
+            "description": "He's Risa's childhood friend who moved overseas while they were still in elementary school. He considers Risa a hero to him as she was the one who stood up for him when the other boys made fun of him because of his name. He wants to become Risa's boyfriend, though he finds out who Risa really likes, much to his dismay."
+          }
+        },
+        {
+          "id": 3023,
+          "name": "石原信子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3023-zJl5JLE8LJ37.png",
+          "description": "石原信子是理沙的好友，外表时尚、讨人喜欢，也比理沙和千春更懂得处理恋爱问题。她经常为理沙提供建议，努力替理沙和大谷安排独处的机会，可惜计划往往被意外打断。每当理沙因此失落，信子又会回到她身边安慰她。信子与中尾平吉交往，熟悉朋友之间的感情变化，也常在理沙、大谷和千春的关系发展中充当热心的助攻者。",
+          "nicknames": [
+            "石原信子",
+            "Nobuko Ishihara",
+            "Nobu",
+            "信子"
+          ],
+          "traits": [
+            "理沙的好友",
+            "外表时尚",
+            "性格讨人喜欢",
+            "擅长判断恋爱关系",
+            "常为理沙提供感情建议",
+            "会替理沙和大谷创造独处机会",
+            "计划经常无法成功",
+            "理沙失落时会安慰她",
+            "与中尾平吉交往"
+          ],
+          "voice_actors": [
+            {
+              "name": "東さおり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95702-Vv6BReitKHBD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nobuko Ishihara",
+            "name_native": "石原信子",
+            "name_alternative": [
+              "Nobu"
+            ],
+            "description": "__Height:__ 156 cm (5'1\")\n\nFashionable and charming, Nobu is [Risa](https://anilist.co/character/2379/Koizumi-Risa)'s best friend. She is generally wiser than Risa or [Chiharu](https://anilist.co/character/3024/Tanaka-Chiharu) in the ways of love, and is always ready to offer her advice. She's mostly the one who sets up all the \"alone time\"; moments with Risa and [Otani](https://anilist.co/character/2380/Ootani-Atsushi), but it usually ends up failing and Risa goes back to her for comfort."
+          }
+        },
+        {
+          "id": 3025,
+          "name": "中尾平吉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3025-2t2qJy3e74PD.png",
+          "description": "中尾平吉身高182厘米，是信子的男朋友。他性格温和随和，对信子十分专情。平吉平时会和大谷一起打篮球，也会在信子筹划撮合理沙和大谷时提供帮助。他不像信子那样积极安排朋友的感情，却愿意配合她的想法；当理沙和大谷的关系出现进展时，他也会与信子一同关注两人的反应。平吉是篮球伙伴，也是支持女友计划的可靠恋人。",
+          "nicknames": [
+            "中尾平吉",
+            "Heikichi Nakao",
+            "Darling",
+            "Nakao-chi",
+            "平吉",
+            "中尾"
+          ],
+          "traits": [
+            "身高182厘米",
+            "信子的男朋友",
+            "性格温和",
+            "待人随和",
+            "专情于信子",
+            "与大谷一起打篮球",
+            "会帮助信子安排恋爱计划",
+            "支持信子撮合理沙和大谷"
+          ],
+          "voice_actors": [
+            {
+              "name": "徳山靖彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95711-P6VQ86RK2hb1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Heikichi Nakao",
+            "name_native": "中尾平吉",
+            "name_alternative": [
+              "Darling",
+              "Nakao-chi"
+            ],
+            "description": "__Height:__ 182 cm (5'10\")\n\nNobu's boyfriend. Mild-mannered and easygoing. Nakao is absolutely dedicated to Nobu, and when he is not playing basketball with Ootani, he can usually be found helping with her match-making schemes.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 3026,
+          "name": "铃木凉二",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3026-O1anIiICILJ5.png",
+          "description": "铃木凉二身高182厘米，是千春的男朋友。他给人的印象冷静，因此常被误会成冷淡的人，朋友也不多。理沙曾经喜欢铃木，但他没有察觉这份心意；相处过程中，铃木逐渐喜欢上千春并与她交往。他与大谷等人处于同一所学校的朋友圈中，外表沉静的性格与周围热闹的互动形成反差，也推动理沙重新面对自己的感情。",
+          "nicknames": [
+            "铃木凉二",
+            "Ryouji Suzuki",
+            "鈴木涼二",
+            "Sprout",
+            "凉二",
+            "铃木"
+          ],
+          "traits": [
+            "身高182厘米",
+            "田中千春的男朋友",
+            "外表冷静",
+            "容易被误认为冷淡",
+            "因此朋友不多",
+            "没有察觉理沙曾喜欢自己",
+            "后来喜欢上千春",
+            "与中尾同为高中生",
+            "是学校同学群体的一员"
+          ],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ryouji Suzuki",
+            "name_native": "鈴木涼二",
+            "name_alternative": [
+              "Sprout"
+            ],
+            "description": "__Height:__ 182 cm (5'10\")\n\nChiharu&#039;s boyfriend. Suzuki&#039;s cool demeanor is often mistaken for standoffishness, and so he has few friends. Oblivious to Risa&#039;s crush on him, he developed feelings for Chiharu.     \n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 3422,
+          "name": "寿圣子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3422-1EtkM86OfuZC.jpg",
+          "description": "寿圣子身高148厘米，是理沙和大谷学校里的学生。她以女性身份生活，希望别人称呼自己“圣子”，而不是听起来更像男性的本名“圣四郎”。圣子喜欢大谷，并曾给过他初吻。后来她在校医室照顾受伤的大谷时，让他知道自己出生时被登记为男性；大谷表示仍愿意与她做朋友。两人的坦诚让圣子不必再担心被厌恶，也使他们维持了友善关系。",
+          "nicknames": [
+            "寿圣子",
+            "Seiko Kotobuki",
+            "寿",
+            "Seishiro Kotobuki",
+            "圣子"
+          ],
+          "traits": [
+            "身高148厘米",
+            "就读于理沙和大谷的学校",
+            "以女性身份生活",
+            "希望别人称呼她圣子",
+            "出生时登记为男性",
+            "喜欢大谷",
+            "曾亲吻大谷",
+            "帮助受伤的大谷时坦白身份",
+            "与大谷保持朋友关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "瀧本富士子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95451-NuJHY4CzBM8O.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Seiko Kotobuki",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "__Height__: 148 cm  \n\nHas a large crush on Otani.  ~!She is biologically male and states that God placed her in the wrong body. Prefers to be called Seiko instead of Seishiro because it sounds more feminine. Gave Otani his first kiss, but he later found out she was physically male when she took off her shirt when tending to his injury in the school infirmary. She was afraid that Otani would think she was disgusting, but Otani stated that he didn't think such a thing and they remained friends. !~"
+          }
+        },
+        {
+          "id": 3423,
+          "name": "舞竹国海",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3423-o7ssEHvggc5Y.jpg",
+          "description": "舞竹国海是理沙和大谷学校的实习教师，24岁，身材高挑、外表英俊，很快便拥有一群仰慕他的女学生。他更喜欢别人叫自己“Maity”。理沙对舞竹产生好感后，大谷因此感到嫉妒，也开始意识到自己对理沙的真实感情。舞竹的外貌还与理沙喜爱的视觉小说角色Cain-sama相似，这使理沙对他的好感更为明显，并引出一连串校园恋爱误会。",
+          "nicknames": [
+            "舞竹国海",
+            "Maitake Kuniumi",
+            "Maity",
+            "舞竹"
+          ],
+          "traits": [
+            "24岁",
+            "理沙和大谷学校的实习教师",
+            "身材高挑",
+            "外表英俊",
+            "很快获得许多女学生喜爱",
+            "理沙对他有好感",
+            "使大谷产生嫉妒",
+            "让大谷意识到自己对理沙的感情",
+            "外貌像理沙喜欢的游戏角色Cain-sama"
+          ],
+          "voice_actors": [
+            {
+              "name": "諏訪部順一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Maitake Kuniumi",
+            "name_native": "舞竹国海",
+            "name_alternative": [
+              "Maity"
+            ],
+            "description": "Student teacher at Risa and Ōtani&#039;s school. Maitake, who prefers the nickname &quot;Maity&quot;, he is 24 years old [he mentioned that in the Anime] and he is taller than Risa and extraordinarily good-looking. He soon acquires a legion of female fans. Gaining affection from Risa, Ōtani soon becomes jealous and quickly starts to realize his feelings for her.   Interestingly, he bears a resemblance to &quot;Cain-sama&quot;, a character in one of Risa&#039;s favorite visual novels."
+          }
+        },
+        {
+          "id": 3424,
+          "name": "海坊主",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3424-02UixUvcxiro.png",
+          "description": "海坊主是一位人气说唱歌手，也是理沙和大谷共同喜爱的音乐人。信子曾因两人都热衷于海坊主而认为他们很合拍。理沙和大谷在修学旅行期间意外遇见他，发现舞台形象之外的海坊主其实十分顾家，是一名重视家庭生活的男性。这次相遇让两位歌迷看到偶像日常的一面，也进一步确认了他们拥有相似的兴趣和共同话题。",
+          "nicknames": [
+            "海坊主",
+            "Umibouzu"
+          ],
+          "traits": [
+            "人气说唱歌手",
+            "以海坊主为名活动",
+            "拥有众多歌迷",
+            "理沙是他的粉丝",
+            "大谷也是他的粉丝",
+            "两人的共同兴趣之一",
+            "在修学旅行期间与主角相遇",
+            "实际是顾家的男性",
+            "反差打破歌迷想象"
+          ],
+          "voice_actors": [
+            {
+              "name": "スモーキー・テツニ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107274-rDjte0BPqXDS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Umibouzu",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "A popular rap group. Risa and Otani are both avid fans of the eponymous lead singer, Umibouzu, leading to Nobu&#039;s suggestion that the two are compatible. Risa and Otani accidentally cross paths with Umibouzu while on a class trip, and learn that he is actually a devoted family man."
+          }
+        },
+        {
+          "id": 3425,
+          "name": "神崎真由",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3425-bChsJ3zuVYSz.jpg",
+          "description": "神崎真由身高142厘米，是大谷在中学时期交往过的前女友。她曾担任学校篮球队经理，外貌与千春十分相似，这也是大谷曾喜欢千春的原因之一。真由后来爱上了一名个子很高的男生，于是与大谷分手，让大谷受到很大打击。她的恋爱经历解释了大谷对身高和感情的复杂反应，也使他在面对理沙时更难坦率表达心意。",
+          "nicknames": [
+            "神崎真由",
+            "Mayu Kanzaki",
+            "真由",
+            "神崎"
+          ],
+          "traits": [
+            "身高142厘米",
+            "大谷的前女友",
+            "曾与大谷在中学交往",
+            "担任过篮球队经理",
+            "外貌与田中千春相似",
+            "大谷曾喜欢千春",
+            "因为喜欢高个子男生而提出分手",
+            "分手令大谷十分受伤",
+            "身材娇小"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡由貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95073-HIjUyhssrxGs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mayu Kanzaki",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "__Height:__ 142 cm\n\nShe is the ex-girlfriend of Ootani. She looks very similar to Chiharu (or Chiharu to her), which is one the most likely reasons that Ootani had that crush on Chiharu. They started dating in middle-school, and she was the manager for the school basketball team. She broke up with him, leaving him completely heartbroken, because she was in love with someone else that just so happened to be really tall."
+          }
+        },
+        {
+          "id": 4614,
+          "name": "吉冈美美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4614-Vn7c66pbeuz4.png",
+          "description": "吉冈美美身高172厘米，住在大谷家隔壁，暗恋大谷。她每天给大谷送牛奶，希望他能长高到与自己相近的身高；美美的身高和理沙相同，因此她把理沙视作情敌。当大谷表现出喜欢理沙后，美美变得嫉妒，对大谷依旧亲切，却会在背后冷淡地对待理沙。她的追求和态度变化给理沙与大谷的关系带来新的阻碍。",
+          "nicknames": [
+            "吉冈美美",
+            "Mimi Yoshioka",
+            "吉岡美々",
+            "美美",
+            "吉冈"
+          ],
+          "traits": [
+            "身高172厘米",
+            "住在大谷家隔壁",
+            "喜欢大谷",
+            "每天给大谷送牛奶",
+            "希望大谷长高",
+            "身高与理沙相近",
+            "因大谷喜欢理沙而嫉妒",
+            "对大谷表现亲切",
+            "私下对理沙态度冷淡"
+          ],
+          "voice_actors": [
+            {
+              "name": "荒木香衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95386-rDwf29ehsbAt.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mimi Yoshioka",
+            "name_native": "吉岡美々",
+            "name_alternative": [],
+            "description": "__Height:__ 172 cm (5'7\")\n\nOotani's next door neighbor. She is in love with Ootani, and brings him milk every day so he could reach her height, about the same as Risa's. Since Ootani does not not have feelings toward her but he does have feelings for Risa, Mimi becomes jealous of her. She acts accordingly two-faced between them both-- acting sweet towards Ootani, yet acting sour to Risa behind his back."
+          }
+        },
+        {
+          "id": 4881,
+          "name": "小堀和希",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4881-PomNEgVfGinT.jpg",
+          "description": "小堀和希是一名年纪较轻的学生，在池边店与理沙一起打工，身高158厘米，比大谷稍高，却比理沙矮。他留着带红色挑染的黑发，也是海坊主的歌迷。和希逐渐喜欢上理沙，理沙也觉得他很可爱；两人曾一起去听海坊主的演唱会，这令理沙和大谷短暂发生感情波折。和希还亲口向大谷表示自己喜欢理沙，促使大谷正视竞争者的存在。",
+          "nicknames": [
+            "小堀和希",
+            "Kazuki Kohori",
+            "和希",
+            "小堀"
+          ],
+          "traits": [
+            "身高158厘米",
+            "在池边店与理沙打工",
+            "年纪较轻",
+            "身高略高于大谷",
+            "比理沙矮",
+            "黑发带红色挑染",
+            "喜欢说唱歌手海坊主",
+            "逐渐喜欢上理沙",
+            "理沙觉得他很可爱",
+            "曾与理沙一起参加演唱会"
+          ],
+          "voice_actors": [
+            {
+              "name": "鎌苅健太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95680-CDnOMRzFXTfK.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "下和田ヒロキ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95586-aPnJxZN3fKcZ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kazuki Kohori",
+            "name_native": "小堀和希",
+            "name_alternative": [],
+            "description": "__Height:__ 158 cm (5'2\")\n\nA young student who works part time with Risa in Ikebe. He is notably shorter than her, although slightly taller than Otani (158 cm.), and has distinctive black hair with a red streak. Risa soon discovers that he is also an avid Umibouuzu fan. He very soon develops feelings for Risa, who admits to herself that she finds him &#039;cute&#039;. Against her better judgment, Risa attends an Umibouzu concert with Kohori which leads to her temporary breakup with Otani. He even tells Ōtani that he is in love with Risa, which causes Ōtani to slug him."
+          }
+        }
+      ]
+    }
+  ]
+}

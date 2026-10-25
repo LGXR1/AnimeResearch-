@@ -1,0 +1,940 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:29:57.896Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 21517,
+      "anime_title": "恋爱暴君",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21517,
+        "titles": [
+          "Renai Boukun",
+          "Love Tyrant",
+          "恋愛暴君",
+          "The very lovely tyrant of love♥"
+        ],
+        "year": 2017,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21517"
+      },
+      "characters": [
+        {
+          "id": 122433,
+          "name": "黄蝶崎柚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122433-btYPv6fJ3KcA.png",
+          "description": "黄蝶崎柚是高中生，也是绯山茜的妹妹与白峰樒的表亲。她对姐姐怀有超出普通亲情的好感，随后也逐渐喜欢上蓝野青司，因而被卷入由天使古莉引发的恋爱契约事件。柚的情感直率，常在茜与青司的关系中表现出在意和嫉妒；随着故事发展，她与身边人的关系变得更加复杂，也开始正视自己的心意。",
+          "nicknames": [
+            "黄蝶崎柚",
+            "Yuzu Kichougasaki",
+            "黄蝶ヶ崎袖",
+            "Yuzu"
+          ],
+          "traits": [
+            "就读于高中",
+            "绯山茜的妹妹",
+            "白峰樒的表亲",
+            "喜欢姐姐茜",
+            "后来也喜欢蓝野青司",
+            "性格坦率直接",
+            "容易被恋爱关系牵动",
+            "参与爱情契约事件",
+            "重视家人关系",
+            "在故事后期加入多角恋关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "長野佑紀",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/122434-zp7o48Rb43rr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuzu Kichougasaki",
+            "name_native": "黄蝶ヶ崎袖",
+            "name_alternative": [],
+            "description": "She is in love with her sister [Akane Hiyama](https://anilist.co/character/122435/Hiyama-Akane).\n\n~!She latter falls in love also with [Seiji Aino](https://anilist.co/character/122437/Aino-Seiji). Marrying him at the end of the story together with her sister and [Guri](https://anilist.co/character/122436/Guri).!~"
+          }
+        },
+        {
+          "id": 122435,
+          "name": "绯山茜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122435-QmRgdx6mQiYr.png",
+          "description": "绯山茜是校园里颇受欢迎的学生，也是蓝野青司暗恋的对象，同时是黄蝶崎柚的姐姐。她平时以温柔得体的形象示人，内心却有强烈的占有欲，得知青司身边出现其他女孩时容易展现病娇的一面。茜重视自己与青司之间的关系，会主动争取他的注意；她与柚之间既有亲情，也夹杂着难以简单化解的情感竞争。",
+          "nicknames": [
+            "绯山茜",
+            "Akane Hiyama",
+            "緋山茜",
+            "Akane"
+          ],
+          "traits": [
+            "校园人气偶像",
+            "就读于高中",
+            "是柚的姐姐",
+            "对青司怀有好感",
+            "外表温柔受欢迎",
+            "具有病娇倾向",
+            "占有欲强烈",
+            "擅长隐藏危险情绪",
+            "重视与青司的关系",
+            "面对情敌时行动激烈"
+          ],
+          "voice_actors": [
+            {
+              "name": "沼倉愛美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104973-rymSxCu8uP0Y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Akane Hiyama",
+            "name_native": "緋山茜",
+            "name_alternative": [],
+            "description": "The school's idol who [Seiji](https://anilist.co/character/122437/Aino-Seiji) is in love with, she turns out to be a yandere. Although they have different surnames, she's also the older sister of [Yuzu Kichougasaki](https://anilist.co/character/122433/Kichougasaki-Yuzu)."
+          }
+        },
+        {
+          "id": 122436,
+          "name": "古莉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122436-NNW2XLMTREru.png",
+          "description": "古莉是一名负责促成恋爱的天使，持有能够缔结恋爱关系的契约笔。她常把丘比特的职责当作玩笑，做事随心所欲，还因为偏爱男性恋爱作品而经常促成与任务目标不同的配对。古莉是神与恶魔的女儿，复杂的出身让她不容易理解普通人的爱情；随着与青司、茜等人相处，她开始认真面对承诺、选择和感情带来的后果。",
+          "nicknames": [
+            "古莉",
+            "Guri",
+            "グリ",
+            "丘比特"
+          ],
+          "traits": [
+            "负责促成恋爱的天使",
+            "持有恋爱之神的契约笔",
+            "常把丘比特工作当作玩笑",
+            "喜欢男性恋爱作品",
+            "容易组成男性情侣",
+            "对爱情规则了解不成熟",
+            "父亲是神",
+            "母亲是恶魔",
+            "未来可能继承神位",
+            "逐渐理解真实感情"
+          ],
+          "voice_actors": [
+            {
+              "name": "青山吉能",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118475-19IqPJRpa08T.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Guri",
+            "name_native": "グリ",
+            "name_alternative": [],
+            "description": "An Angel/Cupid. She often treats her duty as a Cupid like a joke, forming almost exclusively gay couples due to her love for male romance.\n\n~!She is the daughter of [God](https://anilist.co/character/155539/Kamisama) and is set to take his place soon, and her mom is a demon, thus why she has a hard time understanding love.!~"
+          }
+        },
+        {
+          "id": 122437,
+          "name": "蓝野青司",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122437-tUGgjmDi4OaN.jpg",
+          "description": "蓝野青司是一名高中生，因古莉的恋爱契约而被卷入一连串超自然恋爱事件。绯山茜原本就是他的暗恋对象，后来柚、古莉等女孩也与他建立起复杂关系。青司相对理性，努力在不伤害任何人的情况下处理感情，却常被突如其来的争执和天使的任性举动打乱计划。他也是亚久亚的哥哥，日常生活中仍尽量保持冷静。",
+          "nicknames": [
+            "蓝野青司",
+            "Seiji Aino",
+            "藍野青司",
+            "Seiji"
+          ],
+          "traits": [
+            "高中生",
+            "古莉的恋爱契约对象",
+            "茜暗恋的对象",
+            "是亚久亚的哥哥",
+            "相对理性冷静",
+            "努力不伤害身边女孩",
+            "卷入多角恋关系",
+            "常被超自然事件打乱生活",
+            "面对矛盾时试图沟通",
+            "是故事主要视角人物"
+          ],
+          "voice_actors": [
+            {
+              "name": "小野賢章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95819-O4fosAY0a1Ml.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "吉岡茉祐",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118477-3qPqVRGIv40V.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Seiji Aino",
+            "name_native": "藍野青司",
+            "name_alternative": [],
+            "description": "Seiji is a more-or-less level headed individual, trying to please all the women around him without hurting them. He is a high school student and older brother of [Akua Aino](https://anilist.co/character/122432/Aino-Akua)."
+          }
+        },
+        {
+          "id": 122430,
+          "name": "白峰樒",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122430-gHGCbNiKvitm.png",
+          "description": "白峰樒是绯山茜与黄蝶崎柚的表亲，性格冷酷，善于操纵他人的情绪和关系。她外表平静，往往能准确看出别人隐藏的欲望，再利用亲属身份和言语挑动矛盾。樒对恋爱契约引发的混乱抱有兴趣，也会主动介入青司一行人的生活；她的行动使看似轻松的校园恋爱喜剧多出危险而阴暗的一面。",
+          "nicknames": [
+            "白峰樒",
+            "Shikimi Shiramine",
+            "Shikimi"
+          ],
+          "traits": [
+            "茜与柚的表亲",
+            "性格残酷而善于操纵",
+            "擅长伪装真实想法",
+            "对他人情绪观察敏锐",
+            "常利用亲属关系接近目标",
+            "带有病态控制欲",
+            "对恋爱契约事件感兴趣",
+            "言行冷静有压迫感",
+            "是故事中的危险角色",
+            "会主动挑拨人物关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "原由実",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107016-5zuMmFy8rzor.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shikimi Shiramine",
+            "name_native": "白峰樒",
+            "name_alternative": [],
+            "description": "The sadistic, hollow, and manipulative cousin of [Akane](https://anilist.co/character/122435/Hiyama-Akane) and [Yuzu](https://anilist.co/character/122433/Kichougasaki-Yuzu)."
+          }
+        },
+        {
+          "id": 122432,
+          "name": "蓝野亚久亚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122432-HR0zD5T9uQZn.jpg",
+          "description": "蓝野亚久亚是青司的妹妹，性格带有假小子气质，说话直率，和哥哥相处时常显得亲近自然。她会参与青司身边不断扩大的恋爱闹剧，也能从家人的角度观察他如何应付茜、古莉等人的感情。亚久亚行事积极，不太掩饰自己的想法；虽然她不是契约事件的中心人物，却为青司的家庭日常和校园关系增添了轻松的一面。",
+          "nicknames": [
+            "蓝野亚久亚",
+            "Akua Aino",
+            "藍野あくあ",
+            "Akua"
+          ],
+          "traits": [
+            "青司的妹妹",
+            "就读于高中",
+            "性格偏假小子",
+            "说话直率",
+            "与哥哥关系亲近",
+            "容易加入青司的日常麻烦",
+            "面对感情问题很坦率",
+            "行动积极",
+            "关心家人",
+            "在恋爱闹剧中保持旁观视角"
+          ],
+          "voice_actors": [
+            {
+              "name": "高橋李依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akua Aino",
+            "name_native": "藍野あくあ",
+            "name_alternative": [],
+            "description": "Seiji's tomboyish younger sister."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 21006,
+      "anime_title": "灰色的乐园",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21006,
+        "titles": [
+          "Grisaia no Rakuen",
+          "The Eden of Grisaia",
+          "グリザイアの楽園",
+          "Le Eden De La Grisaia"
+        ],
+        "year": 2015,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21006"
+      },
+      "characters": [
+        {
+          "id": 80257,
+          "name": "榊由美子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80257-pelmvGBeCiNm.png",
+          "description": "榊由美子是美滨学园二年级学生，也是东滨铁路集团大亨的女儿，更是最早入学的学生。她留着及腰黑发，性格直率挑剔，不容易与同学亲近，平时常独自阅读，尤其喜欢推理小说。由美子随身带着美工刀，生气时会拿它威吓别人；看似娇生惯养的她其实喜欢平价零食，杯装炒面就是最爱的食物之一。",
+          "nicknames": [
+            "榊由美子",
+            "Yumiko Sakaki",
+            "Sakaki Yumiko"
+          ],
+          "traits": [
+            "美滨学园二年级学生",
+            "东滨铁路集团继承人之女",
+            "最早进入美滨学园的学生",
+            "留有及腰黑发",
+            "性格直率难以亲近",
+            "喜欢独处和阅读推理小说",
+            "随身携带美工刀",
+            "爱吃方便面等平价食物",
+            "在意同学却不善表达",
+            "代表水果为葡萄"
+          ],
+          "voice_actors": [
+            {
+              "name": "田中涼子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96132-zxza4Qnd5otA.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yumiko Sakaki",
+            "name_native": "榊由美子",
+            "name_alternative": [],
+            "description": "__Height__: 163 cm  \n\nA second-year at Mihama Academy, and the daughter of the East Beach Railway Express Group tycoon. She was the first student to enroll at Mihama Academy. She has waist-length black hair. Because of her bluntness and hard-to-please personality, she has difficulty talking to others. Always trying to be alone, she hardly spends time with the others. She always carries a box cutter with her and use it to threaten others when she’s angry. She is a bookworm, and mystery novels are her favorite genre. Although she gives off the aura of a spoiled princess, she loves junk foods, and a cup of fried soba noodles is her favorite meal.  Her representative fruit is grape."
+          }
+        },
+        {
+          "id": 80891,
+          "name": "风见雄二",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n80891-WesKQmQEVJ5n.jpg",
+          "description": "风见雄二是美滨学园的学生，过去曾以代号9029在地下世界执行任务，后来厌倦那种生活，希望过上普通的校园日子。他性格冷静、现实，习惯先侦察和规划再采取行动，必要时也能使用严苛的军事手段。雄二看似疏离，却会在危急时保护同伴；他的过去与草壁浅子的教导、姐姐一姬的遭遇紧密相连。",
+          "nicknames": [
+            "风见雄二",
+            "Yuuji Kazami",
+            "風見雄二",
+            "Agent I-9029",
+            "Boomerang",
+            "ET-01",
+            "Genie",
+            "Kazami Yuuji"
+          ],
+          "traits": [
+            "美滨学园学生",
+            "曾是职业杀手代号9029",
+            "接受过严苛战斗训练",
+            "厌倦地下世界生活",
+            "希望过普通校园生活",
+            "性格冷静现实",
+            "擅长规划与侦察",
+            "关键时刻会保护同伴",
+            "草壁浅子的养育对象",
+            "风见一姬的弟弟"
+          ],
+          "voice_actors": [
+            {
+              "name": "櫻井孝宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "諏訪彩花",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115106-QsQwmOLeNILr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuuji Kazami",
+            "name_native": "風見雄二",
+            "name_alternative": [
+              "Agent I-9029",
+              "Boomerang",
+              "ET-01",
+              "Genie"
+            ],
+            "description": "__Height:__ 178 cm\n\nThe protagonist of Grisaia. Ace number 9029, Yuuji is the “janitor” for the underworld. Tired of the life, he wanted to live a normal school life. Cool, philosophical, and minimalist, Yuuji is a realist…but also tsundere. Being very cowardly, he always plans and scouts before action. Other than his occasional orthodontic military methods, he’s just a fit young man."
+          }
+        },
+        {
+          "id": 80893,
+          "name": "入巢莳菜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n80893-qYexb8DbTG0E.jpg",
+          "description": "入巢莳菜是美滨学园一年级学生，性格天真随性，言行常让人摸不着头绪。她把雄二当作哥哥，也像姐姐一样仰慕周防天音；虽然宿舍里有自己的房间，却经常待在天音那里。莳菜幼年曾随父母在海外生活，因此会说英语。她喜欢穿两只不同颜色的及膝袜，独特的举止和出人意料的发言，常给美滨学园的日常带来轻松气氛。",
+          "nicknames": [
+            "入巢莳菜",
+            "Makina Irisu",
+            "入巣蒔莱",
+            "Irisu Makina",
+            "入巣蒔菜"
+          ],
+          "traits": [
+            "美滨学园一年级学生",
+            "性格天真随性",
+            "说话行为常出人意料",
+            "把雄二当作哥哥",
+            "仰慕周防天音",
+            "常待在天音的房间",
+            "会称呼雄二为哥哥",
+            "曾在海外生活并会说英语",
+            "喜欢穿不同颜色的及膝袜",
+            "代表水果为草莓或苹果"
+          ],
+          "voice_actors": [
+            {
+              "name": "民安ともえ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107243-YMa52cjUyuOS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Makina Irisu",
+            "name_native": "入巣蒔莱",
+            "name_alternative": [],
+            "description": "__Height:__ 144 cm\n\nFirst-year student at Mihama Academy, an innocent and carefree girl. For some inexplicable reasons, it’s hard to understand her personality. In general, she can be explained in one word, “fool”, but sometime her speeches and behaviors make people shed cold sweat. For that uniqueness, most of people who talk with her for five minutes will say, “This girl is awful”. She adores Yuuji like a brother and Amane like a sister. She calls Yuuji “onii-chan”. Although she has her own room in the dormitory, she always stays in Amane’s room. She always wears knee-socks with 2 different colors. Because of her parents' work, she stayed in foreign countries until she was six so she can speak English. Her representative fruit is strawberry in the visual novel, and apple in the anime."
+          }
+        },
+        {
+          "id": 80895,
+          "name": "小岭幸",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80895-ER8FPmnwhR1h.png",
+          "description": "小岭幸是美滨学园一年级学生，也承担学园女仆的工作。她礼貌认真，责任感很强，习惯把收到的要求依次理解为“接受、确认、执行”，因此有时会把同学的玩笑当成正式命令。幸几乎总穿着女仆制服，也喜欢鲨鱼，曾为满制作鲨鱼形状的小包。她可靠而勤奋，却因过度认真给校园生活带来不少意外。",
+          "nicknames": [
+            "小岭幸",
+            "Sachi Komine",
+            "小嶺幸",
+            "Sacchin",
+            "Komine Sachi"
+          ],
+          "traits": [
+            "美滨学园一年级学生",
+            "兼任学园女仆",
+            "礼貌守规矩",
+            "责任感强",
+            "习惯先接受再确认并执行",
+            "常穿女仆制服",
+            "容易认真对待玩笑",
+            "喜欢鲨鱼",
+            "会制作鲨鱼造型物品",
+            "代表水果为苹果或草莓"
+          ],
+          "voice_actors": [
+            {
+              "name": "清水愛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95072-V8FWqUIDJ57b.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sachi Komine",
+            "name_native": "小嶺幸",
+            "name_alternative": [
+              "Sacchin"
+            ],
+            "description": "__Height:__ 151 cm\n\nFirst-year student at Mihama Academy and the maid of Mihama Academy. Except when going to school, taking a bath, or swimming, she always wears her maid uniform. The students at Mihama told her to wear maid uniform as much as possible as a joke, but she took it seriously. Polite and having strong sense of responsibility, she never fails to accomplish any request from others. In her action dictionary, there are only 3 words “receive” – “confirm” – “execute”. Because of that reason, sometimes she takes a joke too seriously and causes a lot of trouble. Her favorite animal is the shark. The shark-shaped pouch which [Michiru](https://anilist.co/character/80897/Matsushima-Michiru) carries around is made by her.\n\nHer representative fruit is apple in the visual novel, and strawberry in the anime."
+          }
+        },
+        {
+          "id": 80897,
+          "name": "松岛满",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n80897-psxA0eW0jAsb.jpg",
+          "description": "松岛满是美滨学园二年级学生，热衷模仿作品中的傲娇角色，自称要表现出典型的傲娇言行。她留着漂染金发双马尾，性格活泼元气，经常成为班级气氛的中心，但学习成绩并不理想。满随身带着鲨鱼造型的小包，里面装着柠檬糖；她明明不喜欢酸味，却仍尝试喝纯维生素C饮料，希望借此提升自己的成绩。",
+          "nicknames": [
+            "松岛满",
+            "Michiru Matsushima",
+            "松嶋みちる",
+            "Chiruchiru",
+            "Matsushima Michiru"
+          ],
+          "traits": [
+            "美滨学园二年级学生",
+            "努力模仿傲娇角色",
+            "漂染金发并扎双马尾",
+            "性格活泼元气",
+            "常担任班级气氛担当",
+            "学业成绩不理想",
+            "随身带鲨鱼造型小包",
+            "喜欢柠檬糖",
+            "讨厌酸味却尝试补充维生素C",
+            "代表水果为柠檬"
+          ],
+          "voice_actors": [
+            {
+              "name": "水橋かおり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95156-7tw0zP396ecG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Michiru Matsushima",
+            "name_native": "松嶋みちる",
+            "name_alternative": [
+              "Chiruchiru"
+            ],
+            "description": "__Height:__ 155 cm\n\nSecond-year student at Mihama Academy, a fake tsundere with bleached blonde twintails. She has a deep interest in tsundere characters and tries to act like one. Her silly and energetic personality makes her becomes the mood maker of the class. Her grades are bad. She always carries a shark-shaped pouch which contains lemonade sweets. Despite having difficulty with sour foods, she still tries to drink 100% pure Vitamin C in order to “improve her intelligence”. She has encountered many instances of bad luck since her birth but always manages to get through them in one way or another.  Her representative fruit is the lemon."
+          }
+        },
+        {
+          "id": 80899,
+          "name": "周防天音",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80899-TzrealvmrLxH.png",
+          "description": "周防天音是美滨学园三年级学生，成熟可靠，常以大姐姐的姿态照顾身边同学。她比雄二年长两岁，家族在银座经营历史悠久的餐馆，因此厨艺出色；母亲来自京都，天音兴奋或慌张时会不自觉说出关西腔。她也热爱汽车和摩托车，持有自动二轮车驾照，并把改装后的越野摩托车停在学园车库。",
+          "nicknames": [
+            "周防天音",
+            "Amane Suou",
+            "Suou Amane"
+          ],
+          "traits": [
+            "美滨学园三年级学生",
+            "成熟可靠的大姐姐型人物",
+            "比雄二年长两岁",
+            "擅长照顾同学",
+            "家族经营银座老字号餐馆",
+            "厨艺出色",
+            "兴奋时会说关西腔",
+            "热爱汽车与摩托",
+            "持有自动二轮车驾照",
+            "代表水果为樱桃"
+          ],
+          "voice_actors": [
+            {
+              "name": "田口宏子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/95548-Z1WQpFzJcvT9.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Amane Suou",
+            "name_native": "周防天音",
+            "name_alternative": [],
+            "description": "__Height:__ 169 cm\n\nThird-year student at Mihama Academy, she is the big sister type who always takes care of others. Because of unknown circumstances, she skipped one school year at her previous school, so she is actually two years older than [Yuuji](https://anilist.co/character/80891). She is tall and has a good figure. Her family manages a long-established restaurant in Ginza, so she is good at cooking. Because her mother comes from Kyoto, when excited or panicking, she talks in a Kansai dialect. She has a deep interest in cars and has acquired an automatic two-wheeled vehicle license. She has a dirt bike which was remodeled to a cruiser called “Boba Tarou” and is put in the garage of the academy.  Her representative fruit is cherry."
+          }
+        },
+        {
+          "id": 88371,
+          "name": "风见一姬",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88371-2HVAuje0JpyN.png",
+          "description": "风见一姬是雄二的姐姐，也是他少年时期最重要的教导者。她身材娇小，却拥有出众的智力和敏捷判断力，被周围人视作天才。一姬与天音同龄，曾就读私立泷园学园并加入篮球队。她后来遭遇意外身亡，对雄二与天音都造成深远影响；即使不常出现在现实中，她留下的记忆仍不断影响弟弟的选择。",
+          "nicknames": [
+            "风见一姬",
+            "Kazuki Kazami",
+            "風見一姫",
+            "Kazami Kazuki"
+          ],
+          "traits": [
+            "雄二的姐姐",
+            "曾负责教导雄二",
+            "与天音同龄",
+            "智力超群",
+            "反应敏捷判断出色",
+            "身材娇小",
+            "曾就读私立泷园学园",
+            "是篮球队成员",
+            "在意弟弟的成长",
+            "经历意外后影响雄二与天音"
+          ],
+          "voice_actors": [
+            {
+              "name": "友永朱音",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95547-Xti2a7h47s3F.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kazuki Kazami",
+            "name_native": "風見一姫",
+            "name_alternative": [],
+            "description": "__Height:__ 150 cm\n\nKazuki is [Yuuji](https://anilist.co/character/80891)'s elder sister as well as the one who taught him throughout the earlier periods of his life.\n\nDespite her delicate and diminutive body, she has brilliant intellect and excels in quick-witted judgement to the point that she has been labelled as a genius. She is the same age as [Amane](https://anilist.co/character/80899), both of which attended the same school \"Takizono Private\" and was also an active member of the basketball team for the aforementioned academy.\n~!She unfortunately dies in an accident which has a great impact on both Amane's and Yuuji's lives, with the latter being more emotionally shaken.!~"
+          }
+        },
+        {
+          "id": 124719,
+          "name": "草壁浅子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124719-qudQNa8V22Lv.png",
+          "description": "草壁浅子是雄二过去的师父，在他的父母去世后负责抚养和训练他。浅子性格兼具严厉与温柔，既会用高强度训练塑造雄二，也把许多自己的价值观传授给他，让他至少能够像普通人一样生活。她擅长生存与战斗技能，却完全不擅长做饭。空闲时，浅子喜欢读书、抽烟并喝咖啡，雨天尤其享受独处。",
+          "nicknames": [
+            "草壁浅子",
+            "Asako Kusakabe",
+            "日下部麻子",
+            "9029",
+            "Kusakabe Asako"
+          ],
+          "traits": [
+            "雄二过去的师父",
+            "曾负责抚养雄二",
+            "父母去世后照顾他成长",
+            "训练手段严格",
+            "也有温柔体贴的一面",
+            "把许多价值观传授给雄二",
+            "擅长战斗与生存训练",
+            "喜欢读书、咖啡和香烟",
+            "厨艺糟糕",
+            "对高个子女性有戒心"
+          ],
+          "voice_actors": [
+            {
+              "name": "瑞沢渓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103916-MU8BGiaUkkVK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Asako Kusakabe",
+            "name_native": "日下部麻子",
+            "name_alternative": [
+              "9029"
+            ],
+            "description": "__Height:__ 174 cm\n\nAsako was Yuuji's former master. She took charge of raising Yuuji when his parents passed away. She was both harsh and sweet, capable and incompetent and drilled many of her own values into Yuuji. Thanks to her job of bringing him up, he can at least act normal, but now possesses a strong wariness for the horrors of large women. She also completely and utterly incompetent at cooking as she couldn't even make fried rice.\n\nAsako wasn't particularly different from Yuuji; she loved to read. She was content to pass time with a book, a pack of cigarettes, and a pot of coffee especially on rainy days when she didn't have anything particular to do."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 170695,
+      "anime_title": "我能用刀把一切弹开",
+      "anime_origin": "JP",
+      "source": {
+        "id": 170695,
+        "titles": [
+          "Ore wa Subete wo [Parry] Suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
+          "I Parry Everything",
+          "俺は全てを【パリイ】する ～逆勘違いの世界最強は冒険者になりたい～",
+          "I Parry Everything: What Do You Mean I'm the Strongest? I'm Not Even an Adventurer Yet!",
+          "I Parry Everything to Become the Greatest Adventure!"
+        ],
+        "year": 2024,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/170695"
+      },
+      "characters": [
+        {
+          "id": 213554,
+          "name": "诺尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213554-dMsIH7ikPeSA.jpg",
+          "description": "诺尔从小梦想成为冒险者，十二岁时却被判定在所有方面都毫无天赋。为了不放弃梦想，他独自在山中苦练招架技能，最终练到能够弹开上千把刀刃。诺尔实际拥有惊人的力量，却完全没有意识到自己有多强；他在公会仍登记为最低阶冒险者，平日只接城镇杂务。朴实谦逊的性格，让他总把超常表现当作普通努力。",
+          "nicknames": [
+            "诺尔",
+            "Noor",
+            "ノール"
+          ],
+          "traits": [
+            "梦想成为冒险者",
+            "十二岁时被判定毫无天赋",
+            "长期在山中修炼招架",
+            "能弹开上千把刀刃",
+            "本人低估自己的实力",
+            "冒险者公会最低阶登记",
+            "日常做城镇杂务",
+            "执着坚持儿时梦想",
+            "反应与防御能力惊人",
+            "性格朴实谦逊"
+          ],
+          "voice_actors": [
+            {
+              "name": "濱野大輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120263-v4Hq7oOv7act.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Noor",
+            "name_native": "ノール",
+            "name_alternative": [],
+            "description": "Though he aspired to become an adventurer, at the age of twelve he was deemed to possess \"absolutely no talent whatsoever in anything.\" Yet, refusing to abandon his dream, he secluded himself in the mountains to hone his \"Parry\" skill—a dedication that eventually allowed him to grow capable of deflecting a thousand blades. \n~!\nIn truth, he possesses truly extraordinary abilities, though he remains the only one completely oblivious to them.!~\n\nHe is currently registered with the guild at the lowest possible rank, he spends his days simply performing menial chores around the town."
+          }
+        },
+        {
+          "id": 330746,
+          "name": "琳恩·克莱斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330746-I0NYGYSsccx8.png",
+          "description": "琳恩是克莱斯王国的第一公主，全名琳内堡·克莱斯。她在皇家首都训练学院就读期间，所有学科都取得该校历史最高成绩，并掌握六种元素体系的技能。琳恩曾遭魔物袭击，在危急时被诺尔救下，从此仰慕这位看似普通的冒险者，并亲切地称他为老师。她能力全面，也逐渐承担起王族身份带来的责任。",
+          "nicknames": [
+            "琳恩·克莱斯",
+            "Lynne",
+            "リーン",
+            "Linneburg Clays (リンネブルグ・クレイス)",
+            "Linneburg Clays"
+          ],
+          "traits": [
+            "克莱斯王国第一公主",
+            "全名琳内堡·克莱斯",
+            "皇家首都训练学院毕业",
+            "所有学科成绩创下最高纪录",
+            "掌握六种元素体系",
+            "曾被魔物袭击",
+            "由诺尔出手相救",
+            "敬仰诺尔并称他为老师",
+            "能力全面出众",
+            "对王国事务负有责任"
+          ],
+          "voice_actors": [
+            {
+              "name": "前川涼子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120430-CMENRlWNgR37.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Lynne",
+            "name_native": "リーン",
+            "name_alternative": [
+              "Linneburg Clays (リンネブルグ・クレイス)"
+            ],
+            "description": "The First Princess of the Kingdom of Clays, her full name is Linneburg Clays. She excels in every conceivable ability, having graduated from the Royal Capital Training Academy with the highest scores in its history across all disciplines. She has comprehensively mastered skills spanning all six elemental systems. \n\nShe was once attacked by a monster and saved from a perilous situation by [Noor](https://anilist.co/character/213554/Noor); ever since, she has looked up to him and affectionately addresses him as Sensei."
+          }
+        },
+        {
+          "id": 330742,
+          "name": "雷因·克莱斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330742-l3kS14tl5giH.png",
+          "description": "雷因·克莱斯是克莱斯王国的第一王子，也是国王的辅佐官。他性格冷静沉着，熟悉王室事务和王国局势，常从国家安全与政治安排的角度评估突发事件。雷因与第一公主琳恩是姐弟，彼此都肩负王族责任；当诺尔展现出超出常识的能力时，他也会观察这名冒险者如何影响王国与身边人的命运。",
+          "nicknames": [
+            "雷因·克莱斯",
+            "Rein Clays",
+            "レイン・クレイス"
+          ],
+          "traits": [
+            "克莱斯王国第一王子",
+            "国王的辅佐官",
+            "性格冷静沉着",
+            "熟悉王室事务",
+            "关注国家安全",
+            "善于评估人物能力",
+            "与琳恩是姐弟",
+            "承担继承人责任",
+            "擅长协调宫廷事务",
+            "对诺尔的实力保持观察"
+          ],
+          "voice_actors": [
+            {
+              "name": "寺島惇太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/110461-rvAKIkh34SiU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rein Clays",
+            "name_native": "レイン・クレイス",
+            "name_alternative": [],
+            "description": "He is the First Prince of the Kingdom of Clays; his full name is Rein Clays. Possessing a calm and composed demeanor, he also serves as an aide to the King of Clays."
+          }
+        },
+        {
+          "id": 330743,
+          "name": "欧肯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330743-tiI2PTsu3BfD.png",
+          "description": "欧肯是守护克莱斯王国的六贤之一，拥有“魔法圣”称号，是法师职业能够达到的最高位阶。他同时在王都的魔法学校担任导师，负责传授魔法知识并培养年轻术者。作为王国防卫体系的重要成员，欧肯需要在危机中运用强大魔法，也会与剑圣、盾圣等其他守护者协同。他的身份体现了魔法职业的最高成就。",
+          "nicknames": [
+            "欧肯",
+            "Oken",
+            "オーケン",
+            "Magic Saint"
+          ],
+          "traits": [
+            "守护克莱斯王国的六贤之一",
+            "称号为魔法圣",
+            "达到法师最高位阶",
+            "在首都魔法学校任教",
+            "擅长高阶魔法",
+            "承担王国防卫职责",
+            "经验丰富的导师",
+            "熟悉魔法体系",
+            "与其他圣者共同守护王国",
+            "重视培养年轻法师"
+          ],
+          "voice_actors": [
+            {
+              "name": "宇垣秀成",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103022-eePmaoJGrs94.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Oken",
+            "name_native": "オーケン",
+            "name_alternative": [
+              "Magic Saint"
+            ],
+            "description": "One of the Six Sovereigns who safeguard the Kingdom of Clays. He has been bestowed the title of \"Magic Saint\"—the highest rank attainable by a Mage—and also serves as an instructor at the School of the Mage in the Royal Capital."
+          }
+        },
+        {
+          "id": 330744,
+          "name": "西格",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330744-x7ooeFVxx70X.png",
+          "description": "西格是守护克莱斯王国的六贤之一，被授予“剑圣”称号，达到剑士职业所能获得的最高位阶。他在王都的剑士学校担任导师，负责训练年轻剑士并传授实战技巧。西格不仅是强大的战士，也是王国防卫体系的关键成员，会与魔法圣欧肯及其他守护者协同应对危机。他的经历代表了克莱斯王国剑术领域的最高水准。",
+          "nicknames": [
+            "西格",
+            "Sig",
+            "シグ",
+            "Sword Saint"
+          ],
+          "traits": [
+            "守护克莱斯王国的六贤之一",
+            "称号为剑圣",
+            "达到剑士最高位阶",
+            "在首都剑士学校任教",
+            "剑术造诣极高",
+            "负责培养年轻剑士",
+            "承担王国防卫职责",
+            "与王族保持合作",
+            "重视实战训练",
+            "代表克莱斯的剑术体系"
+          ],
+          "voice_actors": [
+            {
+              "name": "三木眞一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sig",
+            "name_native": "シグ",
+            "name_alternative": [
+              "Sword Saint"
+            ],
+            "description": "One of the Six Sovereigns who serve as guardians of the Kingdom of Clays. He has been bestowed the title of \"Sword Saint\"—the highest rank attainable by a swordsman—and also serves as an instructor at the School of the Swordsmen in the Royal Capital."
+          }
+        },
+        {
+          "id": 330745,
+          "name": "伊涅丝·哈尼斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330745-nBGVm50AKa9X.png",
+          "description": "伊涅丝·哈尼斯是克莱斯王国骑士，也是战士团副团长，负责贴身保护第一公主琳恩。她拥有名为“神盾”的特殊防御能力，能在危险来临时挡下攻击。伊涅丝曾是孤儿，后来被盾圣丹达尔格收养，并由他指导如何掌握力量。她忠诚沉稳，擅长防卫和近身护卫，也珍视与养父及公主之间的关系。",
+          "nicknames": [
+            "伊涅丝·哈尼斯",
+            "Ines Harness",
+            "イネス・ハーネス"
+          ],
+          "traits": [
+            "克莱斯王国骑士",
+            "战士团副团长",
+            "琳恩的贴身护卫",
+            "拥有神盾防御能力",
+            "曾是孤儿",
+            "由盾圣丹达尔格收养",
+            "接受盾圣训练",
+            "忠诚而沉稳",
+            "擅长防御与护卫",
+            "珍视养父与公主"
+          ],
+          "voice_actors": [
+            {
+              "name": "森なな子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118454-c5IJ0x8GoDuo.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ines Harness",
+            "name_native": "イネス・ハーネス",
+            "name_alternative": [],
+            "description": "A knight of the Kingdom of Clays and deputy commander of the Warrior Corps. She possesses a special defensive ability known as the “Divine Shield,” which she uses to serve as [Lynne's](https://anilist.co/character/330746/Lynne) bodyguard. \n\nA former orphan, she was taken in by the “Shield Saint” [Dandalg](https://anilist.co/character/330747/Dandalg), who taught her how to wield her power."
+          }
+        },
+        {
+          "id": 330747,
+          "name": "丹达尔格",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330747-mkAO5dqs3weI.png",
+          "description": "丹达尔格是守护克莱斯王国的六贤之一，拥有“盾圣”称号，是战士职业所能达到的最高位阶。他在王都战士学校担任导师，教授防御与战斗技巧。丹达尔格曾从孤儿院收养伊涅丝，并亲自训练她控制神盾能力，两人既是师徒也是父女。作为王国防卫的重要成员，他以坚固防御和培养后辈守护者而闻名。",
+          "nicknames": [
+            "丹达尔格",
+            "Dandalg",
+            "ダンダルグ",
+            "Shield Saint"
+          ],
+          "traits": [
+            "守护克莱斯王国的六贤之一",
+            "称号为盾圣",
+            "战士职业最高位阶",
+            "在首都战士学校任教",
+            "擅长防御与护盾技巧",
+            "伊涅丝的养父",
+            "曾从孤儿院收养伊涅丝",
+            "训练伊涅丝控制力量",
+            "承担王国防卫职责",
+            "重视培养战士后辈"
+          ],
+          "voice_actors": [
+            {
+              "name": "三宅健太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dandalg",
+            "name_native": "ダンダルグ",
+            "name_alternative": [
+              "Shield Saint"
+            ],
+            "description": "One of the Six Sovereigns who serve as guardians of the Kingdom of Clays. He holds the title of \"Shield Saint\"—the highest distinction attainable by a Warrior—and also serves as an instructor at the School of the Warrior in the Royal Capital. \n\nHe is [Ines's](https://anilist.co/character/330745/Ines-Harness) adoptive father; having taken her in from an orphanage, he taught her how to harness her powers."
+          }
+        },
+        {
+          "id": 330748,
+          "name": "赛因",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330748-WucZsRCL2tmz.png",
+          "description": "赛因是守护克莱斯王国的六贤之一，被授予“治愈圣”称号，达到牧师职业的最高位阶。他在王都的牧师学校任教，负责传授治疗与支援术，也会在王国遭遇危机时提供恢复力量。赛因与魔法圣、剑圣和盾圣等守护者共同承担防卫职责，重视队伍成员的生命安全。作为治疗体系的代表人物，他能在战斗之外保障同伴继续行动。",
+          "nicknames": [
+            "赛因",
+            "Sain",
+            "セイン",
+            "Healing Saint"
+          ],
+          "traits": [
+            "守护克莱斯王国的六贤之一",
+            "称号为治愈圣",
+            "达到牧师最高位阶",
+            "在首都牧师学校任教",
+            "精通治疗魔法",
+            "承担王国防卫职责",
+            "负责培养年轻牧师",
+            "与其他圣者共同作战",
+            "熟悉支援与恢复术",
+            "重视队伍成员生命安全"
+          ],
+          "voice_actors": [
+            {
+              "name": "羽多野渉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sain",
+            "name_native": "セイン",
+            "name_alternative": [
+              "Healing Saint"
+            ],
+            "description": "One of the Six Sovereigns who safeguard the Kingdom of Clays. He has been bestowed the title of \"Healing Saint\"—the highest rank attainable by a Cleric—and also serves as an instructor at the School of the Cleric in the Royal Capital."
+          }
+        }
+      ]
+    }
+  ]
+}

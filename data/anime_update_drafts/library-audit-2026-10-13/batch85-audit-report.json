@@ -1,0 +1,509 @@
+{
+  "checkedAt": "2026-10-22T07:58:29.670Z",
+  "batchStatus": "reviewed_with_followups",
+  "checkedCount": 100,
+  "checkedIds": [
+    157690,
+    157691,
+    157692,
+    157857,
+    157864,
+    157865,
+    157866,
+    157868,
+    157879,
+    157880,
+    157881,
+    157882,
+    157887,
+    157888,
+    157951,
+    157961,
+    157966,
+    157968,
+    157970,
+    157971,
+    157972,
+    157973,
+    157974,
+    157975,
+    157982,
+    157997,
+    158140,
+    158141,
+    158142,
+    158154,
+    158161,
+    158164,
+    158237,
+    158250,
+    158251,
+    158293,
+    158294,
+    158295,
+    158296,
+    158331,
+    158385,
+    158386,
+    158447,
+    158448,
+    158449,
+    158450,
+    158573,
+    158664,
+    158665,
+    158666,
+    158734,
+    158749,
+    158750,
+    158754,
+    158755,
+    158988,
+    159234,
+    159235,
+    159237,
+    159238,
+    159265,
+    159409,
+    159410,
+    159427,
+    159596,
+    159627,
+    159629,
+    159734,
+    159735,
+    159736,
+    159849,
+    159920,
+    159959,
+    159998,
+    159999,
+    160036,
+    160044,
+    160089,
+    160092,
+    160093,
+    160094,
+    160246,
+    160247,
+    160248,
+    160249,
+    160339,
+    160352,
+    160506,
+    160507,
+    160508,
+    160510,
+    160540,
+    160541,
+    160542,
+    160562,
+    160563,
+    160568,
+    160632,
+    160725,
+    160726
+  ],
+  "checkedRange": {
+    "firstId": 157690,
+    "lastId": 160726
+  },
+  "profileSnapshotVerifiedCount": 15,
+  "profileDescriptionAvailableCount": 14,
+  "modifiedIds": [
+    157690,
+    157691,
+    157692,
+    157879,
+    157880,
+    157881,
+    157882,
+    157971,
+    158250,
+    158331,
+    159427
+  ],
+  "source": {
+    "name": "AniList GraphQL 角色资料快照（本地缓存 + 2026-10-22 实时补查）",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "voiceMediaFetchedAt": "2026-10-13T03:04:01.115Z",
+    "records": [
+      {
+        "id": 157857,
+        "url": "https://anilist.co/character/157857"
+      },
+      {
+        "id": 157961,
+        "url": "https://anilist.co/character/157961"
+      },
+      {
+        "id": 158161,
+        "url": "https://anilist.co/character/158161"
+      },
+      {
+        "id": 158164,
+        "url": "https://anilist.co/character/158164"
+      },
+      {
+        "id": 158988,
+        "url": "https://anilist.co/character/158988"
+      },
+      {
+        "id": 159627,
+        "url": "https://anilist.co/character/159627"
+      },
+      {
+        "id": 159629,
+        "url": "https://anilist.co/character/159629"
+      },
+      {
+        "id": 159849,
+        "url": "https://anilist.co/character/159849"
+      },
+      {
+        "id": 160036,
+        "url": "https://anilist.co/character/160036"
+      },
+      {
+        "id": 160044,
+        "url": "https://anilist.co/character/160044"
+      },
+      {
+        "id": 160339,
+        "url": "https://anilist.co/character/160339"
+      },
+      {
+        "id": 160506,
+        "url": "https://anilist.co/character/160506"
+      },
+      {
+        "id": 160507,
+        "url": "https://anilist.co/character/160507"
+      },
+      {
+        "id": 160508,
+        "url": "https://anilist.co/character/160508"
+      },
+      {
+        "id": 160510,
+        "url": "https://anilist.co/character/160510"
+      }
+    ],
+    "round23FetchedAt": "2026-10-22T08:12:12.134Z",
+    "voiceMediaRound23": "2026-10-22T08:13:37.394Z",
+    "voiceStaffSearchRound23B": "2026-10-22T08:42:40.218Z"
+  },
+  "pendingExternalVerificationIds": [],
+  "pendingProfileNoDescriptionIds": [
+    158161,
+    158754,
+    158755,
+    159734,
+    159735,
+    159736,
+    160352,
+    160540,
+    160541,
+    160542
+  ],
+  "pendingShortDescriptionIds": [
+    157690,
+    157691,
+    157692,
+    157879,
+    157880,
+    157882,
+    158331,
+    160246,
+    160247,
+    160248,
+    160249
+  ],
+  "pendingDescriptionQualityIds": [
+    157951,
+    157966,
+    157968,
+    157970,
+    157971,
+    157972,
+    157973,
+    157974,
+    157975,
+    158573,
+    160352
+  ],
+  "pendingTraitVerificationIds": [
+    157951,
+    157961,
+    157966,
+    157968,
+    157970,
+    157971,
+    157972,
+    157973,
+    157974,
+    157975,
+    158237,
+    158293,
+    158294,
+    158295,
+    158296,
+    158447,
+    158448,
+    158449,
+    158450,
+    158573,
+    158988,
+    159627,
+    159849,
+    159998,
+    159999,
+    160044,
+    160352
+  ],
+  "pendingExactGenericTraitIds": [
+    157690,
+    157691,
+    157692,
+    157879,
+    157880,
+    157881,
+    157882,
+    157951,
+    157966,
+    157968,
+    157970,
+    157971,
+    157972,
+    157973,
+    157974,
+    157975,
+    158293,
+    158294,
+    158295,
+    158296,
+    158331,
+    158447,
+    158448,
+    158449,
+    158450,
+    158573,
+    159998,
+    159999,
+    160246,
+    160249,
+    160352
+  ],
+  "pendingVoiceActorIds": [
+    159959,
+    160632
+  ],
+  "pendingVoiceActorImageIds": [],
+  "pendingVisualVerificationIds": [],
+  "pendingColorTraitKeywordIds": [],
+  "pendingImageMismatchIds": [],
+  "localFollowup": {
+    "nicknameIssuesResolved": [
+      157690,
+      157691,
+      157692,
+      157879,
+      157880,
+      157881,
+      157882,
+      157971,
+      158250,
+      158331,
+      159427
+    ],
+    "voiceActorImagesRepaired": [],
+    "characterImagesRefreshed": [
+      159427
+    ],
+    "factualCorrections": [],
+    "searchIndex": {
+      "rebuilt": true,
+      "formulaVerified": true,
+      "descriptionExcluded": true,
+      "mismatchCountBeforeRebuild": 11
+    },
+    "localExportsRegenerated": true,
+    "nicknameAudit": {
+      "checkedCount": 100,
+      "duplicateCountAfter": 0,
+      "canonicalAniListNameMissingAfter": 0
+    },
+    "anilistProfilesRefetched": [
+      157857,
+      157961,
+      158161,
+      158164,
+      158988,
+      159627,
+      159629,
+      159849,
+      160036,
+      160044,
+      160339,
+      160506,
+      160507,
+      160508,
+      160510
+    ],
+    "anilistDescriptionsAvailable": [
+      157857,
+      157961,
+      158164,
+      158988,
+      159627,
+      159629,
+      159849,
+      160036,
+      160044,
+      160339,
+      160506,
+      160507,
+      160508,
+      160510
+    ],
+    "officialAliasesAdded": [],
+    "officialCharacterImagesRefreshed": [],
+    "searchIndexRebuiltForProfileChanges": [],
+    "voiceActorImagesFetchedRound23": [],
+    "voiceActorImagesFetchedAt": "2026-10-22T08:13:37.394Z",
+    "visualImageAuditRound23": {
+      "checkedAt": "2026-10-22T08:32:24.195Z",
+      "source": "逐张检查 AniList 官方角色头像；图片与角色链接见 visual-audit-round23/manifest.json",
+      "reviewedIds": [
+        157690,
+        157691,
+        157692,
+        157880,
+        157881,
+        157882,
+        158154,
+        158331,
+        159427,
+        160246,
+        160247,
+        160248,
+        160249
+      ],
+      "colorCorrections": [
+        {
+          "id": 157690,
+          "name": "埃斯里",
+          "anime": "世界顶尖的暗杀者转生为异世界贵族",
+          "beforeColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "afterColorTraits": [
+            "粉发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157690-UxH00e6GBDbw.png"
+        },
+        {
+          "id": 157691,
+          "name": "蒂雅",
+          "anime": "世界顶尖的暗杀者转生为异世界贵族",
+          "beforeColorTraits": [
+            "粉发",
+            "粉瞳"
+          ],
+          "afterColorTraits": [
+            "银发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157691-TY88sUXtm1Br.png"
+        },
+        {
+          "id": 157692,
+          "name": "锡安",
+          "anime": "世界顶尖的暗杀者转生为异世界贵族",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "金发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157692-In52r8Wk8VoG.png"
+        },
+        {
+          "id": 158331,
+          "name": "铃矢萌",
+          "anime": "恋爱小行星",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "紫发",
+            "紫瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158331-0gD5su0LOAP0.png"
+        },
+        {
+          "id": 160249,
+          "name": "佑树",
+          "anime": "公主连结Re:Dive",
+          "beforeColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "afterColorTraits": [
+            "灰发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160249-CXTSduncrRLJ.png"
+        }
+      ],
+      "pendingIds": [
+        157882
+      ]
+    },
+    "factualCorrectionsRound23": [],
+    "voiceActorImagesResolvedFromAniListStaffRound23B": [],
+    "voiceActorStaffSearchRound23B": "2026-10-22T08:42:40.218Z",
+    "visualImageFollowupRound23B": {
+      "checkedAt": "2026-10-22T08:55:56.108Z",
+      "resolved": [
+        {
+          "id": 157882,
+          "name": "芬里尔",
+          "decision": "头像可见白色皮毛和黄色眼睛；修正把动物误写成人类发色的特征。"
+        }
+      ],
+      "remainingIds": []
+    },
+    "supabaseSyncRound23B": {
+      "verifiedAt": "2026-10-22T09:08:41.820Z",
+      "voiceActorImagesSynced": 0,
+      "characterIdsSynced": [
+        157882
+      ],
+      "placeholderVoiceActorRemoved": false
+    }
+  },
+  "note": "AniList 官方头像进一步复核了颜色；修正错误颜色或删除头像无法证实的颜色标签，剩余不清晰记录继续待核。",
+  "scopeLimitations": [
+    "发色、瞳色没有逐图目视核验。",
+    "短简介、模板简介和泛化特征在缺少可靠事实来源时未改写。",
+    "本次只更新本地文件；Supabase 未同步，远端数据未回读。",
+    "AniList 实时接口仅未返回合成占位 ID 990000001；该记录继续标为待核。",
+    "AniList 未提供简介的角色仍需其他可靠人物资料来源；未根据作品简介推造人物传记。"
+  ],
+  "databaseSync": {
+    "syncedAt": null,
+    "syncedCount": 0,
+    "readbackVerified": false,
+    "status": "not_synced"
+  },
+  "syncAttempt": {
+    "attemptedThisTurn": false,
+    "reason": "本轮仅处理本地缓存与导出，没有向 Supabase 发起写入。"
+  }
+}

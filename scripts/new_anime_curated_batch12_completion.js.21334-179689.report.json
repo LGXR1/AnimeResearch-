@@ -1,0 +1,52 @@
+{
+  "verifiedAt": "2026-10-05T06:29:05.844Z",
+  "curatedFile": "scripts/new_anime_curated_batch12_completion.js",
+  "anime": [
+    {
+      "id": 21334,
+      "title": "三者三叶",
+      "count": 12,
+      "excluded": [],
+      "references": [
+        "https://anilist.co/anime/21334",
+        "http://sansyasanyou.com/chara/yoko.html",
+        "http://sansyasanyou.com/chara/futaba.html",
+        "http://sansyasanyou.com/chara/teru.html",
+        "http://sansyasanyou.com/chara/nishiyama.html",
+        "http://sansyasanyou.com/chara/kondo.html",
+        "http://sansyasanyou.com/chara/sonobe.html",
+        "http://sansyasanyou.com/chara/yamaji.html",
+        "http://sansyasanyou.com/chara/kou.html",
+        "http://sansyasanyou.com/chara/yu.html",
+        "http://sansyasanyou.com/chara/sakura.html",
+        "http://sansyasanyou.com/chara/hajime.html",
+        "http://sansyasanyou.com/chara/sasame.html"
+      ]
+    },
+    {
+      "id": 179689,
+      "title": "上班族去了异世界后成了四天王",
+      "count": 11,
+      "excluded": [
+        {
+          "name": "欧古雷、居酒屋老板",
+          "reason": "官网资料可核实，AniList关联图片或声优头像尚无合规hash"
+        },
+        {
+          "name": "Chimo、Lilim、Zumo",
+          "reason": "有图片与日配但人物资料不足，待核实身份与经历"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/179689",
+        "https://salaryman-big4.com/character/",
+        "https://www.anibk.com/bk/7595"
+      ]
+    }
+  ],
+  "insertedCharacters": 23,
+  "insertedVoiceActors": 23,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 23,
+  "verifiedVoiceActors": 23
+}

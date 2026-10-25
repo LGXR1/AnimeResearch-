@@ -1,0 +1,889 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T02:06:26.203Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 112444,
+      "anime_title": "天晴烂漫！",
+      "anime_origin": "JP",
+      "source": {
+        "id": 112444,
+        "titles": [
+          "Appare-Ranman!",
+          "APPARE-RANMAN!",
+          "天晴爛漫！",
+          "Appare Ranman!"
+        ],
+        "year": 2020,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/112444"
+      },
+      "characters": [
+        {
+          "id": 156316,
+          "name": "一色小雨",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156316-WWfP1f8LU9vg.jpg",
+          "description": "一色小雨是一名二十一岁的武士，曾在与天晴相同的城镇担任低阶官员。他的母亲早逝，因此很早就学会烹饪、清洁和洗衣等家务，生活能力远胜于沉迷机械的天晴。两人意外漂流到美国后，小雨成为天晴最可靠的伙伴，陪他参加横贯美国大赛。面对陌生环境和危险对手，他以谨慎、耐心和务实态度弥补天晴冲动冒险的一面。",
+          "nicknames": [
+            "一色小雨",
+            "Kosame Isshiki",
+            "小雨"
+          ],
+          "traits": [
+            "二十一岁的武士",
+            "曾任低阶官员",
+            "与天晴住在同一座城镇",
+            "擅长做饭",
+            "擅长清洁与洗衣",
+            "因母亲早逝而学会料理家务",
+            "性格谨慎务实",
+            "陪同天晴参加横贯美国大赛"
+          ],
+          "voice_actors": [
+            {
+              "name": "山下誠一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118249-aws1DsuN7cUW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kosame Isshiki",
+            "name_native": "一色小雨",
+            "name_alternative": [],
+            "description": "A 21-year-old man and low-ranked government official who lived in the same town as Appare. He is a master of cooking, cleaning, and laundry, due to having lost his mother early on and having to take care of his father and sister. He is a straightforward man who is often prone to worrying about his friends, and this often leads to him being led around by Appare. Though initiated into the hantsuki ittou-ryu style of swordsmanship, he doesn't get into fights often. According to his father, he has been promised in marriage to a beautiful fiance which he has never seen.\n\n(Source: Anime News Network)"
+          }
+        },
+        {
+          "id": 156317,
+          "name": "空乃天晴",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156317-Yi9ybBzBvHn5.jpg",
+          "description": "空乃天晴是一名十九岁的机械天才，在海边乡镇长大，从小便沉迷于拆解和制造机器。他性格大胆，常因专注于自己的发明而忽略周围人的担忧。天晴意外来到美国后，决定参加横贯美国大赛，并亲手打造赛车投入比赛。小雨陪伴他穿越各地赛道，天晴也在与车手、赞助商和危险对手的接触中，逐渐理解机械创造与伙伴信任同样重要。",
+          "nicknames": [
+            "空乃天晴",
+            "Appare Sorano",
+            "天晴"
+          ],
+          "traits": [
+            "故事男主角",
+            "十九岁的机械天才",
+            "在海边乡镇长大",
+            "从小痴迷机械",
+            "擅长亲手制造机器",
+            "性格大胆不拘常规",
+            "为参加比赛制造赛车",
+            "与小雨参加横贯美国大赛"
+          ],
+          "voice_actors": [
+            {
+              "name": "花江夏樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Appare Sorano",
+            "name_native": "空乃天晴",
+            "name_alternative": [],
+            "description": "A 19-year-old man who grew up in a rural seaside town. He has been interested in machines since childhood, and has produced his own machines by hand. Though he is a genius mechanic, he has little interest in social interaction, considering machines as closer friends than other people. He often loses all track of time and surroundings once he starts tinkering, but abruptly falls asleep as if running out of batteries when he gets tired, which causes no end of consternation to Kosame. He has an idealistic dreamer side, having treasured a story about travel to the moon since childhood.\n\n(Source: Anime News Network)"
+          }
+        },
+        {
+          "id": 156318,
+          "name": "霍托托",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156318-Hhmc7jpxcP0p.png",
+          "description": "霍托托是一名十一岁的原住民少年，独自踏上旅程，为家族遭遇寻求复仇。他虽然年纪尚小，却显得成熟而自尊心强，初遇天晴和小雨时并不愿意轻易依靠他人。三人同行后，霍托托逐渐成为比赛旅途中的伙伴，也必须在复仇目标和新的友情之间做出选择。他熟悉野外环境，能够为团队提供不同于城市生活的观察与判断。",
+          "nicknames": [
+            "霍托托",
+            "Hototo",
+            "ホトト"
+          ],
+          "traits": [
+            "十一岁的原住民少年",
+            "独自踏上复仇之旅",
+            "自尊心强烈",
+            "比年龄显得成熟",
+            "与天晴和小雨同行",
+            "熟悉野外环境",
+            "行动目标与家族遭遇有关",
+            "在旅途中逐渐建立伙伴关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "悠木碧",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hototo",
+            "name_native": "ホトト",
+            "name_alternative": [],
+            "description": "An intensely proud 11-year-old Native American boy. He is on a lone journey for revenge, but meets Appare and Kosame in his journeys. He is mature for his years, which leads to him disliking being treated like a child. He will not hesitate to fight anyone, even adults, to protect what he loves. Having inherited his skill of living off the land from his grandfather, he is capable of foraging for food and water, making his own weapons, and reading the terrain and climate. He has great respect for Appare, who seems to not be driven by the whims of society.\n\n(Source: Anime News Network)"
+          }
+        },
+        {
+          "id": 156319,
+          "name": "景夏莲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156319-4NOBMVRaD7ot.png",
+          "description": "景夏莲是横贯美国大赛中唯一的女性车手，出生于经营洗衣店的华裔移民家庭。她从替赛车队跑腿等工作做起，逐步靠努力获得进入赛场的机会。面对男性主导的赛车环境，夏莲坚持用驾驶和技术证明自己，而不是依赖他人照顾。她与天晴、小雨等车手在比赛中竞争，也在旅程里建立起互相认可的关系。",
+          "nicknames": [
+            "景夏莲",
+            "Xialian Jing",
+            "景夏蓮",
+            "ジン・シャーレン",
+            "夏莲"
+          ],
+          "traits": [
+            "横贯美国大赛唯一女性车手",
+            "华裔移民家庭出身",
+            "父母经营洗衣店",
+            "从跑腿工作开始接触赛车",
+            "凭努力加入车队",
+            "熟悉汽车与赛道环境",
+            "独立坚韧",
+            "与天晴等车手竞争"
+          ],
+          "voice_actors": [
+            {
+              "name": "雨宮天",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-xjN5V1jMc443.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Xialian Jing",
+            "name_native": "景夏蓮",
+            "name_alternative": [
+              "ジン・シャーレン"
+            ],
+            "description": "The only female racer in the Trans-America Wild Race. She was born to Chinese immigrants who run a laundromat. She began doing odd jobs for various racing teams as a starting point to her strong desire to be a racer herself, but began to become worried when she started losing opportunities due to being a woman. She had halfway decided to give up until she met Appare. She is a master of both her self-honed driving technique, and the martial arts that her father taught her.\n\n(Source: Anime News Network)"
+          }
+        },
+        {
+          "id": 156321,
+          "name": "索菲娅·泰勒",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156321-5bmoXEuzAxha.png",
+          "description": "索菲娅·泰勒是阿尔的儿时伙伴，受阿尔父亲委托在横贯美国大赛期间照看他。两人自幼相识，关系亲密，常像兄妹一样相处。索菲娅性格温柔，既留意阿尔的安全，也会在旅途中关心车队其他成员。她并非以赛车技巧见长，却能帮助冲动或自信过头的阿尔保持冷静，让这位年轻车手在竞争激烈的旅程中拥有可信赖的支持者。",
+          "nicknames": [
+            "索菲娅·泰勒",
+            "Sofia Taylor",
+            "ソフィア・テイラー",
+            "索菲娅"
+          ],
+          "traits": [
+            "阿尔的儿时伙伴",
+            "受阿尔父亲委托照看他",
+            "与阿尔关系亲密",
+            "被视作近似手足的家人",
+            "性格温柔体贴",
+            "陪伴阿尔参加比赛",
+            "关心阿尔的安全",
+            "在旅途中调解同伴关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "折笠富美子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95152-X9K5ciNGSX35.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sofia Taylor",
+            "name_native": "ソフィア・テイラー",
+            "name_alternative": [],
+            "description": "A gentle-hearted girl who watches over Al by the order of his father. He has been friends with Al since childhood, and they share a relationship close to siblings, often serving to stop Al before his schemes run out of hand. She has an unexpectedly curious and active side to her. While she wishes for Al to win the race, she also wishes for the safety of Al and his friends.\n\n(Source: Anime News Network)"
+          }
+        },
+        {
+          "id": 156322,
+          "name": "阿尔·里昂",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156322-PFqpCOqOebtf.png",
+          "description": "阿尔·里昂是十九岁的欧洲青年，出身于经营多种产业的商业家族，是三兄弟中最年幼的一位。他代表家族旗下的汽车企业参加横贯美国大赛，起初更像是在履行商业任务，也相信自己的资源足以解决问题。索菲娅陪伴并照看他，两人在旅行中关系亲密。与天晴等车手相遇后，阿尔逐渐把比赛当作真正的挑战，学习靠自己的驾驶与判断赢得尊重。",
+          "nicknames": [
+            "阿尔·里昂",
+            "Al Lyon",
+            "アル・リオン",
+            "阿尔",
+            "阿尔伯特·里昂"
+          ],
+          "traits": [
+            "十九岁的欧洲青年",
+            "家中三兄弟中最年幼者",
+            "代表家族企业参加赛事",
+            "所属企业经营汽车业务",
+            "有商业家族背景",
+            "与索菲娅自幼相识",
+            "性格自信好胜",
+            "在比赛中成长为独立车手"
+          ],
+          "voice_actors": [
+            {
+              "name": "斉藤壮馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Al Lyon",
+            "name_native": "アル・リオン",
+            "name_alternative": [],
+            "description": "A 19-year-old European, and the youngest of three siblings. He represents BNW, an automobile company that is one of the many businesses owned by his family's conglomerate, and appropriately drives a car born from his wealth and privilege. He proves a match for the free-spirited Appare, and desires nothing more than a fair match, considering Appare a worthy rival. He is as able a hand at driving as he is with the violin, fencing, golf, and many other skills.\n\n(Source: Anime News Network)"
+          }
+        },
+        {
+          "id": 160092,
+          "name": "塞斯·里奇·卡特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160092-BeWnZ1lTBE1s.png",
+          "description": "塞斯·里奇·卡特是通用汽车公司的职员，也是横贯美国大赛的组织者之一。他向公司高层提出举办赛事，希望借此向公众展示汽车性能和品牌实力。塞斯需要协调赛事筹备、参赛者和商业安排，因此经常从组织者的角度看待比赛。天晴一行加入后，赛事逐渐超出单纯宣传活动的范围，塞斯也必须面对比赛带来的危险、公众关注和公司利益之间的冲突。",
+          "nicknames": [
+            "塞斯·里奇·卡特",
+            "Seth Rich Carter",
+            "セス・リッチー・カッター",
+            "塞斯·卡特"
+          ],
+          "traits": [
+            "通用汽车公司职员",
+            "横贯美国大赛组织者之一",
+            "提出举办赛事的构想",
+            "希望借比赛展示汽车性能",
+            "负责与公司管理层沟通",
+            "熟悉商业宣传",
+            "推动参赛车队集结",
+            "在组织层面影响比赛进程"
+          ],
+          "voice_actors": [
+            {
+              "name": "興津和幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Seth Rich Carter",
+            "name_native": "セス・リッチー・カッター",
+            "name_alternative": [],
+            "description": "Seth is an employee of the GM automobile company, and one of the organizers for the race. He is the one that proposed the race to the company's upper management as a way of showing off the company's work by winning. To publicize the race, he has spared no expense to organize parades, plan festivals, and hire Dylan. He has past experience as an engineer designing race cars.\n\n(Source: Anime News Network)"
+          }
+        },
+        {
+          "id": 160093,
+          "name": "迪伦·G·奥尔丁",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160093-dFNdYc66ogS3.png",
+          "description": "迪伦·G·奥尔丁是横贯美国大赛的参赛车手之一，也因过往事迹被称为“英雄迪伦”。他曾是传奇亡命车手团体“千三”中的人物，后来受通用汽车公司雇用参赛，并驾驶专门改装的赛车。迪伦经验丰富、处事强势，在赛道上构成天晴一行的重要对手。他的目标和行动逐渐与赛事背后的商业计划交织，使比赛不再只是单纯的速度较量。",
+          "nicknames": [
+            "迪伦·G·奥尔丁",
+            "Dylan G. Ordene",
+            "ディラン・G・オルディン",
+            "Heroic Dylan",
+            "迪伦",
+            "英雄迪伦"
+          ],
+          "traits": [
+            "传奇亡命车手之一",
+            "以英雄迪伦的称号闻名",
+            "受通用汽车公司雇用参赛",
+            "驾驶改装赛车",
+            "拥有丰富赛车经验",
+            "在比赛中与天晴竞争",
+            "处事强势果断",
+            "影响赛事后半段的竞争局势"
+          ],
+          "voice_actors": [
+            {
+              "name": "櫻井孝宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dylan G. Ordene",
+            "name_native": "ディラン・G・オルディン",
+            "name_alternative": [
+              "Heroic Dylan"
+            ],
+            "description": "Dylan, also known as the \"Heroic Dylan,\" is one of the legendary \"Thousand Three\" outlaws. The major automobile company GM has hired him to participate in the race, at the wheel of their specially made vehicle. He is one of the favorites to win first place. He personally has no great interest in racing, but he thinks the vivacious Appare is interesting enough. He is a man of few words, but his gunslinging skills are beyond question.\n\n(Source: Anime News Network)"
+          }
+        },
+        {
+          "id": 160094,
+          "name": "TJ",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b160094-AVx5EMHgz791.jpg",
+          "description": "TJ是传奇亡命车手团体“千三”中的一员，因大胆甚至近乎疯狂的行事风格被称为“疯狂TJ”。他以醒目的发型和服饰吸引注意，驾驶时也常主动挑战危险，不愿采取保守路线。TJ参加横贯美国大赛后，成为赛道上难以预测的竞争者。他的冒险性既可能带来速度优势，也让同伴和对手都必须提防意外，构成赛事中最具冲击力的角色之一。",
+          "nicknames": [
+            "TJ",
+            "Crazy TJ",
+            "疯狂TJ"
+          ],
+          "traits": [
+            "传奇亡命车手之一",
+            "以疯狂TJ的外号闻名",
+            "服饰与发型十分醒目",
+            "敢于冒险",
+            "驾驶风格大胆",
+            "不畏惧危险赛道",
+            "参加横贯美国大赛",
+            "在团队中担任实力强劲的车手"
+          ],
+          "voice_actors": [
+            {
+              "name": "杉田智和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "TJ",
+            "name_native": "TJ",
+            "name_alternative": [
+              "Crazy TJ"
+            ],
+            "description": "TJ is one of the legendary \"Thousand Three\" outlaws. He is known and feared as \"Crazy TJ,\" both for his outlandish fashion and hairstyle, to his tendency to jump into danger even knowing the risks. He is employed by the Iron Motor automobile company to take part in the race. He feels a kinship with the brash Appare, especially with regard to crazy hairstyles.\n\n(Source: Anime News Network)"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 123899,
+      "anime_title": "让我听见爱的歌声",
+      "anime_origin": "JP",
+      "source": {
+        "id": 123899,
+        "titles": [
+          "Ai no Utagoe wo Kikasete",
+          "Sing a Bit of Harmony",
+          "アイの歌声を聴かせて",
+          "Canta con una chispa de armonía"
+        ],
+        "year": 2021,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/123899"
+      },
+      "characters": [
+        {
+          "id": 217120,
+          "name": "芦森诗音",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217120-TM5LF1ssbBz2.png",
+          "description": "芦森诗音以转学生的身份来到高中，实际上是一台拥有高度自主性的人工智能机器人。她由天野美津子参与开发，进入学校后把让同学天野聪美幸福当作重要目标，并以歌声和直接热情的行动不断帮助周围的人。诗音不总能理解人类社交中的微妙情绪，但她真诚的关心逐渐打动聪美和同学们，也让一群原本各有烦恼的年轻人开始互相理解。",
+          "nicknames": [
+            "芦森诗音",
+            "Shion Ashimori",
+            "芦森詩音",
+            "诗音",
+            "Shion"
+          ],
+          "traits": [
+            "故事女主角",
+            "以转学生身份进入高中",
+            "真实身份是人工智能机器人",
+            "由天野美津子参与开发",
+            "把让聪美幸福作为重要目标",
+            "喜欢唱歌",
+            "行动方式直率热情",
+            "以歌声连接同学们"
+          ],
+          "voice_actors": [
+            {
+              "name": "土屋太鳳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119478-3hHYufbtppgi.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shion Ashimori",
+            "name_native": "芦森詩音",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 217121,
+          "name": "素崎十真",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217121-yuEzpIUISQ59.png",
+          "description": "素崎十真是天野聪美的青梅竹马，也是热爱机械与机器人技术的高中生。转学生诗音出现后，他很快注意到她的行为与普通学生不同，并逐步参与调查她的真实身份。十真既关心聪美，也愿意帮助诗音融入学校生活；当同伴们面临是否揭开秘密的选择时，他努力以理性和友情寻找两全办法。机械兴趣让他能够理解诗音的构造，而与同学的关系则使他意识到她并非只有技术价值。",
+          "nicknames": [
+            "素崎十真",
+            "Touma Suzaki",
+            "Toma",
+            "十真",
+            "素崎"
+          ],
+          "traits": [
+            "聪美的青梅竹马",
+            "高中生",
+            "喜爱机械与机器人",
+            "对诗音的行为感到好奇",
+            "愿意协助调查真相",
+            "与同伴组成行动小组",
+            "性格认真",
+            "在友情与秘密之间做出选择"
+          ],
+          "voice_actors": [
+            {
+              "name": "工藤阿須加",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n217123-SsWnmFdRtSvg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Touma Suzaki",
+            "name_native": "素崎十真",
+            "name_alternative": [
+              "Toma"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 217122,
+          "name": "天野聪美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217122-n12vXnHEkL2i.png",
+          "description": "天野聪美是高中生，也是人工智能诗音来到学校后最先关心的对象。她起初试图把诗音的特殊身份藏起来，希望避免校园生活受到影响；与此同时，诗音不断以歌声和直率行动帮助她，让她重新面对自己与同学之间的距离。聪美的母亲美津子参与了诗音的开发，因此她既与机器人的诞生有关，也必须在保护母亲的工作和接纳诗音之间作出选择。",
+          "nicknames": [
+            "天野聪美",
+            "Satomi Amano",
+            "天野悟美",
+            "Princess Tattletale",
+            "聪美",
+            "天野里美"
+          ],
+          "traits": [
+            "高中生",
+            "诗音希望让她幸福",
+            "由天野美津子抚养长大",
+            "最初试图隐瞒诗音的身份",
+            "重视现实与规则",
+            "与十真是熟识伙伴",
+            "面对同学时显得冷静",
+            "逐渐接纳人工智能带来的变化"
+          ],
+          "voice_actors": [
+            {
+              "name": "福原遥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102322-GkjxD99Pt3rT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Satomi Amano",
+            "name_native": "天野悟美",
+            "name_alternative": [
+              "Princess Tattletale"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 217124,
+          "name": "后藤定行",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217124-8nH6s4VblNmI.png",
+          "description": "后藤定行是聪美的同学，随着诗音来到校园，也被卷入围绕人工智能身份展开的事件。面对诗音明显异于常人的举止，后藤和朋友们一同调查她的情况，并在过程中重新认识彼此。起初他更关注同学间的日常和自己的烦恼，之后逐渐理解诗音帮助大家的善意。后藤的变化体现了这群高中生从旁观者变为愿意共同承担秘密的伙伴。",
+          "nicknames": [
+            "后藤定行",
+            "Sadayuki Gotou",
+            "後藤定行",
+            "Gocchan",
+            "后藤"
+          ],
+          "traits": [
+            "聪美的同学",
+            "参与诗音引发的校园事件",
+            "与同学组成行动小组",
+            "重视伙伴关系",
+            "对人工智能抱有好奇",
+            "协助朋友调查线索",
+            "需要面对个人烦恼",
+            "逐渐理解诗音的善意"
+          ],
+          "voice_actors": [
+            {
+              "name": "興津和幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sadayuki Gotou",
+            "name_native": "後藤定行",
+            "name_alternative": [
+              "Gocchan"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 217125,
+          "name": "杉山纮一郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217125-vSq7t52vZRCU.png",
+          "description": "杉山纮一郎是聪美与十真所在学校的学生，参与诗音转学后逐渐形成的同学行动圈。诗音通过唱歌和帮助同伴改变了班级气氛，杉山也在与大家相处的过程中被卷入对她身份的调查。面对学校生活中的个人烦恼和群体秘密，他需要决定是否相信朋友并提供协助。杉山的经历补充了影片对普通高中生友情和互相支持的描写。",
+          "nicknames": [
+            "杉山纮一郎",
+            "Kouichirou Sugiyama",
+            "杉山絋一郎",
+            "Thunder",
+            "杉山"
+          ],
+          "traits": [
+            "高中生",
+            "聪美的同学",
+            "与十真等人相识",
+            "参与同学们的集体行动",
+            "对诗音的歌声印象深刻",
+            "在校园生活中保持伙伴关系",
+            "面对困难时愿意协助",
+            "成为故事群像的一员"
+          ],
+          "voice_actors": [
+            {
+              "name": "日野聡",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kouichirou Sugiyama",
+            "name_native": "杉山絋一郎",
+            "name_alternative": [
+              "Thunder"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 217126,
+          "name": "佐藤绫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217126-iWv7M0idQMqQ.png",
+          "description": "佐藤绫是聪美的同学，也是围绕诗音展开的校园群像成员之一。诗音来到学校后，绫与朋友们共同经历了身份秘密、同学关系和个人烦恼交织的事件。她逐渐留意到诗音行动背后真诚的关心，并在同伴需要帮助时参与集体行动。绫的角色体现高中女生之间的友情，也让影片呈现出一群年轻人如何从误解走向理解、共同承担选择的过程。",
+          "nicknames": [
+            "佐藤绫",
+            "Aya Satou",
+            "佐藤綾",
+            "绫",
+            "佐藤"
+          ],
+          "traits": [
+            "高中女生",
+            "聪美的同学",
+            "参与诗音相关的校园活动",
+            "与朋友们保持紧密联系",
+            "关注同学的情绪变化",
+            "逐渐接纳诗音",
+            "在集体行动中提供帮助",
+            "展现青春群像中的友情"
+          ],
+          "voice_actors": [
+            {
+              "name": "小松未可子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105071-Hcj0X2gcliPq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Aya Satou",
+            "name_native": "佐藤綾",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 238504,
+          "name": "天野美津子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b238504-m33OX9Hogons.png",
+          "description": "天野美津子是天野聪美的母亲，也是参与开发人工智能诗音的研究人员。她的工作让诗音得以进入真实校园环境，也使家庭生活和科技实验产生交集。美津子必须面对人工智能能否独立行动、如何承担责任等问题，同时希望保护女儿不被卷入技术风险。随着诗音与聪美及同学们建立感情，她也重新思考研发者对创造物和使用者应负的责任。",
+          "nicknames": [
+            "天野美津子",
+            "Mitsuko Amano",
+            "美津子",
+            "天野博士"
+          ],
+          "traits": [
+            "天野聪美的母亲",
+            "参与诗音人工智能开发",
+            "从事机器人相关研究",
+            "关注人工智能的实际应用",
+            "需要面对技术与伦理问题",
+            "与诗音的诞生直接相关",
+            "希望女儿生活安稳",
+            "在工作与家庭间寻求平衡"
+          ],
+          "voice_actors": [
+            {
+              "name": "大原さやか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mitsuko Amano",
+            "name_native": "天野美津子",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 201514,
+      "anime_title": "才女的侍从",
+      "anime_origin": "JP",
+      "source": {
+        "id": 201514,
+        "titles": [
+          "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojou-sama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
+          "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+          "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様(生活能力皆無)を陰ながらお世話することになりました",
+          "Das (fast) perfekte Fräulein und sein Butler",
+          "才女的侍從 在滿是高嶺之花的貴族學校暗中照顧（毫無生活自理能力的）學院第一大小姐",
+          "ผู้ดูแลเด็กสาว"
+        ],
+        "year": 2026,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/201514"
+      },
+      "characters": [
+        {
+          "id": 290272,
+          "name": "此花雏子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290272-WqrT3ng8BP2L.jpg",
+          "description": "此花雏子是日本大型财团此花集团的千金，也是名门学校里备受瞩目的大小姐。她在外人面前显得聪明、美丽且无可挑剔，私下却非常懒散，几乎缺乏生活自理能力。友成伊月因绑架事件与她相识，随后以学生身份进入学校，暗中替她处理日常生活。雏子逐渐信任伊月，也在光鲜的校园形象之外展现出依赖、任性又真实的一面。",
+          "nicknames": [
+            "此花雏子",
+            "Hinako Konohana",
+            "此花雛子",
+            "雏子",
+            "此花大小姐"
+          ],
+          "traits": [
+            "此花集团的千金",
+            "学院中备受瞩目的大小姐",
+            "外表聪明美丽",
+            "生活自理能力很差",
+            "在家中十分懒散",
+            "喜欢友成伊月",
+            "受到伊月暗中照料",
+            "在亲近的人面前展现真实一面"
+          ],
+          "voice_actors": [
+            {
+              "name": "小原好美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121961-TaMewK1taQm6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hinako Konohana",
+            "name_native": "此花雛子",
+            "name_alternative": [],
+            "description": "Hinako is a young lady from one of Japan's largest conglomerates. On the surface, Hinako appears to be a brilliant and beautiful young woman, but in reality, she is a lazy girl with no life skills."
+          }
+        },
+        {
+          "id": 318198,
+          "name": "友成伊月",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318198-Yqe730EfrFEq.jpg",
+          "description": "友成伊月出身普通家庭，因一次绑架事件受到此花雏子的赏识，之后以假身份进入名门学校，成为暗中照料她的人。雏子外表光鲜，私下却难以处理生活琐事，伊月因此负责安排起居、打理家务并协助她维持校园形象。他必须在隐藏自身背景的同时应对贵族学校的人际关系，也逐渐从单纯的照料者变成雏子能够信任的伙伴。",
+          "nicknames": [
+            "友成伊月",
+            "Itsuki Tomonari",
+            "伊月",
+            "友成"
+          ],
+          "traits": [
+            "出身普通家庭",
+            "受雏子赏识",
+            "为照料雏子以假身份入学",
+            "成为雏子的秘密照料者",
+            "熟悉家务与日常管理",
+            "办事认真稳重",
+            "在名门学校隐藏真实背景",
+            "逐渐与雏子建立信任"
+          ],
+          "voice_actors": [
+            {
+              "name": "上村祐翔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118498-6YvZZS0HM2qD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Itsuki Tomonari",
+            "name_native": "友成伊月",
+            "name_alternative": [],
+            "description": "Commoner who [Hinako](https://anilist.co/character/290272/Konohana-Hinako) took a liking to after a kidnapping incident. He entered the school under a fake identity to be Hinako's caretaker."
+          }
+        },
+        {
+          "id": 388953,
+          "name": "天王寺美丽",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388953-o26DRKWzqhze.jpg",
+          "description": "天王寺美丽是名门学校的学生，将此花雏子视作重要竞争对手。她对自己要求严格，行事严肃，常以高标准看待学习和校园礼仪；但在严格外表之下，她其实愿意善待他人。美丽关注雏子的表现，也会因对方看似完美的形象而感到压力。随着与伊月和雏子的接触增加，她逐渐认识到雏子私下与公开形象之间的差异。",
+          "nicknames": [
+            "天王寺美丽",
+            "Mirei Tennouji",
+            "天王寺美麗",
+            "美丽",
+            "天王寺"
+          ],
+          "traits": [
+            "名门学校学生",
+            "把雏子视为竞争对手",
+            "对自己要求严格",
+            "表面严厉",
+            "实际上待人善良",
+            "重视成绩与礼仪",
+            "关注雏子的校园表现",
+            "与雏子形成竞争关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "大西沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mirei Tennouji",
+            "name_native": "天王寺美麗",
+            "name_alternative": [],
+            "description": "A young lady who sees Hinako as her rival. She's strict with herself but kind to others."
+          }
+        },
+        {
+          "id": 388952,
+          "name": "此花华严",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388952-azT86dBJg4ZJ.png",
+          "description": "此花华严是此花雏子的父亲，也是此花集团的总裁。他掌管大型财团，需要处理商业和上流社会事务，也为女儿安排了名门学校的成长环境。雏子在校内受到瞩目，与其家族身份密不可分；她生活自理能力不足的问题也让华严不得不寻找可靠的人协助照料。作为父亲和集团负责人，他的决定影响雏子的校园生活及她与伊月之间的关系。",
+          "nicknames": [
+            "此花华严",
+            "Kagen Konohana",
+            "此花華厳",
+            "华严",
+            "此花集团总裁"
+          ],
+          "traits": [
+            "此花雏子的父亲",
+            "此花集团总裁",
+            "掌管大型财团",
+            "重视女儿的成长",
+            "熟悉商业与上流社会",
+            "安排雏子进入名门学校",
+            "关注集团继承事务",
+            "家庭身份影响女儿的校园生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kagen Konohana",
+            "name_native": "此花華厳",
+            "name_alternative": [],
+            "description": "Hinako’s father and president of the Konohana Group."
+          }
+        },
+        {
+          "id": 388955,
+          "name": "都岛成香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388955-dH6zklbWsvoN.jpg",
+          "description": "都岛成香是名门学校的学生，外表给人冷艳、难以接近的印象，眼神也显得锐利。实际上她性格害羞，不擅长与人交流，常因不知道如何回应而显得沉默。随着与雏子、伊月及其他同学接触，她逐渐有机会在熟悉的人面前展现真实一面。成香的形象反差让她成为校园群像中容易被误解的角色，也表现出建立友情需要跨越外表与第一印象。",
+          "nicknames": [
+            "都岛成香",
+            "Narika Miyakojima",
+            "都島成香",
+            "成香",
+            "都岛"
+          ],
+          "traits": [
+            "名门学校学生",
+            "外表是冷艳美人",
+            "眼神锐利",
+            "内心害羞",
+            "不擅长与人交流",
+            "与雏子等人同校",
+            "需要克服社交障碍",
+            "在熟悉伙伴面前逐渐放松"
+          ],
+          "voice_actors": [
+            {
+              "name": "土屋李央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198603-LYH3fSqCvtJ5.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Narika Miyakojima",
+            "name_native": "都島成香",
+            "name_alternative": [],
+            "description": "Normally, she'a cool beauty with sharp eyes. However, in reality, she's shy and not very good at communicating."
+          }
+        },
+        {
+          "id": 388956,
+          "name": "旭可怜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b388956-RwY6vrpkJ90I.jpg",
+          "description": "旭可怜是名门学校里性格开朗、容易亲近的学生，也是同伴之间活跃气氛的人。她善于与不同性格的人相处，常用轻松的态度让紧张或沉默的同学加入对话。可怜参与雏子周围的校园日常，也会注意到成香等人不擅长表达的一面，并用友好的方式鼓励她们。她的积极性为雏子与伊月面对的名门学校生活增添了温暖的同学关系。",
+          "nicknames": [
+            "旭可怜",
+            "Asahi Karen",
+            "旭可憐",
+            "可怜",
+            "旭"
+          ],
+          "traits": [
+            "名门学校学生",
+            "性格开朗亲切",
+            "擅长活跃气氛",
+            "是同伴中的气氛制造者",
+            "容易与人打成一片",
+            "参与雏子周围的校园日常",
+            "愿意鼓励害羞的同学",
+            "以积极态度面对集体生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "前島亜美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128161-oPnogMfpAQ4O.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Asahi Karen",
+            "name_native": "旭可憐",
+            "name_alternative": [],
+            "description": "Cheerful and approachable, she's the mood maker of the group."
+          }
+        }
+      ]
+    }
+  ]
+}

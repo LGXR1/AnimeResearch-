@@ -1,0 +1,59 @@
+[
+  {
+    "mediaId": 155418,
+    "search": "教皇",
+    "characters": []
+  },
+  {
+    "mediaId": 155418,
+    "search": "Grandhart",
+    "characters": []
+  },
+  {
+    "mediaId": 155418,
+    "search": "Jord",
+    "characters": []
+  },
+  {
+    "mediaId": 155418,
+    "search": "豪運先生",
+    "characters": [
+      {
+        "id": 313529,
+        "name": {
+          "full": "Ousutoraria Un Sensei",
+          "native": "豪運先生",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b313529-ZX48xr1zS0Za.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null,
+        "media": {
+          "edges": [
+            {
+              "node": {
+                "id": 155418
+              },
+              "characterRole": "BACKGROUND",
+              "voiceActors": [
+                {
+                  "id": 95178,
+                  "name": {
+                    "full": "Shoutarou Morikubo",
+                    "native": "森久保祥太郎"
+                  },
+                  "image": {
+                    "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95178-8R9Itg3Y1v24.png"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+]

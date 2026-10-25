@@ -1,0 +1,2031 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T14:11:15.568Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 108577,
+      "anime_title": "知道天空有多蓝的人啊",
+      "anime_origin": "JP",
+      "source": {
+        "id": 108577,
+        "titles": [
+          "Sora no Aosa wo Shiru Hito yo",
+          "Her Blue Sky",
+          "空の青さを知る人よ",
+          "Who knows the blueness of the sky",
+          "Le Bleu du ciel dans ses yeux",
+          "As Pessoas que Conhecem o Azul do Céu"
+        ],
+        "year": 2019,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/108577"
+      },
+      "characters": [
+        {
+          "id": 148215,
+          "name": "金室慎之介",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148215-Tqmd6S0kB7EL.png",
+          "description": "金室慎之介曾是怀抱音乐梦想的高中生，如今三十一岁，在东京以吉他手身份努力生活，却始终没有实现年轻时的目标。他原本与相生茜约好毕业后一起前往东京，茜的父母去世后选择留下照顾妹妹，两人因此分开。多年后，慎之介的年轻生灵出现在茜的妹妹相生葵面前，让过去的自己重新审视梦想、选择和遗憾。后来他与茜重新相聚并结婚。",
+          "nicknames": [
+            "金室慎之介",
+            "Shinnosuke Kanomura",
+            "しんの (Shinno)",
+            "Shinnosuke Kanamura",
+            "新野"
+          ],
+          "traits": [
+            "三十一岁的吉他手",
+            "年轻时曾是高中生乐队成员",
+            "离开故乡前往东京追寻音乐梦想",
+            "与相生茜曾是恋人",
+            "梦想未能如愿实现",
+            "心中留有许多遗憾",
+            "以生灵形态重逢年轻的自己",
+            "后来与茜结婚"
+          ],
+          "voice_actors": [
+            {
+              "name": "吉沢亮",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n148219-3VRWmuzmmErQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shinnosuke Kanomura",
+            "name_native": "金室慎之介",
+            "name_alternative": [
+              "しんの (Shinno)"
+            ],
+            "description": "Occupation(s):\n- ~!Guitarist (31 years old)!~\n- Student (18 years old)\n\nShinnosuke is a struggling guitarist at the introduction of the movie. He and Akane Aioi were supposed to move in together after graduating high school, but after the death of her parents, she decided not to. He and Akane drift apart while he leaves to chase his dreams, but he fails to achieve the aspirations he set for himself and as a result has many regrets weighing on him. \n\n~!An ikiryou (living ghost) of his younger self appears and meets his ex-girlfriend’s Akane Aioi's little sister Aoi Aioi. They discuss life and what it means to chase your dreams. His present self later marries Akane in 2022!~"
+          }
+        },
+        {
+          "id": 148216,
+          "name": "相生葵",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148216-ScJUgx4Nvqoq.png",
+          "description": "相生葵是高中二年级学生，也是相生茜的妹妹。她受金室慎之介影响而喜爱音乐，梦想有一天成为音乐人，并通过演奏贝斯表达自己。父母去世后，姐姐茜放弃与慎之介前往东京的约定，留在故乡照顾葵；葵长期以为姐姐是为了自己才做出牺牲。遇见慎之介年轻时的生灵后，她逐渐重新理解姐姐的选择与自己的未来。",
+          "nicknames": [
+            "相生葵",
+            "Aoi Aioi",
+            "相生あおい",
+            "葵"
+          ],
+          "traits": [
+            "高中二年级学生",
+            "是相生茜的妹妹",
+            "以金室慎之介为音乐榜样",
+            "梦想成为音乐人",
+            "会演奏贝斯",
+            "一直以为姐姐为自己放弃东京",
+            "遇见慎之介年轻时的生灵",
+            "通过音乐面对家庭过往"
+          ],
+          "voice_actors": [
+            {
+              "name": "若山詩音",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n148220-Tj3U7jdXZehG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Aoi Aioi",
+            "name_native": "相生あおい",
+            "name_alternative": [],
+            "description": "Aoi is a second-year high school student. She is an aspiring musician who was influenced by Shinno. She grows up thinking that Akane did not go to Tokyo with Shinno because of her."
+          }
+        },
+        {
+          "id": 148217,
+          "name": "相生茜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148217-FxLHhmbqcJFH.png",
+          "description": "相生茜三十一岁，是相生葵的姐姐。父母去世后，她承担照顾妹妹的责任，因此放弃了高中毕业后与金室慎之介一起前往东京的计划，也结束了两人的恋情。茜留在故乡工作，平日稳重内敛，许多真实感受都藏在心底。多年后慎之介重返小镇，两人终于能够比较彼此的人生与少年时的想象，重新面对曾经留下的遗憾。",
+          "nicknames": [
+            "相生茜",
+            "Akane Aioi",
+            "相生あかね",
+            "茜"
+          ],
+          "traits": [
+            "三十一岁的女性",
+            "是相生葵的姐姐",
+            "父母去世后独自照顾妹妹",
+            "高中时曾与慎之介交往",
+            "原本计划毕业后去东京",
+            "因家庭责任留在故乡",
+            "性格内敛稳重",
+            "多年后与慎之介重逢"
+          ],
+          "voice_actors": [
+            {
+              "name": "吉岡里帆",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n148221-1jjJ22oMUSxw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Akane Aioi",
+            "name_native": "相生あかね",
+            "name_alternative": [],
+            "description": "Aoi's 31-year-old reserved older sister who has been supporting both of them after the death of their parents. She broke off her relationship to Shinnosuke Kanamuro after the death of her parents. They later meet years later, and are able to reflect on how their lives turned out in comparison to what they imagined as teenagers."
+          }
+        },
+        {
+          "id": 148212,
+          "name": "中村正嗣",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148212-2nJpoOqwjAbr.png",
+          "description": "中村正嗣是十岁的五年级小学生，也是中村正道的独生子。尽管他与相生葵之间有明显的年龄差，正嗣仍把葵当作自己的初恋对象，并且持续主动表达好感。他的执着在大人看来显得天真，却也呈现出孩子面对喜欢之人的直接与勇气。正嗣在小镇夏日生活中追随葵的身影，给围绕音乐、家庭和旧日感情展开的故事增加少年视角。",
+          "nicknames": [
+            "中村正嗣",
+            "Masatsugu Nakamura",
+            "正嗣"
+          ],
+          "traits": [
+            "十岁的五年级小学生",
+            "是中村正道的独生子",
+            "喜欢相生葵",
+            "把葵当作自己的初恋",
+            "会持续主动追求葵",
+            "年龄比葵小很多",
+            "在小镇与同学共同生活",
+            "为夏日故事增添少年视角"
+          ],
+          "voice_actors": [
+            {
+              "name": "大地葉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109251-ge8rmZwppqxy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Masatsugu Nakamura",
+            "name_native": "中村正嗣",
+            "name_alternative": [],
+            "description": "A 10-year-old fifth grader and Masamichi's only son. Masatsuga has black hair and gray-ish eyes. Even though there is an age gap, he says that Aoi was his “First love”, and he pursues her consistently throughout the film."
+          }
+        },
+        {
+          "id": 148213,
+          "name": "大泷千佳",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148213-0UTE3o3iqusU.png",
+          "description": "大泷千佳是相生葵的同班同学，也在高中校园里与她分享日常。千佳梦想交到一位属于乐队的男朋友，能够看出她对音乐文化和同龄人的恋爱故事抱有憧憬。她的愿望与葵受慎之介影响而追求音乐的经历彼此映照，让两位少女在校园生活中显露出不同的期待。千佳虽不是主线调查者，却补充了葵周围的同学关系和青春期心事。",
+          "nicknames": [
+            "大泷千佳",
+            "Chika Ootaki",
+            "大滝千佳",
+            "千佳"
+          ],
+          "traits": [
+            "相生葵的同班同学",
+            "就读于高中",
+            "梦想交到乐队成员男友",
+            "对音乐和乐队文化感兴趣",
+            "与葵分享校园生活",
+            "关注同龄人的恋爱关系",
+            "出现在小镇高中日常中",
+            "由种崎敦美配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "種﨑敦美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chika Ootaki",
+            "name_native": "大滝千佳",
+            "name_alternative": [],
+            "description": "A classmate of Aoi. She dreams of getting a boyfriend who is in a band."
+          }
+        },
+        {
+          "id": 148214,
+          "name": "中村正道",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148214-NZoXUz3xWR4z.png",
+          "description": "中村正道是小学生中村正嗣的父亲，过去曾担任金室慎之介乐队的鼓手，也是慎之介和相生茜的高中同学。正道与不忠的妻子离婚后，开始对茜抱有好感，使三位成年人之间的旧识关系出现新的变化。他仍与故乡的音乐圈保持联系，也会通过儿子正嗣的恋爱心事重新接近葵和茜。正道的经历呈现了成年人的感情选择如何与年轻一代的故事交错。",
+          "nicknames": [
+            "中村正道",
+            "Masamichi Nakamura",
+            "正道"
+          ],
+          "traits": [
+            "中村正嗣的父亲",
+            "曾是慎之介乐队的鼓手",
+            "与慎之介在高中时同届",
+            "也是相生茜的高中同学",
+            "曾与不忠的妻子离婚",
+            "现在喜欢相生茜",
+            "与故乡音乐圈保持联系",
+            "在成年人的感情线中活动"
+          ],
+          "voice_actors": [
+            {
+              "name": "落合福嗣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119506-kCsXHHjcQca6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Masamichi Nakamura",
+            "name_native": "中村正道",
+            "name_alternative": [],
+            "description": "A former drummer in Shinnosuke's band, and high school classmate of Akane and Shinnosuke. He divorced his cheating wife and has a crush on Akane."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 179302,
+      "anime_title": "SANDA（圣诞老人）",
+      "anime_origin": "JP",
+      "source": {
+        "id": 179302,
+        "titles": [
+          "SANDA",
+          "サンダ"
+        ],
+        "year": 2025,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/179302"
+      },
+      "characters": [
+        {
+          "id": 246680,
+          "name": "三田一重",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246680-neLBRIN84FRH.png",
+          "description": "三田一重是大黑爱护学园的初中二年级学生，身高一百六十一厘米，也是圣诞老人的后裔。他原本决心隐藏体内的圣诞力量，但封印最近意外解除；变身为圣诞老人后，他会成为肌肉发达的年长男性，并努力实现孩子们的愿望。冬村四织为了寻找失踪的朋友小野一绘而解开封印，三田由此被卷入围绕儿童、学校和成人社会展开的冲突。",
+          "nicknames": [
+            "三田一重",
+            "Kazushige Sanda",
+            "Kazushige Mita",
+            "Kacchan",
+            "三田"
+          ],
+          "traits": [
+            "大黑爱护学园初中二年级学生",
+            "是圣诞老人后裔",
+            "曾决心隐藏圣诞力量",
+            "封印近期意外解除",
+            "变身后成为强壮的年长男性",
+            "会努力实现孩子们的愿望",
+            "身高一百六十一厘米",
+            "因朋友失踪事件开始行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "東地宏樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png",
+              "language": "日语"
+            },
+            {
+              "name": "村瀬歩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kazushige Sanda",
+            "name_native": "三田一重",
+            "name_alternative": [
+              "Kazushige Mita",
+              "Kacchan"
+            ],
+            "description": "__Height:__ 161 cm\n\nA second year middle school student at Daikoku Aigo Academy who is a descendant of Santa Claus. He was determined to hide the curse of Santa Claus, but his powers were recently unleashed. When he transforms into Santa, he becomes a muscular old man who works hard to grant the wishes of children."
+          }
+        },
+        {
+          "id": 246681,
+          "name": "冬村四织",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246681-VtLsAbLbxPI7.jpg",
+          "description": "冬村四织是大黑爱护学园学生，身高一百八十二厘米，在同龄人中格外高挑。她为了请求圣诞老人帮助寻找神秘失踪的好友小野一绘，主动解开了三田一重身上圣诞力量的封印。四织行动果断，面对学校中隐藏的秘密和成人社会的阻拦仍坚持追查朋友下落。她的请求让三田无法继续隐藏身份，也成为两人共同面对危机的起点。",
+          "nicknames": [
+            "冬村四织",
+            "Shiori Fuyumura",
+            "冬村四織",
+            "Ofuyu",
+            "四织"
+          ],
+          "traits": [
+            "大黑爱护学园学生",
+            "身高一百八十二厘米",
+            "身高在同龄人中十分突出",
+            "是三田一重的同班同学",
+            "主动解除圣诞老人力量的封印",
+            "希望找到失踪的好友小野一绘",
+            "面对危险时行动坚定",
+            "推动三田加入调查"
+          ],
+          "voice_actors": [
+            {
+              "name": "庄司宇芽香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102262-NLLVI1VqqIsa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shiori Fuyumura",
+            "name_native": "冬村四織",
+            "name_alternative": [
+              "Ofuyu"
+            ],
+            "description": "__Height:__ 182 cm\n\nOne of [Sanda's](https://anilist.co/character/246680/Kazushige-Sanda) classmates who is unusually tall for her age. She broke the seal on Santa Claus's powers in order to request his help in solving the mysterious disappearance of her friend [Ono](https://anilist.co/character/363834/Ichie-Ono)."
+          }
+        },
+        {
+          "id": 331549,
+          "name": "柳生田三郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b331549-mtfVqPFVwiD2.png",
+          "description": "柳生田三郎是红衣队特别搜查部队的队长，负责组织搜查行动，并参与调查圣诞老人力量和儿童失踪相关事件。他在大黑爱护学园执行任务时，必须处理学校内部的线索、学生安全以及上级命令之间的关系。柳生田代表成人执法体系进入故事，与三田和冬村等学生的目标并不总是一致。随着调查深入，他的工作也牵涉校园背后的社会规则。",
+          "nicknames": [
+            "柳生田三郎",
+            "Saburou Yagiuda",
+            "柳生田"
+          ],
+          "traits": [
+            "红衣队特别搜查部队队长",
+            "负责组织搜查行动",
+            "参与调查圣诞老人相关事件",
+            "在大黑爱护学园执行任务",
+            "拥有执法机构职务",
+            "处理儿童失踪线索",
+            "与学校管理层交涉",
+            "由平田广明配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "平田広明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95125-NeFFiJupoDVj.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Saburou Yagiuda",
+            "name_native": "柳生田三郎",
+            "name_alternative": [],
+            "description": "Captain of the Special Search Unit of The Red Coats."
+          }
+        },
+        {
+          "id": 333130,
+          "name": "风尾二湖",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b333130-JbpMfdmyZr7w.png",
+          "description": "风尾二湖是三田一重由国家制度指定的婚约对象。她与三田同处青春期校园环境，却被成人社会提前安排婚姻关系，这一制度也让个人感情和社会规定发生冲突。二湖需要面对这份安排如何影响自己的选择，也与三田及冬村的行动产生联系。她的存在补充了故事对未来、成长和成人制度的讨论。",
+          "nicknames": [
+            "风尾二湖",
+            "Niko Kazao",
+            "風尾ニ湖",
+            "二湖"
+          ],
+          "traits": [
+            "三田一重的指定婚约对象",
+            "由国家制度安排婚姻",
+            "与三田同处青春期校园环境",
+            "婚约牵涉社会制度安排",
+            "参与学生之间的关系变化",
+            "需要面对个人选择与规定",
+            "由松冈美里配音",
+            "与圣诞力量故事并行"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡美里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n149680-3Rfw8Ji2wyHo.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Niko Kazao",
+            "name_native": "風尾ニ湖",
+            "name_alternative": [],
+            "description": "Sanda's state-mandated marriage partner."
+          }
+        },
+        {
+          "id": 352504,
+          "name": "甘矢一诗",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b352504-RxUXkRKrJ4ef.png",
+          "description": "甘矢一诗身高一百六十八厘米，是三田一重在学校宿舍的室友。他和三田共享日常生活空间，因此能近距离见证圣诞力量解除后同学身边发生的变化。一诗在宿舍和校园中与三田往来，也会接触冬村等同学带来的调查事件。虽然个人经历资料不多，他作为三田身边的同龄人，呈现了学生在异常事件发生时如何继续过校园生活。",
+          "nicknames": [
+            "甘矢一诗",
+            "Hitoshi Amaya",
+            "甘矢一詩",
+            "Prince",
+            "一诗"
+          ],
+          "traits": [
+            "身高一百六十八厘米",
+            "是三田一重的宿舍室友",
+            "与三田共同生活在学校宿舍",
+            "见证三田力量变化",
+            "和同学保持日常往来",
+            "参与大黑爱护学园生活",
+            "在宿舍中与三田交流",
+            "由新祐树配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "新祐樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153049-K0czk9NRoLWz.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hitoshi Amaya",
+            "name_native": "甘矢一詩",
+            "name_alternative": [
+              "Prince"
+            ],
+            "description": "__Height:__ 168 cm\n\nHe is [Sanda](https://anilist.co/character/246680/Kazushige-Sanda)'s dorm roommate."
+          }
+        },
+        {
+          "id": 363818,
+          "name": "大渋一二三",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363818-bBq323AsefJy.png",
+          "description": "大渋一二三是大黑爱护学园的校长，为了维持年轻外貌，已经接受过七十二次身体重建手术。他在学校拥有管理权，也掌握与圣诞老人力量和学生失踪事件有关的信息。大渋对青春和年龄有近乎执着的追求，这一点与老练的理事长铁留十予形成对照。三田和冬村调查校园秘密时，校长的立场与过往经历成为他们无法忽略的一环。",
+          "nicknames": [
+            "大渋一二三",
+            "Hifumi Ooshibu",
+            "Principal",
+            "大渋校长"
+          ],
+          "traits": [
+            "大黑爱护学园校长",
+            "接受过七十二次重建手术",
+            "通过手术维持年轻外貌",
+            "掌握学校管理权",
+            "了解圣诞力量相关秘密",
+            "关注学生与校务秩序",
+            "是成人制度中的重要人物",
+            "由关俊彦配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "関俊彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95129-AAL7kfwAPpgR.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hifumi Ooshibu",
+            "name_native": "大渋一二三",
+            "name_alternative": [
+              "Principal"
+            ],
+            "description": "Principal of Daikoku Aigo Academy.\n\n~!Underwent a total of 72 reconstruction surgeries to maintain his youthful appearance.!~"
+          }
+        },
+        {
+          "id": 363819,
+          "name": "茂木一",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363819-9mxArIIjEDoK.png",
+          "description": "茂木一是大黑爱护学园学生，也是三田一重的宿舍室友之一。他与甘矢一诗共同生活在学校宿舍，平时参与同龄人的日常交往，也会见证三田身上圣诞力量发生变化后的校园生活。茂木的个人背景介绍较少，但他的室友身份使他成为三田身边固定的同学角色。宿舍场景让作品在紧张的调查与超常事件之外保留学生生活的部分。",
+          "nicknames": [
+            "茂木一",
+            "Hajime Mogi"
+          ],
+          "traits": [
+            "大黑爱护学园学生",
+            "是三田一重的宿舍室友",
+            "和甘矢一诗同住",
+            "参与宿舍日常生活",
+            "与三田保持同学关系",
+            "在校园中见证异常事件",
+            "由岩中睦树配音",
+            "属于三田周围的学生群体"
+          ],
+          "voice_actors": [
+            {
+              "name": "岩中睦樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129952-ONqSM6ixI6pq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hajime Mogi",
+            "name_native": "茂木一",
+            "name_alternative": [],
+            "description": "One of [Sanda](https://anilist.co/character/246680/Kazushige-Sanda)'s dorm roommates."
+          }
+        },
+        {
+          "id": 363834,
+          "name": "小野一绘",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b363834-K9wvfOTa0PdG.jpg",
+          "description": "小野一绘是冬村四织最好的朋友，在大黑爱护学园就读，却突然神秘失踪。冬村为了找到她，主动请求圣诞老人出手并解除三田一重身上的力量封印。一绘虽然在失踪后不常直接出现，她的下落却贯穿学生们的调查，也牵涉学校隐藏的制度和成人社会秘密。她与四织的友情是故事的重要情感起点。",
+          "nicknames": [
+            "小野一绘",
+            "Ichie Ono",
+            "イチエ オノ",
+            "一绘"
+          ],
+          "traits": [
+            "冬村四织最好的朋友",
+            "在大黑爱护学园就读",
+            "突然神秘失踪",
+            "失踪事件促使冬村寻找她",
+            "是三田圣诞力量被解封的原因",
+            "她的下落牵涉学校秘密",
+            "由永濑安娜配音",
+            "贯穿故事调查主线"
+          ],
+          "voice_actors": [
+            {
+              "name": "永瀬アンナ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182100-drkeWjMKToYg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ichie Ono",
+            "name_native": "イチエ オノ",
+            "name_alternative": [],
+            "description": "[Fuyumura](https://anilist.co/character/246681/Shiori-Fuyumura)'s best friend who mysteriously went missing."
+          }
+        },
+        {
+          "id": 380242,
+          "name": "铁留十予",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b380242-xoDiCm0gS2Zr.png",
+          "description": "铁留十予是大黑爱护学园理事长，与执着追求年轻外貌的大渋校长形成鲜明对照。她坦然接受年老状态，却依然行动敏捷、精力充沛，在学校治理中保持影响力。铁留了解学园内部事务，也参与成人社会对学生生活的管理。随着三田和冬村调查学校秘密，她的立场和决策逐渐影响事件走向。",
+          "nicknames": [
+            "铁留十予",
+            "Toyo Tetsudome",
+            "鉄留十予",
+            "十予理事长"
+          ],
+          "traits": [
+            "大黑爱护学园理事长",
+            "坦然接受自己年老",
+            "与追求青春的大渋校长形成对照",
+            "年纪虽大仍然精力充沛",
+            "参与学校治理",
+            "了解学园内部事务",
+            "在成人世界中拥有决策权",
+            "由行成桃姬配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "行成とあ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108551-R4Ro9eFab55G.png",
+              "language": "日语"
+            },
+            {
+              "name": "野沢雅子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95557-5a2nnIBK05ul.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Toyo Tetsudome",
+            "name_native": "鉄留十予",
+            "name_alternative": [],
+            "description": "The rector of Daikoku Aigo Academy. In contrast to Principal Ooshibu, who constantly pursues youth, she has gracefully accepted her old age. She's still spry for her age, however..."
+          }
+        },
+        {
+          "id": 389559,
+          "name": "堂园一庆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389559-50zwiLHI6Bnn.png",
+          "description": "堂园一庆是大黑爱护学园学生，也是三田一重的宿舍室友之一。他和甘矢一诗、茂木一等同学共同生活在宿舍，见证圣诞力量解除后学校逐步出现的异常情况。一庆在现有资料中没有复杂的个人背景，却是三田身边固定的同伴之一。宿舍同学的存在让主角的秘密不只影响调查任务，也会改变他与同龄人共同生活的方式。",
+          "nicknames": [
+            "堂园一庆",
+            "Ikkei Douzono",
+            "堂園一慶",
+            "一庆"
+          ],
+          "traits": [
+            "大黑爱护学园学生",
+            "是三田一重的宿舍室友",
+            "与同学共同生活在学校宿舍",
+            "见证圣诞力量相关事件",
+            "参与学生日常往来",
+            "与甘矢一诗同属宿舍成员",
+            "由藤原大智配音",
+            "补充三田身边的同学群体"
+          ],
+          "voice_actors": [
+            {
+              "name": "藤原大智",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n346639-NRuXnn2AZQxH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ikkei Douzono",
+            "name_native": "堂園一慶",
+            "name_alternative": [],
+            "description": "One of [Sanda](https://anilist.co/character/246680/Kazushige-Sanda)'s dorm roommates."
+          }
+        },
+        {
+          "id": 389562,
+          "name": "井泽三久",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b389562-uUKfj2VTwWhD.png",
+          "description": "井泽三久是大黑爱护学园学生，也是三田一重的同班同学。她和冬村四织等人身处同一所学校，在校园异常事件逐渐显露时，成为学生群体中的一员。三久的个人背景介绍有限，但她与三田的同学关系让故事呈现出事件对整个班级的影响，而非只发生在少数主角之间。她由柴田芽衣配音。",
+          "nicknames": [
+            "井泽三久",
+            "Miku Izawa",
+            "井沢三久",
+            "Izawa (井沢)",
+            "三久"
+          ],
+          "traits": [
+            "大黑爱护学园学生",
+            "是三田一重的同班同学",
+            "与三田共同生活在校园环境",
+            "关注班级中的异常变化",
+            "出现在学生日常场景中",
+            "由柴田芽衣配音",
+            "与冬村四织同校",
+            "属于调查事件涉及的学生群体"
+          ],
+          "voice_actors": [
+            {
+              "name": "柴田芽衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n141231-VMyJOe5jyc8u.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miku Izawa",
+            "name_native": "井沢三久",
+            "name_alternative": [
+              "Izawa (井沢)"
+            ],
+            "description": "One of [Sanda](https://anilist.co/character/246680/Kazushige-Sanda)'s classmates."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 180523,
+      "anime_title": "野生的大魔王出现了！",
+      "anime_origin": "JP",
+      "source": {
+        "id": 180523,
+        "titles": [
+          "Yasei no Last Boss ga Arawareta!",
+          "A Wild Last Boss Appeared!",
+          "野生のラスボスが現れた！",
+          "A Wild Last Boss Appears!",
+          "อุบัติการณ์ลาสบอสสุดแกร่ง"
+        ],
+        "year": 2025,
+        "format": "ONA",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/180523"
+      },
+      "characters": [
+        {
+          "id": 161623,
+          "name": "路法斯·玛法尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b161623-TzQnL3HussOW.jpg",
+          "description": "路法斯·玛法尔曾是统一米兹加尔兹大陆的最强存在，等级达到一千级，因黑色羽翼而被称为“黑翼霸王”。她在与七英雄的战斗后遭到封印，两百年后才被重新召唤回世界。路法斯拥有压倒性的战斗能力，并曾统领十二天星。复活后的她需要了解世界已经发生的变化，也要面对昔日盟友、敌人和部下在漫长岁月中的不同选择。",
+          "nicknames": [
+            "路法斯·玛法尔",
+            "Lufas Maphaahl",
+            "ルファス・マファール",
+            "Lufasu Mafaalu",
+            "Ruphas Mafahl",
+            "黑翼霸王"
+          ],
+          "traits": [
+            "等级达到一千级",
+            "种族为天翼族",
+            "曾统一米兹加尔兹大陆",
+            "被称为黑翼霸王",
+            "曾遭七英雄联手封印",
+            "两百年后重新回到世界",
+            "是十二天星的统领",
+            "拥有压倒性的战斗力量"
+          ],
+          "voice_actors": [
+            {
+              "name": "小清水亜美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png",
+              "language": "日语"
+            },
+            {
+              "name": "小野賢章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95819-O4fosAY0a1Ml.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Lufas Maphaahl",
+            "name_native": "ルファス・マファール",
+            "name_alternative": [
+              "Lufasu Mafaalu",
+              "Ruphas Mafahl"
+            ],
+            "description": "__Level:__  1000\n__Species:__  Heaven-Winged\n\nThe strongest being who once unified Mizgarz and was feared as \"The Black-Winged Overlord\". Was sealed after a battle with The Seven Heroes, but was summoned back into the world 200 years later."
+          }
+        },
+        {
+          "id": 289017,
+          "name": "迪娜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289017-18Y5HkPsVDB5.png",
+          "description": "迪娜是一名蓝发少女，在路法斯复活后于她昔日的据点玛法尔之塔与她重逢。迪娜自称是路法斯忠诚的侍从，已经等待主人归来两百年，熟悉塔内设施和旧日事务。她帮助路法斯了解两百年间世界的变化，也陪同她重新接触昔日部下与新的敌人。迪娜的忠诚和长期等待，让她成为路法斯恢复势力的重要伙伴。",
+          "nicknames": [
+            "迪娜",
+            "Dina",
+            "ディーナ"
+          ],
+          "traits": [
+            "拥有蓝色头发",
+            "在路法斯旧据点与她重逢",
+            "自称是路法斯忠诚的侍从",
+            "等待路法斯归来两百年",
+            "熟悉玛法尔之塔",
+            "协助路法斯了解现代局势",
+            "是重逢后的重要同伴",
+            "由薄井友里配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "薄井友里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n311366-GjhgXfAkfFpt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Dina",
+            "name_native": "ディーナ",
+            "name_alternative": [],
+            "description": "\nA blue-haired girl who the resurrected Lufas met at her former base, the Tower of Mafahl. She claims to be Lufas's loyal retainer and has been waiting for her return for 200 years."
+          }
+        },
+        {
+          "id": 289014,
+          "name": "白羊座阿里埃斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289014-gpPwDXOclIFH.png",
+          "description": "阿里埃斯是等级八百级的独特魔兽，外号“彩虹羊”，也是路法斯收留的第一名十二天星成员，代表白羊座。虽然他化为人形后外表偏女性化，实际性别为男性。阿里埃斯曾长期追随路法斯，熟悉她的战斗方式和指挥风格；主人复活后，他重新加入十二天星的行动，协助路法斯对抗恶魔势力并恢复昔日秩序。",
+          "nicknames": [
+            "白羊座阿里埃斯",
+            "Aries",
+            "アリエス",
+            "阿里埃斯"
+          ],
+          "traits": [
+            "等级八百级",
+            "种族为魔兽",
+            "被称为彩虹羊",
+            "由路法斯收留",
+            "是十二天星最早加入的成员",
+            "代表白羊座",
+            "人形外表偏女性化",
+            "实际性别为男性"
+          ],
+          "voice_actors": [
+            {
+              "name": "首藤志奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n153582-JAGk8KWqoeC6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aries",
+            "name_native": "アリエス",
+            "name_alternative": [],
+            "description": "__Level:__  800\n__Species:__  Magical Beast\n\nA one-of-a-kind monster called the \"Rainbow Sheep\", who was taken in by Lufas and made the first member of her Twelve Heavenly Stars, representing the **Ram** constellation. In spite of his feminine human form, he is male."
+          }
+        },
+        {
+          "id": 289015,
+          "name": "艾戈克罗斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289015-wORzJi9czCup.png",
+          "description": "艾戈克罗斯是等级八百级的魔王，代表路法斯十二天星中的摩羯座。他忠诚侍奉路法斯，在人形状态下看起来像一位年迈管家，举止恭敬，却因魔王身份而令其他魔族畏惧。艾戈克罗斯对主人十分忠诚，但有时也会因热衷行动而失控。他在路法斯复活后重新加入队伍，协助她召回部下并应对新一轮的战争。",
+          "nicknames": [
+            "艾戈克罗斯",
+            "Aigokeros",
+            "アイゴケロス",
+            "山羊座恶魔王"
+          ],
+          "traits": [
+            "等级八百级",
+            "种族为魔王",
+            "代表十二天星中的摩羯座",
+            "忠诚侍奉路法斯",
+            "以老管家形态活动",
+            "在魔族中令人畏惧",
+            "对主人忠诚但有时会失控",
+            "参与路法斯重建势力"
+          ],
+          "voice_actors": [
+            {
+              "name": "内田直哉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95338-hoqbedi0LHZf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aigokeros",
+            "name_native": "アイゴケロス",
+            "name_alternative": [],
+            "description": "__Level:__  800\n__Species:__  Demon Lord\n\nA demon who faithfully serves in Lufas's Twelve Heavenly Stars, representing the **Goat** constellation. He is feared by all as the \"Demon Lord Aigokeros\". His anthropomorphic form is that of an elderly butler, and although he is loyal to Lufas, he can also tend to run amok."
+          }
+        },
+        {
+          "id": 289020,
+          "name": "天秤座利布拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289020-YERDJMejK9xH.png",
+          "description": "利布拉是等级九百一十级的魔像，以人造女仆形态活动，也是路法斯十二天星中代表天秤座的成员。她在十二天星里以极具压迫性的战斗方式闻名，终极技能“Brachium”几乎无法避开，能够对目标造成接近致命的伤害。利布拉外表服从命令，战斗时却毫不留情。路法斯重新归来后，她再次成为队伍中的强力战将。",
+          "nicknames": [
+            "天秤座利布拉",
+            "Libra",
+            "リーブラ",
+            "利布拉"
+          ],
+          "traits": [
+            "等级九百一十级",
+            "种族为魔像",
+            "外形是人造女仆",
+            "属于路法斯十二天星",
+            "代表天秤座",
+            "是十二天星中战斗最残酷者之一",
+            "必杀技名为Brachium",
+            "攻击几乎无法避开且会造成重伤"
+          ],
+          "voice_actors": [
+            {
+              "name": "東城日沙子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118400-z4bVC1opOj91.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Libra",
+            "name_native": "リーブラ",
+            "name_alternative": [],
+            "description": "__Level:__  910\n__Species:__  Golem\n\nAn artificial golem in the form of a maid, who is a member of Lufas's Twelve Heavenly Stars representing the **Scales** constellation. Out of the Twelve Heavenly Stars, she is the most brutal combat-wise, as her ultimate skill **Brachium** can provide unavoidable near-fatal damage to anyone who stands in its way."
+          }
+        },
+        {
+          "id": 289022,
+          "name": "处女座维尔戈",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289022-sqturGdGEyBD.png",
+          "description": "维尔戈是一名天翼族少女，等级三百二十级，在瓦纳海姆由导师帕尔忒诺斯抚养长大。她代表路法斯十二天星中的处女座，继承了天翼族的身世与训练经历。维尔戈长期生活在帕尔忒诺斯建立的隐居结界中，对外界局势所知有限；随着路法斯复活和旧部重新集结，她逐渐被卷入大陆势力间的冲突。",
+          "nicknames": [
+            "处女座维尔戈",
+            "Virgo",
+            "ウィルゴ",
+            "维尔戈"
+          ],
+          "traits": [
+            "等级三百二十级",
+            "种族为天翼族",
+            "在瓦纳海姆长大",
+            "由导师帕尔忒诺斯抚养",
+            "代表十二天星中的处女座",
+            "与路法斯势力有关",
+            "拥有天翼族身份",
+            "由大森心配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "大森こころ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n358248-pedhwUXY54xu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Virgo",
+            "name_native": "ウィルゴ",
+            "name_alternative": [],
+            "description": "__Level:__  320\n__Species:__  Heaven-Winged\n\nA heaven-winged girl raised in Vanaheimr by her mentor, [Parthenos](https://anilist.co/character/358430/Parthenos)."
+          }
+        },
+        {
+          "id": 289027,
+          "name": "南十字濑衣",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289027-1cCUN6wNpotp.png",
+          "description": "南十字濑衣是一名十五岁的人类少年，原本过着普通高中生活，却在路法斯复活后被勇者召唤仪式带到米兹加尔兹。他身体素质平凡，没有特别技能，却被要求打倒威胁人类的魔王和路法斯。濑衣必须在陌生世界里学习生存并寻找战斗方法，逐渐认识到传说中的善恶与现实处境并不完全一致。",
+          "nicknames": [
+            "南十字濑衣",
+            "Sei Minamijuuji",
+            "南十字瀬衣",
+            "濑衣"
+          ],
+          "traits": [
+            "十五岁的人类少年",
+            "原本是普通高中生",
+            "被勇者召唤仪式带到异世界",
+            "身体素质十分普通",
+            "没有特殊战斗技能",
+            "目标是打倒威胁人类的魔王和路法斯",
+            "参与勇者一方行动",
+            "由堀江瞬配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "堀江瞬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119869-mUUrORIQBlnB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sei Minamijuuji",
+            "name_native": "南十字瀬衣",
+            "name_alternative": [],
+            "description": "__Level:__  15\n__Species:__  Human\n\nAn ordinary high school boy who, after Lufas' resurrection, was brought to Mizgarz via a hero summoning ceremony. With an extremely average body and no special skills at all, he sets out to defeat the Demon Lord and Lufas, both of whom threaten humanity."
+          }
+        },
+        {
+          "id": 289028,
+          "name": "贝内特纳什",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289028-4AbYGgfrk6yI.png",
+          "description": "贝内特纳什是吸血鬼，也是路法斯过去的伙伴与七英雄之一。即使在吸血鬼族群中，她的战斗和魔法能力仍十分突出。路法斯被封印后，贝内特纳什建立米约尔尼尔王国，并统治当地的不死怪物。她既与路法斯拥有旧日情谊，又曾参与封印她的战争；两人重逢后必须面对友情、立场和漫长岁月带来的改变。",
+          "nicknames": [
+            "贝内特纳什",
+            "Benetsnach",
+            "ベネトナシュ",
+            "The Vampire Princess",
+            "Vampire Princess Benetnasch"
+          ],
+          "traits": [
+            "吸血鬼",
+            "曾是路法斯的旧日伙伴",
+            "属于七英雄之一",
+            "拥有出色的战斗与魔法能力",
+            "路法斯被封印后建立米约尔尼尔王国",
+            "统治不死怪物",
+            "在吸血鬼中实力突出",
+            "曾参与封印路法斯的战争"
+          ],
+          "voice_actors": [
+            {
+              "name": "明坂聡美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95723-bV625Jngt5o6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Benetsnach",
+            "name_native": "ベネトナシュ",
+            "name_alternative": [
+              "The Vampire Princess",
+              "Vampire Princess Benetnasch"
+            ],
+            "description": "__Species:__  Vampire\n\nOne of Lufas' former comrades and one of the Seven Heroes. Has outstanding combat and magic power even among vampires, and after Lufas' sealing founded the Kingdom of Mjolnir, where she dominates all immortal monsters."
+          }
+        },
+        {
+          "id": 289032,
+          "name": "魔神王奥尔姆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289032-MG5NW6rrB2wU.png",
+          "description": "魔神王奥尔姆是魔族的统治者。路法斯被封印后，他击败七英雄并诅咒他们的身体，使他们失去原有力量；此后奥尔姆不断扩大魔军攻势，持续威胁人类世界的存续。他的崛起改变了大陆力量格局，也迫使路法斯昔日部下各自应对新的统治秩序。作为魔族阵营的最高领袖，奥尔姆是路法斯复活后必须面对的主要敌人。",
+          "nicknames": [
+            "魔神王奥尔姆",
+            "Majin Ou Orm",
+            "魔神王オルム",
+            "The Devil King Orm",
+            "奥尔姆"
+          ],
+          "traits": [
+            "魔族统治者",
+            "在路法斯被封印后击败七英雄",
+            "曾诅咒七英雄的身体",
+            "夺走他们大部分力量",
+            "持续扩大魔军攻势",
+            "威胁人类世界存续",
+            "与路法斯势力敌对",
+            "是大陆战争的主要对手"
+          ],
+          "voice_actors": [
+            {
+              "name": "速水奨",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95137-2Q5l3Br9G7sk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Majin Ou Orm",
+            "name_native": "魔神王オルム",
+            "name_alternative": [
+              "The Devil King Orm"
+            ],
+            "description": "The ruler of the demons. After Lufas' sealing, he won the battle against the Seven Heroes and cursed their bodies, taking away their powers. Since then, he has intensified his armies' offensive against humanity and continues to threaten their existence."
+          }
+        },
+        {
+          "id": 358430,
+          "name": "帕尔忒诺斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358430-gQb6WsrWabWk.png",
+          "description": "帕尔忒诺斯等级八百级，种族为人类，是路法斯十二天星中代表处女座的成员。她是艾涅阿斯家族的直系后裔，这个族群据说由女神创造，用来执行神的意志。路法斯被封印后，帕尔忒诺斯退居瓦纳海姆，并以结界建立不受外界打扰的圣域；她在那里抚养并指导天翼族少女维尔戈。",
+          "nicknames": [
+            "帕尔忒诺斯",
+            "Parthenos",
+            "パルテノス"
+          ],
+          "traits": [
+            "等级八百级",
+            "种族为人类",
+            "代表路法斯十二天星中的处女座",
+            "是艾涅阿斯家族直系后裔",
+            "家族源自女神创造的原初人类",
+            "路法斯被封印后退居瓦纳海姆",
+            "用结界建立无人圣域",
+            "担任维尔戈的导师"
+          ],
+          "voice_actors": [
+            {
+              "name": "かないみか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95029-XUWWmrBWrwYm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Parthenos",
+            "name_native": "パルテノス",
+            "name_alternative": [],
+            "description": "__Level:__  800\n__Species:__  Human\n\nA human woman who represents the **Maiden** of Lufas's Twelve Heavenly Stars. A direct descendant of the \"Aeneas Family\", a race of primordial humans created by the goddess to act as her agents. Since Lufas was sealed by the heroes, she retired to the city of Vanaheimr, which she used a barrier to make an uninhabited sanctuary."
+          }
+        },
+        {
+          "id": 374199,
+          "name": "阿利奥特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374199-tBxTsTzcYkWl.png",
+          "description": "阿利奥特是七英雄之一，曾是路法斯最亲近的朋友，也因卓越剑术被称为“剑王”。两百年前，他参与封印路法斯的战斗，之后又与七英雄一起面对魔神王奥尔姆。路法斯重新回到世界后，阿利奥特的旧友身份让双方的重逢带着复杂情绪：他们既分享共同经历，也曾站在敌对立场。",
+          "nicknames": [
+            "阿利奥特",
+            "Alioth",
+            "アリオト",
+            "剑王"
+          ],
+          "traits": [
+            "七英雄之一",
+            "曾与路法斯关系亲密",
+            "以剑王之名闻名",
+            "两百年前参与封印路法斯",
+            "拥有高超剑术",
+            "参与对抗魔神王的战争",
+            "旧友身份影响路法斯复活后的局势",
+            "由武内骏辅配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "武内駿輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119185-65kkxuTRxAgo.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Alioth",
+            "name_native": "アリオト",
+            "name_alternative": [],
+            "description": "__Species:__  Human\n\nOne of the Seven Heroes, and one of Lufas' closest friends. Widely known as the \"Sword King\" Alioth, who sealed Lufas away 200 years ago."
+          }
+        },
+        {
+          "id": 374200,
+          "name": "梅格雷兹",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374200-ZC6EY3SaP6VF.jpg",
+          "description": "梅格雷兹是等级五百级的精灵，也是七英雄之一，曾与路法斯关系亲密。如今他以“智王”之名统治斯维尔王国，负责处理国家事务和大陆局势。两百年前败给魔神王奥尔姆后，梅格雷兹遭到诅咒，下半身瘫痪，力量也只剩过去的一半。尽管身体受到限制，他仍凭借智慧和经验维护王国秩序。",
+          "nicknames": [
+            "梅格雷兹",
+            "Megrez",
+            "メグレズ",
+            "智王"
+          ],
+          "traits": [
+            "七英雄之一",
+            "种族为精灵",
+            "等级五百级",
+            "曾是路法斯的亲密朋友",
+            "如今被称为智王",
+            "统治斯维尔王国",
+            "被魔神王诅咒后下半身瘫痪",
+            "实力仅剩过去的一半"
+          ],
+          "voice_actors": [
+            {
+              "name": "前野智昭",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96489-xTzYxgdC9g9l.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Megrez",
+            "name_native": "メグレズ",
+            "name_alternative": [],
+            "description": "__Level:__  500\n__Species:__  Elf\n\nOne of the Seven Heroes and Lufas' close friend. In present day, he is called the \"Wisdom King\" as he rules the kingdom of Svel. After losing to the Demon King 200 years ago, he was cursed by him, leaving to the paralysis of his lower body and his strength only being half of what it used to be."
+          }
+        },
+        {
+          "id": 374201,
+          "name": "梅拉克",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374201-Eds1JMHNqJoi.png",
+          "description": "梅拉克是等级五百级的天翼族，也是路法斯过去的伙伴和七英雄之一。他如今被称作“天王”，统治格亚拉霍恩王国。梅拉克在两百年前与魔神王交战落败后受到诅咒，失去右侧羽翼，力量也减弱一半。路法斯复活后，他必须在王国职责、旧友情谊与曾经封印路法斯的历史之间作出选择。",
+          "nicknames": [
+            "梅拉克",
+            "Merak",
+            "メラク",
+            "天王"
+          ],
+          "traits": [
+            "七英雄之一",
+            "种族为天翼族",
+            "等级五百级",
+            "曾是路法斯的旧友",
+            "现在被称为天王",
+            "统治格亚拉霍恩",
+            "败给魔神王后遭到诅咒",
+            "失去右侧羽翼及一半力量"
+          ],
+          "voice_actors": [
+            {
+              "name": "平川大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95183-5C42gbrKIP7L.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Merak",
+            "name_native": "メラク",
+            "name_alternative": [],
+            "description": "__Level:__  500\n__Species:__  Heaven-Winged\n\nOne of Lufas' old friends and a member of the Seven Heroes, now known as the \"Sky King\" and ruler of Gjallarhorn. As a result of his loss against the demon king, he was cursed and lost his right wing, as well as half of his strength."
+          }
+        },
+        {
+          "id": 374855,
+          "name": "朱庇特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374855-dhu0cpjnNRte.png",
+          "description": "朱庇特是魔族，属于魔神王麾下的精锐部队“七曜”之一。与直接依赖蛮力不同，他喜欢利用计谋和布局击败对手，即使外表给人相反印象，行动仍十分狡猾。朱庇特参与魔族军队的攻势与对七英雄的围剿，在路法斯重新出现后也成为新秩序的重要执行者。",
+          "nicknames": [
+            "朱庇特",
+            "Jupiter",
+            "ユピテル"
+          ],
+          "traits": [
+            "魔族",
+            "魔神王麾下七曜之一",
+            "属于恶魔精锐部队",
+            "擅长以计谋击败对手",
+            "外表与战斗方式形成反差",
+            "执行魔王军的任务",
+            "参与对七英雄的围剿",
+            "由松冈祯丞配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jupiter",
+            "name_native": "ユピテル",
+            "name_alternative": [],
+            "description": "__Species:__  Demon\n\nOne of the Seven Luminaries, the Demon King's elite force. Despite his appearance, he likes to dispatch his opponents through cunning."
+          }
+        },
+        {
+          "id": 374856,
+          "name": "火星",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b374856-iJBmXSvROleO.png",
+          "description": "火星是魔族，属于魔神王麾下七曜精锐之一，拥有火属性力量。他把击败七英雄作为目标，希望借此得到魔神王的赏识，因此积极参与魔军对人类势力的攻势。火星常以火焰能力投入战斗，与路法斯旧部发生冲突。作为新一代魔族强者，他的野心也体现出奥尔姆政权内部以战功争取地位的竞争。",
+          "nicknames": [
+            "火星",
+            "Mars",
+            "マルス"
+          ],
+          "traits": [
+            "魔族",
+            "魔神王七曜精锐之一",
+            "具有火属性力量",
+            "希望击败七英雄",
+            "以赢得魔神王赏识为目标",
+            "参与魔军对人类的攻势",
+            "擅长火焰系战斗",
+            "由入野自由配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "入野自由",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mars",
+            "name_native": "マルス",
+            "name_alternative": [],
+            "description": "__Species:__  Demon\n\nOne of the Seven Luminaries, the Demon King's elite force. Has Fire affinity, and aims to kill the Seven Heroes to win the Demon King's favor."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 21382,
+      "anime_title": "Rewrite",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21382,
+        "titles": [
+          "Rewrite",
+          "リライト"
+        ],
+        "year": 2016,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21382"
+      },
+      "characters": [
+        {
+          "id": 37486,
+          "name": "神户小鸟",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37486-Qa3NirhKIWMO.png",
+          "description": "神户小鸟是天王寺瑚太朗的青梅竹马，与他就读同一所学校。她性格活泼，擅长园艺，也能感知到普通人不易察觉的超自然现象。小鸟从小与瑚太朗关系亲近，虽然身边朋友不多，却会积极参与他的校园生活。随着瑚太朗试图重建学校的超自然研究社，小鸟逐渐卷入围绕地球和人类未来展开的秘密事件。",
+          "nicknames": [
+            "神户小鸟",
+            "Kotori Kanbe",
+            "神戸小鳥",
+            "小鸟"
+          ],
+          "traits": [
+            "天王寺瑚太朗的青梅竹马",
+            "与瑚太朗就读同一所学校",
+            "擅长园艺",
+            "能够感知超自然现象",
+            "性格活泼外向",
+            "从小与瑚太朗交好",
+            "身边朋友不多",
+            "参与学校超自然社团活动"
+          ],
+          "voice_actors": [
+            {
+              "name": "斎藤千和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-R8YSAYX7UFCO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kotori Kanbe",
+            "name_native": "神戸小鳥",
+            "name_alternative": [],
+            "description": "**Height:** 156 cm\n\nKotori is a heroine of Rewrite, and attends the same school as [Kotarou](https://anilist.co/character/46723/Tennouji-Kotarou). \n\nShe is skilled at gardening and is able to sense supernatural things. She has a hyper personality, has been good friends with Kotarou since childhood, and does not have very many other friends."
+          }
+        },
+        {
+          "id": 40501,
+          "name": "千里朱音",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40501-KM1rfhZlzkGm.png",
+          "description": "千里朱音是比天王寺瑚太朗高一届的学姐，也是学校超自然研究社的社长。她身上总带着神秘感，因此被学生称作“学校魔女”，初见时显得傲慢而难以接近，平时常独自在社团教室。面对亲近的家人和朋友时，朱音又会展现较为平凡的一面。她掌握超自然事件背后的重要信息，也逐渐引导瑚太朗进入更大的组织冲突。",
+          "nicknames": [
+            "千里朱音",
+            "Akane Senri",
+            "School Witch",
+            "Den of the Underworld",
+            "朱音"
+          ],
+          "traits": [
+            "瑚太朗高一届的学姐",
+            "担任学校超自然研究社社长",
+            "因神秘气质被称作学校魔女",
+            "平时表现傲慢难以接近",
+            "独处时常待在社团教室",
+            "对亲近的人会显露平常一面",
+            "熟悉超自然组织与事件",
+            "由喜多村英梨配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "喜多村英梨",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Akane Senri",
+            "name_native": "千里朱音",
+            "name_alternative": [
+              "School Witch",
+              "Den of the Underworld"
+            ],
+            "description": "__Height:__ 160 cm\n\nAkane is a heroine of Rewrite who attends Kotarou's high school one year above him. She is the president of the school's occult research society and is known as the \"School Witch\" due to an air of mystery that she gives off. While she is more arrogant than Kotarou at first glance, she has another side to her personality and even has a much plainer personality with close friends and family. She is usually alone at the Occult club."
+          }
+        },
+        {
+          "id": 40812,
+          "name": "此花露琪亚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40812-VRNNqzP0NgKk.png",
+          "description": "此花露琪亚是天王寺瑚太朗班级的班长，责任感和正义感很强，做事严谨，经常需要制止瑚太朗越界胡闹。她属于Guardian组织，能力与组织进行的基因工程有关：身体会产生有毒物质，也能将振动传递到物体上。振动会干扰枪械和机械，所以露琪亚使用武士刀战斗；她的能力还会使刀刃呈现链锯般的效果。",
+          "nicknames": [
+            "此花露琪亚",
+            "Lucia Konohana",
+            "此花ルチア",
+            "露琪亚"
+          ],
+          "traits": [
+            "瑚太朗班级的班长",
+            "责任感和正义感很强",
+            "性格严谨认真",
+            "经常制止瑚太朗的胡闹",
+            "是Guardian组织成员",
+            "能力源于组织的基因工程",
+            "能把振动传递给物体",
+            "挥舞特制武士刀作战",
+            "身体会产生有毒物质"
+          ],
+          "voice_actors": [
+            {
+              "name": "朝樹りさ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/24825-aKbcukZkxtL6.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Lucia Konohana",
+            "name_native": "此花ルチア",
+            "name_alternative": [],
+            "description": "__Height:__ 167 cm\n\nLucia is a heroine of Rewrite who is the class representative of Kotarou's class, and as such as a strong sense of responsibility and justice. She is a strong, fastidious girl who often must get involved with Kotarou's exploits when he gets out of line.    ~! Lucia is a member of Guardian and her abilities are a result of genetic engineering by Guardian, who wishes to create human beings capable of living in the wasteland that Earth would eventually turn into in a thousand years. A wasteland that is so harsh, that the entire atmosphere of Earth contains fatal miasma. As a result of genetic engineering that would allow her to live in this miasma, her body also produces poisonous miasma and poisonous pus. In order to subdue these poisonous excretions, she must take special medication. Another side effect of her genetic engineering is that her body creates vibrations, which she is able to direct towards foreign objects without touch. However, these inadvertent vibrations can cause trouble to machines, firearms, and other mechanisms. As a result, Lucia wields a katana in order to avoid jamming during battle (the vibrations also make her sword act like a chain-saw). !~ (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 40816,
+          "name": "中津静流",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40816-LmYJ6wPA2QV1.png",
+          "description": "中津静流是比瑚太朗小一届的学生，在学校风纪委员会工作，性格害羞安静。她的右眼呈金色，平时用眼罩遮住，左眼则是蓝色；虽然话不多，脸部表情和手势却很丰富，瑚太朗能据此理解她的意思。静流属于Guardian组织，拥有治疗自己和他人的能力，也能制造导致恶魔麻痹的雾，并对他人施加不同形式的失忆。",
+          "nicknames": [
+            "中津静流",
+            "Shizuru Nakatsu",
+            "静流"
+          ],
+          "traits": [
+            "比瑚太朗小一届",
+            "在学校风纪委员会工作",
+            "性格害羞而安静",
+            "右眼为金色并常戴眼罩",
+            "左眼为蓝色",
+            "不常说话但表情丰富",
+            "属于Guardian组织",
+            "拥有自我与他人治疗能力",
+            "能使人失忆并制造麻痹恶魔的雾"
+          ],
+          "voice_actors": [
+            {
+              "name": "すずきけいこ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103950-bQtxeUZQHy02.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shizuru Nakatsu",
+            "name_native": "中津静流",
+            "name_alternative": [],
+            "description": "__Height:__ 149 cm\n\nShizuru is another heroine of Rewrite who is a shy girl on the public morals committee at school, and is one year younger than [Kotarou](https://anilist.co/character/46723/Tennouji-Kotarou). She has heterochromia, though wears an eyepatch over her golden-colored right eye, making this impossible to tell; her left eye is blue. Though she does not speak much, she often gives off plentiful facial expressions, and Kotarou can decipher these along with her behavior and gestures to carry on a conversation with her.\n\n~!She is a member of Guardian and has the ability to heal herself and others, as well as inflict various forms of amnesia on people, and can also produce a mist that paralyzes demons, but not half-demons. She was born with these abilities which were awakened as the result of a traumatic event.!~"
+          }
+        },
+        {
+          "id": 46723,
+          "name": "天王寺瑚太朗",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b46723-Tm3BRbszAmyD.png",
+          "description": "天王寺瑚太朗是故事男主角，一名性格轻浮又有些自负的高中生。他常常不自觉地介入别人的麻烦，因此很容易卷入突发事件；故事开端，他正试图让学校超自然研究社重新运作。瑚太朗幼年曾遭遇事故并失去记忆，小鸟为救他将“钥匙”的缎带植入肩部。此后他获得改写自身的能力，还能将生命力化作刃状灵力，在不断升级的事件中面对人类未来。",
+          "nicknames": [
+            "天王寺瑚太朗",
+            "Kotarou Tennouji",
+            "Kota-san",
+            "瑚太朗"
+          ],
+          "traits": [
+            "Rewrite的男主角",
+            "就读高中",
+            "性格轻浮且有些自负",
+            "常不自觉介入他人事务",
+            "容易卷入突发事件",
+            "试图重建学校超自然研究社",
+            "幼年事故后曾失去记忆",
+            "拥有改写自身的能力",
+            "可将生命力化作刃状灵力"
+          ],
+          "voice_actors": [
+            {
+              "name": "森田成一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95205-5P3tKe3eTG9n.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kotarou Tennouji",
+            "name_native": "天王寺瑚太朗",
+            "name_alternative": [
+              "Kota-san"
+            ],
+            "description": "Kotarou is the protagonist of Rewrite. He is a high school student with a frivolous personality and is known to be arrogant. Though not fully realizing it himself, he meddles in the business of others, and as such tends to get easily drawn into incidents. The beginning of Rewrite centers around Kotarou's antics in his attempt to revive his school's Occult Club.    \n\n~!Kotarou suffered from an accident when he was young, which caused him to sustain brain damage and suffer from amnesia. Kotori managed to save him on the verge of death by implanting one of the Key's ribbons in his shoulder. Kotori believes she might have resurrected her childhood friend as a familiar, and she comments that his personality changed drastically after the incident. Other than his initial ability from birth to rewrite himself, which allows him to fundamentally change himself, such as gaining superhuman strength and senses, the Key's ribbon, gave Kotarou a second power, simply named \"aurora\", which is Kotarou's life force seeping from a wound in his right arm. It resembles a blade, but Kotarou finds other uses for it as well.!~ \n\n~!Kotarou was originally a member of Guardian, as shown in the Terra route. In every single timeline, he ended up attempting to kill Kagari due to his involvement with the group, which led to the incident where he was saved by Kotori implanting one of the Key's ribbons in his shoulder, but fell victim to amnesia. After this incident, he had stopped physically aging due to being part familiar, so he was able to fit in in school despite being ~10 years older than everyone else.!~"
+          }
+        },
+        {
+          "id": 70463,
+          "name": "篝",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70463-ND4DOfhilxGc.png",
+          "description": "篝是一名外表像高中生的少女，在故事中被反复称作“钥匙”。她拥有足以毁灭地球所有智慧生命的力量，也能启动新的进化阶段，让生命重新发展出其他智慧形态；但这一过程需要消耗地球能量，而现阶段地球已所剩无几。盖亚组织想捕获她以确保人类灭亡，Guardian则希望杀死她以延续人类。",
+          "nicknames": [
+            "篝",
+            "Kagari",
+            "Key"
+          ],
+          "traits": [
+            "外表像高中年龄的少女",
+            "被称为“钥匙”",
+            "与故事后两条终章路线相关",
+            "掌握毁灭地球智慧生命的力量",
+            "也能启动生命重新进化的过程",
+            "重新进化需要消耗地球能量",
+            "被盖亚组织试图捕获",
+            "被Guardian组织列为目标"
+          ],
+          "voice_actors": [
+            {
+              "name": "花澤香菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kagari",
+            "name_native": "篝",
+            "name_alternative": [
+              "Key"
+            ],
+            "description": "A young, high school age-looking girl.  She is referred as the \"key\" throughout the game. The last two concluding arcs of the game called \"Moon route\" and \"Terra route\" revolve around her.   ~!Kagari, the main heroine of Rewrite, has the power to destroy all intelligent life on Earth, though can also initiate a period of re-evolution, which restarts the process of evolving another means of intelligent life. However, this is done with the use of the Earth's energy, and by the time the events of Rewrite occur, there is no more energy left to do another re-evolution. Gaia wants to capture Kagari to ensure the destruction of humanity, but Guardian wishes to seek out Kagari to kill her, ensuring that human life continues.!~ (Source: Kanon-finale)"
+          }
+        },
+        {
+          "id": 55381,
+          "name": "吉野晴彦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/55381-qMOciCRLHGK4.png",
+          "description": "吉野晴彦通常被同学直接称作吉野，自称“疯狗”不良少年，外表看起来凶狠强硬，实际上却很少主动给别人惹麻烦。他与天王寺瑚太朗同校，是学校日常中颇具辨识度的学生。吉野有自己的原则，遇到冲突时态度强硬，却并非只会制造问题。随着超自然研究社和各方组织的事件展开，他也以同伴身份参与瑚太朗周围的校园生活。",
+          "nicknames": [
+            "吉野晴彦",
+            "Haruhiko Yoshino",
+            "Mad Dog",
+            "吉野"
+          ],
+          "traits": [
+            "主要被同学称作吉野",
+            "自称“疯狗”不良少年",
+            "外表给人凶狠印象",
+            "实际上很少主动惹事",
+            "性格倔强强硬",
+            "是瑚太朗的同学",
+            "参与学校日常和社团事件",
+            "由柳田淳一配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "柳田淳一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114639-x529Dzoctde8.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Haruhiko Yoshino",
+            "name_native": "吉野晴彦",
+            "name_alternative": [
+              "Mad Dog"
+            ],
+            "description": "Haruhiko Yoshino, who primarily is referred to by his surname, is a self-styled \"mad dog\" delinquent, but in actuality he does not cause trouble for people very much, though is still a tough young man.  (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 70465,
+          "name": "凤咲夜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70465-3v2BbjIkwfzE.png",
+          "description": "凤咲夜是天王寺瑚太朗学校的三年级学生，负责像监护人一样照看凤千早。两人虽然姓氏相同，却没有直接血缘关系。咲夜通常对人友善，唯独常冷淡对待瑚太朗，还喜欢拿他开玩笑。过去他曾是改写者，为保护美奈多而改写自身获得永生，之后化为树木；千早年幼时在树前祈祷，促使他重新现身并成为她的守护者。",
+          "nicknames": [
+            "凤咲夜",
+            "Sakuya Ohtori",
+            "鳳咲夜",
+            "咲夜"
+          ],
+          "traits": [
+            "瑚太朗学校的三年级学生",
+            "负责照看千早",
+            "与千早姓氏相同但没有血缘关系",
+            "对多数人态度友善",
+            "唯独常冷淡对待瑚太朗",
+            "喜欢开瑚太朗玩笑",
+            "曾是改写者",
+            "为保护美奈多把自己改造成永生使魔"
+          ],
+          "voice_actors": [
+            {
+              "name": "小西克幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sakuya Ohtori",
+            "name_native": "鳳咲夜",
+            "name_alternative": [],
+            "description": "Sakuya is a third-year student at [Kotarou](https://anilist.co/character/46723)'s school who looks after [Chihaya](https://anilist.co/character/40814) as a guardian would, and despite having the same family name, is not directly related to her. While generally a sociably kind person, he is rather cold only towards Kotarou; Sakuya enjoys making fun of him.   ~!He is the previous Rewriter, who rewrote himself to immortality to protect Minata. As a result, he turned into a tree, until one day a young Chihaya kneeled in front of the tree, prompting him to materialize and devote himself to protecting Chihaya as an atonement for his failure. He is known as the strongest familiar in Gaia, powerful enough to destroyed Tenma's Krivoy Rog (albeit injured) in one slash.!~"
+          }
+        },
+        {
+          "id": 70467,
+          "name": "西九条灯花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70467-ddWd5CpemaVC.png",
+          "description": "西九条灯花是瑚太朗学校的新任教师，总是面带笑容，待人温柔亲切。她虽然不负责瑚太朗等人的课程，却常在走廊与学生交谈，因此在校园里颇受欢迎。灯花早就认识中津静流，对她的情况有所了解，也会在学校事件中提供支持。她看似普通的教师身份与超自然势力逐渐浮现的故事形成对照。",
+          "nicknames": [
+            "西九条灯花",
+            "Touka Nishikujou",
+            "灯花老师"
+          ],
+          "traits": [
+            "瑚太朗学校的新任教师",
+            "总是面带笑容",
+            "性格温柔亲切",
+            "并非瑚太朗班级的任课老师",
+            "常在走廊与学生交谈",
+            "早就认识中津静流",
+            "受到学生欢迎",
+            "由田中凉子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "田中涼子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96132-zxza4Qnd5otA.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Touka Nishikujou",
+            "name_native": "西九条灯花",
+            "name_alternative": [],
+            "description": "Touka Nishikujou is a new teacher at [Kotarou](https://anilist.co/character/46723)'s school who is always seen smiling and is very kind. While not a teacher of Kotarou or the others, she often talks with them in the hallways, and has known [Shizuru](https://anilist.co/character/40816) for a while. She is a popular teacher among the students."
+          }
+        },
+        {
+          "id": 253764,
+          "name": "御堂",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253764-wjICJckxxA05.png",
+          "description": "御堂是盖亚组织的恶魔召唤师，行动时常戴着兜帽，能够召唤黑色恶魔犬。他参与袭击天王寺瑚太朗一行，利用召唤能力制造危险，也代表盖亚组织以恶魔力量介入事件的一面。御堂的行动使瑚太朗不得不面对研究社之外的超自然势力，并逐渐理解地球未来冲突背后的组织分歧。",
+          "nicknames": [
+            "御堂",
+            "Midou",
+            "ミドウ"
+          ],
+          "traits": [
+            "属于盖亚组织的恶魔召唤师",
+            "行动时常戴着兜帽",
+            "能够召唤黑色恶魔犬",
+            "参与袭击天王寺瑚太朗",
+            "与组织计划一同行动",
+            "使用超自然召唤能力",
+            "是瑚太朗一行的敌人",
+            "由保志总一朗配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "保志総一朗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Midou",
+            "name_native": "ミドウ",
+            "name_alternative": [],
+            "description": "Midou is a hooded demon summoner in Gaia who becomes involved in attacking Kotarou with black demon dogs."
+          }
+        },
+        {
+          "id": 264851,
+          "name": "吉鲁",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264851-rt0ZElDdMCXM.jpg",
+          "description": "吉鲁是一种被瑚太朗从另一个维度带回家的未知生物，与帕尼一起被归类为UMA。它外形和习性都不同于普通动物，来到现实世界后由瑚太朗一行照料，也逐渐成为他们日常生活的一部分。吉鲁的出现说明不同维度之间存在通道，并为超自然研究社提供了直接观察异界生物的机会。",
+          "nicknames": [
+            "吉鲁",
+            "Giru",
+            "ぎる"
+          ],
+          "traits": [
+            "被瑚太朗带回家的未知生物",
+            "与帕尼同属UMA",
+            "来自另一个维度",
+            "被研究社成员照料",
+            "具有非人类外形",
+            "参与瑚太朗的日常生活",
+            "身份与异世界有关",
+            "由若林直美配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "若林直美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96365-qcplSIKbAhTm.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Giru",
+            "name_native": "ぎる",
+            "name_alternative": [],
+            "description": "One of the two UMA Kotarou brought home from an alternate dimension."
+          }
+        },
+        {
+          "id": 264852,
+          "name": "帕尼",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264852-CalYZfOADHit.png",
+          "description": "帕尼是被瑚太朗从另一个维度带回家的未知生物，与吉鲁同属UMA。它和吉鲁一同进入现实世界后，由瑚太朗及同伴照料，并在超自然研究社的生活中成为特别的伙伴。帕尼的来历与异界有关，让学生们能够直接接触非人类生物，也使日常社团活动逐渐与更大的世界秘密连接。",
+          "nicknames": [
+            "帕尼",
+            "Pani",
+            "ぱに"
+          ],
+          "traits": [
+            "被瑚太朗带回家的未知生物",
+            "与吉鲁同属UMA",
+            "来自另一个维度",
+            "由瑚太朗一行带回现实",
+            "具有非人类外形",
+            "与吉鲁共同生活",
+            "参与研究社的日常事件",
+            "由上田典子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "上田のりこ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n143171-cHSm3wxEDJqb.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pani",
+            "name_native": "ぱに",
+            "name_alternative": [],
+            "description": "One of the two UMA Kotarou brought home from an alternate dimension."
+          }
+        },
+        {
+          "id": 264853,
+          "name": "江坂宗源",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264853-evNezrbMvX8o.png",
+          "description": "江坂宗源是一位在风祭市经营古董店的绅士，拥有丰富人生经验。偶然与天王寺瑚太朗相遇后，他会结合自身经历给年轻人提供建议。江坂自称是“完全幽默、稍微淘气的生意人”，但他的笑话常让旁人不知所措，反而产生令人害怕的效果。他熟悉风祭市的历史与异常现象，是瑚太朗了解城镇秘密时的重要长辈。",
+          "nicknames": [
+            "江坂宗源",
+            "Sougen Esaka",
+            "江坂"
+          ],
+          "traits": [
+            "在风祭市经营古董店",
+            "是一位成熟稳重的商人",
+            "与天王寺瑚太朗偶然相识",
+            "会结合人生经历给年轻人建议",
+            "自称幽默又有些淘气",
+            "讲笑话时常让人感到害怕",
+            "熟悉风祭市的异象",
+            "由东地宏树配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "東地宏樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sougen Esaka",
+            "name_native": "江坂宗源",
+            "name_alternative": [],
+            "description": "A gentleman who runs an antique shop business in the city of Kazamatsuri. After meeting Kotarou on a certain occasion, he grants him advice that draws from his vast life experience. Although calling himself a \"totally humorous, somewhat mischievous businessman\", his gags oppositely charm everyone with fear."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 15085,
+      "anime_title": "失忆症",
+      "anime_origin": "JP",
+      "source": {
+        "id": 15085,
+        "titles": [
+          "AMNESIA",
+          "アムネシア"
+        ],
+        "year": 2013,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/15085"
+      },
+      "characters": [
+        {
+          "id": 70403,
+          "name": "女主角",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70403-ETQkdyzq6ZAO.jpg",
+          "description": "女主角是一名身高一百五十九厘米的年轻女性，在故事开始时突然失去了过去的记忆。她在精灵奥利翁的帮助下，尝试从身边人的反应、日常细节和零散线索中拼回自己的经历。由于故事包含不同路线，她的性格和过往也会随着所处世界线而变化。女主必须重新认识熟悉却陌生的人，并判断每段关系中隐藏的真实情况。",
+          "nicknames": [
+            "女主角",
+            "Heroine",
+            "主人公",
+            "Shujinko",
+            "女主"
+          ],
+          "traits": [
+            "身高一百五十九厘米",
+            "故事的女性主人公",
+            "突然失去过去的记忆",
+            "在精灵奥利翁帮助下寻找记忆",
+            "记忆与性格因不同路线而变化",
+            "逐步重新认识身边的人",
+            "需要判断不同世界线中的关系",
+            "由名塚佳织配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "名塚佳織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Heroine",
+            "name_native": "主人公",
+            "name_alternative": [
+              "Shujinko"
+            ],
+            "description": "__Height:__ 159 cm (5'2\")\n\nAn amnesiac young woman who tries to regain her memories with the help of the spirit Orion. She's the protagonist of the series.\n\nHer personality and past depend on which route the player chooses."
+          }
+        },
+        {
+          "id": 70405,
+          "name": "奥利翁",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70405-yf8Zxa3Jqk0w.jpg",
+          "description": "奥利翁是一位陪伴女主角的精灵，负责帮助她找回失去的记忆。他性格善良、富有同情心，愿意尽力协助女主整理线索，但有时也会因为个性古怪和行动笨拙而弄巧成拙。奥利翁能够与女主交流，陪她观察不同人物的反应，并在她感到困惑时给予提醒。随着记忆逐渐恢复，他也成为女主理解自身处境的重要伙伴。",
+          "nicknames": [
+            "奥利翁",
+            "Orion",
+            "オリオン",
+            "奥里昂"
+          ],
+          "traits": [
+            "帮助女主恢复记忆的精灵",
+            "具有照料他人的性格",
+            "性格古怪而富有情绪",
+            "本质善良纯真",
+            "努力为女主提供帮助",
+            "行动偶尔笨拙",
+            "能够陪伴女主思考线索",
+            "由五十岚裕美配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "五十嵐裕美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104876-CF5LzglyzCXx.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Orion",
+            "name_native": "オリオン",
+            "name_alternative": [],
+            "description": "A spirit that helps the heroine recover her memories. Orion has a very caring and eccentric personality, and can be very emotional at times. He is an all around nice and innocent spirit who tries to be helpful, but he's also very clumsy.\n\n"
+          }
+        },
+        {
+          "id": 70407,
+          "name": "乌京",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70407-pptT3LlZqnke.png",
+          "description": "乌京是一名身材高挑的摄影师，留着及腰的绿色长发和绿色眼睛，右侧头发编成辫子并用白色发带固定。他性格异于常人，表现出温柔体贴与疯狂危险的两种人格；当危险人格占据上风时，他眼下会出现深色线条，并露出夸张笑容。乌京在游戏路线中象征Joker，掌握女主失忆与不同世界线背后的关键事实。",
+          "nicknames": [
+            "乌京",
+            "Ukyo",
+            "ウキョウ",
+            "Ukyou",
+            "Death God",
+            "Ukya",
+            "右京"
+          ],
+          "traits": [
+            "职业是摄影师",
+            "身材高挑纤细",
+            "留着及腰绿色长发",
+            "眼睛为绿色",
+            "右侧头发编成长辫",
+            "常用白色发带束发",
+            "拥有温柔与危险两种人格",
+            "其象征花色为Joker"
+          ],
+          "voice_actors": [
+            {
+              "name": "宮田幸季",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95344-wYgLhxYeWEp4.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ukyo",
+            "name_native": "ウキョウ",
+            "name_alternative": [
+              "Ukyou",
+              "Death God",
+              "Ukya"
+            ],
+            "description": "__Occupation:__ Photographer\n\nUkyo is a tall, slim young man with waist-length green hair and green eyes. His bangs fall freely over his face, down to his cheeks, and there is a long braid on Ukyo's right, held together using a white hair-band. ~!Ukyo's personality is out of the ordinary. He has a split personality disorder; one of his personalities is kind and caring, the other is somewhat crazy and menacing. When overcome with his more maddened and twisted personality, Ukyo develops dark lines under his eyes and he tends to grin very widely.!~\n\nHis symbolic route in the game is the \"Joker.\"\n\n(Source: Wikipedia, Amnesia wiki)"
+          }
+        },
+        {
+          "id": 70409,
+          "name": "一辉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70409-zDF3joiynlg8.png",
+          "description": "一辉是大学四年级学生，也是肯特最要好的朋友。他喜欢飞镖、台球和乒乓球，据说几乎不会输给任何需要用手操作的游戏；他的兴趣之一是解答肯特设计的数学谜题。一辉有一名十九岁的妹妹，最喜欢的动物据说是仓鼠。在女主失去记忆后，他以不同方式进入她的生活，象征路线对应黑桃，关系背后也隐藏着身份和感情谜团。",
+          "nicknames": [
+            "一辉",
+            "Ikki",
+            "イッキ",
+            "Ikkyu",
+            "伊奇"
+          ],
+          "traits": [
+            "大学四年级学生",
+            "肯特最要好的朋友",
+            "有一名十九岁的妹妹",
+            "喜欢飞镖、台球和乒乓球",
+            "擅长各种用手进行的游戏",
+            "常解答肯特设计的数学谜题",
+            "最喜欢的动物据说是仓鼠",
+            "象征花色为黑桃"
+          ],
+          "voice_actors": [
+            {
+              "name": "谷山紀章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95196-t2vbxQMee0ci.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ikki",
+            "name_native": "イッキ",
+            "name_alternative": [
+              "Ikkyu"
+            ],
+            "description": "Fourth year University student. He is best friends with Kent and  has a 19-year-old younger sister. \n\nHe also likes playing darts, billiards, and table tennis. He is apparently unbeatable at any game that uses hands, which is basically every single game. One of his hobbies is solving Kent's math puzzles. His favorite animal is supposed to be the hamster.\n\nHis symbolic route in the game is the \"Spade.\"\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 70411,
+          "name": "东马",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70411-ualoJDsEEOuk.png",
+          "description": "东马是大学二年级学生，也是女主角和慎的童年朋友。他兴趣广泛，喜欢打篮球、骑自行车、上网、玩电子游戏、烹饪和阅读，还参加足球、广播、弓道与新闻等多个校园社团。东马一直以保护者的姿态陪伴女主，但在她失去记忆后，照顾与控制之间的界线变得模糊。他所代表的路线象征方块，逐步揭示熟悉关系中隐藏的另一面。",
+          "nicknames": [
+            "东马",
+            "Toma",
+            "トーマ",
+            "托马"
+          ],
+          "traits": [
+            "大学二年级学生",
+            "是女主和慎的童年朋友",
+            "喜欢打篮球",
+            "爱骑自行车和浏览网络",
+            "喜欢电子游戏和烹饪",
+            "经常参加多个校园社团",
+            "参与足球、广播、弓道和新闻社",
+            "象征花色为方块"
+          ],
+          "voice_actors": [
+            {
+              "name": "日野聡",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Toma",
+            "name_native": "トーマ",
+            "name_alternative": [],
+            "description": "A childhood friend of Shin and the heroine. Second year in University student.\n\nHe likes playing basketball, cycling, surfing the internet, playing video games, cooking, and reading. He is in quite a few school clubs, such as: soccer, broadcasting, archery, and newspaper. His favorite animals are humans.\n\nHis symbolic route in the game is the \"Diamond.\""
+          }
+        },
+        {
+          "id": 70413,
+          "name": "慎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70413-nPevmSu5ymAp.png",
+          "description": "慎是女主角的青梅竹马，也是东马从小认识的朋友，目前就读高中三年级，正努力准备升入大学。他喜欢纸牌游戏，参加学校田径部，最喜欢的动物是狗。慎与女主之间有着长久的相识经历，但失忆使她无法确认两人的过去关系。慎对应红心路线，在协助女主恢复日常的同时，也逐渐展现他对这段感情的真实态度。",
+          "nicknames": [
+            "慎",
+            "Shin",
+            "シン"
+          ],
+          "traits": [
+            "女主角的青梅竹马",
+            "也是东马的童年朋友",
+            "就读高中三年级",
+            "努力准备大学升学考试",
+            "喜欢玩纸牌游戏",
+            "参加田径部",
+            "最喜欢的动物是狗",
+            "象征花色为红心"
+          ],
+          "voice_actors": [
+            {
+              "name": "柿原徹也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95167-wjIShzThRTlS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shin",
+            "name_native": "シン",
+            "name_alternative": [],
+            "description": "He is the childhood sweetheart and friend of the heroine, and is childhood friend of Toma. He is in 3rd year high-school and is now studying hard to get into a university.\n\nHe likes playing card games and he's in the track and field club. His favorite animals are dogs.\n\nHis symbolic route in the game is the \"Heart.\""
+          }
+        },
+        {
+          "id": 70415,
+          "name": "肯特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70415-6D3uEjM1BCnl.png",
+          "description": "肯特已经大学毕业，是一辉最要好的朋友。他喜欢制作数学谜题，也习惯观察周围的人和事；由于对动物充满兴趣，他几乎喜欢所有种类的动物，并会细心观察它们。肯特做事偏重逻辑，面对女主失忆后的异常状况时，常从理性角度分析原因。虽然表达感情不如行动直接，他仍会协助女主理清关系和记忆线索，所对应的路线象征梅花。",
+          "nicknames": [
+            "肯特",
+            "Kent",
+            "ケント"
+          ],
+          "traits": [
+            "已经大学毕业",
+            "是一辉最要好的朋友",
+            "喜欢制作数学谜题",
+            "习惯观察周围事物",
+            "喜欢观察各种动物",
+            "以理性方式分析问题",
+            "能够协助女主寻找记忆线索",
+            "象征花色为梅花"
+          ],
+          "voice_actors": [
+            {
+              "name": "石田彰",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kent",
+            "name_native": "ケント",
+            "name_alternative": [],
+            "description": "University graduate and best friends with [Ikki](https://anilist.co/character/70409/Ikki). He likes making math puzzles and observing things. He likes every single type of animal, because he likes to observe them all.\n\nHis symbolic route in the game is the 'Clover'."
+          }
+        }
+      ]
+    }
+  ]
+}

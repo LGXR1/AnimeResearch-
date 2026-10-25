@@ -1,0 +1,905 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T02:17:47.586Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 177697,
+      "anime_title": "恶魔的破坏",
+      "anime_origin": "JP",
+      "source": {
+        "id": 177697,
+        "titles": [
+          "Dead Dead Demon's Dededededestruction",
+          "DEAD DEAD DEMONS DEDEDEDE DESTRUCTION",
+          "デッドデッドデーモンズデデデデデストラクション",
+          "DDDD"
+        ],
+        "year": 2024,
+        "format": "ONA",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/177697"
+      },
+      "characters": [
+        {
+          "id": 88565,
+          "name": "中川凰兰",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88565-8RC8tFVxVzz0.png",
+          "description": "中川凰兰是高中三年级学生，也是小山门出的好友。她留着长黑发，常扎成双马尾，性格张扬外向，喜欢和门出一起玩电子游戏。凰兰有一位足不出户的哥哥，外星母舰降临后，她和门出一样必须面对日常生活被社会事件打乱的现实。她看似总能用夸张言行化解紧张气氛，实际也在逐渐认识外星入侵、城市恐慌和同学关系变化带来的影响。",
+          "nicknames": [
+            "中川凰兰",
+            "Ouran Nakagawa",
+            "中川凰蘭",
+            "Ontan (おんたん)",
+            "凰兰",
+            "Ontan"
+          ],
+          "traits": [
+            "高中三年级学生",
+            "小山门出的挚友",
+            "留着长黑发",
+            "常把头发扎成双马尾",
+            "喜欢和门出玩电子游戏",
+            "性格张扬外向",
+            "有一位家里蹲哥哥",
+            "经历外星母舰降临后的社会变化"
+          ],
+          "voice_actors": [
+            {
+              "name": "あの",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n266861-VECxG9iv2VLa.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ouran Nakagawa",
+            "name_native": "中川凰蘭",
+            "name_alternative": [
+              "Ontan (おんたん)"
+            ],
+            "description": "A girl in her third year of high school. She is [Kadode](https://anilist.co/character/88566/Koyama-Kadode)'s best friend.\n\nShe has long black hair, which she often wears in twintails, secured by skull-shaped hairties. Ouran has an older brother, [Hiroshi](https://anilist.co/character/89578/Nakagawa-Hiroshi) who is a NEET. She likes to play video games along with Kadode.\n\nOuran is a very flamboyant character. She often rambles on about her goal to enslave mankind or lead the human race to destruction. However, despite her seemingly flamboyant and sociable personality, Ouran tends to only show her true self to her friends and family."
+          }
+        },
+        {
+          "id": 88566,
+          "name": "小山门出",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88566-XI3I0tYcK8XN.png",
+          "description": "小山门出是高中三年级学生，与中川凰兰是最亲密的朋友。她热爱漫画《矶兵卫》，也暗恋老师渡濑直树。外星母舰出现在日本上空时，门出的父亲失踪，家庭关系因此受到巨大冲击；她与母亲的相处也并不融洽。尽管城市长期处在外星入侵阴影下，门出仍努力维持上学、玩游戏和与朋友相处的日常，逐渐面对成长、亲情与社会变化交织的现实。",
+          "nicknames": [
+            "小山门出",
+            "Kadode Koyama",
+            "小山門出",
+            "Demon (デーモン)",
+            "门出",
+            "Kadode"
+          ],
+          "traits": [
+            "高中三年级学生",
+            "中川凰兰最好的朋友",
+            "热爱漫画《矶兵卫》",
+            "暗恋自己的老师渡濑直树",
+            "父亲在外星母舰出现时失踪",
+            "与母亲关系紧张",
+            "经历长期外星人事件",
+            "努力维持朋友间的日常生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "幾田りら",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n199392-g0Apmeiiraz6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kadode Koyama",
+            "name_native": "小山門出",
+            "name_alternative": [
+              "Demon (デーモン)"
+            ],
+            "description": "A girl in her third year of high school. She loves the iconic manga character [Isobeyan](https://anilist.co/character/208124/Isobeyan). She also has a crush on [her teacher](https://anilist.co/character/89581/Watarase-Naoki).\n\n[Her dad](https://anilist.co/character/208125/Koyama-Nobuo) went missing during the initial appearance of the alien mothership over Japan. She appears to have a rocky relationship with [her mother](https://anilist.co/character/89585/Koyama-Manami), who's constantly worried about her own health and the A-Rays that were released when the aliens invaded."
+          }
+        },
+        {
+          "id": 140043,
+          "name": "大叶圭太",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140043-0kMrP1oA5qn0.png",
+          "description": "大叶圭太曾是偶像团体成员，也出演过电影。小山门出年幼时非常喜欢他；八月三十一日事件发生后，圭太失踪，他的身体被一名入侵者幼体占据。此后，入侵者以圭太的外貌在人类社会生活，使这名曾被追捧的艺人和外星生命的身份交叠。圭太的经历把娱乐业、公众记忆和外星人融入社会后的问题联系起来。",
+          "nicknames": [
+            "大叶圭太",
+            "Keita Ooba",
+            "大葉圭太",
+            "圭太",
+            "大叶"
+          ],
+          "traits": [
+            "曾是偶像团体成员",
+            "出演过电影",
+            "在八月三十一日事件中失踪",
+            "小时候受到门出喜爱",
+            "身体被入侵者占据",
+            "以人类身体生活的入侵者身份活动",
+            "熟悉演艺圈生活",
+            "与门出过去的回忆有关"
+          ],
+          "voice_actors": [
+            {
+              "name": "入野自由",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Keita Ooba",
+            "name_native": "大葉圭太",
+            "name_alternative": [],
+            "description": "He was a member of an idol group and also acted in some movies. He disappeared during the event of 8/31. When she was younger, Kadode was obsessed with him.\n\n~!His body was taken over by an invader child during the 8/31 event and ever since he has been living as an invader in the human body.!~"
+          }
+        },
+        {
+          "id": 89578,
+          "name": "中川博",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89578-YHaDxdOKgQKB.png",
+          "description": "中川博是凰兰的哥哥，体型圆胖，却有一张与外表反差很大的俊秀脸庞。他性格温和无害，长期待在家里，主要通过上网观察社会新闻，并常抱怨世界变得令人失望。外星母舰降临后，博持续关注网络上的各种说法和社会情绪；与积极外向的妹妹相比，他更像是躲在屏幕后观察混乱的人，也呈现普通青年面对灾难时的逃避与不安。",
+          "nicknames": [
+            "中川博",
+            "Hiroshi Nakagawa",
+            "中川ひろし",
+            "博",
+            "中川哥哥"
+          ],
+          "traits": [
+            "中川凰兰的哥哥",
+            "体型圆胖",
+            "外貌其实颇为俊秀",
+            "长期家里蹲",
+            "喜欢上网监视社会动向",
+            "常感叹世界不如意",
+            "性格温和无害",
+            "在外星入侵背景下观察网络舆论"
+          ],
+          "voice_actors": [
+            {
+              "name": "諏訪部順一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hiroshi Nakagawa",
+            "name_native": "中川ひろし",
+            "name_alternative": [],
+            "description": "The chubby older brother of Ouran, harmless to all, who has a handsome face. He bemoans the \"sad\" world and is a neet who spends his days \"monitoring\" the internet."
+          }
+        },
+        {
+          "id": 89579,
+          "name": "竹本双叶",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89579-T1iS9rxsTT8G.png",
+          "description": "竹本双叶为了参与保护外星入侵者的行动而来到东京。她相信入侵者不应被一概视为敌人，愿意亲自投入援助工作，即使社会舆论和现实危险都对这一立场不利。双叶在东京结识新的伙伴，并持续接触人类与入侵者之间的冲突。她的行动把故事从门出和凰兰的校园日常延伸到保护团体、社会排斥和不同生命群体能否共存的问题。",
+          "nicknames": [
+            "竹本双叶",
+            "Futaba Takemoto",
+            "竹本ふたば",
+            "双叶"
+          ],
+          "traits": [
+            "为保护入侵者来到东京",
+            "参与保护外星入侵者的行动",
+            "有强烈的正义感",
+            "愿意为信念采取实际行动",
+            "与人类和入侵者双方接触",
+            "面对社会敌意仍坚持立场",
+            "在东京展开新的生活",
+            "与年轻同伴共同活动"
+          ],
+          "voice_actors": [
+            {
+              "name": "和氣あず未",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119517-ggxWaTnTOrxW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Futaba Takemoto",
+            "name_native": "竹本ふたば",
+            "name_alternative": [],
+            "description": "She decided to come to Tokyo in order to participate in the efforts to protect the invaders."
+          }
+        },
+        {
+          "id": 89580,
+          "name": "田沼真琴",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89580-FDtX7TICLBUX.png",
+          "description": "田沼真琴是竹本双叶的初中同学，喜欢穿女装，单纯因为希望自己显得可爱漂亮。他把这种穿着视为个人表达，并不以此掩饰身份。与双叶重逢后，真琴加入她参与的行动，和伙伴们一同面对外星入侵后的社会矛盾。他的经历展现年轻人在紧张时代里坚持自我表达、寻找接纳与归属的过程，也让保护入侵者的团体拥有更加多元的成员。",
+          "nicknames": [
+            "田沼真琴",
+            "Makoto Tainuma",
+            "田井沼マコト",
+            "真琴",
+            "田沼"
+          ],
+          "traits": [
+            "竹本双叶的初中同学",
+            "喜欢穿女装",
+            "希望自己显得可爱漂亮",
+            "以男性身份生活",
+            "重视自我表达",
+            "与双叶重逢后成为伙伴",
+            "参与保护入侵者的行动",
+            "在同伴间寻找接纳与归属"
+          ],
+          "voice_actors": [
+            {
+              "name": "白石涼子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95348-sLIy7IMrgZeA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Makoto Tainuma",
+            "name_native": "田井沼マコト",
+            "name_alternative": [],
+            "description": "A classmate of Futaba's from middle school. He likes to wear women's clothing as he simply wishes to be cute and beautiful."
+          }
+        },
+        {
+          "id": 89581,
+          "name": "渡濑直树",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89581-v5HjpBoI7GHq.jpg",
+          "description": "渡濑直树是门出所在学校的教师，也是门出暗恋的对象。他与在企业公关部门工作的须丸光交往，个人生活与学生、社会事件因此相互交错。外星母舰长期盘踞日本上空时，渡濑仍需面对教师职责和成人社会的动荡。他与门出的师生关系让青春期单恋成为故事中的一条线索，也呈现成年人在灾难背景下维持工作和人际关系的状态。",
+          "nicknames": [
+            "渡濑直树",
+            "Naoki Watarase",
+            "渡良瀬直樹",
+            "直树",
+            "渡濑老师"
+          ],
+          "traits": [
+            "高中教师",
+            "担任门出的老师",
+            "与须丸光交往",
+            "关注学生的校园生活",
+            "在外星危机中继续工作",
+            "与学生保持师生关系",
+            "处于成人社会与年轻人之间",
+            "影响门出的情感经历"
+          ],
+          "voice_actors": [
+            {
+              "name": "坂泰斗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n151336-Z9ZnITPdVRaW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Naoki Watarase",
+            "name_native": "渡良瀬直樹",
+            "name_alternative": [],
+            "description": "Kadode's teacher."
+          }
+        },
+        {
+          "id": 89582,
+          "name": "平间凛",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89582-X8OgRBW8L1xN.png",
+          "description": "平间凛是门出和凰兰的朋友，性格安静，喜欢阅读耽美作品。她与出元爱从小相识，两人关系亲密。凛不像凰兰那样外向，更多时候静静观察朋友间的变化；当外星母舰和社会冲突打乱学校生活时，她仍珍惜与伙伴相处的时间。凛的角色补充了高中朋友圈中较内向的一面，也呈现年轻人如何在长期不确定感中依靠熟悉的友情维持日常。",
+          "nicknames": [
+            "平间凛",
+            "Rin Hirama",
+            "平間凛",
+            "凛"
+          ],
+          "traits": [
+            "门出与凰兰的朋友",
+            "性格安静",
+            "喜欢阅读耽美作品",
+            "与出元爱是儿时好友",
+            "在朋友圈中较少主动发言",
+            "关注同学间的关系",
+            "经历外星事件带来的不安",
+            "以稳定友情支撑日常生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "大木咲絵子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n279697-oYQJMMaqlAyj.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rin Hirama",
+            "name_native": "平間凛",
+            "name_alternative": [],
+            "description": "Kadode and Ontan's friend. She is a quiet girl who is into boy's love. She is Ai's childhood friend."
+          }
+        },
+        {
+          "id": 89583,
+          "name": "栗原季帆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89583-XFu9xvJgZMjy.png",
+          "description": "栗原季帆是门出与凰兰的朋友，有一位名叫小比类卷健一的男友。她参与同学们的日常活动，也会和朋友分享恋爱及校园生活中的烦恼。外星母舰降临后，季帆的生活与其他高中生一样受到社会变化影响，她需要在不确定的环境中维持友情和恋爱关系。她的角色让影片呈现灾难背景下仍在继续的普通青春生活。",
+          "nicknames": [
+            "栗原季帆",
+            "Kiho Kurihara",
+            "栗原キホ",
+            "季帆",
+            "栗原"
+          ],
+          "traits": [
+            "门出与凰兰的朋友",
+            "有一位名叫健一的男友",
+            "参与高中同学间的日常活动",
+            "关心恋爱关系",
+            "在外星事件中继续生活",
+            "与朋友保持联系",
+            "面对社会变化调整日常",
+            "属于门出朋友圈的重要成员"
+          ],
+          "voice_actors": [
+            {
+              "name": "種﨑敦美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kiho Kurihara",
+            "name_native": "栗原キホ",
+            "name_alternative": [],
+            "description": "Kadode and Ontan's friend. She has a boyfriend named Kohiruimaki."
+          }
+        },
+        {
+          "id": 89584,
+          "name": "出元爱",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89584-QbT4I4z9cUAB.png",
+          "description": "出元爱是门出与凰兰的朋友，戴着眼镜，也是平间凛的儿时好友。她与凛保持亲密关系，同时参与高中同学之间的日常交往。外星事件不断改变日本社会后，爱仍试着关心朋友的生活，帮助彼此保留熟悉的校园节奏。她并非大型冲突的中心人物，却通过与凛、门出等人的友情，让故事描写出普通学生在灾难与恐惧之中互相陪伴的状态。",
+          "nicknames": [
+            "出元爱",
+            "Ai Demoto",
+            "出元亜衣",
+            "爱",
+            "出元"
+          ],
+          "traits": [
+            "门出与凰兰的朋友",
+            "戴眼镜",
+            "平间凛的儿时好友",
+            "与凛保持亲密友情",
+            "参与同学间的日常生活",
+            "关心朋友近况",
+            "在社会动荡中维持校园关系",
+            "属于门出的核心朋友圈"
+          ],
+          "voice_actors": [
+            {
+              "name": "島袋美由利",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126579-aYXUMZi7ozKD.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ai Demoto",
+            "name_native": "出元亜衣",
+            "name_alternative": [],
+            "description": "Kadode and Ontan's friend. Rin's bespectacled childhood friend."
+          }
+        },
+        {
+          "id": 89585,
+          "name": "小山真奈美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89585-uRmvjou0SLIJ.jpg",
+          "description": "小山真奈美是门出的母亲，外星母舰出现后，丈夫失踪让家庭承受沉重压力。她尤其担心名为“A线”的现象会损害健康，因此持续关注相关风险并试图保护女儿。真奈美和门出的关系并不顺畅，双方常难以理解彼此的态度；入侵事件扩大后，家庭中的担忧与沟通隔阂也随之加深。她代表在社会灾难中努力照顾家人的普通成年人。",
+          "nicknames": [
+            "小山真奈美",
+            "Manami Koyama",
+            "真奈美",
+            "小山母亲"
+          ],
+          "traits": [
+            "小山门出的母亲",
+            "担忧A线造成健康影响",
+            "和门出关系紧张",
+            "承受丈夫失踪后的家庭压力",
+            "关注外星事件带来的健康风险",
+            "希望保护女儿安全",
+            "与门出存在沟通隔阂",
+            "体现普通家庭面对入侵危机的处境"
+          ],
+          "voice_actors": [
+            {
+              "name": "柚木涼香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95141-RUTdfZUbNcUv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Manami Koyama",
+            "name_native": "小山真奈美",
+            "name_alternative": [],
+            "description": "Kadode's mother. She fears the negative health effects of the A-Lines."
+          }
+        },
+        {
+          "id": 89586,
+          "name": "须丸光",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89586-VUH1kW9xHdvF.jpg",
+          "description": "须丸光在S.E.S.藤神开发中心的公关部门工作，负责企业对外沟通。她与门出的老师渡濑直树交往，也和记者三浦太郎有同学关系，因此同时处在人际关系与公众事件交汇处。外星入侵及相关开发争议成为社会焦点后，光必须面对企业立场、公众担忧和个人关系之间的压力。她的工作让故事展现危机中机构如何处理舆论。",
+          "nicknames": [
+            "须丸光",
+            "Hikari Sumaru",
+            "須丸光",
+            "光",
+            "须丸"
+          ],
+          "traits": [
+            "在S.E.S.藤神开发中心公关部门工作",
+            "渡濑直树的恋人",
+            "曾与三浦太郎是同学",
+            "负责对外沟通工作",
+            "处于企业与公众之间",
+            "关注外星开发相关信息",
+            "面对公共危机处理舆论",
+            "与门出老师的生活线相连"
+          ],
+          "voice_actors": [
+            {
+              "name": "大西沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hikari Sumaru",
+            "name_native": "須丸光",
+            "name_alternative": [],
+            "description": "She works in the public relations department at S.E.S.'s Hujin Development Center.\n\nShe is in a relationship with Watarase, Kadode's teacher."
+          }
+        },
+        {
+          "id": 89587,
+          "name": "三浦太郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89587-Hm9hPy3zeTJv.jpg",
+          "description": "三浦太郎是一名新闻记者，曾与须丸光同班。外星母舰和入侵者事件持续影响日本社会后，他通过采访和报道追踪相关消息，连接事件现场与公众舆论。三浦的职业要求他持续寻找信息，也使他能够接触企业、政府和普通民众的不同说法。他与光的旧日关系给工作之外增加私人联系，并体现媒体如何在长期危机中影响人们对事实的理解。",
+          "nicknames": [
+            "三浦太郎",
+            "Tarou Miura",
+            "太郎",
+            "三浦记者"
+          ],
+          "traits": [
+            "新闻记者",
+            "曾与须丸光同班",
+            "关注外星入侵事件",
+            "通过采访获取信息",
+            "连接公众与事件现场",
+            "熟悉社会新闻工作",
+            "在动荡时期持续报道",
+            "与企业公关人员保持旧日联系"
+          ],
+          "voice_actors": [
+            {
+              "name": "河西健吾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110877-8mqVadVTaFl4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tarou Miura",
+            "name_native": "三浦太郎",
+            "name_alternative": [],
+            "description": "A journalist who was classmates with Sumaru-san."
+          }
+        },
+        {
+          "id": 89588,
+          "name": "高畠",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89588-18JpKNCHvFQL.jpg",
+          "description": "高畠是小山真奈美的男友，计划与她结婚，因此进入门出的家庭生活。他的出现让门出必须面对父亲失踪后母亲开始新关系的现实，门出对这段关系并不容易接受。高畠作为成年人试图融入小山家，但家庭成员之间的情绪和沟通问题使过程充满张力。他的角色把外星入侵的宏大背景与失踪、再婚和家庭重组等个人生活议题联系起来。",
+          "nicknames": [
+            "高畠",
+            "Takabatake",
+            "高畠先生"
+          ],
+          "traits": [
+            "小山真奈美的男友",
+            "计划与真奈美结婚",
+            "在门出家庭生活中出现",
+            "与门出的父亲失踪有关联背景",
+            "以成年人身份参与家庭关系",
+            "试图融入小山家",
+            "面对门出的抵触",
+            "处于门出母女关系变化之中"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐藤せつじ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100222-gpnWqS86W8RW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takabatake",
+            "name_native": "高畠",
+            "name_alternative": [],
+            "description": "Kadode Koyama's mother's boyfriend. He plans on marrying her."
+          }
+        },
+        {
+          "id": 208124,
+          "name": "矶兵卫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208124-RFbaohH1hEkY.jpg",
+          "description": "矶兵卫是外形像蘑菇的虚构漫画角色，也是小山门出最喜爱的漫画主角。《矶兵卫》每卷都会以他的故事开场，门出经常借阅读和讨论漫画暂时从现实烦恼中抽离。这个角色最初主要作为作品中的作品出现，后续情节里作用逐渐增加。矶兵卫连接了门出的个人兴趣、朋友间的共同话题和整部故事对漫画文化的描写。",
+          "nicknames": [
+            "矶兵卫",
+            "Isobeyan",
+            "イソべやん",
+            "矶兵卫君",
+            "漫画角色矶兵卫"
+          ],
+          "traits": [
+            "外形像蘑菇的漫画角色",
+            "小山门出的最爱漫画主角",
+            "漫画每卷都会出现他的故事",
+            "以夸张喜剧方式行动",
+            "在故事中作为虚构作品人物出现",
+            "与门出的童年阅读记忆有关",
+            "后期剧情中的作用增加",
+            "代表门出逃避现实的兴趣"
+          ],
+          "voice_actors": [
+            {
+              "name": "杉田智和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Isobeyan",
+            "name_native": "イソべやん",
+            "name_alternative": [],
+            "description": "A character that looks like a mushroom. Kadode Koyama's favorite manga (every volume starts off with a chapter of Isobeyan). Plays a bigger role in later volumes."
+          }
+        },
+        {
+          "id": 208125,
+          "name": "小山信夫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208125-wuyXSQMneNVE.jpg",
+          "description": "小山信夫是小山门出的父亲，外星母舰首次出现在日本上空时失踪。他的下落一直没有得到确认，家庭因此长期生活在不安和悲伤中。门出与母亲真奈美在如何面对失踪一事上存在分歧，信夫虽很少直接出现，却持续影响母女关系和门出的选择。他的失踪把一个普通家庭的损失与外星入侵的宏大事件紧密连接起来。",
+          "nicknames": [
+            "小山信夫",
+            "Nobuo Koyama",
+            "小山ノブオ",
+            "信夫",
+            "门出的父亲"
+          ],
+          "traits": [
+            "小山门出的父亲",
+            "外星母舰出现时失踪",
+            "失踪事件影响家庭关系",
+            "与门出感情深厚",
+            "成为门出母女矛盾的背景",
+            "家人长期无法确认下落",
+            "联系外星事件主线",
+            "象征灾难中失去联系的普通人"
+          ],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nobuo Koyama",
+            "name_native": "小山ノブオ",
+            "name_alternative": [],
+            "description": "Kadode's father."
+          }
+        },
+        {
+          "id": 208126,
+          "name": "小比类卷健一",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208126-t7ub6zNpfpCA.png",
+          "description": "小比类卷健一是栗原季帆的男友，对各种亚文化都有兴趣。他与季帆及其高中朋友处在相同的年轻人社交圈中，平时通过共同兴趣维持恋爱关系。外星母舰和社会动荡逐渐改变生活环境后，健一仍需面对普通学生的日常选择，并与季帆一起适应变化。他的角色从情侣关系的另一端补充季帆的生活，也展现灾难时代中个人兴趣与亲密关系如何继续存在。",
+          "nicknames": [
+            "小比类卷健一",
+            "Kenichi Kohiruimaki",
+            "小比類巻健一",
+            "健一",
+            "小比类卷"
+          ],
+          "traits": [
+            "栗原季帆的男友",
+            "对多种亚文化感兴趣",
+            "与高中同学交往",
+            "参与年轻人的社交圈",
+            "面对外星事件仍维持日常关系",
+            "和季帆分享兴趣",
+            "属于门出朋友圈相关人物",
+            "体现普通学生的个人爱好"
+          ],
+          "voice_actors": [
+            {
+              "name": "内山昂輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96764-yJWGrhjanDJQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kenichi Kohiruimaki",
+            "name_native": "小比類巻健一",
+            "name_alternative": [],
+            "description": "Kiho's boyfriend who is into various subcultures."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 11179,
+      "anime_title": "要听爸爸的话！",
+      "anime_origin": "JP",
+      "source": {
+        "id": 11179,
+        "titles": [
+          "Papa no Iukoto wo Kikinasai!",
+          "Listen to Me, Girls. I Am Your Father!",
+          "パパのいうことを聞きなさい！"
+        ],
+        "year": 2012,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/11179"
+      },
+      "characters": [
+        {
+          "id": 50775,
+          "name": "濑川祐太",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50775-Q7dRJm1fpKSb.png",
+          "description": "濑川祐太是多摩大学文学部的一年级学生，父母早逝后一直由姐姐小鸟游祐理抚养长大。他曾不赞成姐姐嫁给带着两个女儿的鳏夫；当姐姐和姐夫乘机失踪、三个孩子无处可去时，祐太决定接她们回家，不让姐妹被分开。他必须一边继续求学，一边学习承担监护人与家长的责任，故事围绕他和孩子们重新组成家庭展开。",
+          "nicknames": [
+            "濑川祐太",
+            "Yuuta Segawa",
+            "瀬川祐太",
+            "Oji-san",
+            "Oi-tan",
+            "Onii-chan",
+            "祐太",
+            "小祐"
+          ],
+          "traits": [
+            "多摩大学文学部一年级学生",
+            "年幼时父母去世",
+            "由姐姐小鸟游祐理抚养长大",
+            "起初不赞成姐姐结婚",
+            "接纳姐姐的三个女儿同住",
+            "努力承担监护人与家长责任",
+            "把孩子们留在一起视为优先",
+            "在求学与照顾家庭间奔波"
+          ],
+          "voice_actors": [
+            {
+              "name": "羽多野渉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuuta Segawa",
+            "name_native": "瀬川祐太",
+            "name_alternative": [
+              "Oji-san",
+              "Oi-tan",
+              "Onii-chan"
+            ],
+            "description": "__Height:__ 172 cm (5'7\")\n\nThe main character, a college freshman just starting a new life in the School of Literature of Tama University. His parents passed away while he was young. He was raised by his sister Yuri. He was angry about his sister's marriage to a man with two daughters from prior marriage. When Yuri and her husband went missing, their three daughters had no one to turn to. Segawa decided to take them in and wants to become their guardian. He is surprising reliable, and even the little Hina got close to him quickly.   ~!He develops feelings for Raika Oda.!~"
+          }
+        },
+        {
+          "id": 50777,
+          "name": "小鸟游空",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50777-YpBLykbJFNvA.png",
+          "description": "小鸟游空是三姐妹中的长女，十四岁，正在读初中二年级。她学习成绩优秀，却不擅长做饭，性格带有明显的傲娇一面。父母失踪后，空和妹妹们由舅舅祐太照顾，平时称他为“哥哥”，并逐渐对他产生超出亲情的好感。面对生活突然改变，空努力维持姐姐的稳重形象，也需要学会向祐太和妹妹们表达自己的不安。",
+          "nicknames": [
+            "小鸟游空",
+            "Sora Takanashi",
+            "小鳥遊空",
+            "空",
+            "小空"
+          ],
+          "traits": [
+            "三姐妹中的长女",
+            "十四岁初中二年级学生",
+            "傲娇性格",
+            "学习成绩优秀",
+            "不擅长做饭",
+            "通常称祐太为哥哥",
+            "对祐太怀有好感",
+            "努力适应寄住在舅舅家的新生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "上坂すみれ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109441-6y5vZS0FDE18.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sora Takanashi",
+            "name_native": "小鳥遊空",
+            "name_alternative": [],
+            "description": "__Height:__ 152 cm\n\nShe is the oldest of the three sisters. 2nd grade in the middle school, 14 years old. She has tsundere personality. She normally refers to Yuuta as older brother (Onii-chan). She is a good student in school and is not good at cooking.   ~! It is visible that she has a crush on Yuuta Segawa in episode 1 and likes older guys like Miu.!~"
+          }
+        },
+        {
+          "id": 50779,
+          "name": "小鸟游美羽",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50779-Hrq1v1HWks9B.png",
+          "description": "小鸟游美羽是三姐妹中的次女，正在读小学五年级。她的母亲有俄罗斯血统，因此美羽留着金发。她通常称照顾自己的祐太为舅舅，性格比姐姐空更外向，也会谈论自己喜欢成熟、强壮的男性。父母失踪后，美羽需要离开熟悉的生活环境，和姐妹一起适应祐太家的日常；她常用活泼态度掩饰对家庭变化的担忧。",
+          "nicknames": [
+            "小鸟游美羽",
+            "Miu Takanashi",
+            "小鳥遊美羽",
+            "美羽"
+          ],
+          "traits": [
+            "三姐妹中的次女",
+            "小学五年级学生",
+            "母亲有俄罗斯血统",
+            "金发",
+            "通常称祐太为舅舅",
+            "喜欢成熟强壮的男性",
+            "外向懂事",
+            "在新家庭中努力适应变化"
+          ],
+          "voice_actors": [
+            {
+              "name": "喜多村英梨",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Miu Takanashi",
+            "name_native": "小鳥遊美羽",
+            "name_alternative": [],
+            "description": "__Height:__ 147 cm\n\nShe is the middle of the three sisters. 5th grade in elementary school. She is blond due to her mother having Russian heritage. She normally refers to Yuuta as uncle (Oji-san). She likes guys who are manly and older than her."
+          }
+        },
+        {
+          "id": 50781,
+          "name": "小鸟游雏",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50781-NKKYMKtSyPcm.png",
+          "description": "小鸟游雏是三姐妹中最年幼的孩子，仍在学龄前。她性格亲切，不太害怕陌生人，通常称照顾她的祐太为“小舅舅”。雏是三姐妹中与祐太有血缘关系的一人，父母失踪后和姐姐们一起由他照看。她对新的家庭环境适应得较快，常以天真直接的反应缓和大人和姐姐们的紧张，也让祐太必须学习真正照顾幼儿。",
+          "nicknames": [
+            "小鸟游雏",
+            "Hina Takanashi",
+            "小鳥遊ひな",
+            "雏",
+            "小雏"
+          ],
+          "traits": [
+            "三姐妹中的幼女",
+            "年纪尚在学龄前",
+            "是三姐妹中与祐太有血缘关系的一人",
+            "性格亲切",
+            "不怕陌生人",
+            "称祐太为小舅舅",
+            "依赖姐姐们照料",
+            "在新家庭中带来活泼气氛"
+          ],
+          "voice_actors": [
+            {
+              "name": "五十嵐裕美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104876-CF5LzglyzCXx.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hina Takanashi",
+            "name_native": "小鳥遊ひな",
+            "name_alternative": [],
+            "description": "She is the youngest of the three sisters. In preschool. The only girl of the sisters who is related by blood to Yuuta. She is very friendly and not afraid of strangers. She normally refers to Yuuta as little uncle (Oi-tan)."
+          }
+        },
+        {
+          "id": 50783,
+          "name": "织田莱香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b50783-JpHSTMNr3966.png",
+          "description": "织田莱香是多摩大学文学部二年级学生，也是大学社团中的女性成员。她擅长制作日式料理，平时不太说话，也不轻易把情绪表现在脸上。莱香喜欢可爱的东西，一旦被人发现这一爱好就会害羞，举止反而变得更加古怪。她与祐太在大学社团中相识，之后也关注他独自照顾三个孩子的生活，并在需要时提供帮助。",
+          "nicknames": [
+            "织田莱香",
+            "Raika Oda",
+            "織田莱香",
+            "莱香",
+            "织田"
+          ],
+          "traits": [
+            "多摩大学文学部二年级学生",
+            "大学社团中的女性成员",
+            "擅长制作日式料理",
+            "不轻易流露情绪",
+            "平时话不多",
+            "喜欢可爱事物",
+            "面对喜欢的东西会显得害羞",
+            "是祐太大学生活中的重要伙伴"
+          ],
+          "voice_actors": [
+            {
+              "name": "堀江由衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95028-MHT1m3E5wGZx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Raika Oda",
+            "name_native": "織田莱香",
+            "name_alternative": [],
+            "description": "__Height:__ 167 cm (5'6\")  \n\nTama University School of Literature second year student. Well endowed, a very good cook in Japanese cuisine and the only female member in the club. She does not show emotion easily and does not talk much. She loves cute things, which will embarrass her and make her more strange than usual."
+          }
+        },
+        {
+          "id": 55451,
+          "name": "小鸟游祐理",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/55451-wyz6uVVOjLMu.png",
+          "description": "小鸟游祐理是祐太的姐姐，父母去世后由她独自把弟弟抚养长大。后来她嫁给了带着两个女儿的鳏夫，成为三姐妹的母亲；祐太当时并不赞成这段婚姻。祐理和丈夫乘机出行后失踪，孩子们因此无人照顾，祐太决定接她们回家。她虽然大部分时间不在故事当前行动中，却是新家庭形成和祐太承担监护责任的关键人物。",
+          "nicknames": [
+            "小鸟游祐理",
+            "Yuri Takanashi",
+            "小鳥遊祐理",
+            "祐理",
+            "祐太的姐姐"
+          ],
+          "traits": [
+            "濑川祐太的姐姐",
+            "父母去世后独自抚养祐太",
+            "与祐太关系亲密",
+            "嫁给带着两个女儿的鳏夫",
+            "成为三姐妹的母亲",
+            "与丈夫乘机出行后失踪",
+            "失踪使祐太接手照顾孩子",
+            "是故事家庭变化的关键人物"
+          ],
+          "voice_actors": [
+            {
+              "name": "大原さやか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuri Takanashi",
+            "name_native": "小鳥遊祐理 ",
+            "name_alternative": [],
+            "description": "She is Yuuta's sister, when their parents died she raised Yuuta by herself. She married Shingo when Yuuta was still in middle school.   ~!While on the flight with Shingo, an accident occurs and they go missing (assumed dead). Yuuta didn't want the kids to be separated so he took them in and take good care of them!~"
+          }
+        }
+      ]
+    }
+  ]
+}

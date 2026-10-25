@@ -1,0 +1,1005 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:08:13.514Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 21078,
+      "anime_title": "青春×机关枪",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21078,
+        "titles": [
+          "Aoharu x Kikanjuu",
+          "Aoharu x Machinegun",
+          "青春×機関銃",
+          "ศึกปืนกล X คนผ่าเหล่า"
+        ],
+        "year": 2015,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21078"
+      },
+      "characters": [
+        {
+          "id": 88939,
+          "name": "雪村透",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88939-A9hezY3fW3lF.png",
+          "description": "雪村透是漫画家，主要创作成人向作品，也是松冈正宗的童年好友和Toy☆Gun Gun队员。两人小时候曾一起梦想成为足球选手，后来因朋友背叛而让透变得缺乏自信，常担心正宗也会离开自己。透比队伍里的其他人更敏感，能较早察觉伙伴情绪变化；在生存游戏之外，他也努力维系与正宗及萤之间的信任。",
+          "nicknames": [
+            "雪村透",
+            "Tooru Yukimura",
+            "雪村"
+          ],
+          "traits": [
+            "漫画家",
+            "专画成人向漫画",
+            "松冈正宗的童年好友",
+            "Toy☆Gun Gun队员",
+            "曾梦想成为足球选手",
+            "性格敏感细腻",
+            "容易担心被朋友抛弃",
+            "善于察觉同伴情绪",
+            "重视团队关系",
+            "参加生存游戏"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Tooru Yukimura",
+            "name_native": "雪村透",
+            "name_alternative": [],
+            "description": "Tooru is a manga artist who specializes in erotic comics. He is Masamune's childhood friend, both of them having shared the same dream of pursuing soccer as a career when they were young. He lives in the same apartment block as his teammates. Due to his past, when he was betrayed by friends he trusted, he has low self-confidence and often worries that Masamune might abandon him. He is also the most sensitive to others, being the first one to notice changes in the member's moods."
+          }
+        },
+        {
+          "id": 88940,
+          "name": "松冈正宗",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88940-XECasOQKg05L.jpg",
+          "description": "松冈正宗在男公关俱乐部工作，也是生存游戏队伍Toy☆Gun Gun的核心成员。他将萤带入生存游戏，并邀请她加入队伍；由于萤的外表与行为，他起初一直以为她是男生。正宗外表强势，内心却受过被母亲和队友抛弃的创伤，害怕亲近的人再次离开。透与萤的支持让他逐渐面对过去，也开始重新信任伙伴。",
+          "nicknames": [
+            "松冈正宗",
+            "Masamune Matsuoka",
+            "松岡正宗",
+            "Mattsun"
+          ],
+          "traits": [
+            "在男公关俱乐部工作",
+            "生存游戏玩家",
+            "Toy☆Gun Gun队长",
+            "雪村透的童年好友",
+            "最初误以为萤是男生",
+            "擅长近距离突击",
+            "害怕再次遭人抛弃",
+            "表面强势内心敏感",
+            "对萤逐渐产生好感",
+            "曾因创伤失去求生意愿"
+          ],
+          "voice_actors": [
+            {
+              "name": "前野智昭",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96489-xTzYxgdC9g9l.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Masamune Matsuoka",
+            "name_native": "松岡正宗",
+            "name_alternative": [
+              "Mattsun"
+            ],
+            "description": "Masamune works as a Host, and is responsible for introducing Hotaru to the world of \"Survival Games\". He, together with his childhood friend, Tooru, form an alliance called the \"Toy ☆ Gun Gun Team\". He is unaware of the fact that Hotaru is actually female. To repay the damages caused by Hotaru to the club at which he works at, he offers her the chance to become a member of his team. Because of his past, he has abandonment issues, which later cause him to kick Hotaru out of the team, fearing she will leave him like his former friends/teammates and mother did. However, after Hotaru helps him face his past through a one-on-one challenge, he lets her rejoin. After Hotaru rejoins the team he develops feelings for her, but struggles with them as he does not know that Hotaru is female. There was a moment in his past where, after being abandoned by his mother, he grew suicidal. Nagamasa introduced him to survival games to convince him to live on."
+          }
+        },
+        {
+          "id": 88941,
+          "name": "立花萤",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88941-A6oV4wZZS4SP.png",
+          "description": "立花萤是高中生与学生会会长，拥有强烈的正义感，看到欺负弱者的行为便会立即出手。她力量、速度和耐力出众，却不擅长精准射击，参加生存游戏时常凭近身行动弥补枪法不足。萤外表和举止常被误认为男生，最初因与正宗发生冲突而接触生存游戏，之后加入Toy☆Gun Gun。她直率冲动，也会在发现自己误会别人时认真道歉。",
+          "nicknames": [
+            "立花萤",
+            "Hotaru Tachibana",
+            "立花蛍",
+            "萤"
+          ],
+          "traits": [
+            "高中生",
+            "学生会会长",
+            "正义感强烈",
+            "身体力量与速度出众",
+            "射击准度不佳",
+            "容易冲进战场",
+            "起初被误认作男生",
+            "Toy☆Gun Gun成员",
+            "擅长近身作战",
+            "是矢岛鼎的好友"
+          ],
+          "voice_actors": [
+            {
+              "name": "小松未可子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105071-Hcj0X2gcliPq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hotaru Tachibana",
+            "name_native": "立花蛍",
+            "name_alternative": [],
+            "description": "Hotaru is the Student Council President and is known for her brute strength, good reflexes, and a strong sense of Justice. She claims to not let \"evil-doers\" get away with their evil deeds and is often noted to enjoy picking fights for the sake of what's correct to the point where she beats up a bunch of students who were extorting money from a helpless student and desires for revenge on learning that her best friend, Kanae was supposedly conned by a Host. \n\nAlthough confrontational, she becomes very guilty and apologetic when she realizes that she was mistaken, as shown when she kneels and bows her head in apology after arguing with Masamune, despite there being several other people present. She is noted to have terrible accuracy with a gun and a bad habit of charging into the field without delay, but outstanding speed, stamina, and strength, which she uses to her advantage in close-quarters combat. She uses a Heckler & Koch G3 SAS High Cycle, a submachine gun, as her weapon from episode 4 onwards. She is often mistaken as a guy due to her appearance. She is next-door neighbors with Masamune."
+          }
+        },
+        {
+          "id": 140290,
+          "name": "绿永将",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140290-MAF8odjLXKkw.png",
+          "description": "绿永将是生存游戏队伍Hoshishiro的队长，在以队名命名的医院担任医生。他与藤本高虎、赤羽市是同事，实力强劲，被称为“不败皇帝”。永将平时待人温和，却会在游戏中采取强硬战术；他过去曾与正宗搭档，后来因队伍安排分开，这段经历让正宗对他怀有怨气。永将知道萤是女生，也看重队伍之间的公平竞争。",
+          "nicknames": [
+            "绿永将",
+            "Nagamasa Midori",
+            "緑永将",
+            "The Invincible Emperor",
+            "不败皇帝"
+          ],
+          "traits": [
+            "生存游戏队伍Hoshishiro队长",
+            "在医院担任医生",
+            "被称为不败皇帝",
+            "与藤本及赤羽共事",
+            "表面温和有礼",
+            "游戏中战术强硬",
+            "曾与正宗组成搭档",
+            "知道萤的真实性别",
+            "重视队伍胜负",
+            "对旧队友有复杂情感"
+          ],
+          "voice_actors": [
+            {
+              "name": "興津和幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nagamasa Midori",
+            "name_native": "緑永将",
+            "name_alternative": [
+              "The Invincible Emperor"
+            ],
+            "description": "Nagamasa is the leader of the survival game team Hoshishiro, which is the name of the hospital he works as a doctor at along with his teammates Fujimon and Ichi. He initially appears to be a very kind man, but he is the object of Tooru and Masamune's resentment due to what took place in the past. It is revealed that he beat up two former Toy Gun Gun players, but it was all within the rules of TGC. He and Masamune used to be close partners, but after being told by another survival game player that Masamune was also a strong vanguard, Nagamasa was convinced to end their partnership. Although brutal during survival games, Nagamasa is known to show kindness outside of it. He knows that Hotaru is a girl but kept a secret though it ended being a blackmail for Hotaru."
+          }
+        },
+        {
+          "id": 140292,
+          "name": "矢岛鼎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140292-FmJrHY9pxCgB.jpg",
+          "description": "矢岛鼎是萤的好友，也是最早知道萤真实性别的人。她气质活泼，言行带有鲜明的少女感，有时显得冲动，却始终真心关心朋友。鼎会鼓励萤面对生存游戏与校园生活中的烦恼，也愿意在需要时陪她行动。她既了解萤正义感强、容易惹上麻烦的一面，也支持她按照自己的方式处理人际关系。",
+          "nicknames": [
+            "矢岛鼎",
+            "Kanae Yajima",
+            "矢島鼎",
+            "鼎"
+          ],
+          "traits": [
+            "萤的好友",
+            "最早知道萤是女生",
+            "气质偏女性化",
+            "性格活泼开朗",
+            "说话行动有时冲动",
+            "真心关心朋友",
+            "擅长鼓励他人",
+            "曾与萤参加生存游戏",
+            "重视彼此健康",
+            "在人际关系中积极主动"
+          ],
+          "voice_actors": [
+            {
+              "name": "堀江由衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95028-MHT1m3E5wGZx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kanae Yajima",
+            "name_native": "矢島鼎",
+            "name_alternative": [],
+            "description": "Kanae is Hotaru's best friend​ and was first aware of her being a girl. Kanae has a very feminine and lively persona. Although her actions and words can be perceived as immature and spontaneous, she genuinely cares about the well-being of others and is very encouraging."
+          }
+        },
+        {
+          "id": 140293,
+          "name": "赤羽市",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140293-kpFErhTbi8N6.png",
+          "description": "赤羽市是Hoshishiro的狙击手，同时在队长绿永将工作的医院任职。她枪法精准，熟悉生存游戏中的远距离压制与掩护，是队伍的重要火力支援。市对永将抱有近乎执着的信赖和依恋，不愿别人随意接近他；她与藤本高虎共同执行队伍战术，也以强势作风维护自己在团队中的位置。",
+          "nicknames": [
+            "赤羽市",
+            "Ichi Akabane",
+            "Ichi"
+          ],
+          "traits": [
+            "Hoshishiro队员",
+            "擅长狙击",
+            "在医院工作",
+            "绿永将的坚定支持者",
+            "对永将有强烈依恋",
+            "生存游戏技术熟练",
+            "善于远距离压制",
+            "与藤本高虎同队",
+            "不喜欢他人接近永将",
+            "被视为队伍主力之一"
+          ],
+          "voice_actors": [
+            {
+              "name": "喜多村英梨",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ichi Akabane",
+            "name_native": "赤羽市",
+            "name_alternative": [],
+            "description": "Ichi is a skilled sniper in her Team Hoshishiro and is deeply devoted to Midori to the point where no one can touch him except for Ichi herself. Ichi works at a hospital, and that's where she meet her teammates Midori and Fujimoto. As part of the strongest and most feared team, her sniping and surviving skills may be considered top notch along with her teammates."
+          }
+        },
+        {
+          "id": 140294,
+          "name": "藤本高虎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140294-0ykeS2LhbTZw.jpg",
+          "description": "藤本高虎是Hoshishiro成员，在绿永将工作的医院任职，对队长十分忠诚。他以“突击破坏者”之名参加生存游戏，擅长快速压制对手，并能携带沉重的机枪投入战斗。藤本与永将配合默契，通常承担队伍前锋职责；虽然经常遭到赤羽市言语责备，他仍保持可靠态度，继续支持队友并执行团队战术。",
+          "nicknames": [
+            "藤本高虎",
+            "Takatora Fujimoto",
+            "Assault Destroyer",
+            "藤本"
+          ],
+          "traits": [
+            "Hoshishiro队员",
+            "在医院工作",
+            "忠于绿永将",
+            "被称为突击破坏者",
+            "擅长快速突击",
+            "使用重型机枪",
+            "可携带约二十公斤装备",
+            "常被赤羽市数落",
+            "与永将配合默契",
+            "在队伍中承担前锋职责"
+          ],
+          "voice_actors": [
+            {
+              "name": "木村良平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takatora Fujimoto",
+            "name_native": "藤本高虎",
+            "name_alternative": [
+              "Assault Destroyer"
+            ],
+            "description": "Fujimoto works in the same hospital as his teammates in Hoshishiro, and he is very loyal to Nagamasa Midori, and is also verbal abused by his other teammate Ichi Akabane. He is known as the Assault Destroyer, being able to defeat enemies quickly and without them feeling the pain. He carries a machine gun which weighs 20 kg but doesn't put him in a disadvantage."
+          }
+        },
+        {
+          "id": 141269,
+          "name": "相乐华子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141269-VNknGKXzIOhI.png",
+          "description": "相乐华子是正宗的好友，也参与生存游戏。在一次练习赛中，萤临时加入她所在的队伍，华子便带着萤观察比赛流程，帮助她理解对战节奏与团队配合。华子熟悉游戏规则，态度爽朗直接，愿意把经验分享给新手。她与正宗保持着稳定友谊，也通过练习赛让萤接触到不同队伍的作战方式。",
+          "nicknames": [
+            "相乐华子",
+            "Sagara Hanako",
+            "相楽華子",
+            "Hanako Sagara"
+          ],
+          "traits": [
+            "正宗的好友",
+            "生存游戏玩家",
+            "曾与萤进行练习赛",
+            "熟悉团队对战规则",
+            "擅长指导新人",
+            "态度爽朗直接",
+            "愿意分享游戏经验",
+            "观察战局能力良好",
+            "重视公平练习",
+            "与正宗保持长期友谊"
+          ],
+          "voice_actors": [
+            {
+              "name": "植田佳奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sagara Hanako",
+            "name_native": "相楽華子 ",
+            "name_alternative": [],
+            "description": "Hanako is a close friend of Masamune. During a practice match, Hotaru temporarily becomes a member of her team and she instructs her to observe how the game is played."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 4981,
+      "anime_title": "新造人间卡辛 Sins",
+      "anime_origin": "JP",
+      "source": {
+        "id": 4981,
+        "titles": [
+          "Casshern Sins",
+          "キャシャーンSins"
+        ],
+        "year": 2008,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/4981"
+      },
+      "characters": [
+        {
+          "id": 16181,
+          "name": "卡夏恩",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16181-FlSqZ8qFZ17W.png",
+          "description": "卡夏恩是失去记忆的机械战士，世界上的机器人因衰败而不断腐朽，人们将这场灾难与露娜之死联系起来，也把他视作重要的罪魁。卡夏恩在漫长旅途中不断遭遇追杀与质问，试图找回过去并理解自身责任。他拥有压倒性的战斗能力，却不愿只靠力量解决一切；面对仍愿意相信他的同伴，他也会主动伸出援手。",
+          "nicknames": [
+            "卡夏恩",
+            "Casshern",
+            "キャシャーン",
+            "Tetsuya Azuma",
+            "Neo-Human Casshern",
+            "New Superhero Casshern",
+            "Casshan",
+            "Ted"
+          ],
+          "traits": [
+            "失去记忆的机械战士",
+            "被视为露娜遇害的相关者",
+            "背负世界衰败的罪责",
+            "拥有远超普通机器人的战力",
+            "持续寻找过去真相",
+            "战斗中常压制对手",
+            "对自身力量感到不安",
+            "会保护弱小的人",
+            "面对敌人时果断",
+            "渴望理解生命与死亡"
+          ],
+          "voice_actors": [
+            {
+              "name": "古谷徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95326-OfRv2DBnFVZU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Casshern",
+            "name_native": "キャシャーン",
+            "name_alternative": [
+              "Tetsuya Azuma",
+              "Neo-Human Casshern",
+              "New Superhero Casshern",
+              "Casshan",
+              "Ted"
+            ],
+            "description": "Casshan began his life as Tetsuya Azuma, the son of Kotaro and Midori Azuma. The former of his two parents was a scientist who turned Tetsuya into Casshan after Kotaro successfully revived Tetsuya's dog Lucky into a robot dog named Friender when Tetsuya volunteered to be turned into a neo human, despite the objection of his mother and father. Tetsuya volunteered to become Casshan due to another one of Kotaro's creations, Black King activated on his own and set out to conquer the world. In the 1993/1995 OVA remake, Kotaro and Midori are killed by Black King."
+          }
+        },
+        {
+          "id": 16197,
+          "name": "欧吉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16197-MU4ynkcVFZ0e.png",
+          "description": "欧吉是一名机器人修理师，靠维修机械在衰败的世界中生活，并照料年幼的铃果。他对卡夏恩抱有明显戒心，似乎知道对方过去发生过的事，也不愿轻易相信这名危险的旅人。尽管态度尖锐，欧吉仍认真承担监护人的责任，努力让铃果保有安全与日常。他的机械知识和谨慎判断，多次帮助同行者应对废墟中的危机。",
+          "nicknames": [
+            "欧吉",
+            "Ouji",
+            "オージ",
+            "Ohji"
+          ],
+          "traits": [
+            "机器人修理师",
+            "擅长机械维修",
+            "铃果的监护人",
+            "照料年幼的铃果",
+            "起初厌恶卡夏恩",
+            "似乎知道卡夏恩的过去",
+            "性格谨慎而务实",
+            "在废土中维持生活",
+            "会保护身边的孩子",
+            "对机器人衰败有切身经历"
+          ],
+          "voice_actors": [
+            {
+              "name": "チョー ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95898-XHSESV65G8Jv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ouji",
+            "name_native": "オージ",
+            "name_alternative": [
+              "Ohji"
+            ],
+            "description": "A robot technician who spends his time fixing robots, he is Ringo's guardian and takes care of her. However, Ouji has a constant dislike for Casshern, and seems to know something about him in the past.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 16246,
+          "name": "琉兹",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16246-V0Q6rwBPlUTX.png",
+          "description": "琉兹是女性机器人，起初为了替姐姐莉莎报仇而追踪卡夏恩。莉莎曾在保护露娜时被卡夏恩重伤，最终在腐朽中死去，因此琉兹长期把他视作仇敌。卡夏恩并未反抗她的复仇，这让琉兹开始犹豫，后来选择陪伴他继续旅行。她外表冷硬、行动果断，内心却始终珍视姐姐留下的记忆，也在同行中重新审视仇恨。",
+          "nicknames": [
+            "琉兹",
+            "Lyuze",
+            "リューズ"
+          ],
+          "traits": [
+            "女性机器人",
+            "曾追杀卡夏恩",
+            "为姐姐莉莎寻求复仇",
+            "姐姐曾保护露娜",
+            "不信任卡夏恩",
+            "行动敏捷善于战斗",
+            "在旅途中逐渐改变看法",
+            "开始陪伴卡夏恩同行",
+            "内心有强烈情感",
+            "重视亲人的记忆"
+          ],
+          "voice_actors": [
+            {
+              "name": "宮原永海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96824-SRIUpKdY5EfX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Lyuze",
+            "name_native": "リューズ",
+            "name_alternative": [],
+            "description": "A female robot, she pursues Casshern out of revenge for her sister. Before the cataclysm, her sister Liza was injured by Casshern while trying to protect Luna, and eventually died a slow death from corrosion. However, she hesitates when Casshern willingly allows her the chance to kill him, and is unwilling to do so. Instead, she begins to follow and accompany Casshern on his journey.   ~!Later in the series, Lyuze comes to realize that she loves Casshern. She dies happily in Casshern's arms claiming she lived her life to the fullest in episode 24.!~"
+          }
+        },
+        {
+          "id": 16247,
+          "name": "铃果",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16247-DcqhLtuUny73.png",
+          "description": "铃果是生活在衰败世界中的年幼女孩，由机器人修理师欧吉照料。她在旅途中结识卡夏恩，虽然亲眼见过他为了救人而摧毁机器人，却仍愿意相信他并主动与他相处。铃果保有天真和好奇，不轻易被周围的绝望改变；她的存在让卡夏恩与其他旅人看到继续前行的理由，也成为欧吉最想守护的人。",
+          "nicknames": [
+            "铃果",
+            "Ringo",
+            "リンゴ"
+          ],
+          "traits": [
+            "年幼的女孩",
+            "生活在衰败世界",
+            "由欧吉照料",
+            "与卡夏恩成为朋友",
+            "保持天真善良",
+            "目睹机器人之间的冲突",
+            "仍愿意相信卡夏恩",
+            "对旅人抱有好奇",
+            "是同行者的情感支点",
+            "象征新生与希望"
+          ],
+          "voice_actors": [
+            {
+              "name": "皆口裕子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95170-oAiTh7t2T1J0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ringo",
+            "name_native": "リンゴ",
+            "name_alternative": [],
+            "description": "A young girl who befriends Casshern, she manages to maintain her innocence despite growing up in a destroyed world. Despite witnessing Casshern mercilessly destroying a robot in order to save her, she continues to have faith in him. Being cared by Ouji, the two come across Casshern regularly, and witness his endeavors.\n\n~!Near the end of the anime, everyone except herself, Friender, and Casshern died. Ringo was devastated, but still grew up into a young woman, knowing and accepting death, waiting for Casshern's return. It is somehow hinted in her last encounter with Leda that she may have been the baby in Leda's womb. !~\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 16196,
+          "name": "露娜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16196-TUG3xOlk1hKP.png",
+          "description": "露娜是机器人世界中被视作希望的人物，许多机器人相信她与永生有关。她与卡夏恩过去执行的任务紧密相连，露兹的姐姐莉莎也曾为了保护她而受伤。露娜的遭遇与世界逐渐衰败的谜团彼此交织，各方因此持续寻找她或追查真相。她本人并非单纯的传说符号，其存在也改变了机器人们对生命、死亡与未来的理解。",
+          "nicknames": [
+            "露娜",
+            "Luna Kozuki",
+            "ルナ"
+          ],
+          "traits": [
+            "被机器人视作希望",
+            "与永生传说有关",
+            "卡夏恩过去任务的核心人物",
+            "露兹姐姐曾保护她",
+            "牵动世界衰败的真相",
+            "受到多方追寻",
+            "存在状况成谜",
+            "影响机器人对未来的看法",
+            "与卡夏恩关系密切",
+            "是故事冲突的中心"
+          ],
+          "voice_actors": [
+            {
+              "name": "矢島晶子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95148-JiNi79wg9ScS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Luna Kozuki",
+            "name_native": "ルナ",
+            "name_alternative": [],
+            "description": "In _Casshern: Robot Hunter_\n\nLuna Kozuki is the daughter of Dr. Kozuki, who fights along Casshan and Friender and uses a firearm called an MF Gun, and is also the love interest of Casshan/Tetsuya.\n\nIn _Casshern Sins_\n\n~!She is a mysterious being whose death resulted in the whole world falling into the Ruin.!~"
+          }
+        },
+        {
+          "id": 16450,
+          "name": "阿科兹",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16450-7tzfFittHEzN.jpg",
+          "description": "阿科兹是卡夏恩在旅途中遇见的人类，也是他进入故事早期阶段所接触的重要人物之一。面对机器人不断衰败的世界，阿科兹以自己的方式维持生活，并让卡夏恩看见人类在末世中的脆弱处境。两人的相遇短暂，却推动卡夏恩继续思考自己与这场灾难的关系。阿科兹的经历也让观众更直接地感受到世界失序带来的代价。",
+          "nicknames": [
+            "阿科兹",
+            "Akoz",
+            "アコーズ"
+          ],
+          "traits": [
+            "卡夏恩旅途中遇见的人类",
+            "生活在废土环境",
+            "与第三集事件相关",
+            "见证机器人衰败",
+            "有自己的生存方式",
+            "会向旅人表达看法",
+            "短暂改变卡夏恩的旅程",
+            "体现人类面对末世的处境",
+            "经历有限而令人印象深刻",
+            "与故事早期转折相关"
+          ],
+          "voice_actors": [
+            {
+              "name": "中野裕斗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95216-WgWwifUs89xf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akoz",
+            "name_native": "アコーズ",
+            "name_alternative": [],
+            "description": "The first human Casshern meets in episode three.\n~! Akoz dies at the very end of Episode 3 !~"
+          }
+        },
+        {
+          "id": 16566,
+          "name": "索菲塔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16566-qdqrH2XIUiZe.png",
+          "description": "索菲塔是一名热衷战斗的机器人少女，常主动寻找对手，并坚持只与愿意接受挑战的人交战。她难以感知普通情绪，唯有战斗时才会明确感到兴奋与满足，因此把交手视作确认自身存在的方式。索菲塔拥有强大的战斗能力，行动直接而危险；卡夏恩与她相遇后，不仅要面对武力冲突，也必须思考在衰败世界里不同机器人如何理解生命。",
+          "nicknames": [
+            "索菲塔",
+            "Sophita",
+            "ソフィータ"
+          ],
+          "traits": [
+            "热衷战斗的机器人少女",
+            "主动寻找强敌",
+            "只挑战愿意应战的人",
+            "难以感知日常情绪",
+            "战斗时才感到满足",
+            "行动直接而危险",
+            "拥有强大战斗能力",
+            "对胜负异常执着",
+            "以战斗确认自身感受",
+            "与卡夏恩发生冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "秋谷智子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96748-7xa61EMRqKw9.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sophita",
+            "name_native": "ソフィータ",
+            "name_alternative": [],
+            "description": "A psychotic girl who loves to fight and to kill, yet only fights those who accept her wish of fighting. Sophita is unable to perceive any emotions and the only way she ever feels something is when she is fighting."
+          }
+        },
+        {
+          "id": 16681,
+          "name": "迪欧",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16681-807YOD9xLN9C.png",
+          "description": "迪欧是与卡夏恩拥有相同设计规格的机器人，也曾与卡夏恩一同被派去寻找露娜。因为卡夏恩比他更早抵达目标，迪欧一直将这件事视作失败，并对对方怀有强烈敌意。他企图通过揭露卡夏恩的秘密组织机器人军队，阻止世界衰败并取代布莱金首领。迪欧能力出众，却常把证明自身价值与支配他人混为一谈。",
+          "nicknames": [
+            "迪欧",
+            "Dio",
+            "ディオ"
+          ],
+          "traits": [
+            "与卡夏恩规格相同的机器人",
+            "由布莱金博士势力制造",
+            "曾被派去寻找露娜",
+            "将卡夏恩视为竞争者",
+            "对卡夏恩怀有敌意",
+            "企图阻止世界继续衰败",
+            "试图组织机器人军队",
+            "渴望取代布莱金首领",
+            "战斗力强大",
+            "执着于证明自身价值"
+          ],
+          "voice_actors": [
+            {
+              "name": "森川智之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dio",
+            "name_native": "ディオ",
+            "name_alternative": [],
+            "description": "A robot built identical to Casshern, he, along with Casshern and Leda, were sent to kill Luna, but Dio failed to reach her before Casshern. He plots to halt the ruination by exposing Casshern's secret and rule the world, taking the place of Braiking Boss. As such, he attempts to organize a robot army. He holds animosity towards Casshern, as they were both created with identical specifications, but Casshern was slightly ahead of him in reaching Luna, and now appears to be immortal."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 13331,
+      "anime_title": "军火女王：完美秩序",
+      "anime_origin": "JP",
+      "source": {
+        "id": 13331,
+        "titles": [
+          "Jormungand: PERFECT ORDER",
+          "Jormungand: Perfect Order",
+          "ヨルムンガンド PERFECT ORDER",
+          "Jormungand 2"
+        ],
+        "year": 2012,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/13331"
+      },
+      "characters": [
+        {
+          "id": 33451,
+          "name": "蔻蔻·海克梅迪亚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33451-vtOlLnNM4vIj.png",
+          "description": "蔻蔻·海克梅迪亚是国际军火商弗洛伊德·海克梅迪亚的女儿，负责HCLI欧洲与非洲物流部门。她外表活泼，言行有时显得孩子气，却拥有强烈的领导魅力和果断手腕，必要时也会采取冷酷行动。部下对她十分忠诚，蔻蔻则把少年兵约拿视作弟弟般照顾。她不断在武器交易、国际势力和自己的宏大计划之间周旋。",
+          "nicknames": [
+            "蔻蔻·海克梅迪亚",
+            "Koko Hekmatyar",
+            "ココ・ヘクマティアル",
+            "Princess"
+          ],
+          "traits": [
+            "国际军火商",
+            "海克梅迪亚家族成员",
+            "HCLI欧洲与非洲物流部门负责人",
+            "银白长发蓝眼",
+            "拥有出众领导魅力",
+            "性格活泼而大胆",
+            "必要时手段冷酷",
+            "受到部下忠诚拥护",
+            "把约拿视作弟弟",
+            "谋划私人军事计划"
+          ],
+          "voice_actors": [
+            {
+              "name": "伊藤静",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Koko Hekmatyar",
+            "name_native": "ココ・ヘクマティアル",
+            "name_alternative": [
+              "Princess"
+            ],
+            "description": "The series' protagonist. A young arms dealer and the daughter of Floyd Hekmatyar, a global shipping magnate. Belongs to HCLI's European and African Logistics Division.\n\nShe is physically attractive, with long silver-white hair, pale alabaster skin, striking blue eyes and her trademark smile, which is present even under dire circumstances. She is extremely charismatic and bold, which earned her great success in her business as well as the fierce loyalty of her subordinates. While generally behaving in a bubbly and slightly childish manner, Koko is actually rather ruthless and has been called a 'monster' by various characters.\n\nShe considers [Jonah](https://anilist.co/character/36566/Mar-Jonathan) a little brother and is very affectionate towards him. [Valmet](https://anilist.co/character/38954/Velmer-Sofia) has a crush on Koko, but whether Koko reciprocates the feelings is unknown."
+          }
+        },
+        {
+          "id": 38954,
+          "name": "索菲亚·瓦尔梅特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38954-7IPak9h2gsbT.png",
+          "description": "索菲亚·瓦尔梅特常被称为瓦尔梅特，曾是芬兰快速部署部队的机械化猎兵少校，也在非洲担任联合国维和军官。她擅长近身刀战，经验丰富，后来加入蔻蔻的团队。瓦尔梅特曾在一次伏击中失去一只眼睛，战友也全部阵亡，因此踏上非洲土地时仍会感到不安。她对蔻蔻怀有好感，并以坚定行动守护团队。",
+          "nicknames": [
+            "索菲亚·瓦尔梅特",
+            "Sofia Velmer",
+            "ソフィア・ヴェルマー",
+            "Valmet (バルメ)",
+            "Valmet"
+          ],
+          "traits": [
+            "芬兰出身的前军官",
+            "曾任机械化猎兵少校",
+            "擅长使用刀具",
+            "在非洲失去一只眼睛",
+            "曾加入联合国维和部队",
+            "对蔻蔻抱有好感",
+            "作战经验丰富",
+            "对非洲战场有心理阴影",
+            "忠于蔻蔻团队",
+            "冷静且行动果断"
+          ],
+          "voice_actors": [
+            {
+              "name": "大原さやか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sofia Velmer",
+            "name_native": "ソフィア・ヴェルマー",
+            "name_alternative": [
+              "Valmet (バルメ)"
+            ],
+            "description": "An ex-mechanized jäger major of the Finnish Rapid Deployment Force who is skilled with knives. She is in love with [Koko](https://anilist.co/character/33451/Hekmatyar-Koko), but it is unknown whether Koko returns her feelings. Her real name is Sofia Velmer. Valmet comes from a military family and served as a UN peacekeeping officer in Africa. Her entire Finnish-led UN squad was annihilated by [Chen Guoming](https://anilist.co/character/65311/Guoming-Chen) and she herself lost an eye in that attack. Since then Valmet feels uneasy and even frightened whenever she sets foot on African soil."
+          }
+        },
+        {
+          "id": 40941,
+          "name": "雷姆·布里克",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40941-tlaBgIfGdeaW.png",
+          "description": "雷姆·布里克是蔻蔻团队中资历最深的成员，也是副指挥。他曾在美国三角洲部队服役并参与索马里行动，后来成为经验丰富的雇佣兵，擅长狙击和现场指挥。加入蔻蔻小队前，雷姆曾与奇基塔一同担任弗洛伊德的保镖，两人后来离婚但仍保持合作。他言行沉稳，能在危险行动中稳定队伍，是蔻蔻最倚重的部下之一。",
+          "nicknames": [
+            "雷姆·布里克",
+            "Lehm Brick",
+            "レーム",
+            "Old Man",
+            "Lehm"
+          ],
+          "traits": [
+            "蔻蔻团队副指挥",
+            "资深雇佣兵",
+            "曾服役于美国三角洲部队",
+            "拥有索马里行动经验",
+            "团队中年纪最长",
+            "领导能力出色",
+            "擅长狙击任务",
+            "曾担任弗洛伊德保镖",
+            "与奇基塔曾是夫妻",
+            "处事沉稳可靠"
+          ],
+          "voice_actors": [
+            {
+              "name": "石塚運昇",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lehm Brick",
+            "name_native": "レーム",
+            "name_alternative": [
+              "Old Man"
+            ],
+            "description": "The oldest member of Koko's crew and the second in command. A former Delta Force operator who used to be active in Somalia during the 1990s, he is a veteran mercenary with strong leadership skills. He acted as Floyd Hekmatyar's bodyguard together with Chiquita, his ex-wife, before joining Koko's squad. Lehm also does sniper work either alone or together with Lutz.  His surname \"Brick\" was reveled in ep7 of season 2.  \n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 59319,
+          "name": "毛",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59319-0iw6q6NFfydj.png",
+          "description": "毛曾在亚洲某国军队担任炮兵军官，因一次造成伤亡的训练事故退役，之后受蔻蔻招募加入团队。他熟悉火炮、军事装备与部队行动，是小队中拥有正规军经历的重要成员。毛也是团队里唯一有家庭的人，这让他对战争与任务风险有不同于其他雇佣兵的体会；蔻蔻还安排他为约拿讲授理科课程。",
+          "nicknames": [
+            "毛",
+            "Mao",
+            "マオ"
+          ],
+          "traits": [
+            "蔻蔻团队成员",
+            "曾任亚洲某国炮兵军官",
+            "因训练事故退役",
+            "熟悉火炮与军事装备",
+            "团队里唯一有家庭的人",
+            "负责约拿的理科辅导",
+            "重视家庭生活",
+            "拥有军队实务经验",
+            "执行任务认真",
+            "为团队提供后勤支持"
+          ],
+          "voice_actors": [
+            {
+              "name": "四宮豪",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101724-MEUzOW3BRvy2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mao",
+            "name_native": "マオ",
+            "name_alternative": [],
+            "description": "A former artillery officer from an Asian country, he was discharged from the military after a deadly training accident and was later recruited by Koko. He is the only member on Koko's team that has a family. He is put in charge of giving Jonah science lessons.  \n\n (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 59329,
+          "name": "卢茨",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59329-2K4wgHrC9pxN.png",
+          "description": "卢茨曾担任警察，之后进入反恐部队服役，拥有执法和特别行动的经验。他加入蔻蔻的佣兵团队后主要承担狙击任务，常与雷姆协同，为队伍提供远距离火力支援。卢茨处事冷静，习惯先观察环境再行动，也熟悉反恐行动中的纪律与配合。面对不同国家的武装冲突，他始终把保护队友和完成任务放在重要位置。",
+          "nicknames": [
+            "卢茨",
+            "Lutz",
+            "ルツ"
+          ],
+          "traits": [
+            "蔻蔻团队狙击手",
+            "曾任警察",
+            "有反恐部队服役经历",
+            "擅长远距离射击",
+            "常与雷姆协同作战",
+            "熟悉反恐任务",
+            "保持冷静观察",
+            "接受蔻蔻的雇佣",
+            "重视任务纪律",
+            "为小队提供精准火力"
+          ],
+          "voice_actors": [
+            {
+              "name": "羽多野渉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lutz",
+            "name_native": "ルツ",
+            "name_alternative": [],
+            "description": "A former police sniper who was once part of the counter-terrorist unit, until he becomes one of Koko's mercenaries.   \n\n(Source: ANN)"
+          }
+        },
+        {
+          "id": 59435,
+          "name": "威利·尼尔森",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59435-Y0DDPeFJoIZN.png",
+          "description": "威利·尼尔森的本名是威廉·尼尔森，曾在美国陆军第十八空降军工程兵部队担任中尉，后来成为爆破专家。他毕业于弗吉尼亚大学建筑专业，能把建筑结构知识用于爆破行动。威利在海湾战争期间结识雷姆，数年后经由雷姆加入蔻蔻团队。他负责给约拿补习英语，也是少数被联邦调查局列入通缉名单的队员之一。",
+          "nicknames": [
+            "威利·尼尔森",
+            "William Nelson",
+            "ウィリアム・ネルソン（ワイリ）",
+            "Wilee",
+            "Wiley",
+            "ウィリアム・ネルソン"
+          ],
+          "traits": [
+            "美国陆军退役军官",
+            "非裔美国人",
+            "爆破专家",
+            "曾任工程兵部队中尉",
+            "毕业于弗吉尼亚大学建筑专业",
+            "熟悉爆破与建筑结构",
+            "与雷姆有海湾战争旧识",
+            "负责约拿的英语辅导",
+            "蔻蔻团队核心成员",
+            "受到联邦调查局通缉"
+          ],
+          "voice_actors": [
+            {
+              "name": "乃村健次",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95299-emNsgDYS4DBi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "William Nelson",
+            "name_native": "ウィリアム・ネルソン（ワイリ）",
+            "name_alternative": [
+              "Wilee"
+            ],
+            "description": "An Afro-American explosive expert and ex-lieutenant of the 20th Engineer Brigade of the XVIII Airborne Corps in the US Army. Graduated from University of Virginia School of Architecture. Wiley met Lehm and Echo in the first Gulf War when he was assigned to blow up a chemical factory. After several years, Wiley paid Lehm a visit and met Koko. His real name is William Nelson. He is put in charge of giving Jonah English lessons. He is the only person on the team aside from Koko to be blacklisted by the FBI.  \n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 59439,
+          "name": "雷纳托·索奇",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59439-LTfFkUAm4cTW.png",
+          "description": "雷纳托·索奇曾在意大利陆军轻骑兵部队担任情报军官，退役后加入蔻蔻的队伍，常以代号R行动。他具备情报收集和联络能力，曾在巴尔干地区与中情局特工Bookman共事，因此背负着特殊任务。雷纳托熟悉如何隐藏立场，在雇佣兵团队中也维持着不易察觉的双重身份；他的行动逐渐影响蔻蔻小队与情报机构之间的关系。",
+          "nicknames": [
+            "雷纳托·索奇",
+            "Renato Socci",
+            "レナート・ソッチ（アール）",
+            "R",
+            "レナート・ソッチ"
+          ],
+          "traits": [
+            "意大利出身的情报军官",
+            "曾在意大利陆军服役",
+            "具有轻骑兵部队经历",
+            "受蔻蔻雇佣工作",
+            "代号为R",
+            "熟悉情报收集与联络",
+            "曾参与巴尔干地区行动",
+            "与Bookman有工作关联",
+            "能在团队中隐藏真实立场",
+            "行动具有双重目的"
+          ],
+          "voice_actors": [
+            {
+              "name": "小西克幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Renato Socci",
+            "name_native": "レナート・ソッチ（アール）",
+            "name_alternative": [
+              "R"
+            ],
+            "description": "A former Italian Army Bersaglieri intelligence officer who now works for Koko.   ~!R is the CIA's mole from the day he worked with Bookman in Bosnia during the Bosnian Wars. He is eventually killed by Hex while protecting Koko.!~"
+          }
+        },
+        {
+          "id": 61763,
+          "name": "奇基塔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b61763-XltQwq1bkFnq.png",
+          "description": "奇基塔是海克梅迪亚家族成员卡斯帕的首席保镖，也是雷姆的前妻。两人曾一同为弗洛伊德担任护卫，积累了丰富的安保经验；即使分开后仍能在任务中默契配合。奇基塔身手出众，判断果断，擅长近距离保护雇主并迅速排除威胁。她熟悉海克梅迪亚家族内部事务，被视作HCLI最可靠的护卫之一。",
+          "nicknames": [
+            "奇基塔",
+            "Chiquita",
+            "チェキータ",
+            "Chiqui"
+          ],
+          "traits": [
+            "卡斯帕的首席保镖",
+            "经验丰富的保镖",
+            "雷姆的前妻",
+            "曾为弗洛伊德工作",
+            "擅长贴身保护",
+            "执行任务冷静果决",
+            "身手出众",
+            "与雷姆仍有工作默契",
+            "熟悉海克梅迪亚家族",
+            "被视作HCLI顶尖护卫"
+          ],
+          "voice_actors": [
+            {
+              "name": "冬馬由美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95435-REiTyMQqIfH4.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chiquita",
+            "name_native": "チェキータ",
+            "name_alternative": [
+              "Chiqui"
+            ],
+            "description": "Kasper's ruthless head of security and Lehm's ex-wife. Both Chiquita and Lehm used to serve as Floyd Hekmatyar's bodyguards. She can be considered the best bodyguard in HCLI."
+          }
+        }
+      ]
+    }
+  ]
+}

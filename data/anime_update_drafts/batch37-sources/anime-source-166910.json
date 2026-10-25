@@ -1,0 +1,619 @@
+{
+  "fetchedAt": "2026-10-24T08:50:22.882Z",
+  "id": 166910,
+  "title": {
+    "romaji": "The Fable",
+    "english": "The Fable",
+    "native": "ザ・ファブル"
+  },
+  "synonyms": [],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2024,
+    "month": 4,
+    "day": 7
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "description": "When you're the infamous prodigy hitman known only as “Fable,” many things come easy. Being a normal person, however, isn't one of them. In fact, being told that he can't kill anyone for a while may just be the hardest job Fable’s ever taken...<br>\n<br>\n(Source: Kodansha USA)",
+  "siteUrl": "https://anilist.co/anime/166910",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 173771,
+        "name": {
+          "full": "Fable",
+          "native": "ファブル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b173771-wgOorCDjqQhR.png"
+        },
+        "description": "A mysterious man labelled as the \"Genius of Killing\". With his favourite gun, Night Hawk, in his hands, he's a hitman that can take down any enemy in a single shot. His origins and real name are both unknown.\n\nSeems to very much love watching the comedian, Jackal Tomioka.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102288,
+          "name": {
+            "full": "Kazuyuki Okitsu",
+            "native": "興津和幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 188618,
+        "name": {
+          "full": "Youko Satou",
+          "native": "佐藤洋子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b188618-TQU2Ks0LeEby.png"
+        },
+        "description": "Youko Satou is the pseudonym for the getaway driver for the hitman known as Fable. She masquerades as Fable's sister as a part of the operation given to them by their boss.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95099,
+          "name": {
+            "full": "Miyuki Sawashiro",
+            "native": "沢城みゆき"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 292106,
+        "name": {
+          "full": "Ryou Kuroshio",
+          "native": "黒塩遼",
+          "alternative": [
+            "Kuro (クロ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b292106-TRCvOaQjDtQi.png"
+        },
+        "description": "Ebihara's subordinate. Looks up to Akira Satou.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 126856,
+          "name": {
+            "full": "Ryouta Iwasaki",
+            "native": "岩崎諒太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n126856-BQ4qwPDm4lfw.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 290548,
+        "name": {
+          "full": "Satoshi Ebihara",
+          "native": "海老原剛士",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290548-P3DNSwNML0Qc.png"
+        },
+        "description": "Wakagashira (2nd in command) of the Maguro-gumi.",
+        "gender": "Male",
+        "age": "38"
+      },
+      "voiceActors": [
+        {
+          "id": 95146,
+          "name": {
+            "full": "Akio Ootsuka",
+            "native": "大塚明夫"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95146-T6IEmqXW3xUN.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 290549,
+        "name": {
+          "full": "Misaki Shimizu",
+          "native": "清水岬",
+          "alternative": [
+            "ミサキ"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290549-HpZmurU0M81K.png"
+        },
+        "description": "Misaki works at the design studio Octopus and also has a part-time job at 'Buffalo Bar'.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95185,
+          "name": {
+            "full": "Kana Hanazawa",
+            "native": "花澤香菜"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 325253,
+        "name": {
+          "full": "Jackal Tomioka",
+          "native": "ジャッカル富岡",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325253-BtQrudgRRZiZ.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105094,
+          "name": {
+            "full": "Jun Fukushima",
+            "native": "福島潤"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105094-Udz3lBFTZa5W.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 292104,
+        "name": {
+          "full": "Boss",
+          "native": "ボス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b292104-jbmhvwmUqUpK.png"
+        },
+        "description": "Boss of 'The Fable' group. He commanded Akira and Youko to lie low and lead a normal life in Osaka for a year.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96682,
+          "name": {
+            "full": "Tetsuo Komura",
+            "native": "小村哲生"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1682.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 347589,
+        "name": {
+          "full": "Hiroshi Suzuki",
+          "native": "鈴木ヒロシ",
+          "alternative": [
+            "Sasaki ( 佐々木)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b347589-v3eLVdTDYNVj.png"
+        },
+        "description": "Outwardly, he looks like a young delinquent in his early 20s. In fact, he is a veteran assassin of nearly 40 years who has been working behind the scenes for 20 years and has changed his appearance with plastic surgery.",
+        "gender": "Male",
+        "age": "40"
+      },
+      "voiceActors": [
+        {
+          "id": 95160,
+          "name": {
+            "full": "Takehito Koyasu",
+            "native": "子安武人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 347590,
+        "name": {
+          "full": "Hinako Saba",
+          "native": "佐羽ヒナコ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b347590-nOGHysZFsV4B.png"
+        },
+        "description": "She is a beautiful woman around 20 years old, in a wheelchair. She works as a secretary at Utsuho's credit agency.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106030,
+          "name": {
+            "full": "Chika Anzai",
+            "native": "安済知佳"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106030-oz4RUJZ3D9v9.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 292107,
+        "name": {
+          "full": "Matsu",
+          "native": "マツ",
+          "alternative": [
+            "Arms Dealer"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b292107-UDzJ07Xb9GWy.png"
+        },
+        "description": "An arms dealer with a long history of association with the Maguro clan. On the side, he is the owner of a snack bar. He also runs a corpse disposal and information agency, and is involved in the rare animal smuggling business. Has a daughter named Sakura.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95665,
+          "name": {
+            "full": "Kiyomitsu Mizuuchi",
+            "native": "水内清光"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95665-EL6DvRKzjGrp.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 328459,
+        "name": {
+          "full": "Katsuya Takahashi",
+          "native": "高橋勝也",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328459-JXxLRME3Jw9k.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 213146,
+          "name": {
+            "full": "Yuudai Mino",
+            "native": "三野雄大"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n213146-z6a4fY33SlH9.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 328462,
+        "name": {
+          "full": "Kenjirou Takouda",
+          "native": "田高田健二郎",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328462-ZQdX53pPvCP9.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95751,
+          "name": {
+            "full": "Takeharu Onishi",
+            "native": "大西健晴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/751.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 325252,
+        "name": {
+          "full": "Kenji Kojima",
+          "native": "小島賢治",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b325252-dnMF1CjZi7lZ.png"
+        },
+        "description": "Ebihara's younger brother.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95591,
+          "name": {
+            "full": "Kenjirou Tsuda",
+            "native": "津田健次郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 290486,
+        "name": {
+          "full": "Hiroshi Hamada",
+          "native": "浜田広志",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290486-2zTROFDQhLER.png"
+        },
+        "description": "Fourth-generation boss of the Maguro-gumi.",
+        "gender": "Male",
+        "age": "53"
+      },
+      "voiceActors": [
+        {
+          "id": 95045,
+          "name": {
+            "full": "Kouji Ishii",
+            "native": "石井康嗣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95045-xvCXMLXwg44s.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 328460,
+        "name": {
+          "full": "Souichi Sunagawa",
+          "native": "砂川宗一",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328460-XYq9LbXFSzdy.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 328461,
+          "name": {
+            "full": "Koujirou Takahashi",
+            "native": "髙橋耕次郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n328461-otlQ6fTY22NV.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 328464,
+        "name": {
+          "full": "Bar Buffalo no Master",
+          "native": "Bar Buffaloのマスター",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328464-fZhbwgnCya1h.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96519,
+          "name": {
+            "full": "Kazuya Ichijou",
+            "native": "一条和矢"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1519.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 347588,
+        "name": {
+          "full": "Rei Utsubo",
+          "native": "宇津帆玲",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b347588-O9Ls5tGKY113.png"
+        },
+        "description": "He is the owner of Taihei Koshinsho. On the surface, he is a good-natured middle-aged man who works to correct dangerous areas in the park for the sake of children. But he is a villain in reality who commits fraud, blackmail, kidnapping, and murder for money.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105987,
+          "name": {
+            "full": "Shinshuu Fuji",
+            "native": "藤真秀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105987-1hmhXNCGLVat.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 328466,
+        "name": {
+          "full": "Yuuki Kawai",
+          "native": "河合ユウキ",
+          "alternative": [
+            "ペ・ダイヨチャ"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328466-HPLYPYLrGiJ0.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95672,
+          "name": {
+            "full": "Yuuki Kaji",
+            "native": "梶裕貴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 328467,
+        "name": {
+          "full": "Etsushi Kainuma",
+          "native": "貝沼悦司",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328467-RCYDk0iULDtX.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106797,
+          "name": {
+            "full": "Takumi Asahina",
+            "native": "朝比奈拓見"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106797-rBZx8whfFUBq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 347591,
+        "name": {
+          "full": "Tsutomo Isaki",
+          "native": "井崎ツトム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b347591-UbJTmHFVH5gg.png"
+        },
+        "description": "Utsubo's new subordinate. He is a mature man who appears to be a gangster. He was once a member of the Maguro clan and was almost the same age as Kuroshio.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 347592,
+          "name": {
+            "full": "Yoshihiro Kanemitsu",
+            "native": "金光祥浩"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n347592-OIfsNdvpd7iG.png"
+          }
+        }
+      ]
+    }
+  ]
+}

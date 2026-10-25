@@ -1,0 +1,637 @@
+{
+  "checkedAt": "2026-10-22T07:58:29.670Z",
+  "batchStatus": "reviewed_with_followups",
+  "checkedCount": 100,
+  "checkedIds": [
+    278296,
+    278298,
+    278300,
+    278301,
+    278302,
+    278388,
+    278391,
+    278395,
+    278396,
+    278397,
+    278398,
+    278439,
+    278440,
+    278441,
+    278459,
+    278620,
+    278623,
+    278624,
+    278625,
+    278626,
+    278661,
+    278662,
+    278663,
+    279025,
+    279367,
+    279430,
+    279505,
+    279506,
+    279507,
+    279508,
+    279603,
+    279926,
+    279935,
+    279936,
+    279937,
+    279996,
+    279999,
+    280002,
+    280003,
+    280005,
+    280138,
+    280139,
+    280421,
+    280422,
+    280423,
+    280424,
+    280454,
+    280467,
+    280468,
+    280560,
+    280561,
+    280564,
+    280874,
+    280915,
+    280941,
+    280942,
+    280944,
+    281109,
+    281110,
+    281196,
+    281197,
+    281203,
+    281250,
+    281251,
+    281394,
+    281395,
+    281396,
+    281397,
+    281398,
+    281400,
+    281625,
+    281763,
+    281764,
+    281839,
+    281883,
+    281887,
+    282074,
+    282075,
+    282076,
+    282236,
+    282328,
+    282329,
+    282356,
+    282618,
+    282621,
+    282716,
+    282717,
+    282718,
+    282748,
+    282967,
+    282968,
+    282969,
+    283056,
+    283057,
+    283058,
+    283059,
+    283066,
+    283100,
+    283233,
+    283234
+  ],
+  "checkedRange": {
+    "firstId": 278296,
+    "lastId": 283234
+  },
+  "profileSnapshotVerifiedCount": 35,
+  "profileDescriptionAvailableCount": 28,
+  "modifiedIds": [
+    278397,
+    278620,
+    279505,
+    279506,
+    279507,
+    279508,
+    280421,
+    280422,
+    280423,
+    280454,
+    281764,
+    281839,
+    281883
+  ],
+  "source": {
+    "name": "AniList GraphQL 角色资料快照（本地缓存 + 2026-10-22 实时补查）",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "voiceMediaFetchedAt": "2026-10-13T03:04:01.115Z",
+    "records": [
+      {
+        "id": 278459,
+        "url": "https://anilist.co/character/278459"
+      },
+      {
+        "id": 278623,
+        "url": "https://anilist.co/character/278623"
+      },
+      {
+        "id": 278624,
+        "url": "https://anilist.co/character/278624"
+      },
+      {
+        "id": 278625,
+        "url": "https://anilist.co/character/278625"
+      },
+      {
+        "id": 278626,
+        "url": "https://anilist.co/character/278626"
+      },
+      {
+        "id": 279367,
+        "url": "https://anilist.co/character/279367"
+      },
+      {
+        "id": 280467,
+        "url": "https://anilist.co/character/280467"
+      },
+      {
+        "id": 280468,
+        "url": "https://anilist.co/character/280468"
+      },
+      {
+        "id": 280560,
+        "url": "https://anilist.co/character/280560"
+      },
+      {
+        "id": 280561,
+        "url": "https://anilist.co/character/280561"
+      },
+      {
+        "id": 280564,
+        "url": "https://anilist.co/character/280564"
+      },
+      {
+        "id": 280874,
+        "url": "https://anilist.co/character/280874"
+      },
+      {
+        "id": 280915,
+        "url": "https://anilist.co/character/280915"
+      },
+      {
+        "id": 280941,
+        "url": "https://anilist.co/character/280941"
+      },
+      {
+        "id": 280942,
+        "url": "https://anilist.co/character/280942"
+      },
+      {
+        "id": 280944,
+        "url": "https://anilist.co/character/280944"
+      },
+      {
+        "id": 281394,
+        "url": "https://anilist.co/character/281394"
+      },
+      {
+        "id": 281395,
+        "url": "https://anilist.co/character/281395"
+      },
+      {
+        "id": 281396,
+        "url": "https://anilist.co/character/281396"
+      },
+      {
+        "id": 281397,
+        "url": "https://anilist.co/character/281397"
+      },
+      {
+        "id": 281398,
+        "url": "https://anilist.co/character/281398"
+      },
+      {
+        "id": 281400,
+        "url": "https://anilist.co/character/281400"
+      },
+      {
+        "id": 281625,
+        "url": "https://anilist.co/character/281625"
+      },
+      {
+        "id": 281887,
+        "url": "https://anilist.co/character/281887"
+      },
+      {
+        "id": 282074,
+        "url": "https://anilist.co/character/282074"
+      },
+      {
+        "id": 282075,
+        "url": "https://anilist.co/character/282075"
+      },
+      {
+        "id": 282076,
+        "url": "https://anilist.co/character/282076"
+      },
+      {
+        "id": 282236,
+        "url": "https://anilist.co/character/282236"
+      },
+      {
+        "id": 282356,
+        "url": "https://anilist.co/character/282356"
+      },
+      {
+        "id": 282716,
+        "url": "https://anilist.co/character/282716"
+      },
+      {
+        "id": 282717,
+        "url": "https://anilist.co/character/282717"
+      },
+      {
+        "id": 282718,
+        "url": "https://anilist.co/character/282718"
+      },
+      {
+        "id": 282748,
+        "url": "https://anilist.co/character/282748"
+      },
+      {
+        "id": 283233,
+        "url": "https://anilist.co/character/283233"
+      },
+      {
+        "id": 283234,
+        "url": "https://anilist.co/character/283234"
+      }
+    ],
+    "round23FetchedAt": "2026-10-22T08:12:12.134Z",
+    "voiceMediaRound23": "2026-10-22T08:13:37.394Z",
+    "voiceStaffSearchRound23B": "2026-10-22T08:42:40.218Z"
+  },
+  "pendingExternalVerificationIds": [],
+  "pendingProfileNoDescriptionIds": [
+    278620,
+    278623,
+    278624,
+    278626,
+    279025,
+    280003,
+    280005,
+    281196,
+    281197,
+    281203,
+    281839,
+    281887,
+    282328,
+    282356,
+    283233,
+    283234
+  ],
+  "pendingShortDescriptionIds": [
+    278620,
+    279505,
+    279506,
+    279507,
+    279508
+  ],
+  "pendingDescriptionQualityIds": [
+    278395,
+    278396,
+    278397,
+    278398,
+    279025,
+    280421,
+    280422,
+    280423,
+    280424,
+    280454,
+    281109,
+    281110,
+    281196,
+    281197,
+    281203,
+    282967,
+    282968,
+    282969
+  ],
+  "pendingTraitVerificationIds": [
+    278395,
+    278396,
+    278397,
+    278398,
+    278620,
+    279025,
+    279367,
+    279996,
+    279999,
+    280002,
+    280003,
+    280005,
+    280421,
+    280422,
+    280423,
+    280424,
+    280454,
+    280467,
+    280468,
+    280874,
+    280941,
+    280942,
+    280944,
+    281109,
+    281110,
+    281196,
+    281197,
+    281203,
+    281396,
+    282074,
+    282236,
+    282716,
+    282717,
+    282718,
+    282748,
+    282967,
+    282968,
+    282969
+  ],
+  "pendingExactGenericTraitIds": [
+    278395,
+    278396,
+    278397,
+    278398,
+    278620,
+    279025,
+    279505,
+    279506,
+    279507,
+    279508,
+    279996,
+    279999,
+    280002,
+    280003,
+    280005,
+    280421,
+    280422,
+    280423,
+    280424,
+    280454,
+    281109,
+    281110,
+    281196,
+    281197,
+    281203,
+    282967,
+    282968,
+    282969
+  ],
+  "pendingVoiceActorIds": [],
+  "pendingVoiceActorImageIds": [],
+  "pendingVisualVerificationIds": [],
+  "pendingColorTraitKeywordIds": [],
+  "pendingImageMismatchIds": [],
+  "localFollowup": {
+    "nicknameIssuesResolved": [
+      278397,
+      278620,
+      279505,
+      279506,
+      279507,
+      279508,
+      280454,
+      281839,
+      281883
+    ],
+    "voiceActorImagesRepaired": [],
+    "characterImagesRefreshed": [
+      280421,
+      280422,
+      280423,
+      281764
+    ],
+    "factualCorrections": [],
+    "searchIndex": {
+      "rebuilt": true,
+      "formulaVerified": true,
+      "descriptionExcluded": true,
+      "mismatchCountBeforeRebuild": 9
+    },
+    "localExportsRegenerated": true,
+    "nicknameAudit": {
+      "checkedCount": 100,
+      "duplicateCountAfter": 0,
+      "canonicalAniListNameMissingAfter": 0
+    },
+    "anilistProfilesRefetched": [
+      278459,
+      278623,
+      278624,
+      278625,
+      278626,
+      279367,
+      280467,
+      280468,
+      280560,
+      280561,
+      280564,
+      280874,
+      280915,
+      280941,
+      280942,
+      280944,
+      281394,
+      281395,
+      281396,
+      281397,
+      281398,
+      281400,
+      281625,
+      281887,
+      282074,
+      282075,
+      282076,
+      282236,
+      282356,
+      282716,
+      282717,
+      282718,
+      282748,
+      283233,
+      283234
+    ],
+    "anilistDescriptionsAvailable": [
+      278459,
+      278625,
+      279367,
+      280467,
+      280468,
+      280560,
+      280561,
+      280564,
+      280874,
+      280915,
+      280941,
+      280942,
+      280944,
+      281394,
+      281395,
+      281396,
+      281397,
+      281398,
+      281400,
+      281625,
+      282074,
+      282075,
+      282076,
+      282236,
+      282716,
+      282717,
+      282718,
+      282748
+    ],
+    "officialAliasesAdded": [],
+    "officialCharacterImagesRefreshed": [],
+    "searchIndexRebuiltForProfileChanges": [],
+    "voiceActorImagesFetchedRound23": [],
+    "voiceActorImagesFetchedAt": "2026-10-22T08:13:37.394Z",
+    "visualImageAuditRound23": {
+      "checkedAt": "2026-10-22T08:32:24.195Z",
+      "source": "逐张检查 AniList 官方角色头像；图片与角色链接见 visual-audit-round23/manifest.json",
+      "reviewedIds": [
+        278620,
+        279505,
+        279506,
+        279507,
+        279508,
+        281883
+      ],
+      "colorCorrections": [
+        {
+          "id": 279505,
+          "name": "伊兰·凯莱斯",
+          "anime": "机动战士高达 水星的魔女",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "绿发",
+            "绿瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279505-4JNsemle78MV.jpg"
+        },
+        {
+          "id": 279506,
+          "name": "盖尔·杰特克",
+          "anime": "机动战士高达 水星的魔女",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "粉发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279506-pZUmhduBLIzf.png"
+        },
+        {
+          "id": 279507,
+          "name": "斯莱塔·墨丘利",
+          "anime": "机动战士高达 水星的魔女",
+          "beforeColorTraits": [
+            "红发",
+            "蓝瞳"
+          ],
+          "afterColorTraits": [
+            "红发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279507-nKzMuTa8fBek.png"
+        },
+        {
+          "id": 279508,
+          "name": "米奥莉奈·兰布兰",
+          "anime": "机动战士高达 水星的魔女",
+          "beforeColorTraits": [
+            "银发",
+            "蓝瞳"
+          ],
+          "afterColorTraits": [
+            "银发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279508-JvHoPuV6NwOs.jpg"
+        },
+        {
+          "id": 281883,
+          "name": "仓本由江",
+          "anime": "我的妹妹小桃子",
+          "beforeColorTraits": [
+            "棕发",
+            "棕色眼瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b281883-lbE8zRUMD4yM.png"
+        }
+      ],
+      "pendingIds": []
+    },
+    "factualCorrectionsRound23": [],
+    "voiceActorImagesResolvedFromAniListStaffRound23B": [
+      {
+        "characterId": 281196,
+        "voiceActor": "邓宥希",
+        "aniListStaffId": 229159
+      },
+      {
+        "characterId": 281197,
+        "voiceActor": "常蓉珊",
+        "aniListStaffId": 217500
+      },
+      {
+        "characterId": 281203,
+        "voiceActor": "唐小喜",
+        "aniListStaffId": 188440
+      },
+      {
+        "characterId": 281839,
+        "voiceActor": "赵熠彤",
+        "aniListStaffId": 165001
+      }
+    ],
+    "voiceActorStaffSearchRound23B": "2026-10-22T08:42:40.218Z",
+    "supabaseSyncRound23B": {
+      "verifiedAt": "2026-10-22T09:08:41.867Z",
+      "voiceActorImagesSynced": 4,
+      "characterIdsSynced": [],
+      "placeholderVoiceActorRemoved": false
+    }
+  },
+  "note": "本轮可唯一对应的 AniList 声优头像已补入；莉莉的残缺及泛化特征已清理。其余待核项仅在来源不足时保留。",
+  "scopeLimitations": [
+    "发色、瞳色没有逐图目视核验。",
+    "短简介、模板简介和泛化特征在缺少可靠事实来源时未改写。",
+    "本次只更新本地文件；Supabase 未同步，远端数据未回读。",
+    "AniList 实时接口仅未返回合成占位 ID 990000001；该记录继续标为待核。",
+    "AniList 未提供简介的角色仍需其他可靠人物资料来源；未根据作品简介推造人物传记。"
+  ],
+  "databaseSync": {
+    "syncedAt": null,
+    "syncedCount": 0,
+    "readbackVerified": false,
+    "status": "not_synced"
+  },
+  "syncAttempt": {
+    "attemptedThisTurn": false,
+    "reason": "本轮仅处理本地缓存与导出，没有向 Supabase 发起写入。"
+  }
+}

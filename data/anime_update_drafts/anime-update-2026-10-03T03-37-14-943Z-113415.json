@@ -1,0 +1,1820 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:37:14.945Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "咒术回战",
+      "id": 126635,
+      "name": "Megumi Fushiguro",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 127212,
+      "name": "Yuuji Itadori",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 127691,
+      "name": "Satoru Gojou",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 133700,
+      "name": "Nobara Kugisaki",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 133699,
+      "name": "Suguru Getou",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 133701,
+      "name": "Sukuna",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 133702,
+      "name": "Mahito",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 133704,
+      "name": "Kento Nanami",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 134167,
+      "name": "Maki Zenin",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 137974,
+      "name": "Panda",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 137975,
+      "name": "Aoi Toudou",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 156991,
+      "name": "Jougo",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 157115,
+      "name": "Toge Inumaki",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 157116,
+      "name": "Chousou",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 157215,
+      "name": "Mei Mei",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 158154,
+      "name": "Shouko Ieiri",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 189237,
+      "name": "Masamichi Yaga",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 189238,
+      "name": "Kiyotaka Ijichi",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 194056,
+      "name": "Nagi Yoshino",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 194074,
+      "name": "Wasuke Itadori",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 200765,
+      "name": "Setsuko Sasaki",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 200767,
+      "name": "Takeshi Iguchi",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 206208,
+      "name": "Sotomura",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 209694,
+      "name": "Haruta Shigemo",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 210062,
+      "name": "Shouta Itou",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 210154,
+      "name": "Koukichi Muta",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 129571,
+      "name": "Yuuta Okkotsu",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 306276,
+      "name": "Taichi Kanada",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "咒术回战",
+      "id": 306282,
+      "name": "Tadashi Okazaki",
+      "reason": "AniList ID 已存在或批次重复"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 113415,
+      "anime_title": "咒术回战",
+      "anime_origin": "JP",
+      "source": {
+        "id": 113415,
+        "titles": [
+          "Jujutsu Kaisen",
+          "JUJUTSU KAISEN",
+          "呪術廻戦",
+          "JJK",
+          "Sorcery Fight",
+          "咒术回战",
+          "주술회전",
+          "มหาเวทย์ผนึกมาร",
+          "جوجوتسو كايسن",
+          "Магическая битва",
+          "咒術迴戰",
+          "Chú Thuật Hồi Chiến"
+        ],
+        "year": 2020,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/113415"
+      },
+      "characters": [
+        {
+          "id": 134168,
+          "name": "Mai Zenin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b134168-FdWz5w2LqpeF.jpg",
+          "description": "",
+          "nicknames": [
+            "Mai Zenin",
+            "禪院真依"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井上麻里奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mai Zenin",
+            "name_native": "禪院真依",
+            "name_alternative": [],
+            "description": "__Height:__ 170 cm (5'7\")\n\nMai Zenin is the younger twin sister of [Maki Zenin](https://anilist.co/character/134167/Maki-Zenin). Mai is a grade 3 sorcerer and a second-year at Kyoto Jujutsu Technical High School. As a child, Mai always relied on Maki since she was afraid of Cursed Spirits. \n\n~!Because Mai and Maki are monozygotic twins, their strength is considerably limited to one another. Monozygotic twins are considered as a single individual in the Jujutsu world and are a sign of bad omen.!~\n\n~!In chapter 149, Mai decides to sacrifice herself in order to make Maki stronger.!~"
+          }
+        },
+        {
+          "id": 156848,
+          "name": "Kasumi Miwa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156848-Rf0tuoQCNyZV.png",
+          "description": "",
+          "nicknames": [
+            "Kasumi Miwa",
+            "三輪霞"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "赤﨑千夏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107652-wHdkKzhetbiH.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kasumi Miwa",
+            "name_native": "三輪霞",
+            "name_alternative": [],
+            "description": "__Species:__ Human\n__Occupation:__ Jujutsu Sorcerer, Student\n__Affiliation:__ Kyoto Metropolitan Curse Technical College\n__Grade:__ Grade 3 Sorcerer\n\nA second-year at Kyoto Metropolitan Curse Technical College. Kasumi is a hard-working, restrained, and considerate pacifist. She is also a big fan of [Satoru Gojo](https://anilist.co/character/127691).\n\n~!She has a very close bond with [Mechamaru](https://anilist.co/character/210154), their friendship is first seen in the Tournament Arc when Miwa offers him a battery telling him not to eat it as [Mai](https://anilist.co/character/134168) and [Momo](https://anilist.co/character/157868) laugh in the background. In the Shibuya Arc, she is seen mourning his death on the train. Over the course of the Tournament Arc and Shibuya Arc it is very apparent their friendship grows as they both strived towards becoming closer to one another. As she mourns his death on the train she holds a mini Mechamaru speaker which tells her to find her happiness. After the recording finishes, she holds the speaker to her heart and cries. The entire Kyoto program seems very distressed by his death on the train. When later entering the battle Miwa is quick to activate her technique out of rage and sadness towards [Mahito](https://anilist.co/character/133702).!~"
+          }
+        },
+        {
+          "id": 157214,
+          "name": "Junpei Yoshino",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157214-ROBNoXVEXRNy.jpg",
+          "description": "",
+          "nicknames": [
+            "Junpei Yoshino",
+            "吉野順平"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山谷祥生",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118591-rOO8iwizHVUV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Junpei Yoshino",
+            "name_native": "吉野順平",
+            "name_alternative": [],
+            "description": "A student at Satozakura High School."
+          }
+        },
+        {
+          "id": 157864,
+          "name": "Utahime Iori",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157864-rejVYNx0kQZr.jpg",
+          "description": "",
+          "nicknames": [
+            "Utahime Iori",
+            "庵歌姫"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日笠陽子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Utahime Iori",
+            "name_native": "庵歌姫",
+            "name_alternative": [],
+            "description": "A first grade sorcerer and a teacher at Kyoto Jujutsu Technical High School."
+          }
+        },
+        {
+          "id": 157865,
+          "name": "Takuma Ino",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157865-X9ENX9OzWevS.jpg",
+          "description": "",
+          "nicknames": [
+            "Takuma Ino",
+            "猪野琢真"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "林勇",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116157-MAPYgEeptEUh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takuma Ino",
+            "name_native": "猪野琢真",
+            "name_alternative": [],
+            "description": "__Species:__ Human\n__Occupation:__ Sorcerer\n__Affiliation:__ Jujutsu High\n__Grade:__ Grade 2 Sorcerer\n\nTakuma Ino is a grade 2 jujutsu sorcerer and a close associate of Kento Nanami who operates out of Tokyo Jujutsu High.\n\nTakuma Ino is a genuine and cheerful person with a more positive outlook on things than most jujutsu sorcerers. He doesn't believe he's the smartest person around and has a lot of respect for Nanami. Whenever Ino finds himself in a tough situation, he asks himself what would Nanami do."
+          }
+        },
+        {
+          "id": 157866,
+          "name": "Noritoshi  Kamo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157866-UWDtYBoG71PD.png",
+          "description": "",
+          "nicknames": [
+            "Noritoshi  Kamo",
+            "加茂憲紀"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日野聡",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "川井田夏海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n151445-3qF3EB619d74.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Noritoshi  Kamo",
+            "name_native": "加茂憲紀",
+            "name_alternative": [],
+            "description": "__Cursed Technique:__ Blood Manipulation\n__Grade:__ Semi-Grade 1 Sorcerer\n\nHe is a third-year at Kyoto Magic Technical College."
+          }
+        },
+        {
+          "id": 157867,
+          "name": "Yoshinobu Gakuganji",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157867-dHdd8ZECuzHx.png",
+          "description": "",
+          "nicknames": [
+            "Yoshinobu Gakuganji",
+            "楽巌寺嘉伸"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "麦人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1436.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yoshinobu Gakuganji",
+            "name_native": "楽巌寺嘉伸",
+            "name_alternative": [],
+            "description": "The principal of Kyoto Jujutsu Technical High School."
+          }
+        },
+        {
+          "id": 157868,
+          "name": "Momo Nishimiya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157868-Ui2Wht3M6tlM.png",
+          "description": "",
+          "nicknames": [
+            "Momo Nishimiya",
+            "西宮桃"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "釘宮理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Momo Nishimiya",
+            "name_native": "西宮桃",
+            "name_alternative": [],
+            "description": "__Species:__ Human\n__Occupation:__ Jujutsu Sorcerer\n__Affiliation:__  Kyoto Magic Technical College\n__Grade:__ Semi-Grade 2 Sorcerer\n__Cursed Technique:__ Tool Manipulation\n\nShe is a third-year at Kyoto Magic Technical College."
+          }
+        },
+        {
+          "id": 172743,
+          "name": "Hanami",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172743-4Y5SXqED6A3G.jpg",
+          "description": "",
+          "nicknames": [
+            "Hanami",
+            "花御"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中敦子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-v07xvA8V2Yeh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hanami",
+            "name_native": "花御 ",
+            "name_alternative": [],
+            "description": "__Species:__ Cursed Spirit\n\nHanami is an antagonist intent on ridding the Earth of Humans and reviving [Sukuna](https://anilist.co/character/133701/Sukuna)."
+          }
+        },
+        {
+          "id": 196502,
+          "name": "Yuki Tsukumo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b196502-aBvtPFr9lGm2.png",
+          "description": "",
+          "nicknames": [
+            "Yuki Tsukumo",
+            "九十九由基",
+            "つくもゆき"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日高のり子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95181-VZKOK4WN0UuO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuki Tsukumo",
+            "name_native": "九十九由基",
+            "name_alternative": [
+              "つくもゆき"
+            ],
+            "description": "One of the four Special Grade Sorcerers."
+          }
+        },
+        {
+          "id": 197119,
+          "name": "Nobuko Takada",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197119-Z2EBJXGTATzN.png",
+          "description": "",
+          "nicknames": [
+            "Nobuko Takada",
+            "高田延子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "黒沢ともよ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106661-xn3K6nAx2ijO.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nobuko Takada",
+            "name_native": "高田延子",
+            "name_alternative": [],
+            "description": "__Height:__ 180 cm\n\nAoi Toudou's favorite idol."
+          }
+        },
+        {
+          "id": 200766,
+          "name": "Seito Kaichou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200766-nVpeCPCSCWZt.jpg",
+          "description": "",
+          "nicknames": [
+            "Seito Kaichou",
+            "生徒会長",
+            "Student Council President"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中島ヨシキ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115096-bge79ik3lOOR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Seito Kaichou",
+            "name_native": "生徒会長",
+            "name_alternative": [
+              "Student Council President"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 200768,
+          "name": "Takagi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b200768-fgIRyfO8ABk2.jpg",
+          "description": "",
+          "nicknames": [
+            "Takagi",
+            "高木"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "杉村憲司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/20178.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takagi",
+            "name_native": "高木",
+            "name_alternative": [],
+            "description": "Takagi is the athletics club advisor teacher at Sugisawa Third High School."
+          }
+        },
+        {
+          "id": 207988,
+          "name": "Juuzou Kumiya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207988-GB9ZpnPA6dWQ.jpg",
+          "description": "",
+          "nicknames": [
+            "Juuzou Kumiya",
+            "組屋鞣造"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "稲田徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Juuzou Kumiya",
+            "name_native": "組屋鞣造",
+            "name_alternative": [],
+            "description": "A curse user who wields an axe."
+          }
+        },
+        {
+          "id": 210831,
+          "name": "Esou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210831-wsucHRbSZjbV.png",
+          "description": "",
+          "nicknames": [
+            "Esou",
+            "壊相",
+            "Eso"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "檜山修之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95257-PgYwsBplRSJa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Esou",
+            "name_native": "壊相",
+            "name_alternative": [
+              "Eso"
+            ],
+            "description": "__Cursed Technique__ Rot\n\nEso is an antagonist in the Jujutsu Kaisen series. He is a Cursed Womb: Death Painting and the middle brother of Choso and Kechizu."
+          }
+        },
+        {
+          "id": 210832,
+          "name": "Kechizu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210832-d1Fg0CePSU86.png",
+          "description": "",
+          "nicknames": [
+            "Kechizu",
+            "血塗"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山口勝平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kechizu",
+            "name_native": "血塗",
+            "name_alternative": [],
+            "description": "__Cursed Technique:__ Rot\n\nKechizu is an antagonist in the Jujutsu Kaisen series. He is a Cursed Womb: Death Painting and the youngest brother of Choso and Eso. Kechizu and Eso serve as the primary antagonists of the Death Painting Arc."
+          }
+        },
+        {
+          "id": 210846,
+          "name": "Akari Nitta",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210846-XcRQ643Ne8Pb.png",
+          "description": "",
+          "nicknames": [
+            "Akari Nitta",
+            "新田明"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "徳井青空",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106361-EMvWLkEKavEM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akari Nitta",
+            "name_native": "新田明",
+            "name_alternative": [],
+            "description": "Akari Nitta is an Auxiliary Manager at Jujutsu High."
+          }
+        },
+        {
+          "id": 222599,
+          "name": "Takeda",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b222599-0eRcr9ezGaN0.png",
+          "description": "",
+          "nicknames": [
+            "Takeda",
+            "武田"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "牛山茂",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102555-M2VcOd9jjdev.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takeda",
+            "name_native": "武田",
+            "name_alternative": [],
+            "description": "Takeda is one of the faculty members at Saitama Urami East Junior High and has been since even before Megumi Fushiguro attended there."
+          }
+        },
+        {
+          "id": 188432,
+          "name": "Naobito Zenin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188432-WePQBJsEuSts.png",
+          "description": "",
+          "nicknames": [
+            "Naobito Zenin",
+            "禪院直毘人"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中田譲治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95091-idoMaN26z80B.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Naobito Zenin",
+            "name_native": "禪院直毘人",
+            "name_alternative": [],
+            "description": "__Species:__ Human\n__Height:__ 184 cm\n__Age:__ Unknown\n__Hair Color:__ Grey\n__Occupation:__ The 26th head of House Zenin\n__Affiliation:__ House Zenin\n__Grade:__ Grade 1 Sorcerer"
+          }
+        },
+        {
+          "id": 193479,
+          "name": "Tsumiki Fushiguro",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b193479-aGNRmbU5jNwR.png",
+          "description": "",
+          "nicknames": [
+            "Tsumiki Fushiguro",
+            "伏黒津美紀"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "早見沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Tsumiki Fushiguro",
+            "name_native": "伏黒津美紀",
+            "name_alternative": [],
+            "description": "~! Megumi's older sister.!~\n\n~! Tsumiki was unknowingly chosen by Kenjaku to be a participant of the Culling Game and made into the incarnated host of Yorozu !~"
+          }
+        },
+        {
+          "id": 197584,
+          "name": "Kinji Hakari",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197584-fK7Jc6DLfx7e.jpg",
+          "description": "",
+          "nicknames": [
+            "Kinji Hakari",
+            "秤金次",
+            "はかり"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kinji Hakari",
+            "name_native": "秤金次",
+            "name_alternative": [
+              "はかり"
+            ],
+            "description": "Kinji Hakari is a character in the Jujutsu Kaisen series. He is a third-year student at Tokyo Jujutsu High who is currently suspended for clashing with authority. While away from the school, Kinji is running a fight club between sorcerers for money."
+          }
+        },
+        {
+          "id": 204383,
+          "name": "Dagon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204383-5oTlVPpaCnM2.jpg",
+          "description": "",
+          "nicknames": [
+            "Dagon",
+            "陀艮",
+            "だごん"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Dagon",
+            "name_native": "陀艮",
+            "name_alternative": [
+              "だごん "
+            ],
+            "description": "__Affiliation:__ Mahito’s group\n\nDagon is a antagonist who starts off as a cursed womb but later turns into a powerful cursed spirit.  He starts off by being accompanied by Jogo and Hanami."
+          }
+        },
+        {
+          "id": 210063,
+          "name": "Hijoushikina Isha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210063-njPW9eSCTeiJ.png",
+          "description": "",
+          "nicknames": [
+            "Hijoushikina Isha",
+            "非常識な医者",
+            "Insane Doctor"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "金尾哲夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108715-zjqghhvQm0qv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Hijoushikina Isha",
+            "name_native": "非常識な医者",
+            "name_alternative": [
+              "Insane Doctor"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 210064,
+          "name": "Sam",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210064-6vFnZA9DoZYl.png",
+          "description": "",
+          "nicknames": [
+            "Sam",
+            "サム"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "林大地",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121241-Vfs2dkk6SLW0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Sam",
+            "name_native": "サム",
+            "name_alternative": [],
+            "description": "Sam is a character from one of the movies Itadori has to see to train to maintain a steady output of cursed energy. It's a reference to Lord of the Rings"
+          }
+        },
+        {
+          "id": 210830,
+          "name": "Uraume",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210830-rJ8LVEvLUqjE.jpg",
+          "description": "",
+          "nicknames": [
+            "Uraume",
+            "裏梅",
+            "Shiraga no Jusoshi (白髪の呪詛師)"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Uraume",
+            "name_native": "裏梅",
+            "name_alternative": [
+              "Shiraga no Jusoshi (白髪の呪詛師)"
+            ],
+            "description": "__Gender:__ Unknown \n\nA  curse user from a thousand years ago who is a direct subordinate to Sukuna."
+          }
+        },
+        {
+          "id": 289584,
+          "name": "Kenjaku",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289584-KndGudJZm5Ik.jpg",
+          "description": "",
+          "nicknames": [
+            "Kenjaku",
+            "羂索"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kenjaku",
+            "name_native": "羂索",
+            "name_alternative": [],
+            "description": "__Species:__ Human\n__Height:__ 183 cm\n__Occupation:__ Curse User\n__Cursed Technique:__ Cursed Spirit Manipulation\n\nKenjaku is one of the primary antagonists of the Jujutsu Kaisen series. He is an ancient sorcerer who pursues the goal of \"evolving\" humanity via cursed energy, thereby ushering in a new golden age of jujutsu sorcery paralleling the Heian Era.\n\n~!Using his cursed technique that allows him to transplant his brain into different bodies to possess them, he has inhabited different people throughout the centuries, assuming different identities.!~\n\n"
+          }
+        },
+        {
+          "id": 306189,
+          "name": "Yubi no Kishu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306189-NB0cd8fgzPYg.png",
+          "description": "",
+          "nicknames": [
+            "Yubi no Kishu",
+            "指の寄主",
+            "Finger Bearer"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤せつじ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100222-gpnWqS86W8RW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Yubi no Kishu",
+            "name_native": "指の寄主",
+            "name_alternative": [
+              "Finger Bearer"
+            ],
+            "description": "Finger Bearers are a type of special grade cursed spirit that emerge from the cursed wombs spawned from eating one of [Sukuna](https://anilist.co/character/133701/Sukuna)'s fingers."
+          }
+        },
+        {
+          "id": 306281,
+          "name": "Tadashi Okazaki no Haha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b306281-2TYVdsokBkIN.png",
+          "description": "",
+          "nicknames": [
+            "Tadashi Okazaki no Haha",
+            "Tadashi Okazaki's Mother"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中村綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n327850-dRscDyny2eaG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Tadashi Okazaki no Haha",
+            "name_native": "",
+            "name_alternative": [
+              "Tadashi Okazaki's Mother"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 322042,
+          "name": "Orizuki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322042-NM7flYaGDuRg.png",
+          "description": "",
+          "nicknames": [
+            "Orizuki",
+            "澱月",
+            "Moon Dregs"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Orizuki",
+            "name_native": "澱月",
+            "name_alternative": [
+              "Moon Dregs"
+            ],
+            "description": "Moon Dregs is a jellyfish shikigami summoned by Junpei Yoshino."
+          }
+        },
+        {
+          "id": 322043,
+          "name": "Garuda",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322043-50p14GPnxFqB.png",
+          "description": "",
+          "nicknames": [
+            "Garuda",
+            "凰輪"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Garuda",
+            "name_native": "凰輪",
+            "name_alternative": [],
+            "description": "Garuda is a shikigami used by Yuki Tsukumo and is connected to her innate technique, Star Rage."
+          }
+        },
+        {
+          "id": 327848,
+          "name": "Kankoshi A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327848-ppDKmMJ2MYRe.png",
+          "description": "",
+          "nicknames": [
+            "Kankoshi A",
+            "看護師A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小松奈生子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n177897-u51gRK07T2eH.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kankoshi A",
+            "name_native": "看護師A",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327851,
+          "name": "Tsumiki no Tomodachi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327851-lOwe68hdmlbP.png",
+          "description": "",
+          "nicknames": [
+            "Tsumiki no Tomodachi",
+            "津美紀の友達"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Tsumiki no Tomodachi",
+            "name_native": "津美紀の友達",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327852,
+          "name": "Ticket Urite",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327852-qQzvfJYuoxpq.png",
+          "description": "",
+          "nicknames": [
+            "Ticket Urite",
+            "チケット売り手"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "長尾明希",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n231069-Vwb59mTwQ3Vw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Ticket Urite",
+            "name_native": "チケット売り手",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327853,
+          "name": "Manager",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327853-YQYinIPa4OsU.png",
+          "description": "",
+          "nicknames": [
+            "Manager",
+            "マネージャー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "関口雄吾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n194506-jeOyxOATW4YZ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Manager",
+            "name_native": "マネージャー",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327854,
+          "name": "Kankoshi B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327854-3seoCbIlcvLX.png",
+          "description": "",
+          "nicknames": [
+            "Kankoshi B",
+            "看護師B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斉藤こず恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163702-d44jMLGOOZMW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kankoshi B",
+            "name_native": "看護師B",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327855,
+          "name": "Kodomo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327855-7lusC0WyZ0N5.png",
+          "description": "",
+          "nicknames": [
+            "Kodomo",
+            "子供"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "Hyang-Ri Kim",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kodomo",
+            "name_native": "子供",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327856,
+          "name": "Sawamura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327856-vErAN3XccXlM.png",
+          "description": "",
+          "nicknames": [
+            "Sawamura",
+            "沢村"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Sawamura",
+            "name_native": "沢村",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327857,
+          "name": "Fujinuma Imouto",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327857-mAfjwycUUmS9.png",
+          "description": "",
+          "nicknames": [
+            "Fujinuma Imouto",
+            "藤沼妹"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "櫻庭有紗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n122482-foDy9FyX0JOM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Fujinuma Imouto",
+            "name_native": "藤沼妹",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327858,
+          "name": "Fujinuma no Yuujin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327858-hjQDB3xT8pmh.png",
+          "description": "",
+          "nicknames": [
+            "Fujinuma no Yuujin",
+            "藤沼の友人"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "虎島貴明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n145949-Uvv1kANbguVE.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Fujinuma no Yuujin",
+            "name_native": "藤沼の友人",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327859,
+          "name": "Aida",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327859-AhV2YpvX52rg.png",
+          "description": "",
+          "nicknames": [
+            "Aida",
+            "アイーダ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "梶川翔平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/108745-q3Rngk5Es6Ni.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Aida",
+            "name_native": "アイーダ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327860,
+          "name": "Fujinuma Otouto",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327860-deFpNmaAR40T.png",
+          "description": "",
+          "nicknames": [
+            "Fujinuma Otouto",
+            "藤沼弟"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松田修平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127680-Lnkhk82o8DTF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Fujinuma Otouto",
+            "name_native": "藤沼弟",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327861,
+          "name": "Itamae",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327861-GzHrgCElevTE.png",
+          "description": "",
+          "nicknames": [
+            "Itamae",
+            "板前"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "拝真之介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n154090-VbzpIPxbXM5q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Itamae",
+            "name_native": "板前",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327862,
+          "name": "Kumo no Noroi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327862-zx57slP3WdTn.png",
+          "description": "",
+          "nicknames": [
+            "Kumo no Noroi",
+            "蜘蛛の呪い"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "関口雄吾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n194506-jeOyxOATW4YZ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kumo no Noroi",
+            "name_native": "蜘蛛の呪い",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327863,
+          "name": "Honda",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327863-gRFn7m3niNp1.png",
+          "description": "",
+          "nicknames": [
+            "Honda",
+            "ホンダ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "福西勝也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175016-ehNBIRIxCScY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Honda",
+            "name_native": "ホンダ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327864,
+          "name": "Tantei B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327864-V54SmtccIlV8.png",
+          "description": "",
+          "nicknames": [
+            "Tantei B",
+            "探偵B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "後藤光祐",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n172194-jfzNJZNCwBnp.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Tantei B",
+            "name_native": "探偵B",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327865,
+          "name": "TV Shikaisha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327865-kSikWO13bTeJ.png",
+          "description": "",
+          "nicknames": [
+            "TV Shikaisha",
+            "テレビ司会者"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中島卓也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142107-tc4KxRPG1m8w.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "TV Shikaisha",
+            "name_native": "テレビ司会者",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327866,
+          "name": "Unten-sha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327866-FniwcTRNpX1C.png",
+          "description": "",
+          "nicknames": [
+            "Unten-sha",
+            "運転者"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Unten-sha",
+            "name_native": "運転者",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327867,
+          "name": "Shachou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327867-eVpSSc1rKe9O.png",
+          "description": "",
+          "nicknames": [
+            "Shachou",
+            "社長"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "天神英貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115987-4t7CGgsuXSjL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Shachou",
+            "name_native": "社長",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327868,
+          "name": "Gakkou-chou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327868-ULa9XWL6spPz.png",
+          "description": "",
+          "nicknames": [
+            "Gakkou-chou",
+            "学校長"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "拝真之介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n154090-VbzpIPxbXM5q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Gakkou-chou",
+            "name_native": "学校長",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327869,
+          "name": "Pan-ya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327869-YkgTuc7RI1Ok.png",
+          "description": "",
+          "nicknames": [
+            "Pan-ya",
+            "パン屋"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "植田千尋",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127647-gyNByy9zeseu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Pan-ya",
+            "name_native": "パン屋",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327870,
+          "name": "Noritoshi no Haha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327870-b6RSUCYvE57t.png",
+          "description": "",
+          "nicknames": [
+            "Noritoshi no Haha",
+            "憲紀の母",
+            "Noritoshi's Mother"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中村千絵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95300-84lMPsAHkPP3.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Noritoshi no Haha",
+            "name_native": "憲紀の母",
+            "name_alternative": [
+              "Noritoshi's Mother"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327871,
+          "name": "Kyoushi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327871-Abtfs6joa4nb.png",
+          "description": "",
+          "nicknames": [
+            "Kyoushi",
+            "教師"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "関口雄吾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n194506-jeOyxOATW4YZ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kyoushi",
+            "name_native": "教師",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327872,
+          "name": "Gal",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327872-n0QcQ6dxEkxC.png",
+          "description": "",
+          "nicknames": [
+            "Gal",
+            "ギャル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岡純子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n177422-AtDQvWmMhx6e.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Gal",
+            "name_native": "ギャル",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327873,
+          "name": "Tantei A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327873-GvYUUiuV5CG1.png",
+          "description": "",
+          "nicknames": [
+            "Tantei A",
+            "探偵A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "拝真之介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n154090-VbzpIPxbXM5q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Tantei A",
+            "name_native": "探偵A",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327874,
+          "name": "Junpei no Doukyuusei B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327874-J1P57mvPUFIb.png",
+          "description": "",
+          "nicknames": [
+            "Junpei no Doukyuusei B",
+            "順平の同級生B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "手塚ヒロミチ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119724-BHqgrwh0AHie.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Junpei no Doukyuusei B",
+            "name_native": "順平の同級生B",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327875,
+          "name": "Manager B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327875-vGfJkymxvVzi.png",
+          "description": "",
+          "nicknames": [
+            "Manager B",
+            "マネージャーB"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "拝真之介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n154090-VbzpIPxbXM5q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Manager B",
+            "name_native": "マネージャーB",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327876,
+          "name": "Takashi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327876-qPUmd6Ab2sLE.png",
+          "description": "",
+          "nicknames": [
+            "Takashi",
+            "たかし"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤田奈央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/125129-9Oci2U6RhdPm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Takashi",
+            "name_native": "たかし",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327877,
+          "name": "Tsubasa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327877-7hCKc4yhaX21.png",
+          "description": "",
+          "nicknames": [
+            "Tsubasa",
+            "つばさ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松田颯水",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119959-dN9jj8PMUmiU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Tsubasa",
+            "name_native": "つばさ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327878,
+          "name": "Sayama",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327878-7QfTl2L4WcxW.png",
+          "description": "",
+          "nicknames": [
+            "Sayama",
+            "狭山"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "吉田丈一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n298660-uhrtJHY2bn9F.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Sayama",
+            "name_native": "狭山",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327879,
+          "name": "Nishimura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327879-8ZoQ8szzH2Ts.png",
+          "description": "",
+          "nicknames": [
+            "Nishimura",
+            "西村"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "吉野貴大",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n293129-ME5JxM1QCMVg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Nishimura",
+            "name_native": "西村",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327880,
+          "name": "Frodo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327880-kvT1dZ7kSNZa.png",
+          "description": "",
+          "nicknames": [
+            "Frodo",
+            "フロド"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "村井雄治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n184624-uVkK5jlcPgpH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Frodo",
+            "name_native": "フロド",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327883,
+          "name": "Waiter",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327883-clvhD5GBSzjz.png",
+          "description": "",
+          "nicknames": [
+            "Waiter",
+            "ウェイター"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "烏丸祐一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116153-APSBkZkC9iK7.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Waiter",
+            "name_native": "ウェイター",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327885,
+          "name": "Junpei no Doukyuusei A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327885-mhnerhHO6Ggs.png",
+          "description": "",
+          "nicknames": [
+            "Junpei no Doukyuusei A",
+            "順平の同級生A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井上雄貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/121423-mmbgaRlmNSIe.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Junpei no Doukyuusei A",
+            "name_native": "順平の同級生A",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327886,
+          "name": "Kankoshi C",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327886-SK2OEp32W8yl.png",
+          "description": "",
+          "nicknames": [
+            "Kankoshi C",
+            "看護師C"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小若和郁那",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n143057-SkqUl27e01XN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kankoshi C",
+            "name_native": "看護師C",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327888,
+          "name": "Waitress",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327888-ftlpXnAh678F.png",
+          "description": "",
+          "nicknames": [
+            "Waitress",
+            "ウェイトレス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松井暁波",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n162412-blAgPbN5hJJg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Waitress",
+            "name_native": "ウェイトレス",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    }
+  ]
+}

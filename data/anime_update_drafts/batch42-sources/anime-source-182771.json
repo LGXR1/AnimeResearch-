@@ -1,0 +1,631 @@
+{
+  "id": 182771,
+  "title": {
+    "romaji": "Odayaka Kizoku no Kyuuka no Susume.",
+    "english": "A Gentle Noble's Vacation Recommendation",
+    "native": "穏やか貴族の休暇のすすめ。"
+  },
+  "synonyms": [
+    "A Mild Noble's Vacation Suggestion"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2026,
+    "month": 1,
+    "day": 8
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Adventure",
+    "Fantasy",
+    "Slice of Life"
+  ],
+  "popularity": 16339,
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 173948,
+        "name": {
+          "full": "Lizel",
+          "native": "リゼル",
+          "alternative": [
+            "Rizel"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b173948-9YNQkeJn63cD.png"
+        },
+        "description": "He was an aristocrat who served as the prime minister of a large nation in a certain world, but one day he was suddenly transported to another world. After being transported to that world, he became an adventurer and decided to enjoy life in another world, calling it a \"vacation\". He has a very calm way of speaking and behaving, and is also endowed with an excellent mind.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 113227,
+          "name": {
+            "full": "Souma Saitou",
+            "native": "斉藤壮馬"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 361186,
+        "name": {
+          "full": "Gil",
+          "native": "ジル",
+          "alternative": [
+            "The Blade (一刀)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b361186-jdB5AwV4Cxqf.png"
+        },
+        "description": "Nicknamed \"The Blade,\" he is the strongest adventurer. He has a mean look in his eyes. He is skilled in human combat and monster subjugation. He also has a high ability to sense presence, making his abilities as an adventurer impeccable. Originally, he was a lone wolf who didn't flatter or obey anyone, but after meeting Lizel, he became his partner.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118908,
+          "name": {
+            "full": "Yuuichirou Umehara",
+            "native": "梅原裕一郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118908-a6LPeZI87Pf9.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 380600,
+        "name": {
+          "full": "Stud",
+          "native": "スタッド",
+          "alternative": [
+            "Absolute Zero"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b380600-BCWOlDAFJj2G.png"
+        },
+        "description": "He is an employee of the Adventurer's Guild in the royal capital of Parteda. He rarely expresses emotions and generally remains expressionless at all times. Due to his emotionless appearance and the ice-element magic he uses, adventurers fear him and call him \"Absolute Zero.\" He is adept at anything from desk work to heavy lifting. He is an old friend of [Judge](https://anilist.co/character/380597/Judge).",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95086,
+          "name": {
+            "full": "Jun Fukuyama",
+            "native": "福山潤"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 380596,
+        "name": {
+          "full": "Eleven",
+          "native": "イレヴン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b380596-3yeST4CvXlJg.png"
+        },
+        "description": "A snake-like beastman. He is a solo adventurer. He has a charming smile, but contrary to his appearance, he has a very aggressive and violent personality. He has the flexibility and speed of a snake itself, and is skilled in the use of weapons.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95167,
+          "name": {
+            "full": "Tetsuya Kakihara",
+            "native": "柿原徹也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95167-wjIShzThRTlS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 380597,
+        "name": {
+          "full": "Judge",
+          "native": "ジャッジ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b380597-j32yYAPsSXYu.png"
+        },
+        "description": "A tall man who runs a tool shop in the royal capital of Parteda. He has a timid personality and is reserved with everyone he interacts with. However, he can also make assertive statements at times. He has an excellent eye for appraisal, and sometimes helps appraise labyrinth items and monster materials brought to the Adventurer's Guild.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 116971,
+          "name": {
+            "full": "Daiki Yamashita",
+            "native": "山下大輝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116971-KDHjlYPO4HrS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 380599,
+        "name": {
+          "full": "Ray",
+          "native": "レイ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b380599-l1PXWo2wDkoA.png"
+        },
+        "description": "A middle-aged nobleman who manages the military police, he holds the title of Viscount. He is sociable and can talk to anyone casually, and does not often abuse his power. Furthermore, his refreshing appearance makes him very popular among the townspeople. He is also a \"labyrinth item collector,\" and acquires items of interest through the Adventurer's Guild and auctions.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95097,
+          "name": {
+            "full": "Kousuke Toriumi",
+            "native": "鳥海浩輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95097-BhSegy6KBLbE.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 380598,
+        "name": {
+          "full": "Shadow",
+          "native": "シャドウ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b380598-wszFkxO0dt8Z.png"
+        },
+        "description": "He is the lord of the commercial city of Marcaid. He is friends with [Insigh](https://anilist.co/character/380601/Insigh). He is extremely busy as he is involved in all economic activities in Marcaid. With a few exceptions, he hides his identity from the people of the territory, so he is almost completely unknown within the territory.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95025,
+          "name": {
+            "full": "Hiroki Yasumoto",
+            "native": "安元洋貴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390840,
+        "name": {
+          "full": "Okami",
+          "native": "女将",
+          "alternative": [
+            "Landlady"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390840-Q5MreDaM1w9f.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102383,
+          "name": {
+            "full": "Mika Kanda",
+            "native": "神田みか"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102383-PZZRZSzquvUu.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 380601,
+        "name": {
+          "full": "Insigh",
+          "native": "インサイ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b380601-wuNdbfqSMuZZ.png"
+        },
+        "description": "[Judge's](https://anilist.co/character/380597/Judge) grandfather, who runs a trading business based in the commercial city of Marcaid. He is renowned as a major merchant who has a great influence on domestic and international logistics. He is skilled at reading the world and proposing new products, and never misses a business opportunity. He dotes on Judge.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95371,
+          "name": {
+            "full": "Kenji Hamada",
+            "native": "浜田賢二"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95371-nyA7w7nPrlPr.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390831,
+        "name": {
+          "full": "Master",
+          "native": "マスター",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390831-pXlpJi8EnQ19.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 131578,
+          "name": {
+            "full": "Ryuunosuke Watanuki",
+            "native": "綿貫竜之介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131578-XYDFui7Rf7M1.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390832,
+        "name": {
+          "full": "Josei Kyaku",
+          "native": "女性客",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390832-bSgZzGkUeorc.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 175559,
+          "name": {
+            "full": "Yui Hashimoto",
+            "native": "橋本結"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n175559-AZRaesQ8QAfw.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390833,
+        "name": {
+          "full": "Shomin A",
+          "native": "庶民A",
+          "alternative": [
+            "Commoner A"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390833-xfowUW95x7V9.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102383,
+          "name": {
+            "full": "Mika Kanda",
+            "native": "神田みか"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102383-PZZRZSzquvUu.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390834,
+        "name": {
+          "full": "Tenshu",
+          "native": "店主",
+          "alternative": [
+            "Shopkeeper"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390834-mKVpDHEutyvi.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 134431,
+          "name": {
+            "full": "Hayato Fujii",
+            "native": "藤井隼"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n134431-cpatR11dneJA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390835,
+        "name": {
+          "full": "Boukensha",
+          "native": "冒険者",
+          "alternative": [
+            "Adventurer"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390835-BRT3uSQ7VQLy.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 125490,
+          "name": {
+            "full": "Wataru Tsuyuzaki",
+            "native": "露崎亘"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/125490-EQFhmtXv4Px6.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390836,
+        "name": {
+          "full": "Shomin B",
+          "native": "庶民B",
+          "alternative": [
+            "Commoner B"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390836-tm5tXVa9Fcz5.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 303039,
+          "name": {
+            "full": "Mikoto Nakai",
+            "native": "中井美琴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n303039-VtEjdndrWRYH.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390837,
+        "name": {
+          "full": "Kowaomote no Boukensha",
+          "native": "強面の冒険者",
+          "alternative": [
+            "Tough-looking Adventurer"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390837-YVmWsd9NhNTG.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105148,
+          "name": {
+            "full": "Shinya Takahashi",
+            "native": "高橋伸也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105148-wgwzwTxAERbM.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390838,
+        "name": {
+          "full": "Ein Nakama B",
+          "native": "アイン仲間B",
+          "alternative": [
+            "Ein's Friend B"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390838-iMitRQdVQRUs.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 125490,
+          "name": {
+            "full": "Wataru Tsuyuzaki",
+            "native": "露崎亘"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/125490-EQFhmtXv4Px6.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 390839,
+        "name": {
+          "full": "Ein",
+          "native": "アイン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390839-Dwdgg9Tbi34M.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 115096,
+          "name": {
+            "full": "Yoshiki Nakajima",
+            "native": "中島ヨシキ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115096-bge79ik3lOOR.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390841,
+        "name": {
+          "full": "Ein Nakama A",
+          "native": "アイン仲間A",
+          "alternative": [
+            "Ein's Friend A"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390841-t4JwrCBTqU9M.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 134431,
+          "name": {
+            "full": "Hayato Fujii",
+            "native": "藤井隼"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n134431-cpatR11dneJA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390842,
+        "name": {
+          "full": "Ken-Heichou",
+          "native": "憲兵長",
+          "alternative": [
+            "Military Police Chief"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b390842-8ezoxHbVZ6EG.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105148,
+          "name": {
+            "full": "Shinya Takahashi",
+            "native": "高橋伸也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105148-wgwzwTxAERbM.png"
+          }
+        }
+      ]
+    }
+  ]
+}

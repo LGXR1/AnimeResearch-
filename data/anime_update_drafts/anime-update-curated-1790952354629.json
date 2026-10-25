@@ -1,0 +1,866 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T14:20:05.946Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 154,
+      "anime_title": "通灵王",
+      "anime_origin": "JP",
+      "source": {
+        "id": 154,
+        "titles": [
+          "Shaman King",
+          "シャーマンキング",
+          "Król szamanów",
+          "שאמן קינג",
+          "Σαμάνος Πρίγκιπας"
+        ],
+        "year": 2001,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/154"
+      },
+      "characters": [
+        {
+          "id": 20857,
+          "name": "穆罕默德·塔巴尔西",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20857-UYYwSC9jTWft.png",
+          "description": "穆罕默德·塔巴尔西是麻仓好阵营的通灵者，常穿阿拉伯风格长袍，组织内部将他视为地位较高的追随者。奉命执行袭击任务时，他往往会带领同伴行动，并与其他好方成员配合对付麻仓叶一行。塔巴尔西在系列后段的团体冲突中出现，代表好麾下来自不同地区的通灵者势力。",
+          "nicknames": [
+            "穆罕默德·塔巴尔西",
+            "Mohammed Tabarsi",
+            "ターバイン",
+            "Turbine",
+            "塔巴尔西",
+            "塔尔拜因"
+          ],
+          "traits": [
+            "麻仓好阵营的通灵者",
+            "常穿阿拉伯风格长袍",
+            "被视为好手下中的高阶成员",
+            "执行任务时会带领同伴",
+            "参与袭击麻仓叶一行的行动",
+            "与多名部下协同行动",
+            "主要出现在通灵王大赛后期冲突",
+            "由田中正彦配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "田中正彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96414-0dvcgzJwFZO4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mohammed Tabarsi",
+            "name_native": "ターバイン",
+            "name_alternative": [
+              "Turbine"
+            ],
+            "description": "Mohammed Tabarsi (Turbine) appears in Arabian robes. He seems to be a high-ranking follower and seems to be very loyal. He's usually the leader of his peers when sent out to make numerous attacks on Yoh's friends. He is later killed by Midori Tamurazaki (Mansumi Oyamada's main henchmen) while fighting Peyote. He along with Peyote were the only two of Hao's henchmen that could not be revived due to their bodies being too damaged to repair, even for revival. Furyoku: 6,500 Origin: Iraq  Turbine's Spirit Mohammad's spirit is Jin(Djinn), a Genie-like being that can successfully perform any task asked of him.  from wikipedia"
+          }
+        },
+        {
+          "id": 20879,
+          "name": "韩赞青",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20879-F9k3xOz6bere.png",
+          "description": "韩赞青是麻仓好的追随者，擅长使用爆炸物。关于他的身世资料不多，已知少年时期曾想成为流行偶像；加入好一方后，他多次参与对叶一行及其他通灵者的战斗，并以爆破手段承担攻击任务。他在系列中的出现也与通灵王大赛后段的团队战有关，表现出好麾下成员各自不同的战斗方式。",
+          "nicknames": [
+            "韩赞青",
+            "Zang-Ching Hang",
+            "ハン・ザンチン",
+            "赞青",
+            "Hang Zang-Ching"
+          ],
+          "traits": [
+            "麻仓好的追随者",
+            "擅长爆炸物",
+            "少年时期曾想成为流行偶像",
+            "多次参与战斗场景",
+            "曾与潘奇兄弟相关队伍交手",
+            "在好一方承担攻击任务",
+            "战斗方式依赖爆破手段",
+            "由上田祐司配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "うえだゆうじ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95058-fGnId7E4tgx3.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zang-Ching Hang",
+            "name_native": "ハン・ザンチン",
+            "name_alternative": [],
+            "description": "Hang Zang-Ching There is not much info on him, only that he wished to be a pop idol when he was young and is an explosives expert. He appears numerous times in numerous fights and is the first to be killed by Peyote's rebellion but was later revived along with Hanagumi. Furyoku: 7,000 He was born on March 16, 1966 Origin: Shanghai,China  Hang Zang-Ching's Spirit Hang Zang-Ching's spirit named Shion-Shion. His over soul turns Shion-Shion into a Chinese-style gong, forming Oversoul Dokurama Neko.  from wikipedia"
+          }
+        },
+        {
+          "id": 20881,
+          "name": "尼克罗姆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20881-yQDgFXPeYmhb.jpg",
+          "description": "尼克罗姆是帕契族第十祭司，曾在哥哥克罗姆被道莲杀死后接替其职位。他进入祭司体系后参与通灵王大赛事务，也因哥哥之死与道莲产生纠葛。尼克罗姆代表帕契族内部并非全然中立的一面：祭司既要维持比赛秩序，也有各自的亲缘和立场。动画中他约在第五十集登场，后续行动与帕契族和参赛者的冲突交织。",
+          "nicknames": [
+            "尼克罗姆",
+            "Nichrom",
+            "ニクロム",
+            "尼克罗姆祭司"
+          ],
+          "traits": [
+            "帕契族的第十祭司",
+            "曾接替哥哥克罗姆的祭司位置",
+            "克罗姆死于道莲之手",
+            "负责通灵王大赛相关事务",
+            "与帕契族祭司体系有关",
+            "对道莲怀有复杂情绪",
+            "在动画中约于第五十集登场",
+            "由伊藤健太郎配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "伊藤健太郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95221-b7nCzXAoQgIy.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nichrom",
+            "name_native": "ニクロム",
+            "name_alternative": [],
+            "description": "Nichrom is the 10th priest of the Patch tribe, in the Anime he first appears in episode 50. Nichrom became the 10th priest after his brother, Chrom the previous 10th priest, was killed by Ren. In the manga, Nichrom was able to kill Ren who was later revived by Iron Maiden Jeanne. Also Nichrom joins up with Hao. What has surprised most fans is Nichrom&#039;s age, since it has been stated that he was eight when he joined the Patch tribe. His spirit is a scorpion (which hasn&#039;t been named) with his medium being a scorpion&#039;s tail. His and his brother&#039;s plant is most likely the cave. He stated in volume 17 of the manga that he is a Vegetarian.    from wikipedia"
+          }
+        },
+        {
+          "id": 20883,
+          "name": "鲍里斯·特佩什·德古拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20883-t72Smn9yeBxT.png",
+          "description": "鲍里斯·特佩什·德古拉自称吸血鬼，其祖先也曾因吸血鬼传闻遭到人类猎杀。麻仓好救下鲍里斯后，他加入好一方，希望向人类复仇。他会把守护灵融入超灵体，借助吸血鬼传说中的力量战斗。鲍里斯的经历让他对人类怀有敌意，也使他容易被麻仓好的“通灵者世界”理念吸引，成为好阵营中带有哥特风格的成员。",
+          "nicknames": [
+            "鲍里斯·特佩什·德古拉",
+            "Boris Tepes Dracula",
+            "ボリス・ツエペシユ・ドラキユラ",
+            "鲍里斯",
+            "德古拉"
+          ],
+          "traits": [
+            "麻仓好阵营的通灵者",
+            "自称吸血鬼",
+            "家族祖先曾因吸血鬼传闻遭追捕",
+            "被麻仓好救下后加入其阵营",
+            "怀着向人类复仇的念头",
+            "战斗时使用超灵体",
+            "守护灵与吸血鬼传说相关",
+            "由石井康嗣配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "石井康嗣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95045-xvCXMLXwg44s.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Boris Tepes Dracula",
+            "name_native": "ボリス・ツエペシユ・ドラキユラ",
+            "name_alternative": [],
+            "description": "He claims to be a vampire, and his ancestors were seen as vampires and hunted because of it. Hao saves him and he decides to join Hao, wishing to claim revenge on humanity. He imbues his oversoul, Bramro, with blood to create a cape with wings.\n\n~!He is defeated by Ryu, then killed by Marco from the X-Laws.!~"
+          }
+        },
+        {
+          "id": 29629,
+          "name": "皮诺·格雷厄姆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29629-mZpWtW8K07w3.png",
+          "description": "皮诺·格雷厄姆是来自爱尔兰的通灵者，也是“冰人”队伍的首领。他的守护灵是爱尔兰神话中的乌鸦女神巴德布，能够借助其力量冻结周围事物，使冰雪成为主要战斗手段。皮诺带领同伴参加通灵王大赛，在团队战中负责指挥和攻击。他的队伍以冰系能力见长，与其他地区的通灵者队伍形成鲜明风格差异。",
+          "nicknames": [
+            "皮诺·格雷厄姆",
+            "Pino Graham",
+            "ピノ・グレアム",
+            "皮诺",
+            "冰人队长"
+          ],
+          "traits": [
+            "来自爱尔兰的通灵者",
+            "冰人队伍的首领",
+            "守护灵是爱尔兰乌鸦女神巴德布",
+            "可以借守护灵操纵寒冰",
+            "战斗能力与冻结环境有关",
+            "带领队伍参加通灵王大赛",
+            "与同伴共同对抗其他队伍",
+            "由千叶进步配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "千葉進歩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95260-pKyM0LbhEznc.png",
+              "language": "日语"
+            },
+            {
+              "name": "水樹奈々",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95081-qto4UanYkpQT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pino Graham",
+            "name_native": "ピノ・グレアム",
+            "name_alternative": [],
+            "description": "Pino Graham is the leader of of The Iceman from Ireland. The spirit he controls is Badbh, an Irish crow goddess that allows him to freeze anyhting."
+          }
+        },
+        {
+          "id": 33416,
+          "name": "阿希尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33416-mZMo1cuOYMip.png",
+          "description": "阿希尔是麻仓好的追随者，英文版动画也曾称他为巴西尔。他性格自信，曾认为击败麻仓叶和同伴并不困难，因此参与对叶一行的袭击。战斗中，他低估了对手的实力，后来遭到X-LAWS天使部队的介入和打击。阿希尔是麻仓好阵营较早出场的部下之一，其遭遇显示即使追随好，也无法避免与其他强大势力正面冲突。",
+          "nicknames": [
+            "阿希尔",
+            "Ashil",
+            "アシル",
+            "Ashiru",
+            "Basil",
+            "巴西尔"
+          ],
+          "traits": [
+            "麻仓好的追随者",
+            "英文配音版本也称巴西尔",
+            "参与袭击麻仓叶一行",
+            "性格自信甚至有些自负",
+            "低估叶一行的战斗能力",
+            "在天使部队介入后遭到击败",
+            "属于好方早期出场的部下",
+            "由宫田幸季配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "宮田幸季",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95344-wYgLhxYeWEp4.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ashil",
+            "name_native": "アシル",
+            "name_alternative": [
+              "Ashiru",
+              "Basil"
+            ],
+            "description": "Ashil (Known as Basil in the English dub) is a follower of Hao who took Boris&#039; role of being the first on screen victim of the Archangels. Ashil was rather cocky, believing it would be easy to kill Yoh and his friends because of his easily regenerating spirit. Ashil was also revealed as having deep feelings for Hao. Ashil is jealous of Hao&#039;s interest in Yoh, allowing his deeper feelings to overpower his loyalty. He defied Hao by trying to &quot;accidentally&quot; kill Yoh when he was ordered to have Yoh live. He is killed by the X-Laws."
+          }
+        },
+        {
+          "id": 34029,
+          "name": "麻仓叶明",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34029-ydxncupzmSZK.png",
+          "description": "麻仓叶明是麻仓叶的外祖父，曾担任麻仓家家主，是熟悉阴阳术和家族秘法的资深通灵者。他与妻子木乃一起参与安排叶的成长和训练，也了解麻仓家与麻仓好之间延续多代的宿命。叶明在家族事务中承担长辈和指导者的角色，帮助年轻一代面对通灵王大赛及麻仓家长期以来的责任。",
+          "nicknames": [
+            "麻仓叶明",
+            "Youmei Asakura",
+            "麻倉葉明",
+            "叶明",
+            "麻仓家主"
+          ],
+          "traits": [
+            "麻仓叶的外祖父",
+            "曾担任麻仓家家主",
+            "是麻仓家资深通灵者",
+            "熟悉阴阳术与家族秘法",
+            "参与安排叶的成长训练",
+            "与妻子木乃共同生活",
+            "关心麻仓家与麻仓好的宿命",
+            "由青野武配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "青野武",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95142-73E1XmGOOmhG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Youmei Asakura",
+            "name_native": "麻倉葉明",
+            "name_alternative": [],
+            "description": "Asakura Yohmei(麻倉葉明, Asakura Yōmei) is a fictional character in the anime and manga series Shaman King. He is Asakura Yoh's maternal grandfather and he is the current head of the Asakura Family.  Yohmei is an onmyōji who specializes in divination, and fortune telling. His abilities are so skilled that he is employed by numerous important politicians. However, as explained by himself, the future cannot be seen clearly and as such he can only gaze into what might be a possible future.  [source: shamanking.wikia.com]"
+          }
+        },
+        {
+          "id": 35349,
+          "name": "佐莉娅·加加里克",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35349-8aVZsjwhxoAD.png",
+          "description": "佐莉娅·加加里克是一名来自俄罗斯的女性通灵者，作品没有明确说明她的本名，其称呼可能取自俄罗斯神话中的女神。她的能力在苏联解体前的心理实验中被唤醒，守护灵是水妖沃佳诺伊。佐莉娅后来加入麻仓好一方，在战斗中使用与水域灵体相关的力量。她的背景把超能力实验和通灵者世界联系起来，也补充了好阵营成员来自不同国家的设定。",
+          "nicknames": [
+            "佐莉娅·加加里克",
+            "Zorya Gagarik",
+            "ゾリャー・ガガーリク",
+            "Zria",
+            "佐莉娅",
+            "佐莉亚"
+          ],
+          "traits": [
+            "来自俄罗斯的女性通灵者",
+            "姓名可能取自俄罗斯神话女神",
+            "真实姓名未明确说明",
+            "能力与苏联时期的心理实验有关",
+            "童年曾遭遇实验影响",
+            "守护灵是水妖沃佳诺伊",
+            "隶属麻仓好一方",
+            "由胜生真沙子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "勝生真沙子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95342-pC8tGadzfTNb.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zorya Gagarik",
+            "name_native": "ゾリャー・ガガーリク",
+            "name_alternative": [
+              "Zria"
+            ],
+            "description": "A Russian female shaman with no real name (and appears to be named after a Russian goddess), her abilities were awakened by psychic experimentation prior to the fall of the Soviet Union. Her Guardian Ghost is Vodyanoy, allows her to release water against a target, usually to be frozen by Pino. Zria is named for the Zorya of Slavic mythology, as well as Gari Gari Kun ice pop's and Yuri Gagarin."
+          }
+        },
+        {
+          "id": 38760,
+          "name": "麻仓茎子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b38760-6eChum0ojf9m.png",
+          "description": "麻仓茎子是麻仓叶的母亲，也是麻仓干久的妻子，属于麻仓家族。她与丈夫共同抚养叶，并生活在拥有通灵者传统的家族环境中。作品对茎子的个人能力和经历着墨不多，她主要以叶的母亲身份出现在家族关系线中；她与叶明、木乃等长辈共同构成麻仓家长辈一代，为叶成长和家族背景提供家庭层面的联系。",
+          "nicknames": [
+            "麻仓茎子",
+            "Keiko Asakura",
+            "麻倉茎子",
+            "茎子",
+            "麻仓叶的母亲"
+          ],
+          "traits": [
+            "麻仓叶的母亲",
+            "是麻仓干久的妻子",
+            "属于麻仓家族",
+            "与丈夫共同抚养叶",
+            "家族成员具有通灵者背景",
+            "在家族生活中承担母亲角色",
+            "与叶明和木乃等长辈有关联",
+            "由土井美加配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "土井美加",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95155-hLCyqylRTNOo.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Keiko Asakura",
+            "name_native": "麻倉茎子",
+            "name_alternative": [],
+            "description": "Asakura Keiko is Mikihisa's wife and Yoh's mother.   (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 210713,
+          "name": "喪助",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b210713-sM49aufk0CaN.png",
+          "description": "喪助是阿弥陀丸生前的朋友，也是一名刀匠，曾为他锻造名刀春雨。两人约定日后重逢，但喪助未能平安赴约，阿弥陀丸因此带着遗憾死去。多年后，麻仓叶一行追查春雨的来历，让这段往事重新浮现。喪助虽然主要出现在回忆中，却是阿弥陀丸与叶建立伙伴关系、春雨成为战斗媒介的重要连接人物。",
+          "nicknames": [
+            "喪助",
+            "Mosuke",
+            "莫助",
+            "锻刀师莫助"
+          ],
+          "traits": [
+            "阿弥陀丸生前的友人",
+            "身份是刀匠",
+            "负责锻造名刀春雨",
+            "与阿弥陀丸约定再见",
+            "在等待约定时遭遇不测",
+            "死后成为灵体",
+            "春雨是叶战斗的重要媒介",
+            "他的往事连接阿弥陀丸与春雨的来历"
+          ],
+          "voice_actors": [
+            {
+              "name": "江川央生",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96481-7houCLOMkp3g.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mosuke",
+            "name_native": "喪助",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 220235,
+          "name": "托纳·帕皮克·卡迪马希德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b220235-WWqJNBr7xikN.png",
+          "description": "托纳·帕皮克·卡迪马希德来自冰岛阿克拉内斯，是“冰人”队伍的通灵者成员。他与皮诺·格雷厄姆及其他队友一同参加通灵王大赛，代表团队投入比赛和战斗。关于托纳个人能力的公开资料有限，目前可确认的重点是他的家乡、通灵者身份和队伍归属；他在作品中的定位体现了冰人团队由不同地区成员组成的设定。",
+          "nicknames": [
+            "托纳·帕皮克·卡迪马希德",
+            "Tona Papik Cadimahide",
+            "トナ・パピク・カジマヒデ",
+            "托纳",
+            "卡迪马希德"
+          ],
+          "traits": [
+            "来自冰岛阿克拉内斯的通灵者",
+            "属于冰人队伍",
+            "是冰人团队成员之一",
+            "参与通灵王大赛的队伍战",
+            "与皮诺·格雷厄姆等队友同行",
+            "来自北大西洋岛国",
+            "以冰人队伍身份代表团队参赛",
+            "由石井康嗣配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "江川央生",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96481-7houCLOMkp3g.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tona Papik Cadimahide",
+            "name_native": "トナ・パピク・カジマヒデ",
+            "name_alternative": [],
+            "description": "He is a shaman from Akranes, Iceland and is a member of The Icemen."
+          }
+        },
+        {
+          "id": 223243,
+          "name": "戈尔德巴",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223243-xamtKYgPCrU4.png",
+          "description": "戈尔德巴是帕契族族长，负责维持部族传统，并参与通灵王大赛相关事务。作为帕契族的重要长辈，她掌握比赛历史和规则，也见证参赛者与帕契族之间的冲突不断升级。戈尔德巴的职责不同于具体负责考核选手的祭司，她从族群领导者角度看待大赛及麻仓好的威胁，是帕契族组织体系中的关键人物。",
+          "nicknames": [
+            "戈尔德巴",
+            "Goldva",
+            "ゴルドバ",
+            "戈尔德瓦",
+            "帕契族族长"
+          ],
+          "traits": [
+            "帕契族的族长",
+            "负责维持部族传统",
+            "参与通灵王大赛的管理",
+            "拥有祭司体系之外的领导职责",
+            "见证参赛者与帕契族的冲突",
+            "掌握大赛历史与规则",
+            "是帕契族的重要长辈",
+            "由铃木玲子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴木れい子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101504-v5pnjcD80zDL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Goldva",
+            "name_native": "ゴルドバ",
+            "name_alternative": [],
+            "description": "She is the Chieftess of the Patch Tribe."
+          }
+        },
+        {
+          "id": 231316,
+          "name": "杉本良",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231316-pOKc9rXEZpgM.png",
+          "description": "杉本良是BoZ兄弟成员之一，与米田善组成双人组合，二人以摇滚和尚的形象活动。他们加入麻仓好一方并参加通灵王大赛，所属队伍为土组。良会与搭档共同表演，也参与队伍间的战斗和对抗。BoZ兄弟把音乐表演与通灵者身份结合起来，为大赛中各具特色的团队增加了摇滚风格的一支。",
+          "nicknames": [
+            "杉本良",
+            "Ryou Sugimoto",
+            "杉本 良",
+            "良",
+            "BoZ兄弟良"
+          ],
+          "traits": [
+            "BoZ兄弟成员之一",
+            "与米田善组成双人组合",
+            "隶属麻仓好一方",
+            "参加通灵王大赛",
+            "以摇滚和尚组合身份活动",
+            "所属队伍为土组",
+            "与搭档共同表演和战斗",
+            "由小野坂昌也配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "小野坂昌也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95173-LIuN04REF5eA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ryou Sugimoto",
+            "name_native": "杉本良",
+            "name_alternative": [],
+            "description": "He is one of The BoZ Brothers. They are two of Hao's followers and a group of rock monks. He is part of Team \"Tsuchi-Gumi\"."
+          }
+        },
+        {
+          "id": 231317,
+          "name": "米田善",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231317-HyQU60b2lzZY.png",
+          "description": "米田善是BoZ兄弟成员之一，与杉本良组成双人组合，二人以摇滚和尚的形象示人。他们站在麻仓好一方，参加通灵王大赛并编入土组。善和良在比赛中共同表演，也参与队伍之间的交锋；音乐组合与僧侣装束构成他们鲜明的外在特征。两人作为搭档行动，展现了大赛选手以不同职业和表演形式结合通灵术的设定。",
+          "nicknames": [
+            "米田善",
+            "Zen Yoneda",
+            "米田 善",
+            "善",
+            "BoZ兄弟善"
+          ],
+          "traits": [
+            "BoZ兄弟成员之一",
+            "与杉本良组成双人组合",
+            "隶属麻仓好一方",
+            "参加通灵王大赛",
+            "以摇滚和尚组合身份活动",
+            "所属队伍为土组",
+            "会与搭档共同表演",
+            "由桧山修之配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "檜山修之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95257-PgYwsBplRSJa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zen Yoneda",
+            "name_native": "米田善",
+            "name_alternative": [],
+            "description": "He is one of The BoZ Brothers. They are two of Hao's followers and a group of rock monks. He is part of Team \"Tsuchi-Gumi\"."
+          }
+        },
+        {
+          "id": 236245,
+          "name": "达玛雅吉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b236245-2PZakHi8x0pE.png",
+          "description": "达玛雅吉是麻仓好阵营的通灵者和追随者之一，主要出现在通灵王大赛后段的团队冲突中。他与好麾下其他成员共同活动，承担协助阵营行动的角色。现有官方人物资料没有展开他的独立身世或守护灵细节，因此本条仅记录已确认的阵营、作品位置和配音信息，不臆测未公开的能力与经历。",
+          "nicknames": [
+            "达玛雅吉",
+            "Damayaji",
+            "ダマヤジ",
+            "山田光司 (Kouji Yamada)",
+            "达玛雅吉祭司"
+          ],
+          "traits": [
+            "麻仓好阵营的通灵者",
+            "是好麾下的追随者之一",
+            "参与通灵王大赛相关冲突",
+            "与其他好方成员共同活动",
+            "出现在大赛后段的团队事件",
+            "承担协助阵营行动的角色",
+            "资料中未提供独立详细身世",
+            "由坂口候一配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "坂口候一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96145-5FqzsN2pOiB4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Damayaji",
+            "name_native": "ダマヤジ",
+            "name_alternative": [
+              "山田光司 (Kouji Yamada)"
+            ],
+            "description": "One of Hao's followers."
+          }
+        },
+        {
+          "id": 243192,
+          "name": "克里斯·文斯塔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243192-fgtizVQRW5Zh.png",
+          "description": "克里斯·文斯塔是X-LAWS成员，也是X-III小队的队长。他曾在军队服役，有在中东参与反恐行动的经历，因此拥有实际军事作战经验。加入X-LAWS后，克里斯带领小队参加讨伐麻仓好的行动，并与组织成员协同作战。他的角色背景强调现实军旅训练与通灵术结合，使X-LAWS能够以小队形式执行高风险任务。",
+          "nicknames": [
+            "克里斯·文斯塔",
+            "Chris Venstar",
+            "クリス・ブンスター",
+            "克里斯",
+            "文斯塔"
+          ],
+          "traits": [
+            "X-LAWS成员",
+            "是X-III小队队长",
+            "曾在军队服役",
+            "有在中东对抗恐怖组织的经历",
+            "拥有军事行动经验",
+            "参与讨伐麻仓好的战斗",
+            "与X-LAWS成员共同执行任务",
+            "由佐佐木诚二配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐々木誠二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100439-OBOGjSKuPxAB.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chris Venstar",
+            "name_native": "クリス・ブンスター",
+            "name_alternative": [],
+            "description": "He is a member of the X-Laws and is a part of and the team leader of Team \"X-III\". He once served in the military fighting off terrorists in the middle east."
+          }
+        },
+        {
+          "id": 243193,
+          "name": "波尔夫·格里菲斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243193-lkDWWOpbbesw.png",
+          "description": "波尔夫·格里菲斯是X-LAWS的X-II小队成员，过去曾在美国三角洲部队服役。和其他X-LAWS成员一样，他也曾因麻仓好而失去重要事物，因此加入组织参加讨伐行动。波尔夫拥有特种部队训练经验，能与小队成员配合执行战斗任务。他的军旅背景和个人创伤共同推动其对麻仓好的敌意。",
+          "nicknames": [
+            "波尔夫·格里菲斯",
+            "Porf Griffith",
+            "ポーフ・グリフイス",
+            "波尔夫",
+            "格里菲斯"
+          ],
+          "traits": [
+            "X-LAWS成员",
+            "隶属X-II小队",
+            "曾是美国三角洲部队成员",
+            "因麻仓好而遭受重大创伤",
+            "带着复仇情绪加入讨伐行动",
+            "接受过特种部队训练",
+            "与X-LAWS队友协同战斗",
+            "由子安武人配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Porf Griffith",
+            "name_native": "ポーフ・グリフイス",
+            "name_alternative": [],
+            "description": "A member of the X-Laws and Team \"X-II\", Porf has, like the rest of the X-Laws, suffered in some way by the hands of Asakura Hao. He was once a member of the U.S. Delta Forces."
+          }
+        },
+        {
+          "id": 243194,
+          "name": "拉奇·迪拉克",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243194-RKJ7wGWw74w8.png",
+          "description": "拉奇·迪拉克是X-LAWS的X-II小队成员，曾在美国三角洲部队服役，拥有特种作战训练背景。他的守护灵是大天使乌列尔，能将军事行动经验与灵体力量结合。拉奇参与组织针对麻仓好的讨伐行动，并与波尔夫等队友共同执行任务。X-LAWS队员的军事背景使他在团队战中兼具战术纪律和通灵者的攻击能力。",
+          "nicknames": [
+            "拉奇·迪拉克",
+            "Larch Dirac",
+            "ラーキ・ディラック",
+            "拉奇",
+            "迪拉克"
+          ],
+          "traits": [
+            "X-LAWS成员",
+            "隶属X-II小队",
+            "曾在美国三角洲部队服役",
+            "接受过特种作战训练",
+            "守护灵是大天使乌列尔",
+            "参与针对麻仓好的行动",
+            "与队友协同执行任务",
+            "由麻生智久配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "麻生智久",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95854-DovWtfrg4gRV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Larch Dirac",
+            "name_native": "ラーキ・ディラック",
+            "name_alternative": [],
+            "description": "He is a member of the X-Laws and Team \"X-II\" and he was once a member of U.S. Delta Forces. His guardian ghost is Archangel Uriel."
+          }
+        },
+        {
+          "id": 264936,
+          "name": "阿纳特尔·波基",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264936-symgW5Gi0Vi8.png",
+          "description": "阿纳特尔·波基是尼罗河队伍成员，擅长处理木乃伊与遗体防腐，在队友中被认为是技艺高超的防腐师。他与纳克特、卡夫拉等伙伴一同参加通灵王大赛，队伍以古埃及文化为主题。阿纳特尔在团队中承担与木乃伊相关的专长，也参与队伍战斗和比赛任务。他的职业技能为尼罗河队伍带来独特的战斗媒介。",
+          "nicknames": [
+            "阿纳特尔·波基",
+            "Anatel Pokki",
+            "アナテル・ポッキ",
+            "Anathel",
+            "阿纳特尔",
+            "波基"
+          ],
+          "traits": [
+            "尼罗河队伍成员",
+            "来自埃及相关队伍",
+            "擅长处理木乃伊和遗体",
+            "被队友称作优秀的防腐师",
+            "参与通灵王大赛",
+            "与纳克特和卡夫拉等队友同行",
+            "以古埃及主题装束出现",
+            "由挂川裕彦配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "掛川裕彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102664-hDenVljsoR8F.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Anatel Pokki",
+            "name_native": "アナテル・ポッキ",
+            "name_alternative": [
+              "Anathel"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 264939,
+          "name": "奥罗纳",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264939-cC9RkAlWcYj1.png",
+          "description": "奥罗纳曾是巧克力爱·麦克丹尼尔的导师，也是一名喜剧表演者。乔可乐年少时在雪夜遇见奥罗纳，随后跟随他学习如何以幽默面对生活与他人。奥罗纳过去拥有美洲豹灵体麦克，之后将麦克交给乔可乐作为守护伙伴。他的教导改变了乔可乐看待世界的方式，使喜剧成为乔可乐战斗和建立关系的重要部分。",
+          "nicknames": [
+            "奥罗纳",
+            "Orona",
+            "オロナ",
+            "Orona Mincy",
+            "Olona",
+            "乔可乐的师父"
+          ],
+          "traits": [
+            "曾是巧克力爱的导师",
+            "是一名喜剧表演者",
+            "在雪夜遇见年少的乔可乐",
+            "教导弟子以幽默面对生活",
+            "曾拥有美洲豹灵体麦克",
+            "将麦克交给乔可乐作为伙伴",
+            "对乔可乐的成长影响深远",
+            "由土师孝也配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "土師孝也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100427-rXj5mx6gGNfH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Orona",
+            "name_native": "オロナ",
+            "name_alternative": [
+              "Orona Mincy",
+              "Olona"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 289806,
+          "name": "纳克特·皮特拉哈斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289806-AuMiMw3QqxkC.jpg",
+          "description": "纳克特·皮特拉哈斯是尼罗河队伍成员，和阿纳特尔·波基、卡夫拉·普尔吉斯等伙伴一同参加通灵王大赛。队伍以古埃及文化为主题，在比赛中参与团队战斗。现有官方简介只明确他的队伍归属，没有提供详细的个人经历或守护灵设定，因此本条围绕参赛身份、团队关系和作品定位整理资料，不补写未经确认的能力。",
+          "nicknames": [
+            "纳克特·皮特拉哈斯",
+            "Nakht Pitrahas",
+            "ナクト・ピトラ",
+            "纳克特",
+            "尼罗河队纳克特"
+          ],
+          "traits": [
+            "尼罗河队伍成员",
+            "参加通灵王大赛",
+            "与古埃及主题队伍同行",
+            "队伍成员包括阿纳特尔与卡夫拉",
+            "在比赛中参与团队战斗",
+            "名字采用古埃及风格",
+            "角色背景资料较少",
+            "由上田祐司配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "うえだゆうじ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95058-fGnId7E4tgx3.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nakht Pitrahas",
+            "name_native": "ナクト・ピトラ",
+            "name_alternative": [],
+            "description": "Nakht is part of Team \"Niles\"."
+          }
+        },
+        {
+          "id": 289807,
+          "name": "卡夫拉·普尔吉斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289807-RkjRrgar5eSU.jpg",
+          "description": "卡夫拉·普尔吉斯是尼罗河队伍成员，参加通灵王大赛时与纳克特和阿纳特尔·波基同行。阿纳特尔认为卡夫拉是非常出色的防腐师，因此他与队伍的木乃伊和遗体处理专长有关。卡夫拉参与团队比赛与战斗，名字也采用古埃及法老风格。除了队伍身份和防腐技艺，官方资料没有进一步说明他的个人经历。",
+          "nicknames": [
+            "卡夫拉·普尔吉斯",
+            "Khafre Puljiz",
+            "カフラー・プリツ",
+            "卡夫拉",
+            "普尔吉斯"
+          ],
+          "traits": [
+            "尼罗河队伍成员",
+            "参加通灵王大赛",
+            "与纳克特和阿纳特尔同行",
+            "擅长古埃及式防腐技术",
+            "被阿纳特尔认为是优秀防腐师",
+            "参与团队比赛与战斗",
+            "名字取自古埃及法老意象",
+            "由千叶进步配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "千葉進歩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95260-pKyM0LbhEznc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Khafre Puljiz",
+            "name_native": "カフラー・プリツ",
+            "name_alternative": [],
+            "description": "Khafre is part of Team \"Niles\". Anatel considers him to be the best embalmer ever."
+          }
+        }
+      ]
+    }
+  ]
+}

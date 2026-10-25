@@ -1,0 +1,880 @@
+{
+  "fetchedAt": "2026-10-15T12:37:12.126Z",
+  "id": 101024,
+  "title": {
+    "romaji": "Radiant",
+    "english": "RADIANT",
+    "native": "ラディアン"
+  },
+  "synonyms": [],
+  "format": "TV",
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "description": "Seth dreams of being a great sorcerer. He wants to be powerful and defeat the Némésis, monsters that come down from the sky. But his eagerness constantly gets him into trouble. He can’t seem to avoid angering the villagers and even his guardian, Alma. One day, an enormous Némésis really attacks the village! Determined to save the world, Seth embarks on a journey in search for the “Radiant,” the legendary lair of the Némésis. Making new friends, fighting tough enemies, and confronting hardships, Seth’s adventure begins!\n<br><br>\n(Source: Crunchyroll)",
+  "siteUrl": "https://anilist.co/anime/101024",
+  "characters": [
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 36309,
+        "name": {
+          "full": "Narrator",
+          "native": "ナレーター",
+          "alternative": [
+            "Katarite (語り手)",
+            "Narration (ナレーション)",
+            "Narrador",
+            "Rozprávač",
+            "Vyprávěč",
+            "Dış ses",
+            "Narratore",
+            "Pripovjedač",
+            "Narradora",
+            "Рассказчик",
+            "Người dẫn chuyện",
+            "Tagapagsalaysay",
+            "내레이터",
+            "Narratore",
+            "Erzählperson",
+            "מספר",
+            "Narrátor",
+            "讲述人",
+            "راوي",
+            "Forteller",
+            "Berättare",
+            "Αφηγητής",
+            "Narrate"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+        },
+        "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95137,
+          "name": {
+            "full": "Shou Hayami",
+            "native": "速水奨"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95137-2Q5l3Br9G7sk.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 128547,
+        "name": {
+          "full": "Seth",
+          "native": "セト",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128547-4KYhoYlYU4hi.png"
+        },
+        "description": "Seth is a horned orphan of the \"Infected\" people, he lives with his adoptive mother Alma. He wishes to fight the Nemesis and his recklessness gets him into trouble. It isn't until he learns of the existence of \"Radiant,\" the being of the Nemesis monsters he wishes to fight and destroy.\n\nHe attends the Artemis Institute to get himself closer to defeating the Radiant.\n\n~!He's the brother of [Piodon](https://anilist.co/character/144302/Piodon) and [Diabal](https://anilist.co/character/214826/Diabal)!~",
+        "gender": "Male",
+        "age": "15"
+      },
+      "voiceActors": [
+        {
+          "id": 116543,
+          "name": {
+            "full": "Yumiri Hanamori",
+            "native": "花守ゆみり"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116543-ugu1HZWiQkqi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 128549,
+        "name": {
+          "full": "Melie",
+          "native": "メリ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b128549-vZ1cVnTkWj3r.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": "15"
+      },
+      "voiceActors": [
+        {
+          "id": 101686,
+          "name": {
+            "full": "Aoi Yuuki",
+            "native": "悠木碧"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144296,
+        "name": {
+          "full": "Grimm",
+          "native": "グリム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144296-6tIOmMlE8JJg.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95160,
+          "name": {
+            "full": "Takehito Koyasu",
+            "native": "子安武人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 134335,
+        "name": {
+          "full": "Hameline",
+          "native": "ハーメリーヌ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134335-zhELb7t6TjIx.png"
+        },
+        "description": "Hameline is a Domitor sorcerer. She is the responsible for the attacks at Rumble Town alongside of her Nemesis.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106784,
+          "name": {
+            "full": "Yumi Uchiyama",
+            "native": "内山夕実"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106784-reDoHBLWxi7J.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144289,
+        "name": {
+          "full": "Dart Dragunov",
+          "native": "ドラグノフ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144289-wPgUxBDnVUGd.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95068,
+          "name": {
+            "full": "Kouji Yusa",
+            "native": "遊佐浩二"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95068-AbL4cVGlYaM8.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 128548,
+        "name": {
+          "full": "Alma",
+          "native": "アルマ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128548-DjqZ07CjPzy6.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95082,
+          "name": {
+            "full": "Romi Park",
+            "native": "朴璐美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95082-pNGbnYv4cHAK.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 128550,
+        "name": {
+          "full": "Doc",
+          "native": "ドク",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/n128550-KLZA7aPaq7Rh.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96818,
+          "name": {
+            "full": "Shintarou Oohata",
+            "native": "大畑伸太郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96818-yAH3Krh7Y7Uy.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144293,
+        "name": {
+          "full": "Liselotte",
+          "native": "リゼロッテ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144293-jAIuRzwmQU8k.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106622,
+          "name": {
+            "full": "Ayane Sakura",
+            "native": "佐倉綾音"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144308,
+        "name": {
+          "full": "Ullmina Bagliore",
+          "native": "バグリオーレ・ウルミナ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144308-cqRE5hj3pJyw.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95869,
+          "name": {
+            "full": "Saori Hayami",
+            "native": "早見沙織"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144291,
+        "name": {
+          "full": "Mister Bobley",
+          "native": "ミスター・ボブリー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144291-ugEL8PTAKgWr.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 129325,
+          "name": {
+            "full": "Makoto Koichi",
+            "native": "小市眞琴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129325-RhR0e5aA6Yj5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144302,
+        "name": {
+          "full": "Piodon",
+          "native": "ピオドン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144302-1tFTt1URpG9q.png"
+        },
+        "description": "A member of the Inquisition and member of the current Miracle Makers, the Thaumaturges. Although his position in the Thaumaturges is still unknown.\n\n~!He's the brother of [Seth](https://anilist.co/character/128547/Seth) and [Diabal](https://anilist.co/character/214826/Diabal)!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96762,
+          "name": {
+            "full": "Ryouhei Kimura",
+            "native": "木村良平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 130051,
+        "name": {
+          "full": "Master Lord Majesty",
+          "native": null,
+          "alternative": [
+            "MLM"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130051-PXn3OJUUvM9C.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95067,
+          "name": {
+            "full": "Kappei Yamaguchi",
+            "native": "山口勝平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144310,
+        "name": {
+          "full": "Torque",
+          "native": "トルク",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144310-VpgOlCI4bnms.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95720,
+          "name": {
+            "full": "Kenta Miyake",
+            "native": "三宅健太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144294,
+        "name": {
+          "full": "Taj",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144294-o60yypdw4ziq.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105013,
+          "name": {
+            "full": "Mutsumi Tamura",
+            "native": "田村睦心"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105013-DffN0XN2Zw7G.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144299,
+        "name": {
+          "full": "Miss Melba",
+          "native": "ミス・メルバ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144299-a5bUfRlwDh6B.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106184,
+          "name": {
+            "full": "Nao Touyama",
+            "native": "東山奈央"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106184-rFA0sHFJrbk4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144301,
+        "name": {
+          "full": "Yaga",
+          "native": "ヤガ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144301-VezNjLpRg4HS.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95283,
+          "name": {
+            "full": "Hiroyuki Yoshino",
+            "native": "吉野裕行"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95283-g76zV4YacFfm.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 141991,
+        "name": {
+          "full": "Santori",
+          "native": "サントーリ",
+          "alternative": [
+            "The Peak"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141991-lomHOlIUckb4.png"
+        },
+        "description": "Santori is a member of the Inquisition and Colonel of the current Miracle Makers, the Thaumaturges.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95481,
+          "name": {
+            "full": "Kenichi Ogata",
+            "native": "緒方賢一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95481-1dPQbwMpvjul.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144290,
+        "name": {
+          "full": "Konrad Marbourg",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144290-weUeILq7yELY.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95555,
+          "name": {
+            "full": "Katsuki Murase",
+            "native": "村瀬克輝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/555.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144300,
+        "name": {
+          "full": "Tommy",
+          "native": "トミー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144300-MywLHSQiumh6.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 129325,
+          "name": {
+            "full": "Makoto Koichi",
+            "native": "小市眞琴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129325-RhR0e5aA6Yj5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144304,
+        "name": {
+          "full": "Rookie",
+          "native": "新人兵士ガーヴィス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144304-wZDft6CLPBG5.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119319,
+          "name": {
+            "full": "Junya Enoki",
+            "native": "榎木淳弥"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144306,
+        "name": {
+          "full": "Oxumare",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144306-hFp7uvUnNmn1.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95893,
+          "name": {
+            "full": "Taiten Kusunoki",
+            "native": "楠大典"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95893-k0qEVnRygyIn.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144309,
+        "name": {
+          "full": "Von Teppes",
+          "native": "ツェペシュ・フォン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144309-SkfjL9SyQUZa.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95494,
+          "name": {
+            "full": "Takuma Terashima",
+            "native": "寺島拓篤"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95494-HetCpJKbDy1B.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144314,
+        "name": {
+          "full": "Vice Captain",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144314-rpWizkW8gDfY.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144292,
+        "name": {
+          "full": "Nick",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144292-9nc6SMP8gb1T.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102288,
+          "name": {
+            "full": "Kazuyuki Okitsu",
+            "native": "興津和幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144297,
+        "name": {
+          "full": "Jiji",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144297-bvYTRiPglKmK.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 124759,
+          "name": {
+            "full": "Kentarou Kumagai",
+            "native": "熊谷健太郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124759-Qd1CVnWr4D8L.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144298,
+        "name": {
+          "full": "Don Bossman",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144298-DrDxQTcqrKWd.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95395,
+          "name": {
+            "full": "Tetsu Inada",
+            "native": "稲田徹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144305,
+        "name": {
+          "full": "Miss Melba's Father",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144305-3QfBy5kMSd3h.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105571,
+          "name": {
+            "full": "Kentarou Tone",
+            "native": "利根健太朗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105571-Ck9wy1fxMy3N.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 144311,
+        "name": {
+          "full": "Edmund",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b144311-Kn2096ufcZPI.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118193,
+          "name": {
+            "full": "Akira Aoyama",
+            "native": "蒼山哲"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118193-wKVBXHGwchS2.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "id": 169931,
+  "title": {
+    "romaji": "Goukon ni Ittara Onna ga Inakatta Hanashi",
+    "english": "How I Attended an All-Guy's Mixer",
+    "native": "合コンに行ったら女がいなかった話"
+  },
+  "synonyms": [],
+  "format": "ONA",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2024,
+    "month": 9,
+    "day": 30
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "popularity": 27829,
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 321927,
+        "name": {
+          "full": "Suou",
+          "native": "蘇芳",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321927-2G8jscl8KK5e.png"
+        },
+        "description": "[Tokiwa's](https://anilist.co/character/321930/Tokiwa) college classmate who offered the mixer. She works at a crossdressing bar with [Fuji](https://anilist.co/character/321928/Fuji) and [Kohaku](https://anilist.co/character/321929/Kohaku) where she plays a handsome prince character. She attracts attention from women whenever she crossdresses.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105071,
+          "name": {
+            "full": "Mikako Komatsu",
+            "native": "小松未可子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105071-Hcj0X2gcliPq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 321928,
+        "name": {
+          "full": "Fuji",
+          "native": "藤",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321928-MbEXQHF9qCFk.png"
+        },
+        "description": "Fuji works at the same crossdressing bar as [Suou](https://anilist.co/character/321927/Suou) and [Kohaku](https://anilist.co/character/321929/Kohaku) with a persona of a calm and collected guy with purple hair. Both in and out of character, she has an lethargic attitude but she is very attentive to her surroundings and supports others from behind the scenes. In her free time, she draws doujinshi and is always searching for reference material for her works.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101686,
+          "name": {
+            "full": "Aoi Yuuki",
+            "native": "悠木碧"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 321931,
+        "name": {
+          "full": "Asagi",
+          "native": "浅葱",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321931-sWSTREL9gFK6.png"
+        },
+        "description": "Asagi is a college student and [Tokiwa's](https://anilist.co/character/321930/Tokiwa) friend. He has a friendly and immature personality, as well as a curiosity in all sorts of things. Somehow, he hit it off with [Fuji](https://anilist.co/character/321928/Fuji) and he helps her with her doujinshi.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119869,
+          "name": {
+            "full": "Shun Horie",
+            "native": "堀江瞬"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119869-mUUrORIQBlnB.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 321929,
+        "name": {
+          "full": "Kohaku",
+          "native": "琥珀",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321929-6Jhkr3xsIJK4.png"
+        },
+        "description": "Kohaku works at the same crossdressing bar as [Suou](https://anilist.co/character/321927/Suou) and [Fuji](https://anilist.co/character/321928/Fuji) with an aggressive \"Ore-sama\" persona which she struggles through with trial-and-error. Her earnest personality contrasts with the absurdity of Suou and Fuji's antics.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106184,
+          "name": {
+            "full": "Nao Touyama",
+            "native": "東山奈央"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106184-rFA0sHFJrbk4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 321930,
+        "name": {
+          "full": "Tokiwa",
+          "native": "常盤",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321930-Y9ywx5tLvTCr.png"
+        },
+        "description": "A normal college student who is classmates with [Suou.](https://anilist.co/character/321927/Suou) His thickheaded nature overcomes the charms of the crossdressing women.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119185,
+          "name": {
+            "full": "Shunsuke Takeuchi",
+            "native": "武内駿輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119185-65kkxuTRxAgo.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 321932,
+        "name": {
+          "full": "Hagi",
+          "native": "萩",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321932-9ugauJGFVBvp.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 123286,
+          "name": {
+            "full": "Gakuto Kajiwara",
+            "native": "梶原岳人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123286-TfHayiK4hqbk.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 342437,
+        "name": {
+          "full": "Hagi no Ane",
+          "native": "萩の姉",
+          "alternative": [
+            "Hagi's Older Sister"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b342437-SIxyR3d5JGO4.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95093,
+          "name": {
+            "full": "Shizuka Itou",
+            "native": "伊藤静"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 36310,
+        "name": {
+          "full": "Sonohokasei",
+          "native": "その他声",
+          "alternative": [
+            "その他の登場人物",
+            "Others",
+            "Additional Voices",
+            "Various Voices",
+            "Mumei (無名)",
+            "Nameless",
+            "Non-credit (ノンクレジット)",
+            "Yakufumei (役不明)",
+            "其他角色",
+            "参与演出"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": "This character page is set to represent and list credits for voice roles without a specific character name/role attributed. Character roles named specifically should be added separately.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 262093,
+          "name": {
+            "full": "Akari Tadano",
+            "native": "唯野あかり"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n262093-vyK1mn37eeeK.png"
+          }
+        },
+        {
+          "id": 151445,
+          "name": {
+            "full": "Natsumi Kawaida",
+            "native": "川井田夏海"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n151445-3qF3EB619d74.png"
+          }
+        },
+        {
+          "id": 352031,
+          "name": {
+            "full": "Yuuka Amano",
+            "native": "天野優花"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n352031-i9lDViuDIkb9.jpg"
+          }
+        },
+        {
+          "id": 132633,
+          "name": {
+            "full": "Kaito Takeda",
+            "native": "竹田海渡"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n132633-VZAF3zoz5U7u.jpg"
+          }
+        },
+        {
+          "id": 347900,
+          "name": {
+            "full": "Keita Azuma",
+            "native": "吾妻奎太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n347900-hO5cTCbnuLU5.jpg"
+          }
+        },
+        {
+          "id": 352030,
+          "name": {
+            "full": "Kasumi Hayasaka",
+            "native": "早坂佳純"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n352030-Pb9HVqwRNp6I.jpg"
+          }
+        },
+        {
+          "id": 102288,
+          "name": {
+            "full": "Kazuyuki Okitsu",
+            "native": "興津和幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png"
+          }
+        },
+        {
+          "id": 114639,
+          "name": {
+            "full": "Junichi Yanagita",
+            "native": "柳田淳一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114639-x529Dzoctde8.jpg"
+          }
+        },
+        {
+          "id": 125475,
+          "name": {
+            "full": "Riho Sugiyama",
+            "native": "杉山里穂"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125475-0CWs2AKNtmfk.png"
+          }
+        },
+        {
+          "id": 125361,
+          "name": {
+            "full": "Takako Tanaka",
+            "native": "田中貴子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125361-2LA9IYJ9A8Ix.png"
+          }
+        },
+        {
+          "id": 107588,
+          "name": {
+            "full": "Marie Miyake",
+            "native": "三宅麻理恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107588-ZjivMTtcK1Qx.jpg"
+          }
+        },
+        {
+          "id": 104108,
+          "name": {
+            "full": "Ayaka Shimizu",
+            "native": "清水彩香"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104108-UXiBJxnycHhL.png"
+          }
+        },
+        {
+          "id": 249661,
+          "name": {
+            "full": "Maria Abo",
+            "native": "阿保まりあ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n249661-dYcTHzJCRYhJ.png"
+          }
+        },
+        {
+          "id": 106141,
+          "name": {
+            "full": "Ryou Sugisaki",
+            "native": "杉崎亮"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106141-R83sRuA84w7s.jpg"
+          }
+        },
+        {
+          "id": 133402,
+          "name": {
+            "full": "Ikuji Nose",
+            "native": "野瀬育二"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133402-YYnyk1WmBOi6.jpg"
+          }
+        },
+        {
+          "id": 122615,
+          "name": {
+            "full": "Anzu Haruno",
+            "native": "春野杏"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122615-ccA7AB2eYvFb.png"
+          }
+        },
+        {
+          "id": 162829,
+          "name": {
+            "full": "Sachiko Okada",
+            "native": "岡田幸子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162829-O1cil4pgZGl6.png"
+          }
+        },
+        {
+          "id": 141231,
+          "name": {
+            "full": "Mei Shibata",
+            "native": "柴田芽衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n141231-VMyJOe5jyc8u.png"
+          }
+        },
+        {
+          "id": 236518,
+          "name": {
+            "full": "Youhei Matsuoka",
+            "native": "松岡洋平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n236518-QKilr3XOhn2I.jpg"
+          }
+        },
+        {
+          "id": 113545,
+          "name": {
+            "full": "Kouichi Souma",
+            "native": "相馬康一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113545-AiM4kzCRQROf.png"
+          }
+        },
+        {
+          "id": 303039,
+          "name": {
+            "full": "Mikoto Nakai",
+            "native": "中井美琴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n303039-VtEjdndrWRYH.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 342433,
+        "name": {
+          "full": "Nadeshiko",
+          "native": "撫子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b342433-1dkvAz5rX2e0.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 124747,
+          "name": {
+            "full": "Reina Kondou",
+            "native": "近藤玲奈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124747-uWJRlxZ05TaM.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 342434,
+        "name": {
+          "full": "Chigusa",
+          "native": "千草",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b342434-31ytWDCSOjtq.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 122320,
+          "name": {
+            "full": "Tomoyo Takayanagi",
+            "native": "高柳知葉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122320-tV8CERbhYcNV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 342435,
+        "name": {
+          "full": "Karasuba",
+          "native": "烏羽",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b342435-M1uWYgDellql.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 127542,
+          "name": {
+            "full": "Maki Kawase",
+            "native": "河瀬茉希"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n127542-rHFIx0NCHfsU.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 342436,
+        "name": {
+          "full": "Hashibami",
+          "native": "榛",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b342436-GHMdHMtNJd8O.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118475,
+          "name": {
+            "full": "Yoshino Aoyama",
+            "native": "青山吉能"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118475-19IqPJRpa08T.png"
+          }
+        }
+      ]
+    }
+  ]
+}

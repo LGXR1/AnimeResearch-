@@ -1,0 +1,637 @@
+{
+  "fetchedAt": "2026-10-12T09:17:53.973Z",
+  "id": 16524,
+  "title": {
+    "romaji": "Suisei no Gargantia",
+    "english": "Gargantia on the Verdurous Planet",
+    "native": "翠星のガルガンティア"
+  },
+  "synonyms": [
+    "Suisei no Galgantia"
+  ],
+  "format": "TV",
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "description": "The story begins in the distant future in the far reaches of the galaxy. The Human Galactic Alliance has been constantly fighting for its survival against a grotesque race of beings called \"Hidiaazu.\" During an intense battle, the young lieutenant Ledo and his humanoid mobile weapon Chamber are swallowed up into a distortion of time and space. Waking from his artificially induced hibernation, Ledo realizes that he has arrived on Earth, the planet on the lost frontier. On this planet that was completely flooded by the seas, people live in fleets of giant ships, salvaging relics from the seas' depths in order to survive. Ledo arrives on one of the fleets called Gargantia. With no knowledge of the planet's history or culture, he is forced to live alongside Amy, a 15-year-old girl who serves as a messenger aboard the Gargantia fleet. To Ledo, who has lived a life where he knows nothing but fighting, these days of peace continue to surprise him.\n<br><br>\n(Source: Anime News Network)",
+  "siteUrl": "https://anilist.co/anime/16524",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 75358,
+        "name": {
+          "full": "Ledo",
+          "native": "レド",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75358-8eCNQysvHKZr.jpg"
+        },
+        "description": "__Height:__ 173cm\n\nA 16-year-old combat trained Galactic Alliance lieutenant, shipwrecked on a frontier planet after hibernation travel through space-time.  Ledo is a very wary person, as shown during the first few episodes. He is also very intelligent and knows how to examine his surroundings with great detail. This ability is augmented when teaming up with Chamber. He appears not to know anything apart from war and battle, and thus his social skills are extremely low if not zero.   ~!Ledo had a younger brother who was sacrificed because he was physiologically weak.!~",
+        "gender": "Male",
+        "age": "16"
+      },
+      "voiceActors": [
+        {
+          "id": 115156,
+          "name": {
+            "full": "Kaito Ishikawa",
+            "native": "石川界人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 76244,
+        "name": {
+          "full": "Amy",
+          "native": "エイミー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76244-NfNr0uwu3ESq.png"
+        },
+        "description": "__Height:__ 156cm\n\nA messenger who meets Ledo when he wakes up from hibernation and serves as his guide. She is the sister of Bevel, and takes care of him because of his illness.",
+        "gender": "Female",
+        "age": "15"
+      },
+      "voiceActors": [
+        {
+          "id": 103555,
+          "name": {
+            "full": "Hisako Kanemoto",
+            "native": "金元寿子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103555-2ZtBwZfy9DTi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 82073,
+        "name": {
+          "full": "Chamber",
+          "native": "チェインバー",
+          "alternative": [
+            "Tin can"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82073-URXvxIMTTad4.jpg"
+        },
+        "description": "Ledo's mech suit.   ~!Sacrifices itself to save Ledo and the people on Earth from the rule of the Striker by blowing itself and the Striker up together.!~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95002,
+          "name": {
+            "full": "Tomokazu Sugita",
+            "native": "杉田智和"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 76246,
+        "name": {
+          "full": "Saaya",
+          "native": "サーヤ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76246-LiYVIwR5PSE5.jpg"
+        },
+        "description": "A more low key messenger.",
+        "gender": "Female",
+        "age": "15"
+      },
+      "voiceActors": [
+        {
+          "id": 105765,
+          "name": {
+            "full": "Ai Kayano",
+            "native": "茅野愛衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 76248,
+        "name": {
+          "full": "Melty",
+          "native": "メルティ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76248-ny6rrZkZgmos.jpg"
+        },
+        "description": "A hyper messenger.",
+        "gender": "Female",
+        "age": "14"
+      },
+      "voiceActors": [
+        {
+          "id": 95817,
+          "name": {
+            "full": "Kana Asumi",
+            "native": "阿澄佳奈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95817-UHqRZ5xuSJgW.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 76250,
+        "name": {
+          "full": "Bellows",
+          "native": "ベローズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76250-FFJB0oyXjfbI.jpg"
+        },
+        "description": "A boat pilot and salvage business operator who raises Ledo's mecha.",
+        "gender": "Female",
+        "age": "18"
+      },
+      "voiceActors": [
+        {
+          "id": 95093,
+          "name": {
+            "full": "Shizuka Itou",
+            "native": "伊藤静"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 76252,
+        "name": {
+          "full": "Ridget",
+          "native": "リジット",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76252-eRy2Py1YR5uL.jpg"
+        },
+        "description": "Ridget is a overseer and daughter of the previous fleet commander, Chevron.    ~!Fairlock appoints her as commander of Gargantia before he passes away.!~",
+        "gender": "Female",
+        "age": "22"
+      },
+      "voiceActors": [
+        {
+          "id": 95092,
+          "name": {
+            "full": "Sayaka Oohara",
+            "native": "大原さやか"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 76254,
+        "name": {
+          "full": "Pinion",
+          "native": "ピニオン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b76254-uE6gyGXrYf2P.jpg"
+        },
+        "description": "A mechanic/treasure hunter.",
+        "gender": "Male",
+        "age": "20"
+      },
+      "voiceActors": [
+        {
+          "id": 95020,
+          "name": {
+            "full": "Katsuyuki Konishi",
+            "native": "小西克幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 78787,
+        "name": {
+          "full": "Fairlock",
+          "native": "フェアロック",
+          "alternative": [
+            "Commodore"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78787-stSjDdNMwrY1.jpg"
+        },
+        "description": "Commodore Fairlock, Gargantia fleet's always calm and composed leader with a wealth of experience. The safety of the fleet is first and foremost on his mind.",
+        "gender": "Male",
+        "age": "55"
+      },
+      "voiceActors": [
+        {
+          "id": 105185,
+          "name": {
+            "full": "Hideaki Tezuka",
+            "native": "手塚秀彰"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105185-JPuDW9dX28ed.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 78789,
+        "name": {
+          "full": "Joe",
+          "native": "ジョー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78789-VS0keiRgToI2.jpg"
+        },
+        "description": "A young man in charge of connecting and separating the ships in the fleet. He is diligent and uncompromising in his job.",
+        "gender": "Male",
+        "age": "25"
+      },
+      "voiceActors": [
+        {
+          "id": 104968,
+          "name": {
+            "full": "Yuuki Hayashi",
+            "native": "早志勇紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104968-Y5TlnRjg5Hr6.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 78791,
+        "name": {
+          "full": "Kugel",
+          "native": "クーゲル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/78791.jpg"
+        },
+        "description": "A commander in the Human Galactic Alliance Forces. As Red's superior, he leads the battle against the aliens.",
+        "gender": "Male",
+        "age": "27"
+      },
+      "voiceActors": [
+        {
+          "id": 96154,
+          "name": {
+            "full": "Yuuki Ono",
+            "native": "小野友樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96154-B8GAO9wm1Fbd.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 80219,
+        "name": {
+          "full": "Crown",
+          "native": "クラウン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/80219.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": "51"
+      },
+      "voiceActors": [
+        {
+          "id": 95945,
+          "name": {
+            "full": "Mitsuaki Hoshino",
+            "native": "星野充昭"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95945-SnY7HVDqchdI.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 80221,
+        "name": {
+          "full": "Bevel",
+          "native": "ベベル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/80221.jpg"
+        },
+        "description": "Amy's younger brother. He is a very intelligent child and has a hobby of making sailing ship models from waste parts. Due to being born with poor health, he has been forced to spend much of his time resting in bed.",
+        "gender": "Male",
+        "age": "10"
+      },
+      "voiceActors": [
+        {
+          "id": 95671,
+          "name": {
+            "full": "Yuka Terasaki",
+            "native": "寺崎裕香"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95671-iXGq2oxE1DlW.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 80223,
+        "name": {
+          "full": "Flange",
+          "native": "フランジ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/80223.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": "53"
+      },
+      "voiceActors": [
+        {
+          "id": 101190,
+          "name": {
+            "full": "Eizou Tsuda",
+            "native": "津田英三"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101190-VxudJvUfgDJo.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 80225,
+        "name": {
+          "full": "Mayta",
+          "native": "マイタ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/80225.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": "13"
+      },
+      "voiceActors": [
+        {
+          "id": 106361,
+          "name": {
+            "full": "Sora Tokui",
+            "native": "徳井青空"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106361-EMvWLkEKavEM.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 80227,
+        "name": {
+          "full": "Warm",
+          "native": "ウォーム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/80227.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": "28"
+      },
+      "voiceActors": [
+        {
+          "id": 96074,
+          "name": {
+            "full": "Makoto Yasumura",
+            "native": "保村真"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96074-mcIujin2kl4o.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 82825,
+        "name": {
+          "full": "Rackage",
+          "native": "ラケージ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/82825-Ojp7jbURF3Ku.png"
+        },
+        "description": "The leader of a pirate group.",
+        "gender": "Female",
+        "age": "19"
+      },
+      "voiceActors": [
+        {
+          "id": 96504,
+          "name": {
+            "full": "Ayumi Tsunematsu",
+            "native": "恒松あゆみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96504-uR5BYvPwmSWR.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 83337,
+        "name": {
+          "full": "Ordum",
+          "native": "オルダム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/83337-03oF4bn4g8R3.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": "56"
+      },
+      "voiceActors": [
+        {
+          "id": 101602,
+          "name": {
+            "full": "Hideyuki Umezu",
+            "native": "梅津秀行"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101602-wUvWtCkvNGNB.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 84165,
+        "name": {
+          "full": "Striker",
+          "native": "ストライカー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/84165.jpg"
+        },
+        "description": "Kugel's mech",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95247,
+          "name": {
+            "full": "Ayumi Fujimura",
+            "native": "藤村歩"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95247-3jzUQFPN8clW.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 85929,
+        "name": {
+          "full": "Pinion's Brother",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/85929-nPCgvfuJqzfl.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95212,
+          "name": {
+            "full": "Daisuke Ono",
+            "native": "小野大輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95212-wX1M4LJN96q2.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 161852,
+        "name": {
+          "full": "Grace",
+          "native": "グレイス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161852-dCUKUWH3HZyd.jpg"
+        },
+        "description": "Grace is the squirrel/chipmunk/sugar glider companion of Amy and goes with her everywhere. She is usually seen on Amy's head or shoulders and even rides with her on gliders.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105765,
+          "name": {
+            "full": "Ai Kayano",
+            "native": "茅野愛衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png"
+          }
+        }
+      ]
+    }
+  ]
+}

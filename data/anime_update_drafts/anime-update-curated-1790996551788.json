@@ -1,0 +1,230 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T02:42:42.400Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 127401,
+      "anime_title": "白金终局",
+      "anime_origin": "JP",
+      "source": {
+        "id": 127401,
+        "titles": [
+          "Platinum End",
+          "プラチナエンド"
+        ],
+        "year": 2021,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/127401"
+      },
+      "characters": [
+        {
+          "id": 89231,
+          "name": "架桥明日",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89231-ohzYpY5dOXZw.jpg",
+          "description": "架桥明日的父母在车祸中去世，此后由叔叔和婶婶抚养，却长期遭到他们虐待。精神濒临崩溃的他曾试图从高楼跳下，被天使纳赛救下后成为神候选人，并得到改变命运的机会。明日不愿为了成为神而杀害其他候选人，后来与同班同学本城咲联手，对抗企图以暴力夺取神位的Metropoliman。他希望找到真正属于自己的幸福。",
+          "nicknames": [
+            "架桥明日",
+            "Mirai Kakehashi",
+            "架橋明日",
+            "Red",
+            "明日"
+          ],
+          "traits": [
+            "神候选人",
+            "父母在车祸中去世",
+            "由叔叔和婶婶抚养",
+            "长期遭受亲属虐待",
+            "曾试图从高楼跳下自杀",
+            "被天使纳赛救下",
+            "得到改变命运的机会",
+            "与本城咲是同班同学",
+            "希望寻找属于自己的幸福",
+            "与纳赛及咲联手行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "入野自由",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png",
+              "language": "日语"
+            },
+            {
+              "name": "坂本真綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95090-oARRP42NEhu0.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mirai Kakehashi",
+            "name_native": "架橋明日",
+            "name_alternative": [
+              "Red"
+            ],
+            "description": "He was raised by his abusive uncle and aunt after his family were killed in a car crash. The abuse he endured resulted in him trying to commit suicide by throwing himself from a tower block, but he was saved by [Nasse](https://anilist.co/character/89232)."
+          }
+        },
+        {
+          "id": 89232,
+          "name": "纳赛",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89232-PvyFC7R21rZo.jpg",
+          "description": "纳赛是架桥明日的天使，在明日从高楼跳下时救了他的性命。她了解明日被叔叔和婶婶收养后遭受的精神虐待，并给了他重新追求幸福的机会。作为搭档，纳赛协助明日参与神候选人的争夺，也支持他凭自己的意愿作出选择。她相信让明日获得自由与爱，比逼迫他成为神更重要，因此一直关注他的幸福。",
+          "nicknames": [
+            "纳赛",
+            "Nasse",
+            "ナッセ",
+            "Angel of Purity",
+            "纳赛天使"
+          ],
+          "traits": [
+            "架桥明日的天使",
+            "在明日跳楼时救下他",
+            "了解明日遭受的家庭虐待",
+            "成为明日的救命恩人",
+            "给予明日自由与爱的机会",
+            "作为天使与神候选人搭档",
+            "负责协助明日行动",
+            "与其他天使共同参与神位选拔",
+            "重视明日的幸福"
+          ],
+          "voice_actors": [
+            {
+              "name": "小倉唯",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105981-CDMPx1Q79Aum.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Nasse",
+            "name_native": "ナッセ",
+            "name_alternative": [
+              "Angel of Purity"
+            ],
+            "description": "Nasse is [Mirai](https://anilist.co/character/89231/Kakehashi-Mirai)'s life saving's angel, and as such, knows everything Mirai has been through, everything which is related to him, notably his being being mentally abused by his aunt and uncle since they have been fostering him.\n\nShe saved Mirai's life as he jumped off a building, and gave him the possibility to be happy, by giving him Freedom, and Love."
+          }
+        },
+        {
+          "id": 89973,
+          "name": "雷贝尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89973-0osNLAv99nk3.jpg",
+          "description": "雷贝尔是花笼咲的天使，负责协助她参与神候选人的竞争。他擅长计算和谋划，也有操纵他人的倾向；纳赛认为正因如此，他才被降为二级天使。受等级限制，雷贝尔只能授予咲红箭，不能给予她翅膀或白箭。他的计划性与纳赛直接坦率的作风形成反差，也影响咲如何使用天使赋予的力量。",
+          "nicknames": [
+            "雷贝尔",
+            "Revel",
+            "ルベル",
+            "Lepel",
+            "鲁贝尔"
+          ],
+          "traits": [
+            "花笼咲的天使",
+            "负责协助神候选人咲",
+            "擅长计算与谋划",
+            "具有操纵他人的倾向",
+            "因自身性格被降为二级天使",
+            "只能授予咲红箭",
+            "拥有天使身份",
+            "与纳赛对其等级原因有不同评价",
+            "参与神候选人选拔事件"
+          ],
+          "voice_actors": [
+            {
+              "name": "花江夏樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Revel",
+            "name_native": "ルベル",
+            "name_alternative": [
+              "Lepel"
+            ],
+            "description": "[Saki](https://anilist.co/character/89974/Hanakago-Saki)'s angel. He is rather calculating and manipulative, a trait that is considered by [Nasse](https://anilist.co/character/89232/Nasse) to be the reason why he was relegated to be a class two Angel, thus capable only of bestowing Saki with the red arrow."
+          }
+        },
+        {
+          "id": 89974,
+          "name": "花笼咲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89974-8jid4hCdl92v.jpg",
+          "description": "花笼咲是架桥明日的同班同学，也是他的恋爱对象之一。她同样被选为神候选人，并由天使雷贝尔协助。咲起初并不确定该如何面对候选人之间的残酷争斗；得知明日并不打算杀害她后，她选择与明日联手对抗Metropoliman。她与明日共同寻找阻止暴力夺取神位的方法，也逐渐面对自己对他的感情。",
+          "nicknames": [
+            "花笼咲",
+            "Saki Hanakago",
+            "花籠咲",
+            "咲"
+          ],
+          "traits": [
+            "架桥明日的同班同学",
+            "是明日的恋爱对象",
+            "被选为神候选人",
+            "拥有天使雷贝尔",
+            "与明日共同面对候选人争夺",
+            "得知明日不打算杀她后与他合作",
+            "联手对抗Metropoliman",
+            "与明日有长期同学关系",
+            "参与阻止残酷的神位争夺"
+          ],
+          "voice_actors": [
+            {
+              "name": "市道真央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Saki Hanakago",
+            "name_native": "花籠咲",
+            "name_alternative": [],
+            "description": "Saki is [Mirai](https://anilist.co/character/89231/Kakehashi-Mirai)'s classmate, his love interest, and coincidentally, a God candidate as well. ~!Once she learns that he does not intend to kill her, Saki joins forces with Mirai to deal with [Metropoliman](https://anilist.co/character/122073/Uryuu-Kanade).!~"
+          }
+        },
+        {
+          "id": 122073,
+          "name": "生流奏",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122073-ux6dtoTDK2n3.jpg",
+          "description": "生流奏是本作的主要反派，常以Metropoliman的身份行动。他立志成为神，为实现目标不惜杀死其他神候选人。奏是名门正奏学园校长的孙子，参加神位争夺的根本愿望是复活已经去世的妹妹。与架桥明日不愿杀人的选择相反，奏把候选人力量当作达成目标的工具，持续策划并实施针对其他候选人的袭击。",
+          "nicknames": [
+            "生流奏",
+            "Kanade Uryuu",
+            "Metropoliman (メトロポリマン)",
+            "Metropoliman",
+            "中海奏"
+          ],
+          "traits": [
+            "本作主要反派",
+            "以Metropoliman为公开身份行动",
+            "立志成为神",
+            "不惜杀害其他神候选人",
+            "出身于名门正奏学园相关家庭",
+            "是正奏学园校长的孙子",
+            "希望复活已经去世的妹妹",
+            "使用天使赋予的候选人力量",
+            "以实现个人目标为行动准则"
+          ],
+          "voice_actors": [
+            {
+              "name": "石川界人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kanade Uryuu",
+            "name_native": "生流奏",
+            "name_alternative": [
+              "Metropoliman (メトロポリマン)"
+            ],
+            "description": "The main antagonist of the series who intends to become God by all means necessary, including killing all other candidates. ~!He is the grandson of the principal of the prestigious Joso Academy and wishes to become God in order to bring [his dead sister](https://anilist.co/character/260799/) back to life.!~"
+          }
+        }
+      ]
+    }
+  ]
+}

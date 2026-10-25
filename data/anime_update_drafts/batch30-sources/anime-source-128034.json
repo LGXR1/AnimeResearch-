@@ -1,0 +1,753 @@
+{
+  "fetchedAt": "2026-10-18T06:45:14.840Z",
+  "id": 128034,
+  "title": {
+    "romaji": "ORIENT",
+    "english": "ORIENT",
+    "native": "オリエント"
+  },
+  "synonyms": [
+    "2 สิงห์ พลิกตำนานพิฆาตอสูร"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2022,
+    "month": 1,
+    "day": 6
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Fantasy"
+  ],
+  "description": "At age 10, best friends Musashi and Kojirou sat in excited silence as Kojirou's father spun tales of evil demons who preyed on the innocent, and the warriors who defeated them. Practicing swordplay, the two swear an oath to become the strongest in the world, but as they grow up, Kojirou turns cynical, and Musashi comes to the realization that he can't overturn 150 years of demon rule on his own. He's being called a prodigy with a pickaxe, and he's almost ready to settle into a life of labor. Yet he can't shake the feeling that he still has a responsibility to act... and soon, the injustices of his world will force his hand...\n<br><br>\n(Source: Kodansha USA)",
+  "siteUrl": "https://anilist.co/anime/128034",
+  "characters": [
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 36309,
+        "name": {
+          "full": "Narrator",
+          "native": "ナレーター",
+          "alternative": [
+            "Katarite (語り手)",
+            "Narration (ナレーション)",
+            "Narrador",
+            "Rozprávač",
+            "Vyprávěč",
+            "Dış ses",
+            "Narratore",
+            "Pripovjedač",
+            "Narradora",
+            "Рассказчик",
+            "Người dẫn chuyện",
+            "Tagapagsalaysay",
+            "내레이터",
+            "Narratore",
+            "Erzählperson",
+            "מספר",
+            "Narrátor",
+            "讲述人",
+            "راوي",
+            "Forteller",
+            "Berättare",
+            "Αφηγητής",
+            "Narrate"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+        },
+        "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95020,
+          "name": {
+            "full": "Katsuyuki Konishi",
+            "native": "小西克幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 130500,
+        "name": {
+          "full": "Musashi",
+          "native": "武蔵",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130500-wUKWHjaw4bpT.png"
+        },
+        "description": "Musashi is one of the main protagonists of the manga Orient. He, along with Kojiro and Tsugumi, embark on a journey to form the best bushi of them all.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119617,
+          "name": {
+            "full": "Yuuma Uchida",
+            "native": "内田雄馬"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 130940,
+        "name": {
+          "full": "Tsugumi Hattori",
+          "native": "服部つぐみ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130940-Rb6uE43akdRA.png"
+        },
+        "description": "Tsugumi is a beautful girl with long, green hair tied up in two ponytails. Attached to these ponytails are bells. Her usual apparel consists of a green and pink kimono with matching boots. Her weapons are worn on her arms.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119331,
+          "name": {
+            "full": "Rie Takahashi",
+            "native": "高橋李依"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 130501,
+        "name": {
+          "full": "Kojirou Kanemaki",
+          "native": "鐘巻小次郎",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b130501-Lt6Ve49EnDGN.png"
+        },
+        "description": "Kojiro Kanemaki is the deuteragonist of the manga Orient. He is the childhood best friend of Musashi and the captain of the Kanemaki Bushi. His and Musashi's goal is to form the greatest Bushi ever.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 113227,
+          "name": {
+            "full": "Souma Saitou",
+            "native": "斉藤壮馬"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 200710,
+        "name": {
+          "full": "Michiru Saruwatari",
+          "native": "猿渡みちる",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b200710-L8pfxVIbI9oL.png"
+        },
+        "description": "Michiru Saruwatari is a young Bushi girl who was saved by Musashi when she was about to be eaten by an Oni.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107711,
+          "name": {
+            "full": "Kiyono Yasuno",
+            "native": "安野希世乃"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107711-xaS7giEK9UIU.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 162770,
+        "name": {
+          "full": "Shirou Inukai",
+          "native": "犬飼四郎",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b162770-HMTVRJ6q0mtQ.png"
+        },
+        "description": "~!Shirou Inukai is a mysterious Bushi and a member of the Obsidian Eight. He chases the Obsidian Goddess in order to achieve the strongest Kitetsu Sword.!~\n\n",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95356,
+          "name": {
+            "full": "Hiro Shimono",
+            "native": "下野紘"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 201283,
+        "name": {
+          "full": "Naotora Takeda",
+          "native": "尚虎武田",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b201283-KRDB6o4IEvVW.png"
+        },
+        "description": "Naotora Takeda is the captain of the Takeda Bushi and one of the Five Grand Generals.\n",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95245,
+          "name": {
+            "full": "Satoshi Hino",
+            "native": "日野聡"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 270360,
+        "name": {
+          "full": "Kanetatsu Naoe",
+          "native": "直江兼竜",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b270360-cKMnTLtDMwcT.png"
+        },
+        "description": "__Height:__ 150 cm (4’11’’)\n__Occupation:__ Accountant\n__Affiliation:__ Uesegi Bushi\n\nHe is a senior vassal in charge of the Uesugi Bushi. He likes to have \"people, things, and money in their proper places,\" and is usually busy with a lot of paperwork. His small stature and dull appearance at first glance do not suggest that he is a samurai, but he is well-liked by his subordinates and trusted by his master, Tatsuomi. In fact, he has been divorced by his wife seven times.",
+        "gender": "Male",
+        "age": "26"
+      },
+      "voiceActors": [
+        {
+          "id": 111635,
+          "name": {
+            "full": "Natsuki Hanae",
+            "native": "花江夏樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 201284,
+        "name": {
+          "full": "Nanao Inusaka",
+          "native": "七緒犬坂",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b201284-Nr4SjQyHt5Uv.png"
+        },
+        "description": "Nanao Inusaka is a Bushi.\n\n~!She fights alongside the Onis. She is a member of an unknown organization, who wants to capture the Obsidian Goddess.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119517,
+          "name": {
+            "full": "Azumi Waki",
+            "native": "和氣あず未"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119517-ggxWaTnTOrxW.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 268561,
+        "name": {
+          "full": "Akihiro Shimazu",
+          "native": "島津秋弘",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b268561-0qb1HRDXYpf8.png"
+        },
+        "description": "An heir of the Shimazu Bushi, which is part of the Uesugi Alliance.",
+        "gender": "Male",
+        "age": "17"
+      },
+      "voiceActors": [
+        {
+          "id": 96764,
+          "name": {
+            "full": "Kouki Uchiyama",
+            "native": "内山昂輝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96764-yJWGrhjanDJQ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 201286,
+        "name": {
+          "full": "Tatsuomi Uesugi",
+          "native": "上杉竜臣",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b201286-mIpvhBIL6qAb.png"
+        },
+        "description": "Tatsuomi Uesugi is one of the Five Grand Generals of Hi no Moto and the captain of the Uesugi Bushi. He also leads the Uesugi Alliance during the fight against the green Kishin, Yamata no Orochi.",
+        "gender": "Male",
+        "age": "29"
+      },
+      "voiceActors": [
+        {
+          "id": 96489,
+          "name": {
+            "full": "Tomoaki Maeno",
+            "native": "前野智昭"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96489-xTzYxgdC9g9l.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 259238,
+        "name": {
+          "full": "Shunrai Yamamoto",
+          "native": "山本春雷",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b259238-LqzO2LoK7RgV.png"
+        },
+        "description": "Shunrai Yamamoto is a member of the Takeda Bushi and the vice captain of it's Green Sword Special Company.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 114884,
+          "name": {
+            "full": "Saori Oonishi",
+            "native": "大西沙織"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 201285,
+        "name": {
+          "full": "Kokuyou no Megami",
+          "native": "黒曜の女神 ",
+          "alternative": [
+            "The Ruler of the Kitetsu Sword",
+            " Obsidian Goddess "
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b201285-EmxRZdzOm665.jpg"
+        },
+        "description": "~!Kokuyou no Megami is a mysterious entity that hides in Musashi's body. She is chased by Shiro Inukai and Nanao Inusaka.\n\nPreviously she was hosted by Jisai Kanemaki.!~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95057,
+          "name": {
+            "full": "Houko Kuwashima",
+            "native": "桑島法子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95057-zkd7yTPVxfyu.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 259316,
+        "name": {
+          "full": "Mitsuru Osafune",
+          "native": "長舩ミツル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b259316-kFPNGMw6QRwV.png"
+        },
+        "description": "Mitsuru Osafune is a Bushi and also the Head of Swordsmiths of the Ryuzoji Bushidan.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95158,
+          "name": {
+            "full": "Marina Inoue",
+            "native": "井上麻里奈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 259239,
+        "name": {
+          "full": "Jisai Kanemaki",
+          "native": "鐘巻自斎",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b259239-wjj3eneiJybl.png"
+        },
+        "description": "Kojiro's father",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95020,
+          "name": {
+            "full": "Katsuyuki Konishi",
+            "native": "小西克幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 229727,
+        "name": {
+          "full": "Seiroku Inukawa",
+          "native": "犬川静六",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b229727-A5X1zMRUeQJa.jpg"
+        },
+        "description": "Seiroku Inukawa is a mysterious Bushi and a member of the Obsidian Eight.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102242,
+          "name": {
+            "full": "Tarusuke Shingaki",
+            "native": "新垣樽助"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102242-bx8hrisiHiSK.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 259237,
+        "name": {
+          "full": "Aoshi Sanada",
+          "native": "真田青志",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b259237-JiiFXIMsyTS8.png"
+        },
+        "description": "Aoshi Sanada is a member of the Takeda Bushi and it's Blue Sword of the First Company.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119200,
+          "name": {
+            "full": "Haruki Ishiya",
+            "native": "石谷春貴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119200-guyDteKAqtuo.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 268560,
+        "name": {
+          "full": "Katsumi Amako",
+          "native": "尼子勝巳",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b268560-l2lboIdDupds.jpg"
+        },
+        "description": "A member of the Amako Bushi and the leader's son. He is a member of the Uesugi Alliance as well, and was assigned to the same platoon as Musashi.",
+        "gender": "Male",
+        "age": "16"
+      },
+      "voiceActors": [
+        {
+          "id": 123286,
+          "name": {
+            "full": "Gakuto Kajiwara",
+            "native": "梶原岳人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123286-TfHayiK4hqbk.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 215088,
+        "name": {
+          "full": "Hideo Kosameda",
+          "native": "小雨田英雄",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b215088-kRO6J6gsAx0G.png"
+        },
+        "description": "He is the Captain of the Kosameda Bushi. At first one might think that he is a calm and gentle person but once he gets irritated his true self comes out, he is a cruel and manipulative person. He has a superiority complex and hates when someone steps out of line and questions him. He tears down all of his followers so to the point where they can't think for themselves. He is also very adamant about people leaving his castle. He lost his domineering drive and secluded himself once he lost to Tsugumi.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95098,
+          "name": {
+            "full": "Wataru Hatano",
+            "native": "羽多野渉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 290772,
+        "name": {
+          "full": "Hikaru Yokimichi",
+          "native": "横道光",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290772-lvoCDQ2p51Fj.jpg"
+        },
+        "description": "A young member of the Amako Bushi.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 158510,
+          "name": {
+            "full": "Shougo Sakata",
+            "native": "坂田将吾"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n158510-QDmd7dD9Rg89.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 290803,
+        "name": {
+          "full": "Sanae Satsukigawa",
+          "native": "五月川早苗",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290803-k12xxTCD8aXa.png"
+        },
+        "description": "__Height__: 165cm\n\nA young member of the Amako Bushi.",
+        "gender": "Female",
+        "age": "15"
+      },
+      "voiceActors": [
+        {
+          "id": 205010,
+          "name": {
+            "full": "Saho Shirasu",
+            "native": "白砂沙帆"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n205010-6xmikjNcH3BP.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 290816,
+        "name": {
+          "full": "Tsubame Hattori",
+          "native": "服部つばめ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290816-BHyZNn8mrfyF.png"
+        },
+        "description": "The older sister of Tsugumi Hattori who was a Bushi of the Kosameda Bushi.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106030,
+          "name": {
+            "full": "Chika Anzai",
+            "native": "安済知佳"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106030-oz4RUJZ3D9v9.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 290818,
+        "name": {
+          "full": "Morishika Yamanaka",
+          "native": "山中盛鹿",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290818-TPSvDFwLqFqY.png"
+        },
+        "description": "__Height__: 176cm\n\nA young member of the Amako Bushi.",
+        "gender": "Male",
+        "age": "17"
+      },
+      "voiceActors": [
+        {
+          "id": 128426,
+          "name": {
+            "full": "Takeo Ootsuka",
+            "native": "大塚剛央"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128426-uB8KFqVLbogF.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 290820,
+        "name": {
+          "full": "Kazumasa Inuzuka",
+          "native": "犬塚一眞佐",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290820-HhCnsKFM3EaX.jpg"
+        },
+        "description": "A mysterious Bushi and a member of the Obsidian Eight. He is also their leader.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95006,
+          "name": {
+            "full": "Toshiyuki Morikawa",
+            "native": "森川智之"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png"
+          }
+        }
+      ]
+    }
+  ]
+}

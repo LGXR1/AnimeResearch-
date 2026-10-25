@@ -1,0 +1,722 @@
+{
+  "fetchedAt": "2026-10-24T08:44:26.804Z",
+  "id": 180929,
+  "title": {
+    "romaji": "Ruri no Houseki",
+    "english": "Ruri Rocks",
+    "native": "瑠璃の宝石"
+  },
+  "synonyms": [
+    "Introduction to Mineralogy"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2025,
+    "month": 7,
+    "day": 6
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Adventure",
+    "Slice of Life"
+  ],
+  "description": "High schooler Ruri Tanigawa loves shiny things. She loves them so much that she heads into the mountains to search for crystals herself—where she unexpectedly meets Nagi Arato, a graduate student studying mineralogy. As the pair start collecting minerals together, Ruri begins developing a genuine appreciation for science and the beauty of the natural world.<br>\n<br>\n(Source: Crunchyroll)",
+  "siteUrl": "https://anilist.co/anime/180929",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 345368,
+        "name": {
+          "full": "Nagi Arato",
+          "native": "荒砥凪",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b345368-cFLgbircDRLH.png"
+        },
+        "description": "Nagi is a graduate student majoring in mineralogy. She is intelligent, patient, and passionate about her field of study.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106787,
+          "name": {
+            "full": "Asami Seto",
+            "native": "瀬戸麻沙美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-ojpoY7XEGYgc.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 345369,
+        "name": {
+          "full": "Ruri Tanigawa",
+          "native": "谷川瑠璃",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b345369-ekr1DhqEpbjy.png"
+        },
+        "description": "Ruri is a high schooler with a love for pretty gemstones, which leads her to become interested in mineralogy.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 238272,
+          "name": {
+            "full": "Miyari Nemoto",
+            "native": "根本京里"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n238272-sip9nPDT2sJY.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 358730,
+        "name": {
+          "full": "Shouko Seto",
+          "native": "瀬戸硝子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358730-agBhE85luqHk.png"
+        },
+        "description": "Shouko is [Ruri](https://anilist.co/character/345369)'s classmate. She's been interested in mineralogy for her whole life.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 358733,
+          "name": {
+            "full": "Saki Hayashi",
+            "native": "林咲紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n358733-uGMWhRs9QFsW.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 358731,
+        "name": {
+          "full": "Youko Imari",
+          "native": "伊万里曜子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358731-NDEKUW0grcKj.png"
+        },
+        "description": "Youko is a university student majoring in mineralogy. She works closely with [Nagi](https://anilist.co/character/345368)",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 104510,
+          "name": {
+            "full": "Yume Miyamoto",
+            "native": "宮本侑芽"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104510-hB8YLsPRLNKq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 358732,
+        "name": {
+          "full": "Aoi Kasamaru",
+          "native": "笠丸葵",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b358732-3I3aOsqXVbJ4.png"
+        },
+        "description": "Aoi is Ruri's friend and classmate.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 205454,
+          "name": {
+            "full": "Misuzu Yamada",
+            "native": "山田美鈴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n205454-1FFQ4rzTE0jW.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 376482,
+        "name": {
+          "full": "Ruri no Haha",
+          "native": "瑠璃の母",
+          "alternative": [
+            "Ruri's Mother"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376482-Xr0QYvhVSqGB.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95144,
+          "name": {
+            "full": "Megumi Toyoguchi",
+            "native": "豊口めぐみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95144-9Y8CtDVmxogE.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 376479,
+        "name": {
+          "full": "Maika Iwaumo",
+          "native": "岩雲舞花",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376479-tpPHYTCU6fzx.png"
+        },
+        "description": "Maika is Ruri and Aoi's friend and classmate.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 292760,
+          "name": {
+            "full": "Momoka Terasawa",
+            "native": "寺澤百花"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n292760-CnVs8Bk989Bu.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 376487,
+        "name": {
+          "full": "Seto no Chichi",
+          "native": "瀬戸の父",
+          "alternative": [
+            "Seto's Father"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376487-RYlj1u7eb5wc.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95410,
+          "name": {
+            "full": "Shinji Kawada",
+            "native": "川田紳司"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95410-AosJKUc7YZXE.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 376490,
+        "name": {
+          "full": "Seto no Haha",
+          "native": "瀬戸の母",
+          "alternative": [
+            "Seto's Mother"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376490-RomdGvXJdk6r.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95587,
+          "name": {
+            "full": "Hana Takeda",
+            "native": "武田華"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95587-LQv7Cj8rOueO.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 377551,
+        "name": {
+          "full": "Kannushi",
+          "native": "神主",
+          "alternative": [
+            "Priest"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b377551-FoC49TKPgKsw.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 326290,
+          "name": {
+            "full": "Shou Koneri",
+            "native": "こねり翔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n326290-I3OXSqSrfjmg.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 376480,
+        "name": {
+          "full": "Toshokan-nai Housou",
+          "native": "図書館内放送",
+          "alternative": [
+            "Library Broadcast"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 309998,
+          "name": {
+            "full": "Chiyuri Itou",
+            "native": "伊藤ちゆり"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n309998-krEuAyUKKOOW.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 376481,
+        "name": {
+          "full": "Dam Bousai Housou",
+          "native": "ダム防災放送",
+          "alternative": [
+            "Dam Disaster Prevention Broadcast"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 249661,
+          "name": {
+            "full": "Maria Abo",
+            "native": "阿保まりあ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n249661-dYcTHzJCRYhJ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 376483,
+        "name": {
+          "full": "Announcer",
+          "native": "アナウンサー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376483-opK5BfnD4AWe.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 104816,
+          "name": {
+            "full": "Nobuaki Kanemitsu",
+            "native": "金光宣明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104816-0kU8ww2ogISO.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 376484,
+        "name": {
+          "full": "Chibi Seiryuu",
+          "native": "チビ青龍",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376484-wUdUbTB12YIA.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 358733,
+          "name": {
+            "full": "Saki Hayashi",
+            "native": "林咲紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n358733-uGMWhRs9QFsW.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 376485,
+        "name": {
+          "full": "Hoikushi",
+          "native": "保育士",
+          "alternative": [
+            "Nursery Teacher"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376485-qsjvqtpzHwJA.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 259585,
+          "name": {
+            "full": "Hina Natsume",
+            "native": "夏目妃菜"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n259585-53oyqIYUaYM9.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 376488,
+        "name": {
+          "full": "Seiryuu",
+          "native": "青龍",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376488-u7Nmsjdpp0IA.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 134224,
+          "name": {
+            "full": "Takamasa Mogi",
+            "native": "茂木たかまさ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n134224-IcmvcW5NVUCa.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 376489,
+        "name": {
+          "full": "Announcer",
+          "native": "アナウンサー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b376489-CSXQm4yZOevY.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 156972,
+          "name": {
+            "full": "Akira Koga",
+            "native": "古賀明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156972-wYdNdBj55Zno.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 377539,
+        "name": {
+          "full": "Hosen Kou",
+          "native": "保線工",
+          "alternative": [
+            "Train Track Maintenance Worker"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b377539-SQA5WfZXwfSK.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 131173,
+          "name": {
+            "full": "Volcano Oota",
+            "native": "ボルケーノ太田"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131173-rYdOkQIW8lSn.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 377540,
+        "name": {
+          "full": "Kenpei",
+          "native": "憲兵",
+          "alternative": [
+            "Military Police"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b377540-Y5g9bN0W761O.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 264216,
+          "name": {
+            "full": "Takuro Suzuki",
+            "native": "鈴木卓朗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n264216-SghpZreoEIrE.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 377541,
+        "name": {
+          "full": "Kikanshi",
+          "native": "機関士",
+          "alternative": [
+            "Engineer"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b377541-vs1BptCNi1jL.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 377542,
+          "name": {
+            "full": "Daiki Kouketsu",
+            "native": "纐纈大輝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n377542-3q7CErJJoVqM.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 377558,
+        "name": {
+          "full": "Natsuki Sasaya",
+          "native": "笹屋夏樹",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b377558-Bg3L25SXxOK3.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 377559,
+        "name": {
+          "full": "Mamori Neko",
+          "native": "根古守",
+          "alternative": [
+            "Mamo"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b377559-dIIz9vTDxIx8.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 377560,
+        "name": {
+          "full": "Suzuka Tsukiyono",
+          "native": "月夜野鈴香",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b377560-2l20YMke2s8Y.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 377561,
+        "name": {
+          "full": "Misaki Ise",
+          "native": "伊勢美咲",
+          "alternative": [
+            "Saki"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b377561-sw2IkHCiM5yk.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 377562,
+        "name": {
+          "full": "Mahiru Oigami",
+          "native": "老神真昼",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b377562-fOvhNAHPMstp.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": []
+    }
+  ]
+}

@@ -1,0 +1,2058 @@
+{
+  "fetchedAt": "2026-10-18T13:34:05.219Z",
+  "id": 182255,
+  "title": {
+    "romaji": "Sousou no Frieren 2nd Season",
+    "english": "Frieren: Beyond Journey’s End Season 2",
+    "native": "葬送のフリーレン 第2期"
+  },
+  "synonyms": [
+    "Провожающая в последний путь Фрирен 2",
+    "장송의 프리렌 2기"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2026,
+    "month": 1,
+    "day": 16
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "description": "Following the First-Class Mage Exam, the trio—elven mage Frieren, warrior Stark, and first-class mage Fern—gains access to the dangerous Northern Plateau. As the party presses onward toward Aureole, formidable adversaries force Stark to confront his insecurities, solidifying his resolve and his role as the party's frontliner. Meanwhile, Fern continues to cherish the gifts she has been blessed with throughout her life, each a reminder of those she holds dear.<br><br>\n\nFrieren—still honoring her vow to understand humanity—revisits memories of her journey with the Hero's party and her fleeting encounter with a legendary figure. As she reflects on the passage of time, the elven mage quietly questions whether she has truly changed, yet in the small, almost subtle choices that she makes, there are signs that she might have become more human than she realizes.<br><br>\n\n(Source: MAL Rewrite)",
+  "siteUrl": "https://anilist.co/anime/182255",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 176754,
+        "name": {
+          "full": "Frieren",
+          "native": "フリーレン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b176754-PCnpqIOkjhFk.png"
+        },
+        "description": "Frieren is the protagonist of _Sousou no Frieren_ and [Fern](https://anilist.co/character/183965)'s master. She was the Mage of the Hero Party and traveled alongside Hero [Himmel](https://anilist.co/character/184311/Himmel), Warrior [Eisen](https://anilist.co/character/184312/Eisen), and Priest [Heiter](https://anilist.co/character/184310/Heiter) in a 10-year journey to defeat the Demon King. \n\nShe was a magic prodigy at a young age, with an impressive quantity of mana, which caught the interest of [Flamme](https://anilist.co/character/219733/Flamme), a human wizard who taught her everything there is to know about magic and mana control until she passed away. Frieren persists in collecting magic knowledge no matter how trivial it may be.",
+        "gender": "Female",
+        "age": "1000+"
+      },
+      "voiceActors": [
+        {
+          "id": 112215,
+          "name": {
+            "full": "Atsumi Tanezaki",
+            "native": "種﨑敦美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 183965,
+        "name": {
+          "full": "Fern",
+          "native": "フェルン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b183965-uGFohBjlFoTp.png"
+        },
+        "description": "Fern is the young mage apprentice of [Frieren](https://anilist.co/character/176754/Frieren) and accompanies her as a member of her party. She is an orphaned war refugee originally from the Southern Lands, later adopted by  [Heiter](https://anilist.co/character/184310/Heiter) and placed under Frieren's care.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 124390,
+          "name": {
+            "full": "Kana Ichinose",
+            "native": "市ノ瀬加那"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124390-03LHel2XSFel.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 184313,
+        "name": {
+          "full": "Stark",
+          "native": "シュタルク",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184313-CQl6GSt4RSny.jpg"
+        },
+        "description": "Stark is a warrior who fights alongside [Frieren](https://anilist.co/character/176754/Frieren) and [Fern](https://anilist.co/character/183965/Fern). After his village was attacked by demons, he fled and became [Eisen](https://anilist.co/character/184312/Eisen)'s apprentice. At Eisen's instruction, he joined Frieren's party as their vanguard.",
+        "gender": "Male",
+        "age": "17-18"
+      },
+      "voiceActors": [
+        {
+          "id": 133507,
+          "name": {
+            "full": "Chiaki Kobayashi",
+            "native": "小林千晃"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133507-oT1bd4Gax1Qg.jpg"
+          }
+        },
+        {
+          "id": 115100,
+          "name": {
+            "full": "Arisa Kiyoto",
+            "native": "清都ありさ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/20100.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 184311,
+        "name": {
+          "full": "Himmel",
+          "native": "ヒンメル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184311-wQFySqYXEqf1.png"
+        },
+        "description": "Hero and Leader of the party that defeated the Demon King, and a self-proclaimed handsome narcissist. He cares about his friends and can't help but help those in need. He had a great influence on [Frieren](https://anilist.co/character/176754/Frieren), with whom he had adventures for 10 years.\n",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95270,
+          "name": {
+            "full": "Nobuhiko Okamoto",
+            "native": "岡本信彦"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 184312,
+        "name": {
+          "full": "Eisen",
+          "native": "アイゼン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184312-kxd5H6iOHIq4.png"
+        },
+        "description": "Dwarf warrior who was a part of the Hero's party, later became a mentor to [Stark](https://anilist.co/character/184313/Stark).",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95926,
+          "name": {
+            "full": "Youji Ueda",
+            "native": "上田燿司"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95926-00Pd2b8WZwQS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 184310,
+        "name": {
+          "full": "Heiter",
+          "native": "ハイター",
+          "alternative": [
+            "Corrupt Priest"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b184310-tiXvrq4FINXP.jpg"
+        },
+        "description": "A priest who is a part of the Hero's party. He later took care of [Fern](https://anilist.co/character/183965/Fern) until [Frieren](https://anilist.co/character/176754/Frieren) arrived.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95236,
+          "name": {
+            "full": "Hiroki Touchi",
+            "native": "東地宏樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 219733,
+        "name": {
+          "full": "Flamme",
+          "native": "フランメ",
+          "alternative": [
+            "The Great Mage Flamme"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219733-FgXseEhMdDE9.png"
+        },
+        "description": "She lived a millennium before the story and was [Frieren](https://anilist.co/character/176754/Frieren)'s teacher.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 205177,
+        "name": {
+          "full": "Sein",
+          "native": "ザイン",
+          "alternative": [
+            "Goatee Priest"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b205177-hLV4nVQjoBIC.png"
+        },
+        "description": "Sein is a Priest from a small village in the Alt Woods. After [Frieren](https://anilist.co/character/176754/Frieren) spotted his talent, he joined her group for a period of time with the goal of reuniting with his childhood friend Gorilla.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 219734,
+        "name": {
+          "full": "Serie",
+          "native": "ゼーリエ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219734-aS4UMAb16DGd.jpg"
+        },
+        "description": "An elven mage who is said to possess knowledge about nearly every magic that exists. She was Flamme's master. She founded the Continental Magic Association around 20 years before Himmel's death. First-class mages get the privilege of meeting her and can ask for any magic they desire.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95655,
+          "name": {
+            "full": "Mariya Ise",
+            "native": "伊瀬茉莉也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95655-cR519BXmteKA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 246058,
+        "name": {
+          "full": "Denken",
+          "native": "デンケン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246058-FOtuSIUBQ4WJ.png"
+        },
+        "description": "Denken is an imperial mage of the second-class. In his youth he belonged to an army but became an imperial mage after winning a power struggle. Often calm and calculating, however he still has a fire burning within despite his old age. He saw [Frieren](https://anilist.co/character/176754/Frieren) as his motivation to become a mage. ~!Becomes a first-class mage after the examination.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102914,
+          "name": {
+            "full": "Jirou Saitou",
+            "native": "斉藤次郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102914-7ygW5ZSwODbF.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 246054,
+        "name": {
+          "full": "Methode",
+          "native": "メトーデ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246054-TKwFFWVGISUd.png"
+        },
+        "description": "A mage that can use restraint and mental manipulation magic. Good at detecting mana and can use simple recovery magic.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118602,
+          "name": {
+            "full": "Reina Ueda",
+            "native": "上田麗奈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118602-C4bNcnyEhDTu.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 321716,
+        "name": {
+          "full": "Wirbel",
+          "native": "ヴィアベル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321716-ORxrJOHaI4H4.png"
+        },
+        "description": "Second-class mage and the leader of the eighth party during the first stage of the First Class Mage Exam. He is the captain of the Northern Magic Corps and is thus a very experienced mage. Specializes in magic that restrains the opponent when their body is in full-view.",
+        "gender": "Male",
+        "age": "33-34"
+      },
+      "voiceActors": [
+        {
+          "id": 95196,
+          "name": {
+            "full": "Kishou Taniyama",
+            "native": "谷山紀章"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95196-t2vbxQMee0ci.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 300778,
+        "name": {
+          "full": "Macht",
+          "native": "マハト",
+          "alternative": [
+            "Macht of El Dorado"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b300778-kvoUHowLjexj.png"
+        },
+        "description": "Macht is a demon and a member of the Seven Sages of Destruction that directly serve the Demon King.\n\nHe wishes to understand human emotions and find a solution for humans and demons to coexist.\nHe strives for this goal by utilizing inhumane methods.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 219110,
+        "name": {
+          "full": "Aura",
+          "native": "アウラ",
+          "alternative": [
+            "Dantoudai no Aura (断頭台のアウラ)",
+            "Aura the Guillotine"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b219110-LEB5T4oG0gel.png"
+        },
+        "description": "Aura is one of the Seven Sages of Destruction directly serving the Demon King. \n\n~!She later was killed by [Frieren](https://anilist.co/character/176754/Frieren) after being commanded to kill herself using her own Auserlese.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 246055,
+        "name": {
+          "full": "Genau",
+          "native": "ゲナウ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b246055-3eoVNiZu3bTy.png"
+        },
+        "description": "First-class mage who was a proctor for the first examination.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102242,
+          "name": {
+            "full": "Tarusuke Shingaki",
+            "native": "新垣樽助"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102242-bx8hrisiHiSK.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 331267,
+        "name": {
+          "full": "Minami no Yuusha",
+          "native": "南の勇者",
+          "alternative": [
+            "Hero of the South",
+            "Mankind's Strongest"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331267-hLeSvYXwuTDt.png"
+        },
+        "description": "The Hero of the South is a Hero who fought on the front lines against the demons for mankind before Himmel met Frieren. He was said to be mankind's strongest.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95021,
+          "name": {
+            "full": "Kazuhiko Inoue",
+            "native": "井上和彦"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95021-9qAoAn6GNZ3S.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319598,
+        "name": {
+          "full": "Stoltz",
+          "native": "シュトルツ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319598-R0kVKvFug65D.png"
+        },
+        "description": "Stark's older brother, referred to as the strongest warrior in the village.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 321718,
+        "name": {
+          "full": "Ehre",
+          "native": "エーレ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b321718-MV9ZCxtNdOpJ.png"
+        },
+        "description": "Second-class mage in the Eighth Party, alongside Wirbel and Scharf, in the First Class Mage Exam. Fern feels that she is the strongest within both the Fourth and Eighth parties.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95762,
+          "name": {
+            "full": "Kanae Itou",
+            "native": "伊藤かな恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95762-qhWmwni3TT6Y.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 315929,
+        "name": {
+          "full": "Edel",
+          "native": "エーデル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315929-mJfCA4CLVxJZ.png"
+        },
+        "description": "Edel is a second-class mage in the Seventeenth Party, alongside Blei and Dunst, of the First Class Mage Exam. She specializes in Hypnosis Magic.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106661,
+          "name": {
+            "full": "Tomoyo Kurosawa",
+            "native": "黒沢ともよ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106661-xn3K6nAx2ijO.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 327305,
+        "name": {
+          "full": "Scharf",
+          "native": "シャルフ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327305-DsvizGfxKnE8.png"
+        },
+        "description": "Scharf is a third-class mage and member of the eighth party along with Wirbel and Ehre for the First Class Mage Examination.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 184624,
+          "name": {
+            "full": "Yuuji Murai",
+            "native": "村井雄治"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n184624-uVkK5jlcPgpH.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 393043,
+        "name": {
+          "full": "Zorida",
+          "native": "ゾリーダ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b393043-rYRzXoZyBYDG.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 393044,
+          "name": {
+            "full": "Miyuki Wakayama",
+            "native": "若山実祐希"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n393044-TNaIeyHBmMmo.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 331425,
+        "name": {
+          "full": "Milliarde",
+          "native": "ミリアルデ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331425-XgqTo4PKsdhH.jpg"
+        },
+        "description": "An Elf acquaintance of Frieren and the creator of the inscription that names Boshaft as the finest spirit in the world.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95040,
+          "name": {
+            "full": "Mamiko Noto",
+            "native": "能登麻美子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 327299,
+        "name": {
+          "full": "Lernen",
+          "native": "レルネン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b327299-NgvxpyNecgoZ.png"
+        },
+        "description": "An old friend of Denken. First Class Mage and Serie's apprentice. Rarely acts directly, preferring stealth.\n~!Helped in the extraction and transfer of information necessary for the liberation of Denken's hometown.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102699,
+          "name": {
+            "full": "Atsushi Miyauchi",
+            "native": "宮内敦士"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7699.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 393045,
+        "name": {
+          "full": "Yun",
+          "native": "ユン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b393045-8BhpSTh9qeMU.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 302497,
+          "name": {
+            "full": "Tsukino Chikasada",
+            "native": "近貞月乃"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n302497-Az3LpHyR8sr0.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 331269,
+        "name": {
+          "full": "Revolte",
+          "native": "レヴォルテ",
+          "alternative": [
+            "Divine Revolte",
+            "Kamiwaza no Revolte (神技のレヴォルテ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331269-PSE8DO36qCoW.png"
+        },
+        "description": "Revolte, also known as Divine Revolte, is a demon general. Revolte wields four swords made of magic.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95022,
+          "name": {
+            "full": "Shinichirou Miki",
+            "native": "三木眞一郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 331439,
+        "name": {
+          "full": "Fass",
+          "native": "ファス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331439-meDK5YbPGLuQ.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95058,
+          "name": {
+            "full": "Yuuji Ueda",
+            "native": "うえだゆうじ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95058-fGnId7E4tgx3.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 331424,
+        "name": {
+          "full": "Gehen",
+          "native": "ゲーエン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331424-kn1wRDukHtfY.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95243,
+          "name": {
+            "full": "Tooru Ookawa",
+            "native": "大川透"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95243-zhk18RRqSAmx.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 393042,
+        "name": {
+          "full": "Hermon",
+          "native": "へモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b393042-gJUh80660HzR.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 303856,
+          "name": {
+            "full": "Mizuki Ishii",
+            "native": "石井瑞樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n303856-VSk7XqzBF4pC.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 331265,
+        "name": {
+          "full": "Schlacht",
+          "native": "シュラハト",
+          "alternative": [
+            "Omniscient Schlacht",
+            "Zenchi no Schlacht (全知のシュラハト)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331265-V6xCje9U7OeT.png"
+        },
+        "description": "Schlacht, also known as the Omniscient Schlacht, is a demon who was said to be the Demon King's confidant.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 387928,
+        "name": {
+          "full": "Tsurugi no Mazoku",
+          "native": "剣の魔族",
+          "alternative": [
+            "Sword Demon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b387928-QHEDJrm7kVgb.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 112247,
+          "name": {
+            "full": "Rikako Yamaguchi",
+            "native": "山口立花子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112247-wlARp1TTDJMI.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 331273,
+        "name": {
+          "full": "Grausam",
+          "native": "グラオザーム",
+          "alternative": [
+            "Grausam the Miraculous",
+            "Kiseki no Grausam (奇跡のグラオザーム)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331273-hV3gfkSJA0Iw.png"
+        },
+        "description": "Grausam, also known as the Grausam the Miraculous, was one of the Seven Sages of Destruction that served the Demon King.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 331423,
+        "name": {
+          "full": "Dach Hakushaku",
+          "native": "ダッハ伯爵",
+          "alternative": [
+            "Graf Dach"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331423-D1WkXFsj0Rdk.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 168154,
+          "name": {
+            "full": "Kousuke Kobayashi",
+            "native": "小林康介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n168154-0qRi0eFr7HY9.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 331435,
+        "name": {
+          "full": "Norm",
+          "native": "ノルム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b331435-KtkRdUqphwVk.png"
+        },
+        "description": "The president of the Norm Company in the Northern Plateau.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 158578,
+          "name": {
+            "full": "Akinori Egoshi",
+            "native": "江越彬紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n158578-yfCyMoRfO9jD.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 386951,
+        "name": {
+          "full": "Gyosha",
+          "native": "御者",
+          "alternative": [
+            "Coachman"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b386951-yMbsDNZdoDyR.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95861,
+          "name": {
+            "full": "Tadashi Miyazawa",
+            "native": "宮澤正"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/861.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 394473,
+        "name": {
+          "full": "Senchou",
+          "native": "船長",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394473-nbBMfGd5JLTa.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 120265,
+          "name": {
+            "full": "Katsunori Okai",
+            "native": "岡井カツノリ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120265-OwG4L7QF0IR4.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 315938,
+        "name": {
+          "full": "Böse",
+          "native": "ボーズ",
+          "alternative": [
+            "Immortal Böse"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b315938-GOkQKOqUAQo9.png"
+        },
+        "description": "Böse, also known as the Immortal Böse, was one of the Seven Sages of Destruction.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 387926,
+        "name": {
+          "full": "Shitsuji",
+          "native": "執事",
+          "alternative": [
+            "Butler"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b387926-SiDGkz0ZvGYJ.png"
+        },
+        "description": "Dach Hakushaku's butler.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 203133,
+          "name": {
+            "full": "Kento Shiraishi",
+            "native": "白石兼斗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 387927,
+        "name": {
+          "full": "Dach Hakushaku no Sousofu",
+          "native": "ダッハ伯爵の曾祖父",
+          "alternative": [
+            "Graf Dach's Great-Grandfather"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b387927-FDZ8i6BhPjB1.png"
+        },
+        "description": "Graf Dach's great-grandfather.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 163674,
+          "name": {
+            "full": "Kenta Sasa",
+            "native": "佐々健太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n163674-f2W4ohvETz1B.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 387929,
+        "name": {
+          "full": "Murabito",
+          "native": "村人",
+          "alternative": [
+            "Villager"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 254486,
+          "name": {
+            "full": "Masafumi Kobatake",
+            "native": "こばたけまさふみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n254486-8gVRwsQFhknA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 387930,
+        "name": {
+          "full": "Kodomo",
+          "native": "子供",
+          "alternative": [
+            "Child"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 387933,
+          "name": {
+            "full": "Hijiri Shiwakawa",
+            "native": "白川聖"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n387933-bXsujsZjxPIw.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 387931,
+        "name": {
+          "full": "Kodomo",
+          "native": "子供",
+          "alternative": [
+            "Child"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 294360,
+          "name": {
+            "full": "Megumi Arakawa",
+            "native": "新川愛実"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n294360-4tpgUxh2o1Jx.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 387932,
+        "name": {
+          "full": "Kodomo",
+          "native": "子供",
+          "alternative": [
+            "Child"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 303939,
+          "name": {
+            "full": "Sakura Namiki",
+            "native": "並木さくら"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n303939-4NuTWkWx6S3r.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 388977,
+        "name": {
+          "full": "Koya no Shu",
+          "native": "小屋の主",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b388977-N4J4JRpOO0Xd.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 109557,
+          "name": {
+            "full": "Naoki Bandou",
+            "native": "坂東尚樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109557-aRcQs7olJEKa.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 388979,
+        "name": {
+          "full": "Musuko",
+          "native": "息子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 388980,
+          "name": {
+            "full": "Anna Ishikawa",
+            "native": "石川明日菜"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n388980-GTosRiFSyPuY.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 388981,
+        "name": {
+          "full": "Musuko",
+          "native": "息子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119821,
+          "name": {
+            "full": "Rika Kinugawa",
+            "native": "衣川里佳"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119821-q3681hu03ayO.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 388982,
+        "name": {
+          "full": "Onsen no Obaa-san",
+          "native": "温泉のおばあさん",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b388982-gk4zMnsoTZXc.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 175786,
+          "name": {
+            "full": "Momoe Kishimoto",
+            "native": "岸本百恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n175786-MFkQrEjpG1jf.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 389790,
+        "name": {
+          "full": "Murabito",
+          "native": "村人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 305783,
+          "name": {
+            "full": "Tomomi Tanaka",
+            "native": "田中那実"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n305783-DE2mR7cxFVas.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 389791,
+        "name": {
+          "full": "Murabito",
+          "native": "村人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 121022,
+          "name": {
+            "full": "Emiko Takeuchi",
+            "native": "竹内恵美子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121022-DBivYQLuvknD.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 389792,
+        "name": {
+          "full": "Murabito",
+          "native": "村人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 128195,
+          "name": {
+            "full": "Takayuki Nakatsukasa",
+            "native": "中務貴幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128195-BMcl9CbZQKGm.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 389793,
+        "name": {
+          "full": "Eihei",
+          "native": "衛兵",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b389793-l75n0uMYqzty.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 145949,
+          "name": {
+            "full": "Takaaki Torashima",
+            "native": "虎島貴明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n145949-Uvv1kANbguVE.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 389794,
+        "name": {
+          "full": "Shuuraku no Juunin",
+          "native": "集落の住人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 179984,
+          "name": {
+            "full": "Takaaki Uchino",
+            "native": "内野孝聡"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n179984-pRLQKjH2E6my.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390700,
+        "name": {
+          "full": "Murabito",
+          "native": "村人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 167513,
+          "name": {
+            "full": "Kouji Seki",
+            "native": "関幸司"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167513-8NJDUdXtIf72.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390701,
+        "name": {
+          "full": "Murabito",
+          "native": "村人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 161329,
+          "name": {
+            "full": "Makoto Kaneko",
+            "native": "金子誠"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n161329-ZBd33oqvqZeW.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390703,
+        "name": {
+          "full": "Uketsuke",
+          "native": "受付",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 301591,
+          "name": {
+            "full": "Yuuki Terui",
+            "native": "照井悠希"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n301591-F66cE3utXb5Z.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390704,
+        "name": {
+          "full": "Oyakata",
+          "native": "親方",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 128197,
+          "name": {
+            "full": "Yuuki Sanpei",
+            "native": "三瓶雄樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128197-Ay0C6BKWw5fu.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 390705,
+        "name": {
+          "full": "Koufu",
+          "native": "鉱夫",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 254486,
+          "name": {
+            "full": "Masafumi Kobatake",
+            "native": "こばたけまさふみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n254486-8gVRwsQFhknA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 392379,
+        "name": {
+          "full": "Genau no Osananajimi",
+          "native": "ゲナウの幼馴染",
+          "alternative": [
+            "Genau's Childhood Friend"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392379-jPQZTBj1XE7Y.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 164131,
+          "name": {
+            "full": "Kentarou Mashiro",
+            "native": "真白健太朗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164131-O71pY8fnjVah.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 392380,
+        "name": {
+          "full": "Kodomo",
+          "native": "子供",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392380-BKj56n1yh8Q2.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 176221,
+          "name": {
+            "full": "Marie Ooi",
+            "native": "大井麻利衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n176221-OIbPderUA1X0.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 392381,
+        "name": {
+          "full": "Kishidan Taichou",
+          "native": "騎士団隊長",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392381-NaTc3YPClxhf.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 251850,
+          "name": {
+            "full": "Kazuki Kyan",
+            "native": "喜屋武和輝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n251850-mT3vK3ka5yGP.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 392382,
+        "name": {
+          "full": "Kishi",
+          "native": "騎士",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392382-07lF704bOQgf.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 254486,
+          "name": {
+            "full": "Masafumi Kobatake",
+            "native": "こばたけまさふみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n254486-8gVRwsQFhknA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 392383,
+        "name": {
+          "full": "Mazoku",
+          "native": "魔族",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392383-iBWbGmPnFXEk.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 385654,
+          "name": {
+            "full": "Futo Hamagami",
+            "native": "濱上風音"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n385654-iGfJwgj8ra64.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 393611,
+        "name": {
+          "full": "Genau no Motoaibou",
+          "native": "ゲナウの元相棒",
+          "alternative": [
+            "Genau's Former Partner"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b393611-AghC87jMixld.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 114946,
+          "name": {
+            "full": "Genki Okawa",
+            "native": "大河元気"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114946-P0yRoqSm5swu.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 394469,
+        "name": {
+          "full": "Kishidan Taichou",
+          "native": "騎士団隊長",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394469-ihvSxBw64NPq.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 174709,
+          "name": {
+            "full": "Satoru Itou",
+            "native": "いとうさとる"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n174709-4YKpfKGgHGis.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 394470,
+        "name": {
+          "full": "Sonchou",
+          "native": "村長",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394470-0h0RqMqs0CBR.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107158,
+          "name": {
+            "full": "Yasuhiro Fujiwara",
+            "native": "ヤスヒロ "
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107158-PYQsUDFGM6rA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 394471,
+        "name": {
+          "full": "Murabito",
+          "native": "村人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394471-gYCh6chOePtH.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 254486,
+          "name": {
+            "full": "Masafumi Kobatake",
+            "native": "こばたけまさふみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n254486-8gVRwsQFhknA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 394472,
+        "name": {
+          "full": "Murabito",
+          "native": "村人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394472-WSmxAaDC1JGG.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 176221,
+          "name": {
+            "full": "Marie Ooi",
+            "native": "大井麻利衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n176221-OIbPderUA1X0.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 394785,
+        "name": {
+          "full": "Boukensha",
+          "native": "冒険者",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394785-hIUJr1pxziid.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95341,
+          "name": {
+            "full": "Hirofumi Nojima",
+            "native": "野島裕史"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95341-SOsBuzcMtYe8.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 394786,
+        "name": {
+          "full": "Kishidan Taichou",
+          "native": "騎士団隊長",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b394786-McDGM6t7ODxM.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 364932,
+          "name": {
+            "full": "Yuu Haruichi",
+            "native": "晴一ユウ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n364932-BJD7Hto7hcEZ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 394787,
+        "name": {
+          "full": "Murabito",
+          "native": "村人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 385654,
+          "name": {
+            "full": "Futo Hamagami",
+            "native": "濱上風音"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n385654-iGfJwgj8ra64.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 394788,
+        "name": {
+          "full": "Murabito",
+          "native": "村人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 131421,
+          "name": {
+            "full": "Kouhei Yanagi",
+            "native": "柳晃平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131421-UnSKM83TA5Jg.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 394789,
+        "name": {
+          "full": "Saikutsusha",
+          "native": "採掘者",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 254486,
+          "name": {
+            "full": "Masafumi Kobatake",
+            "native": "こばたけまさふみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n254486-8gVRwsQFhknA.png"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,528 @@
+{
+  "fetchedAt": "2026-10-25T02:28:03.880Z",
+  "id": 184279,
+  "title": {
+    "romaji": "Ballpark de Tsukamaete!",
+    "english": "Catch Me at the Ballpark!",
+    "native": "ボールパークでつかまえて！"
+  },
+  "synonyms": [
+    "The Catcher in the Ballpark!"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2025,
+    "month": 4,
+    "day": 2
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Slice of Life",
+    "Sports"
+  ],
+  "description": "To escape his tiring job, weary Murata finds escape at a nearby baseball stadium. While the games are thrilling, it’s Ruriko, the gyaru as cold as the beer she serves but secretly a sweetheart, who keeps him coming back. As her first regular, Murata discovers the warmth behind her frosty demeanor, and their hilarious, heartwarming encounters light up the ballpark and maybe even their hearts.\n<br><br>\n(Source: Crunchyroll)",
+  "siteUrl": "https://anilist.co/anime/184279",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 241020,
+        "name": {
+          "full": "Ruriko",
+          "native": "瑠璃子",
+          "alternative": [
+            "るり子",
+            "ルリ子"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b241020-La9xoQ7AWcob.jpg"
+        },
+        "description": "Ruriko is a young woman who works as a beer vendor in the ballpark. She tries hard to engage with her customers, unlike her normally shy personality.\n~!Later in the story it is implied she has developed a crush on Murata.!~",
+        "gender": "Female",
+        "age": "20"
+      },
+      "voiceActors": [
+        {
+          "id": 133625,
+          "name": {
+            "full": "Fairouz Ai",
+            "native": "ファイルーズあい"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133625-YpEgKD7flV2S.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 299938,
+        "name": {
+          "full": "Koutarou Murata",
+          "native": "村田コウタロウ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299938-d5cRgEGVslZY.jpg"
+        },
+        "description": "A 30-year old salaryman who often comes alone to the stadium. Ruriko often flirts with him and he always buys beer from her. ~!He becomes her first regular customer.!~",
+        "gender": "Male",
+        "age": "30"
+      },
+      "voiceActors": [
+        {
+          "id": 165186,
+          "name": {
+            "full": "Satoshi Inomata",
+            "native": "猪股慧士"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165186-79ya8S2FORfS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 299952,
+        "name": {
+          "full": "Natsuno Yamada",
+          "native": "山田夏乃",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299952-ckWPOYYLAwwe.jpg"
+        },
+        "description": "Natsuno is a college student working part-time as a bento shop cashier at the stadium. She has a crush on Murata, who she calls her \"prince\". She is distinguished by her long wavy hair, covered on top by a bandana.",
+        "gender": "Female",
+        "age": "20"
+      },
+      "voiceActors": [
+        {
+          "id": 125035,
+          "name": {
+            "full": "Ayumi Mano",
+            "native": "真野あゆみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125035-08CpsDFvGvki.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 299945,
+        "name": {
+          "full": "Yuki Takino",
+          "native": "滝野ユキ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299945-gSiiS6O6IU6r.jpg"
+        },
+        "description": "Yuki is Kojiro's devoted wife who always comes to the stadium to watch his games and cheer him on.",
+        "gender": "Female",
+        "age": "39"
+      },
+      "voiceActors": [
+        {
+          "id": 119916,
+          "name": {
+            "full": "Rika Tachibana",
+            "native": "立花理香"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119916-Fyw4yUlqOYBh.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 299948,
+        "name": {
+          "full": "Kohinata",
+          "native": "こひなた",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299948-tHTC7AmFAIOS.jpg"
+        },
+        "description": "Kohinata is the most experienced beer vendor working in the stadium. She is an office lady who has also been working part-time at the stadium for 10 years. She is distinguished by her long black hair, mole under her mouth and her sizable bust.",
+        "gender": "Female",
+        "age": "29"
+      },
+      "voiceActors": [
+        {
+          "id": 108639,
+          "name": {
+            "full": "Maaya Uchida",
+            "native": "内田真礼"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 242479,
+        "name": {
+          "full": "Dennis Young",
+          "native": "デニス・ヤング",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b242479-evE9HMEgi7Gl.jpg"
+        },
+        "description": "Dennis is a professional baseball player from Chicago who is playing for the Chiba Motorsuns. He develops an anonymous crush on Ruriko after seeing her from afar, who he calls the \"Goddess of Baseball\".",
+        "gender": "Male",
+        "age": "27"
+      },
+      "voiceActors": [
+        {
+          "id": 105571,
+          "name": {
+            "full": "Kentarou Tone",
+            "native": "利根健太朗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105571-Ck9wy1fxMy3N.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 299947,
+        "name": {
+          "full": "Aona",
+          "native": "アオナ",
+          "alternative": [
+            "あおな"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299947-7PziDOG7CtIp.jpg"
+        },
+        "description": "Aona is a beer vendor working in the stadium. She is a college student who has recently started dating Oomatsu, one of the checkers working in the stadium. She is distinguished by her slightly wavy hair arranged in a ponytail.",
+        "gender": "Female",
+        "age": "22"
+      },
+      "voiceActors": [
+        {
+          "id": 132768,
+          "name": {
+            "full": "Ikumi Hasegawa",
+            "native": "長谷川育美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n132768-r4FwpBpHnRtZ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 299989,
+        "name": {
+          "full": "Nagisa Satou",
+          "native": "佐藤なぎさ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299989-BoXdSFccfq1z.jpg"
+        },
+        "description": "Nagisa is the announcer for the Chiba Motorsuns stadium. She is known for cracking jokes when introducing the Motorsuns player Ken Nokogiriyama.",
+        "gender": "Female",
+        "age": "35"
+      },
+      "voiceActors": [
+        {
+          "id": 107711,
+          "name": {
+            "full": "Kiyono Yasuno",
+            "native": "安野希世乃"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107711-xaS7giEK9UIU.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 299946,
+        "name": {
+          "full": "Sara",
+          "native": "サラ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299946-VWYZqIdlZPWW.jpg"
+        },
+        "description": "Sara is the youngest beer vendor in the stadium. She is a high school girl who has been working part-time at the stadium for 1 year, technically making her Ruriko's senpai. She is distinguished by her short black hair arranged in a bobcut hairstyle.",
+        "gender": "Female",
+        "age": "18"
+      },
+      "voiceActors": [
+        {
+          "id": 120172,
+          "name": {
+            "full": "Mayu Sagara",
+            "native": "相良茉優"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120172-U293GCeONa69.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 299951,
+        "name": {
+          "full": "Hotaru Shimizu",
+          "native": "清水ほたる",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299951-7FyA5VFqCXeg.jpg"
+        },
+        "description": "Hotaru is a new hire at Murata's company and his junior coworker. She is very knowledgeable about baseball statistics. She is distinguished by her glasses and her long black hair, neatly tied at the back.",
+        "gender": "Female",
+        "age": "23"
+      },
+      "voiceActors": [
+        {
+          "id": 273811,
+          "name": {
+            "full": "Atsuki Nakamura",
+            "native": "中村温姫"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n273811-Wyon8rI80BAS.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 299944,
+        "name": {
+          "full": "Kojirou Takino",
+          "native": "滝野コジロー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299944-N4z7sXuLqsuH.jpg"
+        },
+        "description": "Kojirou is a professional baseball player with a wRC+ of 120. He is the husband of Yuki Takino.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95236,
+          "name": {
+            "full": "Hiroki Touchi",
+            "native": "東地宏樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 299990,
+        "name": {
+          "full": "Ken Nokogiriyama",
+          "native": "鋸山剣",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299990-Qm6o9CK1cmeB.jpg"
+        },
+        "description": "Ken is the left fielder for the Chiba Motorsuns. He gets along well with the stadium announcer Nagisa, who always gives him special introductions as a running gag for the fans.",
+        "gender": "Male",
+        "age": "28"
+      },
+      "voiceActors": [
+        {
+          "id": 95086,
+          "name": {
+            "full": "Jun Fukuyama",
+            "native": "福山潤"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 365265,
+        "name": {
+          "full": "Kokoro",
+          "native": "こころ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 298582,
+          "name": {
+            "full": "Momoko Seto",
+            "native": "瀬戸桃子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n298582-wQG1c3x4Mej8.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 299991,
+        "name": {
+          "full": "Kazuki Oomatsu",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b299991-m0UnL0u2GzAX.jpg"
+        },
+        "description": "Kazuki is the sub-leader of the stadium checkers. He is Aona's boyfriend.",
+        "gender": "Male",
+        "age": "22"
+      },
+      "voiceActors": [
+        {
+          "id": 352824,
+          "name": {
+            "full": "Satoshi Tanaka",
+            "native": "田中智士"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n352824-DPrm7ynavZWz.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 365266,
+        "name": {
+          "full": "Brian",
+          "native": "ブライアン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 323171,
+          "name": {
+            "full": "Kou Bonkobara",
+            "native": "盆子原康"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n323171-2NRqstp4uXFG.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 365267,
+        "name": {
+          "full": "Nakaizumi",
+          "native": "中泉",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95926,
+          "name": {
+            "full": "Youji Ueda",
+            "native": "上田燿司"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95926-00Pd2b8WZwQS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 401520,
+        "name": {
+          "full": "Miku",
+          "native": "ミク",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 401521,
+          "name": {
+            "full": "Akari Yura",
+            "native": "由良朱合"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n401521-7cWtuyuSw1ld.png"
+          }
+        }
+      ]
+    }
+  ]
+}

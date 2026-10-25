@@ -1,0 +1,558 @@
+{
+  "fetchedAt": "2026-10-25T02:50:03.303Z",
+  "id": 186863,
+  "title": {
+    "romaji": "Neko to Ryuu",
+    "english": "The Cat and the Dragon",
+    "native": "猫と竜"
+  },
+  "synonyms": [],
+  "format": "ONA",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2026,
+    "month": 6,
+    "day": 27
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "description": "The story follows a fire-breathing, human-hating dragon raised by a mother cat in a forest. The dragon, known affectionately as \"Uncle Wing,\" watches over the many curious cats — such as one that goes on an adventure with a human prince, and another that lives in the city and people-watches as a hobby — and gradually warms up to humans along the way.<br><br>\n\n(Source: Crunchyroll News)<br><br>\n<i>Note: Each episode streamed 1 week early on ABEMA and dAnimeStore. The original TV broadcast started on July 4, 2026.</i>",
+  "siteUrl": "https://anilist.co/anime/186863",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 379625,
+        "name": {
+          "full": "Nekoryuu",
+          "native": "猫竜",
+          "alternative": [
+            "Uncle Wing"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b379625-sZJ5q8XlTC5N.png"
+        },
+        "description": "A fire-breathing dragon with red wings who lives deep in the forest. After his biological parents died, he was raised by a mother cat. As if to repay his mother's kindness, he lives his life as a cat, snuggling up to the other cats of the forest. For certain reasons, he has an extreme dislike of humans.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95160,
+          "name": {
+            "full": "Takehito Koyasu",
+            "native": "子安武人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 392451,
+        "name": {
+          "full": "Mama-nyan",
+          "native": "ママにゃん",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392451-Qtnesm0V1IW7.png"
+        },
+        "description": "A seasoned mother cat who raises her children deep in the forest. Her children call her \"Mom\" and she is quite courageous. She raised a cat dragon she met by chance as her own. In the past, she has also raised a magical beast's baby.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95195,
+          "name": {
+            "full": "Kikuko Inoue",
+            "native": "井上喜久子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 398640,
+        "name": {
+          "full": "Annerossa",
+          "native": "アンネロッサ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b398640-IaMq65Z0zixc.png"
+        },
+        "description": "A girl attending a magic school. She has an introverted personality and lacks self-confidence.\n\nOne day, she enters into a familiar pact with [Mama-nyan](https://anilist.co/character/392451/Mamanyan).",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106030,
+          "name": {
+            "full": "Chika Anzai",
+            "native": "安済知佳"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106030-oz4RUJZ3D9v9.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 392453,
+        "name": {
+          "full": "Kurobane",
+          "native": "クロバネ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392453-Rj3lszTWEAMx.png"
+        },
+        "description": "A powerful black cat dwelling deep within the forest. He proposes a plan to hunt bears to his brothers. He would later become a figure revered as a hero by the cats.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95137,
+          "name": {
+            "full": "Shou Hayami",
+            "native": "速水奨"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95137-2Q5l3Br9G7sk.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 392456,
+        "name": {
+          "full": "Kurotama",
+          "native": "クロタマ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392456-inIPrj3gS8Wl.png"
+        },
+        "description": "Part of the brother cats who live deep in the forest. Together with his brothers, he plans a strategy to hunt bears. He has more courage and drive than any other cat.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 138019,
+          "name": {
+            "full": "Shinnosuke Tokudome",
+            "native": "徳留慎乃佑"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n138019-ThPPMU8dqpnH.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 398638,
+        "name": {
+          "full": "Gally",
+          "native": "ガリー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b398638-DMacXCyc8vDG.png"
+        },
+        "description": "A tomboy raised in an orphanage. She is cheerful and looks after others well, making her beloved by the children at the orphanage.\n\nShe meets [Shirotae](https://anilist.co/character/392452/Shirotae) while he is on his journey and becomes his friend.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 112215,
+          "name": {
+            "full": "Atsumi Tanezaki",
+            "native": "種﨑敦美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 392452,
+        "name": {
+          "full": "Shirotae",
+          "native": "シロタエ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392452-LnYBzHE4Q9FH.png"
+        },
+        "description": "A cat dreaming of having its own territory. Skilled at hunting and adept at magic. While traveling, it meets a human girl named Gary and becomes friends with her.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 164145,
+          "name": {
+            "full": "Fuuka Izumi",
+            "native": "和泉風花"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164145-p1WTuYXX8or6.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 400422,
+        "name": {
+          "full": "Haneko",
+          "native": "葉猫",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b400422-vSMC2f2i91Un.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 116515,
+          "name": {
+            "full": "Yuu Serizawa",
+            "native": "芹澤優"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116515-oJ1kcaqDgYg0.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 402576,
+        "name": {
+          "full": "Yondaime Moshamosha",
+          "native": "四代目モシャモシャ",
+          "alternative": [
+            "Moshamosha IV"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b402576-1WsA7p0jVYxP.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95926,
+          "name": {
+            "full": "Youji Ueda",
+            "native": "上田燿司"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95926-00Pd2b8WZwQS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 392454,
+        "name": {
+          "full": "Haibuchi",
+          "native": "ハイブチ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392454-ZAZrZye3NmbN.png"
+        },
+        "description": "A nosy cat living in the castle town. Observing humans is his hobby.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95016,
+          "name": {
+            "full": "Noriaki Sugiyama",
+            "native": "杉山紀彰"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95016-03m7lAUZBMDv.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 398639,
+        "name": {
+          "full": "Stan",
+          "native": "スタン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b398639-GRoQwe0hOXFg.png"
+        },
+        "description": "A prince of the kingdom where cats and dragons coexist.\n\nHe is full of curiosity and harbors a strong longing to become an adventurer. He has been with [Kurobane](https://anilist.co/character/392453/Kurobane) since he was a baby.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119319,
+          "name": {
+            "full": "Junya Enoki",
+            "native": "榎木淳弥"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 402572,
+        "name": {
+          "full": "Greater Demon",
+          "native": "グレーターデーモン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b402572-4Rqr5B1EDVMw.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 128613,
+          "name": {
+            "full": "Hinata Tadokoro",
+            "native": "田所陽向"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128613-kF3lV0TyV2WG.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 392455,
+        "name": {
+          "full": "Chiikuro",
+          "native": "チークロ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b392455-E2vXploRYvQG.png"
+        },
+        "description": "Part of the brother cats who live deep in the forest. Together with his brothers, he plans a strategy to hunt bears. He has a strong sense of curiosity.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 127542,
+          "name": {
+            "full": "Maki Kawase",
+            "native": "河瀬茉希"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n127542-rHFIx0NCHfsU.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 402573,
+        "name": {
+          "full": "Monarca (Kuro)",
+          "native": "モナルカ(黒)",
+          "alternative": [
+            "Monarca (Black)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 111635,
+          "name": {
+            "full": "Natsuki Hanae",
+            "native": "花江夏樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 402575,
+        "name": {
+          "full": "Mikemike",
+          "native": "ミケミケ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 205010,
+          "name": {
+            "full": "Saho Shirasu",
+            "native": "白砂沙帆"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n205010-6xmikjNcH3BP.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 400420,
+        "name": {
+          "full": "Ouji",
+          "native": "王子",
+          "alternative": [
+            "Prince"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 129325,
+          "name": {
+            "full": "Makoto Koichi",
+            "native": "小市眞琴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129325-RhR0e5aA6Yj5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 400421,
+        "name": {
+          "full": "Kokuou",
+          "native": "国王",
+          "alternative": [
+            "King"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b400421-wzeO0Lg7TJss.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96519,
+          "name": {
+            "full": "Kazuya Ichijou",
+            "native": "一条和矢"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1519.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 402574,
+        "name": {
+          "full": "Pompora",
+          "native": "ポムポラ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95854,
+          "name": {
+            "full": "Tomohisa Asou",
+            "native": "麻生智久"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95854-DovWtfrg4gRV.png"
+          }
+        }
+      ]
+    }
+  ]
+}

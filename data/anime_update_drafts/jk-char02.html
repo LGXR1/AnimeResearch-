@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+
+<title>キャラクター | TVアニメ「女子高生の無駄づかい」公式サイト</title>
+
+<meta name="description" content="TVアニメ「女子高生の無駄づかい」公式サイト ／ 浪費する、青春――。個性豊かで魅力的な仲間たちが、女子高生というキラめきに溢れた青春を無駄に浪費していく抱腹絶倒のJK学園コメディ！">
+<meta name="Keywords" content="女子高生,無駄づかい,ビーノ,コミックNewtype,TVアニメ,アニメ化,女子無駄,女子高生の無駄遣い,女子高生の無駄づかい,じょしむだ">
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:site" content="@jyoshimuda" />
+<meta name="twitter:creator" content="@jyoshimuda" />
+<meta name="twitter:url" content="http://jyoshimuda.com/"/>
+<meta name="twitter:title" content="TVアニメ「女子高生の無駄づかい」公式サイト"/>
+<meta name="twitter:description" content="TVアニメ「女子高生の無駄づかい」公式サイト ／ 浪費する、青春――。個性豊かで魅力的な仲間たちが、女子高生というキラめきに溢れた青春を無駄に浪費していく抱腹絶倒のJK学園コメディ！"/>
+<meta name="twitter:image" content="http://jyoshimuda.com/ogp.jpg" />
+
+<link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="apple-touch-icon" href="http://jyoshimuda.com/apple-touch-icon.png"/>
+
+<link rel="stylesheet" media="screen" href="css/normalize.ja_.css">
+<link rel="stylesheet" media="screen" href="css/base.css">
+<link rel="stylesheet" media="screen" href="css/page.css">
+<link rel="stylesheet" media="screen" href="css/shadowbox.css">
+<link rel="stylesheet" media="screen" href="css/mobile_menu.css">
+<link rel="stylesheet" media="screen" href="css/jssocials.css">
+<link rel="stylesheet" media="screen" href="css/jssocials-theme-flat.css">
+
+<link href="https://fonts.googleapis.com/css?family=M+PLUS+1p" rel="stylesheet">
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<script type="text/javascript" src="js/jquery-2.2.4.min.js"></script>
+<script type="text/javascript" src="js/jquery.easie.js"></script>
+<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="js/shadowbox.js"></script>
+<script type="text/javascript" src="js/jssocials.min.js"></script>
+<script type="text/javascript" src="js/jquery.pagination.js"></script> 
+
+<!--■■■■ メニュー選択 ■■■-->
+<script>
+setInterval(function(){
+	var page = "chara";
+	var menu_select = "#slt_" + page;
+if ($("menu_select").hasClass("select")) {
+  //class selectがあれば
+  } else if (!$("menu_select").hasClass("select")) {
+  //class selectが無かったら
+	$(menu_select).addClass("select")
+}
+},1000);
+</script>
+
+<!-- shadowbox -->
+<script type="text/javascript">
+	Shadowbox.init({
+	language: 'ja',
+  overlayColor: "#39273D",
+	overlayOpacity:0.98,
+	players: ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv']
+	});
+</script>
+
+<script>
+$(window).load(function(){
+    if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) {
+        $('#sb-body-inner').css({
+            'overflow': 'scroll', 
+            '-webkit-overflow-scrolling': 'touch' 
+        }); 
+    }
+});
+</script>
+
+<!-- メニュー（モバイル用） -->
+<script>
+$(document).ready(function () {
+    $(".menu-btn a").click(function () {
+        $(".overlay").fadeToggle(200);
+        $(this).toggleClass('btn-open').toggleClass('btn-close');
+    });
+    $('.overlay').on('click', function () {
+        $(".overlay").fadeToggle(200);
+        $(".menu-btn a").toggleClass('btn-open').toggleClass('btn-close');
+    });
+    $('.menu a').on('click', function () {
+        $(".overlay").fadeToggle(200);
+        $(".menu-btn a").toggleClass('btn-open').toggleClass('btn-close');
+    });
+});
+</script>
+
+
+<!-- 解像度判定 -->
+<script>
+$(function() {
+    var w = $(window).width();
+    var x = 480;
+    if (w <= x) {
+        $.getScript("");
+    } else {
+        $.getScript("js/page01_pc.js");
+    }
+});
+</script>
+
+
+<!-- ページャー -->
+<script>
+if(location.href.indexOf("?id") == -1){
+	$(function($) {
+		$('.newsPaging').pagination({
+			element      :'article',
+        	prevText     : '＜',
+        	nextText     : '＞',
+        	firstText    : '最初',
+        	lastText     : '最後',
+        	ellipsisText : '・・・',
+        	viewNum      : 5,
+        	pagerNum     : 3,
+        	ellipsis     : true,
+        	linkInvalid  : true,
+        	goTop        : true,
+        	firstLastNav : false,
+        	prevNextNav  : true
+    	});
+	});
+  
+}else{
+	$(window).load(function () {
+  var w = $(window).width();
+  var x = 480;
+  //480px以下の場合は内部リンクを20px上部移動
+  if (w <= x) {
+		$(function(){
+    		var url = $(location).attr('href');
+    		if (url.indexOf("?id=") == -1) {
+    		}else{
+        		var url_sp = url.split("?id=");　
+        		var hash   = '#' + url_sp[url_sp.length - 1];
+        		var tgt    = $(hash);
+        		var pos    = tgt.offset().top - 20;
+        		$("html, body").animate({scrollTop:pos}, 400, "swing");
+    		}
+		});
+　//480px以上の場合は内部リンクをメニュー分Xpx上部移動
+  }else{
+ 		$(function(){
+    		var url = $(location).attr('href');
+    		if (url.indexOf("?id=") == -1) {
+    		}else{
+        		var url_sp = url.split("?id=");　
+        		var hash   = '#' + url_sp[url_sp.length - 1];
+        		var tgt    = $(hash);
+        		var pos    = tgt.offset().top - 80;
+        		$("html, body").animate({scrollTop:pos}, 400, "swing");
+    		}
+		}); 
+  }
+  
+
+	});
+}
+</script>
+
+<!--▼アンカーリンク▼-->
+<script type="text/javascript">
+$(function(){
+    var url = $(location).attr('href');
+    if (url.indexOf("?id=") == -1) {
+        // スムーズスクロール以外の処理
+    }else{
+        // スムーズスクロールの処理
+        var url_sp = url.split("?id=");　
+        var hash   = '#' + url_sp[url_sp.length - 1];
+        var tgt    = $(hash);
+        var pos    = tgt.offset().top - 50;　 // 指定ピクセルだけずらす
+        $("html, body").animate({scrollTop:pos}, 400, "swing");
+    }
+});
+</script>
+
+<script type="text/javascript">
+$(function(){
+ $("#share").jsSocials({
+  showLabel: false,
+  showCount: false,
+  shares: ["email", "twitter", "facebook"]
+ });
+});
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128429682-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-128429682-1');
+</script>
+
+<!-- メニューロード -->
+<script>
+$.ajaxSetup({ cache: false });
+$(function(){
+ $(".global_menu_load").load("g_menu.html .gmenu_wrap");
+ $(".global_menu_load_m").load("g_menu_m.html .gmenu_wrap_m");
+})
+</script>
+
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'wst4dey',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+
+</head>
+
+
+<body>
+<div class="main_area">
+<div class="bg_main01">
+
+
+<!--▼モバイル用メニュー -->
+<div id="mobileHeader" class="style_mobile">
+<div class="head_m">
+</div>
+<div class="menu-btn">
+    <a class="btn-open" href="javascript:void(0)"></a>
+</div>
+
+<div class="overlay">
+<!-- メニュー取り込み_モバイル -->
+<div class="global_menu_load_m"></div>
+<!-- メニュー取り込み_モバイル -->
+</div>
+</div>
+<!--▲モバイル用メニュー -->
+
+
+<div class="header">
+<div class="header_inner">
+<div class="header_chara style_pc"><img src="images/top/tmp/bg_chara2.png" width="700" height="220" alt=""/></div>
+<div class="header_logo img_100"><a href="index.html"><img src="images/tmp/logo.png" width="1161" height="612" alt=""/></a></div>
+<div class="header_b01 img_100"><a href="index.html"><img src="images/news_tmp/b_01.png" width="177" height="18" alt=""/></a></div>
+</div>
+<div class="head_menu_wrap style_pc">
+<!-- ▼グローバルメニュー取り込み --><div class="global_menu_load"></div><!-- ▲グローバルメニュー取り込み -->
+</div>
+</div>
+
+
+
+<div class="page_title_wrap">
+<span class="title">CHARACTER</span>
+</div>
+
+<div class="wrap">
+<div class="event_wrap">
+<div class="contents_wrap2">
+<div class="left_wrap">
+<div class="menufix">
+<div class="page_menu_wrap2">
+<div class="chara_menu_wrap">
+<div class="chara_menu img_100"><a href="chara.html"><img src="images/chara/b_001_off.png" width="200" height="200" onmouseover="this.src='images/chara/b_001.png'" onmouseout="this.src='images/chara/b_001_off.png'" alt=""/></a></div>
+<div class="chara_menu img_100"><a href="chara02.html"><img src="images/chara/b_002.png" width="200" height="200" alt=""/></a></div>
+<div class="chara_menu img_100"><a href="chara03.html"><img src="images/chara/b_003_off.png" width="200" height="200" onmouseover="this.src='images/chara/b_003.png'" onmouseout="this.src='images/chara/b_003_off.png'" alt=""/></a></div>
+<div class="chara_menu img_100"><a href="chara04.html"><img src="images/chara/b_004_off.png" width="200" height="200" onmouseover="this.src='images/chara/b_004.png'" onmouseout="this.src='images/chara/b_004_off.png'" alt=""/></a></div>
+<div class="chara_menu img_100"><a href="chara05.html"><img src="images/chara/b_005_off.png" width="200" height="200" onmouseover="this.src='images/chara/b_005.png'" onmouseout="this.src='images/chara/b_005_off.png'" alt=""/></a></div>
+<div class="chara_menu img_100"><a href="chara06.html"><img src="images/chara/b_006_off.png" width="200" height="200" onmouseover="this.src='images/chara/b_006.png'" onmouseout="this.src='images/chara/b_006_off.png'" alt=""/></a></div>
+<div class="chara_menu img_100"><a href="chara07.html"><img src="images/chara/b_007_off.png" width="200" height="200" onmouseover="this.src='images/chara/b_007.png'" onmouseout="this.src='images/chara/b_007_off.png'" alt=""/></a></div>
+<div class="chara_menu img_100"><a href="chara08.html"><img src="images/chara/b_008_off.png" width="200" height="200" onmouseover="this.src='images/chara/b_008.png'" onmouseout="this.src='images/chara/b_008_off.png'" alt=""/></a></div>
+<div class="chara_menu img_100"><a href="chara09.html"><img src="images/chara/b_009_off.png" width="200" height="200" onmouseover="this.src='images/chara/b_009.png'" onmouseout="this.src='images/chara/b_009_off.png'" alt=""/></a></div>
+<div class="chara_menu img_100"><a href="chara10.html"><img src="images/chara/b_010_off.png" width="200" height="200" onmouseover="this.src='images/chara/b_010.png'" onmouseout="this.src='images/chara/b_010_off.png'" alt=""/></a></div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="clear"></div>
+
+<div class="chara_wrap">
+<div class="img_100 style_pc"><img src="images/chara/p_000.png" width="1513" height="1094" alt=""/></div>
+<div class="chara_pic01 style_pc"><img src="images/chara/p_002.png" width="1100" height="900" alt=""/></div>
+<div class="img_100 style_mobile"><img src="images/chara/p_002m.jpg" width="600" height="1134" alt=""/></div>
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+</div><!-- bg_main -->
+</div>
+
+<div class="footer_wrap">
+<div class="share_wrap">
+  <div class="share_bg"></div>
+  <div id="share"></div>
+</div>
+<div class="copy">&copy;ビーノ／ＫＡＤＯＫＡＷＡ／女子高生の無駄づかい製作委員会</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,1993 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:48:24.472Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "一拳超人",
+      "id": 73935,
+      "name": "Saitama",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "一拳超人",
+      "id": 73979,
+      "name": "Genos",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "一拳超人",
+      "id": 81929,
+      "name": "Tatsumaki",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "一拳超人",
+      "id": 86031,
+      "name": "Ikemen Kamen Amai Mask",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "一拳超人",
+      "id": 89277,
+      "name": "Garou",
+      "reason": "AniList ID 已存在或批次重复"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 21087,
+      "anime_title": "一拳超人",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21087,
+        "titles": [
+          "One Punch Man",
+          "One-Punch Man",
+          "ワンパンマン",
+          "OPM",
+          "Wanpanman",
+          "איש האגרוף הבודד",
+          "一拳超人",
+          "วันพันช์แมน",
+          "Jagoan Sekali Pukul S1",
+          "رجل اللكمة الواحدة",
+          "ون بنش مان",
+          "Ванпанчмен",
+          "Nhất Quyền Nhân"
+        ],
+        "year": 2015,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21087"
+      },
+      "characters": [
+        {
+          "id": 8060,
+          "name": "Genus Hakase",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8060-iDyX1I8DLArA.jpg",
+          "description": "",
+          "nicknames": [
+            "Genus Hakase",
+            "ジーナス博士",
+            "Doctor Genus",
+            "Dr. Genus"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "浪川大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Genus Hakase",
+            "name_native": "ジーナス博士",
+            "name_alternative": [
+              "Doctor Genus",
+              "Dr. Genus"
+            ],
+            "description": "Gifted with immense intelligence, even at a young age he had made various scientific contributions. His fantastic mental capacities have allowed him to accomplish many genetic wonders.\n\nAfter considerable experimentation he has figured out how to create beasts such as Beast King and Carnage Kabuto."
+          }
+        },
+        {
+          "id": 8061,
+          "name": "Juu Ou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8061-ltzWf7jD25OV.jpg",
+          "description": "",
+          "nicknames": [
+            "Juu Ou",
+            "獣王",
+            "Beast King"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斉藤次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102914-7ygW5ZSwODbF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Juu Ou",
+            "name_native": "獣王",
+            "name_alternative": [
+              "Beast King"
+            ],
+            "description": "Artificial mutant created by Dr. Genus of the House of Evolution. Beast King is the leader of Dr. Genus' strike force and second-strongest specimen in the House of Evolution, exceeded only by Carnage Kabuto."
+          }
+        },
+        {
+          "id": 8841,
+          "name": "Butagami",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8841-sm1m2mVez5IE.jpg",
+          "description": "",
+          "nicknames": [
+            "Butagami",
+            "豚神",
+            "Pig God"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "浪川大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Butagami",
+            "name_native": "豚神",
+            "name_alternative": [
+              "Pig God"
+            ],
+            "description": "__Race:__ Human\n__Occupation:__ Superhero\n__Abilities:__ Superhuman Physical Prowess, Inhuman Digestive System, Elasticity\n__Level:__ S-Class: Rank 10\n\n__Personality:__ \nPig God is a glutton and is constantly eating food. He is also very direct, or simply lazy. However he is a very caring individual and also appears to be very humble, as he usually doesn't mind helping others or openly embracing other heroes' advices. He also does not mind paying for people in secret. \n\n__Abilities:__\n As an S-Class hero, Pig God is very powerful, he has the ability to digest swallowed monsters almost instantly, he also seems to have complete control over his digestive system. Pig God has a thick layer of fat capable of absorbing all types of impact and he is also immune to poison."
+          }
+        },
+        {
+          "id": 11830,
+          "name": "Zeniru",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11830-CeIgdur4As61.jpg",
+          "description": "",
+          "nicknames": [
+            "Zeniru",
+            "ゼニール"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "後藤ヒロキ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zeniru",
+            "name_native": "ゼニール",
+            "name_alternative": [],
+            "description": "He is a multi-millionaire established in F-City."
+          }
+        },
+        {
+          "id": 12985,
+          "name": "Kanirante",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12985-avf1uxHrcvLd.jpg",
+          "description": "",
+          "nicknames": [
+            "Kanirante",
+            "カニランテ",
+            "Crabrante"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "徳本恭敏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95806-LcRWC7JTOFnx.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kanirante",
+            "name_native": "カニランテ",
+            "name_alternative": [
+              "Crabrante"
+            ],
+            "description": "Mysterious Being which was created when a man ate too much crab and underwent metamorphosis."
+          }
+        },
+        {
+          "id": 13124,
+          "name": "Kuseno Hakase",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13124-AjG67JtCz0bK.jpg",
+          "description": "",
+          "nicknames": [
+            "Kuseno Hakase",
+            "クセーノ博士",
+            "Doctor Kuseno"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "緒方賢一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95481-1dPQbwMpvjul.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kuseno Hakase",
+            "name_native": "クセーノ博士",
+            "name_alternative": [
+              " Doctor Kuseno "
+            ],
+            "description": "The doctor responsible for Genos' repairs and upgrades. He was pursing the cyborg that destroyed Genos' town. Genos begged for him to make him into a cyborg after promising the destroy the cyborg that destroyed his home.\n"
+          }
+        },
+        {
+          "id": 13125,
+          "name": "Vaccine Man",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13125-LU5mxTholX4R.jpg",
+          "description": "",
+          "nicknames": [
+            "Vaccine Man",
+            "ワクチンマン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中尾隆聖",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95259-A1sNVqfD2MWp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Vaccine Man",
+            "name_native": "ワクチンマン",
+            "name_alternative": [],
+            "description": "__Height:__ 2-18 m (6'7\"-59'1\")\n__Level:__ Dragon\n\nCreature born due to the massive pollution released across the Earth by human beings. According to him, he was created as an incarnation of nature's wrath, meant to wipe out humanity and thus effectively vaccinate the earth against future infections. He is the first enemy faced by Saitama shown in One Punch-Man."
+          }
+        },
+        {
+          "id": 74167,
+          "name": "Onsoku no Sonic",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74167-FE8EtGtHUM77.png",
+          "description": "",
+          "nicknames": [
+            "Onsoku no Sonic",
+            "音速のソニック",
+            "Speed of Sound",
+            "Speed-o'-Sound",
+            "Sonic",
+            "Jack-o'-lantern Panic"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "梶裕貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Onsoku no Sonic",
+            "name_native": "音速のソニック",
+            "name_alternative": [
+              "Speed of Sound",
+              "Speed-o'-Sound",
+              "Sonic",
+              "Jack-o'-lantern Panic"
+            ],
+            "description": "__Height:__ 174 cm\n__Race:__ Human\n__Location:__ Z-City\n__Abilities:__ Superhuman Speed and Agility\n__Weapons:__ Ninja equipment\n__Occupation:__ Bodyguard (former, now a villain)\n__Affiliation:__ Mr. Monier (former)\n\n\nSonic is a villain in the series, first appearing as a bodyguard hired by Mr. Monier. He views [Saitama](https://anilist.co/character/73935/Saitama) as his eternal rival.\n\nSonic is a villain who, despite his normally calm appearance, loves fighting strong opponents as shown by when he gets a \"child-like smile\" on his face when he first meets Saitama and has two of his attacks blocked, earlier calling this his \"bad habit.\" He seems to be very quick to act as he attacks Saitama on their first meeting without letting him explain the situation."
+          }
+        },
+        {
+          "id": 75460,
+          "name": "Sneck",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75460-ytg6vTtJNGOw.png",
+          "description": "",
+          "nicknames": [
+            "Sneck",
+            "スネック",
+            "Biting Snake Fist"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "三木眞一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sneck",
+            "name_native": "スネック",
+            "name_alternative": [
+              "Biting Snake Fist"
+            ],
+            "description": "__Race:__ Human \n__Occupation:__ Superhero \n__Level:__ A-Class; Rank: 38\n__Affiliation:__ Heroes Association \n\nSneck is an A-Class Superhero, rank 38. He was tasked with welcoming the new heroes for the National Superhero Registry Test that Saitama and Genos were a part of."
+          }
+        },
+        {
+          "id": 81141,
+          "name": "Bang ",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n81141-1ml7Q6X2B508.png",
+          "description": "",
+          "nicknames": [
+            "Bang",
+            "バング",
+            "Silver Fang",
+            "シルバーファング"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山路和弘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101755-LsVbHCwg6Pel.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bang ",
+            "name_native": "バング",
+            "name_alternative": [
+              "Silver Fang",
+              "シルバーファング"
+            ],
+            "description": "__Height:__ 165 cm (5'5\")\n__Race:__ Human  \n__Occupation:__ Superhero \n__Level:__ S-Class \n__Rank:__ 3 \n__Affiliation:__ Heroes Association\n\n Bang is an S-Class, rank 3, superhero for the Heroes Association, settled in Z-City. Bang owns a dojo passed down from generations, and uses the fighting style the Rock-Smashing Water Stream Fist.   \n\n__Abilities:__ Bang being in the top 3 of the S-Class ranking, he is acknowledged by the public and heroes to be a strong fighter. Not much is known about Bang's abilities other than that he uses a martial art called \"Rock-Smashing Water Stream Fist\".  \n\n"
+          }
+        },
+        {
+          "id": 81931,
+          "name": "Fubuki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81931-fmouMoprPVbV.png",
+          "description": "",
+          "nicknames": [
+            "Fubuki",
+            "フブキ",
+            "Hellish Blizzard",
+            "Jigoku no Fubuki (地獄のフブキ)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "早見沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Fubuki",
+            "name_native": "フブキ",
+            "name_alternative": [
+              "Hellish Blizzard",
+              "Jigoku no Fubuki (地獄のフブキ)"
+            ],
+            "description": "__Race:__ Human\n__Occupation:__ Superhero\n__Height:__ 167 cm (5'5¾\")\n__Level:__ B-Class Rank 1\n__Affiliation:__ Hero Association\n__Family:__ <a href=\"https://anilist.co/character/81929/Tatsumaki\">Tatsumaki</a> (sister)\n__Abilities:__ Psychokinesis\n\n\nFubuki, also known by her hero alias Blizzard of Hell, is the B-Class Rank 1 professional hero of the Hero Association. She is an esper, the younger sister of Tatsumaki, and the leader of the Blizzard Group, a B-Class hero faction. She and her sister are known as the Psychic Sisters. Fubuki is currently trying to recruit [Saitama](https://anilist.co/character/73935/Saitama) into her group. She's also a self-declared member of the Saitama Group."
+          }
+        },
+        {
+          "id": 81933,
+          "name": "Bofoi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/81933.jpg",
+          "description": "",
+          "nicknames": [
+            "Bofoi",
+            "ボフォイ",
+            "Metal Knight (メタルナイト)",
+            "Bofoi Hakase (ボフォイ博士)",
+            "Dr. Bofoi"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "玄田哲章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95761-nwndYRCqJxno.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bofoi",
+            "name_native": "ボフォイ",
+            "name_alternative": [
+              "Metal Knight (メタルナイト)",
+              "Bofoi Hakase (ボフォイ博士)",
+              "Dr. Bofoi"
+            ],
+            "description": "__Race:__ Human \n__Alias:__ Metal Knight  \n__Location:__ Z-City \n__Abilities:__ Weapons; Large remotely controlled robot, with lots of firepower \n__Occupation:__ Superhero \n__Level:__ S-Class; Rank: 6 \n__Affiliation:__ The Heroes Association  \n\nS-Class Rank 6 of the Hero Association. Besides fighting, Bofoi also provides many services for the Hero Association, such as weaponry sponsorships and facility construction.\n"
+          }
+        },
+        {
+          "id": 81935,
+          "name": "Satoru",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81935-NGDgB9J4MMlF.png",
+          "description": "",
+          "nicknames": [
+            "Satoru",
+            "サトル",
+            "Mumen Rider (無免ライダー)",
+            "License-less Rider"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中村悠一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Satoru",
+            "name_native": "サトル",
+            "name_alternative": [
+              "Mumen Rider (無免ライダー)",
+              "License-less Rider"
+            ],
+            "description": "__Race:__ Human\n__Location:__ Z-City\n__Weapons:__ Gauntlets\n__Occupation:__ Superhero\n__Level:__ C-Class; Rank: 1\n__Affiliation:__ Heroes Association\n\nLicense-less Rider is a C-Class Hero from Z-City. He has the #1 rank of the C-Class."
+          }
+        },
+        {
+          "id": 81939,
+          "name": "Tanktop Tiger",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81939-O5EORVRLJKne.jpg",
+          "description": "",
+          "nicknames": [
+            "Tanktop Tiger",
+            "タンクトップタイガー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宮崎寛務",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102922-rKu9NWOf8owJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tanktop Tiger",
+            "name_native": "タンクトップタイガー ",
+            "name_alternative": [],
+            "description": "**Race:** Human  \n**Occupation:** Superhero \n**Level:** C-Class; Rank: 6 \n**Affiliation:** The Heroes Association \n\nTanktop Tiger (タンクトップタイガー Tankutopu Taiga) is a C-Class superhero, rank 6, and the younger brother of Tanktop Black Hole.   __Appearance:__ Tanktop Tiger is a large, muscular man who has tiger stripes running through his hair and eyebrows. He wears a tiger stripped tanktop. Tanktop Tiger is especially loud and obnoxious. He is confident in his own power and looks down upon superhero newbies, making him quite arrogant and hostile."
+          }
+        },
+        {
+          "id": 81941,
+          "name": "Tanktop Black Hole",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81941-RcCOvo4G42mY.jpg",
+          "description": "",
+          "nicknames": [
+            "Tanktop Black Hole",
+            "タンクトップブラックホール"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "伊丸岡篤",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95229-EwEEkYYY6bCf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tanktop Black Hole",
+            "name_native": "タンクトップブラックホール",
+            "name_alternative": [],
+            "description": "__Race:__ Human \n__Alias:__ Tanktop Black Hole  \n__Occupation:__ Superhero \n__Level:__ B-Class \n__Affiliation:__ The Heroes Association \n__Partner:__ Tanktop Tiger \n\nTanktop Black Hole is a B-Class hero and the older brother of Tanktop Tiger. Tanktop Black Hole is a large, well-built man with short black hair. He wears a very simple costume of pants and a black tanktop. He has a rather confident and stubborn personality. He refuses to believe a C-Class hero could ever be capable of destroying the meteor. He is also a rather charismatic person, shown by his ability to bend a crowd to his will."
+          }
+        },
+        {
+          "id": 81943,
+          "name": "Ougon Ball",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b81943-Zbjr1W8O0lkl.jpg",
+          "description": "",
+          "nicknames": [
+            "Ougon Ball",
+            "黄金ボール",
+            "Golden Ball"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "荒井聡太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108807-EF2Fbo2KvLOt.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ougon Ball",
+            "name_native": "黄金ボール",
+            "name_alternative": [
+              "Golden Ball"
+            ],
+            "description": "__Race:__  Human  \n__Weapons:__ Slingshot\n__Abilities:__ Shape Memory Gold \n__Occupation:__  Superhero \n__Level:__  A-Class; Rank: 29 \n__Affiliation:__  Heroes Association \n\nGolden Ball is an A-Class Superhero, rank 29. He was partnered with Spring Mustache to investigate the Kombu Infinity rumor in Z-City.  He is a rather confident man, who believes he does not need to prepare for a fight.\n"
+          }
+        },
+        {
+          "id": 85797,
+          "name": "Mosquito Musume",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n85797-meNMUnYKi3x4.png",
+          "description": "",
+          "nicknames": [
+            "Mosquito Musume",
+            "モスキート娘",
+            "Mosquito Girl"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "沢城みゆき",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mosquito Musume",
+            "name_native": "モスキート娘",
+            "name_alternative": [
+              "Mosquito Girl"
+            ],
+            "description": "Mosquito Girl (モスキート娘 Mosukito Musume) is a prototype artificial mutant created by Dr. Genus of the House of Evolution. As a hybrid between human and mosquito, she has control over large swarms of the insects, using them to collect blood as sustenance or repair any bodily damage."
+          }
+        },
+        {
+          "id": 85981,
+          "name": "Ground Dragon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85981-u9EhPhy76vJr.jpg",
+          "description": "",
+          "nicknames": [
+            "Ground Dragon",
+            "グランド ドラゴン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "浜添伸也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103809-pPQeMwbINnUV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ground Dragon",
+            "name_native": "グランド ドラゴン",
+            "name_alternative": [],
+            "description": "__Affiliation:__ House of Evolution"
+          }
+        },
+        {
+          "id": 85983,
+          "name": "Armored Gorilla",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85983-IRPD9S7HaP7x.jpg",
+          "description": "",
+          "nicknames": [
+            "Armored Gorilla",
+            "アーマードゴリラ",
+            "The Crystal of Wisdom",
+            "英知ノ結晶",
+            "アーマード ゴリラ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山本祥太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115817-zG5zN8nFwClS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Armored Gorilla",
+            "name_native": "アーマードゴリラ",
+            "name_alternative": [
+              "The Crystal of Wisdom",
+              "英知ノ結晶",
+              "アーマード ゴリラ"
+            ],
+            "description": "\n"
+          }
+        },
+        {
+          "id": 85991,
+          "name": "Asura Kabuto",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b85991-pA7l7Lzp4JEf.jpg",
+          "description": "",
+          "nicknames": [
+            "Asura Kabuto",
+            "阿修羅カブト",
+            "Carnage Kabuto"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石塚運昇",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Asura Kabuto",
+            "name_native": "阿修羅カブト",
+            "name_alternative": [
+              "Carnage Kabuto"
+            ],
+            "description": "Carnage Kabuto (阿修羅カブト, Ashura Kabuto) was an artificial mutant created by Dr. Genus of the House of Evolution and is by far their strongest creation."
+          }
+        },
+        {
+          "id": 86019,
+          "name": "Hammer-Head",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86019-rgmzLKe05yjW.jpg",
+          "description": "",
+          "nicknames": [
+            "Hammer-Head",
+            "ハンマーヘッド"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高木渉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95133-cqDtu078voZ1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hammer-Head",
+            "name_native": "ハンマーヘッド",
+            "name_alternative": [],
+            "description": "__Height:__ 215 cm (7'0\")\n\nLeader of the Paradise Group. Is a wanted class B criminal with a past criminal record of numerous violent offenses."
+          }
+        },
+        {
+          "id": 86027,
+          "name": "Banken Man",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86027-g3kRrv9jewmz.png",
+          "description": "",
+          "nicknames": [
+            "Banken Man",
+            "番犬マン",
+            "Watchdog Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "うえだゆうじ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95058-fGnId7E4tgx3.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Banken Man",
+            "name_native": "番犬マン",
+            "name_alternative": [
+              "Watchdog Man"
+            ],
+            "description": "Watchdog Man (番犬マン Banken-man) is a S-Class Rank 12 professional hero who is in charge of Q-City. Watchdog Man has been shown to be very blunt and nonchalant. He acts like a dog at all times, speaking sparingly, sitting on his haunches while alert or loitering, and curling up in a dog bed while asleep. He takes a stance on all fours while fighting, rather than standing upright to confront enemies."
+          }
+        },
+        {
+          "id": 86029,
+          "name": "Puri-Puri Prisoner",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n86029-iomUtQtGfJOU.png",
+          "description": "",
+          "nicknames": [
+            "Puri-Puri Prisoner",
+            "ぷりぷりプリズナー",
+            "Pretty Pretty Prisoner",
+            "Puri-Puri Purisoner"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小野坂昌也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95173-LIuN04REF5eA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Puri-Puri Prisoner",
+            "name_native": "ぷりぷりプリズナー",
+            "name_alternative": [
+              "Pretty Pretty Prisoner",
+              "Puri-Puri Purisoner"
+            ],
+            "description": "__Occupation:__ Superhero \n__Level:__ S-Class; Rank 17\n\nPuri-Puri Prisoner is a flamboyant, openly homosexual superhero. He takes an interest in other, up-and-coming heroes and criminals; an interest which led to his titular jail sentence, as he kept attacking them. Criminals that he apprehends are then added to his harem."
+          }
+        },
+        {
+          "id": 86033,
+          "name": "Stinger",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86033-UZZHzaDBf7AC.png",
+          "description": "",
+          "nicknames": [
+            "Stinger",
+            "スティンガー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "関智一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Stinger",
+            "name_native": "スティンガー",
+            "name_alternative": [],
+            "description": "__Occupation:__ Superhero \n__Level:__ A-Class; Rank 11 \n"
+          }
+        },
+        {
+          "id": 86035,
+          "name": "Max",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86035-7qVYP8GdGirt.jpg",
+          "description": "",
+          "nicknames": [
+            "Max",
+            "マックス",
+            "Lightning Max",
+            "Inazumax (イナズマックス)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "保志総一朗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Max",
+            "name_native": "マックス",
+            "name_alternative": [
+              "Lightning Max",
+              "Inazumax (イナズマックス)"
+            ],
+            "description": "Max (マックス, Makkusu), also known by his hero alias Lightning Max (イナズマックス, Inazumakkusu), is the A-Class Rank 19 professional hero for the Hero Association. Max is shown to think ahead and spy on his target to know how to defeat them but it is shown that he has some doubt in his abilities."
+          }
+        },
+        {
+          "id": 86039,
+          "name": "Banehige",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86039-W1oBy3Ma0yuk.png",
+          "description": "",
+          "nicknames": [
+            "Banehige",
+            "バネヒゲ",
+            "Spring Mustachio"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "保村真",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96074-mcIujin2kl4o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Banehige",
+            "name_native": "バネヒゲ",
+            "name_alternative": [
+              "Spring Mustachio"
+            ],
+            "description": "__Level:__ A-Class; Rank: 33\n\nSpring Mustachio is an intelligent, serious man who doesn't back down, as shown by his persistence in fighting Kombu Infinity, even after being beaten up rather badly. He also shares a bond with fellow A-Class hero Golden Ball, as they regularly pair up to hunt monsters and share drinks in their spare time."
+          }
+        },
+        {
+          "id": 86049,
+          "name": "All Back-Man",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86049-jETBCyDmW9FB.jpg",
+          "description": "",
+          "nicknames": [
+            "All Back-Man",
+            "オールバックマン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "手塚ヒロミチ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119724-BHqgrwh0AHie.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "All Back-Man",
+            "name_native": "オールバックマン",
+            "name_alternative": [],
+            "description": "__Rank:__ Class-C\n"
+          }
+        },
+        {
+          "id": 86055,
+          "name": "Kombu Infinity",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b86055-8rbEBIa1nhwM.png",
+          "description": "",
+          "nicknames": [
+            "Kombu Infinity",
+            "昆布インフィニティ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内藤有海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n161267-BowvmvYRyhLy.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kombu Infinity",
+            "name_native": "昆布インフィニティ",
+            "name_alternative": [],
+            "description": "Mysterious Being that dwell in Z-City. It heard a rumor that a strong being was present in the outskirts of the town that drew strong Heroes opponents to it."
+          }
+        },
+        {
+          "id": 86057,
+          "name": "Shinkaiou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n86057-gl3cN3YOJ60N.png",
+          "description": "",
+          "nicknames": [
+            "Shinkaiou",
+            "深海王",
+            "King of the Seafolk",
+            "Deep Sea King"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小山力也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shinkaiou",
+            "name_native": "深海王",
+            "name_alternative": [
+              "King of the Seafolk",
+              "Deep Sea King"
+            ],
+            "description": "The Deep Sea King (深海王, Shinkaiō) ruled over the Seafolk as their king, and claimed the deep sea as his own. The Deep Sea King is a rather sadistic individual, who enjoys causing pain to others and starting fights. He is determined to take the surface world for himself to rule. He regards people as little more than food and has no qualms about treating them as such. He is also very arrogant and prideful, considering himself to be better than everyone and stating that he stands at the very top of the pyramid of all living organisms on the planet."
+          }
+        },
+        {
+          "id": 88907,
+          "name": "King",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88907-M7QLjYvp2LEp.png",
+          "description": "",
+          "nicknames": [
+            "King",
+            "キング",
+            "The Strongest Man on Earth"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "安元洋貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "King",
+            "name_native": "キング",
+            "name_alternative": [
+              "The Strongest Man on Earth"
+            ],
+            "description": "__Race:__ Human  __Occupation:__ Superhero \n__Level:__ S-Class; Rank 7\n__Affiliation:__ The Heroes Association\n\nDespite not being the highest ranked hero of the Heroes Association, he is considered to be the most powerful man on Earth, and it is due to this strength that he receives praise and respect from fellow heroes. His strength is so feared that criminals and mysterious beings will surrender before having to fight him. Appearance: King has slightly long, blonde, brushed back hair along with three long scars on the left side of his face. He wears a turtleneck sweater, has sunken cheeks, a defined jawline and a squarish chin. Notably, a loud drumming sound may be heard in his proximity. The King Engine is a rumbling sound that others claim occurs when King readies for battle or when he is generally serious having an intimidating effect on his opponents. ~! In actuality, it is simply the sound of King's heartbeat which, when he is frightened, is so loud that it can be heard outside his body, but because of King's intimidating reputation people mistake it for bloodlust. King is able to appear to remain calm in threatening situations as well as put out an extremely threatening aura. Despite the intimidating personality King projects, he is actually a coward and an otaku. He has been shown to get very excited about buying a dating game. Saitama saved his life many times, but always end up getting all the credits that was supposed to be for the latter. With this misunderstanding, he came to be known as \"the strongest man on earth\". He got his scars from the Octopus Claw man. !~"
+          }
+        },
+        {
+          "id": 89156,
+          "name": "Bad",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89156-kGKJyhWnCTHy.png",
+          "description": "",
+          "nicknames": [
+            "Bad",
+            "バッド",
+            "Kinzoku Bat (金属バット)",
+            "Metal Bat"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "羽多野渉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bad",
+            "name_native": "バッド",
+            "name_alternative": [
+              "Kinzoku Bat (金属バット)",
+              "Metal Bat"
+            ],
+            "description": "Bad (バッド, Baddo), also known by his hero alias Metal Bat (金属バット, Kinzoku Batto), is the S-Class Rank 15 professional hero for the Hero Association. Metal Bat is a young man with black hair styled in a pompadour, and dark eyes that emphasize his hot temper. Metal Bat has a great deal of confidence in himself, stating that he did not care whether a threat is a Demon or Dragon level. Like [Saitama](https://anilist.co/character/73935/Saitama), he doesn't care about his rank, and accidentally kills his enemies faster than he intended."
+          }
+        },
+        {
+          "id": 89263,
+          "name": "Boros-sama",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n89263-GPItRQ64F27D.png",
+          "description": "",
+          "nicknames": [
+            "Boros-sama",
+            "ボロス様",
+            "Dominator of the Universe",
+            "Lord Boros"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "森川智之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Boros-sama",
+            "name_native": "ボロス様",
+            "name_alternative": [
+              "Dominator of the Universe",
+              "Lord Boros"
+            ],
+            "description": "__Race:__ Alien\n__Height:__ 240 cm (7'10½\")\n__Occupation__: Space Pirate\n__Disaster Level:__ Dragon (or higher)\n\nBoros was the leader of the Dark Matter Thieves, a group of alien invaders responsible for the destruction of A-City. Like Saitama, Boros faced a self-imposed existential crisis, having become so powerful that no battle thrilled him.\n\n~!Boros was the first on-screen opponent of Saitama that survived after getting punched, much to the hero's surprise. In fact, he is the very first of Saitama's opponents that took more than one punch to kill; Saitama even considered him to be the strongest opponent he had faced so far.!~"
+          }
+        },
+        {
+          "id": 133835,
+          "name": "Zombieman",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n133835-7dbqvi4YzpRC.png",
+          "description": "",
+          "nicknames": [
+            "Zombieman",
+            "ゾンビマン",
+            "Subject No. 66"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "櫻井孝宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zombieman",
+            "name_native": "ゾンビマン",
+            "name_alternative": [
+              "Subject No. 66"
+            ],
+            "description": "__Race:__ Human-Mutant\n__Abilities:__ Regeneration\n__S-Class:__ Rank 8\n__Affiliation:__ Hero Association\n\n__Personality:__ Zombieman is stated to be nihilistic, possibly due to the fact that he has \"died\" several times, therefore he is always calm. In addition, he prefers to work as a lone wolf and dislikes gathering, although he still respects common courtesy. However, he appears to have a sadistic side, since he enjoys killings that create rivers of blood, he is also shown to be a rather smart individual, with detective-like thinking. In comparison to the other S-Class heroes, Zombieman is more thoughtful and respectful.\n\n__Abilities__: Zombieman possesses one of the best regeneration capabilities in the series. He is able to regenerate any part of his body no matter how severe the injury is, and he was able to heal his broken arms in an instant. He needs only a few minutes to recover from an extremely mutilated state and regrow his left arm, however this regeneration does not give Zombieman full immortality, as he will die if he is reduced to mincemeat. Zombieman has an incredible threshold for extensive physical activity, displaying one of the most impressive feats of stamina in the series and being able to fight for hours on end while his expedient recovery rate handles the more serious of injuries he suffers."
+          }
+        },
+        {
+          "id": 137661,
+          "name": "Isamu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137661-G30CrZkCLAWx.png",
+          "description": "",
+          "nicknames": [
+            "Isamu",
+            "イサム",
+            "Doutei (童帝)",
+            "Child Emperor"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高山みなみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95024-qsZgGp8VHqMP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Isamu",
+            "name_native": "イサム",
+            "name_alternative": [
+              "Doutei (童帝)",
+              "Child Emperor"
+            ],
+            "description": "__Height:__ 135cm (4'5\")\n__Race:__ Human\n__Occupation:__ Superhero\n__Level:__ S-Class; Rank: 5\n__Affiliation:__ Heroes Association\n\nChild Emperor is a young boy with large eyes. He wears a plain T-shirt with two buttons both of which are buttoned, along with a black school bag on his back.\n\nAs a genius, the Child Emperor values education, which can be seen when he mentions about going to cram school even after hearing about the Earth being in danger. He easily becomes infuriated when being labeled as childish by others. He is very analytical, observing the situation and formulating plans in a calm and collected manner."
+          }
+        },
+        {
+          "id": 137876,
+          "name": "Sitch",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137876-DqyrUJOrwEU0.jpg",
+          "description": "",
+          "nicknames": [
+            "Sitch",
+            "シッチ",
+            "Shicchi"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "飛田展男",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95157-td6WhlGehuDJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sitch",
+            "name_native": "シッチ",
+            "name_alternative": [
+              "Shicchi"
+            ],
+            "description": "Sitch (シッチ, Shicchi) is the Minister Officer of Justice for the Hero Association."
+          }
+        },
+        {
+          "id": 138979,
+          "name": "Charanko",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138979-0DWXgUOmruFL.jpg",
+          "description": "",
+          "nicknames": [
+            "Charanko",
+            "チャランコ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "増田俊樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107017-Jv96B9DBJOy9.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Charanko",
+            "name_native": "チャランコ",
+            "name_alternative": [],
+            "description": "Charanko is a Martial Artist and Bang's last and only disciple before he was expelled during Garou's hero hunt."
+          }
+        },
+        {
+          "id": 138980,
+          "name": "Kudou Kishi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138980-hp9fsJnwCF1M.png",
+          "description": "",
+          "nicknames": [
+            "Kudou Kishi",
+            "駆動騎士",
+            "Drive Knight"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kudou Kishi",
+            "name_native": "駆動騎士",
+            "name_alternative": [
+              "Drive Knight"
+            ],
+            "description": "Drive Knight (駆動騎士, Kudō Kishi) is the S-Class Rank 9 professional hero for the Hero Association.Drive Knight has long black hair and wears a white mask. His mask has a single horizontal slit for the eyes, and a single red shining eye in the center of the slit. The mask has three small vertical slits where his mouth should be. His armor is rather simplistic, being similar to a medieval black knights' armor."
+          }
+        },
+        {
+          "id": 138981,
+          "name": "Senkou no Flash",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138981-74nPW2rXVews.png",
+          "description": "",
+          "nicknames": [
+            "Senkou no Flash",
+            "閃光のフラッシュ",
+            "Flashy Flash"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鳥海浩輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95097-BhSegy6KBLbE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Senkou no Flash",
+            "name_native": "閃光のフラッシュ",
+            "name_alternative": [
+              "Flashy Flash"
+            ],
+            "description": "__Race__: Human\n__Age__: 25\n__Abilities__: Superhuman Speed and Agility, Master Swordsman, Ninjutsu Master\n__Occupation__: Superhero\n__S-Class__: Rank 13\n\n__Personality__: Flashy Flash is a calm and serious man but he also appears to be quite arrogant. Despite his collected composure, Flashy Flash has a tendency to be hasty and reckless. \n\n__Abilities__: As an S-Class hero, Flashy Flash is very powerful. In terms of speed, Flashy Flash is arguably the fastest S-Class hero in the association, except for Blast and Saitama. Flashy was shown to be strong enough to combat and kill two Dragon-level threats simultaneously. He can deliver powerful kicks that can stun Dragon-level monsters. He can also easily cut massive pieces of stone and create giant explosions throughout his fighting."
+          }
+        },
+        {
+          "id": 154767,
+          "name": "Kamikaze",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154767-B8TieN81pfMI.png",
+          "description": "",
+          "nicknames": [
+            "Kamikaze",
+            "カミカゼ",
+            "Atomic Samurai (アトミック侍)",
+            "Earth's Strongest Swordmaster (地球最強の剣聖)",
+            "Chikyuu Saikyou no Kensei"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kamikaze",
+            "name_native": "カミカゼ",
+            "name_alternative": [
+              "Atomic Samurai (アトミック侍)",
+              "Earth's Strongest Swordmaster (地球最強の剣聖)",
+              "Chikyuu Saikyou no Kensei"
+            ],
+            "description": "__Race:__ Human\n__Abilities:__ Superhuman Physical Prowess, Master Swordsmanship\n__Occupation:__ Superhero, Swordsmanship Teacher\n__Affiliation:__ Hero Association, Council of Swordmasters\n__Level:__ S-Class Rank 4\n\n__Personality:__\nAtomic Samurai has a rather prideful and jocular personality as seen when he refused to shake Saitama's hand, telling him that he only acknowledges the strong, and telling Saitama that he would greet him properly only if he makes it to the higher ranks of S-Class. Atomic Samurai also enjoys his swordplay and makes a game out of it, often taunting monsters and showing off as he cuts them to pieces, Kamikaze also is straightforward to a humorous degree in many ways, and is incredibly confident and cocky.\n\n__Abilities:__ Atomic Samurai is one of the top S-Class heroes. He is regarded as one of the most powerful of them, and the strongest backup hero in the Hero Association, he is also considered Earth's strongest swordsman. Atomic Samurai possesses extreme levels of speed, being able to cut his opponents to pieces in the blink of an eye using his sword."
+          }
+        },
+        {
+          "id": 156124,
+          "name": "Melzargard",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156124-5BfTBuiOPHna.jpg",
+          "description": "",
+          "nicknames": [
+            "Melzargard",
+            "メルザルガルド"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内山昂輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96764-yJWGrhjanDJQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Melzargard",
+            "name_native": "メルザルガルド",
+            "name_alternative": [],
+            "description": "__Race__: Alien\n\nMelzalgald was one of the Alien Invaders who attacked A-City. Its body is able to change shape and It has multiple heads, each of which is able to separate and form its own body."
+          }
+        },
+        {
+          "id": 156125,
+          "name": "Tanktop Master",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156125-xkTuQF1zpOuw.png",
+          "description": "",
+          "nicknames": [
+            "Tanktop Master",
+            "タンクトップマスター"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小西克幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tanktop Master",
+            "name_native": "タンクトップマスター",
+            "name_alternative": [],
+            "description": "**Race:** Human\n**Occupation:** Superhero\n**Level:** S-Class; Rank: 14\n**Affiliation:** The Heroes Association\n\nMuch like the other heroes with the Tanktop motif, Tanktop Tiger and Tanktop Black Hole, Tanktop Master is a muscular man with a tanktop and short hair. However, unlike the other Tanktop heroes, no known color is associated with Tanktop Master's name. In the first anniversary color spread of the manga, he is shown with blonde hair and a blue tank top.\n\nTanktop Master has a chivalrous nature, which can be seen when he noted that even if Tornado is ranked 2nd, he should not let a \"little girl\" handle dangerous enemies on her own, despite the fact that Tornado is actually an adult. He is also unafraid to admit defeat, for example, when he was outclassed by Tornado during the encounter of Dark Matter Thieves' aircraft."
+          }
+        },
+        {
+          "id": 156126,
+          "name": "Chougoukin Kurobikari",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156126-QQpzi77vVx45.png",
+          "description": "",
+          "nicknames": [
+            "Chougoukin Kurobikari",
+            "超合金クロビカリ",
+            "Superalloy Blackluster",
+            "Superalloy Darkshine"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日野聡",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chougoukin Kurobikari",
+            "name_native": "超合金クロビカリ",
+            "name_alternative": [
+              "Superalloy Blackluster",
+              "Superalloy Darkshine"
+            ],
+            "description": "**Race:** Human\n**Occupation:** Superhero\n\nSuperalloy Blackluster is a large, bald man with round eyes and a defined jawline. He is very muscular, with a thick neck, large and well-defined pectoral and abdominal muscles and large, muscular arms."
+          }
+        },
+        {
+          "id": 158071,
+          "name": "Lin Lin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b158071-WfuwmSg8dESF.jpg",
+          "description": "",
+          "nicknames": [
+            "Lin Lin",
+            "リンリン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "紡木吏佐",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n137054-s95k2fao6PyR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lin Lin",
+            "name_native": "リンリン",
+            "name_alternative": [],
+            "description": "Lin Lin is a Martial Artist and user of the Palm Bell Fist.\n"
+          }
+        },
+        {
+          "id": 165855,
+          "name": "Iaian",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165855-0YK8GfxwyOg3.png",
+          "description": "",
+          "nicknames": [
+            "Iaian",
+            "イアイアン",
+            "Iairon"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "細谷佳正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Iaian",
+            "name_native": "イアイアン",
+            "name_alternative": [
+              "Iairon"
+            ],
+            "description": "Iaian is the A-Class Rank 2 professional hero of the Hero Association and the top disciple of Atomic Samurai. Iaian is described to be persistent in battle, refusing to back down regardless of whether his enemy is stronger or more skilled. Despite his persistence, he is in fact very analytical in battle, determining the strength of his opponent, all of their abilities and he also does not underestimate his opponent."
+          }
+        },
+        {
+          "id": 208320,
+          "name": "Geryuganshoop",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208320-G10rPdd364NZ.jpg",
+          "description": "",
+          "nicknames": [
+            "Geryuganshoop",
+            "ゲリュガンシュプ",
+            "Geryuganshupu"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "後藤ヒロキ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Geryuganshoop",
+            "name_native": "ゲリュガンシュプ",
+            "name_alternative": [
+              "Geryuganshupu"
+            ],
+            "description": "Geryuganshoop was an alien, a general of the Dark Matter Thieves, and the right-hand man of Boros."
+          }
+        },
+        {
+          "id": 208321,
+          "name": "Fukegao",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208321-EIr2oZDRXdYT.jpg",
+          "description": "",
+          "nicknames": [
+            "Fukegao",
+            "フケガオ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鈴木琢磨",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101981-M1QHNfoBLovs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Fukegao",
+            "name_native": "フケガオ",
+            "name_alternative": [],
+            "description": "__Occupation:__ Scientist\n\nFukegao was a genius scientist who developed the Biceps Brachii King steroid, which turned his brother Marugori into a mutated giant."
+          }
+        },
+        {
+          "id": 208322,
+          "name": "Ago no Wareta Gaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208322-ifxBRgndImr7.jpg",
+          "description": "",
+          "nicknames": [
+            "Ago no Wareta Gaki",
+            "アゴの割れたガキ",
+            "Ball-Chinned Kid"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内藤有海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n161267-BowvmvYRyhLy.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ago no Wareta Gaki",
+            "name_native": "アゴの割れたガキ",
+            "name_alternative": [
+              "Ball-Chinned Kid"
+            ],
+            "description": "~!Ago no Wareta Gaki is the grandson of Agoni, the multimillionaire founder of the Hero Association.!~ He was saved by Saitama from Crablante three years prior to the start of the series."
+          }
+        },
+        {
+          "id": 208323,
+          "name": "Denchi Man",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208323-OFV3a96iDwO9.jpg",
+          "description": "",
+          "nicknames": [
+            "Denchi Man",
+            "電池マン",
+            "Battery Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "手塚ヒロミチ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119724-BHqgrwh0AHie.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Denchi Man",
+            "name_native": "電池マン",
+            "name_alternative": [
+              "Battery Man"
+            ],
+            "description": "Denchi Man is a C-Class Rank 85 professional hero for the Hero Association."
+          }
+        },
+        {
+          "id": 208324,
+          "name": "Marugori",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208324-xDaQsyph7w7N.jpg",
+          "description": "",
+          "nicknames": [
+            "Marugori",
+            "マルゴリ",
+            "Beefcake"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "浜添伸也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103809-pPQeMwbINnUV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Marugori",
+            "name_native": "マルゴリ",
+            "name_alternative": [
+              "Beefcake"
+            ],
+            "description": "Marugori also called Beefcake, was a human who drank the Biceps Brachii King steroid developed by Fukegao, which turned him into a mutated giant."
+          }
+        },
+        {
+          "id": 247693,
+          "name": "Groribas",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b247693-SdPVtv0qH2lS.jpg",
+          "description": "",
+          "nicknames": [
+            "Groribas",
+            "グロリバース"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "浜添伸也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103809-pPQeMwbINnUV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Groribas",
+            "name_native": "グロリバース",
+            "name_alternative": [],
+            "description": "Groribas is an Alien, who works for Boros' team, the \"Dark Matter Thieves\". He is a Dragon-Level threat and has a large imposing body. Its head and hands consist of eyeless mouths with rows of long sharp teeth. His head has a spiky collar around his neck and is quite muscular. He can use acid and hand to hand combat to its fullest usage leading him to be called the best warrior by Geryuganshoop."
+          }
+        },
+        {
+          "id": 307001,
+          "name": "Exma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307001-qIlKSYfvrMf6.png",
+          "description": "",
+          "nicknames": [
+            "Exma",
+            "エクスマ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "紡木吏佐",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n137054-s95k2fao6PyR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Exma",
+            "name_native": "エクスマ",
+            "name_alternative": [],
+            "description": "Executive for the Hero Association. She is the deputy chief of the Hero Disciplinary Supervision Division"
+          }
+        },
+        {
+          "id": 326805,
+          "name": "Blue Fire",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326805-GVtOkppVDhB6.png",
+          "description": "",
+          "nicknames": [
+            "Blue Fire",
+            "ブルーファイア"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "長谷川芳明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119855-B21adyPXI4PL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Blue Fire",
+            "name_native": "ブルーファイア",
+            "name_alternative": [],
+            "description": "Blue Fire is an A-Class Rank 6 professional hero for the Hero Association."
+          }
+        },
+        {
+          "id": 326808,
+          "name": "Kaeru Otoko",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326808-cecCHVn4sC9u.png",
+          "description": "",
+          "nicknames": [
+            "Kaeru Otoko",
+            "カエル男",
+            "Frog-Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "後藤ヒロキ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kaeru Otoko",
+            "name_native": "カエル男",
+            "name_alternative": [
+              "Frog-Man"
+            ],
+            "description": "Race: Artificial Mutant\nAbilities: Weapns; Wakizashi\nLevel: Tiger\nAffiliation: House of Evolution\nDebut: Chapter 7/Episode 2\n\nFrog-Man was an artificial mutant created by Dr. Genus of the House of Evolution.\n\nAppearance: Frog-Man is a humanoid frog. He has large eyes, a white stomach and throat, black spots on his back and arms, and a scar that runs across his face. He wears a wide belt with a tanto stuck through it, black pants, sandals, a pendant necklace and has a kanji tattoo on his left shoulder. Overall, his appearance is that of a yakuza underling.\n\nPersonality: Nothing is known about Frog-Man's personality due to his quick defeat by Saitama and eventual death at the hands of Beast King."
+          }
+        },
+        {
+          "id": 326809,
+          "name": "Namekujarasu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326809-c0hZ2HBZmzsa.png",
+          "description": "",
+          "nicknames": [
+            "Namekujarasu",
+            "ナメクジャラス",
+            "Slugerous"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "浜添伸也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103809-pPQeMwbINnUV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Namekujarasu",
+            "name_native": "ナメクジャラス",
+            "name_alternative": [
+              "Slugerous"
+            ],
+            "description": "__Race:__ Artificial Mutant\n__Abilities:__ Telepathy\n__Level:__ Tiger\n__Affiliation:__ House of Evolution\n__Debut:__ Chapter 7/Episode 2\n\nSlugerous was an artificial mutant created by Dr. Genus of the House of Evolution.\n\nAppearance: Slugerous is a humanoid slug. He has a black spotted, very slug-like torso and head with the addition of arms and legs and a nose and mouth.\n\nPersonality: Nothing is known of Slugerous' personality due death at the hands of Beast King."
+          }
+        },
+        {
+          "id": 326810,
+          "name": "Kamakyuri",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326810-80ATYcjE2Rf2.png",
+          "description": "",
+          "nicknames": [
+            "Kamakyuri",
+            "カマキュリー",
+            "Manty"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "長谷川芳明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119855-B21adyPXI4PL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kamakyuri",
+            "name_native": "カマキュリー",
+            "name_alternative": [
+              "Manty"
+            ],
+            "description": "__Race:__ Artificial Mutant\n__Abilities:__ Weapons; Insect Fangs\n__Level:__ Tiger\n__Affiliation:__ House of Evolution\n__Debut:__ Chapter 7/Episode 2\n\nKamakyuri was an artificial mutant created by Dr. Genus. He is an advanced form of praying mantis, and purported to be among the stronger specimens of the House of Evolution.\n\nAppearance: Kamakyuri is a tall humanoid creature with many insect-like qualities. He is encased in a segmented, thorny exoskeleton, with clawed feet and serrated, scythe-like forelegs, similar to those of a praying mantis. Mandibles protrude on each side of his mouth, and the top of his skull is transparent and reflective, revealing his brain.\n\nPersonality: Nothing is known of Kamakyuri's personality due to his defeat by Saitama."
+          }
+        },
+        {
+          "id": 326811,
+          "name": "Chitei Hito",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326811-IXQQ0fgvrOKt.png",
+          "description": "",
+          "nicknames": [
+            "Chitei Hito",
+            "地底人",
+            "Subterraneans"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山本祥太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115817-zG5zN8nFwClS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chitei Hito",
+            "name_native": "地底人",
+            "name_alternative": [
+              "Subterraneans"
+            ],
+            "description": "__Race:__ Mysterious Being\n__Location:__ Under the earth's crust\n__Abilities:__ Immense Strength\n__Affiliation:__ Mother Earth\n__Debut:__ Chapter 4/Episode 1\n\nThe Subterranean People are the self-proclaimed \"True People of the Earth\". They are ruled by the Subterranean King and live under the earth's crust, but grew too numerous in numbers and planned to take over the surface."
+          }
+        },
+        {
+          "id": 326812,
+          "name": "Chitei Ou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326812-E8ki8WiKK1Nq.png",
+          "description": "",
+          "nicknames": [
+            "Chitei Ou",
+            "地底王",
+            "Subterranean King"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上田燿司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95926-00Pd2b8WZwQS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chitei Ou",
+            "name_native": "地底王",
+            "name_alternative": [
+              "Subterranean King"
+            ],
+            "description": "__Race:__ Mysterious Being\n__Location:__ Under the earth's crust\n__Abilities:__ Superhuman Strength\n__Weapons:__ Lava Swords\n__Affiliation:__ Mother Earth\n__Debut:__ Chapter 4/Episode 1\n\nThe Subterranean King is the king of the Subterranean People. He led his people from below the surface to conquer the area on it."
+          }
+        },
+        {
+          "id": 326813,
+          "name": "Smile Man",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326813-8rsnJ5bdRVtZ.png",
+          "description": "",
+          "nicknames": [
+            "Smile Man",
+            "スマイルマン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山口令悟",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n156900-QvHgdFlZ6GVG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Smile Man",
+            "name_native": "スマイルマン",
+            "name_alternative": [],
+            "description": "Smile Man is a A-Class Rank 27 professional hero for the Hero Association."
+          }
+        },
+        {
+          "id": 326815,
+          "name": "Super Custom YO649Z Mk. II",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326815-Eeqi4ewghl5k.png",
+          "description": "",
+          "nicknames": [
+            "Super Custom YO649Z Mk. II",
+            "バリカスタムよ649ZマークⅡ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "後藤ヒロキ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Super Custom YO649Z Mk. II",
+            "name_native": "バリカスタムよ649ZマークⅡ",
+            "name_alternative": [],
+            "description": "Mysterious being."
+          }
+        },
+        {
+          "id": 326816,
+          "name": "Shibabawa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326816-qg726XqmTeri.png",
+          "description": "",
+          "nicknames": [
+            "Shibabawa",
+            "シババワ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斉藤貴美子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95294-AN7KQALYLR9w.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shibabawa",
+            "name_native": "シババワ",
+            "name_alternative": [],
+            "description": "__Race:__ Human\n__Occupation:__ Fortune Teller\n\nShibabawa was a renowned fortune teller that resided in G-City.\n\nShibabawa is an old woman with white hair, long fingernails, very thin eyebrows and many wrinkles. She has sunken cheeks and very few teeth. She wears a pearl necklace and earrings. Not much is known of her personality, but she seems to fear a 'great disaster' she foretold."
+          }
+        },
+        {
+          "id": 81945,
+          "name": "Agoni",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/81945.jpg",
+          "description": "",
+          "nicknames": [
+            "Agoni",
+            "アゴーニ",
+            "Chinner"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Agoni",
+            "name_native": "アゴーニ",
+            "name_alternative": [
+              "Chinner"
+            ],
+            "description": "Race: Human  \nLocation: A-City \nOccupation: Founder of The Heroes Association Affiliation: The Heroes Association  \n\nAgoni is a multi-millionaire and the founder of The Heroes Association. He had the idea for said group when his grandson was attacked by a Mysterious Being 3 years prior to the time One Punch-Man is set."
+          }
+        },
+        {
+          "id": 86053,
+          "name": "Jet Nice Guy",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/86053.jpg",
+          "description": "",
+          "nicknames": [
+            "Jet Nice Guy"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "長谷川芳明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119855-B21adyPXI4PL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Jet Nice Guy",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Class B Superhero."
+          }
+        },
+        {
+          "id": 132939,
+          "name": "Suiryu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132939-DLMpET3S5YG6.png",
+          "description": "",
+          "nicknames": [
+            "Suiryu",
+            "スイリュー",
+            "Suiryū"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Suiryu",
+            "name_native": "スイリュー",
+            "name_alternative": [
+              "Suiryū"
+            ],
+            "description": "Suiryu is a Martial Artist and user of the Void Fist. He is said to be a top contender in the Super Fight tournament. Suiryu is an easygoing and carefree man usually seen smiling and is a notorious playboy, who would rather spend time with women than training. He is also very eager to fight strong opponents and believes the reason for fighting is to live an easy life without worry. During fights, Suiryu holds back in an effort to make any fight more interesting, only using his legs during his fights and later defeating his opponents with one kick. While fighting he tries to make small talk and after he defeats his opponents, he sarcastically apologizes to them for being too strong. Suiryu is a martial arts prodigy. Despite having spent most of his time goofing off or not taking his lessons seriously, he still ultimately became one of the most revered martial artists in the world, considered a legend for winning four Super Fight tournaments in a row."
+          }
+        },
+        {
+          "id": 137879,
+          "name": "Matsuge",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b137879-bKXxF6FGc3Ck.png",
+          "description": "",
+          "nicknames": [
+            "Matsuge",
+            "マツゲ",
+            "Eyelashes"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "長谷川芳明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119855-B21adyPXI4PL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Matsuge",
+            "name_native": "マツゲ",
+            "name_alternative": [
+              "Eyelashes"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 261832,
+          "name": "Lily",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b261832-h74PS9tirY8U.png",
+          "description": "",
+          "nicknames": [
+            "Lily",
+            "リリー",
+            "Sansetsukon no Lily (三節棍のリリー)",
+            "Lily of the Three Section Staff"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小澤亜李",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118663-fFzQqJDtYNdA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Lily",
+            "name_native": "リリー",
+            "name_alternative": [
+              "Sansetsukon no Lily (三節棍のリリー)",
+              "Lily of the Three Section Staff"
+            ],
+            "description": "The Class B Rank 74 hero who is the personal assistant of Fubuki of the Blizzard Bunch. She uses a staff as her fighting weapon."
+          }
+        },
+        {
+          "id": 286886,
+          "name": "Hige Shokuin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b286886-VlwAMnkO0LJ3.png",
+          "description": "",
+          "nicknames": [
+            "Hige Shokuin",
+            "ヒゲ職員"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山本祥太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115817-zG5zN8nFwClS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Hige Shokuin",
+            "name_native": "ヒゲ職員",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 290637,
+          "name": "Megane Shokuin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b290637-FEcZoNODgdDa.png",
+          "description": "",
+          "nicknames": [
+            "Megane Shokuin",
+            "メガネ職員"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上田燿司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95926-00Pd2b8WZwQS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Megane Shokuin",
+            "name_native": "メガネ職員",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 307003,
+          "name": "Sekingar",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307003-zfN8qAKhnlXb.png",
+          "description": "",
+          "nicknames": [
+            "Sekingar",
+            "セキンガル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐々木義人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106836-TqHuTa22Q8Dw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Sekingar",
+            "name_native": "セキンガル",
+            "name_alternative": [],
+            "description": "Executive in the Hero Association. He commands the mission to rescue Waganma."
+          }
+        },
+        {
+          "id": 326806,
+          "name": "Armored Kakarichou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326806-tazS6pjIUd7J.png",
+          "description": "",
+          "nicknames": [
+            "Armored Kakarichou",
+            "アーマード係長",
+            "Armored Chief Clerk"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Armored Kakarichou",
+            "name_native": "アーマード係長",
+            "name_alternative": [
+              "Armored Chief Clerk"
+            ],
+            "description": "He is one of the C class hero."
+          }
+        },
+        {
+          "id": 326807,
+          "name": "Bun-Bun Man",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326807-un5ToIbUeN6R.png",
+          "description": "",
+          "nicknames": [
+            "Bun-Bun Man",
+            "ブンブンマン"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Bun-Bun Man",
+            "name_native": "ブンブンマン",
+            "name_alternative": [],
+            "description": "Class C superhero."
+          }
+        },
+        {
+          "id": 326814,
+          "name": "Hero Kyoukai Shokuin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326814-cLyMbNnf6kM9.png",
+          "description": "",
+          "nicknames": [
+            "Hero Kyoukai Shokuin",
+            "ヒーロー協会職員",
+            "Z Branch Operator"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤奏美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/12779.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Hero Kyoukai Shokuin",
+            "name_native": "ヒーロー協会職員",
+            "name_alternative": [
+              "Z Branch Operator"
+            ],
+            "description": "A currently unnamed Z Branch Operator for the Hero Association."
+          }
+        }
+      ]
+    }
+  ]
+}

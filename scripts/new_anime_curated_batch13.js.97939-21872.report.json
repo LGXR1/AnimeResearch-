@@ -1,0 +1,46 @@
+{
+  "verifiedAt": "2026-10-05T11:57:34.876Z",
+  "curatedFile": "scripts/new_anime_curated_batch13.js",
+  "anime": [
+    {
+      "id": 97939,
+      "title": "时间支配者",
+      "count": 6,
+      "excluded": [
+        {
+          "name": "史涅克",
+          "reason": "官网已确认重要身份，补查AniList未找到本作品关联记录及合规图片，待补齐"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/97939",
+        "https://www.chronosruler.jp/character/",
+        "https://www.chronosruler.jp/story/",
+        "https://zh.wikipedia.org/wiki/時間支配者"
+      ]
+    },
+    {
+      "id": 21872,
+      "title": "星梦手记",
+      "count": 6,
+      "excluded": [
+        {
+          "name": "白雪翔子、片冈宗一郎、安川凑、安川美波、速水莲、森拓海",
+          "reason": "授权播出名单确认存在，补查AniList尚未找到与本作关联的角色及合规图片，待补齐"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/21872",
+        "https://www.bilibili.com/bangumi/play/ss5486",
+        "https://www.animatetimes.com/news/details.php?id=1467974049",
+        "https://www.gcores.com/articles/19651",
+        "https://en.wikipedia.org/wiki/Idol_Memories"
+      ]
+    }
+  ],
+  "insertedCharacters": 12,
+  "insertedVoiceActors": 12,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 12,
+  "verifiedVoiceActors": 12
+}

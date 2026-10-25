@@ -1,0 +1,602 @@
+{
+  "fetchedAt": "2026-10-09T09:30:48.908Z",
+  "id": 125426,
+  "title": {
+    "romaji": "Gokushufudou",
+    "english": "The Way of the Househusband",
+    "native": "極主夫道"
+  },
+  "synonyms": [
+    "La Via del Grembiule",
+    "Gokushufudou: Tatsu Imortal",
+    "De yakuza a amo de casa",
+    "La Voie du Tablier",
+    "Yakuza w fartuszku. Kodeks perfekcyjnego pana domu",
+    "على طريقة ربّ المنزل",
+    "Gokushufudou Part 1",
+    "The Way of the Househusband Part 1",
+    "พ่อบ้านสุดเก๋า ",
+    "พ่อบ้านสุดเก๋า พาร์ท 1",
+    "Ο Καλός Νοικοκύρης",
+    "Шлях домогосподаря"
+  ],
+  "format": "ONA",
+  "countryOfOrigin": "JP",
+  "siteUrl": "https://anilist.co/anime/125426",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 131519,
+        "name": {
+          "full": "Tatsu",
+          "native": "龍",
+          "alternative": [
+            "Immortal Dragon",
+            "Tacchan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131519-KgmdjieEssj7.png"
+        },
+        "description": "An ex-yakuza who now lives peacefully as a househusband.",
+        "gender": "Male",
+        "age": "27"
+      },
+      "voiceActors": [
+        {
+          "id": 95591,
+          "name": {
+            "full": "Kenjirou Tsuda",
+            "native": "津田健次郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 131520,
+        "name": {
+          "full": "Masa",
+          "native": "雅",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131520-qtGDNO05CsVX.png"
+        },
+        "description": "Tatsu's former subordinate.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102288,
+          "name": {
+            "full": "Kazuyuki Okitsu",
+            "native": "興津和幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 131521,
+        "name": {
+          "full": "Miku",
+          "native": "美久",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131521-6DGz4B3dTF84.jpg"
+        },
+        "description": "Tatsu's wife. A graphic designer who loves Policure",
+        "gender": "Female",
+        "age": "26"
+      },
+      "voiceActors": [
+        {
+          "id": 95093,
+          "name": {
+            "full": "Shizuka Itou",
+            "native": "伊藤静"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 151205,
+        "name": {
+          "full": "Torajirou",
+          "native": "虎二郎",
+          "alternative": [
+            "Steelfist Tiger"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b151205-vDvCsLpjHkcz.jpg"
+        },
+        "description": "Torajirou was part of a yakuza gang that had a rivalry with Tatsu. He became a food truck owner after serving time in prison.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100626,
+          "name": {
+            "full": "Yoshimasa Hosoya",
+            "native": "細谷佳正"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 180245,
+        "name": {
+          "full": "Hibari Torii",
+          "native": "酉井ひばり",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180245-TocGYGkH719B.jpg"
+        },
+        "description": "Boss lady of the Tori Clan. Currently employed in a supermarket to maintain income after the loss of her husband, the former Tori Clan leader",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95100,
+          "name": {
+            "full": "Atsuko Tanaka",
+            "native": "田中敦子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-v07xvA8V2Yeh.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 180247,
+        "name": {
+          "full": "Ryouta",
+          "native": "亮太",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180247-4JbqUpkXQf31.jpg"
+        },
+        "description": "Ryouta is a child from one of Tatsu's neighbors.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105013,
+          "name": {
+            "full": "Mutsumi Tamura",
+            "native": "田村睦心"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105013-DffN0XN2Zw7G.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 180248,
+        "name": {
+          "full": "Urita",
+          "native": "瓜田",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b180248-Oo2Wkv2TZgiK.jpg"
+        },
+        "description": "Urita is a door-to-door salesman who sells fishy products.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95157,
+          "name": {
+            "full": "Nobuo Tobita",
+            "native": "飛田展男"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95157-td6WhlGehuDJ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 215855,
+        "name": {
+          "full": "Gin",
+          "native": "銀",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b215855-XtqtsBHITHej.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118510,
+          "name": {
+            "full": "Mao Ichimichi",
+            "native": "市道真央"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 217251,
+        "name": {
+          "full": "Buka",
+          "native": "部下",
+          "alternative": [
+            "Policeman"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217251-Tj3T0efCuBPo.jpg"
+        },
+        "description": "Buka is a police officer.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 114639,
+          "name": {
+            "full": "Junichi Yanagita",
+            "native": "柳田淳一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n114639-x529Dzoctde8.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 217252,
+        "name": {
+          "full": "Nagai",
+          "native": "長井",
+          "alternative": [
+            "Policeman"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217252-T06P9klAchw5.png"
+        },
+        "description": "Nagai is a police officer.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118552,
+          "name": {
+            "full": "Masashi Nogawa",
+            "native": "野川雅史"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/23552.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 217253,
+        "name": {
+          "full": "Wakagashira",
+          "native": "若頭",
+          "alternative": [
+            "Young Yakuza Lieutenant"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217253-Dw3VBhcVAw3E.png"
+        },
+        "description": "Wakagashira is a Young Yakuza Lieutenant.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105094,
+          "name": {
+            "full": "Jun Fukushima",
+            "native": "福島潤"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105094-Udz3lBFTZa5W.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 217324,
+        "name": {
+          "full": "Otaku",
+          "native": "小宅",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217324-DRNKda93DcLs.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95341,
+          "name": {
+            "full": "Hirofumi Nojima",
+            "native": "野島裕史"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95341-SOsBuzcMtYe8.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 217325,
+        "name": {
+          "full": "Elizabeth",
+          "native": "エリザベス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217325-GHxlfnupvN7P.jpg"
+        },
+        "description": "Elizabeth is a dog owned by Kunimi Group yakuza.",
+        "gender": "Female",
+        "age": "5"
+      },
+      "voiceActors": [
+        {
+          "id": 100929,
+          "name": {
+            "full": "Ako Mayama",
+            "native": "真山亜子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100929-yT4l5qIkOG6v.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 217326,
+        "name": {
+          "full": "Kai Neko",
+          "native": "飼い猫",
+          "alternative": [
+            "Housecat"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217326-dIAuGAuARCpK.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106817,
+          "name": {
+            "full": "Yoshitsugu Matsuoka",
+            "native": "松岡禎丞"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 217359,
+        "name": {
+          "full": "Miku no Haha",
+          "native": "美久の母",
+          "alternative": [
+            "Miku's Mother"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217359-85JmruHetNJQ.jpg"
+        },
+        "description": "She is Miku's Mother.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95256,
+          "name": {
+            "full": "Naomi Shindou",
+            "native": "進藤尚美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95256-4emdBHqQ5S7m.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 217360,
+        "name": {
+          "full": "Miku no Chichi",
+          "native": "美久の父",
+          "alternative": [
+            "Miku's Father"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217360-qYqHsTgRjUbj.jpg"
+        },
+        "description": "He is Miku's Father.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95245,
+          "name": {
+            "full": "Satoshi Hino",
+            "native": "日野聡"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95245-prBoWpg0HaGX.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 217378,
+        "name": {
+          "full": "Kumichou",
+          "native": "組長",
+          "alternative": [
+            "Boss"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217378-GTxqc90CeCEb.jpg"
+        },
+        "description": "Tatsu's former yakuza boss.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95337,
+          "name": {
+            "full": "Houchuu Ootsuka",
+            "native": "大塚芳忠"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95337-NnvEQEBKV2dR.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 217379,
+        "name": {
+          "full": "Shufu",
+          "native": "主婦",
+          "alternative": [
+            "Housewife"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217379-2jIpIm4gt9j1.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95124,
+          "name": {
+            "full": "Satomi Arai",
+            "native": "新井里美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95124-8C0BORTX7Bfd.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 217380,
+        "name": {
+          "full": "Kaichou",
+          "native": "会長",
+          "alternative": [
+            "Chairwoman"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b217380-Ho7xqt2u2GsL.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95294,
+          "name": {
+            "full": "Kimiko Saitou",
+            "native": "斉藤貴美子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95294-AN7KQALYLR9w.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

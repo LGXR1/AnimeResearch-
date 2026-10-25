@@ -1,0 +1,1464 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T14:20:05.946Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 154412,
+      "anime_title": "女神的露天咖啡厅",
+      "anime_origin": "JP",
+      "source": {
+        "id": 154412,
+        "titles": [
+          "Megami no Café Terrace",
+          "The Café Terrace and Its Goddesses",
+          "女神のカフェテラス",
+          "Goddess Café Terrace",
+          "คาเฟ่นี้มีนางฟ้ามาเสิร์ฟ",
+          "Богини кафе-террасы"
+        ],
+        "year": 2023,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/154412"
+      },
+      "characters": [
+        {
+          "id": 208522,
+          "name": "幕泽樱花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208522-qsFZUPGoorRT.jpg",
+          "description": "幕泽樱花是一名学习服装设计的专门学校学生，同时在祖母经营的女神咖啡厅工作。她是幕泽橘花的双胞胎姐姐，姐妹俩性格和兴趣各有不同。樱花把时尚设计作为学习方向，在咖啡厅的工作中也会参与店内日常，与店长粕壁隼及其他女店员共同生活。咖啡厅重新营业后，她在学业和新团队之间寻找自己的位置。",
+          "nicknames": [
+            "幕泽樱花",
+            "Ouka Makuzawa",
+            "幕澤桜花",
+            "樱花"
+          ],
+          "traits": [
+            "就读服装设计专门学校",
+            "在女神咖啡厅工作",
+            "是幕泽橘花的双胞胎姐姐",
+            "学习时尚与服装设计",
+            "与咖啡厅同伴共同生活",
+            "参与咖啡厅经营日常",
+            "在年轻店员中年纪较轻",
+            "由青木瑠璃子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "青木瑠璃子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/24922-GZMYC1vTwn4W.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ouka Makuzawa",
+            "name_native": "幕澤桜花",
+            "name_alternative": [],
+            "description": "Vocational student, studying fashion design."
+          }
+        },
+        {
+          "id": 208523,
+          "name": "月岛流星",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208523-FrotFBp1gSaF.jpg",
+          "description": "月岛流星是大学二年级学生，也是女神咖啡厅的重要店员。她曾以童星身份出道，年幼时被视为天才演员，但随着长大，人气逐渐下降。流星头脑灵活而精于计算，在管理咖啡厅时考虑得比店长粕壁隼还周全，常主动安排经营工作。她既希望重新规划自己的未来，也会利用演艺经验为咖啡厅带来新的客人。",
+          "nicknames": [
+            "月岛流星",
+            "Riho Tsukishima",
+            "月島流星",
+            "流星"
+          ],
+          "traits": [
+            "大学二年级学生",
+            "女神咖啡厅主要店员之一",
+            "曾是童星",
+            "小时候被视为天才演员",
+            "长大后演艺人气逐渐下降",
+            "善于计算和规划",
+            "比店长更认真管理咖啡厅",
+            "是主角群中年长的女性之一"
+          ],
+          "voice_actors": [
+            {
+              "name": "山根綺",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n152204-KPn660ma9Qyv.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Riho Tsukishima",
+            "name_native": "月島流星",
+            "name_alternative": [],
+            "description": "A second year college student, and the oldest of the main cast. She's a former child actress who was once regarded as a child genius, but her popularity gradually declined as she grew up. Riho is the most calculating and devious of the girls, putting more thought into managing the cafe than the owner, [Hayato](https://anilist.co/character/208525/Kasukabe-Hayato), himself."
+          }
+        },
+        {
+          "id": 208524,
+          "name": "凤凰寺红叶",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208524-gLJO4cNRVZ1M.jpg",
+          "description": "凤凰寺红叶是女神咖啡厅的兼职店员，也是乐队成员，平时会为自己的乐队创作音乐。她在咖啡厅接待顾客之余，也投入排练和演出，把音乐作为个人生活的重要部分。红叶需要在打工、乐队活动和同伴关系之间安排时间，遇到团队问题时则会用直接方式表达想法。咖啡厅成为她和隼等人相识、同时继续音乐梦想的场所。",
+          "nicknames": [
+            "凤凰寺红叶",
+            "Akane Hououji",
+            "鳳凰寺紅葉",
+            "红叶"
+          ],
+          "traits": [
+            "女神咖啡厅的兼职店员",
+            "为自己的乐队创作音乐",
+            "兼具咖啡厅服务与音乐活动",
+            "热爱摇滚乐",
+            "参与乐队排练和演出",
+            "与其他店员共同工作",
+            "将创作融入日常生活",
+            "由濑户麻沙美配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "瀬戸麻沙美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-ojpoY7XEGYgc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Akane Hououji",
+            "name_native": "鳳凰寺紅葉",
+            "name_alternative": [],
+            "description": "Part-time worker for the café. Writes music for her band."
+          }
+        },
+        {
+          "id": 208525,
+          "name": "粕壁隼",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208525-9v9bpRftHGh5.jpg",
+          "description": "粕壁隼是东京大学学生，祖母去世后回到家乡，重新接手她留下的女神咖啡厅，并担任临时经理。店铺需要重新整理和营业，他必须在课程、经营事务及与多名年轻女店员的相处之间寻找平衡。隼起初更习惯独自处理问题，后来逐渐接受店员们的建议与帮助。咖啡厅既承载祖母留下的记忆，也成为他重新认识家乡和新伙伴的地方。",
+          "nicknames": [
+            "粕壁隼",
+            "Hayato Kasukabe",
+            "Hayacchi",
+            "隼"
+          ],
+          "traits": [
+            "东京大学学生",
+            "祖母去世后回到家乡",
+            "接手祖母经营的咖啡厅",
+            "担任咖啡厅临时经理",
+            "需要管理多名年轻店员",
+            "尝试让店铺重新经营",
+            "在学业与店务间两头忙",
+            "由水中雅章配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "水中雅章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126794-tZzYeLEQbsrj.png",
+              "language": "日语"
+            },
+            {
+              "name": "田中あいみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119281-JTPeNOrPAx3O.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hayato Kasukabe",
+            "name_native": "粕壁隼",
+            "name_alternative": [
+              "Hayacchi"
+            ],
+            "description": "A Tokyo U student who returned to his Grandmother's café following her passing; now interim manager."
+          }
+        },
+        {
+          "id": 208526,
+          "name": "小野白菊",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208526-LVPbJSZO5hZP.png",
+          "description": "小野白菊是大学二年级学生，与月岛流星就读同一所大学，也是女神咖啡厅的主要店员之一。她擅长烹饪，尤其精通日本料理，常为店内菜单和同伴生活提供帮助。白菊小时候便认识店长粕壁隼，这段旧日关系在祖母去世、咖啡厅重新营业后重新变得重要。她对气味有特殊兴趣，做事认真细致，逐渐成为店里的料理主力。",
+          "nicknames": [
+            "小野白菊",
+            "Shiragiku Ono",
+            "白菊"
+          ],
+          "traits": [
+            "大学二年级学生",
+            "与流星就读同一所大学",
+            "擅长烹饪日本料理",
+            "是咖啡厅的主要店员",
+            "与粕壁隼小时候就认识",
+            "料理能力受到同伴依赖",
+            "对气味有特殊兴趣",
+            "在咖啡厅负责餐食相关工作"
+          ],
+          "voice_actors": [
+            {
+              "name": "和氣あず未",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119517-ggxWaTnTOrxW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shiragiku Ono",
+            "name_native": "小野白菊",
+            "name_alternative": [],
+            "description": "A second year who attends the same college as Riho, and is the oldest of the main cast along with her. She is a talented cook who specializes in Japanese cuisine. Has a smell fetish. ~!She is revealed to be a childhood acquaintance of Hayato!~"
+          }
+        },
+        {
+          "id": 208527,
+          "name": "鹤河秋水",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208527-gGyjyGUnw34f.jpg",
+          "description": "鹤河秋水是高中三年级学生，加入学校空手道部，同时在女神咖啡厅兼职。她精力充沛，拥有格斗训练，常把电子游戏和流行作品中的招式融入自己的战斗风格，动作因此显得夸张又熟悉。秋水在咖啡厅承担服务工作，也会以热情的态度参与同伴间的活动。她的空手道经历和直率性格给店内日常带来不少热闹场面。",
+          "nicknames": [
+            "鹤河秋水",
+            "Ami Tsuruga",
+            "鶴河秋水",
+            "秋水"
+          ],
+          "traits": [
+            "高中三年级学生",
+            "是学校空手道部成员",
+            "在女神咖啡厅兼职",
+            "性格精力充沛",
+            "擅长空手道格斗",
+            "招式常模仿格斗游戏与流行作品",
+            "与咖啡厅伙伴共同工作",
+            "由铃代纱弓配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴代紗弓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126963-GnhNcLWFeKmy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ami Tsuruga",
+            "name_native": "鶴河秋水",
+            "name_alternative": [],
+            "description": "An energetic third-year high school student in the karate club, she works part-time at the Café. Her fighting style consists of moves from the Street Fighter series and other popular works."
+          }
+        },
+        {
+          "id": 253429,
+          "name": "幕泽橘花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253429-84BvsOfZB7nX.jpg",
+          "description": "幕泽橘花是幕泽樱花的双胞胎妹妹，与姐姐外貌相似，却有自己的兴趣和生活节奏。樱花在服装设计专门学校学习并到咖啡厅工作，橘花则从家庭一侧与她保持联系，也会与咖啡厅成员产生交集。姐妹之间的相处既亲密又带着各自性格造成的小摩擦，为樱花的工作日常补充了家庭关系。橘花由声优上坂堇配音。",
+          "nicknames": [
+            "幕泽橘花",
+            "Kikka Makusawa",
+            "幕澤橘花",
+            "橘花"
+          ],
+          "traits": [
+            "幕泽樱花的双胞胎妹妹",
+            "与姐姐外貌相似",
+            "和姐姐拥有不同兴趣",
+            "与女神咖啡厅店员关系密切",
+            "出现在幕泽家的家庭生活中",
+            "参与咖啡厅周边日常",
+            "由上坂堇配音",
+            "补充樱花的姐妹关系线"
+          ],
+          "voice_actors": [
+            {
+              "name": "上坂すみれ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109441-6y5vZS0FDE18.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kikka Makusawa",
+            "name_native": "幕澤橘花",
+            "name_alternative": [],
+            "description": "Ouka's younger twin sister."
+          }
+        },
+        {
+          "id": 254180,
+          "name": "粕壁幸子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b254180-WxzXrb7uQkAy.png",
+          "description": "粕壁幸子是粕壁隼的祖母，生前经营女神咖啡厅，与店员们共同生活并建立深厚联系。她去世后，隼从东京回到家乡接手店铺，试着延续祖母留下的事业。幸子的经营方式、待人态度和与店员之间的回忆不断影响咖啡厅重新开业的过程。她虽然已经不在世，仍是店铺和年轻成员共同珍视的核心人物。",
+          "nicknames": [
+            "粕壁幸子",
+            "Sachiko Kasukabe",
+            "幸子奶奶"
+          ],
+          "traits": [
+            "粕壁隼的祖母",
+            "曾经营女神咖啡厅",
+            "去世后留下咖啡厅",
+            "是店员们记忆中的重要长辈",
+            "促使隼回乡接管店铺",
+            "与年轻店员有共同生活回忆",
+            "咖啡厅以她留下的传统为基础",
+            "由伊仓一惠配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "伊倉一恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95420-or3epAZNwUdi.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sachiko Kasukabe",
+            "name_native": "粕壁幸子",
+            "name_alternative": [],
+            "description": "She is the deceased grandmother of Hayato."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 20964,
+      "anime_title": "Punch Line（潘奇莱恩）",
+      "anime_origin": "JP",
+      "source": {
+        "id": 20964,
+        "titles": [
+          "Punch Line",
+          "PUNCH LINE",
+          "パンチライン",
+          "Punchline",
+          "Linea Final"
+        ],
+        "year": 2015,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/20964"
+      },
+      "characters": [
+        {
+          "id": 88901,
+          "name": "奇拉之助",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88901-nf13UGUsdkxN.jpg",
+          "description": "奇拉之助是一只猫咪外形的精灵，负责指导伊里达游太适应幽灵身份，教他如何以灵体状态观察和行动。它喜欢喝日本酒，似乎居住在光来庄203号室，对灵体活动方式和公寓中的异常现象颇为熟悉。游太因神秘的灵魂出窍经历陷入困境后，奇拉之助成为他最直接的顾问，也引导他开始调查围绕住户发生的事件。",
+          "nicknames": [
+            "奇拉之助",
+            "Chiranosuke",
+            "チラ之助",
+            "吉良之助"
+          ],
+          "traits": [
+            "以猫咪外表出现的精灵",
+            "担任伊里达游太的引导者",
+            "教游太如何作为幽灵行动",
+            "喜欢喝日本酒",
+            "似乎居住在光来庄203号室",
+            "熟悉灵体活动规则",
+            "陪伴游太调查异常事件",
+            "由吉田有里配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "吉田有里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118392-N0nQvAhtO1WX.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Chiranosuke",
+            "name_native": "チラ之助",
+            "name_alternative": [],
+            "description": "A cat spirit who acts as [Yuuta's](https://anilist.co/character/88902/Yuuta-Iridatsu) guide to being a ghost. He enjoys drinking sake and seems to reside in room 203."
+          }
+        },
+        {
+          "id": 88902,
+          "name": "伊里达游太",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88902-WspEabBNaxVZ.png",
+          "description": "伊里达游太住在光来庄103号室，经历神秘的灵魂出窍后成为幽灵，必须在有限时间内查明发生的一切。他总努力维持冷静外表，内心却富有正义感、同情心，也带着几分天真。游太看到女性内衣时会因过度兴奋而流鼻血昏厥，这种特殊体质让他必须谨慎行动。故事逐步揭开他的灵魂、身体交换事故和公寓住户之间的联系。",
+          "nicknames": [
+            "伊里达游太",
+            "Yuuta Iridatsu",
+            "伊里達遊太",
+            "游太"
+          ],
+          "traits": [
+            "居住在光来庄103号室",
+            "经历神秘的灵魂出窍事件",
+            "以幽灵状态行动",
+            "外表常努力保持冷静",
+            "内心富有正义感和同情心",
+            "性格天真容易受惊",
+            "看到女性内衣时会鼻血昏厥",
+            "真实登记姓名为伊里达游"
+          ],
+          "voice_actors": [
+            {
+              "name": "井上麻里奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuuta Iridatsu",
+            "name_native": "伊里達遊太",
+            "name_alternative": [],
+            "description": "Resident of room 103 in Korai House, who becomes a ghost through a mysterious out of body experience. He tries to keep a cool facade, but he has a strong sense of justice, compassion, and naivete. When he sees a girl's underwear, he gets a strong nosebleed and loses consciousness. \n\n~!In episode 6, it is revealed that Yuuta is biologically female. His registered legal name is Yuu Iridatsu (伊里達 遊).!~\n\n~!Yuuta, originally Pine, had a body-switching accident, which resulted in Yūta's soul taking over [Chiyoko's](https://anilist.co/character/88903) body. Consequently, Yuuta has a male soul but a female body. In spite of this, Yuuta considers himself male.!~"
+          }
+        },
+        {
+          "id": 88903,
+          "name": "成木野美香丹",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88903-bKggTgusV9TB.png",
+          "description": "成木野美香丹住在光来庄101号室，是偶像组合“她是梅”的成员，性格积极开朗，也很关心身边朋友。闲暇时她会化身蒙面正义英雄“奇异果汁”，以超常力量和巨型吸管打击邪恶。美香丹童年曾在研究所生活，使用过“千代子”这个名字，灵魂交换事故也影响了她如今的身体和身份。她的偶像活动与英雄行动成为故事的重要线索。",
+          "nicknames": [
+            "成木野美香丹",
+            "Mikatan Narugino",
+            "成木野みかたん",
+            "Strange Juice (ストレンジジュース)",
+            "美香丹"
+          ],
+          "traits": [
+            "居住在光来庄101号室",
+            "是偶像组合“她是梅”的成员",
+            "性格积极开朗",
+            "关心朋友和同伴",
+            "以“奇异果汁”作为蒙面正义英雄",
+            "拥有超常力量",
+            "使用巨型吸管对抗邪恶",
+            "童年时曾在研究所生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "雨宮天",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116517-xjN5V1jMc443.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mikatan Narugino",
+            "name_native": "成木野みかたん",
+            "name_alternative": [
+              "Strange Juice (ストレンジジュース)"
+            ],
+            "description": "Mikatan is very positive and happy, as well as caring for her friends. She lives in room 101 and is a member of the idol group \"She's Mei.\" In her free time, she also is a masked hero of justice named \"Strange Juice\" who uses super strength and a giant straw to fight evil.\n~! As a child she grew up in a research lab under the name Chiyoko, but in an accident her soul ended up in the body of her friend [Guriko.](https://anilist.co/character/232658) !~\n~!She is currently, in the history where humanity lives on, in her original body (the body [Yuuta](https://anilist.co/character/88902/Yuuta-Iridatsu) was using) with black hair.!~"
+          }
+        },
+        {
+          "id": 88904,
+          "name": "曳尾谷爱",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88904-zp8Ex2X8aFWY.png",
+          "description": "曳尾谷爱住在光来庄102号室，是一名沉迷游戏的家里蹲。她虽然就读于名门女子学校，却经常不去上课，把大部分时间花在第一人称射击游戏上。爱熟悉游戏规则，也倾向于用玩家思维分析现实问题。游太变成幽灵后，她与其他公寓住户一起被卷入异常事件，需要在网络世界和公寓现实之间面对新的危机。",
+          "nicknames": [
+            "曳尾谷爱",
+            "Ito Hikiotani",
+            "曳尾谷愛",
+            "爱"
+          ],
+          "traits": [
+            "居住在光来庄102号室",
+            "是重度游戏玩家",
+            "长期宅在家中",
+            "就读于名门女子学校",
+            "经常旷课不去学校",
+            "把大量时间花在第一人称射击游戏",
+            "与公寓住户共同生活",
+            "由寿美菜子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "寿美菜子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101634-IiPW117K0ybp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ito Hikiotani",
+            "name_native": "曳尾谷愛",
+            "name_alternative": [],
+            "description": "A shut-in game junky who lives in room 102 of Korai House. She's enrolled at a prestigious girl's school but is not going to class, instead spending her time on FPS games."
+          }
+        },
+        {
+          "id": 88905,
+          "name": "台初明香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88905-ddPNtxBkLhxW.png",
+          "description": "台初明香是一名黑客，也是拥有天才发明能力的少女。她非常爱自己的祖父，对技术和设备有极强兴趣，能够参与复杂的计算机行动。围绕美国卫星展开的劫持计划与明香的黑客能力有关，使她和光来庄住户共同卷入危险事件。明香需要在亲情、技术能力与团队行动之间作出选择，她的发明也成为解决谜团的重要资源。",
+          "nicknames": [
+            "台初明香",
+            "Meika Daihatsu",
+            "Meika-emon",
+            "明香"
+          ],
+          "traits": [
+            "职业是黑客",
+            "拥有天才发明能力",
+            "热爱祖父",
+            "居住在光来庄",
+            "熟悉计算机和技术设备",
+            "参与卫星劫持相关项目",
+            "与游太等住户共同生活",
+            "由钉宫理惠配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "釘宮理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Meika Daihatsu",
+            "name_native": "台初明香",
+            "name_alternative": [
+              "Meika-emon"
+            ],
+            "description": "__Occupation:__ Hacker\n\nA genius inventor who loves her grandfather.\n"
+          }
+        },
+        {
+          "id": 88906,
+          "name": "秩父拉布拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88906-SGddfF0CnxiR.png",
+          "description": "秩父拉布拉住在光来庄202号室，穿着偏辣妹风格，平时以灵媒身份接触顾客。她的家族世代从事灵媒工作，所以她顺势继承这一职业，却并不真的相信幽灵存在。拉布拉养着一只宠物乌龟，也是伊里达游太妹妹的朋友。游太成为幽灵后，她原本的职业立场被现实挑战，不得不重新理解自己每天宣称的灵异现象。",
+          "nicknames": [
+            "秩父拉布拉",
+            "Rabura Chichibu",
+            "秩父ラブラ",
+            "拉布拉"
+          ],
+          "traits": [
+            "居住在光来庄202号室",
+            "以灵媒身份活动",
+            "实际上是假灵媒",
+            "喜欢辣妹风格穿搭",
+            "家族世代从事灵媒工作",
+            "本人并不相信幽灵",
+            "养着一只宠物乌龟",
+            "是游太妹妹的朋友"
+          ],
+          "voice_actors": [
+            {
+              "name": "戸松遥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Rabura Chichibu",
+            "name_native": "秩父ラブラ",
+            "name_alternative": [],
+            "description": "A fake spirit medium with a gyaru fashion sense who lives in Room 202 of Korai House. Her family has been mediums for generations so she followed the same path but she actually doesn't believe in ghosts. She has a pet turtle and is a friend of [Yuuta's](https://anilist.co/character/88902/Yuuta-Iridatsu) sister."
+          }
+        },
+        {
+          "id": 232658,
+          "name": "寺冈龙都",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232658-f0Sj1aRsS9uo.png",
+          "description": "寺冈龙都是十二月二十一日劫持巴士事件的幕后主使，也是Qmay集团领导人，曾以Gliese之名活动。他参与了利用台初明香的黑客技术劫持美国卫星的计划，掌握项目的重要环节。随着调查推进，寺冈的真实身份与研究所中的古里子以及灵魂交换事故联系起来，最终成为警方追捕的对象。他的计划把光来庄居民的命运串联在一起。",
+          "nicknames": [
+            "寺冈龙都",
+            "Ryuuto Teraoka",
+            "寺岡龍都",
+            "龙都"
+          ],
+          "traits": [
+            "十二月二十一日劫持巴士事件的幕后主使",
+            "是Qmay集团的领导人",
+            "代号为Gliese",
+            "参与针对美国卫星的计划",
+            "与台初明香的黑客行动有关",
+            "真实身份与古里子相关",
+            "曾参与研究所的灵魂交换实验",
+            "事件揭露后遭警方追捕"
+          ],
+          "voice_actors": [
+            {
+              "name": "赤羽根健治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102512-3nVZNCewjZYm.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ryuuto Teraoka",
+            "name_native": "寺岡龍都",
+            "name_alternative": [],
+            "description": "The mysterious mastermind for the Hijacking Bus Incident on December 21st. \n~!He is the main antagonist in Punchline. He is a leader of the Qmay Group and is a \"W\". Apparently, he is in charge of everything regarding the project to hijack [Meika's](https://anilist.co/character/88905/) hacking of the US satellite. He is the mastermind for the Hijacking Bus Incident, and the real identity of Gliese. He is currently on the run from the police.!~\n~! His true identity is Guriko, the third child at the Uber Lab with [Pine](https://anilist.co/character/88902/Yuuta-Iridatsu) and [Chiyoko.](https://anilist.co/character/88903/Mikatan-Narugino) During the accident, Guriko's soul ended up in Pine's body which was taken back to the lab by the Qmay Group.!~\n\n(Source: Punch Line Fandom)"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 148109,
+      "anime_title": "勇者死了！",
+      "anime_origin": "JP",
+      "source": {
+        "id": 148109,
+        "titles": [
+          "Yuusha ga Shinda!",
+          "The Legendary Hero is Dead!",
+          "勇者が死んだ！",
+          "勇者死了！",
+          "เมื่อผู้กล้าลาโลกแล้ว!",
+          "Герой мёртв!"
+        ],
+        "year": 2023,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/148109"
+      },
+      "characters": [
+        {
+          "id": 171619,
+          "name": "西恩·布雷丹",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b171619-FxM3A0XNza2J.png",
+          "description": "西恩·布雷丹是一位声名远扬的勇者，曾经拯救世界免受魔物威胁。他在故事开端意外踏入托卡设置的陷阱而死亡，原本正在追踪魔物的同伴因此失去领袖。亡灵术士安莉为了继续执行任务，把托卡的意识转移进西恩的身体，让他被迫继承勇者身份。西恩本人虽已死去，他的名字和身体仍推动伙伴们继续冒险。",
+          "nicknames": [
+            "西恩·布雷丹",
+            "Sion Breydan",
+            "シオン・ブレイダン",
+            "Shion Bladearts",
+            "勇者西恩"
+          ],
+          "traits": [
+            "声名远扬的勇者",
+            "曾拯救世界免受魔物威胁",
+            "在故事开端意外死亡",
+            "与亡灵术士安莉同行",
+            "被托卡的陷阱误杀",
+            "死亡后成为托卡冒险的起点",
+            "是勇者同伴的核心成员",
+            "由土岐隼一配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "土岐隼一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123971-tp8zQxlKuhfZ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sion Breydan",
+            "name_native": "シオン・ブレイダン",
+            "name_alternative": [
+              "Shion Bladearts"
+            ],
+            "description": "A famous hero who saved the world from monsters. He is accidentally killed at the start of the series.\n"
+          }
+        },
+        {
+          "id": 171620,
+          "name": "安莉·海兹沃斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b171620-S4s5zzkEFU0r.png",
+          "description": "安莉·海兹沃斯是勇者西恩的伙伴，也是一名亡灵术士，擅长处理尸体和灵魂。西恩意外死亡后，她为了让讨伐任务继续，使用术法将托卡的意识转移进勇者身体，并控制托卡原来的躯体，迫使他接下勇者职责。安莉的决定让托卡无法逃避冒险，也使队伍必须面对尸体腐坏和灵魂交换带来的新问题。",
+          "nicknames": [
+            "安莉·海兹沃斯",
+            "Anri Haysworth",
+            "アンリ・ヘイズワース",
+            "Anri Hazeworth",
+            "安莉"
+          ],
+          "traits": [
+            "勇者西恩的伙伴",
+            "职业是亡灵术士",
+            "擅长操纵尸体和灵魂",
+            "西恩死后转移托卡意识",
+            "把托卡送进勇者身体",
+            "捕获托卡原本的身体",
+            "推动勇者小队继续行动",
+            "由竹达彩奈配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "竹達彩奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101996-PcY5iaq5LHgd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Anri Haysworth",
+            "name_native": "アンリ・ヘイズワース",
+            "name_alternative": [
+              "Anri Hazeworth"
+            ],
+            "description": "Anri is one of the companions of the Hero. She is a necromancer. After the Hero's death, Anri transfers Touka's consciousness into the Hero's body so Touka can continue the Hero's work.\n"
+          }
+        },
+        {
+          "id": 171621,
+          "name": "托卡·斯科特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b171621-x19YKwb5wr4O.png",
+          "description": "托卡·斯科特是切扎村的农夫，也是尤娜的童年朋友，平日沉迷长筒袜，还会把袜子套在收获的蔬菜上满足自己的怪癖。魔物袭击村庄时，他设置陷阱保护家园，却误将勇者西恩引入陷阱致死。为了不被追责，托卡试图隐瞒事故；安莉却将他的意识转入勇者身体，迫使他踏上讨伐魔物的旅程。勇者肉身持续腐坏后，他甚至变成骷髅继续行动。",
+          "nicknames": [
+            "托卡·斯科特",
+            "Touka Scott",
+            "トウカ・スコット",
+            "托卡"
+          ],
+          "traits": [
+            "切扎村的农夫",
+            "是尤娜的童年朋友",
+            "喜欢长筒袜",
+            "会把长筒袜套在收获的蔬菜上",
+            "擅长制作陷阱",
+            "意外导致勇者西恩死亡",
+            "意识被转移进勇者身体",
+            "之后以骷髅形态冒险"
+          ],
+          "voice_actors": [
+            {
+              "name": "加藤渉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n145234-wpbiwYFtVCWT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Touka Scott",
+            "name_native": "トウカ・スコット",
+            "name_alternative": [],
+            "description": "Touka is the main character in the Yuusha ga Shinda! manga. He's a farmer from Cheza village, the same as his childhood friend, Yuna Yunis. Touka has a thigh fetish and loves putting kneesocks on vegetables he harvests to engage his fantasies. Touka's simple life changes when a demon attacks his village. Touka digs a pitfall trap and baits it with cooked bacon in order to kill the demon and protect the village. However, the demon dislikes bacon so it continues to destroy the village until the Hero arrives and defeats it. The hungry Hero is lured into the pitfall trap by Touka's bacon and falls to his death.\n\nTo avoid blame for the Hero's death, Touka convinces the villagers to bury him in secret and pretend the Hero is missing. Touka believes his plan has worked until he wakes up the next morning in the Hero's body. One of the Hero's companions, a necromancer, has transferred his consciousness into the Hero's dead body and captured his original body so that he'll be forced to take up the role of the Hero. Unfortunately for Touka, this does not stop the decay of the Hero's body and Touka ends up walking around as a skeleton.\n"
+          }
+        },
+        {
+          "id": 171622,
+          "name": "尤娜·尤尼斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b171622-47JSfS00kOf8.jpg",
+          "description": "尤娜·尤尼斯来自切扎村，是托卡从小认识的朋友。她喜欢声名远扬的勇者西恩，却一直觉得托卡行为古怪、是个变态。西恩意外死亡、托卡被迫接过勇者身体后，尤娜也被卷入讨伐魔物的行动。她既要面对真正的勇者已经不在的事实，也得重新判断身边这个借用勇者身体的童年伙伴。",
+          "nicknames": [
+            "尤娜·尤尼斯",
+            "Yuna Yunis",
+            "ユナ・ユニス",
+            "Yuna Eunice",
+            "尤娜"
+          ],
+          "traits": [
+            "来自切扎村",
+            "是托卡的童年朋友",
+            "喜欢勇者西恩",
+            "认为托卡是个变态",
+            "与村民共同生活",
+            "勇者任务开始后同行",
+            "在感情上仰慕西恩",
+            "由山村响配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "山村響",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107750-ncaOycwTveFP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuna Yunis",
+            "name_native": "ユナ・ユニス",
+            "name_alternative": [
+              "Yuna Eunice"
+            ],
+            "description": "Yuna Eunice is from Cheza Village and she is Touka's childhood friend. She has a crush on the Hero and she considers Touka a pervert.\n"
+          }
+        },
+        {
+          "id": 171623,
+          "name": "艾瑟尔·博格尼",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b171623-LQayrEQ4WSR7.jpg",
+          "description": "艾瑟尔·博格尼是一名二十九岁的盗贼，以陷阱制作能力闻名。数年前北方大陆遭魔物侵袭时，她教托卡制作陷阱并传授野外生存技巧，因此托卡一直称她为师父。艾瑟尔后来与亡灵术士阵营合作，似乎怀有与托卡队伍相近的目标；即使独自行动，她仍会关心托卡的近况，并在可能时出手相助。",
+          "nicknames": [
+            "艾瑟尔·博格尼",
+            "Esel Borgnine",
+            "エセル　ボーグナイン",
+            "エセル・ボーグナイン",
+            "艾瑟尔"
+          ],
+          "traits": [
+            "二十九岁的女性",
+            "臭名昭著的女盗贼",
+            "擅长制作陷阱",
+            "曾在地狱之门附近出现",
+            "教过托卡制作陷阱",
+            "传授生存技巧",
+            "与亡灵术士阵营有联系",
+            "分开行动时仍会关心托卡"
+          ],
+          "voice_actors": [
+            {
+              "name": "大原さやか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Esel Borgnine",
+            "name_native": "エセル　ボーグナイン",
+            "name_alternative": [],
+            "description": "Ethel's first appearance is in front of Hell's Gate in chapter 1. She's an infamous bandit and master trap maker. She's 29 years old.\n\n~!Ethel \"trained\" Touka in the art of trap making and survival tactics following the end of the war between the Allard Kingdon and Farom when demons terrorized the Northern continent (3 1/2 years prior to the main story line). As a result, Touka refers to her as his teacher or master.!~\n\n~!Ethel aligns herself with the necromancers seemingly aiming for a similar goal, though she still helps Touka's group when possible.!~\n\n~!She seems to be attached to Touka and often wonders how he's doing when they're separated.!~"
+          }
+        },
+        {
+          "id": 171624,
+          "name": "多托·伯恩斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b171624-TijLedJdpk6P.jpg",
+          "description": "多托·伯恩斯是莫阿兰镇的镇长，刚开始担任公职时只关心自己的财富。随着与镇民相处增多，他逐渐开始在意居民生活，并把地方事务放在个人利益之前。多托在故事中与托卡一行发生交集，甚至对托卡偏爱的长筒袜产生兴趣。他由逐利者转变为愿意照顾镇民的人，构成冒险旅程中的一段喜剧式成长。",
+          "nicknames": [
+            "多托·伯恩斯",
+            "Doto Burns",
+            "ドット・バーンズ",
+            "多托"
+          ],
+          "traits": [
+            "莫阿兰镇的镇长",
+            "初任镇长时只追求个人财富",
+            "后来逐渐关心镇民",
+            "会参与地方事务",
+            "与托卡一行发生交集",
+            "对长筒袜产生兴趣",
+            "由多田野曜平配音",
+            "呈现角色性格转变"
+          ],
+          "voice_actors": [
+            {
+              "name": "多田野曜平 ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100691-3Z7NxFXFVoea.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Doto Burns",
+            "name_native": "ドット・バーンズ",
+            "name_alternative": [],
+            "description": "The mayor of Moalan. He begins his mayoral career focused on fortune, but later comes to love the people of his town... and kneesocks,\n"
+          }
+        },
+        {
+          "id": 171625,
+          "name": "西鲁艾拉·卡门",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b171625-K2m6YGvaG8pf.jpg",
+          "description": "西鲁艾拉·卡门是王国最强的四名战士之一，因战斗实力出众而享有盛名。魔物威胁持续扩大时，她作为王国的重要战力参与应对任务，也会与托卡等冒险者发生交集。西鲁艾拉所属的战士体系代表王国的正规武力，与托卡依赖陷阱和临场判断的战斗方式形成对照。",
+          "nicknames": [
+            "西鲁艾拉·卡门",
+            "Ciruela Carmen",
+            "シルエラ・カルメン",
+            "Yonkishi",
+            "西鲁艾拉"
+          ],
+          "traits": [
+            "王国四名最强战士之一",
+            "拥有高超战斗能力",
+            "隶属王国战士体系",
+            "参与魔物威胁应对",
+            "在王国中享有盛名",
+            "与托卡队伍的任务有关",
+            "由金田爱配音",
+            "是王国的重要战力"
+          ],
+          "voice_actors": [
+            {
+              "name": "金田愛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n248928-lHDvF6vGw4kQ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ciruela Carmen",
+            "name_native": "シルエラ・カルメン",
+            "name_alternative": [
+              "Yonkishi"
+            ],
+            "description": "One of the strongest four warriors in the kingdom.\n"
+          }
+        },
+        {
+          "id": 171626,
+          "name": "凯尔·奥兹曼特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b171626-zEmWGw4Dcwyx.jpg",
+          "description": "凯尔·奥兹曼特是勇者西恩的同伴之一，西恩意外死亡后，他曾试图接过勇者的职位，继续带领队伍讨伐魔物。凯尔具备战斗经验，也理解勇者在世界中的责任；然而托卡意识进入西恩的身体后，勇者身份归属变得复杂。凯尔必须面对原伙伴的死亡、继任计划受阻以及共同任务继续推进等问题。",
+          "nicknames": [
+            "凯尔·奥兹曼特",
+            "Kyle Ozment",
+            "カイル・オズメント",
+            "凯尔"
+          ],
+          "traits": [
+            "勇者西恩的伙伴之一",
+            "在西恩死后试图接任勇者",
+            "拥有战斗训练",
+            "与托卡队伍目标一致",
+            "参与讨伐魔物行动",
+            "需要面对勇者职责变化",
+            "由中村悠一配音",
+            "是勇者同伴中的竞争者"
+          ],
+          "voice_actors": [
+            {
+              "name": "中村悠一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kyle Ozment",
+            "name_native": "カイル・オズメント",
+            "name_alternative": [],
+            "description": "Kyle is one of the companions of the hero. After the hero's death he attempts to take his place as hero.\n"
+          }
+        },
+        {
+          "id": 171628,
+          "name": "利兰·托尔曼",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b171628-V3k7riDjaySG.png",
+          "description": "利兰·托尔曼是王都一家孤儿院的院长，负责照顾院内的孩子并处理日常事务。他生活在勇者西恩死后魔物威胁仍未解除的时代，与托卡一行的冒险和王都事件产生联系。利兰的工作让故事展现战斗之外的普通人处境，也说明勇者的缺席会如何影响需要保护的群体。",
+          "nicknames": [
+            "利兰·托尔曼",
+            "Leland Tallman",
+            "リーランド・トールマン",
+            "利兰"
+          ],
+          "traits": [
+            "王都孤儿院的院长",
+            "负责照顾孤儿院儿童",
+            "在王都从事管理工作",
+            "与托卡冒险队伍产生交集",
+            "是勇者死后世界中的成年人角色",
+            "处理孤儿院日常事务",
+            "由小林亲弘配音",
+            "为王都生活线提供背景"
+          ],
+          "voice_actors": [
+            {
+              "name": "小林親弘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124703-rtSB51tfBuY7.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Leland Tallman",
+            "name_native": "リーランド・トールマン",
+            "name_alternative": [],
+            "description": "Director of the orphanage located at the royal capital.\n"
+          }
+        },
+        {
+          "id": 309804,
+          "name": "菲耶里·尤尼斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b309804-EYuj5zytHzCu.png",
+          "description": "菲耶里·尤尼斯是尤娜和米莉的父亲，属于切扎村的尤尼斯家族。他对女性胸部有强烈执念，并且十分讨厌托卡，常对女儿与这名农夫之间的相处表达不满。菲耶里的言行经常制造令人尴尬的喜剧场面，也让托卡必须面对来自尤娜家长的压力。",
+          "nicknames": [
+            "菲耶里·尤尼斯",
+            "Fieri Yunis",
+            "フィエリ・ユニス",
+            "菲耶里"
+          ],
+          "traits": [
+            "尤娜与米莉的父亲",
+            "属于尤尼斯家族",
+            "对女性胸部有强烈执念",
+            "非常讨厌托卡",
+            "与切扎村生活有关",
+            "对女儿的交友对象抱有意见",
+            "由东地宏树配音",
+            "是托卡经常遇到的麻烦长辈"
+          ],
+          "voice_actors": [
+            {
+              "name": "東地宏樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Fieri Yunis",
+            "name_native": "フィエリ・ユニス",
+            "name_alternative": [],
+            "description": "[Yuna](https://anilist.co/character/171622/Yunis-Yuna) and [Milly](https://anilist.co/character/271646/Yunis-Milly)'s father. He has as an obsession for women's breasts and hates [Touka](https://anilist.co/character/171621/Scott-Touka)."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 98205,
+      "anime_title": "洁癖男子！青山君",
+      "anime_origin": "JP",
+      "source": {
+        "id": 98205,
+        "titles": [
+          "Keppeki Danshi! Aoyama-kun",
+          "Clean Freak! Aoyama kun",
+          "潔癖男子! 青山くん",
+          "Cleanliness Boy! Aoyama-kun"
+        ],
+        "year": 2017,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/98205"
+      },
+      "characters": [
+        {
+          "id": 122612,
+          "name": "青山",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122612-UtPHvSKAOFER.jpg",
+          "description": "青山是富士美高中一年级学生，身高一百七十五厘米，担任足球队王牌中场并穿着十号球衣。他技术出众，入选日本U-16代表队，是球队最受关注的选手。青山有严重洁癖，原则上拒绝用头顶球，也不愿意进行容易弄脏身体的滑铲。尽管他的习惯给球队战术带来限制，他仍凭借精准判断和个人技术帮助队伍比赛；他选择富士美高中也另有原因。",
+          "nicknames": [
+            "青山",
+            "Aoyama",
+            "Aoi Sanmyaku",
+            "San-chan",
+            "青山君"
+          ],
+          "traits": [
+            "富士美高中一年级学生",
+            "身高一百七十五厘米",
+            "足球队王牌中场",
+            "身穿十号球衣",
+            "是日本U-16代表队中场",
+            "有严重洁癖",
+            "拒绝用头顶球或滑铲",
+            "因某个特殊原因选择富士美高中"
+          ],
+          "voice_actors": [
+            {
+              "name": "置鮎龍太郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95177-6SiaUTf3CLkN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Aoyama",
+            "name_native": "青山",
+            "name_alternative": [
+              "Aoi Sanmyaku",
+              "San-chan"
+            ],
+            "description": "__Class:__ 1-5\n__Height:__ 175 cm\n__Position:__ Midfielder\n\nA first-year student at Fujimi High School and the ace of the soccer team who wears the #10 jersey. His soccer skills are so great that he is the U-16 representative midfielder for Japan. He's so obsessed with cleanliness that out of principle, he refuses to head the ball or slide. For a \"certain\" reason, he attends Fujimi High School."
+          }
+        },
+        {
+          "id": 122613,
+          "name": "财前薰",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122613-nK0M2dX5vN3P.jpg",
+          "description": "财前薰是富士美高中二年级学生，身高一百九十厘米，在足球队担任前锋。青山加入球队前，薰曾穿着十号球衣；他还是财前财团的长子，父亲对他十分宠爱。薰最初觉得青山的洁癖举止令人难以理解，但在看到青山对足球的认真和热情后，逐渐认可这位队友。他与青山在球场上的竞争和合作推动球队逐渐磨合。",
+          "nicknames": [
+            "财前薰",
+            "Kaoru Zaizen",
+            "財前 かおる",
+            "Hot-Blooded Scion",
+            "Kaocchi",
+            "財前かおる",
+            "财前"
+          ],
+          "traits": [
+            "富士美高中二年级学生",
+            "身高一百九十厘米",
+            "担任足球队前锋",
+            "曾穿球队十号球衣",
+            "是财前财团长子",
+            "父亲十分宠爱他",
+            "最初觉得青山很古怪",
+            "看到青山热情后逐渐认可他"
+          ],
+          "voice_actors": [
+            {
+              "name": "関智一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kaoru Zaizen",
+            "name_native": "財前 かおる",
+            "name_alternative": [
+              "Hot-Blooded Scion",
+              "Kaocchi"
+            ],
+            "description": "Height: 190 cm\nPosition: Midfielder\nClass: 2-3\nA second-year student at Fujimi High School and the passionate forward of the soccer team. He was wearing the #10 jersey before Aoyama joined the team. He at first thought Aoyama was creepy, but gradually approved of him once he saw the hidden passion that Aoyama has. He's the eldest son of the Zaizen conglomerate, and his father dotes on and spoils him."
+          }
+        },
+        {
+          "id": 122614,
+          "name": "后藤萌香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122614-DSwRSkLET9vD.jpg",
+          "description": "后藤萌香是富士美高中一年级学生，身高一百五十一厘米，目前没有加入任何社团。她小学时曾和青山说过一次话，却被青山忘得一干二净；萌香仍记得那次相遇，并一直暗恋他。她随身携带一根带尖刺、饰有花朵图案的球棒，外表温和与武器的醒目反差令人印象深刻。萌香常在青山身边出现，试图引起他的注意。",
+          "nicknames": [
+            "后藤萌香",
+            "Moka Gotou",
+            "後藤もか",
+            "萌香"
+          ],
+          "traits": [
+            "富士美高中一年级学生",
+            "身高一百五十一厘米",
+            "没有加入任何社团",
+            "小学时曾和青山说过话",
+            "青山已经忘记那次相遇",
+            "一直暗恋青山",
+            "随身带着带尖刺的球棒",
+            "球棒上有花朵图案"
+          ],
+          "voice_actors": [
+            {
+              "name": "春野杏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n122615-ccA7AB2eYvFb.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Moka Gotou",
+            "name_native": "後藤もか",
+            "name_alternative": [],
+            "description": "__Height:__ 151 cm\n__Class:__ 1-3\n\nA first-year student at Fujimi High School, who doesn't belong to any club. She talked to Aoyama once in elementary school, but he's forgotten her. Unable to forget the one time she spoke to Aoyama-kun in elementary school, she still has a secret crush on him. She carries around a spiked bat with a floral pattern on it as her trademark."
+          }
+        },
+        {
+          "id": 122750,
+          "name": "佐藤清",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122750-cqXn3vFmUode.jpg",
+          "description": "佐藤清是富士美高中足球队的守门员，以擅长讲俏皮话而闻名。他负责守住球门，是球队防守阵容中的最后一道屏障；训练和比赛时，清需要判断来球方向并组织后场队友。与洁癖严重、习惯受到关注的青山相比，清更常以玩笑调节队伍气氛。他在球场上的守门职责和轻松性格共同构成球队日常的一部分。",
+          "nicknames": [
+            "佐藤清",
+            "Kiyoshi Satou",
+            "佐藤 清",
+            "清"
+          ],
+          "traits": [
+            "富士美高中足球队守门员",
+            "以擅长讲俏皮话闻名",
+            "负责守护球门",
+            "与青山及队友共同训练",
+            "参与高中足球比赛",
+            "为球队提供场上最后防线",
+            "用玩笑活跃队内气氛",
+            "由滨野大辉配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "濱野大輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120263-v4Hq7oOv7act.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kiyoshi Satou",
+            "name_native": "佐藤 清",
+            "name_alternative": [],
+            "description": "The wisecracking goalkeeper of the team."
+          }
+        },
+        {
+          "id": 122751,
+          "name": "坂井一马",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122751-xjX38rnEIvcE.jpg",
+          "description": "坂井一马是富士美高中二年级学生，身高一百六十五厘米，在足球队担任后卫。他性格认真，不太开玩笑，具备领导能力，比赛中会提醒队友保持阵型并阻挡对方进攻。坂井需要与财前薰及其他队员共同防守，也会在青山独特的洁癖习惯影响战术时协助球队调整。他是后防线中值得依靠的成员。",
+          "nicknames": [
+            "坂井一马",
+            "Kazuma Sakai",
+            "坂井 一馬",
+            "坂井一馬",
+            "一马"
+          ],
+          "traits": [
+            "富士美高中二年级学生",
+            "身高一百六十五厘米",
+            "担任足球队后卫",
+            "性格认真不苟言笑",
+            "具备队伍领导能力",
+            "负责防守对方进攻",
+            "与财前薰同属二年级",
+            "由保志总一朗配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "保志総一朗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95030-kj64Uy6Zr3bq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kazuma Sakai",
+            "name_native": "坂井 一馬",
+            "name_alternative": [],
+            "description": "Height: 165 cm\nPosition: Defender\nClass: 2-3\nA no-nonsense defender with leadership qualities."
+          }
+        },
+        {
+          "id": 122752,
+          "name": "武井美和",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122752-rHKniD7bEiS4.jpg",
+          "description": "武井美和是富士美高中足球队教练，负责安排训练并指导学生球员备战比赛。她既要关注球队战术、纪律和成员状态，也必须处理青山洁癖造成的踢球限制，寻找适合队伍的配合方式。武井作为教练在场边观察比赛，帮助球员发挥个人技术并逐步形成团队默契。她是连接学生日常与足球训练的重要成人角色。",
+          "nicknames": [
+            "武井美和",
+            "Miwa Takei",
+            "武井 美和",
+            "武井教练"
+          ],
+          "traits": [
+            "富士美高中足球队教练",
+            "负责队伍训练安排",
+            "指导高中生球员备战",
+            "关注球队战术和纪律",
+            "需要协调青山的洁癖习惯",
+            "管理足球社团日常",
+            "与学生球员保持师生关系",
+            "由根谷美智子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "根谷美智子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95176-3yZnUwXap7nX.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miwa Takei",
+            "name_native": "武井 美和",
+            "name_alternative": [],
+            "description": "The coach of the Fujimi High School's soccer team."
+          }
+        },
+        {
+          "id": 122806,
+          "name": "石川岳",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122806-YzA7HAITKStn.jpg",
+          "description": "石川岳是富士美高中足球队的中场球员，负责参与传球组织与攻防转换。他是队里唯一拥有女朋友的成员，因此常在同伴的话题中成为恋爱经验的参照。岳与青山及其他队友一起训练比赛，也需要在球场上及时支援前后场。足球之外，他的恋爱状态为男子队员之间的校园闲聊提供了轻松话题。",
+          "nicknames": [
+            "石川岳",
+            "Gaku Ishikawa",
+            "石川 岳",
+            "岳"
+          ],
+          "traits": [
+            "富士美高中足球队中场",
+            "是队内唯一有女朋友的球员",
+            "参与中场传球组织",
+            "与青山共同参加比赛",
+            "在球队日常中谈论恋爱",
+            "需要完成攻防转换",
+            "由杉山纪彰配音",
+            "为队员关系增添恋爱话题"
+          ],
+          "voice_actors": [
+            {
+              "name": "杉山紀彰",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95016-03m7lAUZBMDv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gaku Ishikawa",
+            "name_native": "石川 岳",
+            "name_alternative": [],
+            "description": "Position: Midfielder\nThe only player on the team with a girlfriend."
+          }
+        },
+        {
+          "id": 122807,
+          "name": "多田光",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122807-JEGLaanGukuL.jpg",
+          "description": "多田光是富士美高中足球队的中场球员，性格自恋，认为自己各方面都胜过青山。他喜欢展示个人魅力，也会把青山受到的关注看作竞争压力。球场上，多田需要完成中场攻防转换，与队友组织推进；在日常中，他则常通过言行表现出对自身能力的自信。青山加入球队后，两人之间的比较成为队内互动的一部分。",
+          "nicknames": [
+            "多田光",
+            "Hikaru Tada",
+            "多田 光",
+            "光"
+          ],
+          "traits": [
+            "富士美高中足球队中场",
+            "性格自恋",
+            "认为自己比青山更胜一筹",
+            "喜欢展示个人魅力",
+            "参加高中足球比赛",
+            "与青山存在竞争关系",
+            "负责中场攻防转换",
+            "由岸尾大辅配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "岸尾だいすけ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95440-j4iWV0MGWtBh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hikaru Tada",
+            "name_native": "多田 光",
+            "name_alternative": [],
+            "description": "Position: Midfielder\nA narcissistic player who views himself as a step above Aoyama."
+          }
+        },
+        {
+          "id": 122808,
+          "name": "塚本仁",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122808-kmgYB0yoDkZ5.jpg",
+          "description": "塚本仁是富士美高中二年级学生，身高一百七十六厘米，在足球队担任后卫。他的任务是限制对手推进，并与酒井一马等防守队员协作守住后场。塚本参加球队日常训练，也会在比赛中根据中场和门将的指示调整站位。虽然没有太多个人背景描写，他的身高、年级和位置都明确体现了在球队中的职责。",
+          "nicknames": [
+            "塚本仁",
+            "Jin Tsukamoto",
+            "塚本 仁",
+            "仁"
+          ],
+          "traits": [
+            "富士美高中二年级学生",
+            "身高一百七十六厘米",
+            "担任足球队后卫",
+            "负责限制对手进攻",
+            "与酒井一马共同守卫后场",
+            "参与高中足球训练",
+            "是球队防守成员",
+            "由阪口大助配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "阪口大助",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95278-IrUPhIvJCsF9.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jin Tsukamoto",
+            "name_native": "塚本 仁",
+            "name_alternative": [],
+            "description": "Height: 176 cm\nPosition: Defender\nClass: 2-3"
+          }
+        },
+        {
+          "id": 122809,
+          "name": "吉冈太一",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/122809-mdO6DhV0TqLQ.jpg",
+          "description": "吉冈太一是富士美高中二年级学生，身高一百八十六厘米，担任足球队后卫。他性格温和，十分喜欢吃东西，和场上专注防守的形象形成轻松反差。太一利用身高参与后场防守，与其他后卫共同阻止对手进攻，也会在球队休息时展现随和的一面。他是富士美高中足球队中体格醒目的队员之一。",
+          "nicknames": [
+            "吉冈太一",
+            "Taichi Yoshioka",
+            "吉岡 太一",
+            "Yocchi",
+            "吉岡太一",
+            "太一"
+          ],
+          "traits": [
+            "富士美高中二年级学生",
+            "身高一百八十六厘米",
+            "担任足球队后卫",
+            "性格温和",
+            "非常喜欢吃东西",
+            "负责协助球队防守",
+            "在队内体格高大醒目",
+            "由吉野裕行配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "吉野裕行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95283-g76zV4YacFfm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Taichi Yoshioka",
+            "name_native": "吉岡 太一",
+            "name_alternative": [
+              "Yocchi"
+            ],
+            "description": "Height: 186 cm\nPosition: Defender\nClass: 2-3\nA gentle player who loves to eat."
+          }
+        },
+        {
+          "id": 124330,
+          "name": "小田切美绪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124330-WdBSMHzyAb0S.png",
+          "description": "小田切美绪是高中篮球队的首发球员，身材高挑、运动能力出色，但投篮时常遇到困难。她仍坚持训练，希望改善投篮手感，并通过比赛发挥自己的体能优势。美绪并不属于足球队，却会在校园生活中与青山和其他学生产生交集，为作品增加不同运动社团的视角。她的努力展现了运动员面对技术短板时持续练习的一面。",
+          "nicknames": [
+            "小田切美绪",
+            "Mio Odagiri",
+            "小田切美緒",
+            "美绪"
+          ],
+          "traits": [
+            "高中篮球队首发球员",
+            "身材比多数角色高挑",
+            "运动能力出色",
+            "投篮命中时遇到困难",
+            "坚持参与篮球训练",
+            "与足球队成员在校园中相识",
+            "性格积极乐观",
+            "由中原麻衣配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "中原麻衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-tipPIz2k0Ncw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mio Odagiri",
+            "name_native": "小田切美緒",
+            "name_alternative": [],
+            "description": "A starter on the basketball team who has some troubles shooting. She's positive, athletic and very tall, compared to the rest of characters."
+          }
+        },
+        {
+          "id": 159920,
+          "name": "仓田梢",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159920-l6PPkLAwEgRm.jpg",
+          "description": "仓田梢是伊吹诚吾的女朋友，而伊吹是全国顶尖足球选手。她与足球圈保持联系，也会关注男友的训练和比赛情况。梢在校园生活中与青山及其他学生产生交集，使主角所在高中与更高水平的足球赛事有所连接。她的恋爱关系为作品补充了运动员伴侣视角，也让队员们谈论足球和恋爱时有了具体参照。",
+          "nicknames": [
+            "仓田梢",
+            "Kozue Kurata",
+            "倉田梢",
+            "梢"
+          ],
+          "traits": [
+            "是伊吹诚吾的女朋友",
+            "伊吹是全国顶尖足球选手",
+            "与足球圈保持联系",
+            "出现在校园及运动员生活中",
+            "会关注男友的比赛",
+            "和同学分享恋爱日常",
+            "由远藤绫配音",
+            "连接青山校园与职业足球话题"
+          ],
+          "voice_actors": [
+            {
+              "name": "遠藤綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kozue Kurata",
+            "name_native": "倉田梢",
+            "name_alternative": [],
+            "description": "Girlfriend of Ibuki Seigo, the top national football player."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "verifiedAt": "2026-10-05T12:15:21.789Z",
+  "curatedFile": "scripts/new_anime_curated_batch13.js",
+  "anime": [
+    {
+      "id": 14345,
+      "title": "惊爆游戏",
+      "count": 15,
+      "excluded": [
+        {
+          "name": "吉良康介、吉良义久、近藤勇、坂本幸江、坂本信久",
+          "reason": "已确认身份，当前AniList人物图片无hash，待补合规真实图片"
+        },
+        {
+          "name": "鹰嘴",
+          "reason": "人物关联已确认，但日配头像无hash，待补合规图片"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/14345",
+        "https://www.btooom.com/story/",
+        "https://www.btooom.com/staffcast/",
+        "https://mangapedia.com/BTOOOM！-u30kxs67u",
+        "https://zh.wikipedia.org/wiki/BTOOOM!",
+        "https://btooom.fandom.com/wiki/Yoshiaki_Imagawa",
+        "https://btooom.fandom.com/wiki/Tsuneaki_Iida",
+        "https://www.mau2.com/anime/btooom",
+        "https://yenpress.com/titles/9780316380478-btooom-vol-10"
+      ]
+    }
+  ],
+  "insertedCharacters": 15,
+  "insertedVoiceActors": 15,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 15,
+  "verifiedVoiceActors": 15
+}

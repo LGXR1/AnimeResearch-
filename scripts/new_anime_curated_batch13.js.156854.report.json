@@ -1,0 +1,28 @@
+{
+  "verifiedAt": "2026-10-05T11:42:47.684Z",
+  "curatedFile": "scripts/new_anime_curated_batch13.js",
+  "anime": [
+    {
+      "id": 156854,
+      "title": "边缘服务",
+      "count": 9,
+      "excluded": [
+        {
+          "name": "诺亚、莉莉、良·阿加塔、厄尼、玛丽亚、布鲁斯、埃迪、伊兹纳、伊莎贝拉、贝内特、丹尼、玄藏",
+          "reason": "官网有对应介绍，但本轮完整分页AniList动画角色关联仅有9人，其他人物缺少与作品关联的合规图片，待补查"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/156854",
+        "https://marginalservice.com/character/",
+        "https://moegirl.uk/index.php?title=THE_MARGINAL_SERVICE&variant=zh-hans",
+        "https://www.shochiku.co.jp/cinema/lineup/the-marginal-service/"
+      ]
+    }
+  ],
+  "insertedCharacters": 9,
+  "insertedVoiceActors": 9,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 9,
+  "verifiedVoiceActors": 9
+}

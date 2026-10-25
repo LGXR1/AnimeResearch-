@@ -1,0 +1,164 @@
+{
+  "checkedAt": "2026-10-19T02:01:31.544Z",
+  "checkedCount": 100,
+  "checkedRange": {
+    "firstId": 173,
+    "lastId": 413
+  },
+  "modifiedIds": [
+    227,
+    235,
+    236,
+    241,
+    242,
+    243,
+    244,
+    254,
+    267,
+    268,
+    272,
+    305,
+    309,
+    311,
+    312,
+    313,
+    314,
+    356,
+    378,
+    379,
+    380,
+    381,
+    382,
+    383,
+    385,
+    392
+  ],
+  "source": {
+    "name": "AniList GraphQL character profile snapshot",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "records": [
+      {
+        "id": 227,
+        "url": "https://anilist.co/character/227"
+      },
+      {
+        "id": 235,
+        "url": "https://anilist.co/character/235"
+      },
+      {
+        "id": 236,
+        "url": "https://anilist.co/character/236"
+      },
+      {
+        "id": 241,
+        "url": "https://anilist.co/character/241"
+      },
+      {
+        "id": 242,
+        "url": "https://anilist.co/character/242"
+      },
+      {
+        "id": 243,
+        "url": "https://anilist.co/character/243"
+      },
+      {
+        "id": 244,
+        "url": "https://anilist.co/character/244"
+      },
+      {
+        "id": 254,
+        "url": "https://anilist.co/character/254"
+      },
+      {
+        "id": 267,
+        "url": "https://anilist.co/character/267"
+      },
+      {
+        "id": 268,
+        "url": "https://anilist.co/character/268"
+      },
+      {
+        "id": 272,
+        "url": "https://anilist.co/character/272"
+      },
+      {
+        "id": 305,
+        "url": "https://anilist.co/character/305"
+      },
+      {
+        "id": 309,
+        "url": "https://anilist.co/character/309"
+      },
+      {
+        "id": 311,
+        "url": "https://anilist.co/character/311"
+      },
+      {
+        "id": 312,
+        "url": "https://anilist.co/character/312"
+      },
+      {
+        "id": 313,
+        "url": "https://anilist.co/character/313"
+      },
+      {
+        "id": 314,
+        "url": "https://anilist.co/character/314"
+      },
+      {
+        "id": 356,
+        "url": "https://anilist.co/character/356"
+      },
+      {
+        "id": 378,
+        "url": "https://anilist.co/character/378"
+      },
+      {
+        "id": 379,
+        "url": "https://anilist.co/character/379"
+      },
+      {
+        "id": 380,
+        "url": "https://anilist.co/character/380"
+      },
+      {
+        "id": 381,
+        "url": "https://anilist.co/character/381"
+      },
+      {
+        "id": 382,
+        "url": "https://anilist.co/character/382"
+      },
+      {
+        "id": 383,
+        "url": "https://anilist.co/character/383"
+      },
+      {
+        "id": 385,
+        "url": "https://anilist.co/character/385"
+      },
+      {
+        "id": 392,
+        "url": "https://anilist.co/character/392"
+      }
+    ]
+  },
+  "pendingExternalVerificationIds": [
+    187,
+    188,
+    248,
+    250,
+    316,
+    317,
+    318,
+    319,
+    320,
+    333,
+    335,
+    336,
+    386,
+    387
+  ],
+  "pendingVisualVerification": "本轮没有通过角色图片验证发色、瞳色；未确认的外观描述不视为已核实。",
+  "note": "Supabase已写入并回读；search_text包含姓名、作品、别名、特征和声优名，不包含简介。"
+}

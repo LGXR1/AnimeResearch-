@@ -1,0 +1,5700 @@
+{
+  "fetchedAt": "2026-10-22T08:13:37.394Z",
+  "source": "AniList GraphQL API",
+  "requestedIds": [
+    159959,
+    160632,
+    161625,
+    162290,
+    165073,
+    167307,
+    167880,
+    169190,
+    169191,
+    169192,
+    172168,
+    172174,
+    172181,
+    176754,
+    180500,
+    180885,
+    180888,
+    181335,
+    181350,
+    183884,
+    183885,
+    183965,
+    184310,
+    184311,
+    186508,
+    186511,
+    188783,
+    188942,
+    189230,
+    189232,
+    192557,
+    198357,
+    198862,
+    198863,
+    198864,
+    198865,
+    203384,
+    203658,
+    205035,
+    205036,
+    205044,
+    205046,
+    205047,
+    206327,
+    212565,
+    212566,
+    212567,
+    214515,
+    214516,
+    214542,
+    221330,
+    221331,
+    221340,
+    221477,
+    221478,
+    221479,
+    221496,
+    221872,
+    222222,
+    222237,
+    225379,
+    225386,
+    225389,
+    225398,
+    225399,
+    226153,
+    226154,
+    226155,
+    226161,
+    226162,
+    226605,
+    226606,
+    228988,
+    228989,
+    228990,
+    228991,
+    228992,
+    229724,
+    229729,
+    229732,
+    229734,
+    229746,
+    230157,
+    230159,
+    230162,
+    230164,
+    230173,
+    230564,
+    230565,
+    230566,
+    230567,
+    230573,
+    232038,
+    232910,
+    232911,
+    232912,
+    234728,
+    234729,
+    238729,
+    240372,
+    242550,
+    242576,
+    245244,
+    245262,
+    245290,
+    245844,
+    245845,
+    260328,
+    261439,
+    273796,
+    277990,
+    277991,
+    277993,
+    281196,
+    281197,
+    281203,
+    281839,
+    298895,
+    298896,
+    298904,
+    298905,
+    298906,
+    306164,
+    306847,
+    307548,
+    307549,
+    307551,
+    307582,
+    307583,
+    307586,
+    307587,
+    307588,
+    313487,
+    314391,
+    316854,
+    316881,
+    331075,
+    343078,
+    343079,
+    343080,
+    348856,
+    364799,
+    373486,
+    373487,
+    373500,
+    373501,
+    373502,
+    376058,
+    376059,
+    376060,
+    376061,
+    376063,
+    990000001
+  ],
+  "returnedCount": 152,
+  "missingIds": [
+    990000001
+  ],
+  "characters": {
+    "159959": {
+      "id": 159959,
+      "name": {
+        "full": "Kaato  Higashikata",
+        "native": "東方 花都"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "160632": {
+      "id": 160632,
+      "name": {
+        "full": "Dolomite",
+        "native": "ドロミテ"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "161625": {
+      "id": 161625,
+      "name": {
+        "full": "Gelato",
+        "native": "ジェラート"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 102883,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+                "english": "JoJo's Bizarre Adventure: Golden Wind",
+                "native": "ジョジョの奇妙な冒険 黄金の風"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "BACKGROUND",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "162290": {
+      "id": 162290,
+      "name": {
+        "full": "Fenghuang",
+        "native": "凤凰"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 10259,
+              "title": {
+                "romaji": "Da Yu Hai Tang",
+                "english": "Big Fish & Begonia",
+                "native": "大鱼海棠"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "165073": {
+      "id": 165073,
+      "name": {
+        "full": "Xiaoluo Yan",
+        "native": "阎小罗"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114109,
+              "title": {
+                "romaji": "Dawang Bu Gaoxing",
+                "english": null,
+                "native": "大王不高兴"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 114121,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo",
+                "english": "The Daily Life of the Immortal King",
+                "native": "仙王的日常生活"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 117014,
+              "title": {
+                "romaji": "Dawang Bu Gaoxing 2",
+                "english": null,
+                "native": "大王不高兴2"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "167307": {
+      "id": 167307,
+      "name": {
+        "full": "Tooru",
+        "native": "透龍"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "167880": {
+      "id": 167880,
+      "name": {
+        "full": "Pork Pie Hat Kozou",
+        "native": "ポーク・パイ・ハット小僧"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "169190": {
+      "id": 169190,
+      "name": {
+        "full": "Gui Mu",
+        "native": "鬼木"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 102153,
+              "title": {
+                "romaji": "Wu Geng Ji",
+                "english": null,
+                "native": "武庚纪"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "169191": {
+      "id": 169191,
+      "name": {
+        "full": "Jing Li",
+        "native": "李靖"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 102153,
+              "title": {
+                "romaji": "Wu Geng Ji",
+                "english": null,
+                "native": "武庚纪"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "169192": {
+      "id": 169192,
+      "name": {
+        "full": "Ba Mian",
+        "native": "疤面"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 102153,
+              "title": {
+                "romaji": "Wu Geng Ji",
+                "english": null,
+                "native": "武庚纪"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "172168": {
+      "id": 172168,
+      "name": {
+        "full": "Dot Han",
+        "native": "ドット・ハーン"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "172174": {
+      "id": 172174,
+      "name": {
+        "full": "Nicholas Joestar",
+        "native": "ニコラス・ジョースター"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "172181": {
+      "id": 172181,
+      "name": {
+        "full": "Norisuke  Higashikata",
+        "native": "東方憲助"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "176754": {
+      "id": 176754,
+      "name": {
+        "full": "Frieren",
+        "native": "フリーレン"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 154587,
+              "title": {
+                "romaji": "Sousou no Frieren",
+                "english": "Frieren: Beyond Journey’s End",
+                "native": "葬送のフリーレン"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 112215,
+                "name": {
+                  "full": "Atsumi Tanezaki",
+                  "native": "種﨑敦美"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 169811,
+              "title": {
+                "romaji": "Yuusha",
+                "english": "The Brave",
+                "native": "勇者"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 170068,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 112215,
+                "name": {
+                  "full": "Atsumi Tanezaki",
+                  "native": "種﨑敦美"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 182255,
+              "title": {
+                "romaji": "Sousou no Frieren 2nd Season",
+                "english": "Frieren: Beyond Journey’s End Season 2",
+                "native": "葬送のフリーレン 第2期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 112215,
+                "name": {
+                  "full": "Atsumi Tanezaki",
+                  "native": "種﨑敦美"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 189513,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 112215,
+                "name": {
+                  "full": "Atsumi Tanezaki",
+                  "native": "種﨑敦美"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 206425,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 112215,
+                "name": {
+                  "full": "Atsumi Tanezaki",
+                  "native": "種﨑敦美"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112215-kfABGD8W2YSJ.jpg"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "180500": {
+      "id": 180500,
+      "name": {
+        "full": "George Joestar",
+        "native": "ジョージ・ジョースター"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "180885": {
+      "id": 180885,
+      "name": {
+        "full": "Tarsier",
+        "native": null
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99423,
+              "title": {
+                "romaji": "Darling in the Franxx",
+                "english": "DARLING in the FRANXX",
+                "native": "ダーリン・イン・ザ・フランキス"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "180888": {
+      "id": 180888,
+      "name": {
+        "full": "Baboon",
+        "native": null
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99423,
+              "title": {
+                "romaji": "Darling in the Franxx",
+                "english": "DARLING in the FRANXX",
+                "native": "ダーリン・イン・ザ・フランキス"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "181335": {
+      "id": 181335,
+      "name": {
+        "full": "Mushikui",
+        "native": "虫喰い"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 21450,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken: Diamond wa Kudakenai",
+                "english": "JoJo's Bizarre Adventure: Diamond is Unbreakable",
+                "native": "ジョジョの奇妙な冒険 ダイヤモンドは砕けない"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "BACKGROUND",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "181350": {
+      "id": 181350,
+      "name": {
+        "full": "Laojun",
+        "native": "老君"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 102663,
+              "title": {
+                "romaji": "Luo Xiaohei Zhan Ji",
+                "english": "The Legend of Luoxiaohei",
+                "native": "罗小黑战记"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 131239,
+              "title": {
+                "romaji": "Luo Xiaohei Zhan Ji: Zhongsheng Zhi Men",
+                "english": null,
+                "native": "罗小黑战记 众生之门"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "183884": {
+      "id": 183884,
+      "name": {
+        "full": "Ruby Hoshino",
+        "native": "星野ルビー"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 150672,
+              "title": {
+                "romaji": "[Oshi no Ko]",
+                "english": "OSHI NO KO",
+                "native": "【推しの子】"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 293910,
+                "name": {
+                  "full": "Yurie Igoma",
+                  "native": "伊駒ゆりえ"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n293910-UBwHydgOrXO6.png"
+                }
+              },
+              {
+                "id": 122320,
+                "name": {
+                  "full": "Tomoyo Takayanagi",
+                  "native": "高柳知葉"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122320-tV8CERbhYcNV.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 164117,
+              "title": {
+                "romaji": "Idol",
+                "english": "Idol",
+                "native": "アイドル"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 166531,
+              "title": {
+                "romaji": "[Oshi no Ko] 2nd Season",
+                "english": "OSHI NO KO Season 2",
+                "native": "【推しの子】第2期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 293910,
+                "name": {
+                  "full": "Yurie Igoma",
+                  "native": "伊駒ゆりえ"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n293910-UBwHydgOrXO6.png"
+                }
+              },
+              {
+                "id": 122320,
+                "name": {
+                  "full": "Tomoyo Takayanagi",
+                  "native": "高柳知葉"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122320-tV8CERbhYcNV.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 182587,
+              "title": {
+                "romaji": "[Oshi no Ko] 3rd Season",
+                "english": "OSHI NO KO Season 3",
+                "native": "【推しの子】第3期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 293910,
+                "name": {
+                  "full": "Yurie Igoma",
+                  "native": "伊駒ゆりえ"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n293910-UBwHydgOrXO6.png"
+                }
+              },
+              {
+                "id": 122320,
+                "name": {
+                  "full": "Tomoyo Takayanagi",
+                  "native": "高柳知葉"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122320-tV8CERbhYcNV.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 209827,
+              "title": {
+                "romaji": "[Oshi no Ko] Final Season",
+                "english": null,
+                "native": "【推しの子】第4期 Final Season"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 293910,
+                "name": {
+                  "full": "Yurie Igoma",
+                  "native": "伊駒ゆりえ"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n293910-UBwHydgOrXO6.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "183885": {
+      "id": 183885,
+      "name": {
+        "full": "Aquamarine Hoshino",
+        "native": "星野アクアマリン"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 150672,
+              "title": {
+                "romaji": "[Oshi no Ko]",
+                "english": "OSHI NO KO",
+                "native": "【推しの子】"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 128426,
+                "name": {
+                  "full": "Takeo Ootsuka",
+                  "native": "大塚剛央"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128426-uB8KFqVLbogF.png"
+                }
+              },
+              {
+                "id": 106784,
+                "name": {
+                  "full": "Yumi Uchiyama",
+                  "native": "内山夕実"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106784-reDoHBLWxi7J.jpg"
+                }
+              },
+              {
+                "id": 122874,
+                "name": {
+                  "full": "Kento Itou",
+                  "native": "伊東健人"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122874-Ay8XWEJ7ljUf.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 164117,
+              "title": {
+                "romaji": "Idol",
+                "english": "Idol",
+                "native": "アイドル"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 166531,
+              "title": {
+                "romaji": "[Oshi no Ko] 2nd Season",
+                "english": "OSHI NO KO Season 2",
+                "native": "【推しの子】第2期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 128426,
+                "name": {
+                  "full": "Takeo Ootsuka",
+                  "native": "大塚剛央"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128426-uB8KFqVLbogF.png"
+                }
+              },
+              {
+                "id": 106784,
+                "name": {
+                  "full": "Yumi Uchiyama",
+                  "native": "内山夕実"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106784-reDoHBLWxi7J.jpg"
+                }
+              },
+              {
+                "id": 122874,
+                "name": {
+                  "full": "Kento Itou",
+                  "native": "伊東健人"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122874-Ay8XWEJ7ljUf.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 182587,
+              "title": {
+                "romaji": "[Oshi no Ko] 3rd Season",
+                "english": "OSHI NO KO Season 3",
+                "native": "【推しの子】第3期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 128426,
+                "name": {
+                  "full": "Takeo Ootsuka",
+                  "native": "大塚剛央"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128426-uB8KFqVLbogF.png"
+                }
+              },
+              {
+                "id": 106784,
+                "name": {
+                  "full": "Yumi Uchiyama",
+                  "native": "内山夕実"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106784-reDoHBLWxi7J.jpg"
+                }
+              },
+              {
+                "id": 122874,
+                "name": {
+                  "full": "Kento Itou",
+                  "native": "伊東健人"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122874-Ay8XWEJ7ljUf.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 209827,
+              "title": {
+                "romaji": "[Oshi no Ko] Final Season",
+                "english": null,
+                "native": "【推しの子】第4期 Final Season"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 128426,
+                "name": {
+                  "full": "Takeo Ootsuka",
+                  "native": "大塚剛央"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128426-uB8KFqVLbogF.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "183965": {
+      "id": 183965,
+      "name": {
+        "full": "Fern",
+        "native": "フェルン"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 154587,
+              "title": {
+                "romaji": "Sousou no Frieren",
+                "english": "Frieren: Beyond Journey’s End",
+                "native": "葬送のフリーレン"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 124390,
+                "name": {
+                  "full": "Kana Ichinose",
+                  "native": "市ノ瀬加那"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124390-03LHel2XSFel.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 170068,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 124390,
+                "name": {
+                  "full": "Kana Ichinose",
+                  "native": "市ノ瀬加那"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124390-03LHel2XSFel.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 182255,
+              "title": {
+                "romaji": "Sousou no Frieren 2nd Season",
+                "english": "Frieren: Beyond Journey’s End Season 2",
+                "native": "葬送のフリーレン 第2期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 124390,
+                "name": {
+                  "full": "Kana Ichinose",
+                  "native": "市ノ瀬加那"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124390-03LHel2XSFel.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 189513,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 124390,
+                "name": {
+                  "full": "Kana Ichinose",
+                  "native": "市ノ瀬加那"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124390-03LHel2XSFel.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 206425,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 124390,
+                "name": {
+                  "full": "Kana Ichinose",
+                  "native": "市ノ瀬加那"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n124390-03LHel2XSFel.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "184310": {
+      "id": 184310,
+      "name": {
+        "full": "Heiter",
+        "native": "ハイター"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 154587,
+              "title": {
+                "romaji": "Sousou no Frieren",
+                "english": "Frieren: Beyond Journey’s End",
+                "native": "葬送のフリーレン"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95236,
+                "name": {
+                  "full": "Hiroki Touchi",
+                  "native": "東地宏樹"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 169811,
+              "title": {
+                "romaji": "Yuusha",
+                "english": "The Brave",
+                "native": "勇者"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 170068,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95236,
+                "name": {
+                  "full": "Hiroki Touchi",
+                  "native": "東地宏樹"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 182255,
+              "title": {
+                "romaji": "Sousou no Frieren 2nd Season",
+                "english": "Frieren: Beyond Journey’s End Season 2",
+                "native": "葬送のフリーレン 第2期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95236,
+                "name": {
+                  "full": "Hiroki Touchi",
+                  "native": "東地宏樹"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 189513,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95236,
+                "name": {
+                  "full": "Hiroki Touchi",
+                  "native": "東地宏樹"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 206425,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95236,
+                "name": {
+                  "full": "Hiroki Touchi",
+                  "native": "東地宏樹"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "184311": {
+      "id": 184311,
+      "name": {
+        "full": "Himmel",
+        "native": "ヒンメル"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 154587,
+              "title": {
+                "romaji": "Sousou no Frieren",
+                "english": "Frieren: Beyond Journey’s End",
+                "native": "葬送のフリーレン"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95270,
+                "name": {
+                  "full": "Nobuhiko Okamoto",
+                  "native": "岡本信彦"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 169811,
+              "title": {
+                "romaji": "Yuusha",
+                "english": "The Brave",
+                "native": "勇者"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 170068,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95270,
+                "name": {
+                  "full": "Nobuhiko Okamoto",
+                  "native": "岡本信彦"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 182255,
+              "title": {
+                "romaji": "Sousou no Frieren 2nd Season",
+                "english": "Frieren: Beyond Journey’s End Season 2",
+                "native": "葬送のフリーレン 第2期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95270,
+                "name": {
+                  "full": "Nobuhiko Okamoto",
+                  "native": "岡本信彦"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 189513,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou Part 2",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～ 2クール"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95270,
+                "name": {
+                  "full": "Nobuhiko Okamoto",
+                  "native": "岡本信彦"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 206425,
+              "title": {
+                "romaji": "Sousou no Frieren: ●● no Mahou Part 3",
+                "english": null,
+                "native": "葬送のフリーレン ～●●の魔法～ 3クール"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95270,
+                "name": {
+                  "full": "Nobuhiko Okamoto",
+                  "native": "岡本信彦"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "186508": {
+      "id": 186508,
+      "name": {
+        "full": "Caier Sheng",
+        "native": "圣采儿"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 146409,
+              "title": {
+                "romaji": "Shen Yin Wangzuo",
+                "english": "Throne of Seal",
+                "native": "神印王座"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185729,
+              "title": {
+                "romaji": "Shen Yin Wangzuo 3",
+                "english": null,
+                "native": "神印王座 第3季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "186511": {
+      "id": 186511,
+      "name": {
+        "full": "Haochen Long",
+        "native": "龙皓晨"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 146409,
+              "title": {
+                "romaji": "Shen Yin Wangzuo",
+                "english": "Throne of Seal",
+                "native": "神印王座"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185729,
+              "title": {
+                "romaji": "Shen Yin Wangzuo 3",
+                "english": null,
+                "native": "神印王座 第3季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "188783": {
+      "id": 188783,
+      "name": {
+        "full": "Kana Arima",
+        "native": "有馬かな"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 150672,
+              "title": {
+                "romaji": "[Oshi no Ko]",
+                "english": "OSHI NO KO",
+                "native": "【推しの子】"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 107961,
+                "name": {
+                  "full": "Megumi Han",
+                  "native": "潘めぐみ"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 166531,
+              "title": {
+                "romaji": "[Oshi no Ko] 2nd Season",
+                "english": "OSHI NO KO Season 2",
+                "native": "【推しの子】第2期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 107961,
+                "name": {
+                  "full": "Megumi Han",
+                  "native": "潘めぐみ"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 182587,
+              "title": {
+                "romaji": "[Oshi no Ko] 3rd Season",
+                "english": "OSHI NO KO Season 3",
+                "native": "【推しの子】第3期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 107961,
+                "name": {
+                  "full": "Megumi Han",
+                  "native": "潘めぐみ"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 209827,
+              "title": {
+                "romaji": "[Oshi no Ko] Final Season",
+                "english": null,
+                "native": "【推しの子】第4期 Final Season"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 107961,
+                "name": {
+                  "full": "Megumi Han",
+                  "native": "潘めぐみ"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "188942": {
+      "id": 188942,
+      "name": {
+        "full": "Ling Wang",
+        "native": "王令"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114121,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo",
+                "english": "The Daily Life of the Immortal King",
+                "native": "仙王的日常生活"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 126357,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 2",
+                "english": "The Daily Life of the Immortal King Season 2",
+                "native": "仙王的日常生活 第二季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 141852,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 3",
+                "english": "The Daily Life of the Immortal King Season 3",
+                "native": "仙王的日常生活 第三季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 156110,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 4",
+                "english": "The Daily Life of the Immortal King Season 4",
+                "native": "仙王的日常生活 第四季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185857,
+              "title": {
+                "romaji": "Xian Wang de Richang Shenghuo 5",
+                "english": "The Daily Life of the Immortal King Season 5",
+                "native": "仙王的日常生活 第五季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "189230": {
+      "id": 189230,
+      "name": {
+        "full": "Rong Sun",
+        "native": "孙蓉"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114121,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo",
+                "english": "The Daily Life of the Immortal King",
+                "native": "仙王的日常生活"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 126357,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 2",
+                "english": "The Daily Life of the Immortal King Season 2",
+                "native": "仙王的日常生活 第二季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 141852,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 3",
+                "english": "The Daily Life of the Immortal King Season 3",
+                "native": "仙王的日常生活 第三季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 156110,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 4",
+                "english": "The Daily Life of the Immortal King Season 4",
+                "native": "仙王的日常生活 第四季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185857,
+              "title": {
+                "romaji": "Xian Wang de Richang Shenghuo 5",
+                "english": "The Daily Life of the Immortal King Season 5",
+                "native": "仙王的日常生活 第五季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "189232": {
+      "id": 189232,
+      "name": {
+        "full": "Ha Tuntian",
+        "native": "吞天蛤"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114121,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo",
+                "english": "The Daily Life of the Immortal King",
+                "native": "仙王的日常生活"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 126357,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 2",
+                "english": "The Daily Life of the Immortal King Season 2",
+                "native": "仙王的日常生活 第二季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 141852,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 3",
+                "english": "The Daily Life of the Immortal King Season 3",
+                "native": "仙王的日常生活 第三季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 156110,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 4",
+                "english": "The Daily Life of the Immortal King Season 4",
+                "native": "仙王的日常生活 第四季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185857,
+              "title": {
+                "romaji": "Xian Wang de Richang Shenghuo 5",
+                "english": "The Daily Life of the Immortal King Season 5",
+                "native": "仙王的日常生活 第五季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "192557": {
+      "id": 192557,
+      "name": {
+        "full": "Klein Moretti",
+        "native": "克莱恩·莫雷蒂"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137667,
+              "title": {
+                "romaji": "Guimi Zhi Zhu: Xiaochou Pian",
+                "english": "Lord of Mysteries",
+                "native": "诡秘之主 小丑篇​"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 199448,
+              "title": {
+                "romaji": "Guimi Zhi Zhu Specials",
+                "english": "Lord of Mysteries Specials",
+                "native": "诡秘之主 特别篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 206875,
+              "title": {
+                "romaji": "Guimi Zhi Zhu: Caidan",
+                "english": "Lord of Mysteries: Chibi Theatre",
+                "native": "诡秘之主 彩蛋"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "198357": {
+      "id": 198357,
+      "name": {
+        "full": "Simon",
+        "native": "サイモン"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99748,
+              "title": {
+                "romaji": "Hakumei to Mikochi",
+                "english": "Hakumei and Mikochi",
+                "native": "ハクメイとミコチ"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "BACKGROUND",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "198862": {
+      "id": 198862,
+      "name": {
+        "full": "Xi Yangyang",
+        "native": "喜羊羊"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 107070,
+              "title": {
+                "romaji": "Xi Yangyang Yu Hui Tailang",
+                "english": "Pleasant Goat and Big Big Wolf",
+                "native": "喜羊羊与灰太狼"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "198863": {
+      "id": 198863,
+      "name": {
+        "full": "Mei Yangyang",
+        "native": "美羊羊"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 107070,
+              "title": {
+                "romaji": "Xi Yangyang Yu Hui Tailang",
+                "english": "Pleasant Goat and Big Big Wolf",
+                "native": "喜羊羊与灰太狼"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "198864": {
+      "id": 198864,
+      "name": {
+        "full": "Fei Yangyang",
+        "native": "沸羊羊"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 107070,
+              "title": {
+                "romaji": "Xi Yangyang Yu Hui Tailang",
+                "english": "Pleasant Goat and Big Big Wolf",
+                "native": "喜羊羊与灰太狼"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "198865": {
+      "id": 198865,
+      "name": {
+        "full": "Lan Yangyang",
+        "native": "懒羊羊"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 107070,
+              "title": {
+                "romaji": "Xi Yangyang Yu Hui Tailang",
+                "english": "Pleasant Goat and Big Big Wolf",
+                "native": "喜羊羊与灰太狼"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "203384": {
+      "id": 203384,
+      "name": {
+        "full": "Akane Kurokawa",
+        "native": "黒川あかね"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 150672,
+              "title": {
+                "romaji": "[Oshi no Ko]",
+                "english": "OSHI NO KO",
+                "native": "【推しの子】"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 121821,
+                "name": {
+                  "full": "Manaka Iwami",
+                  "native": "石見舞菜香"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121821-tQSkHZEuB3XH.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 166531,
+              "title": {
+                "romaji": "[Oshi no Ko] 2nd Season",
+                "english": "OSHI NO KO Season 2",
+                "native": "【推しの子】第2期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 121821,
+                "name": {
+                  "full": "Manaka Iwami",
+                  "native": "石見舞菜香"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121821-tQSkHZEuB3XH.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 182587,
+              "title": {
+                "romaji": "[Oshi no Ko] 3rd Season",
+                "english": "OSHI NO KO Season 3",
+                "native": "【推しの子】第3期"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 121821,
+                "name": {
+                  "full": "Manaka Iwami",
+                  "native": "石見舞菜香"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121821-tQSkHZEuB3XH.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 209827,
+              "title": {
+                "romaji": "[Oshi no Ko] Final Season",
+                "english": null,
+                "native": "【推しの子】第4期 Final Season"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 121821,
+                "name": {
+                  "full": "Manaka Iwami",
+                  "native": "石見舞菜香"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121821-tQSkHZEuB3XH.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "203658": {
+      "id": 203658,
+      "name": {
+        "full": "Anya",
+        "native": "アンャ"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 21709,
+              "title": {
+                "romaji": "Yuuri!!! on ICE",
+                "english": "Yuri!!! on ICE",
+                "native": "ユーリ!!! on ICE"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "205035": {
+      "id": 205035,
+      "name": {
+        "full": "Marc",
+        "native": "马克"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 110459,
+              "title": {
+                "romaji": "Ling Long",
+                "english": "Ling Cage",
+                "native": "灵笼"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 120300,
+              "title": {
+                "romaji": "Ling Long Part 2",
+                "english": null,
+                "native": "灵笼·下半季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 126832,
+              "title": {
+                "romaji": "Ling Long Middle Chapter",
+                "english": null,
+                "native": "灵笼·中章"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 213544,
+              "title": {
+                "romaji": "Ling Long 2 Qianzhan Pian: Changye Jiangzhi",
+                "english": null,
+                "native": "灵笼 第二季 前瞻篇：长夜将至"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "205036": {
+      "id": 205036,
+      "name": {
+        "full": "Bing Ran",
+        "native": "冉冰"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 110459,
+              "title": {
+                "romaji": "Ling Long",
+                "english": "Ling Cage",
+                "native": "灵笼"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 120300,
+              "title": {
+                "romaji": "Ling Long Part 2",
+                "english": null,
+                "native": "灵笼·下半季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 126832,
+              "title": {
+                "romaji": "Ling Long Middle Chapter",
+                "english": null,
+                "native": "灵笼·中章"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "205044": {
+      "id": 205044,
+      "name": {
+        "full": "Mogen",
+        "native": "摩根"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 110459,
+              "title": {
+                "romaji": "Ling Long",
+                "english": "Ling Cage",
+                "native": "灵笼"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 126832,
+              "title": {
+                "romaji": "Ling Long Middle Chapter",
+                "english": null,
+                "native": "灵笼·中章"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "205046": {
+      "id": 205046,
+      "name": {
+        "full": "Jingnan",
+        "native": "镜南"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 110459,
+              "title": {
+                "romaji": "Ling Long",
+                "english": "Ling Cage",
+                "native": "灵笼"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 120300,
+              "title": {
+                "romaji": "Ling Long Part 2",
+                "english": null,
+                "native": "灵笼·下半季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 126832,
+              "title": {
+                "romaji": "Ling Long Middle Chapter",
+                "english": null,
+                "native": "灵笼·中章"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "205047": {
+      "id": 205047,
+      "name": {
+        "full": "Charles",
+        "native": "查尔斯"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 110459,
+              "title": {
+                "romaji": "Ling Long",
+                "english": "Ling Cage",
+                "native": "灵笼"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 120300,
+              "title": {
+                "romaji": "Ling Long Part 2",
+                "english": null,
+                "native": "灵笼·下半季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 126832,
+              "title": {
+                "romaji": "Ling Long Middle Chapter",
+                "english": null,
+                "native": "灵笼·中章"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "206327": {
+      "id": 206327,
+      "name": {
+        "full": "Xin Xu",
+        "native": "徐欣"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 117012,
+              "title": {
+                "romaji": "Tunshi Xingkong",
+                "english": "Swallowed Star",
+                "native": "吞噬星空"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "212565": {
+      "id": 212565,
+      "name": {
+        "full": "Chao Chen",
+        "native": "陈超"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114121,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo",
+                "english": "The Daily Life of the Immortal King",
+                "native": "仙王的日常生活"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 126357,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 2",
+                "english": "The Daily Life of the Immortal King Season 2",
+                "native": "仙王的日常生活 第二季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 141852,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 3",
+                "english": "The Daily Life of the Immortal King Season 3",
+                "native": "仙王的日常生活 第三季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 156110,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 4",
+                "english": "The Daily Life of the Immortal King Season 4",
+                "native": "仙王的日常生活 第四季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185857,
+              "title": {
+                "romaji": "Xian Wang de Richang Shenghuo 5",
+                "english": "The Daily Life of the Immortal King Season 5",
+                "native": "仙王的日常生活 第五季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "212566": {
+      "id": 212566,
+      "name": {
+        "full": "Hao Guo",
+        "native": "郭豪"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114121,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo",
+                "english": "The Daily Life of the Immortal King",
+                "native": "仙王的日常生活"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 126357,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 2",
+                "english": "The Daily Life of the Immortal King Season 2",
+                "native": "仙王的日常生活 第二季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 141852,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 3",
+                "english": "The Daily Life of the Immortal King Season 3",
+                "native": "仙王的日常生活 第三季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 156110,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 4",
+                "english": "The Daily Life of the Immortal King Season 4",
+                "native": "仙王的日常生活 第四季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185857,
+              "title": {
+                "romaji": "Xian Wang de Richang Shenghuo 5",
+                "english": "The Daily Life of the Immortal King Season 5",
+                "native": "仙王的日常生活 第五季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "212567": {
+      "id": 212567,
+      "name": {
+        "full": "Yi Zhou",
+        "native": "卓异"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114121,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo",
+                "english": "The Daily Life of the Immortal King",
+                "native": "仙王的日常生活"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 141852,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 3",
+                "english": "The Daily Life of the Immortal King Season 3",
+                "native": "仙王的日常生活 第三季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 156110,
+              "title": {
+                "romaji": "Xian Wang De Richang Shenghuo 4",
+                "english": "The Daily Life of the Immortal King Season 4",
+                "native": "仙王的日常生活 第四季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185857,
+              "title": {
+                "romaji": "Xian Wang de Richang Shenghuo 5",
+                "english": "The Daily Life of the Immortal King Season 5",
+                "native": "仙王的日常生活 第五季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "214515": {
+      "id": 214515,
+      "name": {
+        "full": "Xiaobai Luo",
+        "native": "罗小白"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 102663,
+              "title": {
+                "romaji": "Luo Xiaohei Zhan Ji",
+                "english": "The Legend of Luoxiaohei",
+                "native": "罗小黑战记"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 131239,
+              "title": {
+                "romaji": "Luo Xiaohei Zhan Ji: Zhongsheng Zhi Men",
+                "english": null,
+                "native": "罗小黑战记 众生之门"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 206244,
+              "title": {
+                "romaji": "Luo Xiaohei Zhan Ji: Xue Qian Pian",
+                "english": null,
+                "native": "罗小黑战记 学前篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "214516": {
+      "id": 214516,
+      "name": {
+        "full": "Agen",
+        "native": "阿根"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 102663,
+              "title": {
+                "romaji": "Luo Xiaohei Zhan Ji",
+                "english": "The Legend of Luoxiaohei",
+                "native": "罗小黑战记"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 131239,
+              "title": {
+                "romaji": "Luo Xiaohei Zhan Ji: Zhongsheng Zhi Men",
+                "english": null,
+                "native": "罗小黑战记 众生之门"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 206244,
+              "title": {
+                "romaji": "Luo Xiaohei Zhan Ji: Xue Qian Pian",
+                "english": null,
+                "native": "罗小黑战记 学前篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "214542": {
+      "id": 214542,
+      "name": {
+        "full": "Shou Huang",
+        "native": "皇受"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 102663,
+              "title": {
+                "romaji": "Luo Xiaohei Zhan Ji",
+                "english": "The Legend of Luoxiaohei",
+                "native": "罗小黑战记"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "221330": {
+      "id": 221330,
+      "name": {
+        "full": "Se Xiao",
+        "native": "萧瑟"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 108715,
+              "title": {
+                "romaji": "Shaonian Ge Xing",
+                "english": null,
+                "native": "少年歌行"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 120321,
+              "title": {
+                "romaji": "Shaonian Ge Xing: Feng Hua Xue Yue Pian",
+                "english": "Youths and Golden Coffin 2",
+                "native": "少年歌行 风花雪月篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 141132,
+              "title": {
+                "romaji": "Shaonian Ge Xing: Feng Hua Xue Yue Pian Part 2",
+                "english": null,
+                "native": "少年歌行 风花雪月篇 下部"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 150947,
+              "title": {
+                "romaji": "Shaonian Ge Xing: Feng Hua Xue Yue Pian Special",
+                "english": null,
+                "native": "少年歌行 风花雪月篇 特别篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 155314,
+              "title": {
+                "romaji": "Shaonian Ge Xing: Haiwai Xianshan Pian",
+                "english": "Great Journey of Teenagers 3rd Season",
+                "native": "少年歌行 海外仙山篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185828,
+              "title": {
+                "romaji": "Shaonian Ge Xing: Xue Ran Tianqi Pian",
+                "english": "Great Journey of Teenagers 4th Season",
+                "native": "少年歌行 血染天启篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "221331": {
+      "id": 221331,
+      "name": {
+        "full": "Minghou",
+        "native": "冥侯"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 108715,
+              "title": {
+                "romaji": "Shaonian Ge Xing",
+                "english": null,
+                "native": "少年歌行"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "221340": {
+      "id": 221340,
+      "name": {
+        "full": "Baifa Xian",
+        "native": "白发仙"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 108715,
+              "title": {
+                "romaji": "Shaonian Ge Xing",
+                "english": null,
+                "native": "少年歌行"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 120321,
+              "title": {
+                "romaji": "Shaonian Ge Xing: Feng Hua Xue Yue Pian",
+                "english": "Youths and Golden Coffin 2",
+                "native": "少年歌行 风花雪月篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "221477": {
+      "id": 221477,
+      "name": {
+        "full": "Xiaochun Bai",
+        "native": "白小纯"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 110595,
+              "title": {
+                "romaji": "Yi Nian Yongheng",
+                "english": null,
+                "native": "一念永恒"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 137742,
+              "title": {
+                "romaji": "Yi Nian Yongheng: Chuancheng Pian",
+                "english": null,
+                "native": "一念永恒 传承篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 153496,
+              "title": {
+                "romaji": "Yi Nian Yongheng: Hezong Pian",
+                "english": null,
+                "native": "一念永恒 合宗篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 166284,
+              "title": {
+                "romaji": "Yi Nian Yongheng: Ni Zhan Pian",
+                "english": null,
+                "native": "一念永恒 逆战篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 168104,
+              "title": {
+                "romaji": "Yi Nian Yongheng 3",
+                "english": null,
+                "native": "一念永恒 第三季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 174981,
+              "title": {
+                "romaji": "Yi Nian Yongheng: Zhizi Pian",
+                "english": null,
+                "native": "一念永恒 质子篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 199409,
+              "title": {
+                "romaji": "Yi Nian Yongheng 4",
+                "english": null,
+                "native": "一念永恒 第四季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "221478": {
+      "id": 221478,
+      "name": {
+        "full": "Lingfei Du",
+        "native": "杜凌菲"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 110595,
+              "title": {
+                "romaji": "Yi Nian Yongheng",
+                "english": null,
+                "native": "一念永恒"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 137742,
+              "title": {
+                "romaji": "Yi Nian Yongheng: Chuancheng Pian",
+                "english": null,
+                "native": "一念永恒 传承篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "221479": {
+      "id": 221479,
+      "name": {
+        "full": "Hou Xiaomei",
+        "native": "侯小妹"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 110595,
+              "title": {
+                "romaji": "Yi Nian Yongheng",
+                "english": null,
+                "native": "一念永恒"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 137742,
+              "title": {
+                "romaji": "Yi Nian Yongheng: Chuancheng Pian",
+                "english": null,
+                "native": "一念永恒 传承篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "221496": {
+      "id": 221496,
+      "name": {
+        "full": "Qinghou Li",
+        "native": "李青候"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 110595,
+              "title": {
+                "romaji": "Yi Nian Yongheng",
+                "english": null,
+                "native": "一念永恒"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 137742,
+              "title": {
+                "romaji": "Yi Nian Yongheng: Chuancheng Pian",
+                "english": null,
+                "native": "一念永恒 传承篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "221872": {
+      "id": 221872,
+      "name": {
+        "full": "Qianluo Sikong",
+        "native": "司空千落"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 108715,
+              "title": {
+                "romaji": "Shaonian Ge Xing",
+                "english": null,
+                "native": "少年歌行"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 120321,
+              "title": {
+                "romaji": "Shaonian Ge Xing: Feng Hua Xue Yue Pian",
+                "english": "Youths and Golden Coffin 2",
+                "native": "少年歌行 风花雪月篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 141132,
+              "title": {
+                "romaji": "Shaonian Ge Xing: Feng Hua Xue Yue Pian Part 2",
+                "english": null,
+                "native": "少年歌行 风花雪月篇 下部"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "222222": {
+      "id": 222222,
+      "name": {
+        "full": "Fuyou Shaonü",
+        "native": "蜉蝣少女"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114136,
+              "title": {
+                "romaji": "Bai Yao Pu",
+                "english": "Fairies Albums",
+                "native": "百妖谱"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "222237": {
+      "id": 222237,
+      "name": {
+        "full": "Hua Chun",
+        "native": "春花"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114136,
+              "title": {
+                "romaji": "Bai Yao Pu",
+                "english": "Fairies Albums",
+                "native": "百妖谱"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "225379": {
+      "id": 225379,
+      "name": {
+        "full": "Ling Xia",
+        "native": "夏铃"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99707,
+              "title": {
+                "romaji": "Zhen Hun Jie",
+                "english": "Rakshasa Street",
+                "native": "镇魂街"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 114561,
+              "title": {
+                "romaji": "Zhen Hun Jie 2",
+                "english": null,
+                "native": "镇魂街 第二季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 156080,
+              "title": {
+                "romaji": "Zhen Hun Jie 3",
+                "english": "Rakshasa Street S3",
+                "native": "镇魂街 第三季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 202846,
+              "title": {
+                "romaji": "Zhen Hun Jie 5",
+                "english": "RAKSHASA STREET 5",
+                "native": "镇魂街 第五季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "225386": {
+      "id": 225386,
+      "name": {
+        "full": "Yanbing Cao",
+        "native": "曹焱兵"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99707,
+              "title": {
+                "romaji": "Zhen Hun Jie",
+                "english": "Rakshasa Street",
+                "native": "镇魂街"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 114561,
+              "title": {
+                "romaji": "Zhen Hun Jie 2",
+                "english": null,
+                "native": "镇魂街 第二季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 156080,
+              "title": {
+                "romaji": "Zhen Hun Jie 3",
+                "english": "Rakshasa Street S3",
+                "native": "镇魂街 第三季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185723,
+              "title": {
+                "romaji": "Zhen Hun Jie 4",
+                "english": "Rakshasa Street S4",
+                "native": "镇魂街 第四季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 202846,
+              "title": {
+                "romaji": "Zhen Hun Jie 5",
+                "english": "RAKSHASA STREET 5",
+                "native": "镇魂街 第五季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "225389": {
+      "id": 225389,
+      "name": {
+        "full": "Xuanliang Cao",
+        "native": "曹玄亮"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99707,
+              "title": {
+                "romaji": "Zhen Hun Jie",
+                "english": "Rakshasa Street",
+                "native": "镇魂街"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "225398": {
+      "id": 225398,
+      "name": {
+        "full": "Jin Yu",
+        "native": "于禁"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99707,
+              "title": {
+                "romaji": "Zhen Hun Jie",
+                "english": "Rakshasa Street",
+                "native": "镇魂街"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "225399": {
+      "id": 225399,
+      "name": {
+        "full": "Xiaorou",
+        "native": "小柔"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99707,
+              "title": {
+                "romaji": "Zhen Hun Jie",
+                "english": "Rakshasa Street",
+                "native": "镇魂街"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "226153": {
+      "id": 226153,
+      "name": {
+        "full": "Yuan Ning",
+        "native": "宁远"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 101132,
+              "title": {
+                "romaji": "Mi Yu Xingzhe",
+                "english": null,
+                "native": "迷域行者"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "226154": {
+      "id": 226154,
+      "name": {
+        "full": "Zijeong Ho",
+        "native": "何志扬"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 101132,
+              "title": {
+                "romaji": "Mi Yu Xingzhe",
+                "english": null,
+                "native": "迷域行者"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "226155": {
+      "id": 226155,
+      "name": {
+        "full": "Jin Su",
+        "native": "苏瑾"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 101132,
+              "title": {
+                "romaji": "Mi Yu Xingzhe",
+                "english": null,
+                "native": "迷域行者"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "226161": {
+      "id": 226161,
+      "name": {
+        "full": "Romeo Abel",
+        "native": "罗密欧·艾贝尔"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 101132,
+              "title": {
+                "romaji": "Mi Yu Xingzhe",
+                "english": null,
+                "native": "迷域行者"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "226162": {
+      "id": 226162,
+      "name": {
+        "full": "Hechun Ding",
+        "native": "丁鹤春"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 101132,
+              "title": {
+                "romaji": "Mi Yu Xingzhe",
+                "english": null,
+                "native": "迷域行者"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "226605": {
+      "id": 226605,
+      "name": {
+        "full": "Huasheng",
+        "native": "花生"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 102973,
+              "title": {
+                "romaji": "Zuori Qing Kong",
+                "english": null,
+                "native": "昨日青空"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "226606": {
+      "id": 226606,
+      "name": {
+        "full": "Chen Laoshi",
+        "native": "陈老师"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 102973,
+              "title": {
+                "romaji": "Zuori Qing Kong",
+                "english": null,
+                "native": "昨日青空"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "228988": {
+      "id": 228988,
+      "name": {
+        "full": "Chi Xia",
+        "native": "夏驰"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99708,
+              "title": {
+                "romaji": "Duan Nao",
+                "english": "Die Now",
+                "native": "端脑"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "228989": {
+      "id": 228989,
+      "name": {
+        "full": "Qingzhi",
+        "native": "晴知"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99708,
+              "title": {
+                "romaji": "Duan Nao",
+                "english": "Die Now",
+                "native": "端脑"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "228990": {
+      "id": 228990,
+      "name": {
+        "full": "Qin Meng",
+        "native": "孟秦"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99708,
+              "title": {
+                "romaji": "Duan Nao",
+                "english": "Die Now",
+                "native": "端脑"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "228991": {
+      "id": 228991,
+      "name": {
+        "full": "Yuxiang Chun",
+        "native": "春絮香"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99708,
+              "title": {
+                "romaji": "Duan Nao",
+                "english": "Die Now",
+                "native": "端脑"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "228992": {
+      "id": 228992,
+      "name": {
+        "full": "Bobian",
+        "native": "博卞"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 99708,
+              "title": {
+                "romaji": "Duan Nao",
+                "english": "Die Now",
+                "native": "端脑"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "229724": {
+      "id": 229724,
+      "name": {
+        "full": "Meiyou Mingzi De Nan Zhujue",
+        "native": "没有名字的男主角"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 103360,
+              "title": {
+                "romaji": "Shiwan Ge Leng Xiaohua (Movie)",
+                "english": "One Hundred Thousand Bad Jokes",
+                "native": "十万个冷笑话"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "229729": {
+      "id": 229729,
+      "name": {
+        "full": "Baixue Gongzhu",
+        "native": "白雪公主"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 103360,
+              "title": {
+                "romaji": "Shiwan Ge Leng Xiaohua (Movie)",
+                "english": "One Hundred Thousand Bad Jokes",
+                "native": "十万个冷笑话"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "229732": {
+      "id": 229732,
+      "name": {
+        "full": "Nezha",
+        "native": "哪吒"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 103360,
+              "title": {
+                "romaji": "Shiwan Ge Leng Xiaohua (Movie)",
+                "english": "One Hundred Thousand Bad Jokes",
+                "native": "十万个冷笑话"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "229734": {
+      "id": 229734,
+      "name": {
+        "full": "Jing Li",
+        "native": "李靖"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 103360,
+              "title": {
+                "romaji": "Shiwan Ge Leng Xiaohua (Movie)",
+                "english": "One Hundred Thousand Bad Jokes",
+                "native": "十万个冷笑话"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "229746": {
+      "id": 229746,
+      "name": {
+        "full": "Nüwang Daren",
+        "native": "女王大人"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 103360,
+              "title": {
+                "romaji": "Shiwan Ge Leng Xiaohua (Movie)",
+                "english": "One Hundred Thousand Bad Jokes",
+                "native": "十万个冷笑话"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "230157": {
+      "id": 230157,
+      "name": {
+        "full": "Li Han",
+        "native": "韩立"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 115844,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan",
+                "english": "A Record Of Mortal's Journey To Immortality",
+                "native": "凡人修仙传"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 129202,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan: Yanjiabao Pu Zhan",
+                "english": null,
+                "native": "凡人修仙传 燕家堡之战"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 140645,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan: Modao Zhengfeng",
+                "english": null,
+                "native": "凡人修仙传 魔道争锋"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 149071,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan: Zai Bie Tiannan",
+                "english": null,
+                "native": "凡人修仙传 再别天南"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 153200,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan: Chu Ru Xing Hai",
+                "english": null,
+                "native": "凡人修仙传 初入星海"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 156062,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan: Xinghai Feichi",
+                "english": null,
+                "native": "凡人修仙传 星海飞驰"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 171403,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan: Xinghai Feichi Prologue",
+                "english": null,
+                "native": "凡人修仙传 星海飞驰 序章"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185861,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan Di Si Ji",
+                "english": null,
+                "native": "凡人修仙传 第四季"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "230159": {
+      "id": 230159,
+      "name": {
+        "full": "Gongwan Nan",
+        "native": "南宫婉"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 115844,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan",
+                "english": "A Record Of Mortal's Journey To Immortality",
+                "native": "凡人修仙传"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 140645,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan: Modao Zhengfeng",
+                "english": null,
+                "native": "凡人修仙传 魔道争锋"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 149071,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan: Zai Bie Tiannan",
+                "english": null,
+                "native": "凡人修仙传 再别天南"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "230162": {
+      "id": 230162,
+      "name": {
+        "full": "Feiyu Li",
+        "native": "厉飞雨"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 115844,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan",
+                "english": "A Record Of Mortal's Journey To Immortality",
+                "native": "凡人修仙传"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "230164": {
+      "id": 230164,
+      "name": {
+        "full": "Yunzhi Han",
+        "native": "菡云芝"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 115844,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan",
+                "english": "A Record Of Mortal's Journey To Immortality",
+                "native": "凡人修仙传"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "230173": {
+      "id": 230173,
+      "name": {
+        "full": "Tie Zhang",
+        "native": "张铁"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 115844,
+              "title": {
+                "romaji": "Fanren Xiu Xian Zhuan",
+                "english": "A Record Of Mortal's Journey To Immortality",
+                "native": "凡人修仙传"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "230564": {
+      "id": 230564,
+      "name": {
+        "full": "Guo Ding",
+        "native": "丁果"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114333,
+              "title": {
+                "romaji": "Miao Xiansheng",
+                "english": null,
+                "native": "妙先生"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "230565": {
+      "id": 230565,
+      "name": {
+        "full": "Feng Yin",
+        "native": "殷凤"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114333,
+              "title": {
+                "romaji": "Miao Xiansheng",
+                "english": null,
+                "native": "妙先生"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "230566": {
+      "id": 230566,
+      "name": {
+        "full": "Ganya Ren",
+        "native": "赶鸭人"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114333,
+              "title": {
+                "romaji": "Miao Xiansheng",
+                "english": null,
+                "native": "妙先生"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "230567": {
+      "id": 230567,
+      "name": {
+        "full": "Xiaowen",
+        "native": "孝文"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114333,
+              "title": {
+                "romaji": "Miao Xiansheng",
+                "english": null,
+                "native": "妙先生"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "230573": {
+      "id": 230573,
+      "name": {
+        "full": "Wusheng",
+        "native": "无生"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 114333,
+              "title": {
+                "romaji": "Miao Xiansheng",
+                "english": null,
+                "native": "妙先生"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "232038": {
+      "id": 232038,
+      "name": {
+        "full": "Milagro Man",
+        "native": "ミラグロマン"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "232910": {
+      "id": 232910,
+      "name": {
+        "full": "Obladi Oblada",
+        "native": "オブラディ・オブラダ"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "232911": {
+      "id": 232911,
+      "name": {
+        "full": "Dododo De Dadada",
+        "native": "ドゥードゥードゥー・デ・ダーダーダー"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "232912": {
+      "id": 232912,
+      "name": {
+        "full": "Iwasuke",
+        "native": "岩助"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "234728": {
+      "id": 234728,
+      "name": {
+        "full": "A. Phex Ani",
+        "native": "エイ・フェックス兄"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "234729": {
+      "id": 234729,
+      "name": {
+        "full": "A. Phex Otouto",
+        "native": "エイ・フェックス弟"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "238729": {
+      "id": 238729,
+      "name": {
+        "full": "Fumi",
+        "native": "文"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "240372": {
+      "id": 240372,
+      "name": {
+        "full": "Chikuwa",
+        "native": "ちくわ"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 98444,
+              "title": {
+                "romaji": "Yuru Camp△",
+                "english": "Laid-Back Camp",
+                "native": "ゆるキャン△"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 104459,
+              "title": {
+                "romaji": "Yuru Camp△ SEASON 2",
+                "english": "LAID-BACK CAMP SEASON2",
+                "native": "ゆるキャン△ SEASON２"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 104460,
+              "title": {
+                "romaji": "Yuru Camp△ Movie",
+                "english": "Laid-Back Camp The Movie",
+                "native": "映画 ゆるキャン△"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 155908,
+              "title": {
+                "romaji": "Yuru Camp△ SEASON 3",
+                "english": "Laid-Back Camp Season 3",
+                "native": "ゆるキャン△ SEASON３"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 177007,
+              "title": {
+                "romaji": "Yuru Camp△ SEASON 3 OVA",
+                "english": "Laid-Back Camp Season 3 OVA",
+                "native": "ゆるキャン△ SEASON３OVA"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "BACKGROUND",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 184072,
+              "title": {
+                "romaji": "Yuru Camp△ SEASON 4",
+                "english": null,
+                "native": "ゆるキャン△ SEASON４"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "242550": {
+      "id": 242550,
+      "name": {
+        "full": "Feng Luo",
+        "native": "罗峰"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 117012,
+              "title": {
+                "romaji": "Tunshi Xingkong",
+                "english": "Swallowed Star",
+                "native": "吞噬星空"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185724,
+              "title": {
+                "romaji": "Tunshi Xingkong Movie: Xueluo Dalu",
+                "english": null,
+                "native": "吞噬星空剧场版 血洛大陆"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 213516,
+              "title": {
+                "romaji": "Tunshi Xingkong Movie: Juezhan Yuanshi Xing",
+                "english": null,
+                "native": "吞噬星空剧场版 决战原始星"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "242576": {
+      "id": 242576,
+      "name": {
+        "full": "Menini",
+        "native": "メニーニ"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 102883,
+              "title": {
+                "romaji": "JoJo no Kimyou na Bouken: Ougon no Kaze",
+                "english": "JoJo's Bizarre Adventure: Golden Wind",
+                "native": "ジョジョの奇妙な冒険 黄金の風"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "BACKGROUND",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "245244": {
+      "id": 245244,
+      "name": {
+        "full": "Hua Luo",
+        "native": "罗华"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 117012,
+              "title": {
+                "romaji": "Tunshi Xingkong",
+                "english": "Swallowed Star",
+                "native": "吞噬星空"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "245262": {
+      "id": 245262,
+      "name": {
+        "full": "Tong Wu",
+        "native": "邬通"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 117012,
+              "title": {
+                "romaji": "Tunshi Xingkong",
+                "english": "Swallowed Star",
+                "native": "吞噬星空"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "245290": {
+      "id": 245290,
+      "name": {
+        "full": "Zehu Zhang",
+        "native": "张泽虎"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 117012,
+              "title": {
+                "romaji": "Tunshi Xingkong",
+                "english": "Swallowed Star",
+                "native": "吞噬星空"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "245844": {
+      "id": 245844,
+      "name": {
+        "full": "Lang Zhi Shi",
+        "native": "知世郎"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 122508,
+              "title": {
+                "romaji": "Biaoren",
+                "english": null,
+                "native": "镖人"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "245845": {
+      "id": 245845,
+      "name": {
+        "full": "Ma Dao",
+        "native": "刀馬"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 122508,
+              "title": {
+                "romaji": "Biaoren",
+                "english": null,
+                "native": "镖人"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "260328": {
+      "id": 260328,
+      "name": {
+        "full": "Takina Inoue",
+        "native": "井ノ上たきな"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 143270,
+              "title": {
+                "romaji": "Lycoris Recoil",
+                "english": "Lycoris Recoil",
+                "native": "リコリス・リコイル"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 148220,
+                "name": {
+                  "full": "Shion Wakayama",
+                  "native": "若山詩音"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n148220-Tj3U7jdXZehG.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 179706,
+              "title": {
+                "romaji": "Lycoris Recoil: Friends are thieves of time.",
+                "english": "Lycoris Recoil -Friends are thieves of time.-",
+                "native": "リコリス・リコイル Friends are thieves of time."
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 148220,
+                "name": {
+                  "full": "Shion Wakayama",
+                  "native": "若山詩音"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n148220-Tj3U7jdXZehG.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "261439": {
+      "id": 261439,
+      "name": {
+        "full": "Xuan He",
+        "native": "贺玄"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 113260,
+              "title": {
+                "romaji": "Tian Guan Ci Fu",
+                "english": "Heaven Official's Blessing",
+                "native": "天官赐福"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "BACKGROUND",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "273796": {
+      "id": 273796,
+      "name": {
+        "full": "Nie Ge",
+        "native": "盖聂"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 11841,
+              "title": {
+                "romaji": "Qin Shi Mingyue: Ye Jin Tianming",
+                "english": null,
+                "native": "秦时明月之夜尽天明"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 121296,
+              "title": {
+                "romaji": "Qin Shi Mingyue: Yi Zhe Rushi",
+                "english": null,
+                "native": "秦时明月之医者入世"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 129230,
+              "title": {
+                "romaji": "Qin Shi Mingyue: Wang Qin Bi Chu",
+                "english": null,
+                "native": "秦时明月之亡泰必楚"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "277990": {
+      "id": 277990,
+      "name": {
+        "full": "Dunn Smith",
+        "native": "邓恩·史密斯"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137667,
+              "title": {
+                "romaji": "Guimi Zhi Zhu: Xiaochou Pian",
+                "english": "Lord of Mysteries",
+                "native": "诡秘之主 小丑篇​"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 206875,
+              "title": {
+                "romaji": "Guimi Zhi Zhu: Caidan",
+                "english": "Lord of Mysteries: Chibi Theatre",
+                "native": "诡秘之主 彩蛋"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "277991": {
+      "id": 277991,
+      "name": {
+        "full": "Leonard Mitchell",
+        "native": "伦纳德·米切尔"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137667,
+              "title": {
+                "romaji": "Guimi Zhi Zhu: Xiaochou Pian",
+                "english": "Lord of Mysteries",
+                "native": "诡秘之主 小丑篇​"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "277993": {
+      "id": 277993,
+      "name": {
+        "full": "Audrey Hall",
+        "native": "奥黛丽.霍尔"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137667,
+              "title": {
+                "romaji": "Guimi Zhi Zhu: Xiaochou Pian",
+                "english": "Lord of Mysteries",
+                "native": "诡秘之主 小丑篇​"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 199448,
+              "title": {
+                "romaji": "Guimi Zhi Zhu Specials",
+                "english": "Lord of Mysteries Specials",
+                "native": "诡秘之主 特别篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 206875,
+              "title": {
+                "romaji": "Guimi Zhi Zhu: Caidan",
+                "english": "Lord of Mysteries: Chibi Theatre",
+                "native": "诡秘之主 彩蛋"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "281196": {
+      "id": 281196,
+      "name": {
+        "full": "Hu Jiang",
+        "native": "蒋虎"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 146409,
+              "title": {
+                "romaji": "Shen Yin Wangzuo",
+                "english": "Throne of Seal",
+                "native": "神印王座"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "281197": {
+      "id": 281197,
+      "name": {
+        "full": "Yuanyuan Wang",
+        "native": "王原原"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 146409,
+              "title": {
+                "romaji": "Shen Yin Wangzuo",
+                "english": "Throne of Seal",
+                "native": "神印王座"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "281203": {
+      "id": 281203,
+      "name": {
+        "full": "Shui San",
+        "native": "三水"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 146409,
+              "title": {
+                "romaji": "Shen Yin Wangzuo",
+                "english": "Throne of Seal",
+                "native": "神印王座"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "281839": {
+      "id": 281839,
+      "name": {
+        "full": "Junwan Song",
+        "native": "宋君婉"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 110595,
+              "title": {
+                "romaji": "Yi Nian Yongheng",
+                "english": null,
+                "native": "一念永恒"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "298895": {
+      "id": 298895,
+      "name": {
+        "full": "Jodio Joestar",
+        "native": "ジョディオ・ジョースタ"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "298896": {
+      "id": 298896,
+      "name": {
+        "full": "Dragona Joestar",
+        "native": "ドラゴナ・ジョースター"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "298904": {
+      "id": 298904,
+      "name": {
+        "full": "Paco Laburantes",
+        "native": "パコ・ラブランテス"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "298905": {
+      "id": 298905,
+      "name": {
+        "full": "Meryl Qi",
+        "native": "メリル・メイ・チー"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "298906": {
+      "id": 298906,
+      "name": {
+        "full": "Barbara Joestar",
+        "native": "バーバラ・アン・ジョースター"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "306164": {
+      "id": 306164,
+      "name": {
+        "full": "Usagi Alohaoe",
+        "native": "ウサギ・アロハオエ"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "306847": {
+      "id": 306847,
+      "name": {
+        "full": "Tesshin",
+        "native": "鉄心"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 128893,
+              "title": {
+                "romaji": "Jigokuraku",
+                "english": "Hell’s Paradise",
+                "native": "地獄楽"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "307548": {
+      "id": 307548,
+      "name": {
+        "full": "Shi Lan",
+        "native": "石兰"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 109940,
+              "title": {
+                "romaji": "Qin Shi Mingyue: Canghai Hengliu",
+                "english": null,
+                "native": "秦时明月之沧海横流"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 129230,
+              "title": {
+                "romaji": "Qin Shi Mingyue: Wang Qin Bi Chu",
+                "english": null,
+                "native": "秦时明月之亡泰必楚"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "307549": {
+      "id": 307549,
+      "name": {
+        "full": "Gao Yue",
+        "native": "高月"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 109940,
+              "title": {
+                "romaji": "Qin Shi Mingyue: Canghai Hengliu",
+                "english": null,
+                "native": "秦时明月之沧海横流"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 129230,
+              "title": {
+                "romaji": "Qin Shi Mingyue: Wang Qin Bi Chu",
+                "english": null,
+                "native": "秦时明月之亡泰必楚"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "307551": {
+      "id": 307551,
+      "name": {
+        "full": "Xiang Shaoyu",
+        "native": "项少羽"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 109940,
+              "title": {
+                "romaji": "Qin Shi Mingyue: Canghai Hengliu",
+                "english": null,
+                "native": "秦时明月之沧海横流"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 129230,
+              "title": {
+                "romaji": "Qin Shi Mingyue: Wang Qin Bi Chu",
+                "english": null,
+                "native": "秦时明月之亡泰必楚"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "307582": {
+      "id": 307582,
+      "name": {
+        "full": "Ah Juan (Boy)",
+        "native": "阿娟（男）"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 131994,
+              "title": {
+                "romaji": "Xiongshi Shaonian",
+                "english": null,
+                "native": "雄狮少年"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "307583": {
+      "id": 307583,
+      "name": {
+        "full": "Ah Gou",
+        "native": "阿狗"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 131994,
+              "title": {
+                "romaji": "Xiongshi Shaonian",
+                "english": null,
+                "native": "雄狮少年"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "307586": {
+      "id": 307586,
+      "name": {
+        "full": "Xian Yu Qiang",
+        "native": "咸鱼强"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 131994,
+              "title": {
+                "romaji": "Xiongshi Shaonian",
+                "english": null,
+                "native": "雄狮少年"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "307587": {
+      "id": 307587,
+      "name": {
+        "full": "Ah Mao",
+        "native": "阿猫"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 131994,
+              "title": {
+                "romaji": "Xiongshi Shaonian",
+                "english": null,
+                "native": "雄狮少年"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "307588": {
+      "id": 307588,
+      "name": {
+        "full": "Ah Zhen",
+        "native": "阿珍"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 131994,
+              "title": {
+                "romaji": "Xiongshi Shaonian",
+                "english": null,
+                "native": "雄狮少年"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "313487": {
+      "id": 313487,
+      "name": {
+        "full": "Xiao Qi",
+        "native": "小七"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 122508,
+              "title": {
+                "romaji": "Biaoren",
+                "english": null,
+                "native": "镖人"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "314391": {
+      "id": 314391,
+      "name": {
+        "full": "Pei Xing Yan",
+        "native": "裴行俨"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 122508,
+              "title": {
+                "romaji": "Biaoren",
+                "english": null,
+                "native": "镖人"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "316854": {
+      "id": 316854,
+      "name": {
+        "full": "Hong Tai Lung",
+        "native": "红太狼"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 107070,
+              "title": {
+                "romaji": "Xi Yangyang Yu Hui Tailang",
+                "english": "Pleasant Goat and Big Big Wolf",
+                "native": "喜羊羊与灰太狼"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "316881": {
+      "id": 316881,
+      "name": {
+        "full": "Aluohan",
+        "native": "阿罗汉"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 122508,
+              "title": {
+                "romaji": "Biaoren",
+                "english": null,
+                "native": "镖人"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "331075": {
+      "id": 331075,
+      "name": {
+        "full": "Charming Man",
+        "native": "チャーミング・マン"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "343078": {
+      "id": 343078,
+      "name": {
+        "full": "Bobby Jean",
+        "native": "ボビー・ジーン"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "343079": {
+      "id": 343079,
+      "name": {
+        "full": "Acca Howler",
+        "native": "アッカ・ハウラー"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "343080": {
+      "id": 343080,
+      "name": {
+        "full": "Lulu",
+        "native": "ルル"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    "348856": {
+      "id": 348856,
+      "name": {
+        "full": "Lin Wang",
+        "native": "王林"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137653,
+              "title": {
+                "romaji": "Xian Ni",
+                "english": "Renegade Immortal",
+                "native": "仙逆"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 185121,
+              "title": {
+                "romaji": "Xian Ni Movie: Shenlin Zhi Zhan",
+                "english": "Renegade Immortal: Battle of Gods",
+                "native": "仙逆剧场版 神临之战"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 217627,
+              "title": {
+                "romaji": "Xian Ni Movie: Shi Xian Zhi Zhan",
+                "english": "Renegade Immortal: Slaying the Blood Progenitor",
+                "native": "仙逆剧场版 弑仙之战"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "364799": {
+      "id": 364799,
+      "name": {
+        "full": "Azik Eggers",
+        "native": "阿兹克·艾格斯"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137667,
+              "title": {
+                "romaji": "Guimi Zhi Zhu: Xiaochou Pian",
+                "english": "Lord of Mysteries",
+                "native": "诡秘之主 小丑篇​"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 199448,
+              "title": {
+                "romaji": "Guimi Zhi Zhu Specials",
+                "english": "Lord of Mysteries Specials",
+                "native": "诡秘之主 特别篇"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "BACKGROUND",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "373486": {
+      "id": 373486,
+      "name": {
+        "full": "Ye Fan",
+        "native": "叶凡"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137671,
+              "title": {
+                "romaji": "Zhe Tian",
+                "english": "Shrouding the Heavens",
+                "native": "遮天"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 213664,
+              "title": {
+                "romaji": "Zhe Tian Movie: Bei Guan Zhan Wang Teng",
+                "english": null,
+                "native": "遮天剧场版 背棺战王腾"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "373487": {
+      "id": 373487,
+      "name": {
+        "full": "Ji Ziyue",
+        "native": "姬紫月"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137671,
+              "title": {
+                "romaji": "Zhe Tian",
+                "english": "Shrouding the Heavens",
+                "native": "遮天"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 213664,
+              "title": {
+                "romaji": "Zhe Tian Movie: Bei Guan Zhan Wang Teng",
+                "english": null,
+                "native": "遮天剧场版 背棺战王腾"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "373500": {
+      "id": 373500,
+      "name": {
+        "full": "Tu Fei",
+        "native": "土匪"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137671,
+              "title": {
+                "romaji": "Zhe Tian",
+                "english": "Shrouding the Heavens",
+                "native": "遮天"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "373501": {
+      "id": 373501,
+      "name": {
+        "full": "Pang Bo",
+        "native": "庞博"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137671,
+              "title": {
+                "romaji": "Zhe Tian",
+                "english": "Shrouding the Heavens",
+                "native": "遮天"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 213664,
+              "title": {
+                "romaji": "Zhe Tian Movie: Bei Guan Zhan Wang Teng",
+                "english": null,
+                "native": "遮天剧场版 背棺战王腾"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "373502": {
+      "id": 373502,
+      "name": {
+        "full": "Qin Yao",
+        "native": "秦瑶"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137671,
+              "title": {
+                "romaji": "Zhe Tian",
+                "english": "Shrouding the Heavens",
+                "native": "遮天"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "376058": {
+      "id": 376058,
+      "name": {
+        "full": "Sen Tuo",
+        "native": "托森"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137653,
+              "title": {
+                "romaji": "Xian Ni",
+                "english": "Renegade Immortal",
+                "native": "仙逆"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "376059": {
+      "id": 376059,
+      "name": {
+        "full": "Mei Liu",
+        "native": "柳眉"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137653,
+              "title": {
+                "romaji": "Xian Ni",
+                "english": "Renegade Immortal",
+                "native": "仙逆"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "376060": {
+      "id": 376060,
+      "name": {
+        "full": "Huayuan Teng",
+        "native": "藤化元"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137653,
+              "title": {
+                "romaji": "Xian Ni",
+                "english": "Renegade Immortal",
+                "native": "仙逆"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "376061": {
+      "id": 376061,
+      "name": {
+        "full": "Liguo Xu",
+        "native": "许立国"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137653,
+              "title": {
+                "romaji": "Xian Ni",
+                "english": "Renegade Immortal",
+                "native": "仙逆"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          },
+          {
+            "node": {
+              "id": 217627,
+              "title": {
+                "romaji": "Xian Ni Movie: Shi Xian Zhi Zhan",
+                "english": "Renegade Immortal: Slaying the Blood Progenitor",
+                "native": "仙逆剧场版 弑仙之战"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    },
+    "376063": {
+      "id": 376063,
+      "name": {
+        "full": "Muwan Li",
+        "native": "李慕婉"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 137653,
+              "title": {
+                "romaji": "Xian Ni",
+                "english": "Renegade Immortal",
+                "native": "仙逆"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": []
+          }
+        ]
+      }
+    }
+  }
+}

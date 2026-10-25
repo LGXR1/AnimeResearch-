@@ -1,0 +1,612 @@
+{
+  "fetchedAt": "2026-10-18T00:24:01.155Z",
+  "id": 21361,
+  "title": {
+    "romaji": "GRANBLUE FANTASY The Animation",
+    "english": "Granblue Fantasy: The Animation",
+    "native": "GRANBLUE FANTASY The Animation"
+  },
+  "synonyms": [],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2017,
+    "month": 4,
+    "day": 2
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "description": "This is a world of the skies, where many islands drift in the sky.\nA boy named Gran and a speaking winged lizard named Vyrn lived in Zinkenstill, an island which yields mysteries. One day, they come across a girl named Lyria.\nLyria had escaped from the Erste Empire, a military government that is trying to rule over this world using powerful military prowess.\nGran and Lyria, in order to escape from the Empire, head out into the vast skies, holding the letter Gran's father left behind - which said, \"I will be waiting at Estalucia, Island of the Astrals\".<br><br>\n<i>Note: The first two episodes premiered on January 21st as a special.</i>",
+  "siteUrl": "https://anilist.co/anime/21361",
+  "characters": [
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 127654,
+        "name": {
+          "full": "Narmaya",
+          "native": "ナルメア",
+          "alternative": [
+            "Narumeia"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b127654-3zhsg8JrKn9l.png"
+        },
+        "description": "A draph girl who is extremely skilled and likes to train in order to be noticed by a distant relative Octo.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118510,
+          "name": {
+            "full": "Mao Ichimichi",
+            "native": "市道真央"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 121144,
+        "name": {
+          "full": "Katalina Alize",
+          "native": "カタリナ・アリゼ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121144-60TxJqJS3Lj1.png"
+        },
+        "description": "Once a devoted knight of the Erste Empire in charge of guarding Lyria, Katalina turns on her former home and vows to travel with Gran to protect Lyria from the Empire's schemes. Her skilled and calculated displays of swordplay with her trusted sword Rukalsa are in stark contrast to her profoundly lacking sense of direction and poor cooking skills. These things, among others, are regularly pointed out by her fellow party members.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95099,
+          "name": {
+            "full": "Miyuki Sawashiro",
+            "native": "沢城みゆき"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 121143,
+        "name": {
+          "full": "Lyria",
+          "native": "ルリア",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121143-mXbErbUjW2M8.png"
+        },
+        "description": "A girl with special powers who runs away from the soldiers of the Erste Empire with her guardian Katalina before eventually meeting Gran. She has no memories of her life prior to being held captive by the Empire.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106184,
+          "name": {
+            "full": "Nao Touyama",
+            "native": "東山奈央"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106184-rFA0sHFJrbk4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 121150,
+        "name": {
+          "full": "Rosetta",
+          "native": "ロゼッタ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/121150-dMhBzEOcjKDp.jpg"
+        },
+        "description": "A mysterious beauty who suddenly appears before Gran during his travels, Rosetta seems to know the truth about many mysteries pertinent to his quest. Despite that, she often speaks in generalities and largely acts as a mere bystander.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95060,
+          "name": {
+            "full": "Rie Tanaka",
+            "native": "田中理恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95060-Rw0HZghxH1hF.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 121146,
+        "name": {
+          "full": "Gran",
+          "native": "グラン",
+          "alternative": [
+            "Captain"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/121146-SemAMKsGwffw.jpg"
+        },
+        "description": "A boy who lives in a small island and wants to explore the sky, he ends up getting involved with Katalina and the misterious girl Lyria and stars traveling to run away from the Erste Empire.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96154,
+          "name": {
+            "full": "Yuuki Ono",
+            "native": "小野友樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96154-B8GAO9wm1Fbd.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 165362,
+        "name": {
+          "full": "Zeta",
+          "native": "ゼタ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165362-OLZikgaTI6qr.png"
+        },
+        "description": "A spirited female knight wielding the mythic Spear of Arvess. Zeta is a member of the shadowy group known as The Society alongside Beatrix, Vaseraga, Eustace, and Ilsa. Eyes glittering sharp and blue, she proves her strength by pursuing only the most dangerous of prey. No wall nor enemy can stand up to her steely will and burning spear.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95185,
+          "name": {
+            "full": "Kana Hanazawa",
+            "native": "花澤香菜"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 121147,
+        "name": {
+          "full": "Rackam",
+          "native": "ラカム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b121147-mxKqCnZbN1ps.png"
+        },
+        "description": "Soaring through the skydoms on the airship Grandcypher, Rackam made a name for himself as a skilled helmsman before an accident caused him to swear off the skies forever. His encounter with Gran leads him to take the helm once more and become a steadfast ally. Though blunt, Rackam is remarkably dependable and enjoys looking after others.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95125,
+          "name": {
+            "full": "Hiroaki Hirata",
+            "native": "平田広明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95125-NeFFiJupoDVj.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 190673,
+        "name": {
+          "full": "Yuel",
+          "native": "ユエル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b190673-f4B5cbXgdnH6.png"
+        },
+        "description": "__Height:__ 160 cm\n__Race:__ Erune\n\nManipulator of foxflame, Yuel searches for the remnants of a thousand years of history. As the inheritor of an ancient ancestral power, Yuel is determined to restore her family's royal lineage. Though it is questionable whether an heir still exists, she continues to travel the Skydom and experience much on her travels. Full of curiosity about the world, Yuel often finds herself off-track, but she views such moments as only minor setbacks",
+        "gender": "Female",
+        "age": "19"
+      },
+      "voiceActors": [
+        {
+          "id": 95116,
+          "name": {
+            "full": "Kana Ueda",
+            "native": "植田佳奈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 141055,
+        "name": {
+          "full": "Djeeta",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b141055-C0v588dADKMI.jpg"
+        },
+        "description": "She is the main protagonist for the anime GRANBLUE FANTASY The Animation Episode 13 and OVA.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103555,
+          "name": {
+            "full": "Hisako Kanemoto",
+            "native": "金元寿子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103555-2ZtBwZfy9DTi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 121148,
+        "name": {
+          "full": "Io Euclase",
+          "native": "イオ・ユークレース",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/121148-shtYeK2BE5rL.jpg"
+        },
+        "description": "A young lass who loathes being treated like a child, Io encounters and eventually joins Gran while in search of her master, who vanished in the Valtz Duchy. Io is persistent and refuses to give up in the face of adversity, but she's a little inflexible, too. As you might guess from the way she bristles at being treated like a child, she can't wait until she's all grown up.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95027,
+          "name": {
+            "full": "Yukari Tamura",
+            "native": "田村ゆかり"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 121145,
+        "name": {
+          "full": "Vyrn",
+          "native": "ビィ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/121145-3NwwZ1dADUSs.jpg"
+        },
+        "description": "A mysterious winged creature who leads Gran to destiny, Vyrn loves apples more than anything in the world. Nothing gets on his nerves more than being called cute, your pet, or worst of all: lizard.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95008,
+          "name": {
+            "full": "Rie Kugimiya",
+            "native": "釘宮理恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 121149,
+        "name": {
+          "full": "Eugen",
+          "native": "オイゲン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/121149-eXAAbatSqK1h.png"
+        },
+        "description": "A veteran soldier wracked with remorse, Eugen once traveled the skies alongside Rackam as a skyfarer, but has since returned to his home on the Auguste Isles. Working as a mercenary fighting against the empire, he shares some kind of deep connection with the Black Knight, but chooses to run from it, saying he's too old to deal with it. It's during his attempts to flee from responsibility that he encounters Gran and decides to travel alongside him to stand up to his past. A crafty fellow, Eugen often mystifies others with sayings accumulated from his years of experience.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95063,
+          "name": {
+            "full": "Keiji Fujiwara",
+            "native": "藤原啓治"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 134793,
+        "name": {
+          "full": "Drang",
+          "native": "ドランク",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b134793-R7Jp8kS2zFps.jpg"
+        },
+        "description": "An unflappable free spirit traveling alongside Sturm, Drang might give you the impression of being upbeat and affectionate, but it's all an act. He make his foes let down their guard, after which he'll unleash one of the countless schemes stirring behind his smiling face. His personality stands in stark contrast to that of Sturm, his protector, but their pairing actually serves to complement their respective weaknesses. He is currently working alongside Sturm in the empire's employ.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95002,
+          "name": {
+            "full": "Tomokazu Sugita",
+            "native": "杉田智和"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 189689,
+        "name": {
+          "full": "Sierokarte",
+          "native": "シェロカルテ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b189689-MfYC9MnDXhsl.png"
+        },
+        "description": "A wee little manager who runs a Knickknack Shack for skyfarers. She is extremely confident that she can ease any traveler's worries. She also offers jobs and human resource services in addition to running an inn and bar. Whew!\n",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95052,
+          "name": {
+            "full": "Emiri Katou",
+            "native": "加藤英美里"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95052-mvDPeBcLCWmX.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 235973,
+        "name": {
+          "full": "Jessica",
+          "native": "ジェシカ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b235973-jMasLwywNMOf.png"
+        },
+        "description": "__Height:__ 160 cm\t\n__Race:__ Human\n\nJessica's brother was abducted by Nephthys long ago, and she's been searching the skydoms for him ever since. She treats everyone she meets with kindness; she's reasonable and reliable, and in many respects, she is a mature young woman, but there's something off about her. Maybe it's the way she casually totes a massive gun that's roughly the same size she is, though she has more than enough strength to handle the recoil. When things get tough, Jessica can often be found blasting her troubles away with a smile on her face.",
+        "gender": "Female",
+        "age": "18"
+      },
+      "voiceActors": [
+        {
+          "id": 106787,
+          "name": {
+            "full": "Asami Seto",
+            "native": "瀬戸麻沙美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-ojpoY7XEGYgc.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 175317,
+        "name": {
+          "full": "Sturm",
+          "native": "スツルム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b175317-ElYeJnR5SwJl.jpg"
+        },
+        "description": "__Height:__ 130 cm\n__Race:__ Draph\n\nA no-nonsense swordsman charged with Drang's protection, Sturm lives her life by the sword. She rarely shows interest in other more trifling matters unless she feels her personal code has been violated. If that ever happens, you better watch out. Willing to take on any job for money, no matter how dirty, Sturm meets her clients expectations exactly, making her something of a famous mercenary in less scrupulous circles. Accompanied by Drang, Sturm currently works for the empire.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95762,
+          "name": {
+            "full": "Kanae Itou",
+            "native": "伊藤かな恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95762-qhWmwni3TT6Y.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 186381,
+        "name": {
+          "full": "Soriz",
+          "native": "ソリッズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b186381-8nydJ16ZUsez.jpg"
+        },
+        "description": "__Height:__ 178 cm\n__Race:__ Human\n\nOnce the owner of a weapons shop that served mercenaries and other wagers of war, Soriz is currently on a journey to transform himself into the ultimate weapon. Wherever he goes, he makes sure to demand the younger generation get into weight training. He never shirks his training, treating the art of combat with stoic firmness, even going so far as to develop his own fighting style out of the various martial arts he has studied over the years.Soriz won countless martial arts tournaments when he was younger, but he now seeks to achieve even greater heights and surpass his physical limits through constant training, day in and day out.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95113,
+          "name": {
+            "full": "Rikiya Koyama",
+            "native": "小山力也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 302587,
+        "name": {
+          "full": "Karva",
+          "native": "カルバ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b302587-fHHpFapxIphq.jpg"
+        },
+        "description": "__Race:__ Draph \n\nA treasure hunter and ruin explorer.",
+        "gender": "Female",
+        "age": "18"
+      },
+      "voiceActors": [
+        {
+          "id": 118918,
+          "name": {
+            "full": "Juri Kimura",
+            "native": "木村珠莉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118918-Uz7Ep42wQFmQ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 214823,
+        "name": {
+          "full": "Aaron",
+          "native": "アーロン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b214823-Vah6Uvhz5U3R.png"
+        },
+        "description": "A young boy who lives in Zinkenstill. There aren't that many children of the same age on the island. so it's little wonder that he and the main character became fast friends. He has no interest in the outside world, preferring the tranquility of nature on the island. He was never comfortable with the main character leaving on their journey, and he's been worried ever since. He and Vyrn share a love for apples.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119617,
+          "name": {
+            "full": "Yuuma Uchida",
+            "native": "内田雄馬"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 404972,
+        "name": {
+          "full": "Charlotta Fenia",
+          "native": "シャロッテ",
+          "alternative": [
+            "Captain of the Holy Knights."
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b404972-PXjCsDsxSMbp.png"
+        },
+        "description": "__Height:__ 90 cm\n__Race:__ Harvin\n\nCharlotta is a Harvin and the beloved captain of the Lumiel Order of Holy Knights. Her sword, a weapon that cleaves evil in twain, is equal to her in both size and power. Generous when it comes to the faults of others, she is exceedingly hard on herself, believing fate cut her from literally too short a cloth. ",
+        "gender": "Female",
+        "age": "24"
+      },
+      "voiceActors": [
+        {
+          "id": 95078,
+          "name": {
+            "full": "Kaori Nazuka",
+            "native": "名塚佳織"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

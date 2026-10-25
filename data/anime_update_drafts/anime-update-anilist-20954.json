@@ -1,0 +1,508 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-04T05:04:13.894Z",
+  "mode": "source-snapshot",
+  "instructions": "AniList source snapshot; curate manually before write.",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 20954,
+      "anime_title": "声之形",
+      "anime_origin": "JP",
+      "source": {
+        "id": 20954,
+        "titles": [
+          "Koe no Katachi",
+          "A Silent Voice",
+          "聲の形"
+        ],
+        "year": 2016,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/20954"
+      },
+      "characters": [
+        {
+          "id": 80243,
+          "name": "Shouko Nishimiya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80243-RzxE51iUU5eq.png",
+          "description": "A young, deaf transfer student with an amazingly positive outlook on life. Despite being a victim of continuous bullying, she always keeps a smile on her face.",
+          "nicknames": [
+            "Shouko Nishimiya",
+            "西宮硝子",
+            "Shoko",
+            "Shou",
+            "Sho",
+            "Sho-chan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "早見沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shouko Nishimiya",
+            "name_native": "西宮硝子",
+            "name_alternative": [
+              "Shoko",
+              "Shou",
+              "Sho",
+              "Sho-chan"
+            ],
+            "description": "A young, deaf transfer student with an amazingly positive outlook on life. Despite being a victim of continuous bullying, she always keeps a smile on her face."
+          }
+        },
+        {
+          "id": 80491,
+          "name": "Shouya Ishida",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80491-NK6pxb6oH61P.png",
+          "description": "__Height:__ 183 cm\n\nThe main character and narrator. Ishida bullied [Nishimiya Shouko](https://anilist.co/character/80243) in elementary school and when she transferred away, he was ostracized and bullied by his former friends. He started to ignore those around him (imagining them with a large X across their face) and was driven to the point of suicide. He changed his mind after he apologized to Nishimiya and began to spend time with her. He learned sign language specifically so he could apologize to her and is shown to be very talented in it. He feels like he hasn't been punished enough for bullying Nishimiya and often wishes he could kill his younger self. He seems resigned to the fact that he will never be able to have friends again.",
+          "nicknames": [
+            "Shouya Ishida",
+            "石田将也",
+            "Shou",
+            "Yashou",
+            "Sho-Chan",
+            "Cho-ya"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "入野自由",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png",
+              "language": "日语"
+            },
+            {
+              "name": "松岡茉優",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n133096-8ozXCJJAaGm1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shouya Ishida",
+            "name_native": "石田将也",
+            "name_alternative": [
+              "Shou",
+              "Yashou",
+              "Sho-Chan",
+              "Cho-ya"
+            ],
+            "description": "__Height:__ 183 cm\n\nThe main character and narrator. Ishida bullied [Nishimiya Shouko](https://anilist.co/character/80243) in elementary school and when she transferred away, he was ostracized and bullied by his former friends. He started to ignore those around him (imagining them with a large X across their face) and was driven to the point of suicide. He changed his mind after he apologized to Nishimiya and began to spend time with her. He learned sign language specifically so he could apologize to her and is shown to be very talented in it. He feels like he hasn't been punished enough for bullying Nishimiya and often wishes he could kill his younger self. He seems resigned to the fact that he will never be able to have friends again."
+          }
+        },
+        {
+          "id": 89335,
+          "name": "Yuzuru Nishimiya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89335-3fy5a7Qa9h9J.jpg",
+          "description": "[Shouko](https://anilist.co/character/80243/Nishimiya-Shouko)'s younger sister who is currently a middle school student. She cut her hair short so their [mother](https://anilist.co/character/124037/Nishimiya-Yaeko) would not cut Shouko's and has kept it that way ever since; due to this, she is often mistaken for a boy, with [Ishida](https://anilist.co/character/80491/Ishida-Shouya) even thinking that she is Shouko's boyfriend at first.",
+          "nicknames": [
+            "Yuzuru Nishimiya",
+            "西宮結絃"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "悠木碧",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuzuru Nishimiya",
+            "name_native": "西宮結絃",
+            "name_alternative": [],
+            "description": "[Shouko](https://anilist.co/character/80243/Nishimiya-Shouko)'s younger sister who is currently a middle school student. She cut her hair short so their [mother](https://anilist.co/character/124037/Nishimiya-Yaeko) would not cut Shouko's and has kept it that way ever since; due to this, she is often mistaken for a boy, with [Ishida](https://anilist.co/character/80491/Ishida-Shouya) even thinking that she is Shouko's boyfriend at first."
+          }
+        },
+        {
+          "id": 124026,
+          "name": "Naoka Ueno",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124026-KcQmX7heg7im.jpg",
+          "description": "A girl from [Ishida](https://anilist.co/character/80491/Ishida-Shouya) and [Nishimiya](https://anilist.co/character/80243/Nishimiya-Shouko)'s elementary school and the girl that Ishida was closest to at school. Ishida remembers her bossing him about and also being his main helper in bullying Nishimiya. After having separated from him since middle school graduation, Ueno runs into Ishida years later, herself now working in a cat café.",
+          "nicknames": [
+            "Naoka Ueno",
+            "植野直花"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "金子有希",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114854-H8ZFBXBhvjym.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Naoka Ueno",
+            "name_native": "植野直花",
+            "name_alternative": [],
+            "description": "A girl from [Ishida](https://anilist.co/character/80491/Ishida-Shouya) and [Nishimiya](https://anilist.co/character/80243/Nishimiya-Shouko)'s elementary school and the girl that Ishida was closest to at school. Ishida remembers her bossing him about and also being his main helper in bullying Nishimiya. After having separated from him since middle school graduation, Ueno runs into Ishida years later, herself now working in a cat café."
+          }
+        },
+        {
+          "id": 124030,
+          "name": "Miyako Ishida",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124030-YoZ0Drg5cHXX.jpg",
+          "description": "A kind and loving single mother of Shouya and his older sister who owns a hair salon. She cares for her granddaughter Maria as well as Ishida and often lets Yuzuru stay around the house. She became disappointed upon learning that Ishida bullied Nishimiya and had to pay 1.7 million yen for all the hearing aids Ishida broke.\n\n~!When Ishida pays her back with the intention of killing himself afterwards, she reveals that she had been aware of his plans and threatens to burn the money if he tries to kill himself again—leaving her with nothing. Unfortunately, she accidentally burns the money anyway.\n\nAfter Ishida ends up in a coma, she becomes awkward around Nishimiya, despite trying to remain polite.!~",
+          "nicknames": [
+            "Miyako Ishida",
+            "石田美也子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "ゆきのさつき",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95003-Du7wb5JJzb8P.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miyako Ishida",
+            "name_native": "石田美也子",
+            "name_alternative": [],
+            "description": "A kind and loving single mother of Shouya and his older sister who owns a hair salon. She cares for her granddaughter Maria as well as Ishida and often lets Yuzuru stay around the house. She became disappointed upon learning that Ishida bullied Nishimiya and had to pay 1.7 million yen for all the hearing aids Ishida broke.\n\n~!When Ishida pays her back with the intention of killing himself afterwards, she reveals that she had been aware of his plans and threatens to burn the money if he tries to kill himself again—leaving her with nothing. Unfortunately, she accidentally burns the money anyway.\n\nAfter Ishida ends up in a coma, she becomes awkward around Nishimiya, despite trying to remain polite.!~"
+          }
+        },
+        {
+          "id": 124031,
+          "name": "Maria Ishida",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124031-ErVGKjxFH56V.jpg",
+          "description": "[Ishida](https://anilist.co/character/80491/Ishida-Shouya)'s young niece who lives with Ishida and his family. Maria is half-Japanese from her mother's side and half-Brazilian from her father's side.\n\n~!She gains a constant wonder about the difference between things that are dead and alive after Ishida's fall and fearing he might be dead, Yuzuru takes it upon herself to teach her the difference—being an expert on the matter.!~",
+          "nicknames": [
+            "Maria Ishida",
+            "石田マリア"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鎌田英怜奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/124032-qsEy6ekPVuS4.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Maria Ishida",
+            "name_native": "石田マリア",
+            "name_alternative": [],
+            "description": "[Ishida](https://anilist.co/character/80491/Ishida-Shouya)'s young niece who lives with Ishida and his family. Maria is half-Japanese from her mother's side and half-Brazilian from her father's side.\n\n~!She gains a constant wonder about the difference between things that are dead and alive after Ishida's fall and fearing he might be dead, Yuzuru takes it upon herself to teach her the difference—being an expert on the matter.!~"
+          }
+        },
+        {
+          "id": 124033,
+          "name": "Miki Kawai",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124033-UThOFdQGZjq7.jpg",
+          "description": "Nicknamed \"Kawaiichi,\" Kawai was the school representative at Ishida's elementary school. She is popular and normally takes charge of situations and is shown to be kind to everyone; however, all her actions seem to have her academic reputation in mind. Kawai is also a narcissist who believes that everyone should love her, as well as wants to be the victim in every problem she faces.\n\n~!Though she never actually insulted Nishimiya, Kawai did nothing to intervene and even laughed alongside her friends, making her also responsible for Nishimiya's transfer. Kawai's accusation of Ishida being a bully is a catalyst to his isolation among his classmates. Kawai becomes Ishida's classmate again in high school and takes part in Nagatsuka's film shooting, bringing Mashiba, whom she has a crush on, in tow. It is revealed that Kawai has always been scared of Ishida and accuses him of not wanting to face the truth, again a catalyst to his falling out with his film crew. Later, when she tells the class that they will make paper cranes as a wish of recovery for Ishida, who is hospitalized after saving Nishimiya, her classmates are disgusted and secretly bully her. Having to experience the feeling of getting bullied for the first time, Kawai resolves to become more empathetic with others. At the end of the series, Kawai presents Ishida with the paper cranes made by their classmates and follows Mashiba to study to become a teacher.!~",
+          "nicknames": [
+            "Miki Kawai",
+            "川井みき",
+            "Kawaiichi"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "潘めぐみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miki Kawai",
+            "name_native": "川井みき",
+            "name_alternative": [
+              "Kawaiichi"
+            ],
+            "description": "Nicknamed \"Kawaiichi,\" Kawai was the school representative at Ishida's elementary school. She is popular and normally takes charge of situations and is shown to be kind to everyone; however, all her actions seem to have her academic reputation in mind. Kawai is also a narcissist who believes that everyone should love her, as well as wants to be the victim in every problem she faces.\n\n~!Though she never actually insulted Nishimiya, Kawai did nothing to intervene and even laughed alongside her friends, making her also responsible for Nishimiya's transfer. Kawai's accusation of Ishida being a bully is a catalyst to his isolation among his classmates. Kawai becomes Ishida's classmate again in high school and takes part in Nagatsuka's film shooting, bringing Mashiba, whom she has a crush on, in tow. It is revealed that Kawai has always been scared of Ishida and accuses him of not wanting to face the truth, again a catalyst to his falling out with his film crew. Later, when she tells the class that they will make paper cranes as a wish of recovery for Ishida, who is hospitalized after saving Nishimiya, her classmates are disgusted and secretly bully her. Having to experience the feeling of getting bullied for the first time, Kawai resolves to become more empathetic with others. At the end of the series, Kawai presents Ishida with the paper cranes made by their classmates and follows Mashiba to study to become a teacher.!~"
+          }
+        },
+        {
+          "id": 124034,
+          "name": "Satoshi Mashiba",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124034-94AX4zhTaQZB.jpg",
+          "description": "A boy who becomes interested in and joins Ishida's group of friends upon learning they are making a movie. He is eager to be the leading actor and is considered handsome and talented enough to do so. Mashiba was lonely as a child and the other children took him for granted and bullied him, now he is completely intolerant of bullies in any form, and while generally calm and level-headed, he reacts violently to any random act of bullying he sees.\n\n~!He is oblivious to Kawai's crush on him until Ishida points it out. It is later revealed that Mashiba befriends Ishida because of his social awkwardness and never being able to fit in at school despite trying to; by hanging out with Ishida—believing him to be even stranger than he is—he would appear normal. However, this only makes him feel that he should be the least important in the group. Thus, when Ishida asks Mashiba to hit him after the former reveals his bullying records, he calmly does so. Mashiba is the first to reconcile with Ishida upon his release from the hospital and later studies to become a teacher after graduation.!~",
+          "nicknames": [
+            "Satoshi Mashiba",
+            "真柴智"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "豊永利行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95600-giNVqkdeWKuF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Satoshi Mashiba",
+            "name_native": "真柴智",
+            "name_alternative": [],
+            "description": "A boy who becomes interested in and joins Ishida's group of friends upon learning they are making a movie. He is eager to be the leading actor and is considered handsome and talented enough to do so. Mashiba was lonely as a child and the other children took him for granted and bullied him, now he is completely intolerant of bullies in any form, and while generally calm and level-headed, he reacts violently to any random act of bullying he sees.\n\n~!He is oblivious to Kawai's crush on him until Ishida points it out. It is later revealed that Mashiba befriends Ishida because of his social awkwardness and never being able to fit in at school despite trying to; by hanging out with Ishida—believing him to be even stranger than he is—he would appear normal. However, this only makes him feel that he should be the least important in the group. Thus, when Ishida asks Mashiba to hit him after the former reveals his bullying records, he calmly does so. Mashiba is the first to reconcile with Ishida upon his release from the hospital and later studies to become a teacher after graduation.!~"
+          }
+        },
+        {
+          "id": 124035,
+          "name": "Tomohiro Nagatsuka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124035-Il86uF1hboRA.jpg",
+          "description": "A short, fat, and lonely boy who is a habitual liar. When someone tries to steal Nagatsuka's bike, Ishida offers his to be taken instead. Nagatsuka sees this act of kindness as an unbreakable act of friendship and swiftly becomes Ishida's self-proclaimed best friend and starts to idolize Ishida. He is shown to be quite obsessive and protective of Ishida and often dislikes him befriending other people. However, Nagatsuka is also supportive of Ishida and often offers advice. He has plans to become a millionaire, so is willing to hand out money to friends and is keen to become a film director—entering himself and Ishida into a film competition. It is shown both Ueno and Kawai find Nagatsuka repulsive, while Ishida is uncomfortable that Nagatsuka is so willing to take his side when he knows so little about him. Though his film proves to be a failure, this only made Nagatsuka resolved to take up film studies as his college subject.",
+          "nicknames": [
+            "Tomohiro Nagatsuka",
+            "永束友宏"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小野賢章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95819-O4fosAY0a1Ml.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tomohiro Nagatsuka",
+            "name_native": "永束友宏",
+            "name_alternative": [],
+            "description": "A short, fat, and lonely boy who is a habitual liar. When someone tries to steal Nagatsuka's bike, Ishida offers his to be taken instead. Nagatsuka sees this act of kindness as an unbreakable act of friendship and swiftly becomes Ishida's self-proclaimed best friend and starts to idolize Ishida. He is shown to be quite obsessive and protective of Ishida and often dislikes him befriending other people. However, Nagatsuka is also supportive of Ishida and often offers advice. He has plans to become a millionaire, so is willing to hand out money to friends and is keen to become a film director—entering himself and Ishida into a film competition. It is shown both Ueno and Kawai find Nagatsuka repulsive, while Ishida is uncomfortable that Nagatsuka is so willing to take his side when he knows so little about him. Though his film proves to be a failure, this only made Nagatsuka resolved to take up film studies as his college subject."
+          }
+        },
+        {
+          "id": 124036,
+          "name": "Ito Nishimiya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124036-smBYAumpnds2.jpg",
+          "description": "Shouko and Yuzuru's maternal grandmother. A caring, wise woman, she cared for Nishimiya and Yuzuru when their father left and their mother was at work. She bought Yuzuru her first camera and tries to convince Yuzuru that her mother means well for both her and her sister.\n\n~!Ito dies of old age and leaves a letter that Yuzuru asks Ishida to read at the funeral. The letter tries one last time to convince Yuzuru to forgive her mother, but she grows angry and does not hear the end of it.!~",
+          "nicknames": [
+            "Ito Nishimiya",
+            "西宮いと"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "谷育子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5907.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ito Nishimiya",
+            "name_native": "西宮いと",
+            "name_alternative": [],
+            "description": "Shouko and Yuzuru's maternal grandmother. A caring, wise woman, she cared for Nishimiya and Yuzuru when their father left and their mother was at work. She bought Yuzuru her first camera and tries to convince Yuzuru that her mother means well for both her and her sister.\n\n~!Ito dies of old age and leaves a letter that Yuzuru asks Ishida to read at the funeral. The letter tries one last time to convince Yuzuru to forgive her mother, but she grows angry and does not hear the end of it.!~"
+          }
+        },
+        {
+          "id": 124037,
+          "name": "Yaeko Nishimiya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124037-3KFDLRIT66Bn.jpg",
+          "description": "A cold woman, who after catching a virus from her husband during pregnancy, left Shouko deaf. Yaeko's husband's family quickly filed for a divorce. When her husband left, she was pregnant with Yuzuru and her mother helped her raise both her daughters. \n~!Eventually, she left her mother to care for the children permanently while she works—causing problems in her relationship with Yuzuru—not helped by the fact Yuzuru frequently skips school to take photos of dead animals. She made Shouko stay at the elementary school where she was bullied for so long in the hopes it would toughen her up and prepare her for how people would treat her. She planned to cut Shouko's hair like a boy to make her look tougher, but Yuzuru cut her own hair instead in protest. She hates Shouya and feels he can never atone for the happy school years he stole from her daughter. Upon seeing him again years after he left school, she slaps him; however, after her mother's death, she begins to warm up to Ishida and thanks him for being Yuzuru's friend.!~",
+          "nicknames": [
+            "Yaeko Nishimiya",
+            "西宮八重子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "平松晶子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95066-oCD0liGFKqlH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yaeko Nishimiya",
+            "name_native": "西宮八重子",
+            "name_alternative": [],
+            "description": "A cold woman, who after catching a virus from her husband during pregnancy, left Shouko deaf. Yaeko's husband's family quickly filed for a divorce. When her husband left, she was pregnant with Yuzuru and her mother helped her raise both her daughters. \n~!Eventually, she left her mother to care for the children permanently while she works—causing problems in her relationship with Yuzuru—not helped by the fact Yuzuru frequently skips school to take photos of dead animals. She made Shouko stay at the elementary school where she was bullied for so long in the hopes it would toughen her up and prepare her for how people would treat her. She planned to cut Shouko's hair like a boy to make her look tougher, but Yuzuru cut her own hair instead in protest. She hates Shouya and feels he can never atone for the happy school years he stole from her daughter. Upon seeing him again years after he left school, she slaps him; however, after her mother's death, she begins to warm up to Ishida and thanks him for being Yuzuru's friend.!~"
+          }
+        },
+        {
+          "id": 124038,
+          "name": "Miyoko Sahara",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124038-tmsS0TUxwx87.jpg",
+          "description": "A kind girl from Ishida and Nishimiya's elementary school. She was the only person willing to make an effort to learn sign language and befriend Nishimiya.\n\n~!Sadly, this singled her out for bullying too, and started to take all her classes in the nurse's office. Ishida finds Sahara several years later so she can reconnect with Nishimiya, and she becomes her friend again. She was always and is still bullied by Ueno for her unorthodox sense of fashion, however, the two remain close even after they separated and Sahara boldly claims they are now best friends. Sahara has grown very tall during the time-skip and due to her high heel boots appears even taller. After Ishida, Sahara spends the most time with the Nishimiya family; however, their relationship is briefly strained when Ishida decides to cut off all ties with his friends by insulting them, claiming that Sahara is always the first to run away from a problem. Sahara later texts Ishida asking how he could prove that he has grown up; this motivates him to risk his life-saving Nishimiya during her attempted suicide. Fed up with Ueno always blaming Nishimiya for everything, she chooses to take Nishimiya's side and defends her from being attacked by Ueno during Ishida's hospitalization. After graduating from high school, Sahara goes to Tokyo to become a runway model, bringing an unwilling Ueno with her.!~",
+          "nicknames": [
+            "Miyoko Sahara",
+            "佐原みよこ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石川由依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100142-k6RP0HzXffUG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miyoko Sahara",
+            "name_native": "佐原みよこ",
+            "name_alternative": [],
+            "description": "A kind girl from Ishida and Nishimiya's elementary school. She was the only person willing to make an effort to learn sign language and befriend Nishimiya.\n\n~!Sadly, this singled her out for bullying too, and started to take all her classes in the nurse's office. Ishida finds Sahara several years later so she can reconnect with Nishimiya, and she becomes her friend again. She was always and is still bullied by Ueno for her unorthodox sense of fashion, however, the two remain close even after they separated and Sahara boldly claims they are now best friends. Sahara has grown very tall during the time-skip and due to her high heel boots appears even taller. After Ishida, Sahara spends the most time with the Nishimiya family; however, their relationship is briefly strained when Ishida decides to cut off all ties with his friends by insulting them, claiming that Sahara is always the first to run away from a problem. Sahara later texts Ishida asking how he could prove that he has grown up; this motivates him to risk his life-saving Nishimiya during her attempted suicide. Fed up with Ueno always blaming Nishimiya for everything, she chooses to take Nishimiya's side and defends her from being attacked by Ueno during Ishida's hospitalization. After graduating from high school, Sahara goes to Tokyo to become a runway model, bringing an unwilling Ueno with her.!~"
+          }
+        },
+        {
+          "id": 124039,
+          "name": "Kazuki Shimada",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124039-gbt1fKyZRdBp.jpg",
+          "description": "Ishida's best friend in elementary school. He helped him bully Nishimiya.\n\n~!When Nishimiya moved away, Shimada placed all the blame on Ishida and soon became the ringleader of the people bullying Ishida: frequently stealing his shoes, beating him up, and writing threats and cruel things on his desk in chalk every morning. Ueno wants Ishida and Shimada to be friends again and gets Ishida to the amusement park where Shimada is now working, but Ishida storms away, deciding he does not care about Shimada and does not want to be his friend again. It is revealed that when Ishida falls while saving Nishimiya, Shimada sees him and saves him from the river; however, Ishida never learns this because he is unconscious at that time and Shimada asks Nishimiya, who witnesses the event, not to tell him about it.!~",
+          "nicknames": [
+            "Kazuki Shimada",
+            "島田一旗"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "西谷亮",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135546-Vik7ihMbynaa.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "小島幸子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95276-uj7NdE0RLmEU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kazuki Shimada",
+            "name_native": "島田一旗",
+            "name_alternative": [],
+            "description": "Ishida's best friend in elementary school. He helped him bully Nishimiya.\n\n~!When Nishimiya moved away, Shimada placed all the blame on Ishida and soon became the ringleader of the people bullying Ishida: frequently stealing his shoes, beating him up, and writing threats and cruel things on his desk in chalk every morning. Ueno wants Ishida and Shimada to be friends again and gets Ishida to the amusement park where Shimada is now working, but Ishida storms away, deciding he does not care about Shimada and does not want to be his friend again. It is revealed that when Ishida falls while saving Nishimiya, Shimada sees him and saves him from the river; however, Ishida never learns this because he is unconscious at that time and Shimada asks Nishimiya, who witnesses the event, not to tell him about it.!~"
+          }
+        },
+        {
+          "id": 135851,
+          "name": "Takeuchi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135851-7gmFc8ZB594q.jpg",
+          "description": "Takeuchi-sensei was the homeroom teacher of Shouya, Shouko, Naoka, Shimada, Hirose, Miki, and Miyoko during their 6th-grade year.\n\n~!While he was disappointed in Ishida for bullying Nishimiya, he still laughed at the jokes made about her, and once Nishimiya left, he prompted the class to turn Ishida into a scapegoat for all their bullying. He refused to believe Ishida when he claimed he was being bullied too. Years later, Ishida runs into Takeuchi again when looking for locations for the film. Takeuchi says that Ishida has grown into a fine young man and all the bad things in his past have changed Ishida for the better. Mashiba dislikes how Takeuchi talks about Nishimiya and throws his drink into Takeuchi's face, costing them the chance to film at the school, though with Ishida's later hospitalization and Mashiba's apology to him, Takeuchi allows them to shoot anyway.!~",
+          "nicknames": [
+            "Takeuchi",
+            "竹内"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小松史法",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/12524.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takeuchi",
+            "name_native": "竹内",
+            "name_alternative": [],
+            "description": "Takeuchi-sensei was the homeroom teacher of Shouya, Shouko, Naoka, Shimada, Hirose, Miki, and Miyoko during their 6th-grade year.\n\n~!While he was disappointed in Ishida for bullying Nishimiya, he still laughed at the jokes made about her, and once Nishimiya left, he prompted the class to turn Ishida into a scapegoat for all their bullying. He refused to believe Ishida when he claimed he was being bullied too. Years later, Ishida runs into Takeuchi again when looking for locations for the film. Takeuchi says that Ishida has grown into a fine young man and all the bad things in his past have changed Ishida for the better. Mashiba dislikes how Takeuchi talks about Nishimiya and throws his drink into Takeuchi's face, costing them the chance to film at the school, though with Ishida's later hospitalization and Mashiba's apology to him, Takeuchi allows them to shoot anyway.!~"
+          }
+        },
+        {
+          "id": 135852,
+          "name": "Pedro",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135852-mW3w0bGh7DFI.jpg",
+          "description": "Maria's Brazilian father.",
+          "nicknames": [
+            "Pedro",
+            "ペドロ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "綿貫竜之介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131578-XYDFui7Rf7M1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pedro",
+            "name_native": "ペドロ",
+            "name_alternative": [],
+            "description": "Maria's Brazilian father."
+          }
+        },
+        {
+          "id": 135853,
+          "name": "Kita",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135853-86mTC0Tva8r3.png",
+          "description": "Ishida's music teacher in elementary school. As Sahara was among the students, Kita was the only one among the teachers who was willing to get along with Nishimiya despite her deafness. She attempted to make the class learn sign language for Nishimiya's sake, but her proposal was rejected because she herself did not know about it. Later, Kita also included Nishimiya to take part in the school choir, but despite trying hard to teach her, Nishimiya ended up ruining the song and made the school lose the choir competition.",
+          "nicknames": [
+            "Kita",
+            "喜多"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kita",
+            "name_native": "喜多",
+            "name_alternative": [],
+            "description": "Ishida's music teacher in elementary school. As Sahara was among the students, Kita was the only one among the teachers who was willing to get along with Nishimiya despite her deafness. She attempted to make the class learn sign language for Nishimiya's sake, but her proposal was rejected because she herself did not know about it. Later, Kita also included Nishimiya to take part in the school choir, but despite trying hard to teach her, Nishimiya ended up ruining the song and made the school lose the choir competition."
+          }
+        },
+        {
+          "id": 135854,
+          "name": "Keisuke Hirose",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135854-UpPOO4l7YdUG.png",
+          "description": "Keisuke was Shouya Ishida's friend in elementary school. Although he did bully Shouko Nishimiya, he wasn't a huge participant and usually seemed uncomfortable picking on her. However, he was more than happy bullying Shouya later on.\n\n~!Keisuke stayed close with Kazuki after graduation and along with him brings Shouya from the river after he falls down after saving Shouko.!~",
+          "nicknames": [
+            "Keisuke Hirose",
+            "広瀬啓祐"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "武田華",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95587-LQv7Cj8rOueO.png",
+              "language": "日语"
+            },
+            {
+              "name": "増元拓也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117423-bZLtUwNxXOE9.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Keisuke Hirose",
+            "name_native": "広瀬啓祐",
+            "name_alternative": [],
+            "description": "Keisuke was Shouya Ishida's friend in elementary school. Although he did bully Shouko Nishimiya, he wasn't a huge participant and usually seemed uncomfortable picking on her. However, he was more than happy bullying Shouya later on.\n\n~!Keisuke stayed close with Kazuki after graduation and along with him brings Shouya from the river after he falls down after saving Shouko.!~"
+          }
+        },
+        {
+          "id": 135856,
+          "name": "Ishida no Ane",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135856-56gnTN6auHEy.jpg",
+          "description": "Ishida's older sister. She is significantly older than him as she already graduated from college when he was still in elementary school. Curiously, she is the only character with lines whose face is never seen. According to Shouya, his sister had dated numerous men, one of whom has a younger brother who was bullied by Shouya. Later, she dated a Brazilian man named Pedro; this time, her relationship stuck, and she had a daughter, Maria, with him.",
+          "nicknames": [
+            "Ishida no Ane",
+            "将也の姉"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "濱口綾乃",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135857-Qp79ZiYPsSlz.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Ishida no Ane",
+            "name_native": "将也の姉",
+            "name_alternative": [],
+            "description": "Ishida's older sister. She is significantly older than him as she already graduated from college when he was still in elementary school. Curiously, she is the only character with lines whose face is never seen. According to Shouya, his sister had dated numerous men, one of whom has a younger brother who was bullied by Shouya. Later, she dated a Brazilian man named Pedro; this time, her relationship stuck, and she had a daughter, Maria, with him."
+          }
+        }
+      ]
+    }
+  ]
+}

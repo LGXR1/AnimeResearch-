@@ -1,0 +1,2385 @@
+{
+  "fetchedAt": "2026-10-09T09:24:33.662Z",
+  "id": 120377,
+  "title": {
+    "romaji": "Cyberpunk: Edgerunners",
+    "english": "Cyberpunk: Edgerunners",
+    "native": "サイバーパンク エッジランナーズ"
+  },
+  "synonyms": [
+    "Cyberpunk: Mercenários",
+    "電馭叛客：邊緣行者",
+    "CYBERPUNK: อาชญากรแดนเถื่อน",
+    "Киберпанк: Бегущие по краю"
+  ],
+  "format": "ONA",
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Drama",
+    "Psychological",
+    "Sci-Fi"
+  ],
+  "description": "<i>Cyberpunk: Edgerunners</i> tells a standalone, 10-episode story about a street kid trying to survive in a technology and body modification-obsessed city of the future. Having everything to lose, he chooses to stay alive by becoming an edgerunner—a mercenary outlaw also known as a cyberpunk.<br>\n<br>\n(Source: CD PROJEKT RED)<br>\n<br>\n<i>Note: The first episode received a pre-screening at Anime Expo on July 2, 2022. The first 3 dubbed episodes were streamed on Twitch as part of a co-stream promotion on September 12, a day before the show’s premiere.</i>",
+  "siteUrl": "https://anilist.co/anime/120377",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 284157,
+        "name": {
+          "full": "Lucy",
+          "native": "ルーシー",
+          "alternative": [
+            "Lucyna Kushinada"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284157-cqYawN7XCNJx.jpg"
+        },
+        "description": "Lucy is a mysterious netrunner from Night City. She is quite introverted and doesn't like to talk much about her past. Although she looks innocent, she won't hesitate to kill a person in a heartbeat if they tick her off. Lucy also considers Night City a prison and dreams of one day leaving it for the moon.\n\nLucy is a part of [Maine](https://anilist.co/character/284159)'s crew of edgerunners. One of its members, a netrunner named [Kiwi](https://anilist.co/character/284161), is her mentor. She also becomes acquainted with [David](https://anilist.co/character/284158) and takes him on a tour through Night City's criminal underworld, leading the two of them to become partners in Maine's crew.\n\n~!She is Half Polish and Half Japanese!~\n",
+        "gender": "Female",
+        "age": "~20"
+      },
+      "voiceActors": [
+        {
+          "id": 101686,
+          "name": {
+            "full": "Aoi Yuuki",
+            "native": "悠木碧"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 284158,
+        "name": {
+          "full": "David Martinez",
+          "native": "デイビッド・マルティネズ",
+          "alternative": [
+            "D",
+            "Davey"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284158-z1uGKC3IYVa1.png"
+        },
+        "description": "David is a street kid from Arroyo, Santo Domingo in Night City, who is enrolled into Arasaka's educational system at Arasaka Academy. He lives with his mother Gloria in an apartment of Megabuilding H4.\n\nAfter experiencing a personal tragedy, David has the powerful Sandevistan speedware installed in his body and becomes one of Night City's edgerunners. He also becomes acquainted with [Lucy](https://anilist.co/character/284157/Lucy), who leads him into the city's criminal underworld, and chooses to join the gang of edgerunners she is a part of, led by [Maine](https://anilist.co/character/284159/Maine).",
+        "gender": "Male",
+        "age": "17-18"
+      },
+      "voiceActors": [
+        {
+          "id": 95857,
+          "name": {
+            "full": "KENN",
+            "native": "KENN"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95857-oHOhHwEDyAlL.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 284159,
+        "name": {
+          "full": "Maine",
+          "native": "メイン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284159-RvuKShSpDOS5.png"
+        },
+        "description": "Maine used to be a military soldier before he became a mercenary. Now a veteran edgerunner in Night City, Maine dreams of \"making it big\", although he values his friendships with his crew more than his own glory.",
+        "gender": "Male",
+        "age": "30s"
+      },
+      "voiceActors": [
+        {
+          "id": 95236,
+          "name": {
+            "full": "Hiroki Touchi",
+            "native": "東地宏樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95236-nlMo4dnjdT8p.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 284160,
+        "name": {
+          "full": "Dorio",
+          "native": "ドリオ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284160-pfwyNhxrsZOP.png"
+        },
+        "description": "Dorio is a veteran edgerunner and Maine's right-hand. She's jacked and strong, but despite her tough exterior, Dorio has a soft side that she only shows to the people she trusts.",
+        "gender": "Female",
+        "age": "30s"
+      },
+      "voiceActors": [
+        {
+          "id": 117455,
+          "name": {
+            "full": "Michiko Kaiden",
+            "native": "鷄冠井美智子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/22455.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 284161,
+        "name": {
+          "full": "Kiwi",
+          "native": "キーウィ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284161-QlVuoXKKONLM.jpg"
+        },
+        "description": "A member of Maine's crew of mercenaries, Kiwi is an enigmatic and snarky netrunner with a detachable cybernetic jaw. She also acts as a mentor to Lucy.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95041,
+          "name": {
+            "full": "Takako Honda",
+            "native": "本田貴子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/41.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 284162,
+        "name": {
+          "full": "Pilar",
+          "native": "ピラル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284162-KnRpkNpdbqx8.png"
+        },
+        "description": "Pilar is an edgerunner of Night City, known to be a comical and crude techie who loves to show off. He and his sister, [Rebecca](https://anilist.co/character/284163/Rebecca), often team up with [Maine](https://anilist.co/character/284159/Maine) and his crew to conduct mercenary jobs.",
+        "gender": "Male",
+        "age": "30s"
+      },
+      "voiceActors": [
+        {
+          "id": 95133,
+          "name": {
+            "full": "Wataru Takagi",
+            "native": "高木渉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95133-cqDtu078voZ1.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 284163,
+        "name": {
+          "full": "Rebecca",
+          "native": "レベッカ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284163-tt8smoAXl24x.jpg"
+        },
+        "description": "Rebecca is an edgerunner of Night City, and is described as a short, spunky, trigger-happy solo who is always fighting with her brother [Pilar](https://anilist.co/character/284162/Pilar). The two siblings often team up with [Maine](https://anilist.co/character/284159/Maine) and his crew to conduct mercenary jobs.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106661,
+          "name": {
+            "full": "Tomoyo Kurosawa",
+            "native": "黒沢ともよ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106661-xn3K6nAx2ijO.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 284164,
+        "name": {
+          "full": "Ripperdoc",
+          "native": "リパードク",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284164-U9A3c65rl1il.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95591,
+          "name": {
+            "full": "Kenjirou Tsuda",
+            "native": "津田健次郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 284165,
+        "name": {
+          "full": "Faraday",
+          "native": "ファラデー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284165-sQpdUhtcWquN.jpg"
+        },
+        "description": "Faraday is a ruthless fixer with ties to Militech and a distinctive optic cyberware that gives him four eyes. He is based in Santo Domingo and often employs Maine to conduct jobs.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95021,
+          "name": {
+            "full": "Kazuhiko Inoue",
+            "native": "井上和彦"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95021-9qAoAn6GNZ3S.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 284166,
+        "name": {
+          "full": "Gloria Martinez",
+          "native": "グロリア・マルティネズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b284166-nB27pcRfIxvj.png"
+        },
+        "description": "Both Gloria and her son David live in an apartment of Megabuilding H4 in Santo Domingo, Night City. She is an emergency medical technician (EMT).",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102001,
+          "name": {
+            "full": "Yurika Hino",
+            "native": "日野由利加"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102001-T8ryqiXT5Na8.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287410,
+        "name": {
+          "full": "Katsuo Tanaka",
+          "native": "カツオ・タナカ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287410-D2qGjLD3wPp0.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 115156,
+          "name": {
+            "full": "Kaito Ishikawa",
+            "native": "石川界人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287420,
+        "name": {
+          "full": "Falco",
+          "native": "ファルコ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287420-AzHYB6Sjt2Vj.jpg"
+        },
+        "description": "Falco is a Nomad wheelman, and part of Maine's edgerunner crew.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95801,
+          "name": {
+            "full": "Yasuyuki Kase",
+            "native": "加瀬康之"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95801-Jno6Y2OawOII.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287424,
+        "name": {
+          "full": "Gillean Jordan",
+          "native": "ジリアン・ジョーダン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287424-d8kIR8tQHSKe.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 159739,
+          "name": {
+            "full": "Akira Kuwabara",
+            "native": "くわばらあきら"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n159739-GHU01RnKiVa7.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287439,
+        "name": {
+          "full": "Jimmy Kurosaki",
+          "native": "ジミー・黒崎",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287439-lMrTnG8AWzg1.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96245,
+          "name": {
+            "full": "Yoshito Yasuhara",
+            "native": "安原義人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1245.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287442,
+        "name": {
+          "full": "Tanaka",
+          "native": "タナカ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287442-8kfb2pqfqIiI.png"
+        },
+        "description": "Katsuo's father and a high-ranking executive on the Arasaka Academy board.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96682,
+          "name": {
+            "full": "Tetsuo Komura",
+            "native": "小村哲生"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1682.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287451,
+        "name": {
+          "full": "Aldo",
+          "native": "アルド",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287451-1JCZGQndKaje.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101175,
+          "name": {
+            "full": "Tomomichi Nishimura",
+            "native": "西村知道"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6175.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287452,
+        "name": {
+          "full": "Cyberpsycho",
+          "native": "サイバーサイコ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287452-G21jwc9AVEUb.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96472,
+          "name": {
+            "full": "Shouto Kashii",
+            "native": "樫井笙人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1472.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287455,
+        "name": {
+          "full": "Delamain",
+          "native": "デラマン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287455-RhQOyRmoFGSb.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102311,
+          "name": {
+            "full": "Shigeo Kiyama",
+            "native": "喜山茂雄"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102311-IAQBFhBCpjHq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287490,
+        "name": {
+          "full": "Adam Smasher",
+          "native": "アダム・スマッシャー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287490-Q8gZBPizCCGp.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107157,
+          "name": {
+            "full": "Yukihiro Misono",
+            "native": "御園行洋"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12157.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287939,
+        "name": {
+          "full": "Wakako Okada",
+          "native": "ワカコ・オカダ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287939-5yh2JFEe6fUz.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106504,
+          "name": {
+            "full": "Kaoru Katakai",
+            "native": "片貝薫"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106504-huyc5MpBPxnu.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287940,
+        "name": {
+          "full": "Julio",
+          "native": "フリオ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287940-EImqVzV8sirU.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 113227,
+          "name": {
+            "full": "Souma Saitou",
+            "native": "斉藤壮馬"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287941,
+        "name": {
+          "full": "Jamie (Netrunner)",
+          "native": "ジェイミー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287941-WhpBw0FnNNy0.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105984,
+          "name": {
+            "full": "Minoru Hirota",
+            "native": "広田みのる"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10984.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287942,
+        "name": {
+          "full": "Isabella Morgan",
+          "native": "イザベラ・モーガン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287942-YD7aREaeMhGr.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 182100,
+          "name": {
+            "full": "Anna Nagase",
+            "native": "永瀬アンナ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n182100-drkeWjMKToYg.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287947,
+        "name": {
+          "full": "Kate",
+          "native": "ケイト",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287947-ltdXiLP8WfJj.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 109193,
+          "name": {
+            "full": "Tomoko Shiota",
+            "native": "塩田朋子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14193.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287948,
+        "name": {
+          "full": "Douglas",
+          "native": "ダグラス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287948-DmFtvSaOwk4U.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95477,
+          "name": {
+            "full": "Hiroshi Yanaka",
+            "native": "家中宏"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95477-zUeFZNtjTgap.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287949,
+        "name": {
+          "full": "Evans",
+          "native": "エバンス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287949-2SyBhEEerxBa.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96520,
+          "name": {
+            "full": "Tomoyuki Shimura",
+            "native": "志村知幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96520-HBvIVNbD2gvv.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 287950,
+        "name": {
+          "full": "Yumiko",
+          "native": "ユミコ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287950-dXrpc7mdHLth.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95092,
+          "name": {
+            "full": "Sayaka Oohara",
+            "native": "大原さやか"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287421,
+        "name": {
+          "full": "Kouchou",
+          "native": "校長",
+          "alternative": [
+            "Principal"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287421-oP973niJR4CQ.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103022,
+          "name": {
+            "full": "Hidenari Ugaki",
+            "native": "宇垣秀成"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103022-eePmaoJGrs94.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287422,
+        "name": {
+          "full": "AI Kyoushi",
+          "native": "AI教師",
+          "alternative": [
+            "AI Teacher"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287422-5v6TaeuzETtV.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287423,
+          "name": {
+            "full": "Atsuko Sakuraoka",
+            "native": "桜岡あつこ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287423-npMJA01tscFr.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287426,
+        "name": {
+          "full": "Classmate",
+          "native": "クラスメイト",
+          "alternative": [
+            "Katsuo's Goons"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 236518,
+          "name": {
+            "full": "Youhei Matsuoka",
+            "native": "松岡洋平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n236518-5hLipy1n49zw.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287427,
+        "name": {
+          "full": "Classmate",
+          "native": "クラスメイト",
+          "alternative": [
+            "Katsuo's Goons"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 203133,
+          "name": {
+            "full": "Kento Shiraishi",
+            "native": "白石兼斗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287428,
+        "name": {
+          "full": "Ishi",
+          "native": "医師",
+          "alternative": [
+            "Clinic Doctor"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101937,
+          "name": {
+            "full": "Hitoshi Bifu",
+            "native": "上別府仁資"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101937-B98Q78lnxThc.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287429,
+        "name": {
+          "full": "Animals",
+          "native": "アニマルズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287432,
+          "name": {
+            "full": "Takeshi Hirabayashi",
+            "native": "平林剛"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287432-RkrxwYRGiYcX.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287430,
+        "name": {
+          "full": "Animals",
+          "native": "アニマルズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 174720,
+          "name": {
+            "full": "Yuusuke Sasaki",
+            "native": "佐々木祐介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n174720-CE5gOQVy4490.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287431,
+        "name": {
+          "full": "Animals",
+          "native": "アニマルズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 210613,
+          "name": {
+            "full": "Ryousuke Higa",
+            "native": "比嘉良介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n210613-qEcbwP4fIQ0X.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287433,
+        "name": {
+          "full": "Trauma Team",
+          "native": "トラウマ チーム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287437,
+          "name": {
+            "full": "Ryou Shimokawa",
+            "native": "下川涼"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287437-CzwIdhDXiYR4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287434,
+        "name": {
+          "full": "Trauma Team",
+          "native": "トラウマ チーム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287438,
+          "name": {
+            "full": "Haruka Jinya",
+            "native": "陣谷遥"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287438-EhbDyp388pIO.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287435,
+        "name": {
+          "full": "Trauma Team",
+          "native": "トラウマ チーム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 121022,
+          "name": {
+            "full": "Emiko Takeuchi",
+            "native": "竹内恵美子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121022-DBivYQLuvknD.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287436,
+        "name": {
+          "full": "Trauma Team",
+          "native": "トラウマ チーム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 127073,
+          "name": {
+            "full": "Kotomi Aihara",
+            "native": "藍原ことみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n127073-sQBsSSfR3cfp.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287440,
+        "name": {
+          "full": "Ooya",
+          "native": "大家",
+          "alternative": [
+            "Landlord"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287441,
+          "name": {
+            "full": "Shunpei Kusano",
+            "native": "草野峻平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287441-pJW6EGGyIydP.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287443,
+        "name": {
+          "full": "Medic",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287443-WAVDonix3vdz.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 135857,
+          "name": {
+            "full": "Ayano Hamaguchi",
+            "native": "濱口綾乃"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135857-Qp79ZiYPsSlz.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287444,
+        "name": {
+          "full": "Laundry Machine AI",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 121022,
+          "name": {
+            "full": "Emiko Takeuchi",
+            "native": "竹内恵美子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n121022-DBivYQLuvknD.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287445,
+        "name": {
+          "full": "Maxim Kuznetzov",
+          "native": "マクシム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287445-5sYdCbSyKvJm.png"
+        },
+        "description": "Maxim Kuznetsov is a Solo working as a driver for the Arasaka Corporation",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96052,
+          "name": {
+            "full": "Takanori Hoshino",
+            "native": "星野貴紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1052.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287446,
+        "name": {
+          "full": "Tyger Claws",
+          "native": "タイガークロウズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287446-9zhFvCbqq3OZ.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 284256,
+          "name": {
+            "full": "Masaomi Yamahashi",
+            "native": "山橋正臣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n284256-Xk0z6JTsviCm.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287447,
+        "name": {
+          "full": "Tyger Claws",
+          "native": "タイガークロウズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287447-LsiZeqjtIo7Y.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 156972,
+          "name": {
+            "full": "Akira Koga",
+            "native": "古賀明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n156972-wYdNdBj55Zno.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287448,
+        "name": {
+          "full": "Boxers",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287450,
+          "name": {
+            "full": "Marina Mizusaki",
+            "native": "水咲まりな"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287450-9hM2CnqpZEne.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287449,
+        "name": {
+          "full": "Boxers",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 182100,
+          "name": {
+            "full": "Anna Nagase",
+            "native": "永瀬アンナ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n182100-drkeWjMKToYg.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287453,
+        "name": {
+          "full": "NCPD Officers",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 203133,
+          "name": {
+            "full": "Kento Shiraishi",
+            "native": "白石兼斗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287454,
+        "name": {
+          "full": "NCPD Officers",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119048,
+          "name": {
+            "full": "Hiroki Matsukawa",
+            "native": "松川裕輝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119048-7hScWHmCgSL7.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287456,
+        "name": {
+          "full": "NCPD Officers",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 168156,
+          "name": {
+            "full": "Hikaru Tanaka",
+            "native": "田中光"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n168156-WxGTGwPV602a.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287457,
+        "name": {
+          "full": "NCPD Officers",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287441,
+          "name": {
+            "full": "Shunpei Kusano",
+            "native": "草野峻平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287441-pJW6EGGyIydP.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287458,
+        "name": {
+          "full": "Max-Tac Officer",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287432,
+          "name": {
+            "full": "Takeshi Hirabayashi",
+            "native": "平林剛"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287432-RkrxwYRGiYcX.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287933,
+        "name": {
+          "full": "Radio DJ",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287934,
+          "name": {
+            "full": "DJ Knike",
+            "native": "DJナイク"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287934-nBaVcCIIl0eo.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287935,
+        "name": {
+          "full": "Weather Presenter",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 159491,
+          "name": {
+            "full": "Megumi Sano",
+            "native": "佐野愛"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n159491-1GmAgeVXeMEs.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287936,
+        "name": {
+          "full": "Trauma Team",
+          "native": "トラウマ チーム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 162500,
+          "name": {
+            "full": "Shoumaru Zouza",
+            "native": "左座翔丸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162500-biMqRYMfWrwc.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287937,
+        "name": {
+          "full": "Trauma Team",
+          "native": "トラウマ チーム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 203133,
+          "name": {
+            "full": "Kento Shiraishi",
+            "native": "白石兼斗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287938,
+        "name": {
+          "full": "Trauma Team",
+          "native": "トラウマ チーム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 209569,
+          "name": {
+            "full": "Seiyuu Fujiwara",
+            "native": "藤原聖侑"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n209569-Pw0OHAVW211B.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287943,
+        "name": {
+          "full": "Maelstrom",
+          "native": "メイストローム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287943-90Mummdlkx5e.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 203133,
+          "name": {
+            "full": "Kento Shiraishi",
+            "native": "白石兼斗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287944,
+        "name": {
+          "full": "Maelstrom",
+          "native": "メイストローム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287944-zoF28E5IHeuB.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287946,
+          "name": {
+            "full": "Miho Shinada",
+            "native": "品田美穂"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287945,
+        "name": {
+          "full": "Maelstrom",
+          "native": "メイストローム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b287945-OIYjaJoSE3T7.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103730,
+          "name": {
+            "full": "Tsuguo Mogami",
+            "native": "最上嗣生"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103730-qtf6D57hUNAf.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287951,
+        "name": {
+          "full": "Man in the Car",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 128195,
+          "name": {
+            "full": "Takayuki Nakatsukasa",
+            "native": "中務貴幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n128195-BMcl9CbZQKGm.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287953,
+        "name": {
+          "full": "Tyger Claws",
+          "native": "タイガークロウズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287958,
+          "name": {
+            "full": "Haruka Matudaira",
+            "native": null
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287954,
+        "name": {
+          "full": "Tyger Claws",
+          "native": "タイガークロウズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287957,
+          "name": {
+            "full": "Shigeru Toyoda",
+            "native": null
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287955,
+        "name": {
+          "full": "Tyger Claws",
+          "native": "タイガークロウズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 203133,
+          "name": {
+            "full": "Kento Shiraishi",
+            "native": "白石兼斗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287956,
+        "name": {
+          "full": "Tyger Claws",
+          "native": "タイガークロウズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 174298,
+          "name": {
+            "full": "Yuuki Oominami",
+            "native": "大南友希"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n174298-GrBJwweKiTak.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287960,
+        "name": {
+          "full": "Animals",
+          "native": "アニマルズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 120160,
+          "name": {
+            "full": "Hayato Kimura",
+            "native": "木村隼人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120160-102pkckJiu80.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287961,
+        "name": {
+          "full": "Animals",
+          "native": "アニマルズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 214250,
+          "name": {
+            "full": "Hiroko Kiso",
+            "native": "きそひろこ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n214250-90Iu1qYdhK4d.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287962,
+        "name": {
+          "full": "Animals",
+          "native": "アニマルズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 205894,
+          "name": {
+            "full": "Ken Mizukoshi",
+            "native": "水越健"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n205894-yLXuQMuB6Glj.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287963,
+        "name": {
+          "full": "Animals",
+          "native": "アニマルズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287966,
+          "name": {
+            "full": "Yuuki Arai",
+            "native": "荒井勇樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287966-OldJJrpaisGW.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287964,
+        "name": {
+          "full": "Animals",
+          "native": "アニマルズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 203133,
+          "name": {
+            "full": "Kento Shiraishi",
+            "native": "白石兼斗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287965,
+        "name": {
+          "full": "Animals",
+          "native": "アニマルズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 249669,
+          "name": {
+            "full": "Takuya Makimura",
+            "native": "蒔村拓哉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n249669-zT8ho5DoIPcE.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287967,
+        "name": {
+          "full": "Max-Tac",
+          "native": "マックス・タック",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119048,
+          "name": {
+            "full": "Hiroki Matsukawa",
+            "native": "松川裕輝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119048-7hScWHmCgSL7.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287968,
+        "name": {
+          "full": "Max-Tac",
+          "native": "マックス・タック",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287437,
+          "name": {
+            "full": "Ryou Shimokawa",
+            "native": "下川涼"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287437-CzwIdhDXiYR4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287969,
+        "name": {
+          "full": "Max-Tac",
+          "native": "マックス・タック",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 120160,
+          "name": {
+            "full": "Hayato Kimura",
+            "native": "木村隼人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120160-102pkckJiu80.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287970,
+        "name": {
+          "full": "Max-Tac",
+          "native": "マックス・タック",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 159491,
+          "name": {
+            "full": "Megumi Sano",
+            "native": "佐野愛"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n159491-1GmAgeVXeMEs.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287971,
+        "name": {
+          "full": "Militech Soldier",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 209569,
+          "name": {
+            "full": "Seiyuu Fujiwara",
+            "native": "藤原聖侑"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n209569-Pw0OHAVW211B.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287972,
+        "name": {
+          "full": "Militech Soldier",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 203133,
+          "name": {
+            "full": "Kento Shiraishi",
+            "native": "白石兼斗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287973,
+        "name": {
+          "full": "Militech Soldier",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 210613,
+          "name": {
+            "full": "Ryousuke Higa",
+            "native": "比嘉良介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n210613-qEcbwP4fIQ0X.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 287974,
+        "name": {
+          "full": "Militech Soldier",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 287975,
+          "name": {
+            "full": "Yusuke Sasaki",
+            "native": "佐々木優介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n287975-XZoKorlaYfpY.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 290013,
+        "name": {
+          "full": "Rogue Amendiares",
+          "native": "ローグ・アメンディアレス",
+          "alternative": [
+            "Queen of Fixers",
+            "Queen of the Afterlife"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b290013-vpOI5TjibXM0.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": "80+"
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 331894,
+        "name": {
+          "full": "Ishi",
+          "native": "医師",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 135857,
+          "name": {
+            "full": "Ayano Hamaguchi",
+            "native": "濱口綾乃"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n135857-Qp79ZiYPsSlz.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

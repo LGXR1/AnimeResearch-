@@ -1,0 +1,889 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:08:13.514Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 6324,
+      "anime_title": "守护猫娘绯鞠",
+      "anime_origin": "JP",
+      "source": {
+        "id": 6324,
+        "titles": [
+          "Omamori Himari",
+          "おまもりひまり"
+        ],
+        "year": 2010,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/6324"
+      },
+      "characters": [
+        {
+          "id": 13930,
+          "name": "野井原绯鞠",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/13930.jpg",
+          "description": "野井原绯鞠是与天河家世代相系的猫妖，因祖先受天河家驱魔师庇护，承担守护其后人的职责。优人十六岁生日后，她来到优人身边，提醒他妖怪世界的威胁，并以日本刀迎战袭击者。绯鞠能在人形、猫形和半人半猫形态间变化，性格热情坦率，对优人怀有长久的爱意；面对强敌时也会因保护他而失去冷静。",
+          "nicknames": [
+            "野井原绯鞠",
+            "Himari Noihara",
+            "野井原緋鞠",
+            "The Crimson Blade of Noihara",
+            "The Crimson Blade",
+            "绯鞠"
+          ],
+          "traits": [
+            "猫妖少女",
+            "野井原家后裔",
+            "天河家的守护者",
+            "擅长使用日本刀",
+            "可变为猫形",
+            "能呈现半人半猫形态",
+            "近身剑术高手",
+            "性格热情坦率",
+            "对优人抱有长久爱意",
+            "深水环境会感到害怕"
+          ],
+          "voice_actors": [
+            {
+              "name": "小清水亜美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Himari Noihara",
+            "name_native": "野井原緋鞠",
+            "name_alternative": [
+              "The Crimson Blade of Noihara"
+            ],
+            "description": "She is also called The Crimson Blade. Himari is a cat demon that played with Yuuto during his childhood when he stayed at his grandparents house. She can change her form from human to cat, even halfway, having a human body but with cat ears and tail. One of Himari's ancestors were spared by an Amakawa demon slayer, and so the ancestors and the descendants serve the Amakawa family. Himari has loved Yuuto since his childhood and she often flirts with him. Himari was sad when his parents took Yuuto away without saying goodbye. Himari is afraid of water where her feet does not touch the ground, she is fine with baths and shallow rivers.   ~!She took Yuuto back to his late grandparents house so that he can regain his lost childhood memory. She was able to help Yuuto get some of his memory by changing into her cat form. When Yuuto was seriously injured by the air demon Shama, Himari went into a berserk rage and was stopped by Yuuto when he was finally able to use his demon slayer ability of light. She faced off against Kuesu in Chapter 19, and was forced to retreat, losing her sword in the process. To mend her wound she ingested a drug that reverted her to her neko-mode and stripping her of her sanity and acted like a cat.!~"
+          }
+        },
+        {
+          "id": 16010,
+          "name": "天河优人",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/16010.jpg",
+          "description": "天河优人是十二驱魔世家之一天河家的唯一在世后裔。父母在他年幼时因车祸去世，他一度封闭自己，后来在青梅竹马凛子的陪伴下逐渐恢复。十六岁生日当天，祖父母留下的驱魔护符失效，妖怪开始接近他，绯鞠也因此现身保护。优人温和善良，虽然对猫过敏，仍不断学习运用家族传承的力量守护同伴。",
+          "nicknames": [
+            "天河优人",
+            "Yuuto Amakawa",
+            "天河優人",
+            "优人"
+          ],
+          "traits": [
+            "天河家唯一在世后裔",
+            "十二驱魔世家之一",
+            "十六岁时护符失效",
+            "从祖父母处得到驱魔护符",
+            "对猫过敏",
+            "父母早逝",
+            "曾因创伤陷入消沉",
+            "性格善良温和",
+            "拥有潜在驱魔能力",
+            "重视身边同伴"
+          ],
+          "voice_actors": [
+            {
+              "name": "葛西美名",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8930.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "平川大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95183-5C42gbrKIP7L.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuuto Amakawa",
+            "name_native": "天河優人",
+            "name_alternative": [],
+            "description": "Yuuto is the only living descendant of the Amakawa family, one of the 12 demon slayer families. Yuuto has an allergy to cats that cause his eyes to water and his nose to run. Both Yuuto&#039;s parents died in a car accident when he was young, making him fall into a state of depression, with his childhood friend Rinko bring in out of his depression. On his sixteenth birthday he and Rinko are walking to school when they meet an unknown girl with a katana. Later in school, a demon possess one of his classmates and tries to kill Yuuto, but the mysterious girl appears and saves him. That night he finds the girl again, but this time in his bed. She guards him from demons because a special tag, that he received from his grandparents to ward off demons, ran out of power on his sixteenth birthday.   Source: Wikipedia     ~!Yuuto seems closer to Himari than the other girls and also pays special attention to her safety and well-being. Himari is also the only girl he would have given a kiss (on the lips) to, when Himari was about to leave on her own for battle, had they not been distracted by Kuesu Jinguuji.!~"
+          }
+        },
+        {
+          "id": 19366,
+          "name": "九崎凛子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/19366.jpg",
+          "description": "九崎凛子是优人的青梅竹马与同学，父母早逝后，她一直陪伴优人，帮助他从长期消沉中重新面对生活。凛子性格开朗直率，带有假小子气质，虽然对自己的身材有些在意，却会坦率地表达情绪。她暗恋优人，看到其他女孩接近他时常会吃醋发火；在嬉闹之外，凛子始终是优人可靠而熟悉的朋友。",
+          "nicknames": [
+            "九崎凛子",
+            "Rinko Kuzaki",
+            "凛子",
+            "九崎凜子"
+          ],
+          "traits": [
+            "优人的青梅竹马",
+            "与优人同校",
+            "性格活泼直率",
+            "带有假小子气质",
+            "曾陪伴优人走出丧亲阴影",
+            "暗恋优人",
+            "容易因吃醋发火",
+            "行动力强",
+            "重视朋友",
+            "常以玩笑掩饰害羞"
+          ],
+          "voice_actors": [
+            {
+              "name": "野水伊織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103956-SBfEe7v8hV4r.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Rinko Kuzaki",
+            "name_native": "九崎凛子",
+            "name_alternative": [],
+            "description": "Yuuto&#039;s childhood friend. She&#039;s a little tomboyish with complex about her breasts size. She helped him get out of his depression after his parents death. She has a crush on him and easily get pissed when any other girl s flirting with him which mostly ends with Rinko torturing Yuuto."
+          }
+        },
+        {
+          "id": 19367,
+          "name": "静水久",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19367-AnxD5rMfxYSH.jpg",
+          "description": "静水久是水蛟妖怪，外表是身形娇小的绿发少女，能够在水下呼吸，舌头也能像变色龙一样灵活伸长。她最初在河边警告优人远离驱魔世家的道路，并以监视为由住进天河家。静水久平时神情冷淡、话不多，实际逐渐适应与优人一行人的共同生活，也开始对优人产生好感；水域是她最熟悉、最能发挥力量的环境。",
+          "nicknames": [
+            "静水久",
+            "Shizuku",
+            "水蛟静水久"
+          ],
+          "traits": [
+            "水蛟妖怪",
+            "外表为绿发少女",
+            "擅长水中活动",
+            "能够在水下呼吸",
+            "舌头可灵活伸长",
+            "性格冷静寡言",
+            "不信任驱魔世家",
+            "最初以优人为目标",
+            "后来住进优人家中",
+            "逐渐对优人产生好感"
+          ],
+          "voice_actors": [
+            {
+              "name": "真堂圭",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95594-uUAU6lh6TMQW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shizuku",
+            "name_native": "静水久",
+            "name_alternative": [],
+            "description": "Shizuku is a Mizuchi (Water dragon demon) in the form of a green, short-haired small girl with snake tongue that can stretch rather far, similar to that of a chameleon, and can breath underwater. Shizuku usually has a stoic expression, and is almost always completely soaked with water. She first meets Yūto at a river, where she warns Yūto that if he continues to go along with his demon slayer heritage, she would kill him. To make sure of this she invites herself to live in Yuto&#039;s house and starts to like him romantically."
+          }
+        },
+        {
+          "id": 19368,
+          "name": "莉兹莉特·L·切尔西",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/19368.jpg",
+          "description": "莉兹莉特·L·切尔西是由古董茶杯化生的付丧神，拥有少女外形，在茶馆担任女侍并真心喜欢这份工作。她的本体是一只从英国传来的古董茶杯，经历漫长岁月后获得生命。莉兹待人亲切，熟悉茶馆的日常事务，也乐于招待客人；她以轻松活泼的气氛融入优人身边的人际关系，展现出器物化为妖怪后的独特生活。",
+          "nicknames": [
+            "莉兹莉特·L·切尔西",
+            "Lizlet L Chelsie",
+            "リズリット・L・チェルシー",
+            "Liz",
+            "莉兹"
+          ],
+          "traits": [
+            "付丧神",
+            "本体是古董茶杯",
+            "在人世间化为少女",
+            "在茶馆担任女侍",
+            "喜欢茶馆工作",
+            "常穿女仆风制服",
+            "性格开朗亲切",
+            "熟悉红茶与茶具",
+            "由器物获得生命",
+            "乐于照顾客人"
+          ],
+          "voice_actors": [
+            {
+              "name": "大亀あすか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102489-73FNdRKuEYh4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Lizlet L Chelsie",
+            "name_native": "リズリット・L・チェルシー",
+            "name_alternative": [
+              "Liz"
+            ],
+            "description": "Lizlet (or Liz for short) works in a tea caf&eacute; as a waitress, and really enjoys her job. Liz is a Tsukumogami, an inanimate object that came to life after a hundred years. She has the appearance of a Busty young girl with Maid outfit, but her true body is an antique tea cup that was the tea caf&eacute; owner bought in England.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 19369,
+          "name": "神宫寺玖惠澄",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/19369.jpg",
+          "description": "神宫寺玖惠澄出身另一支驱魔世家，自称优人的祖父曾许下婚约，因此主动来到他身边。与尚未掌握家族能力的优人不同，玖惠澄从小接受训练，擅长西洋魔法，战斗力强大。她性格强势自信，常用直接的行动宣示对优人的立场，也把绯鞠视作竞争者。神宫寺家因使用西洋魔法而被其他驱魔家族排斥，玖惠澄对此并不退让。",
+          "nicknames": [
+            "神宫寺玖惠澄",
+            "Kuesu Jinguuji",
+            "神宮寺くえす",
+            "Moon of Twilight",
+            "玖惠澄"
+          ],
+          "traits": [
+            "神宫寺家驱魔师",
+            "十二驱魔世家之一",
+            "精通西洋魔法",
+            "实力远超普通术者",
+            "接受严格家族训练",
+            "自称与优人有婚约",
+            "性格强势主动",
+            "善于使用魔法战斗",
+            "把绯鞠视为情敌",
+            "追查天河家旧事"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡由貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95073-HIjUyhssrxGs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kuesu Jinguuji",
+            "name_native": "神宮寺くえす",
+            "name_alternative": [
+              "Moon of Twilight"
+            ],
+            "description": "Kuesu is a daughter of another demon-slaying family, who seek to ally themselves with the Amakawa family through marriage. She appears to be part of Yuuto&#039;s past and claims that Yuuto&#039;s grandfather had promised their marriage. She is highly aggressive and assertive, going so far as to kiss Yuuto twice in front of Himari just to stake her claim. Unlike Yuuto, she is trained in her heritage and is fully capable of fighting. The Jinguuji family is seen by the 10 other families as heretics for using Western magic. Her magical powers are rumored to be as powerful as that of 10 people."
+          }
+        },
+        {
+          "id": 30195,
+          "name": "如月冴",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/30195.jpg",
+          "description": "如月冴是优人与凛子的女教师，性格成熟随意，带有吸烟习惯，也常在学校撞见优人与女孩子相处时的尴尬场面。她会用调侃化解气氛，对学生的私下交往相当宽容，但仍守住课堂边界。凛子有时会叫她“冴酱”，她对此并不喜欢。故事也暗示冴可能知晓妖怪或拥有特殊力量，使她不只是普通的校园教师。",
+          "nicknames": [
+            "如月冴",
+            "Sae Kisaragi",
+            "如月 冴",
+            "冴老师"
+          ],
+          "traits": [
+            "优人与凛子的女教师",
+            "在学校任教",
+            "有吸烟习惯",
+            "说话成熟直接",
+            "经常撞见优人的尴尬场面",
+            "会调侃学生",
+            "对学生私生活较宽容",
+            "留意校园中的妖怪事件",
+            "可能与妖怪力量有关",
+            "称呼她时不喜欢被叫冴酱"
+          ],
+          "voice_actors": [
+            {
+              "name": "根谷美智子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95176-3yZnUwXap7nX.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sae Kisaragi",
+            "name_native": "如月 冴",
+            "name_alternative": [],
+            "description": "Yuuto, Rinko, and Himari&#039;s female school teacher. A smoker and perverted, she seems to always catch Yuuto in an erotic act with a girl. She is actually passively supportive of whatever erotic acts the students do as long as they do it outside of class time. Also in chapter 8 it is implied she may have powers or a yōkai as well. Rinko sometimes calls her &quot;Sae-chan&quot; which she detests.  Voiced by Neya Michiko."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 369,
+      "anime_title": "幻影死神",
+      "anime_origin": "JP",
+      "source": {
+        "id": 369,
+        "titles": [
+          "Boogiepop wa Warawanai: Boogiepop Phantom",
+          "Boogiepop Phantom",
+          "ブギーポップは笑わない Boogiepop Phantom",
+          "Boogiepop Doesn't Laugh",
+          "Boogiepop Never Laughs"
+        ],
+        "year": 2000,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/369"
+      },
+      "characters": [
+        {
+          "id": 2598,
+          "name": "不吉波普",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2598-LYTKwsCd09WL.jpg",
+          "description": "不吉波普是沉睡在宫下藤花体内的神秘人格，通常保持休眠，只有世界受到威胁时才会出现。深阳学园流传着“死神会在美丽巅峰夺走生命”的传闻，许多学生因此把不吉波普视为危险存在。它总以黑色斗篷和筒状帽遮住面容，气质难辨男女，行动冷静而近乎机械，并以自己的方式追查威胁世界的敌人。",
+          "nicknames": [
+            "不吉波普",
+            "Boogiepop",
+            "ブギーポップ",
+            "The Rumored Shinigami",
+            "死神传闻"
+          ],
+          "traits": [
+            "宫下藤花体内的人格",
+            "危机出现时苏醒",
+            "被学生称作死神",
+            "以黑色斗篷示人",
+            "戴黑色筒状帽",
+            "性别气质模糊",
+            "言行冷静机械",
+            "说话带古典腔调",
+            "擅长吹口哨",
+            "负责对抗世界之敌"
+          ],
+          "voice_actors": [
+            {
+              "name": "清水香里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95169-EfU6qQdPxHRv.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Boogiepop",
+            "name_native": "ブギーポップ",
+            "name_alternative": [
+              " The Rumored Shinigami"
+            ],
+            "description": "The shinigami whispered of among the female students of Shinyo Academy, few people know that Boogiepop actually exists. Rumors say that that Boogiepop is a reaper that kills people when they are at their most beautiful point in life. Unknown to them, Boogiepop is normally dormant, rising to the surface when enemies of the world appear. Boogiepop's appearance and voice are ambiguous: they seem both masculine and feminine at the same time. However, hidden beneath their signature black cloak and black, pipe-shaped hat, little is ever seen of them. Straight-faced and to the point, Boogiepop acts as mechanical as they claim to be. Although they are known to make \"asymmetrical faces\" from time to time. Boogiepop speaks in an archaic manner​ and seems fond of whistling the overture to Wagner's Die Meistersinger von Nürnberg."
+          }
+        },
+        {
+          "id": 2608,
+          "name": "雾间凪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2608-EWos7RrSvUvx.jpg",
+          "description": "雾间凪是深阳学园的学生，因调查能力和强烈的行动力被称作“火焰魔女”。她体能与智力都很出众，城市出现连续异常事件时，往往会主动追查真相。父亲雾间诚一是知名作家，他的死亡与凪早年的住院经历改变了她的人生方向。凪认为自己可能给普通人带来危险，因此刻意保持距离，却始终执着于拯救世界。",
+          "nicknames": [
+            "雾间凪",
+            "Nagi Kirima",
+            "霧間凪",
+            "Fire Witch",
+            "火焰魔女"
+          ],
+          "traits": [
+            "深阳学园学生",
+            "被称为火焰魔女",
+            "体能出众",
+            "头脑敏锐",
+            "善于调查异常事件",
+            "主动追查世界威胁",
+            "因危险感而疏远他人",
+            "父亲是知名作家",
+            "曾因疾病住院",
+            "怀有拯救世界的使命感"
+          ],
+          "voice_actors": [
+            {
+              "name": "浅川悠",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95119-ExV6YzTBbIZE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Nagi Kirima",
+            "name_native": "霧間凪",
+            "name_alternative": [
+              "Fire Witch"
+            ],
+            "description": "Known as the Fire Witch to many, Kirima has made few friends due the way she distances herself from others: she knows that she is too dangerous for 'normal' people to associate with. She has a messianic complex, and seeks to save the world from whatever may threaten it. As such, whenever there are unusual happenings within the city, Kirima can be found investigating what has happened. In the past, she had spent a period of time in hospital. A combination of the events from that period of her life, as well as the death of her father, the famous writer Kirima Seiichi, brought her to follow this path in life. Extremely gifted both physically and intellectually, she has the basic tools she needs to carry out her self-appointed mission."
+          }
+        },
+        {
+          "id": 2609,
+          "name": "宫下藤花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2609-XXNfaCh29HHs.jpg",
+          "description": "宫下藤花是深阳学园的一名普通学生，与竹田启司交往，也是末真和子的朋友。她平常过着自然平静的校园生活，并不知道自己体内寄宿着名为不吉波普的另一人格。当城市中出现威胁世界的异常存在时，不吉波普会接管身体行动，藤花则往往对发生过的事毫无记忆。她的日常身份与神秘传闻之间形成了作品的重要谜团。",
+          "nicknames": [
+            "宫下藤花",
+            "Touka Miyashita",
+            "宮下藤花",
+            "藤花"
+          ],
+          "traits": [
+            "深阳学园普通学生",
+            "不吉波普的宿主",
+            "本人并不知道另一人格存在",
+            "性格自然随和",
+            "与竹田启司交往",
+            "是末真和子的朋友",
+            "日常生活平静",
+            "异常事件中的另一位主角",
+            "体内人格会替她行动",
+            "与校园怪谈紧密相连"
+          ],
+          "voice_actors": [
+            {
+              "name": "清水香里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95169-EfU6qQdPxHRv.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Touka Miyashita",
+            "name_native": "宮下藤花",
+            "name_alternative": [],
+            "description": "The alternate protagonist of the Boogiepop Series. She is an ordinary student at Shinyo Academy, the girlfriend of Keiji Takeda, and a good friend of Kazuko Suema. Unbeknownst to most, though, including herself, Touka hosts the mysterious entity known as Boogiepop inside her mind."
+          }
+        },
+        {
+          "id": 2610,
+          "name": "末真和子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2610-KU1PnG6wrpdm.png",
+          "description": "末真和子是深阳学园的学生，也是宫下藤花的朋友。她曾是连环杀手雾间医生的袭击目标，事件之后开始对犯罪心理学产生浓厚兴趣，也因此与同学保持着一点距离。和子观察敏锐、态度认真，在遇到雾间凪后逐渐关注城市中接连出现的超自然事件。她不满足于校园传闻，而是试图从证据和当事人的反应中拼出真相。",
+          "nicknames": [
+            "末真和子",
+            "Kazuko Suema",
+            "和子"
+          ],
+          "traits": [
+            "深阳学园学生",
+            "藤花的好友",
+            "对犯罪心理学感兴趣",
+            "曾遭连环杀手袭击",
+            "具有调查意识",
+            "留意校内异常事件",
+            "不轻易相信传闻",
+            "擅长观察他人反应",
+            "性格认真敏锐",
+            "持续追寻事件真相"
+          ],
+          "voice_actors": [
+            {
+              "name": "長沢響",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kazuko Suema",
+            "name_native": "末真和子",
+            "name_alternative": [],
+            "description": "Suema was the last target of Dr. Kisugi, the serial killer of 5 years ago.   From this, Suema gained a very high interest in criminal psychology which makes her a bit of an outcast among her classmates.  After running into Nagi Kirima she also gains an interest in the supernatural occurrences in her city and through the course of the Boogiepop series she seeks to uncover the truth behind these incidents."
+          }
+        },
+        {
+          "id": 19899,
+          "name": "幻影不吉波普",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19899-beKqT3tGmT4X.png",
+          "description": "幻影不吉波普是在回响者的光芒出现在天空时，于异常电磁场中诞生的存在。它从散落的记忆里只找到不吉波普的服饰，却没有对方的面容，于是随机采用由里原美奈子的外貌，并先自称不吉波普。之后它为表示尊重而改称幻影不吉波普。它同样追击威胁世界的敌人，但有自己的判断与目的，并非藤花体内人格的简单复制。",
+          "nicknames": [
+            "幻影不吉波普",
+            "Boogiepop Phantom",
+            "ブギーポップ・ファントム",
+            "幻影波普"
+          ],
+          "traits": [
+            "由光与电磁场异常诞生",
+            "拥有独立意志",
+            "借用不吉波普的外形",
+            "外表取自由里原美奈子",
+            "追击威胁世界的敌人",
+            "与本体并非同一存在",
+            "具有自己的行动目的",
+            "气质诡异而冷静",
+            "受城市集体记忆影响",
+            "被称为幻影死神"
+          ],
+          "voice_actors": [
+            {
+              "name": "浅野まゆみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95400-BUUDA2OwVREh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Boogiepop Phantom",
+            "name_native": "ブギーポップ・ファントム",
+            "name_alternative": [],
+            "description": "Boogiepop Phantom is an entity born in the electromagnetic field the moment Echoes' light appeared in the sky. Amongst the memories scattered by the light it could only find Boogiepop's attire, but not his face, and so chose the appearance of Minako Yurihara at random. He claims to be Boogiepop, but later renames himself Boogiepop Phantom out of respect for the original. He too confronts the enemies of the world, but has his own agenda in mind."
+          }
+        },
+        {
+          "id": 2613,
+          "name": "如月真名花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/2613.jpg",
+          "description": "如月真名花拥有从周围读取记忆的能力，这些记忆会以光之蝴蝶的形式显现。她尚在母亲腹中时便接触了名为“永远”的药物，能力因此提前发展，也被旁人称作“恶魔之子”。真名花一度被垂死的祖母杀死，随后因回响者出现时带来的光而复活，身体也迅速成长。她能感知他人记忆，并对回响者产生强烈关注。",
+          "nicknames": [
+            "如月真名花",
+            "Manaka Kisaragi",
+            "真名花"
+          ],
+          "traits": [
+            "拥有读取记忆的能力",
+            "记忆会化作光之蝴蝶",
+            "胎儿时期接触永远药物",
+            "能力因此提前觉醒",
+            "由回响者的光复活",
+            "身体加速成长",
+            "能察觉他人的记忆",
+            "曾被称作恶魔之子",
+            "受如月家事件影响",
+            "模仿回响者的言行"
+          ],
+          "voice_actors": [
+            {
+              "name": "小林沙苗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95149-xNDmN92Feq8y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Manaka Kisaragi",
+            "name_native": "如月真名花",
+            "name_alternative": [],
+            "description": "Manaka Kisaragi is a highly-evolved being with the ability to draw memories from her surroundings in the form of butterflies of light. She was given the Towa drug by Dr Kisugi as an unborn child, which caused her abilities to develop. The &quot;devil's child&quot;, as she was known, was killed by her dying grandmother. Echoes' light brought Manaka back to life and caused accelerated aging. Her grandmother died soon after. Her insight into people's memories makes her aware of Echoes, whom she emulates.  [Wikipedia]"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 21078,
+      "anime_title": "青春×机关枪",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21078,
+        "titles": [
+          "Aoharu x Kikanjuu",
+          "Aoharu x Machinegun",
+          "青春×機関銃",
+          "ศึกปืนกล X คนผ่าเหล่า"
+        ],
+        "year": 2015,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21078"
+      },
+      "characters": [
+        {
+          "id": 88939,
+          "name": "雪村透",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88939-A9hezY3fW3lF.png",
+          "description": "雪村透是漫画家，主要创作成人向作品，也是松冈正宗的童年好友和Toy☆Gun Gun队员。两人小时候曾一起梦想成为足球选手，后来因朋友背叛而让透变得缺乏自信，常担心正宗也会离开自己。透比队伍里的其他人更敏感，能较早察觉伙伴情绪变化；在生存游戏之外，他也努力维系与正宗及萤之间的信任。",
+          "nicknames": [
+            "雪村透",
+            "Tooru Yukimura",
+            "雪村"
+          ],
+          "traits": [
+            "漫画家",
+            "专画成人向漫画",
+            "松冈正宗的童年好友",
+            "Toy☆Gun Gun队员",
+            "曾梦想成为足球选手",
+            "性格敏感细腻",
+            "容易担心被朋友抛弃",
+            "善于察觉同伴情绪",
+            "重视团队关系",
+            "参加生存游戏"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Tooru Yukimura",
+            "name_native": "雪村透",
+            "name_alternative": [],
+            "description": "Tooru is a manga artist who specializes in erotic comics. He is Masamune's childhood friend, both of them having shared the same dream of pursuing soccer as a career when they were young. He lives in the same apartment block as his teammates. Due to his past, when he was betrayed by friends he trusted, he has low self-confidence and often worries that Masamune might abandon him. He is also the most sensitive to others, being the first one to notice changes in the member's moods."
+          }
+        },
+        {
+          "id": 88940,
+          "name": "松冈正宗",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88940-XECasOQKg05L.jpg",
+          "description": "松冈正宗在男公关俱乐部工作，也是生存游戏队伍Toy☆Gun Gun的核心成员。他将萤带入生存游戏，并邀请她加入队伍；由于萤的外表与行为，他起初一直以为她是男生。正宗外表强势，内心却受过被母亲和队友抛弃的创伤，害怕亲近的人再次离开。透与萤的支持让他逐渐面对过去，也开始重新信任伙伴。",
+          "nicknames": [
+            "松冈正宗",
+            "Masamune Matsuoka",
+            "松岡正宗",
+            "Mattsun"
+          ],
+          "traits": [
+            "在男公关俱乐部工作",
+            "生存游戏玩家",
+            "Toy☆Gun Gun队长",
+            "雪村透的童年好友",
+            "最初误以为萤是男生",
+            "擅长近距离突击",
+            "害怕再次遭人抛弃",
+            "表面强势内心敏感",
+            "对萤逐渐产生好感",
+            "曾因创伤失去求生意愿"
+          ],
+          "voice_actors": [
+            {
+              "name": "前野智昭",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96489-xTzYxgdC9g9l.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Masamune Matsuoka",
+            "name_native": "松岡正宗",
+            "name_alternative": [
+              "Mattsun"
+            ],
+            "description": "Masamune works as a Host, and is responsible for introducing Hotaru to the world of \"Survival Games\". He, together with his childhood friend, Tooru, form an alliance called the \"Toy ☆ Gun Gun Team\". He is unaware of the fact that Hotaru is actually female. To repay the damages caused by Hotaru to the club at which he works at, he offers her the chance to become a member of his team. Because of his past, he has abandonment issues, which later cause him to kick Hotaru out of the team, fearing she will leave him like his former friends/teammates and mother did. However, after Hotaru helps him face his past through a one-on-one challenge, he lets her rejoin. After Hotaru rejoins the team he develops feelings for her, but struggles with them as he does not know that Hotaru is female. There was a moment in his past where, after being abandoned by his mother, he grew suicidal. Nagamasa introduced him to survival games to convince him to live on."
+          }
+        },
+        {
+          "id": 88941,
+          "name": "立花萤",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88941-A6oV4wZZS4SP.png",
+          "description": "立花萤是高中生与学生会会长，拥有强烈的正义感，看到欺负弱者的行为便会立即出手。她力量、速度和耐力出众，却不擅长精准射击，参加生存游戏时常凭近身行动弥补枪法不足。萤外表和举止常被误认为男生，最初因与正宗发生冲突而接触生存游戏，之后加入Toy☆Gun Gun。她直率冲动，也会在发现自己误会别人时认真道歉。",
+          "nicknames": [
+            "立花萤",
+            "Hotaru Tachibana",
+            "立花蛍",
+            "萤"
+          ],
+          "traits": [
+            "高中生",
+            "学生会会长",
+            "正义感强烈",
+            "身体力量与速度出众",
+            "射击准度不佳",
+            "容易冲进战场",
+            "起初被误认作男生",
+            "Toy☆Gun Gun成员",
+            "擅长近身作战",
+            "是矢岛鼎的好友"
+          ],
+          "voice_actors": [
+            {
+              "name": "小松未可子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105071-Hcj0X2gcliPq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hotaru Tachibana",
+            "name_native": "立花蛍",
+            "name_alternative": [],
+            "description": "Hotaru is the Student Council President and is known for her brute strength, good reflexes, and a strong sense of Justice. She claims to not let \"evil-doers\" get away with their evil deeds and is often noted to enjoy picking fights for the sake of what's correct to the point where she beats up a bunch of students who were extorting money from a helpless student and desires for revenge on learning that her best friend, Kanae was supposedly conned by a Host. \n\nAlthough confrontational, she becomes very guilty and apologetic when she realizes that she was mistaken, as shown when she kneels and bows her head in apology after arguing with Masamune, despite there being several other people present. She is noted to have terrible accuracy with a gun and a bad habit of charging into the field without delay, but outstanding speed, stamina, and strength, which she uses to her advantage in close-quarters combat. She uses a Heckler & Koch G3 SAS High Cycle, a submachine gun, as her weapon from episode 4 onwards. She is often mistaken as a guy due to her appearance. She is next-door neighbors with Masamune."
+          }
+        },
+        {
+          "id": 140290,
+          "name": "绿永将",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140290-MAF8odjLXKkw.png",
+          "description": "绿永将是生存游戏队伍Hoshishiro的队长，在以队名命名的医院担任医生。他与藤本高虎、赤羽市是同事，实力强劲，被称为“不败皇帝”。永将平时待人温和，却会在游戏中采取强硬战术；他过去曾与正宗搭档，后来因队伍安排分开，这段经历让正宗对他怀有怨气。永将知道萤是女生，也看重队伍之间的公平竞争。",
+          "nicknames": [
+            "绿永将",
+            "Nagamasa Midori",
+            "緑永将",
+            "The Invincible Emperor",
+            "不败皇帝"
+          ],
+          "traits": [
+            "生存游戏队伍Hoshishiro队长",
+            "在医院担任医生",
+            "被称为不败皇帝",
+            "与藤本及赤羽共事",
+            "表面温和有礼",
+            "游戏中战术强硬",
+            "曾与正宗组成搭档",
+            "知道萤的真实性别",
+            "重视队伍胜负",
+            "对旧队友有复杂情感"
+          ],
+          "voice_actors": [
+            {
+              "name": "興津和幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nagamasa Midori",
+            "name_native": "緑永将",
+            "name_alternative": [
+              "The Invincible Emperor"
+            ],
+            "description": "Nagamasa is the leader of the survival game team Hoshishiro, which is the name of the hospital he works as a doctor at along with his teammates Fujimon and Ichi. He initially appears to be a very kind man, but he is the object of Tooru and Masamune's resentment due to what took place in the past. It is revealed that he beat up two former Toy Gun Gun players, but it was all within the rules of TGC. He and Masamune used to be close partners, but after being told by another survival game player that Masamune was also a strong vanguard, Nagamasa was convinced to end their partnership. Although brutal during survival games, Nagamasa is known to show kindness outside of it. He knows that Hotaru is a girl but kept a secret though it ended being a blackmail for Hotaru."
+          }
+        },
+        {
+          "id": 140292,
+          "name": "矢岛鼎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140292-FmJrHY9pxCgB.jpg",
+          "description": "矢岛鼎是萤的好友，也是最早知道萤真实性别的人。她气质活泼，言行带有鲜明的少女感，有时显得冲动，却始终真心关心朋友。鼎会鼓励萤面对生存游戏与校园生活中的烦恼，也愿意在需要时陪她行动。她既了解萤正义感强、容易惹上麻烦的一面，也支持她按照自己的方式处理人际关系。",
+          "nicknames": [
+            "矢岛鼎",
+            "Kanae Yajima",
+            "矢島鼎",
+            "鼎"
+          ],
+          "traits": [
+            "萤的好友",
+            "最早知道萤是女生",
+            "气质偏女性化",
+            "性格活泼开朗",
+            "说话行动有时冲动",
+            "真心关心朋友",
+            "擅长鼓励他人",
+            "曾与萤参加生存游戏",
+            "重视彼此健康",
+            "在人际关系中积极主动"
+          ],
+          "voice_actors": [
+            {
+              "name": "堀江由衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95028-MHT1m3E5wGZx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kanae Yajima",
+            "name_native": "矢島鼎",
+            "name_alternative": [],
+            "description": "Kanae is Hotaru's best friend​ and was first aware of her being a girl. Kanae has a very feminine and lively persona. Although her actions and words can be perceived as immature and spontaneous, she genuinely cares about the well-being of others and is very encouraging."
+          }
+        },
+        {
+          "id": 140293,
+          "name": "赤羽市",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140293-kpFErhTbi8N6.png",
+          "description": "赤羽市是Hoshishiro的狙击手，同时在队长绿永将工作的医院任职。她枪法精准，熟悉生存游戏中的远距离压制与掩护，是队伍的重要火力支援。市对永将抱有近乎执着的信赖和依恋，不愿别人随意接近他；她与藤本高虎共同执行队伍战术，也以强势作风维护自己在团队中的位置。",
+          "nicknames": [
+            "赤羽市",
+            "Ichi Akabane",
+            "Ichi"
+          ],
+          "traits": [
+            "Hoshishiro队员",
+            "擅长狙击",
+            "在医院工作",
+            "绿永将的坚定支持者",
+            "对永将有强烈依恋",
+            "生存游戏技术熟练",
+            "善于远距离压制",
+            "与藤本高虎同队",
+            "不喜欢他人接近永将",
+            "被视为队伍主力之一"
+          ],
+          "voice_actors": [
+            {
+              "name": "喜多村英梨",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ichi Akabane",
+            "name_native": "赤羽市",
+            "name_alternative": [],
+            "description": "Ichi is a skilled sniper in her Team Hoshishiro and is deeply devoted to Midori to the point where no one can touch him except for Ichi herself. Ichi works at a hospital, and that's where she meet her teammates Midori and Fujimoto. As part of the strongest and most feared team, her sniping and surviving skills may be considered top notch along with her teammates."
+          }
+        },
+        {
+          "id": 140294,
+          "name": "藤本高虎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b140294-0ykeS2LhbTZw.jpg",
+          "description": "藤本高虎是Hoshishiro成员，在绿永将工作的医院任职，对队长十分忠诚。他以“突击破坏者”之名参加生存游戏，擅长快速压制对手，并能携带沉重的机枪投入战斗。藤本与永将配合默契，通常承担队伍前锋职责；虽然经常遭到赤羽市言语责备，他仍保持可靠态度，继续支持队友并执行团队战术。",
+          "nicknames": [
+            "藤本高虎",
+            "Takatora Fujimoto",
+            "Assault Destroyer",
+            "藤本"
+          ],
+          "traits": [
+            "Hoshishiro队员",
+            "在医院工作",
+            "忠于绿永将",
+            "被称为突击破坏者",
+            "擅长快速突击",
+            "使用重型机枪",
+            "可携带约二十公斤装备",
+            "常被赤羽市数落",
+            "与永将配合默契",
+            "在队伍中承担前锋职责"
+          ],
+          "voice_actors": [
+            {
+              "name": "木村良平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takatora Fujimoto",
+            "name_native": "藤本高虎",
+            "name_alternative": [
+              "Assault Destroyer"
+            ],
+            "description": "Fujimoto works in the same hospital as his teammates in Hoshishiro, and he is very loyal to Nagamasa Midori, and is also verbal abused by his other teammate Ichi Akabane. He is known as the Assault Destroyer, being able to defeat enemies quickly and without them feeling the pain. He carries a machine gun which weighs 20 kg but doesn't put him in a disadvantage."
+          }
+        },
+        {
+          "id": 141269,
+          "name": "相乐华子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141269-VNknGKXzIOhI.png",
+          "description": "相乐华子是正宗的好友，也参与生存游戏。在一次练习赛中，萤临时加入她所在的队伍，华子便带着萤观察比赛流程，帮助她理解对战节奏与团队配合。华子熟悉游戏规则，态度爽朗直接，愿意把经验分享给新手。她与正宗保持着稳定友谊，也通过练习赛让萤接触到不同队伍的作战方式。",
+          "nicknames": [
+            "相乐华子",
+            "Sagara Hanako",
+            "相楽華子",
+            "Hanako Sagara"
+          ],
+          "traits": [
+            "正宗的好友",
+            "生存游戏玩家",
+            "曾与萤进行练习赛",
+            "熟悉团队对战规则",
+            "擅长指导新人",
+            "态度爽朗直接",
+            "愿意分享游戏经验",
+            "观察战局能力良好",
+            "重视公平练习",
+            "与正宗保持长期友谊"
+          ],
+          "voice_actors": [
+            {
+              "name": "植田佳奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sagara Hanako",
+            "name_native": "相楽華子 ",
+            "name_alternative": [],
+            "description": "Hanako is a close friend of Masamune. During a practice match, Hotaru temporarily becomes a member of her team and she instructs her to observe how the game is played."
+          }
+        }
+      ]
+    }
+  ]
+}

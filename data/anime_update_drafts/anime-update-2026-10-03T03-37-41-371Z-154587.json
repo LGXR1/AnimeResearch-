@@ -1,0 +1,2222 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:37:41.372Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 176754,
+      "name": "Frieren",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 183965,
+      "name": "Fern",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 184313,
+      "name": "Stark",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 184310,
+      "name": "Heiter",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 184311,
+      "name": "Himmel",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 184312,
+      "name": "Eisen",
+      "reason": "作品内同名或别名已存在：Eisen"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 318148,
+      "name": "Akuma no Ko",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 327305,
+      "name": "Scharf",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 315629,
+      "name": "Sarentsu-sha A",
+      "reason": "作品内同名或别名已存在：参列者"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 315632,
+      "name": "Sarentsu-sha B",
+      "reason": "作品内同名或别名已存在：参列者"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 315639,
+      "name": "Arakuremono B",
+      "reason": "作品内同名或别名已存在：荒くれ者"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 316457,
+      "name": "Murabito B",
+      "reason": "作品内同名或别名已存在：村人"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 316458,
+      "name": "Murabito C",
+      "reason": "作品内同名或别名已存在：村人"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 326329,
+      "name": "Mago",
+      "reason": "作品内同名或别名已存在：Grandson"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 326371,
+      "name": "Eihei B",
+      "reason": "作品内同名或别名已存在：衛兵"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 326372,
+      "name": "Sonchou B",
+      "reason": "作品内同名或别名已存在：村長"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 326417,
+      "name": "Sokkin B",
+      "reason": "作品内同名或别名已存在：Granat-ryou no Sokkin (グラナト領の側近)"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 326418,
+      "name": "Noufu B",
+      "reason": "作品内同名或别名已存在：農夫"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 326421,
+      "name": "Chounin B",
+      "reason": "作品内同名或别名已存在：町人"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 326422,
+      "name": "Kodomo B",
+      "reason": "作品内同名或别名已存在：子供"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 326831,
+      "name": "Murabito D",
+      "reason": "作品内同名或别名已存在：村人"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 326832,
+      "name": "Murabito E",
+      "reason": "作品内同名或别名已存在：村人"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 327209,
+      "name": "Murabito F",
+      "reason": "作品内同名或别名已存在：村人"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 327494,
+      "name": "Touzoku B",
+      "reason": "作品内同名或别名已存在：盗賊"
+    },
+    {
+      "anime": "葬送的芙莉莲",
+      "id": 327515,
+      "name": "Juken-sha B",
+      "reason": "作品内同名或别名已存在：受験者"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 154587,
+      "anime_title": "葬送的芙莉莲",
+      "anime_origin": "JP",
+      "source": {
+        "id": 154587,
+        "titles": [
+          "Sousou no Frieren",
+          "Frieren: Beyond Journey’s End",
+          "葬送のフリーレン",
+          "Frieren at the Funeral",
+          "장송의 프리렌",
+          "Frieren - Oltre la Fine del Viaggio",
+          "คำอธิษฐานในวันที่จากลา Frieren",
+          "Frieren e a Jornada para o Além",
+          "Frieren – Nach dem Ende der Reise",
+          "葬送的芙莉蓮",
+          "Frieren: Más allá del final del viaje",
+          "Frieren en el funeral",
+          "Sōsō no Furīren",
+          "Frieren. U kresu drogi",
+          "Frieren - Pháp sư tiễn táng",
+          "Фрирен, провожающая в последний путь",
+          "فريرن: ما وراء نهاية الرحلة",
+          "Frieren: Tras finalizar el viaje"
+        ],
+        "year": 2023,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/154587"
+      },
+      "characters": [
+        {
+          "id": 205177,
+          "name": "Sein",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205177-hLV4nVQjoBIC.png",
+          "description": "",
+          "nicknames": [
+            "Sein",
+            "ザイン",
+            "Goatee Priest"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中村悠一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+              "language": "日语"
+            },
+            {
+              "name": "川井田夏海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n151445-3qF3EB619d74.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sein",
+            "name_native": "ザイン",
+            "name_alternative": [
+              "Goatee Priest"
+            ],
+            "description": "Sein is a Priest from a small village in the Alt Woods. After [Frieren](https://anilist.co/character/176754/Frieren) spotted his talent, he joined her group for a period of time with the goal of reuniting with his childhood friend Gorilla."
+          }
+        },
+        {
+          "id": 219110,
+          "name": "Aura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219110-LEB5T4oG0gel.png",
+          "description": "",
+          "nicknames": [
+            "Aura",
+            "アウラ",
+            "Dantoudai no Aura (断頭台のアウラ)",
+            "Aura the Guillotine"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "竹達彩奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101996-PcY5iaq5LHgd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aura",
+            "name_native": "アウラ",
+            "name_alternative": [
+              "Dantoudai no Aura (断頭台のアウラ)",
+              "Aura the Guillotine"
+            ],
+            "description": "Aura is one of the Seven Sages of Destruction directly serving the Demon King. \n\n~!She later was killed by [Frieren](https://anilist.co/character/176754/Frieren) after being commanded to kill herself using her own Auserlese.!~"
+          }
+        },
+        {
+          "id": 219732,
+          "name": "Kraft",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219732-GKmSY9oTm6cR.jpg",
+          "description": "",
+          "nicknames": [
+            "Kraft",
+            "クラフト"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kraft",
+            "name_native": "クラフト",
+            "name_alternative": [],
+            "description": "He is an elf that Frieren's group meets in a cabin in the mountains. He's a monk and believed to be the last elf alive until meeting Frieren."
+          }
+        },
+        {
+          "id": 219733,
+          "name": "Flamme",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219733-FgXseEhMdDE9.png",
+          "description": "",
+          "nicknames": [
+            "Flamme",
+            "フランメ",
+            "The Great Mage Flamme"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中敦子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-v07xvA8V2Yeh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Flamme",
+            "name_native": "フランメ",
+            "name_alternative": [
+              "The Great Mage Flamme"
+            ],
+            "description": "She lived a millennium before the story and was [Frieren](https://anilist.co/character/176754/Frieren)'s teacher."
+          }
+        },
+        {
+          "id": 219734,
+          "name": "Serie",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b219734-aS4UMAb16DGd.jpg",
+          "description": "",
+          "nicknames": [
+            "Serie",
+            "ゼーリエ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "伊瀬茉莉也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95655-cR519BXmteKA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Serie",
+            "name_native": "ゼーリエ",
+            "name_alternative": [],
+            "description": "An elven mage who is said to possess knowledge about nearly every magic that exists. She was Flamme's master. She founded the Continental Magic Association around 20 years before Himmel's death. First-class mages get the privilege of meeting her and can ask for any magic they desire."
+          }
+        },
+        {
+          "id": 246054,
+          "name": "Methode",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246054-TKwFFWVGISUd.png",
+          "description": "",
+          "nicknames": [
+            "Methode",
+            "メトーデ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上田麗奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118602-C4bNcnyEhDTu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Methode",
+            "name_native": "メトーデ",
+            "name_alternative": [],
+            "description": "A mage that can use restraint and mental manipulation magic. Good at detecting mana and can use simple recovery magic."
+          }
+        },
+        {
+          "id": 246055,
+          "name": "Genau",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246055-3eoVNiZu3bTy.png",
+          "description": "",
+          "nicknames": [
+            "Genau",
+            "ゲナウ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "新垣樽助",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102242-bx8hrisiHiSK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Genau",
+            "name_native": "ゲナウ",
+            "name_alternative": [],
+            "description": "First-class mage who was a proctor for the first examination."
+          }
+        },
+        {
+          "id": 246056,
+          "name": "Laufen",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246056-erQexxLtGHVU.png",
+          "description": "",
+          "nicknames": [
+            "Laufen",
+            "ラオフェン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石上静香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118738-60gKflxjl80c.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Laufen",
+            "name_native": "ラオフェン",
+            "name_alternative": [],
+            "description": "A third-class mage. Specializes in magic that makes her move at high speed. Treats [Denken](https://anilist.co/character/246058/Denken) as her grandfather."
+          }
+        },
+        {
+          "id": 246057,
+          "name": "Übel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246057-ixvDfpng6I1S.png",
+          "description": "",
+          "nicknames": [
+            "Übel",
+            "ユーベル",
+            "Ubel"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "長谷川育美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n132768-r4FwpBpHnRtZ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Übel",
+            "name_native": "ユーベル",
+            "name_alternative": [
+              "Ubel"
+            ],
+            "description": "Übel is a third-class mage. Was disqualified in an earlier examination due to killing a first-class wizard. Specializes in magic that allows her to copy the spells of people she can empathize with. Relies mostly on her intuition and is not bound by logical reasoning. ~!Becomes a first-class mage after the examination.!~"
+          }
+        },
+        {
+          "id": 246058,
+          "name": "Denken",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b246058-FOtuSIUBQ4WJ.png",
+          "description": "",
+          "nicknames": [
+            "Denken",
+            "デンケン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斉藤次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102914-7ygW5ZSwODbF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Denken",
+            "name_native": "デンケン",
+            "name_alternative": [],
+            "description": "Denken is an imperial mage of the second-class. In his youth he belonged to an army but became an imperial mage after winning a power struggle. Often calm and calculating, however he still has a fire burning within despite his old age. He saw [Frieren](https://anilist.co/character/176754/Frieren) as his motivation to become a mage. ~!Becomes a first-class mage after the examination.!~"
+          }
+        },
+        {
+          "id": 293727,
+          "name": "Lawine",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293727-Jaf2eiNfINWx.png",
+          "description": "",
+          "nicknames": [
+            "Lawine",
+            "ラヴィーネ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鈴代紗弓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126963-GnhNcLWFeKmy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lawine",
+            "name_native": "ラヴィーネ",
+            "name_alternative": [],
+            "description": "Lawine is a third-class mage in the Second Party of the First Class Mage Examinations. She specializes in manipulating ice."
+          }
+        },
+        {
+          "id": 293728,
+          "name": "Kanne",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b293728-0ylNRoIOORcD.png",
+          "description": "",
+          "nicknames": [
+            "Kanne",
+            "カンネ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "和氣あず未",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119517-ggxWaTnTOrxW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kanne",
+            "name_native": "カンネ",
+            "name_alternative": [],
+            "description": "Kanne is a third-class mage who graduated from the Academy of Magic. She is childhood friends and classmates with [Lawine](https://anilist.co/character/293727), and the two entered the first-class mage exam together. In the first stage of the exam, she was paired with Lawine and [Frieren](https://anilist.co/character/176754)."
+          }
+        },
+        {
+          "id": 315278,
+          "name": "Qual",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315278-PKRDf4IJJ1GK.png",
+          "description": "",
+          "nicknames": [
+            "Qual",
+            "クヴァール",
+            "Fuhai no Ken Rou (腐敗の賢老)",
+            "Elder Sage of Corruption",
+            "Kvar"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "安元洋貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Qual",
+            "name_native": "クヴァール",
+            "name_alternative": [
+              "Fuhai no Ken Rou (腐敗の賢老)",
+              "Elder Sage of Corruption",
+              "Kvar"
+            ],
+            "description": "A feared and powerful demon who served the Demon King."
+          }
+        },
+        {
+          "id": 315929,
+          "name": "Edel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315929-mJfCA4CLVxJZ.png",
+          "description": "",
+          "nicknames": [
+            "Edel",
+            "エーデル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "黒沢ともよ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106661-xn3K6nAx2ijO.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Edel",
+            "name_native": "エーデル",
+            "name_alternative": [],
+            "description": "Edel is a second-class mage in the Seventeenth Party, alongside Blei and Dunst, of the First Class Mage Exam. She specializes in Hypnosis Magic."
+          }
+        },
+        {
+          "id": 316985,
+          "name": "Lügner",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316985-YkCeSIfDF7U1.png",
+          "description": "",
+          "nicknames": [
+            "Lügner",
+            "リュグナー",
+            "Lugner"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "諏訪部順一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lügner",
+            "name_native": "リュグナー",
+            "name_alternative": [
+              "Lugner"
+            ],
+            "description": "Lügner was a demon who served [Aura the Guillotine](https://anilist.co/character/219110/Aura)."
+          }
+        },
+        {
+          "id": 316986,
+          "name": "Linie",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316986-spmwGktNwX3W.png",
+          "description": "",
+          "nicknames": [
+            "Linie",
+            "リーニエ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石見舞菜香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121821-tQSkHZEuB3XH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Linie",
+            "name_native": "リーニエ",
+            "name_alternative": [],
+            "description": "Linie is a Demon working under [Aura](https://anilist.co/character/219110/Aura). Under Aura's instruction, she was sent to assist [Lügner](https://anilist.co/character/316985/Lgner) alongside [Draht](https://anilist.co/character/316987/Draht) to perform negotiations with [Graf Granat](https://anilist.co/character/318147/Granat-Hakushaku)."
+          }
+        },
+        {
+          "id": 316987,
+          "name": "Draht",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316987-QDp2A6SoHsee.png",
+          "description": "",
+          "nicknames": [
+            "Draht",
+            "ドラート",
+            "Dorat"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大鈴功起",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n253951-umoJLgzeroK2.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Draht",
+            "name_native": "ドラート",
+            "name_alternative": [
+              "Dorat"
+            ],
+            "description": "Draht was a demon who served [Aura the Guillotine](https://anilist.co/character/219110/Aura)."
+          }
+        },
+        {
+          "id": 318147,
+          "name": "Granat Hakushaku",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b318147-BcJTRcTqSIYy.png",
+          "description": "",
+          "nicknames": [
+            "Granat Hakushaku",
+            "グラナト伯爵",
+            "Graf Granat"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "咲野俊介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102492-pQ40ldxp1aXB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Granat Hakushaku",
+            "name_native": "グラナト伯爵",
+            "name_alternative": [
+              "Graf Granat"
+            ],
+            "description": "Ruler of Graf Granat's Domain, a fortified city in the Northern Lands constantly at war with Aura."
+          }
+        },
+        {
+          "id": 319598,
+          "name": "Stoltz",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319598-R0kVKvFug65D.png",
+          "description": "",
+          "nicknames": [
+            "Stoltz",
+            "シュトルツ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "江口拓也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Stoltz",
+            "name_native": "シュトルツ",
+            "name_alternative": [],
+            "description": "Stark's older brother, referred to as the strongest warrior in the village."
+          }
+        },
+        {
+          "id": 319599,
+          "name": "Tsurugi no Sato no Satoosa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319599-mCoQepXMeCi6.png",
+          "description": "",
+          "nicknames": [
+            "Tsurugi no Sato no Satoosa",
+            "剣の里の里長",
+            "Chief of Sword Village"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小原好美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121961-TaMewK1taQm6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tsurugi no Sato no Satoosa",
+            "name_native": "剣の里の里長",
+            "name_alternative": [
+              "Chief of Sword Village"
+            ],
+            "description": "The current chief of the Village of the Sword. Her position was inherited. She is young for the position and postures to try to make up for her lack of height, but when faced with danger or matters regarding the Hero's Blade, she is collected and calm."
+          }
+        },
+        {
+          "id": 321716,
+          "name": "Wirbel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321716-ORxrJOHaI4H4.png",
+          "description": "",
+          "nicknames": [
+            "Wirbel",
+            "ヴィアベル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "谷山紀章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95196-t2vbxQMee0ci.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Wirbel",
+            "name_native": "ヴィアベル",
+            "name_alternative": [],
+            "description": "Second-class mage and the leader of the eighth party during the first stage of the First Class Mage Exam. He is the captain of the Northern Magic Corps and is thus a very experienced mage. Specializes in magic that restrains the opponent when their body is in full-view."
+          }
+        },
+        {
+          "id": 321717,
+          "name": "Richter",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321717-hDlFSdvTeZpq.png",
+          "description": "",
+          "nicknames": [
+            "Richter",
+            "リヒター"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "花輪英司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95804-plVC2L7kuwTE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Richter",
+            "name_native": "リヒター",
+            "name_alternative": [],
+            "description": "Second-class mage who participates in the First Class Mage Exam at the same time as Frieren and Fern. He owns a magical store in Äußerst where he specializes in repairing broken staves."
+          }
+        },
+        {
+          "id": 321718,
+          "name": "Ehre",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321718-MV9ZCxtNdOpJ.png",
+          "description": "",
+          "nicknames": [
+            "Ehre",
+            "エーレ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "伊藤かな恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95762-qhWmwni3TT6Y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ehre",
+            "name_native": "エーレ",
+            "name_alternative": [],
+            "description": "Second-class mage in the Eighth Party, alongside Wirbel and Scharf, in the First Class Mage Exam. Fern feels that she is the strongest within both the Fourth and Eighth parties."
+          }
+        },
+        {
+          "id": 321719,
+          "name": "Land",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321719-GUHhBOb81K9H.png",
+          "description": "",
+          "nicknames": [
+            "Land",
+            "ラント"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小松昌平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123613-GYj8p7vvWNRP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Land",
+            "name_native": "ラント",
+            "name_alternative": [],
+            "description": "Second-class mage in the Fourth Party of the First Class Mage Examination. He specializes in illusion magic."
+          }
+        },
+        {
+          "id": 321720,
+          "name": "Sense",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321720-LRfYAvhD5I7l.png",
+          "description": "",
+          "nicknames": [
+            "Sense",
+            "ゼンゼ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "照井春佳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109161-vJHWg4PyYW0a.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sense",
+            "name_native": "ゼンゼ",
+            "name_alternative": [],
+            "description": "First-class mage that is proctoring the Second Exam of the First Class Mage Examination. She is a solemn person who rarely speaks."
+          }
+        },
+        {
+          "id": 325587,
+          "name": "Blei",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b325587-P0uMjKW28Lue.png",
+          "description": "",
+          "nicknames": [
+            "Blei",
+            "ブレイ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋伸也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105148-wgwzwTxAERbM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Blei",
+            "name_native": "ブレイ",
+            "name_alternative": [],
+            "description": "Participant in the examination for the title of mage first class.\n~!Sacrificed himself to help Dunst deliver important information to his comrades in the lower level of the dungeon.!~"
+          }
+        },
+        {
+          "id": 325588,
+          "name": "Falsch",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b325588-sjv4RqiBH9Ar.png",
+          "description": "",
+          "nicknames": [
+            "Falsch",
+            "ファルシュ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白石兼斗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Falsch",
+            "name_native": "ファルシュ",
+            "name_alternative": [],
+            "description": "First class mage. Acts as an observer in magical exams."
+          }
+        },
+        {
+          "id": 325589,
+          "name": "Länge",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b325589-EcLdKYGE9gCz.png",
+          "description": "",
+          "nicknames": [
+            "Länge",
+            "レンゲ",
+            "Lange"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "照井春佳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109161-vJHWg4PyYW0a.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Länge",
+            "name_native": "レンゲ",
+            "name_alternative": [
+              "Lange"
+            ],
+            "description": "Participant in the examination for the title of mage first class. Slightly distracted girl. Likes to read books and learn new spells."
+          }
+        },
+        {
+          "id": 326423,
+          "name": "Senshi Gorilla",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326423-uewX18Jqk86t.png",
+          "description": "",
+          "nicknames": [
+            "Senshi Gorilla",
+            "戦士ゴリラ",
+            "Warrior Gorilla"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "手塚ヒロミチ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119724-BHqgrwh0AHie.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "國府咲月",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n288957-ruqI4b4zF8ah.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Senshi Gorilla",
+            "name_native": "戦士ゴリラ",
+            "name_alternative": [
+              "Warrior Gorilla"
+            ],
+            "description": "Childhood friend of [Sein](https://anilist.co/character/205177) who dreamed of going on an adventure and becoming a legendary hero. A long time ago, he asked Sein to start adventuring with him, which Sein refused and regretted since."
+          }
+        },
+        {
+          "id": 326825,
+          "name": "Orden",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326825-NKZMl8ythv6u.png",
+          "description": "",
+          "nicknames": [
+            "Orden",
+            "オルデン",
+            "Lord Orden"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内田夕夜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96637-GOQaib9J8Mu6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Orden",
+            "name_native": "オルデン",
+            "name_alternative": [
+              "Lord Orden"
+            ],
+            "description": "Nobleman presiding over the Vorig Fortified City and the current head of the Orden family, one of the Three Great Knightly Houses of the Northern Lands."
+          }
+        },
+        {
+          "id": 326826,
+          "name": "Gabel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326826-KhpnVx4CE6Oc.png",
+          "description": "",
+          "nicknames": [
+            "Gabel",
+            "ガーベル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中務貴幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128195-BMcl9CbZQKGm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gabel",
+            "name_native": "ガーベル",
+            "name_alternative": [],
+            "description": "Servant of [Lord Orden](https://anilist.co/character/326825)."
+          }
+        },
+        {
+          "id": 326830,
+          "name": "Voll Jii",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326830-aTNNxR4FaVfV.png",
+          "description": "",
+          "nicknames": [
+            "Voll Jii",
+            "フォル爺",
+            "Old Man Voll"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "星野充昭",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95945-SnY7HVDqchdI.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Voll Jii",
+            "name_native": "フォル爺",
+            "name_alternative": [
+              "Old Man Voll"
+            ],
+            "description": "Elderly Dwarf warrior and a long-time friend of Frieren. He resides in a village in the Klar Region."
+          }
+        },
+        {
+          "id": 327299,
+          "name": "Lernen",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327299-NgvxpyNecgoZ.png",
+          "description": "",
+          "nicknames": [
+            "Lernen",
+            "レルネン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宮内敦士",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/7699.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lernen",
+            "name_native": "レルネン",
+            "name_alternative": [],
+            "description": "An old friend of Denken. First Class Mage and Serie's apprentice. Rarely acts directly, preferring stealth.\n~!Helped in the extraction and transfer of information necessary for the liberation of Denken's hometown.!~"
+          }
+        },
+        {
+          "id": 327306,
+          "name": "Toun",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327306-YqyWmCb95C6F.png",
+          "description": "",
+          "nicknames": [
+            "Toun",
+            "トーン",
+            "Ton"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "坂泰斗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n151336-Z9ZnITPdVRaW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Toun",
+            "name_native": "トーン",
+            "name_alternative": [
+              "Ton"
+            ],
+            "description": "Participant in the examination for the title of mage first class. Distrustful and self-confident mage."
+          }
+        },
+        {
+          "id": 327560,
+          "name": "Dünste",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327560-WvAkF0ZoXLSD.png",
+          "description": "",
+          "nicknames": [
+            "Dünste",
+            "ドゥンスト",
+            "Dunste"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "こばたけまさふみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n254486-8gVRwsQFhknA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dünste",
+            "name_native": "ドゥンスト",
+            "name_alternative": [
+              "Dunste"
+            ],
+            "description": "Participant in the First Class Mage Exam. \n\n"
+          }
+        },
+        {
+          "id": 315628,
+          "name": "Sanretsu-sha C",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Sanretsu-sha C",
+            "参列者"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白石兼斗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Sanretsu-sha C",
+            "name_native": "参列者",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 315630,
+          "name": "Ou-sama",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315630-8KezkCJX7RoK.png",
+          "description": "",
+          "nicknames": [
+            "Ou-sama",
+            "王様",
+            "King"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐々健太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163674-f2W4ohvETz1B.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Ou-sama",
+            "name_native": "王様",
+            "name_alternative": [
+              "King"
+            ],
+            "description": "The King resides in the Royal Capital in the Central Lands. The King's influence reaches across the Central and Northern Lands. When the Hero Party first set out on their journey to defeat the Demon King, he provided them with ten copper coins."
+          }
+        },
+        {
+          "id": 315631,
+          "name": "Mahou-ten Tenshu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315631-GLsgmUdVPOvY.png",
+          "description": "",
+          "nicknames": [
+            "Mahou-ten Tenshu",
+            "魔法店店主",
+            "Magic Shop Owner"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "こばたけまさふみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n254486-8gVRwsQFhknA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Mahou-ten Tenshu",
+            "name_native": "魔法店店主",
+            "name_alternative": [
+              "Magic Shop Owner"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 315634,
+          "name": "Yakusou-ka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315634-P8SlQd4L5IVp.png",
+          "description": "",
+          "nicknames": [
+            "Yakusou-ka",
+            "葉草家",
+            "Herbalist"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "さとうあい",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100365-AkFIrOwQkTi0.png",
+              "language": "日语"
+            },
+            {
+              "name": "松田カミリ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Yakusou-ka",
+            "name_native": "葉草家",
+            "name_alternative": [
+              "Herbalist"
+            ],
+            "description": "A herbalist that lives in a village in the Turk Region."
+          }
+        },
+        {
+          "id": 315636,
+          "name": "Noufu A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315636-mW4aEOKDvXCq.png",
+          "description": "",
+          "nicknames": [
+            "Noufu A",
+            "農夫",
+            "Farmer"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "喜屋武和輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n251850-mT3vK3ka5yGP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Noufu A",
+            "name_native": "農夫",
+            "name_alternative": [
+              "Farmer"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 315637,
+          "name": "Chounin A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315637-hmH9dWqqKEK4.png",
+          "description": "",
+          "nicknames": [
+            "Chounin A",
+            "町人"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白石兼斗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Chounin A",
+            "name_native": "町人",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 315638,
+          "name": "Arakuremono A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315638-5logd93rfCIx.png",
+          "description": "",
+          "nicknames": [
+            "Arakuremono A",
+            "荒くれ者"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "こばたけまさふみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n254486-8gVRwsQFhknA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Arakuremono A",
+            "name_native": "荒くれ者",
+            "name_alternative": [],
+            "description": "An adventurer that hangs out in a tavern in Warm."
+          }
+        },
+        {
+          "id": 315640,
+          "name": "Roujin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315640-y840skyBVFcH.png",
+          "description": "",
+          "nicknames": [
+            "Roujin",
+            "老人",
+            "Old Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "園部啓一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96302-LV7xdQBELja3.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Roujin",
+            "name_native": "老人",
+            "name_alternative": [
+              "Old Man"
+            ],
+            "description": "An elder wearing a straw hat in the village by where Qual is sealed. Himmel would talk with him when he visited to check on the condition of the seal."
+          }
+        },
+        {
+          "id": 315641,
+          "name": "Neko",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315641-Wa7OuPAnzK73.png",
+          "description": "",
+          "nicknames": [
+            "Neko",
+            "ネコ",
+            "Cat"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤はな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125030-qmzaBaeQA7xF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Neko",
+            "name_native": "ネコ",
+            "name_alternative": [
+              "Cat"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 315642,
+          "name": "Sonchou A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315642-Nm5q1N4QCmlt.png",
+          "description": "",
+          "nicknames": [
+            "Sonchou A",
+            "村長",
+            "Granz Kaikyou no Sonchou (グランツ海峡の村長)",
+            "Granz Channel Village Chief"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宮澤正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/861.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Sonchou A",
+            "name_native": "村長",
+            "name_alternative": [
+              "Granz Kaikyou no Sonchou (グランツ海峡の村長)",
+              "Granz Channel Village Chief"
+            ],
+            "description": "An elder that lives in the Granz Channel. He offers [Frieren](https://anilist.co/character/176754/Frieren) and [Fern](https://anilist.co/character/183965/Fern) a fake of one of the [Great Mage Flamme](https://anilist.co/character/219733/Flamme)'s grimoires as payment for cleaning up the shore of the channel by the New Year's Anniversary and checks up on them throughout their stay in town."
+          }
+        },
+        {
+          "id": 315643,
+          "name": "Pan-ya Tenshu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315643-WqB5zj3zrZsf.png",
+          "description": "",
+          "nicknames": [
+            "Pan-ya Tenshu",
+            "パン屋店主",
+            "Bakery Owner"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大井麻利衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176221-OIbPderUA1X0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Pan-ya Tenshu",
+            "name_native": "パン屋店主",
+            "name_alternative": [
+              "Bakery Owner"
+            ],
+            "description": "A kind woman that owns a bakery in the Granz Channel. She gives [Fern](https://anilist.co/character/183965/Fern) extra bread for being a regular customer while [Frieren](https://anilist.co/character/176754/Frieren) and Fern stay in town to clean up the shore."
+          }
+        },
+        {
+          "id": 315644,
+          "name": "Baasan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315644-sv7ZoEaOwu42.png",
+          "description": "",
+          "nicknames": [
+            "Baasan",
+            "婆さん"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岡田幸子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n162829-O1cil4pgZGl6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Baasan",
+            "name_native": "婆さん",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 316456,
+          "name": "Murabito A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316456-qIoFlUCR6Qbw.png",
+          "description": "",
+          "nicknames": [
+            "Murabito A",
+            "村人",
+            "Obaachan (祖母)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "土井美加",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95155-hLCyqylRTNOo.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Murabito A",
+            "name_native": "村人",
+            "name_alternative": [
+              "Obaachan (祖母)"
+            ],
+            "description": "A old lady that is seen taking care of two young children in Riegel Canyon."
+          }
+        },
+        {
+          "id": 316459,
+          "name": "Kodomo A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316459-d982O7o48BPF.png",
+          "description": "",
+          "nicknames": [
+            "Kodomo A",
+            "子供",
+            "Mago (孫)",
+            "Grandson",
+            "Ani (兄)",
+            "Older Brother"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "広瀬さや",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n202363-cdABzZrDmkn6.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kodomo A",
+            "name_native": "子供",
+            "name_alternative": [
+              "Mago (孫)",
+              "Grandson",
+              "Ani (兄)",
+              "Older Brother"
+            ],
+            "description": "A child from Riegel Canyon. He adores [Stark](https://anilist.co/character/184313/Stark) and seek his attention."
+          }
+        },
+        {
+          "id": 319165,
+          "name": "Mazoku",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b319165-8WI7HrFjTgQr.jpg",
+          "description": "",
+          "nicknames": [
+            "Mazoku",
+            "魔族",
+            "Demon"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "河村梨恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n137627-3zHTrIfTjepM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Mazoku",
+            "name_native": "魔族",
+            "name_alternative": [
+              "Demon"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326328,
+          "name": "Tenshu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326328-mfYja0XnPyaf.png",
+          "description": "",
+          "nicknames": [
+            "Tenshu",
+            "店主",
+            "Owner"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大井麻利衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176221-OIbPderUA1X0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Tenshu",
+            "name_native": "店主",
+            "name_alternative": [
+              "Owner"
+            ],
+            "description": "A woman who live in the village [Stark](https://anilist.co/character/184313/Stark) protected in Riegel Canyon."
+          }
+        },
+        {
+          "id": 326365,
+          "name": "Eihei A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326365-wIkgs5umXhPH.png",
+          "description": "",
+          "nicknames": [
+            "Eihei A",
+            "衛兵",
+            "Guard"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白石兼斗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Eihei A",
+            "name_native": "衛兵",
+            "name_alternative": [
+              "Guard"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326366,
+          "name": "Joudai",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326366-0StaxFsTuljH.png",
+          "description": "",
+          "nicknames": [
+            "Joudai",
+            "城代",
+            "Jousai Toshi Waal no Joudai (城塞都市ヴァールの城代)",
+            "Castellan",
+            "Constable"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山口恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n247088-KFsxwIgkqdOk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Joudai",
+            "name_native": "城代",
+            "name_alternative": [
+              "Jousai Toshi Waal no Joudai (城塞都市ヴァールの城代)",
+              "Castellan",
+              "Constable"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326367,
+          "name": "Eihei Taichou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326367-7UGb0cxDUJTa.png",
+          "description": "",
+          "nicknames": [
+            "Eihei Taichou",
+            "衛兵隊長",
+            "Guard Captain"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中島卓也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n142107-tc4KxRPG1m8w.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Eihei Taichou",
+            "name_native": "衛兵隊長",
+            "name_alternative": [
+              "Guard Captain"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326368,
+          "name": "Master",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326368-VLLHDdvQkNHw.png",
+          "description": "",
+          "nicknames": [
+            "Master",
+            "マスター",
+            "Jousai Toshi Waal no Master (城塞都市ヴァールのマスター)",
+            "Walled City Barmaster"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岡井カツノリ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120265-OwG4L7QF0IR4.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Master",
+            "name_native": "マスター",
+            "name_alternative": [
+              "Jousai Toshi Waal no Master (城塞都市ヴァールのマスター)",
+              "Walled City Barmaster"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326370,
+          "name": "Tabibito",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326370-kX9lZoYMqx5l.png",
+          "description": "",
+          "nicknames": [
+            "Tabibito",
+            "旅人",
+            "Traveler"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "最上嗣生",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103730-qtf6D57hUNAf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Tabibito",
+            "name_native": "旅人",
+            "name_alternative": [
+              "Traveler"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326373,
+          "name": "Hahaoya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326373-scCzFQPjzwlx.png",
+          "description": "",
+          "nicknames": [
+            "Hahaoya",
+            "母親",
+            "Mother"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "河村梨恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n137627-3zHTrIfTjepM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Hahaoya",
+            "name_native": "母親",
+            "name_alternative": [
+              "Mother"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326401,
+          "name": "Shinpu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326401-KRjCtGDYapXj.png",
+          "description": "",
+          "nicknames": [
+            "Shinpu",
+            "神父",
+            "Priest"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白石兼斗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Shinpu",
+            "name_native": "神父",
+            "name_alternative": [
+              "Priest"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326416,
+          "name": "Sokkin A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326416-ypzhGTLPDeTC.png",
+          "description": "",
+          "nicknames": [
+            "Sokkin A",
+            "側近",
+            "Granat-ryou no Sokkin (グラナト領の側近)",
+            "Granat's Aide"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "こばたけまさふみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n254486-8gVRwsQFhknA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Sokkin A",
+            "name_native": "側近",
+            "name_alternative": [
+              "Granat-ryou no Sokkin (グラナト領の側近)",
+              "Granat's Aide"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326419,
+          "name": "Shounen",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326419-uIABOuHXclfv.png",
+          "description": "",
+          "nicknames": [
+            "Shounen",
+            "少年"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "金田愛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n248928-lHDvF6vGw4kQ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Shounen",
+            "name_native": "少年",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 326420,
+          "name": "Stark no Chichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326420-ILAb6lB1X1ug.png",
+          "description": "",
+          "nicknames": [
+            "Stark no Chichi",
+            "シュタルクの父",
+            "Stark's Father"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "加瀬康之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95801-Jno6Y2OawOII.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Stark no Chichi",
+            "name_native": "シュタルクの父",
+            "name_alternative": [
+              "Stark's Father"
+            ],
+            "description": "[Stark](https://anilist.co/character/184313/Stark)'s father is a harsh, militant man. He considers Stark a failure. He is also strict with the other warriors of the village, scolding them for their pathetic display against a monster and praising [Stoltz](https://anilist.co/character/319598/Stoltz), who he considered the pride of the village, for defeating it while keeping his white cape pristine."
+          }
+        },
+        {
+          "id": 326424,
+          "name": "Sein no Ani",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326424-7XjJM2L2SDJ2.png",
+          "description": "",
+          "nicknames": [
+            "Sein no Ani",
+            "ザインの兄",
+            "Sein's Older Brother"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "平川大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95183-5C42gbrKIP7L.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Sein no Ani",
+            "name_native": "ザインの兄",
+            "name_alternative": [
+              "Sein's Older Brother"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326425,
+          "name": "Shounin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326425-0n6DeTHGvxc9.png",
+          "description": "",
+          "nicknames": [
+            "Shounin",
+            "商人",
+            "Merchant"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白石兼斗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Shounin",
+            "name_native": "商人",
+            "name_alternative": [
+              "Merchant"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326827,
+          "name": "Mut",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326827-wtHrYsdSocOK.png",
+          "description": "",
+          "nicknames": [
+            "Mut",
+            "ムート"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Mut",
+            "name_native": "ムート",
+            "name_alternative": [],
+            "description": "Lord Orden's youngest son and the next heir of the Orden family."
+          }
+        },
+        {
+          "id": 326828,
+          "name": "Wirt",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326828-cujHlvsd6xLc.png",
+          "description": "",
+          "nicknames": [
+            "Wirt",
+            "ヴィルト"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Wirt",
+            "name_native": "ヴィルト",
+            "name_alternative": [],
+            "description": "Lord Orden's oldest son. Wirt passed away in a melee against demon forces but managed to kill the enemy general."
+          }
+        },
+        {
+          "id": 326829,
+          "name": "Ryoushu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326829-Rr4Axla8I7KU.png",
+          "description": "",
+          "nicknames": [
+            "Ryoushu",
+            "領主"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松本沙羅",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n134577-YqnHKJF008t2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Ryoushu",
+            "name_native": "領主",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 326833,
+          "name": "Gankobaa-san",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326833-kn1X1mSLWtTC.png",
+          "description": "",
+          "nicknames": [
+            "Gankobaa-san",
+            "頑固婆さん",
+            "Stubborn Old Lady"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "久保田民絵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107014-S8FDieKc2CBw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Gankobaa-san",
+            "name_native": "頑固婆さん",
+            "name_alternative": [
+              "Stubborn Old Lady"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327208,
+          "name": "Koya no Omo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327208-MknLdYM8opUz.png",
+          "description": "",
+          "nicknames": [
+            "Koya no Omo",
+            "小屋の主",
+            "Hut Owner"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "こばたけまさふみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n254486-8gVRwsQFhknA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Koya no Omo",
+            "name_native": "小屋の主",
+            "name_alternative": [
+              "Hut Owner"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327210,
+          "name": "Uufu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327210-Z8BgPruEI9fT.png",
+          "description": "",
+          "nicknames": [
+            "Uufu",
+            "ウーフ",
+            "Shokuin (職員)",
+            "Staff"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中貴子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125361-2LA9IYJ9A8Ix.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Uufu",
+            "name_native": "ウーフ",
+            "name_alternative": [
+              "Shokuin (職員)",
+              "Staff"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327493,
+          "name": "Touzoku A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Touzoku A",
+            "盗賊",
+            "Thief"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "濱本大史",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n327495-6D494yE2R3Xk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Touzoku A",
+            "name_native": "盗賊",
+            "name_alternative": [
+              "Thief"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327496,
+          "name": "Juken-sha A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327496-fFQzGKemc5rx.png",
+          "description": "",
+          "nicknames": [
+            "Juken-sha A",
+            "受験者"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤原聖侑",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n209569-Pw0OHAVW211B.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Juken-sha A",
+            "name_native": "受験者",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327519,
+          "name": "Wakamono",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327519-z7UZ3j4Mqj8Z.png",
+          "description": "",
+          "nicknames": [
+            "Wakamono",
+            "若者"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白石兼斗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n203133-cdhZPKIQA0Qh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Wakamono",
+            "name_native": "若者",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327520,
+          "name": "Take no Ojii-san",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327520-Srf2rY1z3pG5.png",
+          "description": "",
+          "nicknames": [
+            "Take no Ojii-san",
+            "武のおじいさん"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "チョー ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95898-XHSESV65G8Jv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Take no Ojii-san",
+            "name_native": "武のおじいさん",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327521,
+          "name": "Roufujin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327521-oAFD2538qD73.png",
+          "description": "",
+          "nicknames": [
+            "Roufujin",
+            "老婦人"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "片貝薫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106504-huyc5MpBPxnu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Roufujin",
+            "name_native": "老婦人",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327522,
+          "name": "Lecker",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327522-LQCVZCDyr6kl.png",
+          "description": "",
+          "nicknames": [
+            "Lecker",
+            "レッカー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "川田紳司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95410-AosJKUc7YZXE.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Lecker",
+            "name_native": "レッカー",
+            "name_alternative": [],
+            "description": "The head chef for the restaurant Bell in Äußerst."
+          }
+        }
+      ]
+    }
+  ]
+}

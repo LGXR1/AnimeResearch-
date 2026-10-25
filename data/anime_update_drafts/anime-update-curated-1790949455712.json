@@ -1,0 +1,1683 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:53:17.046Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 20031,
+      "anime_title": "属性同好会",
+      "anime_origin": "JP",
+      "source": {
+        "id": 20031,
+        "titles": [
+          "D-Frag!",
+          "ディーふらぐ!",
+          "D Frag",
+          "D-Fragments!"
+        ],
+        "year": 2014,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/20031"
+      },
+      "characters": [
+        {
+          "id": 42633,
+          "name": "风间坚次",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/42633-4wpCwFjAHUVp.png",
+          "description": "风间坚次是府上学园中被称作“恶名昭彰”的不良少年，外表最明显的特征是硬挺的刺猬头。他没有同伴们那种特殊能力，却很擅长在混乱对话中接话吐槽。坚次原本希望成为学校里最强的人，却不断被游戏制作部的女生们压制；他被迫加入临时游戏制作部后，也开始与一群言行古怪的成员共同活动。",
+          "nicknames": [
+            "风间坚次",
+            "Kenji Kazama",
+            "風間堅次",
+            "风间"
+          ],
+          "traits": [
+            "府上学园的学生",
+            "被称为不良少年",
+            "发型硬挺醒目",
+            "擅长接话吐槽",
+            "渴望成为校内最强",
+            "被迫加入临时游戏制作部",
+            "常被社团女生的实力压制",
+            "与风间军团成员关系密切"
+          ],
+          "voice_actors": [
+            {
+              "name": "小西克幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kenji Kazama",
+            "name_native": "風間堅次",
+            "name_alternative": [],
+            "description": "An 'infamous' delinquent at Fujou High. Unlike the members of his gang, he possesses no special or remarkable traits other than his hard spiky hair and his straight man ability. He is also a member of the Game Production Club (Temp), after he was coerced into it by the other 4 original members.   He has a desire to be the strongest at the school, but constantly wonders why the girls are much more stronger; and why the guys are usually freaks."
+          }
+        },
+        {
+          "id": 42634,
+          "name": "柴崎芦花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42634-elM4WZgAIwnm.png",
+          "description": "柴崎芦花是临时游戏制作部部长，常把自己的属性称为“火”，后来却表示真正的属性其实是“黑暗”。她的战斗方式很特别，会把纸袋套在对手头上遮住视线，因此随身准备许多备用纸袋。芦花被称作“最强黑暗”，也是校内实力最强的学生之一。她把风间坚次视为重要的人，看到别的女生接近坚次时会流露出嫉妒。",
+          "nicknames": [
+            "柴崎芦花",
+            "Roka Shibasaki",
+            "芦花"
+          ],
+          "traits": [
+            "临时游戏制作部部长",
+            "自称拥有火属性",
+            "后来表示真正属性是黑暗",
+            "以套袋蒙住对手视线进行战斗",
+            "随身携带许多备用纸袋",
+            "拥有“最强黑暗”称号",
+            "被认为是学校最强者",
+            "把风间坚次视作重要的人",
+            "会因其他女生接近坚次而吃醋"
+          ],
+          "voice_actors": [
+            {
+              "name": "花澤香菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Roka Shibasaki",
+            "name_native": "柴崎芦花",
+            "name_alternative": [],
+            "description": "The president of the Game Creation Club (Provisional). She refers her element as \"Fire\", but later states that her true element is actually \"Darkness.\" Her main combat method is putting a bag over her opponents' head, rendering them blind, hence the darkness element. She carries a lot of spare bags so she can use them anytime. Despite having a small profile, she is referred as \"Strongest Darkness\" and is the strongest in school. She refers Kenji as her \"important person\", and shows jealousy when other girls approach him. (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 42635,
+          "name": "高尾",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/42635-fr0dFvY0H0Hd.png",
+          "description": "高尾是正式游戏制作部的部长，与柴崎芦花曾经是朋友。芦花离开社团并成立临时游戏制作部后，两人的关系变得微妙，校内也因此出现两个名称相近的游戏社团。高尾身材曲线十分显眼，常被同学用“胸部属性”开玩笑；她本人则对风间坚次抱有好感。作为正式社团负责人，她需要处理社团活动，也会与芦花一行人发生竞争和互动。",
+          "nicknames": [
+            "高尾",
+            "Takao",
+            "高尾部長",
+            "Takao-buchou",
+            "高尾部长"
+          ],
+          "traits": [
+            "真正的游戏制作部部长",
+            "与柴崎芦花原本是朋友",
+            "芦花离开后另组临时社团",
+            "身材曲线十分显眼",
+            "被同学戏称为胸部属性",
+            "对风间坚次抱有好感",
+            "以认真态度经营正式社团",
+            "与临时游戏制作部保持竞争关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "伊藤静",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Takao",
+            "name_native": "高尾部長",
+            "name_alternative": [
+              "Takao-buchou"
+            ],
+            "description": "President of the \"real\" Game Creation Club with no known first name. Friends with Roka, even though she left and started her own Game Creation Club on negative terms. Others in the school refer to Takao as a \"Boobs\" elemental in later chapters due to their large size and amount of times they affect other people. ~!She has feelings for Kazama.!~ (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 42636,
+          "name": "乌山千岁",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42636-ioWpsbtg78ja.png",
+          "description": "乌山千岁是府上学园的二年级学生，也是掌握强大校内权力的学生会长，连教师也会顾忌她的决定。她自称拥有“土”属性，战斗时会直接挥拳、向对手扬土，或提前挖出陷阱；有时还会把对手埋到只露出脖子。千岁以强硬方式管理学生会，和游戏制作部成员之间经常发生冲突，也让学生会的日常工作变得像一场特殊的属性战。",
+          "nicknames": [
+            "乌山千岁",
+            "Chitose Karasuyama",
+            "烏山千歳",
+            "千岁"
+          ],
+          "traits": [
+            "府上学园二年级学生",
+            "担任学生会长",
+            "在校内拥有很强权威",
+            "自称土属性",
+            "擅长用拳头攻击对手",
+            "会向对手扬土",
+            "能够挖掘陷阱",
+            "会把对手埋到脖子以下"
+          ],
+          "voice_actors": [
+            {
+              "name": "斎藤千和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-R8YSAYX7UFCO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Chitose Karasuyama",
+            "name_native": "烏山千歳",
+            "name_alternative": [],
+            "description": "A second-year and the Student Council President. Her authority is so great even the teachers fear her. Her element is \"Earth\", and her main combat method includes punching her opponent, throwing dirt at them, or digging traps. She also has a habit of burying her victims up to the neck. (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 42637,
+          "name": "水上樱",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/42637-MFM7OeAGMFnO.png",
+          "description": "水上樱是府上学园的一年级学生，留着粉色头发，性格活泼直率。她自称属于“水”属性，随身带着水瓶，战斗时会把水倒在手上，也会把水灌进对手嘴里。樱后来开始称风间坚次为哥哥，还把坚次的妹妹之江叫作自己的妹妹；两人虽然都否认这种家庭关系，她仍坚持以此称呼。樱的行动常为社团活动带来突发的喜剧场面。",
+          "nicknames": [
+            "水上樱",
+            "Sakura Mizukami",
+            "水上桜",
+            "樱"
+          ],
+          "traits": [
+            "府上学园一年级学生",
+            "留着粉色头发",
+            "性格活泼直率",
+            "自称水属性",
+            "随身带着水瓶",
+            "会把水抹在手上对战",
+            "有时强迫对手喝水",
+            "后来称坚次为哥哥",
+            "把之江叫作妹妹"
+          ],
+          "voice_actors": [
+            {
+              "name": "高橋美佳子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95132-TpIFKL0tJg84.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sakura Mizukami",
+            "name_native": "水上桜",
+            "name_alternative": [],
+            "description": "A first-year and a pink-haired tomboy. Her element is \"Water\", and she carries around a water bottle at all times. Her combat method includes pouring water on her hands, or forcing water down an opponent's throat. She later starts referring Kenji as her big brother, while Noe as her little sister, despite the denial from both. (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 42638,
+          "name": "大泽南",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/42638-DSmHn8iond5n.png",
+          "description": "大泽南是游戏制作部的顾问老师，负责监督社团活动。她自称拥有“雷电”属性，理由是自己会带着电击器；但在学校生活中，她更常被人看到趴着睡觉，甚至在自己的课堂上也会打瞌睡。南以松散慵懒的态度面对教师工作，却仍是社团成员名义上的指导者。她的出场把学生们的夸张属性游戏延伸到教师一侧，形成师生互动中的喜剧反差。",
+          "nicknames": [
+            "大泽南",
+            "Minami Oosawa",
+            "大沢南",
+            "南"
+          ],
+          "traits": [
+            "游戏制作部顾问老师",
+            "自称雷电属性",
+            "随身携带电击器",
+            "经常在课堂上睡觉",
+            "几乎随时都能打瞌睡",
+            "负责指导社团活动",
+            "以慵懒状态面对工作",
+            "在学校担任教职"
+          ],
+          "voice_actors": [
+            {
+              "name": "小清水亜美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Minami Oosawa",
+            "name_native": "大沢南",
+            "name_alternative": [],
+            "description": "The faculty advisor of the club. Her element is \"Lightning\" because she carries around a taser. She is shown to be sleeping almost anytime, even in her own class. (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 42639,
+          "name": "河原中",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/42639-rSzmQtppPrxS.png",
+          "description": "河原中是府上学园的学生会副会长，负责协助会长乌山千岁处理学生会事务。他有明显的受虐倾向，对千岁既仰慕又害怕，因此面对她的强势命令时常处于复杂的情绪之中。河原中经常参与学生会和各社团之间的交涉，也会被千岁的行动卷入混乱场面。虽然职位重要，他在千岁面前却很难保持威严，是学生会日常中颇具喜剧色彩的人物。",
+          "nicknames": [
+            "河原中",
+            "Ataru Kawahara",
+            "学生会副会长"
+          ],
+          "traits": [
+            "府上学园学生会副会长",
+            "负责协助乌山千岁",
+            "有受虐倾向",
+            "既仰慕千岁又害怕她",
+            "熟悉学生会内部事务",
+            "经常在千岁的强势下退让",
+            "参与学生会与社团的交涉",
+            "由福山润配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "福山潤",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ataru Kawahara",
+            "name_native": "河原中",
+            "name_alternative": [],
+            "description": "Student council Vice-President with a masochistic streak who both admires and fears Chitose. (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 42641,
+          "name": "子王八",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/42641-xODD5xtDsCz4.png",
+          "description": "子王八是临时游戏制作部成员，也是除风间坚次以外少数加入社团的男性。他暗恋柴崎芦花，经常把书架与墙壁之间的缝隙当作自己的座位。其他成员因为他周围似乎总有闪光效果，便把他称作“光”属性；芦花对他态度严厉，社团里多数人也常忽略他的存在。后来他加入风间军团，开始与坚次一行人共同活动。",
+          "nicknames": [
+            "子王八",
+            "Hachi Shiou",
+            "八"
+          ],
+          "traits": [
+            "临时游戏制作部成员",
+            "是坚次以外少数男社员",
+            "暗恋柴崎芦花",
+            "常躲在书架和墙之间坐着",
+            "被成员称作光属性",
+            "外表周围仿佛带有闪光效果",
+            "芦花对他态度严厉",
+            "后来加入风间军团"
+          ],
+          "voice_actors": [
+            {
+              "name": "宮田幸季",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95344-wYgLhxYeWEp4.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hachi Shiou",
+            "name_native": "子王八",
+            "name_alternative": [],
+            "description": "The only male member of the Game Creation Club (Provisional) other than Kenji with an unrequited crush on Roka. He often uses the gap between a bookshelf and the wall as his \"seat\". Other club members refer to him as a \"Light\" elemental due to the sparkles that seem to surround his appearance. Roka is quite harsh toward him, while most other club members simply ignore him. He later joined the Kazama gang. (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 42642,
+          "name": "风间之江",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/42642-ITP2A89kcT9o.png",
+          "description": "风间之江是风间坚次的妹妹，拥有和哥哥相似的刺猬头，也擅长在一群人说出荒唐台词时充当吐槽者。她经常被坚次周围接连发生的混乱闹剧弄得疲惫，承受不住时会由哥哥安慰。游戏制作部成员因为她曾经说错话，将她称作“冰”属性，也有人直接叫她“妹妹”属性。之江虽然不是社团核心成员，却常从旁见证坚次的校园生活。",
+          "nicknames": [
+            "风间之江",
+            "Noe Kazama",
+            "風間之江",
+            "之江"
+          ],
+          "traits": [
+            "风间坚次的妹妹",
+            "和哥哥有相似的刺猬头",
+            "擅长在混乱场面中吐槽",
+            "经常被社团闹剧弄得受不了",
+            "会在情绪低落时找坚次安慰",
+            "被称为冰属性",
+            "也被称作妹妹属性",
+            "是府上学园的学生"
+          ],
+          "voice_actors": [
+            {
+              "name": "加藤英美里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95052-mvDPeBcLCWmX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Noe Kazama",
+            "name_native": "風間之江",
+            "name_alternative": [],
+            "description": "Kenji's little sister who shares her brother's spiky hair and a penchant for being the comedic \"straight man\" in a world full of crazy punchlines. She is often comforted by Kenji when she can't take the insanity of his daily life. Called an \"ice\" elemental by members of the Game Creation Club after misspeaking, and has also been referred to as the \"little sister\" element. (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 66861,
+          "name": "境多摩",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66861-OwiFu1YVEF4E.png",
+          "description": "境多摩是府上学园的三年级学生，曾担任学生会长。她与乌山千岁的竞争从童年时期便已开始，即使离开会长职位，两人仍会因校园事务和个人立场发生较量。多摩对自己的双马尾发型有着特别的执着，甚至会在战斗中利用发型作为攻击手段。她熟悉学生会运作，也以学姐身份参与学园里的各种冲突，是千岁关系最久的竞争者之一。",
+          "nicknames": [
+            "境多摩",
+            "Tama Sakai",
+            "多摩"
+          ],
+          "traits": [
+            "府上学园三年级学生",
+            "曾担任学生会长",
+            "与乌山千岁从小就是对手",
+            "和千岁的竞争延续多年",
+            "格外执着于双马尾发型",
+            "会把双马尾用于战斗",
+            "熟悉学生会运作",
+            "以学姐身份参与校园冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "植田佳奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tama Sakai",
+            "name_native": "境多摩",
+            "name_alternative": [],
+            "description": "A third year student at Fujou High who was the previous student council president. There is a rivalry between her and Chitose that began since they were children.   Has an odd obsession with her twin-tail hairstyle, and uses it to her advantage in combat."
+          }
+        },
+        {
+          "id": 87759,
+          "name": "长山弘",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/87759-qK9UGFUdtD0s.png",
+          "description": "长山弘是风间坚次和横縞长期以来的朋友，也是与两人同校就读的学生。他们三人因经常结伴行动，被校内视为“风间军团”。长山与坚次相识已久，了解这位不良少年在学校里惹出的种种麻烦，也会和横縞一起出现在他的日常生活中。与社团成员相比，长山更多代表坚次原有的同学圈，连接他被迫加入游戏制作部前后的校园生活。",
+          "nicknames": [
+            "长山弘",
+            "Hiroshi Nagayama",
+            "長山ひろし",
+            "Long Mountain",
+            "长山"
+          ],
+          "traits": [
+            "府上学园学生",
+            "是风间坚次的长期好友",
+            "也是横縞的朋友",
+            "与坚次同校就读",
+            "属于风间军团三人组",
+            "常与两位朋友一起行动",
+            "熟悉坚次在学校的经历",
+            "在同伴群体中负责陪伴"
+          ],
+          "voice_actors": [
+            {
+              "name": "松田健一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105273-asextl049B2s.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hiroshi Nagayama",
+            "name_native": "長山ひろし",
+            "name_alternative": [
+              "Long Mountain"
+            ],
+            "description": "He is one of Kenji and Yokoshima's longtime​ friend and classmate, he is also part of the infamous trio called \"Kazama's Party.\""
+          }
+        },
+        {
+          "id": 88717,
+          "name": "神泉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88717-lYwXbB35isDf.png",
+          "description": "神泉曾担任府上学园学生会书记，身体有不稳定的肠胃问题，常常恶心呕吐，因此朋友和对手都叫她“呕吐女”。她会做许多不同类型的兼职，也因此时常在社团活动或校园日常中与众人相遇。神泉与境多摩、松原梓从小相识，拥有学生会之外的旧友关系。她的兼职经历和身体状况常让她意外闯入游戏制作部的活动，为故事带来新的偶遇。",
+          "nicknames": [
+            "神泉",
+            "Shinsen",
+            "呕吐女"
+          ],
+          "traits": [
+            "曾任学生会书记",
+            "肠胃状况不稳定",
+            "经常因不适而呕吐",
+            "因此被熟人叫作“呕吐女”",
+            "同时做过多种兼职工作",
+            "兼职时常遇到社团成员",
+            "与境多摩和松原梓是童年朋友",
+            "活跃于府上学园日常"
+          ],
+          "voice_actors": [
+            {
+              "name": "仙台エリ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95523-Z2mIzxl8NgnE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shinsen",
+            "name_native": "神泉",
+            "name_alternative": [],
+            "description": "Ex-student council secretary. She has an unstable stomach and often vomits to the point that friends and enemies alike call her \"Pukey\". She is often shown working many different types of part-time jobs and often runs into the club activities"
+          }
+        },
+        {
+          "id": 88718,
+          "name": "稻田堤",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88718-TZnilojnJlkp.png",
+          "description": "稻田堤是戴眼镜的女生，属于由高尾领导的正式游戏制作部。她有明显的好色倾向，常给外表柔美的樱丘换上偏女性化的服装。作为正式游戏制作部成员，稻田堤与柴崎芦花等临时社团成员处于不同阵营，尤其常被视为乌山千岁的对应角色。她的服装兴趣和社团立场，使两个游戏制作部之间的竞争多了新的互动方式。",
+          "nicknames": [
+            "稻田堤",
+            "Tsutsumi Inada",
+            "稲田堤",
+            "堤"
+          ],
+          "traits": [
+            "戴着眼镜的女生",
+            "属于正式游戏制作部",
+            "有明显的好色倾向",
+            "喜欢给樱丘换上可爱女装",
+            "作为高尾一方的社团成员",
+            "与临时游戏制作部立场相对",
+            "是乌山千岁的对应角色",
+            "参与正式社团活动"
+          ],
+          "voice_actors": [
+            {
+              "name": "豊口めぐみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95144-9Y8CtDVmxogE.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tsutsumi Inada",
+            "name_native": "稲田堤",
+            "name_alternative": [],
+            "description": "A glasses-wearing girl with a perverted streak who often dresses up Sakuragaoka in girly outfits. She acts as Chitose's counterpart for the \"real\" Game Creation Club. \n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 88719,
+          "name": "樱丘",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/88719-OBTuobUTLAp7.png",
+          "description": "樱丘是府上学园的学生，外表十分阴柔，以至于风间坚次第一次见到他时误把他当成女生。这个误会之后一直没有合适机会被纠正，坚次便持续以错误印象看待他。樱丘也会出现在正式游戏制作部的活动中，稻田堤还喜欢把他打扮成可爱的女性造型。他的外形和身份误会构成校园日常中的喜剧桥段。",
+          "nicknames": [
+            "樱丘",
+            "Sakuragaoka",
+            "桜ヶ丘"
+          ],
+          "traits": [
+            "府上学园学生",
+            "外貌十分阴柔",
+            "常被误认为女生",
+            "第一次见面时被坚次当成女孩",
+            "一直没有机会纠正误会",
+            "外表与校园男生刻板印象不同",
+            "被正式游戏制作部成员打扮",
+            "是校内喜剧误会的一方"
+          ],
+          "voice_actors": [
+            {
+              "name": "白石涼子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95348-sLIy7IMrgZeA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sakuragaoka",
+            "name_native": "",
+            "name_alternative": [
+              "桜ヶ丘"
+            ],
+            "description": "A boy with a very feminine appearance. Due to a misunderstanding during their first met, Kenji refers to him as a girl, which he never had a chance to correct."
+          }
+        },
+        {
+          "id": 135259,
+          "name": "肖恩·科内科内",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135259-qpiAX65nYpnb.jpg",
+          "description": "肖恩·科内科内是府上学园教师，教授日本古典文学，身高一百八十七厘米、体重八十三公斤。他性格随和，通常不会因为学生违反课堂秩序就严厉追究，反而会视情况找理由让学生继续活动。风间坚次认为自己欠肖恩一条命，因此即使平时是问题学生，也会认真出席他的课程。坚次的同学和高尾都觉得肖恩很可靠，使他在校内颇受欢迎。",
+          "nicknames": [
+            "肖恩·科内科内",
+            "Shawn  Conecone",
+            "ショーン・コネコネ",
+            "Dandy Teacher",
+            "Dandy Sensei",
+            "Sean Connery-sensei",
+            "Shawn Conecone",
+            "尚恩·科内科内"
+          ],
+          "traits": [
+            "府上学园教师",
+            "教授日本古典文学",
+            "身高一百八十七厘米",
+            "体重八十三公斤",
+            "性格随和不拘小节",
+            "常替学生找理由放宽要求",
+            "坚次认为自己欠他一条命",
+            "坚次因此会认真出席他的课堂"
+          ],
+          "voice_actors": [
+            {
+              "name": "中田譲治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95091-idoMaN26z80B.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shawn  Conecone",
+            "name_native": "ショーン・コネコネ",
+            "name_alternative": [
+              "Dandy Teacher",
+              "Dandy Sensei",
+              "Sean Connery-sensei"
+            ],
+            "description": "Height: 187 cm\nWeight: 83 kg\n\nHe is a teacher at Fujou High who teachers Japanese Classics. Kenji Kazama claims that he's special because he owes his life to him so thats one of the reasons why he attends his class even though he's a delinquent.\n\nHe's a very laid back guy that actually allows his students to get away with most things and he just makes an excuse according to the situation to allow them to finish what they were doing. According to Kenji Kazama's entire class and Takao he's awesome!"
+          }
+        },
+        {
+          "id": 135263,
+          "name": "松原梓",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135263-NmxkWytxHld2.jpg",
+          "description": "松原梓曾担任府上学园学生会会计，是境多摩和神泉从小认识的朋友。她与两人共享早年的校园经历，也熟悉学生会活动及相关事务。虽然在故事中的出场不如现任学生会成员频繁，梓与多摩、神泉之间的童年友情仍补充了几位角色过去的关系脉络。她的身份和旧友联系，为学生会竞争之外的校园历史提供了另一层背景。",
+          "nicknames": [
+            "松原梓",
+            "Azuma  Matsubara",
+            "東松原",
+            "Azuma Matsubara",
+            "梓"
+          ],
+          "traits": [
+            "曾任学生会会计",
+            "与境多摩是童年好友",
+            "与神泉也是童年朋友",
+            "熟悉府上学园学生会活动",
+            "和多摩共同经历过学生时代",
+            "与神泉保持旧友关系",
+            "出现在学生会相关往事中",
+            "由三瓶由布子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "三瓶由布子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95407-u8MV6kcAJNV6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Azuma  Matsubara",
+            "name_native": "東松原",
+            "name_alternative": [],
+            "description": "Azuma is the former student council treasurer. She is also the childhood friend of Tama Sakai and Shinsen."
+          }
+        },
+        {
+          "id": 135543,
+          "name": "拝岛",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135543-1eeKOjeFhs9N.jpg",
+          "description": "拝岛是府上学园的不良少年，属于“邪恶十四乐团”，并参与以太空成人书籍为主题的游戏篇章。他在故事中加入B队，与明觉共同出战，后来两人一起被击败；他们还会使用名为“双龙攻击”的组合招式。拝岛和团体其他成员一样，也不是时时认可首领小田原的决定。虽然他的戏份集中在夸张的校园战斗游戏中，仍是风间坚次所处不良少年群体的一员。",
+          "nicknames": [
+            "拝岛",
+            "Haijima",
+            "拝島",
+            "拜岛"
+          ],
+          "traits": [
+            "府上学园学生",
+            "不良少年",
+            "属于“邪恶十四乐团”",
+            "参加太空成人书籍战争游戏篇",
+            "在B队行动",
+            "曾与明觉一起被打败",
+            "和明觉会使用双龙攻击",
+            "对小田原作为首领有时不满"
+          ],
+          "voice_actors": [
+            {
+              "name": "高橋栄一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n256070-j4R5TxEwv9KD.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Haijima",
+            "name_native": "拝島",
+            "name_alternative": [],
+            "description": "A student at Fujou High School, delinquent and a member of 14 Orchestra of Evil. He belongs to Team B in \"Space Porn Book War Game ver 1.02 Arc,\" get beaten up Along with Myoukaku. He have Twin dragon Attack together with Myoukaku however it's useless, and just like most other members at his gang. Haijima sometimes also don't appreciate Odawara as their leader."
+          }
+        },
+        {
+          "id": 159234,
+          "name": "天王洲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159234-pGTCumPCDaYI.png",
+          "description": "天王洲是府上学园学生，也是科学社社长，负责带领学校的科学社团开展活动。他的角色将科学社团这一校园组织带入故事，使游戏制作部之外的学园社团也有所呈现。天王洲与风间坚次等人同校，因社团活动而可能与主角一行发生交集。现有角色介绍没有提供更详细的个人经历，因此这里仅记录其明确的学生身份、社团职务和校园关系。",
+          "nicknames": [
+            "天王洲",
+            "Tennouzu"
+          ],
+          "traits": [
+            "府上学园学生",
+            "担任科学社社长",
+            "负责学校科学社团",
+            "熟悉科学社活动",
+            "参与校园社团间的互动",
+            "是学园中的社团干部",
+            "与游戏制作部成员同校",
+            "由岩濑周平配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "岩瀬周平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111575-jbnR5EdTfwt1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tennouzu",
+            "name_native": "天王洲",
+            "name_alternative": [],
+            "description": "He is student at Fujou High and is also the President of the Science Club."
+          }
+        },
+        {
+          "id": 159235,
+          "name": "小田原",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159235-qJEtqM0wf8tm.png",
+          "description": "小田原是府上学园学生，也是“邪恶十四乐团”的首领。他带领的不良团体在学校里颇令人畏惧，成员包括拝岛等人，并会参与夸张的校园游戏战斗。虽然小田原拥有首领身份，团体内部并非所有人都始终服从他，拝岛有时就不满他的领导方式。小田原及其手下为风间坚次一行带来对抗场面，也扩展了府上学园不良少年群体的构成。",
+          "nicknames": [
+            "小田原",
+            "Odawara"
+          ],
+          "traits": [
+            "府上学园学生",
+            "邪恶十四乐团的首领",
+            "是校内令人畏惧的不良团体负责人",
+            "管理团体成员行动",
+            "与拝岛等不良少年有关",
+            "部分成员会质疑他的领导",
+            "参与校园中的游戏战斗",
+            "是风间坚次群体的竞争者"
+          ],
+          "voice_actors": [
+            {
+              "name": "稲田徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Odawara",
+            "name_native": "小田原",
+            "name_alternative": [],
+            "description": "A student at Fujou High who is also the leader of the Band of 14 devils gang, and it is the one that is feared the most at their school."
+          }
+        },
+        {
+          "id": 159237,
+          "name": "山田",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159237-6YXYo36998cA.png",
+          "description": "山田是府上学园学生，身材高大强壮，也是正式游戏制作部的一员。他参与高尾领导的社团活动，与柴崎芦花等人所属的临时游戏制作部处在不同阵营。山田的体格在校园同学中十分醒目，也让他在社团冲突与夸张的属性对战中显得格外有存在感。现有角色资料主要记录他的外形和社团归属，因此本条以这些可确认信息为核心。",
+          "nicknames": [
+            "山田",
+            "Yamada"
+          ],
+          "traits": [
+            "府上学园学生",
+            "身材高大强壮",
+            "是正式游戏制作部成员",
+            "参与社团活动",
+            "与高尾一方的社团有关",
+            "在校园中体格醒目",
+            "参加游戏制作部的互动",
+            "由藤原贵弘配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "藤原貴弘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109187-exBKqGYx4WAV.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yamada",
+            "name_native": "山田",
+            "name_alternative": [],
+            "description": "A student at Fujou High. He is a big, muscular boy who is also part of the Real Game Creation Club."
+          }
+        },
+        {
+          "id": 159238,
+          "name": "西永福冈",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b159238-u70mvK18W8l3.png",
+          "description": "西永福冈是府上学园教师，同时担任烹饪社顾问，负责指导烹饪社的日常活动。她与校内学生社团保持工作联系，是故事中参与校园生活的教职员之一。尽管她并非游戏制作部的核心成员，教师身份让她与同校学生和其他老师处于相同的校园环境中。现有资料没有提供更多个人背景，本条保留明确的任教身份、顾问职责和声优信息。",
+          "nicknames": [
+            "西永福冈",
+            "Fukuko Nishinaga",
+            "西永福岡",
+            "西永老师"
+          ],
+          "traits": [
+            "府上学园教师",
+            "担任烹饪社顾问",
+            "负责指导烹饪社活动",
+            "与学生社团保持联系",
+            "属于学校教职员",
+            "参与校园日常事务",
+            "由松来未祐配音",
+            "与游戏制作部师生同校共事"
+          ],
+          "voice_actors": [
+            {
+              "name": "松来未祐",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95401-2ffju56ewc36.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Fukuko Nishinaga",
+            "name_native": "西永福岡",
+            "name_alternative": [],
+            "description": "She is a teacher at Fujou High and is also the Advisor of the Cooking Club."
+          }
+        },
+        {
+          "id": 135649,
+          "name": "长沼",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b135649-Pm7SaabyUp2s.png",
+          "description": "长沼曾担任府上学园学生会副会长，同时是热衷动画的学生。他夸口说自己会观看每一部午夜首播的动画，长期熬夜让他的眼睛总显得疲惫，因此经常用手遮住眼部。凭借遮挡视线的方式，教师有时也难以发现他是否在课堂上睡觉。长沼的角色把深夜动画爱好与学生会经历结合起来，呈现出校园中独特的宅系生活一面。",
+          "nicknames": [
+            "长沼",
+            "Naganuma",
+            "長沼"
+          ],
+          "traits": [
+            "曾任府上学园学生会副会长",
+            "喜欢观看午夜首播的动画",
+            "声称追看每一部深夜动画",
+            "经常用手遮住疲倦的眼睛",
+            "眼神显出长期睡眠不足",
+            "老师不容易发现他在课堂睡觉",
+            "熟悉学生会工作",
+            "是校园里的动画爱好者"
+          ],
+          "voice_actors": [
+            {
+              "name": "石田彰",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Naganuma",
+            "name_native": "長沼",
+            "name_alternative": [],
+            "description": "He's the former student council vice-president. He boasts about watching every single anime that airs live at midnight. He covers his eyes because they are always filled with fatigue and with these eyes, the teachers wouldn't be aware if he fell asleep in class."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 124675,
+      "anime_title": "青梅竹马绝对不会输的恋爱喜剧",
+      "anime_origin": "JP",
+      "source": {
+        "id": 124675,
+        "titles": [
+          "Osananajimi ga Zettai ni Makenai Love Kome",
+          "Osamake: Romcom Where The Childhood Friend Won't Lose",
+          "幼なじみが絶対に負けないラブコメ",
+          "Osananajimi ga Zettai ni Makenai Love Comedy",
+          "OsaMake",
+          "ความรักนี้เพื่อนสมัยเด็กไม่แพ้รักแรกหรอก",
+          "เลิฟคอเมดี้เรื่องนี้ เพื่อนสมัยเด็กไม่มีวันแพ้"
+        ],
+        "year": 2021,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/124675"
+      },
+      "characters": [
+        {
+          "id": 190905,
+          "name": "志田黑羽",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190905-6Vxdf5eThmiL.png",
+          "description": "志田黑羽是丸末晴的青梅竹马，也住在末晴家隔壁。她是志田家四姐妹中的长女，和末晴从小相识，并一直喜欢着他。得知末晴把可知白草当作初恋对象后，黑羽没有因此放弃，而是积极寻找让自己重新接近他的机会。她熟悉末晴的生活习惯，也能以朋友身份陪伴他，是这场围绕青梅竹马与初恋展开的恋爱喜剧中的重要女主角。",
+          "nicknames": [
+            "志田黑羽",
+            "Kuroha Shida",
+            "志田黒羽",
+            "Kuro",
+            "黑羽"
+          ],
+          "traits": [
+            "丸末晴的青梅竹马",
+            "住在末晴隔壁",
+            "是志田家四姐妹中的长女",
+            "喜欢并暗恋末晴",
+            "与末晴从小相识",
+            "熟悉末晴的家庭生活",
+            "得知初恋后仍积极行动",
+            "常以亲近朋友身份陪伴末晴"
+          ],
+          "voice_actors": [
+            {
+              "name": "水瀬いのり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106297-DUyxkSjS9pEK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kuroha Shida",
+            "name_native": "志田黒羽",
+            "name_alternative": [
+              "Kuro"
+            ],
+            "description": "Sueharu's childhood friend. She also lives next door to Sueharu and is the eldest of the 4 sisters in her family.\n~!She likes Sueharu and has a crush on him.!~"
+          }
+        },
+        {
+          "id": 190906,
+          "name": "桃坂真理爱",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190906-fXQVE6077Ip2.png",
+          "description": "桃坂真理爱是一名知名童星，过去曾与丸末晴合作演出，因此和他的童年演艺经历相连。多年后再次进入末晴的生活时，真理爱不仅代表他曾经熟悉的演艺圈，也带来关于过去关系的新变化。她在校园生活与演艺工作之间活动，需要面对公众身份和个人感情的交错。真理爱的出现让末晴重新回想童年演员时期的经历，也推动故事中的恋爱竞争继续发展。",
+          "nicknames": [
+            "桃坂真理爱",
+            "Maria Momosaka",
+            "桃坂真理愛",
+            "桃坂絵里",
+            "真理爱"
+          ],
+          "traits": [
+            "知名童星",
+            "曾与丸末晴合作演出",
+            "与末晴有过早年共演经历",
+            "后来继续活跃于演艺圈",
+            "和末晴的过去相连",
+            "在校园与演艺工作间活动",
+            "由大西沙织配音",
+            "推动末晴重新面对过去"
+          ],
+          "voice_actors": [
+            {
+              "name": "大西沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Maria Momosaka",
+            "name_native": "桃坂真理愛",
+            "name_alternative": [],
+            "description": "A famous child actor who worked with Sueharu in the past."
+          }
+        },
+        {
+          "id": 190907,
+          "name": "丸末晴",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190907-kbVakJ7svLeT.png",
+          "description": "丸末晴曾是知名童星，母亲也曾从事演员工作。母亲不擅长表达情绪，事业发展并不顺利，却把成为优秀演员的希望寄托在儿子身上，全力支持末晴成长。末晴喜欢可知白草，是她的忠实粉丝，同时也与青梅竹马志田黑羽关系亲近。当他决定告白却遭到拒绝后，童年演艺经历和身边几位少女的感情逐渐交织，成为故事的核心。",
+          "nicknames": [
+            "丸末晴",
+            "Sueharu Maru",
+            "Suu-chan",
+            "Bakaharu",
+            "丸 末晴",
+            "末晴"
+          ],
+          "traits": [
+            "曾是知名童星",
+            "母亲也从事演员工作",
+            "母亲不擅长表达情绪",
+            "曾以成为出色演员为目标",
+            "喜欢可知白草",
+            "是白草的粉丝",
+            "与志田黑羽从小相识",
+            "在母亲支持下成长",
+            "恋爱关系成为故事主线"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sueharu Maru",
+            "name_native": "丸末晴",
+            "name_alternative": [
+              "Suu-chan",
+              "Bakaharu"
+            ],
+            "description": "Sueharu Maru was originally a very famous child actor, and his mother was also one. However, his mother couldn't express emotions well, so she couldn't become very famous. She supported her son so he could become a fantastic actor for both her and his sake. He likes Shirokusa Kachi and he's a fan of her. Kuroha Shida is Sueharu's childhood friend."
+          }
+        },
+        {
+          "id": 190908,
+          "name": "可知白草",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190908-DCdudmFwwvuD.png",
+          "description": "可知白草是一位年少成名的儿童小说家，很年轻时便凭优秀作品获得知名奖项。她既在文学创作领域受到关注，也是丸末晴的初恋对象；末晴一直仰慕她，并把她视作偶像。白草的作家身份让她在校园生活之外拥有成熟的公众形象，但感情问题仍会受到过去相识和身边同学的影响。她与末晴、志田黑羽及桃坂真理爱的关系推动了故事中的恋爱竞争。",
+          "nicknames": [
+            "可知白草",
+            "Shirokusa Kachi",
+            "シロ",
+            "Shiro",
+            "白草"
+          ],
+          "traits": [
+            "年少成名的儿童小说家",
+            "年纪很小时获得知名文学奖项",
+            "作品受到广泛关注",
+            "是丸末晴的初恋对象",
+            "末晴长期仰慕她",
+            "在学校拥有知名度",
+            "以小说创作为职业目标",
+            "与桃坂真理爱的演艺圈关系相连"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐倉綾音",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shirokusa Kachi",
+            "name_native": "可知白草",
+            "name_alternative": [
+              "シロ",
+              "Shiro"
+            ],
+            "description": "A child novelist who has received well-known awards at a very young age for her astounding works. She is Sueharu's first love interest."
+          }
+        },
+        {
+          "id": 190904,
+          "name": "甲斐哲彦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b190904-PQ1OFzVbXnAZ.png",
+          "description": "甲斐哲彦是丸末晴的同班同学和朋友，平时会参与末晴身边的校园谈话，也熟悉他与黑羽、白草之间的复杂关系。哲彦同时是浅黄玲菜的异母兄弟，这层家庭关系让他与末晴的同学圈之外也有所连接。作为故事中的朋友角色，他提供旁观者视角，见证末晴面对初恋受挫后如何重新处理感情与人际关系。",
+          "nicknames": [
+            "甲斐哲彦",
+            "Tetsuhiko Kai",
+            "哲彦"
+          ],
+          "traits": [
+            "丸末晴的同班同学",
+            "是末晴的朋友",
+            "熟悉末晴的校园生活",
+            "会参与朋友间的恋爱讨论",
+            "与可知白草的家庭有联系",
+            "是浅黄玲菜的异母兄弟",
+            "在故事中提供同伴视角",
+            "由岛崎信长配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "島﨑信長",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tetsuhiko Kai",
+            "name_native": "甲斐哲彦",
+            "name_alternative": [],
+            "description": "Sueharu's classmate and friend."
+          }
+        },
+        {
+          "id": 223533,
+          "name": "浅黄玲菜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223533-5lx0ehsARemZ.png",
+          "description": "浅黄玲菜是甲斐哲彦的异母妹妹，常把自己称作“万能选手”，以自信方式介绍自己的能力。她与末晴的同学圈产生交集，也让哲彦的家庭背景进入故事。玲菜的自我评价带着年轻人的积极和一点夸张，角色通过她的登场补充了学校生活中的另一组关系。她既与哲彦共享家族联系，也会参与同学之间围绕恋爱与日常事务展开的互动。",
+          "nicknames": [
+            "浅黄玲菜",
+            "Rena Asagi",
+            "玲菜"
+          ],
+          "traits": [
+            "甲斐哲彦的异母妹妹",
+            "自称“万能选手”",
+            "擅长处理多种事务",
+            "通过自我介绍展示自信",
+            "与末晴的同学圈产生联系",
+            "出现在高中校园生活中",
+            "与哲彦存在家庭关系",
+            "由高柳知叶配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "高柳知葉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n122320-tV8CERbhYcNV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rena Asagi",
+            "name_native": "浅黄玲菜",
+            "name_alternative": [],
+            "description": "The half-sibling of Tetsuhiko Kai. She introduces herself as the \"Jack of All Trades\"."
+          }
+        },
+        {
+          "id": 223786,
+          "name": "志田苍依",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223786-6BbqKfMtBp4U.png",
+          "description": "志田苍依是志田黑羽的妹妹，也是志田家四姐妹中的一员。她与朱音、碧同为黑羽的妹妹，和姐姐们共同生活，因此经常出现在志田家的家庭场景中。黑羽与丸末晴从小相识，苍依也处在这段青梅竹马关系所覆盖的朋友圈里。虽然她在恋爱主线中的戏份有限，仍补充了志田家姐妹之间的日常关系与家庭氛围。",
+          "nicknames": [
+            "志田苍依",
+            "Aoi Shida",
+            "志田蒼依",
+            "苍依"
+          ],
+          "traits": [
+            "志田黑羽的妹妹",
+            "是志田家四姐妹之一",
+            "与朱音、碧同为黑羽的妹妹",
+            "和姐姐们一起生活",
+            "出现在志田家的家庭场景",
+            "与丸末晴的青梅竹马关系有关",
+            "是志田家年幼成员",
+            "由岛袋美由利配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "島袋美由利",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126579-aYXUMZi7ozKD.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aoi Shida",
+            "name_native": "志田蒼依",
+            "name_alternative": [],
+            "description": "Kuroha, Midori and Akane's little sister."
+          }
+        },
+        {
+          "id": 223787,
+          "name": "志田朱音",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223787-tnKcWseyN1EK.png",
+          "description": "志田朱音是志田黑羽的妹妹，属于志田家四姐妹中的年幼成员。她与苍依和碧都是黑羽的妹妹，和家人共同生活，构成了黑羽在校园恋爱故事之外的家庭环境。末晴与黑羽从小相识，志田家的日常也因此与他的朋友圈有所交集。朱音虽然不是恋爱竞争的中心人物，却让观众看到黑羽作为长女与妹妹们相处的一面。",
+          "nicknames": [
+            "志田朱音",
+            "Akane Shida",
+            "朱音"
+          ],
+          "traits": [
+            "志田黑羽的妹妹",
+            "是志田家四姐妹之一",
+            "与苍依、碧同为黑羽的妹妹",
+            "和姐姐们一起生活",
+            "出现在志田家家庭互动中",
+            "与末晴的校园圈子有关联",
+            "是志田家年幼成员",
+            "由日冈夏美配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "日岡なつみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112777-ZK3Jxr4CpZiC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akane Shida",
+            "name_native": "志田朱音",
+            "name_alternative": [],
+            "description": "Kuroha Shida's little sister."
+          }
+        },
+        {
+          "id": 223788,
+          "name": "志田碧",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b223788-M4tzEssfE5ov.jpg",
+          "description": "志田碧是志田黑羽的妹妹，也是志田家四姐妹中的一员。她与苍依、朱音同为黑羽的妹妹，和家人共同生活，构成黑羽日常生活的重要部分。黑羽和丸末晴从小就是邻居与朋友，因此志田家的家庭场景也会与末晴的生活产生联系。碧虽没有大量独立情节，但她的存在补足了志田家姐妹构成，让黑羽的家庭关系更加完整。",
+          "nicknames": [
+            "志田碧",
+            "Midori Shida",
+            "碧"
+          ],
+          "traits": [
+            "志田黑羽的妹妹",
+            "是志田家四姐妹之一",
+            "与苍依、朱音同为黑羽的妹妹",
+            "和姐姐们共同生活",
+            "出现在志田家日常场景",
+            "与末晴的青梅竹马关系相连",
+            "是志田家年幼成员",
+            "由藤田茜配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "藤田茜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116155-5H5Dqe2oQyId.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Midori Shida",
+            "name_native": "志田碧",
+            "name_alternative": [],
+            "description": "Kuroha Shida's little sister."
+          }
+        },
+        {
+          "id": 329692,
+          "name": "可知总一郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b329692-5vP8qAdWBZDq.png",
+          "description": "可知总一郎是可知白草的父亲，出现在白草家庭生活相关的情节中。白草年少成名，凭借小说创作受到关注，她的成长环境与家人之间的关系也构成角色背景的一部分。总一郎作为父亲与白草的日常和家庭事务相连，也使丸末晴在仰慕白草时逐渐接触到她的家庭一面。现有资料没有提供更多职业信息，因此本条聚焦于亲属关系。",
+          "nicknames": [
+            "可知总一郎",
+            "Souichirou Kachi",
+            "可知総一郎",
+            "总一郎"
+          ],
+          "traits": [
+            "可知白草的父亲",
+            "与白草的家庭生活相关",
+            "是小说家白草的家人",
+            "出现在可知家的情节中",
+            "由稻田彻配音",
+            "处于白草成长环境的一部分",
+            "与末晴的初恋对象有亲属关系",
+            "补充故事中的家庭线索"
+          ],
+          "voice_actors": [
+            {
+              "name": "稲田徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Souichirou Kachi",
+            "name_native": "可知総一郎",
+            "name_alternative": [],
+            "description": "Father of Shirokusa Kachi."
+          }
+        },
+        {
+          "id": 329693,
+          "name": "峰芽衣子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b329693-mKCK1HRoCt6b.png",
+          "description": "峰芽衣子是穗积野高中的学生，也是可知白草为数不多的朋友之一。白草年少时便以小说家身份受到关注，在学校里不一定容易建立普通同学关系；芽衣子则以朋友身份陪伴她，了解她在校园中的日常。她的登场让白草不只作为末晴仰慕的作家形象出现，也呈现出在学校里与同龄人交往的一面。",
+          "nicknames": [
+            "峰芽衣子",
+            "Meiko Mine",
+            "芽衣子"
+          ],
+          "traits": [
+            "穗积野高中学生",
+            "是可知白草少数的朋友之一",
+            "与白草保持同学关系",
+            "了解白草的校园生活",
+            "出现在学校日常场景",
+            "通过朋友身份陪伴白草",
+            "由市道真央配音",
+            "连接白草的校园和家庭生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "市道真央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Meiko Mine",
+            "name_native": "峰芽衣子",
+            "name_alternative": [],
+            "description": "One of Shirokusa's only friends at Hozomino High School."
+          }
+        },
+        {
+          "id": 329694,
+          "name": "桃坂绘里",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b329694-MbSqo87nymWk.png",
+          "description": "桃坂绘里是知名童星桃坂真理爱的姐姐，与妹妹的家庭生活和演艺经历相连。真理爱年幼时便进入演艺圈，长期工作使她的生活与普通学生有所不同；绘里作为家人，处于这段成长经历的近处。她的登场补充了真理爱在舞台与校园之外的家庭背景，也让末晴重新面对童年共演者时能看到对方身边的亲属关系。",
+          "nicknames": [
+            "桃坂绘里",
+            "Eri Momosaka",
+            "桃坂絵里",
+            "绘里"
+          ],
+          "traits": [
+            "桃坂真理爱的姐姐",
+            "与真理爱共同生活或往来",
+            "和妹妹的演艺经历有关",
+            "出现在桃坂家的家庭关系中",
+            "是丸末晴熟悉的童星之家庭成员",
+            "由高桥未奈美配音",
+            "与故事中的演艺圈人物相连",
+            "补充真理爱的家庭背景"
+          ],
+          "voice_actors": [
+            {
+              "name": "髙橋ミナミ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117003-UucaZmQjVSV7.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eri Momosaka",
+            "name_native": "桃坂絵里",
+            "name_alternative": [],
+            "description": "Eri is Maria Momosaka's older sister."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 11433,
+      "anime_title": "在盛夏等待",
+      "anime_origin": "JP",
+      "source": {
+        "id": 11433,
+        "titles": [
+          "Ano Natsu de Matteru",
+          "Waiting in the Summer",
+          "あの夏で待ってる",
+          "Natsumachi"
+        ],
+        "year": 2012,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/11433"
+      },
+      "characters": [
+        {
+          "id": 47295,
+          "name": "贵月一花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b47295-RUv8JE8y7xwK.png",
+          "description": "贵月一花是高中三年级学生，留着醒目的红发，身高一百六十三厘米。她实际上来自外星，飞船坠落时救下受伤的雾岛海人，随后留在地球生活。由于不熟悉当地习惯，一花有时会做出让人困惑的举动，但会及时修正，只想隐藏外星人身份。她性格友善、有礼，厨艺也很好，并与山乃柠檬成为好友，逐渐融入海人所在的校园和拍摄团队。",
+          "nicknames": [
+            "贵月一花",
+            "Ichika Takatsuki",
+            "貴月イチカ",
+            "一花"
+          ],
+          "traits": [
+            "高中三年级学生",
+            "身高一百六十三厘米",
+            "留着醒目的红发",
+            "真实身份是外星来客",
+            "飞船坠落时救下雾岛海人",
+            "刚到地球时不熟悉当地生活",
+            "性格友善有礼",
+            "擅长烹饪",
+            "与山乃柠檬是好友"
+          ],
+          "voice_actors": [
+            {
+              "name": "戸松遥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ichika Takatsuki",
+            "name_native": "貴月イチカ",
+            "name_alternative": [],
+            "description": "__Height:__ 163 cm (5'3\")\n__Class:__ 3rd Year\n\n~!A 3rd year student who stands out due to her red hair. The main female protagonist is an alien come to Earth who acts to save [Kaito](https://anilist.co/character/47299/Kirishima-Kaito) from the injuries he sustains when her ship crash-lands. Being an alien unaccustomed to life on Earth, her actions may seem weird in the eyes of others, but she is quick to correct herself, if only to hide the fact that she's an alien. She is kind, polite, friendly and a good cook. Like her \"best friend\" [Remon Yamano](https://anilist.co/character/47297/Yamano-Remon), she is a third-year student in Kaito's high school.!~"
+          }
+        },
+        {
+          "id": 47297,
+          "name": "山乃柠檬",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b47297-q1572CwPneIG.png",
+          "description": "山乃柠檬是身材娇小的高中三年级学生，身高一百三十九厘米，拥有辨识度很高的声线。她初见贵月一花时便与她成为朋友，平时看似冷淡又常带着笑容，喜欢讽刺和恶作剧，还擅长开锁。柠檬为同伴拍摄的电影撰写剧本，也会偷偷记录大家的糗态。她声称自己永远十七岁，故事后段揭示她其实是日本分部的黑衣人高级特工。",
+          "nicknames": [
+            "山乃柠檬",
+            "Remon Yamano",
+            "山乃檸檬",
+            "柠檬"
+          ],
+          "traits": [
+            "高中三年级学生",
+            "身高一百三十九厘米",
+            "身材娇小",
+            "对陌生人态度冷淡",
+            "与贵月一花成为好友",
+            "擅长开锁",
+            "喜欢恶作剧和捉弄同伴",
+            "负责拍摄小组电影的剧本",
+            "常以笑声和讽刺表达态度",
+            "真实身份是日方黑衣人高级特工"
+          ],
+          "voice_actors": [
+            {
+              "name": "田村ゆかり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Remon Yamano",
+            "name_native": "山乃檸檬",
+            "name_alternative": [],
+            "description": "__Height__: 139 cm (4'7\")  \n__Class__: 3rd Year  \n\nA short, third year high school student with a petite appearance and a distinctive voice. She is generally cold towards people, but befriends Ichika when they first meet. She is good at picking locks and can be quite mischievous, such as when she makes the rest of the group drink an alcoholic drink, then records them sleeping. She seems devious, as though everything she does has an ulterior motive. Since she claims to have written a script for Lucas in Hollywood (implying George Lucas), she ends up being the writer for the group's movie. She thinks of Ichika as her best friend. Remon is somewhat sarcastic, usually laughing like \"uhuhu\", although she is almost always seen smiling.   \n\n~!Though, she is 17 years old it is hinted that she could be much older that what she claims, since in one episode she did claim to be eternally 17. It is also suggested that she probably was once a classmate of Tetsurou's elder sister Minami Ogura.  In episode 12 it is confirmed that she is the high-ranked agent of Japanese branch of \"Men in Black\"!~"
+          }
+        },
+        {
+          "id": 47299,
+          "name": "雾岛海人",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b47299-Bwy9y4WOIEXM.png",
+          "description": "雾岛海人是高中一年级学生，身高一百五十八厘米，热衷于拍摄影像，经常带着设备记录周围景物，同学有时称他为“导演”。他似乎察觉谷川柑菜对自己的感情，却逐渐对突然出现的贵月一花产生真切好感。海人偶尔会沉浸在与一花交谈的白日梦里，还会把想法直接说出口，引发误会和喜剧场面。一次飞船坠落事件改变了他的日常，也促使同学们一起拍摄电影。",
+          "nicknames": [
+            "雾岛海人",
+            "Kaito Kirishima",
+            "霧島海人",
+            "Kai",
+            "Seaboy",
+            "Umi-chan",
+            "海人"
+          ],
+          "traits": [
+            "高中一年级学生",
+            "身高一百五十八厘米",
+            "热衷于拍摄影像",
+            "经常带着摄像设备外出",
+            "同学有时称他为导演",
+            "对北原美樱谷川柑菜的感情有所察觉",
+            "真心喜欢贵月一花",
+            "常幻想与一花交谈",
+            "是作品的男主角"
+          ],
+          "voice_actors": [
+            {
+              "name": "島﨑信長",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kaito Kirishima",
+            "name_native": "霧島海人",
+            "name_alternative": [
+              "Kai",
+              "Seaboy",
+              "Umi-chan"
+            ],
+            "description": "__Height:__ 158 cm (5'2\")\n__Class:__ 1st Year\n\nThe main protagonist is a student in his first year of high school. He is an avid videographer, and is constantly out recording things. Others sometimes refer to him as \"The Director\". He's seemingly aware of Tanigawa's feelings for him, nonetheless he seems to have a genuine interest for Ichika. He has day dreams of conversing with Ichika and talks out loud sometimes during them. This may even lead to misunderstandings in a comical sense."
+          }
+        },
+        {
+          "id": 54003,
+          "name": "北原美樱",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54003-p3dSZGvBKy6j.png",
+          "description": "北原美樱是高中一年级学生，身高一百五十七厘米，外表漂亮但性格害羞。她与谷川柑菜是好友，心里喜欢着石垣哲郎，却不总能坦率表达自己的感情。美樱有时会产生大胆而不合时宜的联想，这与她平时腼腆的外在形成反差。加入海人等人的校园活动后，她需要面对喜欢的人、朋友和新同伴之间的情感变化，也成为拍摄小组关系中的重要成员。",
+          "nicknames": [
+            "北原美樱",
+            "Mio Kitahara",
+            "北原美桜",
+            "美樱"
+          ],
+          "traits": [
+            "高中一年级学生",
+            "身高一百五十七厘米",
+            "性格害羞",
+            "是谷川柑菜的好友",
+            "喜欢石垣哲郎",
+            "偶尔会产生大胆的联想",
+            "与海人一行共同参与活动",
+            "在同伴面前不太善于表达感情"
+          ],
+          "voice_actors": [
+            {
+              "name": "阿澄佳奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95817-UHqRZ5xuSJgW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mio Kitahara",
+            "name_native": "北原美桜",
+            "name_alternative": [],
+            "description": "__Height:__ 157 cm (5'2\")\n__Class:__ 1st Year\n\nA beautiful girl who is quite shy, but has pretty lewd thoughts sometimes. A good friend of [Tanigawa](https://anilist.co/character/54007/Tanigawa-Kanna). She has feelings for [Tetsurou](https://anilist.co/character/54005/Ishigaki-Tetsurou) and her thoughts seem to innocently go in a sexual direction."
+          }
+        },
+        {
+          "id": 54007,
+          "name": "谷川柑菜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54007-zfpSLupnEJoU.jpg",
+          "description": "谷川柑菜是高中一年级学生，身高一百五十二厘米，也是雾岛海人的同班同学。她喜欢海人，因此看到他与其他女生交谈时容易吃醋。柑菜和北原美樱是好友，能够分享彼此的校园生活与心事；但当贵月一花突然出现在海人身边后，她也必须面对自己的感情与友情之间的变化。她参与同学们共同拍摄的电影，在夏日活动中经历关系上的成长。",
+          "nicknames": [
+            "谷川柑菜",
+            "Kanna Tanigawa",
+            "柑菜"
+          ],
+          "traits": [
+            "高中一年级学生",
+            "身高一百五十二厘米",
+            "是雾岛海人的同班同学",
+            "喜欢海人",
+            "会因海人与其他女生交谈而吃醋",
+            "与北原美樱是好友",
+            "参与同学共同拍摄的电影",
+            "在感情上直率又敏感"
+          ],
+          "voice_actors": [
+            {
+              "name": "石原夏織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105217-PyXOw2omIHuJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kanna Tanigawa",
+            "name_native": "谷川柑菜",
+            "name_alternative": [],
+            "description": "__Height:__ 152 cm (5')\n__Class:__ 1st Year\n\n[Kaito](https://anilist.co/character/47299/Kaito-Kirishima)'s classmate. She seems to have a crush on him, and gets jealous when he talks about other girls."
+          }
+        },
+        {
+          "id": 55327,
+          "name": "里农",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55327-kvNEMH4qGnH8.png",
+          "description": "里农是贵月一花带在身边的宠物，几乎总陪伴在一花附近。它会跳舞，动作常吸引周围人的注意，也让一花身边的日常增添轻松气氛。作为来自外星少女生活的一部分，里农与海人等人共同度过在地球的校园时光。虽然没有人类角色那样复杂的个人背景，它仍是连接一花原有生活和新伙伴关系的重要小动物。",
+          "nicknames": [
+            "里农",
+            "Rinon",
+            "りのん"
+          ],
+          "traits": [
+            "贵月一花的宠物",
+            "经常陪在一花身边",
+            "会跳舞",
+            "与外星来客共同生活",
+            "在地球日常中引人注意",
+            "参与一花和海人一行的生活",
+            "以小型宠物形象登场",
+            "由日高里菜配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "日高里菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100250-L8WsoaLevibT.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rinon",
+            "name_native": "りのん",
+            "name_alternative": [],
+            "description": "Ichika's pet. It knows how to dance, and it is always by Ichika's side."
+          }
+        },
+        {
+          "id": 56757,
+          "name": "树下佳织",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56757-c9GebDbONl61.png",
+          "description": "树下佳织是雾岛海人在小学时期的朋友，和海人拥有共同的童年回忆。多年后她再次进入海人的生活，使这位忙于拍摄电影、又对贵月一花产生好感的少年重新面对过去的人际关系。佳织并非一花所在小组的原始成员，但她的出现会影响海人和同伴们对彼此关系的看法。她连接海人的小学时代与当下校园生活，让故事里的旧情与新感情同时展开。",
+          "nicknames": [
+            "树下佳织",
+            "Kaori Kinoshita",
+            "樹下佳織",
+            "Kaorin",
+            "佳织"
+          ],
+          "traits": [
+            "雾岛海人的小学同学",
+            "是海人的童年朋友",
+            "多年后与海人再次联系",
+            "曾在学生时代与海人相识",
+            "与海人的过往有关",
+            "进入海人当前的同学圈",
+            "由茅野爱衣配音",
+            "推动海人回忆旧日关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "茅野愛衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kaori Kinoshita",
+            "name_native": "樹下佳織",
+            "name_alternative": [
+              "Kaorin"
+            ],
+            "description": "Kaito's childhood friend from elementary school."
+          }
+        },
+        {
+          "id": 56759,
+          "name": "有泽千春",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b56759-alm4sTqJN5oP.png",
+          "description": "有泽千春是树下佳织的朋友，对石垣哲郎十分着迷。她性格主动强势，体力和耐力也很出色，常以直接的方式表达自己的兴趣。千春的接近会让喜欢哲郎的北原美樱感到嫉妒，也使同学间的感情关系变得更复杂。她和佳织一同出现在海人一行的生活中，为原本围绕一花、海人与柑菜展开的夏日恋爱故事增加新的竞争和误会。",
+          "nicknames": [
+            "有泽千春",
+            "Chiharu Arisawa",
+            "有沢千春",
+            "千春"
+          ],
+          "traits": [
+            "树下佳织的朋友",
+            "对石垣哲郎十分着迷",
+            "性格主动强势",
+            "体能和耐力出色",
+            "会直接表达自己的兴趣",
+            "容易让北原美樱感到嫉妒",
+            "活跃于高中校园生活",
+            "由井口裕香配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "井口裕香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95885-NrKdS094Ae59.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chiharu Arisawa",
+            "name_native": "有沢千春",
+            "name_alternative": [],
+            "description": "Kaori's friend. She is obsessed with Testuro which makes Mio jealous. She is also aggressive and strong, with stamina to match."
+          }
+        },
+        {
+          "id": 58657,
+          "name": "贵月艾米卡",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b58657-MfC2aqE4wNYf.png",
+          "description": "贵月艾米卡是贵月一花的姐姐，与一花来自同一个家庭。由于一花的真实身份和来到地球的经过都与她的家人有关，艾米卡的出现补充了女主角在校园生活之外的家庭背景。她与一花的亲属关系，也让观众看到外星少女并非独自存在于宇宙中，而是有自己的家人与过往。艾米卡在故事后段与一花及同伴发生交集，由堀江由衣配音。",
+          "nicknames": [
+            "贵月艾米卡",
+            "Emika Takatsuki",
+            "貴月エミカ",
+            "艾米卡"
+          ],
+          "traits": [
+            "贵月一花的姐姐",
+            "与一花来自同一家庭",
+            "和一花的外星身份有关联",
+            "在一花地球生活期间出现",
+            "与一花保持亲属关系",
+            "由堀江由衣配音",
+            "补充一花的家庭背景",
+            "参与故事中的亲人互动"
+          ],
+          "voice_actors": [
+            {
+              "name": "堀江由衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95028-MHT1m3E5wGZx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Emika Takatsuki",
+            "name_native": "貴月エミカ",
+            "name_alternative": [],
+            "description": "Ichika's older sister."
+          }
+        },
+        {
+          "id": 59513,
+          "name": "小仓聪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59513-lvE8RsTWuhZp.png",
+          "description": "小仓聪是小仓真奈美的丈夫，也是石垣哲郎的姐夫。夫妻二人经常为了日常小事争吵，真奈美吵完后还会跑到弟弟哲郎住处抱怨，使聪也成为这段家庭喜剧的一部分。他的角色连接了哲郎的校园朋友圈与姐姐的婚后生活，让同学们的夏日活动偶尔被成年人的家庭琐事打断。小仓夫妇的互动为作品增加了轻松的家庭支线。",
+          "nicknames": [
+            "小仓聪",
+            "Satoshi Ogura",
+            "小倉聡",
+            "聪"
+          ],
+          "traits": [
+            "小仓真奈美的丈夫",
+            "是石垣哲郎的姐夫",
+            "与真奈美结婚",
+            "夫妻会因小事争吵",
+            "经常在争吵后听妻子抱怨",
+            "出现在小仓家的日常生活中",
+            "由川田绅司配音",
+            "连接哲郎的家庭关系线"
+          ],
+          "voice_actors": [
+            {
+              "name": "川田紳司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95410-AosJKUc7YZXE.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Satoshi Ogura",
+            "name_native": "小倉聡",
+            "name_alternative": [],
+            "description": "Tetsurou's brother-in-law who is married to his sister Manami."
+          }
+        }
+      ]
+    }
+  ]
+}

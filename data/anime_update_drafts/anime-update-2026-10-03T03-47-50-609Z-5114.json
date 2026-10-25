@@ -1,0 +1,2551 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:47:50.611Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+      "id": 11,
+      "name": "Edward Elric",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+      "id": 12,
+      "name": "Alphonse Elric",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+      "id": 63,
+      "name": "Winry Rockbell",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+      "id": 68,
+      "name": "Roy Mustang",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+      "id": 70,
+      "name": "Riza Hawkeye",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+      "id": 5988,
+      "name": "Rosé Tomas",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+      "id": 9792,
+      "name": "Van Hohenheim",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+      "id": 36309,
+      "name": "Narrator",
+      "reason": "AniList ID 已存在或批次重复"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 5114,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 5114,
+        "titles": [
+          "Hagane no Renkinjutsushi: FULLMETAL ALCHEMIST",
+          "Fullmetal Alchemist: Brotherhood",
+          "鋼の錬金術師 FULLMETAL ALCHEMIST",
+          "FMA",
+          "FMAB",
+          "Hagaren",
+          "الخيميائي الفولاذي",
+          "אלכימאי המתכת: אחוות אחים",
+          "Full Metal Alchemist: Brotherhood",
+          "钢之炼金术师 FULLMETAL ALCHEMIST",
+          "แขนกล คนแปรธาตุ: บราเธอร์ฮูด",
+          "Stalowy alchemik: Misja braci",
+          "Сталевий алхімік. Братерство",
+          "Стальной алхимик: Братство"
+        ],
+        "year": 2009,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/5114"
+      },
+      "characters": [
+        {
+          "id": 65,
+          "name": "Pinako Rockbell",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65-Yw7j20Y9uewh.png",
+          "description": "",
+          "nicknames": [
+            "Pinako Rockbell",
+            "ピナコ・ロックベル",
+            "Pantheress of Resembool"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小山茉美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95571-QuL7zlRwRcxa.png",
+              "language": "日语"
+            },
+            {
+              "name": "麻生美代子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96542-nUqFdwzo1FEX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pinako Rockbell",
+            "name_native": "ピナコ・ロックベル",
+            "name_alternative": [
+              "Pantheress of Resembool"
+            ],
+            "description": "__Occupation:__ Surgeon, Automail Technician\n\nGrandmother of Winry, and old resident of Risembool. Also, a parent like figure to both Edward and Alphonse, after they lost their mother. It is shown that Pinako was Hohenheim&#039;s drinking buddy, and that she was the one to introduce Hohenheim with his future wife, Trisha."
+          }
+        },
+        {
+          "id": 66,
+          "name": "Scar",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66-bLbGWXrmDqfV.png",
+          "description": "",
+          "nicknames": [
+            "Scar",
+            "スカー",
+            "Kizu no Otoko (傷の男)",
+            "The Scarred Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "三宅健太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Scar",
+            "name_native": "スカー",
+            "name_alternative": [
+              "Kizu no Otoko (傷の男)",
+              "The Scarred Man"
+            ],
+            "description": "Scar is a disturbed loner. His right arm does not belong to him, but his brother. His brother was obsessed with finding the Philosopher's Stone and tattooed his whole body.   During the Ishval civil war...  ~!an alchemist, Solf J. Kimblee, killed his brother, blew off Scar's arm, and gave him the \"X\" scar on his forehead. Scar's brother then transmuted his own arm onto Scar's shoulder, giving the maimed warrior priest the powers of alchemic deconstruction that he then uses in his quest for vengeance.!~ Scar seeks his revenge against the state alchemists, all of whom he blames for the destruction of Ishval. His wrath does not extend, however, to non-state alchemists, which is why he does not seek to kill [Alphonse Elric](https://anilist.co/character/12/Elric-Alphonse) during their frequent confrontations."
+          }
+        },
+        {
+          "id": 67,
+          "name": "Izumi Curtis",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67-ggB3aC6DzQqB.png",
+          "description": "",
+          "nicknames": [
+            "Izumi Curtis",
+            "イズミ・カーティス",
+            "Izumi Harnet",
+            "Auntie",
+            "Teacher",
+            "A Passing Housewife"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "津田匠子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96664-ct3IoFBmnyoJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Izumi Curtis",
+            "name_native": "イズミ・カーティス",
+            "name_alternative": [
+              "Izumi Harnet",
+              "Auntie",
+              "Teacher",
+              "A Passing Housewife"
+            ],
+            "description": "__Nationality:__ Amestrian\n\nIzumi Curtis, born Izumi Harnet, the teacher of [Ed](https://anilist.co/character/11/Elric-Edward) and [Alphonse Elric](https://anilist.co/character/12/Elric-Alphonse), agreed to train the brothers to hone their alchemical abilities after their mother died. She expands their training with a regimen of philosophy, martial arts, and living off the land. Her methods are derived from her own alchemy training: in the manga and second anime, she was forced to survive in the northern region surrounding Briggs Fortress for a month (although it turns out she succeeded by stealing supplies from the northern fortress), whereas in the first anime she was taught by [Dante](https://anilist.co/character/18880/Dante).\n\nShe thinks of the Elrics as her own sons, and although she severs her student-teacher ties with them after learning of their attempts with human transmutation (and similarly Ed's joining the State Military), she continues to do all she can to help them. She can be quite violent when punishing or sparring with the Elric brothers, so they tend to be deathly afraid of her.\n\nHer claim of \"I'm a housewife!\" while confronting [Greed](https://anilist.co/character/351/Greed) was a favorite scene of Arakawa's to draw.\n\nIzumi and her husband [Sig Curtis](https://anilist.co/character/10972/Curtis-Sig) were expecting a child years before the start of the series; however, their son was stillborn. Izumi tried and failed to revive the child through human transmutation (an act that created [Wrath](https://anilist.co/character/6917/Wrath) in the first anime). The failed attempt took some of her internal organs, resulting in infertility, and causing her to periodically cough up blood. Izumi gained the ability to use alchemy without a transmutation circle after seeing the \"truth.\"  In the manga, Izumi attracts the attention of the State Military for surviving the failed human transmutation. As she and her husband travel around Amestris in order to avoid the military, they eventually meet Ed and Al's father Hohenheim. He rearranges her insides to ease the blood flow, and persuades her to help collaborate in bringing down the State Military."
+          }
+        },
+        {
+          "id": 69,
+          "name": "Maes Hughes",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69-MRetSG8Qevvu.png",
+          "description": "",
+          "nicknames": [
+            "Maes Hughes",
+            "マース･ヒューズ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤原啓治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Maes Hughes",
+            "name_native": "マース･ヒューズ",
+            "name_alternative": [],
+            "description": "__Nationality:__ Amestrian\n__Occupation:__ Intelligence Agent\n\nMaes Hughes is an Amestrian State Military officer stationed in the Investigations Office in Central City and Colonel Roy Mustang's best friend, as well as the closest supporter of Mustang's secret bid for the position of Führer. A devoted family man and exemplary soldier, Hughes is generally well-liked by the other characters.     ~!He is killed by Envy upon his discovery of Father&#039;s plans, and is posthumously promoted to Brigadier General!~"
+          }
+        },
+        {
+          "id": 351,
+          "name": "Greed",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b351-XMQzTuMy2Xtn.jpg",
+          "description": "",
+          "nicknames": [
+            "Greed",
+            "グリード",
+            "Ultimate Shield",
+            "Mightiest Shield",
+            "Greed the Avaricious"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中村悠一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Greed",
+            "name_native": "グリード",
+            "name_alternative": [
+              "Ultimate Shield",
+              "Mightiest Shield",
+              "Greed the Avaricious"
+            ],
+            "description": "\nGreed is a greedy Homunculus, nicknamed the &quot;Ultimate Shield&quot;. He is able to rearrange the carbon in his body to make his skin as hard as diamond, thus making himself almost impossible to injure. As his name implies he is a very avaricious character, who likes living in luxury, surrounded by powerful minions and beautiful women. Despite his generally greedy nature, he’s shown to honestly care for his subordinates. He also has a habit of flipping people off in the manga.    \n\n __In the 2003 anime series:__  Greed is the second oldest of the Homunculi created by Dante. However, due to his avarice, Greed rebelled and was eventually captured and imprisoned in lab 5. He was imprisoned for 130 years until an explosion broke his seal. He then freed the caged chimera at Lab 5 in exchange for helping him get his revenge on the other homunculi and their master.    \n\n __In the manga and 2009 anime series:__  He is the third Homunculus created by Father. Greed apparently abandoned the other Homunculi over 100 years before the start of the series and claims to be around two centuries old. He first appears hiding in the Devil&#039;s Nest in Dublith, with his gang of chimeras all of whom he apparently rescued from military experimentation.      ~!After Greed is punished by Father, he later returns as Father removes his son&#039;s Philosopher&#039;s Stone core from his own body and inserts it directly into the body of Ling Yao to create a second Human-based Homunculus. This second Greed maintains all the same personality and powers as the first (his Ouroboros tattoo is even in the same spot), but appears to have none of his previous memories, not recognizing Envy, Gluttony, or the Elric Brothers. As such, he becomes a faithful servant of his Father, as the first Greed was presumed to have been initially, and refers to all actions prior to his rebirth as having been done by &quot;the other Greed&quot;.    After killing a past comrade and follower of his, memories from Greed&#039;s previous life returned, including his time in the Devil&#039;s Nest and the feelings he had for his followers. Remembering this, along with how Bradley killed most of his followers, leads Greed to betray Father once again. He also stops referring to his &quot;previous self&quot; as &quot;the other Greed&quot; upon regaining his memories.  !~"
+          }
+        },
+        {
+          "id": 650,
+          "name": "Lust",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b650-viEy6bOIcGiU.png",
+          "description": "",
+          "nicknames": [
+            "Lust",
+            "ラスト",
+            "Ultimate Spear",
+            "Lust the Lascivious",
+            "Solaris"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井上喜久子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lust",
+            "name_native": "ラスト",
+            "name_alternative": [
+              "Ultimate Spear",
+              "Lust the Lascivious",
+              "Solaris"
+            ],
+            "description": "Lust is a Homunculus, nicknamed the \"Ultimate Spear\", and one of the first antagonists in the Fullmetal Alchemist series. She is the first Homunculus to appear in the series and plays a significant role in the plot of both the manga and 2003 anime series. Lust is also usually partnered with Gluttony to whom she appears to have a particular almost motherly closeness. Her Ouroboros mark is located on her collarbone, just above her breasts.     \n\n__In the 2003 anime series;__ She is largely the same as her manga counterpart, highly intelligent, manipulative, devoted to her own ideals, however she begins to crave becoming a human as the series progresses. Her main purpose amongst the Homunculi is gathering information and traveling abroad, manipulating alchemists into creating Philosopher's Stones. Gaining true humanity is the focal point of her ambition, arguably much more so than the rest of the Homunculi.     \n\n~!Lust was created by Scar's brother, when he attempted to use alchemy to bring his lover back from the dead. After he was cast out from Ishbalan society as a heretic, [Envy](https://anilist.co/character/651/Envy) visited the wretched creature and fed it red stones, giving her human shape, and her new name. She was not the first Homunculus to bear the name of Lust, and is the third youngest Homunculus.!~\n\n__In the manga and 2009 anime series;__ Lust is the only female Homunculus and the second to be created by [Father](https://anilist.co/character/15542/Flask-no-Homunculus). Due to her high intelligence and devotion to Father's plan, Lust appears to have a great deal of free reign and authority within the organization, seeming to have a position second only to Pride and on par with Wrath. Lust also has a great disdain for humans, thinking them frail, predictable and generally stupid. Moreover, she appears to take pleasure in using and throwing them away. Lust is the first to introduce the idea of Homunculi as superhuman, the next wave of evolution of humanity, and takes pride in her nature."
+          }
+        },
+        {
+          "id": 651,
+          "name": "Envy",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b651-S4mzVOTMzej6.png",
+          "description": "",
+          "nicknames": [
+            "Envy",
+            "エンヴィー",
+            "Envy the Jealous",
+            "Envy the Bizarre"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高山みなみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95024-qsZgGp8VHqMP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Envy",
+            "name_native": "エンヴィー",
+            "name_alternative": [
+              "Envy the Jealous",
+              "Envy the Bizarre"
+            ],
+            "description": "__Occupation:__ Instigator for Father\n__Ability:__ Shapeshifting\n__Goal:__ Cause discord among humans\n\nEnvy is a homunculus who has the ability to shapeshift. They use this power to assume the form of any person and even copy their voice. They usually serve as a spy, but their abilities are also extremely useful for assassinations. Envy may not be as smart as some of the other homunculi, but they are by no means an idiot. In fact, they can be just as good a puppet master as Lust, but this is overshadowed by their cockiness and bad temper. This temper can easily be set off by insulting their large and delicate ego, causing them to make mistakes.  \n\n__In the 2003 anime series:__ As the oldest Homunculus, Envy claimed that they had forgotten what they originally looked like. Envy also greatly hates all humans and followed Dante mostly for the opportunity of killing as many people as they could. This is what drove Envy in all that they did and unlike other Homunculi, Envy does not care about the Philosopher's Stone, nor about becoming human. ~!Towards the very end of the series it is revealed that Envy was created four hundred years ago by Hohenheim in an attempt to resurrect the son he and Dante had, who later died from mercury poisoning when he was eighteen years old. Envy held a great hatred toward Hohenheim for never being acknowledged as his son and for abandoning them and Dante.!~  \n\n__In the manga and 2009 anime series:__ Envy was the fourth Homunculus created by Father. Though often referred to as a 'he' Envy is apparently genderless and can take almost any form it chooses. Referred to by Lust as the most cruel or sadistic of the Homunculi, Envy shows the most open disdain of humans and relishes in any opportunity to hurt, humiliate, or insult them. They are also quite vain and short tempered and dislikes anyone insulting their appearance. ~!Beneath this cruel exterior, however, Envy is secretly envious of humans' inner strength and the mutually beneficial friendships that they share, since most of the Homunculi show little real concern or emotional support for each other.!~  \n\n(Source: Fullmetal Alchemist Wikia)"
+          }
+        },
+        {
+          "id": 2079,
+          "name": "Alex Louis Armstrong",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2079-RnhPS44vyqpJ.jpg",
+          "description": "",
+          "nicknames": [
+            "Alex Louis Armstrong",
+            "アレックス・ルイ・アームストロング",
+            "Strong Arm Alchemist"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内海賢二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95138-0iK7jnkuJb6o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Alex Louis Armstrong",
+            "name_native": "アレックス・ルイ・アームストロング",
+            "name_alternative": [
+              "Strong Arm Alchemist"
+            ],
+            "description": "__Birthplace:__ Amestris\n__Occupation:__ State Alchemist\n\nMajor Alex Louis Armstrong, the Strong Arm Alchemist, was born into an elite family of alchemists and has mastered his family's techniques. Members of his family have, in the past, filled the highest military and political positions in the state. He acquired his alchemy titles for his skill of using arm strength in his alchemy. All though he may look intimidating, he is really friendly and (overly)affectionate, and often stays behind or risks his life for the safety of others. He also has a tendency to show off techniques passed down to him to his enemies, and make them feel somewhat awkward during a battle."
+          }
+        },
+        {
+          "id": 2439,
+          "name": "Grand Basque",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2439-ETW3tuNekJ1w.jpg",
+          "description": "",
+          "nicknames": [
+            "Grand Basque",
+            "バスク・グラン",
+            "Basque Gran",
+            "Iron Blood Alchemist"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "青森伸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/9016.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Grand Basque",
+            "name_native": "バスク・グラン",
+            "name_alternative": [
+              "Basque Gran",
+              "Iron Blood Alchemist"
+            ],
+            "description": "Brigadier General Basque Grand (the Iron Blood Alchemist) is an ambitious alchemist known for going to any lengths to complete an assignment. His alchemy title refers to Grand's ability to transmute the iron in his blood to an assortment of guns and other weapons. Grand was also in charge of the &quot;defunct&quot; Laboratory 5 in Central, which he ran in hope of creating a philosopher's stone for his own purposes."
+          }
+        },
+        {
+          "id": 3292,
+          "name": "Lan Fan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3292-aK72k3syf1qP.png",
+          "description": "",
+          "nicknames": [
+            "Lan Fan",
+            "ランファン",
+            "Ran Fan",
+            "Ranfan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "水樹奈々",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95081-qto4UanYkpQT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lan Fan",
+            "name_native": "ランファン",
+            "name_alternative": [
+              "Ran Fan",
+              "Ranfan"
+            ],
+            "description": "Lan Fan is one of two bodyguards of [Ling Yao](https://anilist.co/character/3293/Yao-Ling) and the granddaughter of Ling's other bodyguard, [Fu](https://anilist.co/character/23461/Foo). She is very quiet and cares deeply for Ling. As a result, she is constantly thinking of his safety and often forgets her own. Lan Fan is a very skilled fighter and is able to sense the presence of a soul (referred to as chi); thus she can quickly identify Homunculi like [Envy](https://anilist.co/character/651/Envy) that have more than one soul in their Philosopher's Stones (meaning she can easily see through Envy's disguises). Although we are never told her age Ling refers to her as a \"girl\" so we can assume that she and Ling are around the same age.\n\n~!After being heavily injured by the Führer himself, Lan Fan sacrifices her arm to help Ling and herself escape. Later, She leaves with Fu to have an automail arm made for her. Lan Fan comes back six months later with an automail left arm. The automail is equipped with retractable blade starting from her elbow and ending around her shoulder. She uses it in a fight against Gluttony and in the siege of Central.!~"
+          }
+        },
+        {
+          "id": 3293,
+          "name": "Ling Yao",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3293-2GiFTmLQnBw8.jpg",
+          "description": "",
+          "nicknames": [
+            "Ling Yao",
+            "リン・ヤオ",
+            "Prince Ling",
+            "Lin Yao"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宮野真守",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ling Yao",
+            "name_native": "リン・ヤオ",
+            "name_alternative": [
+              "Prince Ling",
+              "Lin Yao"
+            ],
+            "description": "__Occupation:__ Prince\n__Goal:__ To find the secret of immortality and become Xingese Emperor\n\nLing Yao is a Xingese character exclusive to the manga and the 2009 anime series. Due to his father, the Emperor's, declining health, Ling left his country to find the Philosopher's Stone to stabilize Xing, as well as grant him the key to immortality. Although he is the 12th son of the Emperor, Ling hopes the Philosopher's Stone will help him rise in the order of succession and achieve the throne thereby securing his clan's welfare. Though he is often laid back and hungry, he's very noble and will do whatever it takes to help his clan. He is also a skilled fighter and has had many incidents involving assassination attempts at his life. He has formed a strong rivalry with [Ed](https://anilist.co/character/11/Elric-Edward), by doing things such as use Ed's money to annoy him.   ~!After the 1st Greed is punished by Father, he gives Ling the secret to immortality by transforming him into the succeeding Greed. Ed tries to help, but Ling denies his help as it is the only way to help his clan in the land of Xing. Even while his body is taken over by Greed his mind and soul are kept intact and can come to the surface. Since Greed understands his strong points their relationship is on some kind of symbiotic level.!~\n\n(Source: Fullmetal Alchemist wiki)"
+          }
+        },
+        {
+          "id": 3696,
+          "name": "Shou Tucker",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3696-FXnbdWQXziOr.jpg",
+          "description": "",
+          "nicknames": [
+            "Shou Tucker",
+            "ショウ・タッカー",
+            "Sewing-Life Alchemist"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "永井誠",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102625-ZTDzjmLmTMRD.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shou Tucker",
+            "name_native": "ショウ・タッカー",
+            "name_alternative": [
+              "Sewing-Life Alchemist"
+            ],
+            "description": "__Birthplace:__ Amestris\n__Occupation:__ State Alchemist\n\nThe \"Sewing-Life\" Alchemist who created a talking chimera. Later on it is realized that the first speaking chimera he created was made from lab animals and his wife who he transmuted into a chimera out of a fit of anger.    ~!He also created a second \"talking chimera\" by transmuting his daughter Nina and his dog.!~  In the 2003 Series:   ~!Later on he makes another appearance at the abandoned lab. He is first thought to be a chimera by Ed, when he can see Shou's twisted body wrapped around the creature's upper body due to a failed alchemy experiment. Shou then wishes Ed to complete the philosopher's stone so he can then resurrect Nina whom he killed in the first place.!~"
+          }
+        },
+        {
+          "id": 3934,
+          "name": "Olivier Mira Armstrong",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n3934-MKTV6tQeP8T3.png",
+          "description": "",
+          "nicknames": [
+            "Olivier Mira Armstrong",
+            "オリヴィエ・ミラ・アームストロング",
+            "Northern Cliff of Briggs",
+            "Ice Queen",
+            "Northern Wall of Briggs"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "沢海陽子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95912-8ZUpdG5UjcAL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Olivier Mira Armstrong",
+            "name_native": "オリヴィエ・ミラ・アームストロング",
+            "name_alternative": [
+              "Northern Cliff of Briggs",
+              "Ice Queen",
+              "Northern Wall of Briggs"
+            ],
+            "description": "__Species:__ Human\n__Occupation:__ Military Officer, Briggs General\n__Weapon:__ A family heirloom sword\n__Known relatives:__ Philip Gargantos Armstrong (father), Alex Louis Armstrong (younger brother), Catherine Elle Armstrong (youngest sister), Amue Armstrong (younger sister), Strongine Armstrong (younger sister)\n\nMajor General Olivier Mira Armstrong is Alex Louis Armstrong&#039;s older sister. She is in charge of Briggs, the northern military border. She scoffs at the concept of &quot;equivalent exchange&quot; and believes &quot;survival of the fittest&quot; is the only law in life. Her subordinates are loyal, but if it ensured the survival of Briggs (or for the sake of the greater good), they are instructed to leave her to die if ever the need arose, and she wouldn&#039;t hold it against them.    One of her closest subordinates is Major Miles, a soldier whose grandfather was Ishvalan; he is of many bloods due to several inter-racial unions, beginning with his grandparents. It is possible that he is also part Xingese, but his Ishvalan blood is the most prominent.     Being the General of Briggs, Olivier has full command of the Fortress. She is also very skilled with her family heirloom sword which she uses unhesitatingly. She also seems to have some proficiency with tanks and artillery."
+          }
+        },
+        {
+          "id": 4159,
+          "name": "Nina Tucker",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4159-g0Q6tQ9SCq6R.jpg",
+          "description": "",
+          "nicknames": [
+            "Nina Tucker",
+            "ニーナ・タッカー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "諸星すみれ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106404-uodatsBbsnJh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nina Tucker",
+            "name_native": "ニーナ・タッカー",
+            "name_alternative": [],
+            "description": "__Nationality:__ Amestrian\n\nNina's father is [Shou Tucker](https://anilist.co/character/3696/), the Sowing Life Alchemist.  \n\n~! When her father became desperate in forming another talking chimera he transmuted her and [her dog](https://anilist.co/character/404360/) into a chimera that was able to speak the human language.  Shortly after, she is killed by Scar to put her out of her misery. Later on in the first anime, with the philosopher's stone, the disfigured Chimeric Shou Tucker is able to resurrect his fallen daughter into the form of a chimera homunculus, an artificial human being. However, she never speaks and little is known about what happens after that.!~"
+          }
+        },
+        {
+          "id": 4685,
+          "name": "Jean Havoc",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n4685-9uloq4hxlcTw.png",
+          "description": "",
+          "nicknames": [
+            "Jean Havoc",
+            "ジャン・ハボック",
+            "Jacqueline",
+            "The Knight"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "うえだゆうじ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95058-fGnId7E4tgx3.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jean Havoc",
+            "name_native": "ジャン・ハボック",
+            "name_alternative": [
+              "Jacqueline",
+              "The Knight"
+            ],
+            "description": "Second Lieutenant Jean Havoc likes to smoke, and is almost always pictured with a cigarette in his mouth. He is a fair shot with a gun, and one of Roy Mustang's loyal followers; he gives Edward a stern talking-to when Ed bad-mouths Mustang for only caring about promotions. Havoc is a strict man of duty, a very by-the-book soldier, even if he doesn't always agree with the orders.\n\n~!He becomes paralysed from the legs down due to a wound given to him by Lust.!~"
+          }
+        },
+        {
+          "id": 5103,
+          "name": "King Bradley",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5103-jnflrjKevO3z.png",
+          "description": "",
+          "nicknames": [
+            "King Bradley",
+            "キング・ブラッドレイ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "柴田秀勝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95018-HXJMMED74SVO.png",
+              "language": "日语"
+            },
+            {
+              "name": "木内秀信",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95174-yTsadXRKchp7.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "King Bradley",
+            "name_native": "キング・ブラッドレイ",
+            "name_alternative": [],
+            "description": "King Bradley is the Führer of the Amestris state military and has all state alchemist under his direct command. King Bradley almost always maintains a kind and calm demeanor even when issuing orders to engage in battle. This trait often confuses his subordinates, and [Roy Mustang](https://anilist.co/character/68/Mustang-Roy) admits that he \"can't figure the guy out.\" King Bradley has a son, [Selim](https://anilist.co/character/10982/Bradley-Selim), and an unnamed wife.\n\nIn both iterations of Bradley, he is shown to be highly skilled with a saber. He can move and attack with incredible speed and dismember with ease."
+          }
+        },
+        {
+          "id": 5411,
+          "name": "Gluttony",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/5411.jpg",
+          "description": "",
+          "nicknames": [
+            "Gluttony",
+            "グラトニー",
+            "Gluttony the Voracious"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白鳥哲",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95218-0yuGjjjk53Ez.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gluttony",
+            "name_native": "グラトニー",
+            "name_alternative": [
+              "Gluttony the Voracious"
+            ],
+            "description": "Gluttony is the second homunculus to appear in the series, typically being in the company of Lust. He is a large, simple-minded homunculus whose thoughts rarely stray far from eating. He has powerful jaws, acidic saliva, and can and will eat almost anything. He particularly likes eating people, and the only way he can find enjoyment in a battle is if he believes he can eat his opponent afterwards. A running gag in the manga and anime is asking Lust (or any other Homunculi) if he can eat someone. He apparently prefers girls (as in to eat) and also seems to share a bond with his partner Lust.     There is no significant information pertaining to his role in the 2003 anime series.     __In the manga and 2009 anime series;__  Gluttony is the sixth Homunculus created by Father...   ~!and the failed product of Father&#039;s attempts to create a Gate of Truth. When activating this gate, Gluttony&#039;s stomach opens up, revealing a large eye at its center. His ribs spread out to act as a border for the gate, and then double as large extendable teeth. With these teeth Gluttony can consume everything in his eye&#039;s field of vision in an instant, which is then transported to a realm within himself. Artifacts from centuries before the start of the series can be found there, indicating Gluttony&#039;s age. Gluttony and his philosopher&#039;s stone was eaten by Pride when they&#039;re battling with Edward Elric, Lan Fan, Ling Yao, Fu,and the chimeras.!~    (Taken in part from Wikia)"
+          }
+        },
+        {
+          "id": 5428,
+          "name": "Barry the Chopper",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5428-ZIjtbA5UxvSB.png",
+          "description": "",
+          "nicknames": [
+            "Barry the Chopper",
+            "バリー・ザ・チョッパー",
+            "Number 66 (ナンバー66)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "梅津秀行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101602-wUvWtCkvNGNB.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Barry the Chopper",
+            "name_native": "バリー・ザ・チョッパー",
+            "name_alternative": [
+              "Number 66 (ナンバー66)"
+            ],
+            "description": "A butcher who uses the disguise of a female so he can abduct women.   \n\nBarry is a wanted serial killer and later an experiment in 5th laboratory."
+          }
+        },
+        {
+          "id": 5705,
+          "name": "Kain Fuery",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5705-Aoe00iZYSbS1.jpg",
+          "description": "",
+          "nicknames": [
+            "Kain Fuery",
+            "ケイン・フュリー",
+            "Kate"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "柿原徹也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95167-wjIShzThRTlS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kain Fuery",
+            "name_native": "ケイン・フュリー",
+            "name_alternative": [
+              "Kate"
+            ],
+            "description": "__Nationality:__ Amestrian\n__Occupation:__ Mechanics and Communication Specialist\n__Goal:__ Support Roy Mustang's goal to become Führer\n\nMaster Sergeant Kain Fuery is a kind man who cares for animals and everyone else. He was the one who brought Black Hayate into the eastern Headquarters, though he freaked out about Riza's methods of training. He is part of Roy Mustang's group and is the youngest member, the only non-commissioned officer in the group.  Fuery is extremely talented with radio signals. Fuery is the soft-spoken technical wizard under Mustang's command. He isn't used to much hand to hand fighting, but is handy enough in a pinch."
+          }
+        },
+        {
+          "id": 5706,
+          "name": "Vato Falman",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b5706-Hh6Su6NIGGT0.jpg",
+          "description": "",
+          "nicknames": [
+            "Vato Falman",
+            "ヴァトー・ファルマン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "浜田賢二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95371-nyA7w7nPrlPr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Vato Falman",
+            "name_native": "ヴァトー・ファルマン",
+            "name_alternative": [],
+            "description": "Warrant Officer Vato Falman escorts General Hakuro back from his vacation and works in the investigation department under Lieutenant Hughes, as well as aiding Roy Mustang at Eastern Headquarters. Later on, Falman begs Mustang to let him join the team, and after thinking it through Mustang allows him to transfer with him back to Central. Falman is particularly known for his precision and data. Falman is overly formal, causing some of his comrades to wish he would lighten up."
+          }
+        },
+        {
+          "id": 6590,
+          "name": "Solf Kimblee",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b6590-HIiNVX4XVFom.jpg",
+          "description": "",
+          "nicknames": [
+            "Solf Kimblee",
+            "ゾルフ・J・キンブリー",
+            "Zolf J. Kimbly",
+            "Kimbley",
+            "Crimson Alchemist",
+            "Crimson Lotus Alchemist",
+            "Red Lotus Alchemist",
+            "Mad Bomber"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "吉野裕行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95283-g76zV4YacFfm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Solf Kimblee",
+            "name_native": "ゾルフ・J・キンブリー",
+            "name_alternative": [
+              "Zolf J. Kimbly",
+              "Kimbley",
+              "Crimson Alchemist",
+              "Crimson Lotus Alchemist",
+              "Red Lotus Alchemist",
+              "Mad Bomber"
+            ],
+            "description": "Solf J. Kimblee is an ex-war criminal and a veteran of the Ishbal War. His alchemy title refers to his use of sulfur in the human body to create explosive fluids, turning people into living bombs.  \n\nHis personality seems almost split in two; at times he can be polite, if curt, straightforward, rational, and \"civilized.\" However, in battle he displays an uncanny and foreboding demeanor in favor of destruction and damnation. Kimblee's powers appear to be much the same as those in the Anime, except that he can transmute and detonate from a distance as well, using the ground as a connecting force, causing huge explosions (though probably it is because his force is imbued with Philosopher's Stone)."
+          }
+        },
+        {
+          "id": 7203,
+          "name": "Black Hayate",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7203-FcriYVNERLe3.png",
+          "description": "",
+          "nicknames": [
+            "Black Hayate",
+            "ブラックハヤテ"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Black Hayate",
+            "name_native": "ブラックハヤテ",
+            "name_alternative": [],
+            "description": "Lt. Hawkeye's pet dog. He is a Shiba Inu."
+          }
+        },
+        {
+          "id": 8452,
+          "name": "Sheska",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n8452-AgUmfwiJVcSD.png",
+          "description": "",
+          "nicknames": [
+            "Sheska",
+            "シェスカ",
+            "Scieszka",
+            "Sciezka",
+            "Scheska"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤村知可",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95913-eMfzgvLKXZfg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sheska",
+            "name_native": "シェスカ",
+            "name_alternative": [
+              "Scieszka",
+              "Sciezka",
+              "Scheska"
+            ],
+            "description": "Sheska is a bookworm to the letter.    Her house is full with piles of books. One could say &#039;no one can possibly live here&#039;.    She was a librarian at the First Branch of the Central City library. But when she was at the Central City library she forgot she was supposed to be working, and read books instead. And as one could expect; she got fired.    But when the Central City library burnt down she was the key to the books that got lost in the fire. Because Sheska is gifted with the talent to remember and reproduce anything she has ever read with word-for-word accuracy. And therefore, she got hired by the military again.    When looking at the fact that Sheska has collectors mania, and forgets anything around her when she reads a book and last but certainly not least her extra ordinary talent to reproduce books she read times ago, one could conclude she has savant autism."
+          }
+        },
+        {
+          "id": 8840,
+          "name": "Martel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n8840-FdmCCLVXcynw.png",
+          "description": "",
+          "nicknames": [
+            "Martel",
+            "マーテル",
+            "Marta"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "本田貴子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/41.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Martel",
+            "name_native": "マーテル",
+            "name_alternative": [
+              "Marta"
+            ],
+            "description": "Martel is one of the Chimeras that joined Greed to get revenge on the military for what was done to them in the 5th Laboratory.  ~!She gets inside Alphonse&#039;s suit to make him unable to move when he gets captured by the Chimeras. She ends up developing a relationship with Alphonse, who tries to understand her motives unlike Ed. She is killed by Wrath right after taking shelter in his suit as she had done many times.!~"
+          }
+        },
+        {
+          "id": 9319,
+          "name": "Maria Ross",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/9319.jpg",
+          "description": "",
+          "nicknames": [
+            "Maria Ross",
+            "マリア・ロス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "名塚佳織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Maria Ross",
+            "name_native": "マリア・ロス",
+            "name_alternative": [],
+            "description": "Second Lieutenant Maria Ross is put in charge of taking care of the Elric brothers during their stay in Central. She and her partner Brosh were assigned the task of guarding the Elrics due to Scar&#039;s return in Central and his previous attempt on Ed and Al&#039;s lives. Almost immediately, she takes on the role of a parental figure. She tries to give guidance to the brothers whenever she can. She took a liking to Ed and Al, and risked her life to calm Ed down when he was absorbing the red stone material inside laboratory 5. Both she and her partner Denny Brosh work under Major Alex Louis Armstrong.     Source: Wikipedia"
+          }
+        },
+        {
+          "id": 10085,
+          "name": "Trisha Elric",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10085-58XIJwuEUCPE.png",
+          "description": "",
+          "nicknames": [
+            "Trisha Elric",
+            "トリシャ･エルリック"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鷹森淑乃",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96057-sTfYZjMdWTRu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Trisha Elric",
+            "name_native": "トリシャ･エルリック",
+            "name_alternative": [],
+            "description": "Mother of Edward &amp; Alphonse Elric. She dies of an unexplained illness when Ed and Al are around 7 or 8 years old."
+          }
+        },
+        {
+          "id": 10944,
+          "name": "Cornello",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10944-75DDI5C09cUr.png",
+          "description": "",
+          "nicknames": [
+            "Cornello",
+            "コーネロ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "加藤精三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96036-i2L5KwYbS8KR.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Cornello",
+            "name_native": "コーネロ",
+            "name_alternative": [],
+            "description": "Cornello is a low-rate alchemist and a fraud. He uses what he thinks is the Philosopher&#039;s Stone to fool the people of Lior into thinking that he is sent by the Sun God Leto with the power to perform miracles, including resurrecting the dead. Although he uses alchemy to bring prosperity to the desert city, his true intention is to convert the citizens into a fanatical army. The Elric brothers expose him for a fraud, and shortly afterward the incomplete Philosopher&#039;s Stone becomes unstable and shatters as it tears his arm into a mass of flesh and metal.    After the Elrics undermine his plan and Cornello is no longer of any use to the Homunculi, he is consumed by Gluttony. Envy, disguised as Cornello, maintains the deception until Lior is subjugated by the State Military. In the manga, Lust tells Gluttony he&#039;d be better off not eating a fourth-rate fraud like Cornello, and kills him herself. Gluttony eats Cornello&#039;s dead body afterwards, Lust replying to Gluttony rather annoyed &quot;I thought I told you not to eat that&quot;."
+          }
+        },
+        {
+          "id": 10948,
+          "name": "Cray",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/10948.jpg",
+          "description": "",
+          "nicknames": [
+            "Cray",
+            "クレイ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高瀬右光",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95469-45R6crXZ0gVN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Cray",
+            "name_native": "クレイ",
+            "name_alternative": [],
+            "description": "He was Father Cornello's right-hand man and a devout follower of his religion. Shortly after Ed and Al's arrival in Lior, Cornello explained to Cray that Ed was in fact a State Alchemist, and was most likely in Lior for reconnaissance purposes. Consequently, Cornello ordered Cray to eliminate the Elrics in the name of their god, but he failed when a shot meant to take off Alphonse's head only revealed his empty armor. During the siege of Lior, Cray was devoured by Gluttony when he looked for Cornello and found the Homunculi instead.    Cray's skeleton can be seen in Gluttony's stomach near the end of chapter 50.\n\n~! His jacket appears in FmaB (Fullmetal Alchemist Brotherhood) inside Gluttony !~\n"
+          }
+        },
+        {
+          "id": 10954,
+          "name": "Gracia Hughes",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10954-lbg0Qqj7EPOR.png",
+          "description": "",
+          "nicknames": [
+            "Gracia Hughes",
+            "グレイシア・ヒューズ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "半場友恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95471-QFtcXqtRwhlS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gracia Hughes",
+            "name_native": "グレイシア・ヒューズ",
+            "name_alternative": [],
+            "description": "Maes Hughes&#039;s wife, and Elicia Hughes&#039;s mother, she is a kind and caring person. Gracia appears peripherally throughout the series and allows Winry to stay at her house when she is in Central and Sheska to frequently visit.   In the manga, it is revealed that she and Hughes met before he was sent out to the battlefield during the Ishval War."
+          }
+        },
+        {
+          "id": 10956,
+          "name": "Marcoh Tim",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10956-kIbRRBTTFUN1.png",
+          "description": "",
+          "nicknames": [
+            "Marcoh Tim",
+            "ティム・マルコー",
+            "Mauro",
+            "Crystal Alchemist"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小室正幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104562-b8p3boRWsQcf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Marcoh Tim",
+            "name_native": "ティム・マルコー",
+            "name_alternative": [
+              "Mauro",
+              "Crystal Alchemist"
+            ],
+            "description": "Formerly the Crystal Alchemist, Marcoh was the leading researcher in the creation of the Philosopher's Stone. Tormented by the fact that his research was used in the Ishval War to kill many innocent people, he fled from his position as a State Alchemist and took his research with him to prevent it from being used for further destruction. Hiding from the military and posing as a medical doctor, he uses the Red Stone he created to help the sick."
+          }
+        },
+        {
+          "id": 10958,
+          "name": "Rick",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10958-rzEsqRsQW4cJ.png",
+          "description": "",
+          "nicknames": [
+            "Rick",
+            "リック"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rick",
+            "name_native": "リック",
+            "name_alternative": [],
+            "description": "Leo&#039;s younger brother. He carries a locket of his mother with him, even though it was broken and would not open. He was captured briefly by mercenaries in Central, but was rescued by Scar, Alphonse, and Edward. Rick was nearly killed during the rescue attempt, only the locket of his mother saved him. The force placed on the locket caused it to open, revealing a picture of Rick, Leo, and their mother; additionally, several small pills for the treatment of blindness were discovered inside it. Toward the end of the anime series Edward receives permission from the military to have Rick and his older brother Leo released and transferred to Resembool; however both Rick and Leo turn down the offer.    In the manga, Rick and the old man pull Scar out of the sewer in East City after Scar&#039;s first encounter with the Homunculi. They tend to his wounds until the mercenaries try to arrest Scar, then Scar leaves the slum and they are not seen again. It is implied that the fair-skinned and fair-haired manga version of this boy is half-Ishvalan (as he reassures an injured Scar that he&#039;s safe because &quot;Mom and I are Ishvalan too!&quot;) Rick wasn&#039;t named in the manga."
+          }
+        },
+        {
+          "id": 10962,
+          "name": "Number 48",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10962-U4tJQGUmbHZp.png",
+          "description": "",
+          "nicknames": [
+            "Number 48",
+            "ナンバー48",
+            "Ani",
+            "(兄)",
+            "Otouto (弟)",
+            "The Slicer Brothers"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松本大",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/838.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "野島健児",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95074-ilLCdbpWIgrF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Number 48",
+            "name_native": "ナンバー48",
+            "name_alternative": [
+              "Ani",
+              "(兄)",
+              "Otouto (弟)",
+              "The Slicer Brothers"
+            ],
+            "description": "The Slicer Brothers are a pair of serial killers who become one of the guardians of Laboratory 5 under the joint alias of Number 48.\n\nThey had their souls bound to a single suit of armor by way of a pair of blood runes (one in the helm and one in the armor's neck piece) and were assigned to kill any intruders at the laboratory."
+          }
+        },
+        {
+          "id": 10964,
+          "name": "Dolcetto",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10964-sJjQA54ViKVI.png",
+          "description": "",
+          "nicknames": [
+            "Dolcetto",
+            "ドルチェット",
+            "Dorochet"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "勝杏里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95756-MmmuyQK4Thzl.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dolcetto",
+            "name_native": "ドルチェット",
+            "name_alternative": [
+              "Dorochet"
+            ],
+            "description": "A Chimera that swore loyalty to Greed. Like Nina, he was fused with a dog; however, he has retained his human appearance. Because he is part dog, he can use his new-found speed along with his great swordsmanship, and his sense of smell is superior to that of a normal human. However, he is noted saying he is &#039;too loyal for his own good&#039;. In the manga, he is often used as comic relief. Such as when Martel (inside Al at the time) should see him pee with one of his legs in the air, much like a real dog. He, like Martel, was not in the war in Ishval but was in the war in Aerugo."
+          }
+        },
+        {
+          "id": 10966,
+          "name": "Roa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10966-Q9qHeC1SeHe7.png",
+          "description": "",
+          "nicknames": [
+            "Roa",
+            "ロア",
+            "Loa"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "稲田徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Roa",
+            "name_native": "ロア",
+            "name_alternative": [
+              "Loa"
+            ],
+            "description": "A chimera that follows Greed. He was fused with a bull, making him as strong as one, as demonstrated to Al when he literally knocks Greed's head off with his hammer (Greed, naturally, recovers from this). He wields a hammer as his weapon and has an ability to transform into an enhanced version of himself with more bull-like aspects like horns and greater strength. He's the only one of the three that fought in Ishval. He cameos in the 15th volume, shown as a background soldier, after Roy Mustang's appearance in the battle ground."
+          }
+        },
+        {
+          "id": 10968,
+          "name": "Bido",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10968-6pArDjaOmDB6.png",
+          "description": "",
+          "nicknames": [
+            "Bido",
+            "ビドー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "うえだゆうじ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95058-fGnId7E4tgx3.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bido",
+            "name_native": "ビドー",
+            "name_alternative": [],
+            "description": "Bido was a chimera created in the Fifth Laboratory; after escaping it, he followed the homunculus Greed. Before his transmutation, he was a member of Martel's military special ops team which instigated the Ishval revolt. He was fused with a lizard or a gecko; this enabled him to have a firm grip on surfaces when climbing, and to use his tail as a bludgeoning weapon. He is bald and speaks in a raspy, hacksaw voice, though it's unclear whether this is a result of the fusion or not.   ~!In The first anime he is killed by the military. In \"Brotherhood\" he survives instead of Martel. He searches for Greed and finds him in Father's lair. Unfortunately, the homunculus has forgotten about Bido and kill him. Afterwords, Greed's old memories start to return and Greed realizes he has killed the last member of his family with his own hands.!~"
+          }
+        },
+        {
+          "id": 10970,
+          "name": "Shifu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/10970.jpg",
+          "description": "",
+          "nicknames": [
+            "Shifu",
+            "師父",
+            "Scar's Master"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤本譲",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/6455.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shifu",
+            "name_native": "師父",
+            "name_alternative": [
+              "Scar's Master"
+            ],
+            "description": "Scar&#039;s mentor from Ishval, a holy man. The two got separated when Kimblee attacked the group of refugees of which they were a part. Upon learning of his student&#039;s &quot;crusade&quot; against State Alchemists, he counsels him on the teachings of Ishvala. In the anime, he says, &quot;Even in the darkest of suffering, a man can sleep. But for the man who inflicts the suffering, his mind cannot rest. Ever.&quot; In the manga, he explains &quot;Revenge only grows seeds of revenge,&quot; (which Scar didn&#039;t care for much until he found Winry pointing a gun at him, intending to seek revenge for her parents&#039; deaths, as Scar was their killer in the manga). He later speaks on behalf of the Ishvalans at a refugee camp when Mustang and his men arrive looking for Scar. Scar&#039;s master was one of the few survivors of the covert op of which Martel was a part, and which triggered the Ishval massacre. He is never mentioned by name in the anime. He does exist in the Manga because he can be seen in a cameo in Chapter 58 for a brief period of time, and in chapter 72 in flashback when he stating that although they may (and should) not forgive the damage Amestris done to the Ishval, but they must not surrender to the hatred, and endure it, to sever the bonds of hatred, since they&#039;re human beings."
+          }
+        },
+        {
+          "id": 10972,
+          "name": "Sig Curtis",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10972-NNiWRRcdfOTO.png",
+          "description": "",
+          "nicknames": [
+            "Sig Curtis",
+            "シグ・カーティス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐々木誠二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100439-OBOGjSKuPxAB.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sig Curtis",
+            "name_native": "シグ・カーティス",
+            "name_alternative": [],
+            "description": "The husband of Izumi Curtis, an enormous muscular man who works as a butcher in the town of Dublith. He is a man of few words and does not question the judgment of his beloved wife, even after she tried to resurrect their infant son when the child died.    Like Izumi, he cares deeply for the Elric brothers and also dislikes the military. In the manga, when greeted by Fuhrer King Bradley, he ignores the Fuhrer&#039;s inquiries and offer for Izumi to become a State Alchemist, but ends up befriending Major Alex Louis Armstrong in a muscle flexing contest. Strangely, in one episode of the anime, he is seen sleeping with both eyes open.    He also becomes friends with Winry Rockbell."
+          }
+        },
+        {
+          "id": 10974,
+          "name": "Paninya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/10974.jpg",
+          "description": "",
+          "nicknames": [
+            "Paninya",
+            "パニーニャ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岡村明美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95076-itRGy8F3x5Em.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Paninya",
+            "name_native": "パニーニャ",
+            "name_alternative": [],
+            "description": "A resident of Rush Valley, she lost her legs and right arm at a young age in a train wreck, but Dominic takes pity on her (in the form of social outrage) and gives her free automail legs and an arm. Thanks to these legs, she can run at great speed and jump great lengths. One leg also conceals a cannon, while the other has a long switchblade.    She takes Ed, Al and Winry to see Dominic at Winry&#039;s wish. Paninya had made a living out of pickpocketing tourists in Rush Valley, but after a talk with Winry she realizes that being a criminal would defeat the purpose that Dominic intended for her when he gave her free legs. She is currently working legitimate odd jobs around Garfiel&#039;s shop.    In the anime she also has an automail arm, which gets damaged in an arm wrestling contest. It also appears that Dominic adopted her after she lost her limbs in a train crash. No mention was made of what she did for a living, though in the chase with Edward, she was taking his pocketwatch to a pawn shop.However,this was most likely winry&#039;s idea for Ed cheating in an automail contest.Since she is seen in Dominics shop it can be assumed that she might work for him.    She was seen at the end of the anime, helping Winry perfect her skills.    In the manga the only automail she possesses is her prosthetic legs. It is noted that one leg has a Carbine rifle built into it by Dominic and the other a blade. She pickpocketed from tourists to try to pay back Dominic, who lives out in the mountains of Rush Valley with his son, his wife, and herself, for her automail. Dominic always refuses to accept her stolen money. After reforming her ways, she becomes a roofer and Dominic begins to reluctantly accept her money."
+          }
+        },
+        {
+          "id": 10976,
+          "name": "Dominic LeCoulte",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10976-acibFFXpDrPj.png",
+          "description": "",
+          "nicknames": [
+            "Dominic LeCoulte",
+            "ドミニク・レコルト",
+            "Dominique"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "飯塚昭三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95726-SddF7dYKZshB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dominic LeCoulte",
+            "name_native": "ドミニク・レコルト",
+            "name_alternative": [
+              "Dominique"
+            ],
+            "description": "An old reclusive automail master. His lifelong dream was to build automail with hidden cannons inside them, and he had the opportunity to do just that with Paninya&#039;s automail legs. Winry begs him to let her be his apprentice, but he defers her to Garfiel instead, even though Winry helped deliver his grandson.    It is noteworthy that when he found out Winry was the granddaughter of Pinako Rockbell, he flipped out, as apparently he has some memories about the &quot;Pantheress of Resembool&quot; that he would rather forget (&quot;Leopardess of Resembool&quot; in the dubbed anime).    In the anime, no mention is made of any desire to build hidden cannons, though he did build one into Paninya&#039;s right leg. He refuses to sell an automail arm to a young rich man because it is an arm for a fighter, and the young man does not really need it. At the end of the series, he is seen helping Winry train to become an even better mechanic."
+          }
+        },
+        {
+          "id": 10978,
+          "name": "Mason",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n10978-Q6TbwgQihAcC.png",
+          "description": "",
+          "nicknames": [
+            "Mason",
+            "メイソン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "阪口周平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95431-PkQgmAE6FPPd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mason",
+            "name_native": "メイソン",
+            "name_alternative": [],
+            "description": "An assistant at the Curtises&#039; butcher shop who is more outspoken than his employer. He has worked for Sig and Izumi at least since the Elrics initially became Izumi&#039;s apprentices. During Izumi&#039;s challenge to survive on Yock Island for one month without using alchemy and to discover the meaning behind &quot;All is one, one is all&quot;, Mason was the monster who kept attacking the brothers. Izumi had ordered him, in disguise, to make sure nothing happened to the boys during their stay on the island."
+          }
+        },
+        {
+          "id": 10982,
+          "name": "Selim Bradley",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/10982.jpg",
+          "description": "",
+          "nicknames": [
+            "Selim Bradley",
+            "セリム・ブラッドレイ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "三瓶由布子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95407-u8MV6kcAJNV6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Selim Bradley",
+            "name_native": "セリム・ブラッドレイ",
+            "name_alternative": [],
+            "description": "Selim Bradley is the son of Führer King Bradley.\n\n__In the manga and 2009 anime series;__ Selim is the Führer's sprightly son. He frequently asks his father to tell him stories from the battlefront and interesting anecdotes from his everyday events. Selim professes a desire to become a State Alchemist so as to be more useful to the Führer and is a self-professed fan of Edward Elric.\n"
+          }
+        },
+        {
+          "id": 15531,
+          "name": "Grumman",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n15531-ibDxEMsxkrzT.png",
+          "description": "",
+          "nicknames": [
+            "Grumman",
+            "グラマン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "納谷六朗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96128-cHvdKhF6dgK9.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Grumman",
+            "name_native": "グラマン",
+            "name_alternative": [],
+            "description": "The commander of the eastern headquarters and grandfather of Riza Hawkeye. As he is not under the constant surveillance of the Humonculi, he aids Mustang in trying to topple the Humonculi controlled government, but seems to do so strictly out of personal ambition."
+          }
+        },
+        {
+          "id": 15532,
+          "name": "May Chang",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/15532.jpg",
+          "description": "",
+          "nicknames": [
+            "May Chang",
+            "メイ・チャン",
+            "Mei Chang",
+            "Princess Chang"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "後藤麻衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5281.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "May Chang",
+            "name_native": "メイ・チャン",
+            "name_alternative": [
+              "Mei Chang",
+              "Princess Chang"
+            ],
+            "description": "The seventeenth princess of Xing (the lowest ranked house), who like Ling Yao, travels west searching for the Philosopher's Stone so she can become the empress and secure the future of her family.  She travels along with her pet mini-panda, Xiao Mei. Adept at Xing's style of alchemy, called Alchahastry, she use throwing knives to arrange transmutation circles in order to manipulate targets at long range.  A ardent fan of Edward Elric because of the way he helps people with alchemy, her image of him is quickly shattered when she sees him in person. Not knowing the history of the conflict between Scar and Edward, Mei helps Scar escape from the Emestrian military when the tide of battle turns against him, and begins traveling with him afterwards.  Though she becomes disillusioned with Edward soon after meeting him, she quickly becomes enamored with Alphonse instead.  ~! Upon concluding the series, she is seen in a picture (the same in which we see a married Ed and Winry) with Al, so it's assumed that they married. !~"
+          }
+        },
+        {
+          "id": 15533,
+          "name": "Jerso",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n15533-i6rF5wCx5Uyg.png",
+          "description": "",
+          "nicknames": [
+            "Jerso",
+            "ジェルソ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "志村知幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96520-HBvIVNbD2gvv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jerso",
+            "name_native": "ジェルソ",
+            "name_alternative": [],
+            "description": "A frog-like chimera who was initially one of Kimblee's bodyguards, but deserted and joined Scar instead."
+          }
+        },
+        {
+          "id": 15534,
+          "name": "Zampano",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/15534.jpg",
+          "description": "",
+          "nicknames": [
+            "Zampano",
+            "ザンパノ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "疋田高志",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10839.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zampano",
+            "name_native": "ザンパノ",
+            "name_alternative": [],
+            "description": "A boar-like chimera who was initially one of Kimblee's bodyguards, but deserted and joined Scar instead."
+          }
+        },
+        {
+          "id": 15536,
+          "name": "Heinkel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/15536.jpg",
+          "description": "",
+          "nicknames": [
+            "Heinkel",
+            "ハインケル",
+            "Lion King"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "辻親八",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95800-TBMYjwu8Wy6T.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Heinkel",
+            "name_native": "ハインケル",
+            "name_alternative": [
+              "Lion King"
+            ],
+            "description": "Originally one of Kimblee's bodyguards, Heinkel and Darius are blasted by Kimblee along with Ed, and ends up joining Ed when he saves them. Heinkel's chimera form is that of a humanoid lion."
+          }
+        },
+        {
+          "id": 15538,
+          "name": "Darius",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15538-DDx2RPAiQ1dy.jpg",
+          "description": "",
+          "nicknames": [
+            "Darius",
+            "ダリウス",
+            "Donkey Kong"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "天田益男",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95397-OIImp0s08L8m.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Darius",
+            "name_native": "ダリウス",
+            "name_alternative": [
+              "Donkey Kong"
+            ],
+            "description": "Originally one of Kimblee's bodyguards, Heinkel and Darius are blasted by Kimblee along with Ed, and ends up joining Ed when he saves them. Darius&#039; chimera form is that of a gorilla."
+          }
+        },
+        {
+          "id": 15540,
+          "name": "Miles",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/15540.jpg",
+          "description": "",
+          "nicknames": [
+            "Miles",
+            "マイルズ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中井和哉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95123-54LrTiD9kGwY.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miles",
+            "name_native": "マイルズ",
+            "name_alternative": [],
+            "description": "One of the higher ranking soldiers at Briggs&#039; Fortress under Olivier Mira Armstrong. As he is partly Ishvalian, Armstrong was ordered to imprison him during the Ishvalian war, but she refused to do such a thing only because of his ethnicity.  Miles is very loyal to Armstrong, and wants to stay in the military to change their perspective on Ishvalians."
+          }
+        },
+        {
+          "id": 15541,
+          "name": "Buccaneer",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15541-nw6HKt4ioDsr.jpg",
+          "description": "",
+          "nicknames": [
+            "Buccaneer",
+            "バッカニア",
+            "Bear with a mowhawk"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大友龍三郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95836-cHQyycQ0PWo2.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Buccaneer",
+            "name_native": "バッカニア",
+            "name_alternative": [
+              "Bear with a mowhawk"
+            ],
+            "description": "Captain Buccaneer is an Amestrian State Military Officer stationed at Fort Briggs and a close subordinate of Major General Olivier Mira Armstrong.     Abrasive and suspicious, Buccaneer is often one to strike first and ask questions later, in fitting with the Briggs mindset of &quot;Survival of the Fittest&quot;, and seems to enjoy violence and combat, often using vicious animal metaphors in his speech. He is loath to trust strangers and does not hold back in dealing out harsh treatment to people with whom he is unfamiliar.     Despite this, Buccaneer is an incredibly brave and loyal soldier and shows his more jovial side to those whom he calls &quot;comrade&quot;.    (source* = http://fma.wikia.com/wiki/Buccaneer)"
+          }
+        },
+        {
+          "id": 15542,
+          "name": "Flask no Homunculus",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n15542-7kL0vJ9U8bVR.png",
+          "description": "",
+          "nicknames": [
+            "Flask no Homunculus",
+            "フラスコの中の小人",
+            "Dwarf in The Flask",
+            "Father"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "家弓家正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1485.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Flask no Homunculus",
+            "name_native": "フラスコの中の小人",
+            "name_alternative": [
+              "Dwarf in The Flask",
+              "Father"
+            ],
+            "description": "During the course of FMA's story, \"Father\" commands the other Homunculi and orchestrates the various conflicts like the Ishvalian war, plotting something involving a transmutation circle encircling the entirety of Amestris.   ~!Most likely the very first Homunculus, \"Father\" met Hohenheim in the ancient country of Xerxes, where Hohenheim served as a servant in a laboratory. The Homunculus taught Hohenheim to read and perform alchemy, and was eventually brought before the king of Xerxes to give him immortality. After utilizing the life force of all of Xerxes' populace, Homunculus crafted himself a body akin to that of Hohenheim, and rendered them both immortal.!~"
+          }
+        },
+        {
+          "id": 15543,
+          "name": "Sloth",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15543-InwPEKIOdTvX.png",
+          "description": "",
+          "nicknames": [
+            "Sloth",
+            "スロウス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "立木文彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95284-k97k9dULn4vr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sloth",
+            "name_native": "スロウス",
+            "name_alternative": [],
+            "description": "Sloth is the fifth Homunculus created by Father. Appearing as a giant, muscular, but mentally slow man, Sloth spends most of the story digging the country spanning underground tunnels that make up the Father's mysterious transmutation circle. A conversation between Greed and Lust implies that Sloth have dug tunnels for at least a hundred years. Not surprisingly, he seems eager to finish his work so he can rest at last.  In the first anime, Sloth was inadvertently created in the failed human transmutation of Ed and Al, and appeared as their mother, quite the opposite of what he is characterized as in Fullmetal Alchemist: Brotherhood."
+          }
+        },
+        {
+          "id": 16648,
+          "name": "Heymans Breda",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16648-fJ18o1PPtBYk.jpg",
+          "description": "",
+          "nicknames": [
+            "Heymans Breda",
+            "ハイマンス・ブレダ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤美一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10601.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Heymans Breda",
+            "name_native": "ハイマンス・ブレダ",
+            "name_alternative": [],
+            "description": "Heymans Breda is one of Roy Mustang's most trusted subordinates. He was recruited by Mustang for his high level of intelligence, indicated by his talent with chess and other strategy games. Despite his intelligence, he still has an irrational fear of dogs. Breda is usually tasked by Mustang with jobs that require he travel abroad. In the course of doing so he uses up all of his days off, showing his dedication to Mustang. He is transferred to Western Headquarters when Mustang's group is broken up by the homunculi. In the manga, he eventually defects from the military so that he can help Mustang overthrow King Bradley."
+          }
+        },
+        {
+          "id": 17103,
+          "name": "Rebecca Catalina",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/17103.jpg",
+          "description": "",
+          "nicknames": [
+            "Rebecca Catalina",
+            "レベッカ・カタリナ",
+            "Becky"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "進藤尚美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95256-4emdBHqQ5S7m.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rebecca Catalina",
+            "name_native": "レベッカ・カタリナ",
+            "name_alternative": [
+              "Becky"
+            ],
+            "description": "Second Lieutenant Rebecca Catalina is a soldier under the command of Lieutenant General Grumman at the East City Headquarters and a close friend of Riza Hawkeye.    Though an exceptionally skilled soldier with combat abilities on par with Hawkeye and Havoc, Rebecca&#039;s true ambitions appear to lie with in the marital realm, as she spends much of her time complaining about her single life and trying to get Riza to help her find a man. She declares, after Hawkeye mocks her, that she hopes to &quot;land a real hunk and retire early&quot; from the military.    -Wikia"
+          }
+        },
+        {
+          "id": 20592,
+          "name": "Kathleen Elle Armstrong",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/20592.jpg",
+          "description": "",
+          "nicknames": [
+            "Kathleen Elle Armstrong",
+            "キャスリン·エル·アームストロング",
+            "Catherine"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "釘宮理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kathleen Elle Armstrong",
+            "name_native": "キャスリン·エル·アームストロング",
+            "name_alternative": [
+              "Catherine"
+            ],
+            "description": "Major Armstrong's sister. She likes to lift pianos and dreams of having a boyfriend who's as strong as her brother. Her appearance is different from the rest of her family since she looks rather cute."
+          }
+        },
+        {
+          "id": 21005,
+          "name": "Isaac McDougal",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n21005-n7FOAprc4nNz.png",
+          "description": "",
+          "nicknames": [
+            "Isaac McDougal",
+            "アイザック・マクドゥーガル",
+            "Ice Alchemist",
+            "Isaac the Freezer",
+            "Isaac of the Ice"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山寺宏一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Isaac McDougal",
+            "name_native": "アイザック・マクドゥーガル",
+            "name_alternative": [
+              "Ice Alchemist",
+              "Isaac the Freezer",
+              "Isaac of the Ice"
+            ],
+            "description": "The Ice Alchemist and defector from the Amestris army after the Ishbal war. Apparently aware of a conspiracy within the military government and is attempting to destroy it."
+          }
+        },
+        {
+          "id": 21072,
+          "name": "Hakuro",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21072-YVVmRPQ1hVYf.png",
+          "description": "",
+          "nicknames": [
+            "Hakuro",
+            "ハクロ",
+            "General"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "武虎 ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101165-2t7jn6YxCnma.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hakuro",
+            "name_native": "ハクロ",
+            "name_alternative": [
+              "General"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 21907,
+          "name": "Yoki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21907-Us2GCsNPZluU.jpg",
+          "description": "",
+          "nicknames": [
+            "Yoki",
+            "ヨキ",
+            "Lieutenant Yoki"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "矢尾一樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95131-TCVTgxb08tfE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yoki",
+            "name_native": "ヨキ",
+            "name_alternative": [
+              "Lieutenant Yoki"
+            ],
+            "description": "Yoki  is, when first introduced, a corrupt member of the military who imposes heavy taxes on the town of Youswell, bankrupting its citizens. When the Elric brothers arrive in town, they trick Yoki into giving up ownership of the town and promptly report his actions to the military He is stripped of his rank and lives as a homeless person on the outskirts of Central, where he meets the fugitive Scar. In the anime, Yoki alerts the military to Scar&#039;s location, and in the subsequent raid to apprehend Scar he is killed by Lust. In the manga, Yoki is forced to work for Scar under the threat of death. Though he tries to convince those they encounter that Scar is his servant, Yoki does as Scar commands and calls him &quot;master&quot;. Since he has started following Scar around the country, Yoki has assumed a role as comic relief, often having pain inflicted upon him when he tries to seem superior to others.  -Wikipedia"
+          }
+        },
+        {
+          "id": 22474,
+          "name": "Elicia Hughes",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22474-S1qwbkCGW91I.png",
+          "description": "",
+          "nicknames": [
+            "Elicia Hughes",
+            "エリシア・ヒューズ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "福圓美里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95207-TYPMa0JKUDAf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Elicia Hughes",
+            "name_native": "エリシア・ヒューズ",
+            "name_alternative": [],
+            "description": "Daughter of Maes and Gracia Hughes. She is an innocent, 3 year old girl. Her Dad loves her and he says every time how cute and talented she is."
+          }
+        },
+        {
+          "id": 23106,
+          "name": "Denny Brosh",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n23106-M3U2t0REgRHe.png",
+          "description": "",
+          "nicknames": [
+            "Denny Brosh",
+            "デニー・ブロッシュ",
+            "Bloch"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "早志勇紀",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104968-Y5TlnRjg5Hr6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Denny Brosh",
+            "name_native": "デニー・ブロッシュ",
+            "name_alternative": [
+              "Bloch"
+            ],
+            "description": "Denny Brosh is the partner of Maria Ross. He is rather nosy and lazy, and has an enormous infatuation with his partner. He is very sensitive to criticism, and will fall into despair at the slightest insult. Both he and Ross are introduced when they are assigned to protect Edward Elric.[77] In the anime, Brosh later appears in the rebellion against King Bradley, saving various characters from execution. In the manga, he appears again after Ross&#039;s apparent death. Though he is deeply saddened by the news, Ross feels it is for the best that he not know she is alive, as he has difficulty hiding his emotions. When Roy Mustang begins waging an assault on Central, Brosh rushes into the city to provide assistance. (Wiki)"
+          }
+        },
+        {
+          "id": 23338,
+          "name": "Shao May",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/23338.jpg",
+          "description": "",
+          "nicknames": [
+            "Shao May",
+            "シャオメイ",
+            "Xiao Mei"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "釘宮理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shao May",
+            "name_native": "シャオメイ",
+            "name_alternative": [
+              "Xiao Mei"
+            ],
+            "description": "Shao May is May Chang&#039;s pet panda and traveling companion. Abandoned as a cub due to her abnormally small size, Shao May was cared for by May as if she were family and, therefore, has a particularly strong bond with the little girl. The two are constantly together and, as a bit of comic relief, Shao May frequently mimics May&#039;s actions whether it be in expression, practicing alkahestry or performing martial arts, taking whatever pose her master takes and moving in synchronized union with her.     -Wikia"
+          }
+        },
+        {
+          "id": 23461,
+          "name": "Foo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23461-WxC1ACNKQC4Y.jpg",
+          "description": "",
+          "nicknames": [
+            "Foo",
+            "フー",
+            "Fu"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "堀勝之祐",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95325-eNtFhowXlTGP.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Foo",
+            "name_native": "フー",
+            "name_alternative": [
+              "Fu"
+            ],
+            "description": "One of [Ling Yao](https://anilist.co/character/3293/)'s bodyguards."
+          }
+        },
+        {
+          "id": 24923,
+          "name": "Den",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b24923-EpTI5LZcQRV1.jpg",
+          "description": "",
+          "nicknames": [
+            "Den",
+            "デン"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Den",
+            "name_native": "デン",
+            "name_alternative": [],
+            "description": "[Winry Rockbell](https://anilist.co/character/63/)'s dog that has an auto-mail left leg."
+          }
+        },
+        {
+          "id": 25547,
+          "name": "Scar Ani",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25547-U0HRIl70uz8H.png",
+          "description": "",
+          "nicknames": [
+            "Scar Ani",
+            "スカー兄",
+            "Scar's Brother"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Scar Ani",
+            "name_native": "スカー兄",
+            "name_alternative": [
+              "Scar's Brother"
+            ],
+            "description": "Scar's Brother giving up his life and arm to save Scar's after he had been gravely wounded.  Just like Scar his real name has never been revealed.  In the 2003 anime, he created Lust during a failed human transmutation, while attempting to bring back his lover."
+          }
+        },
+        {
+          "id": 27028,
+          "name": "Knox",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b27028-pv8abhTjBcVj.jpg",
+          "description": "",
+          "nicknames": [
+            "Knox",
+            "ノックス",
+            "Dr. Knox",
+            "Nocks"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "有本欽隆",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95459-guzIZZ731L9r.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Knox",
+            "name_native": "ノックス",
+            "name_alternative": [
+              "Dr. Knox",
+              "Nocks"
+            ],
+            "description": "Though a normal military surgeon, Knox was one of the doctors ordered into Ishval as pathologists to gather information on the effect of burns and pain on the human body by using Ishvalans as test subjects. He became very acquainted with the Flame Alchemist&#039;s style as the expert assigned to dissect the bodies of Ishvalans that Roy had killed. He continued practicing pathology and forensics after the war, feeling that he had lost the right to treat living people. Even after returning from the battlefield, Knox began suffering from post-traumatic stress disorder in the form of flashbacks, insomnia and nightmares of Ishval.    He has an ex-wife and a grown son.    (Source: Wikia)"
+          }
+        },
+        {
+          "id": 29798,
+          "name": "Madame Christmas",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b29798-XBsdYfFggaVH.png",
+          "description": "",
+          "nicknames": [
+            "Madame Christmas",
+            "マダム クリスマス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松岡洋子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96301-FZZGgxCdNODm.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Madame Christmas",
+            "name_native": "マダム クリスマス",
+            "name_alternative": [],
+            "description": "A rather gruff woman, Madame Christmas is the proprietor of a hostess bar in Central City frequently patronaged by Colonel Roy Mustang. At first, it would merely seem that this bar is further proof of Mustang&#039;s unapologetic debauchery, but it becomes quite apparent that the women under Madame Christmas&#039; care act as secret informants to Mustang and his squad and that Madame Christmas herself is a skilled intelligencer and contact between Roy and Lt. General Grumman in East City."
+          }
+        },
+        {
+          "id": 33816,
+          "name": "Shinri",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n33816-OcXhUl3PYzJo.png",
+          "description": "",
+          "nicknames": [
+            "Shinri",
+            "真理",
+            "Truth",
+            "God",
+            "World",
+            "Universe",
+            "One",
+            "All",
+            "You"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "釘宮理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shinri",
+            "name_native": "真理",
+            "name_alternative": [
+              "Truth",
+              "God",
+              "World",
+              "Universe",
+              "One",
+              "All",
+              "You"
+            ],
+            "description": "Truth is the most commonly used name for the mysterious and ethereal being that sits before The Gate and addresses alchemists who have stepped into God&#039;s domain through the use of alchemy. It appears as a pure white, nearly formless being almost indistinguishable from the rest of the endless white expanse which surrounds the Gate but for a shadowy outline which causes Truth to reflect the shape of the person it is talking to, thereby supporting its claim to be another shade of that very person. When Edward and Alphonse Elric each appeared before the Gate, Truth took on the shape of a young boy and when Izumi Curtis appeared, Truth&#039;s shape reflected that of a young woman, appeared as a vigorous man to Roy Mustang, and a white version of Father&#039;s flask form.    Truth initially introduces itself as the being some people call God, the World or the Universe, at first seeming welcoming and jovial to its guests before calling attention to their hubris and opening the Gate, which forces them inside. At this point, Truth often smiles with an eerily wide and insane grin that is similar to that of the Homunculus Gluttony and Father.   When the alchemist in question returns from his or her sojourn through the Gate, Truth informs them of the necessary toll for accessing the Universe&#039;s knowledge and collects it, usually in the form of a body part which disintegrates off the alchemist and reappears on Truth&#039;s form. In this way Truth is responsible for the taking of Edward&#039;s left leg and right arm, some of Izumi&#039;s internal organs, Roy&#039;s eyesight, and Alphonse&#039;s entire body.   It would appear that Truth&#039;s goal is to discourage humans from treading in God&#039;s domain, as it calls Edward a fool when the young boy returns and sacrifices his arm to recover his brother&#039;s soul.    Source: Fullmetal Alchemist Wikipedia"
+          }
+        },
+        {
+          "id": 34689,
+          "name": "Bradley-fujin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34689-llxKkRcalgKz.png",
+          "description": "",
+          "nicknames": [
+            "Bradley-fujin",
+            "ブラッドレイ夫人",
+            "Mrs. Bradley"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "さとうあい",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100365-AkFIrOwQkTi0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bradley-fujin",
+            "name_native": "ブラッドレイ夫人",
+            "name_alternative": [
+              "Mrs. Bradley"
+            ],
+            "description": "Mrs. Bradley is the wife of the Fuhrer, King Bradley. A kind and trusting wife. Though she rarely appears in either series, usually accompanying Selim, Mrs. Bradley&#039;s appearances usually fall under the category of comic relief as she speaks jovially of her familial life and romantic past with the Fuhrer."
+          }
+        },
+        {
+          "id": 35144,
+          "name": "Garfiel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35144-UjyMf6g71t5c.png",
+          "description": "",
+          "nicknames": [
+            "Garfiel",
+            "ガーフィール",
+            "Garfield"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "三宅健太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Garfiel",
+            "name_native": "ガーフィール",
+            "name_alternative": [
+              "Garfield"
+            ],
+            "description": "Garfiel is a skilled automail engineer and the proprietor of Atelier Garfiel in the town of Rush Valley. When Winry Rockbell is referred to him by Dominic, Garfiel is only too happy to accept the cute young girl as his live-in apprentice and joins the rest of the Rush Valley community in treating her like a beloved family member. Garfiel is rather effeminate and appears to prefer the company of men, which results in his acting largely as a source of comic relief in scenes that involve him.    (taken from: FMA wiki)"
+          }
+        },
+        {
+          "id": 35595,
+          "name": "Shan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n35595-U0qsOeMIoRnO.png",
+          "description": "",
+          "nicknames": [
+            "Shan",
+            "シャン",
+            "Madame Shan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上村典子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103753-RtNwIDvgTyoK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shan",
+            "name_native": "シャン",
+            "name_alternative": [
+              "Madame Shan"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 39241,
+          "name": "Raven",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n39241-vN99rXLvBerw.png",
+          "description": "",
+          "nicknames": [
+            "Raven",
+            "レイブン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宝亀克寿",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100317-8qR7ph0AKfXu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Raven",
+            "name_native": "レイブン",
+            "name_alternative": [],
+            "description": "Raven is a General in the Amestrian  Military and one of the elite members of Central High Command in the capital.  ~!General Raven makes his first appearance in Chapter 50 of the manga, while Colonel Roy Mustang contemplates how to go about using the information about King Bradley&#039;s true identity as a Homunculus. At first it appears to Mustang that Raven can be trusted (the General&#039;s jovial nature and complimentary speech putting the nervous Colonel at ease) but when Mustang tests the waters by mentioning a rumor about the F&uuml;hrer being a Homunculus, Raven leads Roy into the Central Command room and repeats the rumor for all (including Bradley himself) to hear, revealing that ALL of Central Command is already entrenched in the malevolent machinations taking place in Amestris at Father&#039;s behest. !~"
+          }
+        },
+        {
+          "id": 41216,
+          "name": "Neil",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n41216-H4lznpL0Bzor.png",
+          "description": "",
+          "nicknames": [
+            "Neil",
+            "ニール"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "奈良徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96659-zLvDfHLoxCne.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Neil",
+            "name_native": "ニール",
+            "name_alternative": [],
+            "description": "Neil is one of the chief engineers in the Research &amp; Development sector of Fort Briggs. While privy to all the mechanical goings-on in the fort, Neil is especially knowledgeable on the subject of cold-climate metals such as those used in North Area automail limbs and is often seen acting as Captain Buccaneer&#039;s automail mechanic. A laid back and easygoing fellow, Neil is quick to make friends with those who come to the fort and is even more eager to share his expertise on the technological advancements the facility has made."
+          }
+        },
+        {
+          "id": 50123,
+          "name": "Charlie",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n50123-2kInS5rwOuM7.png",
+          "description": "",
+          "nicknames": [
+            "Charlie",
+            "チャーリー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "西凜太朗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100928-OfFb5f55VSFB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Charlie",
+            "name_native": "チャーリー",
+            "name_alternative": [],
+            "description": "The man who introduces himself as Charlie was an enlisted soldier under the command of the Flame Alchemist, Roy Mustang during the Ishval Civil War. When the long fighting finally ceased, Charlie brought it upon himself to speak to his distant commander and thank him for all the work he had done to keep all the men beneath him out of harm's way.\n\n(Source: Fullmetal Alchemist Fandom)"
+          }
+        },
+        {
+          "id": 52739,
+          "name": "Damiano",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n52739-CVU3CZq0UBx7.png",
+          "description": "",
+          "nicknames": [
+            "Damiano",
+            "ダミアノ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "庄司将之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/16989.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Damiano",
+            "name_native": "ダミアノ",
+            "name_alternative": [],
+            "description": "Damiano is a young enlisted soldier who had been transferred to the Daliha region of Ishval and into Major Roy Mustang's unit just a few days before the end of the Ishval Civil War. Despite his short deployment, however, Damiano came to respect his commanding officer for all his work keeping the men beneath him out of harm's way. Seven years after the war, Damiano remains as a soldier in the East Area of Amestris, stationed under Lieutenant General Grumman. When it becomes apparent that his old commander is planning a coup d'etat in Central City in order to rid the government of corruption, Damiano and his former squad-mates are only too happy to return to the field in order to help."
+          }
+        },
+        {
+          "id": 55287,
+          "name": "Philip Gargantos Armstrong",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n55287-xZBD0fxrAjn8.png",
+          "description": "",
+          "nicknames": [
+            "Philip Gargantos Armstrong",
+            "フィリップ・ガルガントス・アームストロング"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内海賢二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95138-0iK7jnkuJb6o.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Philip Gargantos Armstrong",
+            "name_native": "フィリップ・ガルガントス・アームストロング",
+            "name_alternative": [],
+            "description": "Former General Philip Gargantos Armstrong is is the current head of the illustrious Armstrong family, father to Major Alex Louis Armstrong, Major General Olivier Mira Armstrong, and their younger sisters Amue, Strongine, and Kathleen Elle. His wife's name is not known. A bit of a windbag, Philip enjoys relating stories of his family's grandeur and his own eventful military career to anyone unfortunate enough to become his captive audience, and seems to have passed on this family pride to Alex. Being a former General, it would seem that Philip is a rather insightful man, quickly understanding from Oliver's demands for the Armstrong estate that Amestris was no longer safe, and taking his wife and daughter Kathleen off to Xing on an \"extended vacation\".  (Source: The Fullmetal Alchemist Wikia)"
+          }
+        },
+        {
+          "id": 75922,
+          "name": "Berthold Hawkeye",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b75922-zM30YfQTdTgJ.jpg",
+          "description": "",
+          "nicknames": [
+            "Berthold Hawkeye",
+            "ホークアイの父"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "谷昌樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/104648-EosCfROeNITp.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Berthold Hawkeye",
+            "name_native": "ホークアイの父",
+            "name_alternative": [],
+            "description": "Master Berthold Hawkeye was both the alchemist who mentored Roy Mustang as well as the estranged father of Riza Hawkeye.  A brilliant alchemist, Hawkeye postulated the complex and intricate theorems necessary to apply flame alchemy at its most powerful and efficient level, but refused to pass on his flame alchemy secrets to his pupil, thinking them too dangerous for young and naive Roy. Riza describes her father as a frightening man with whom she did not generally associate and could not at all relate. Afraid of his life's work being destroyed and what his Flame Alchemy knowledge could do if it fell into the wrong hands, Master Hawkeye refrained from keeping notes in the normal fashion and, instead, tattooed a large Transmutation Array containing the culmination of his craft and findings on his daughter's back, perhaps further straining - or serving as an indication of - the Hawkeyes' already shaky relationship.  Master Hawkeye, as an independent alchemist, appears to hold some disdain for the State Military (much like Izumi Curtis), as revealed by his flippant reaction to Roy's enlistment during the Ishval Civil War as well as his preference of living in squalor with all his genius over joining the State Alchemist Program.  As Roy returned to his teacher's house in an attempt to get hold of the theory of Flame Alchemy to enlist as a State Alchemist (he was just a regular soldier at that time), Master Hawkeye revealed to him his daughter possessed the theory and succumbed to illness, coughing up blood as he died in Roy's arms.  (Source: Fullmetal Alchemist Wiki)"
+          }
+        },
+        {
+          "id": 145723,
+          "name": "Joi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145723-s5gCNd1pGnT2.jpg",
+          "description": "",
+          "nicknames": [
+            "Joi",
+            "女医",
+            "Patricia",
+            "Briggs Doctor"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "早水リサ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95215-CvyYAqsZaaaK.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Joi",
+            "name_native": "女医",
+            "name_alternative": [
+              "Patricia",
+              "Briggs Doctor"
+            ],
+            "description": "She is a doctor and automail engineer at Fort Briggs.\n\nAn expert in the cold's effect on the human body as well as in cold climate automail, she is vital to the continued health and well-being of the soldiers of Briggs, and by extension the fort itself. It is likely that she worked on the development of Buccaneer's Modified M1910 and Heavy Combat M1913-A limbs alongside Neil. \n\n[FMA Wiki]"
+          }
+        },
+        {
+          "id": 185606,
+          "name": "Henry Douglas",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185606-ZwvPifmFdc4p.jpg",
+          "description": "",
+          "nicknames": [
+            "Henry Douglas",
+            "ヘンリ・ダグラス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "加瀬康之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95801-Jno6Y2OawOII.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Henry Douglas",
+            "name_native": "ヘンリ・ダグラス",
+            "name_alternative": [],
+            "description": "Colonel Henry Douglas is an officer at the Military Police headquarters in Central City."
+          }
+        },
+        {
+          "id": 224980,
+          "name": "Karley",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224980-AH9BoozEh89J.jpg",
+          "description": "",
+          "nicknames": [
+            "Karley",
+            "カッリ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "仁堀川",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1580.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Karley",
+            "name_native": "カッリ",
+            "name_alternative": [],
+            "description": "Karley is an Amestrian State Military officer stationed at Fort Briggs under the command of Major General Armstrong. As a primary communications officer for the fort, he is frequently seen toting a large radio transmitter or wired communications pack on his back while in transit and is often put in charge of relaying information and orders to Briggs troops in combat. Karley is first seen participating in Captain Buccaneer's mission to rescue the lost search party inside the tunnel created by the Homunculus Sloth and later appears as the head of communications during Major General Armstrong's role in the capture of Central Command."
+          }
+        },
+        {
+          "id": 224983,
+          "name": "Satella LeCoulte",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224983-xVl8Ky0LWA8L.jpg",
+          "description": "",
+          "nicknames": [
+            "Satella LeCoulte",
+            "サテラ・レコルト"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "紗ゆり ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95814-ZU3HxRj7GhcY.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Satella LeCoulte",
+            "name_native": "サテラ・レコルト",
+            "name_alternative": [],
+            "description": "Satella LeCoulte, also known as Satera, lives in the mountains outside of Rush Valley with her husband, Ridel, and her father-in-law, Dominic. She is a very kind and loving woman, who - at the start of her introduction - is nine months pregnant."
+          }
+        },
+        {
+          "id": 224984,
+          "name": "Ridel LeCoulte",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b224984-AyvChAjTsajg.jpg",
+          "description": "",
+          "nicknames": [
+            "Ridel LeCoulte",
+            "リドル・レコルト"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "川島得愛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95911-OTi0Qqvbjphr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ridel LeCoulte",
+            "name_native": "リドル・レコルト",
+            "name_alternative": [],
+            "description": "Ridel is an automail manufacturer in Rush Valley. He lives on the outskirts of town with his wife and father."
+          }
+        },
+        {
+          "id": 250771,
+          "name": "Gardner",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250771-632ZJyiQcux1.png",
+          "description": "",
+          "nicknames": [
+            "Gardner",
+            "ガードナー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "糸博",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101966-lCa3Ykl4h4py.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gardner",
+            "name_native": "ガードナー",
+            "name_alternative": [],
+            "description": "Lieutenant General Gardner is one of the most powerful men in the Amestrian State Military and a high-profile member of Central Command."
+          }
+        },
+        {
+          "id": 250772,
+          "name": "Edison",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250772-SFgJSacaSwgE.png",
+          "description": "",
+          "nicknames": [
+            "Edison",
+            "エジソン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "天田益男",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95397-OIImp0s08L8m.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Edison",
+            "name_native": "エジソン",
+            "name_alternative": [],
+            "description": "Brigadier General Edison is a high-ranking member of the Central Command top brass."
+          }
+        },
+        {
+          "id": 250773,
+          "name": "Klemin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250773-8efQwhPOXoZf.png",
+          "description": "",
+          "nicknames": [
+            "Klemin",
+            "クレミン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "勝沼紀義",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/11714.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Klemin",
+            "name_native": "クレミン",
+            "name_alternative": [],
+            "description": "Brigadier General Klemin is a member of the Amestrian Military Command"
+          }
+        },
+        {
+          "id": 250774,
+          "name": "Henschel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250774-LMIYWCbOakZC.png",
+          "description": "",
+          "nicknames": [
+            "Henschel",
+            "ヘンシェル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "梁田清之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95798-zbNPAckSWMKV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Henschel",
+            "name_native": "ヘンシェル",
+            "name_alternative": [],
+            "description": "Second Lieutenant Henschel is an Amestrian State Military Officer stationed at Fort Briggs, and one of Major General Olivier Mira Armstrong's loyal subordinates."
+          }
+        },
+        {
+          "id": 250775,
+          "name": "Focker",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250775-xdvWrwS9tP00.png",
+          "description": "",
+          "nicknames": [
+            "Focker",
+            "フォッカー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "長島真祐",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n250776-GQI9B8mM3oYR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Focker",
+            "name_native": "フォッカー",
+            "name_alternative": [],
+            "description": "Captain Focker is an Amestrian soldier who works in the same administrative office as Lieutenant Colonel Maes Hughes and Sheska."
+          }
+        },
+        {
+          "id": 250777,
+          "name": "Giolio Comanche",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250777-u6L0haP1kaGF.png",
+          "description": "",
+          "nicknames": [
+            "Giolio Comanche",
+            "ジョリオ・コマンチ",
+            "Silver Alchemist"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宮澤正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/861.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Giolio Comanche",
+            "name_native": "ジョリオ・コマンチ",
+            "name_alternative": [
+              "Silver Alchemist"
+            ],
+            "description": "Giolio Comanche, better known as the Silver Alchemist is an elderly, diminutive man whose thirst for battle is belied by his grandfatherly countenance. The Silver Alchemist is one of the State Alchemists sent into the Ishval Civil War as part of Order 3066. Notably, Comanche is the only one among them shown smiling when the Order goes into effect. He loses his left leg during the war, resulting in his current peg leg. This does not slow him down, as he has adopted this peg leg to his combat style."
+          }
+        },
+        {
+          "id": 251148,
+          "name": "Kinba Isha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b251148-vIsdu6WtDJpZ.png",
+          "description": "",
+          "nicknames": [
+            "Kinba Isha",
+            "金歯医者",
+            "Gold-Toothed Doctor",
+            "The Alchemist Doctor"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石原凡",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96549-6SwX8QcYpEp0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kinba Isha",
+            "name_native": "金歯医者",
+            "name_alternative": [
+              "Gold-Toothed Doctor",
+              "The Alchemist Doctor"
+            ],
+            "description": "The \"Gold-Toothed Doctor\", also known as \"The Alchemist Doctor\", is a minor antagonist in the original Fullmetal Alchemist story-line. An unnamed old man who was in possession of his very own Philosopher's Stone, he is also one of the few responsible for Wrath's creation. He is privy to Amestris' top secrets and carries out Father's orders in a ruthless fashion."
+          }
+        },
+        {
+          "id": 404360,
+          "name": "Alexander",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b404360-HkCbix9ymL3M.png",
+          "description": "",
+          "nicknames": [
+            "Alexander",
+            "アレキサンダー"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Alexander",
+            "name_native": "アレキサンダー",
+            "name_alternative": [],
+            "description": "Alexander is the family pet of the Tucker Family and [Nina's](https://anilist.co/character/4159/) inseparable best friend."
+          }
+        },
+        {
+          "id": 251146,
+          "name": "Tetsu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b251146-FdaNkeg3daOw.png",
+          "description": "",
+          "nicknames": [
+            "Tetsu",
+            "鉄"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小平有希",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95716-BDejHbIYkT7O.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Tetsu",
+            "name_native": "鉄",
+            "name_alternative": [],
+            "description": "Tetsu is a young boy living in the town of Rush Valley in southern Amestris."
+          }
+        },
+        {
+          "id": 251147,
+          "name": "Knox no Musuko",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b251147-vzxn52X1cxTp.png",
+          "description": "",
+          "nicknames": [
+            "Knox no Musuko",
+            "ノックスの息子",
+            "Knox's Son"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大原崇",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96636-RoY4fHzb8Rjc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Knox no Musuko",
+            "name_native": "ノックスの息子",
+            "name_alternative": [
+              "Knox's Son"
+            ],
+            "description": "Dr. Knox's son. He wants to become a doctor like his father and spurrs Dr. Knox to return to his work as a doctor."
+          }
+        }
+      ]
+    }
+  ]
+}

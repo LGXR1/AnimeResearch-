@@ -1,0 +1,617 @@
+{
+  "checkedAt": "2026-10-22T07:58:29.670Z",
+  "batchStatus": "reviewed_with_followups",
+  "checkedCount": 100,
+  "checkedIds": [
+    180258,
+    180259,
+    180260,
+    180261,
+    180262,
+    180263,
+    180264,
+    180265,
+    180266,
+    180301,
+    180302,
+    180303,
+    180304,
+    180305,
+    180306,
+    180418,
+    180419,
+    180420,
+    180421,
+    180422,
+    180423,
+    180424,
+    180425,
+    180427,
+    180428,
+    180429,
+    180430,
+    180431,
+    180432,
+    180433,
+    180434,
+    180435,
+    180436,
+    180500,
+    180548,
+    180692,
+    180693,
+    180694,
+    180881,
+    180882,
+    180883,
+    180884,
+    180885,
+    180888,
+    180985,
+    180986,
+    180987,
+    180988,
+    181025,
+    181027,
+    181030,
+    181035,
+    181036,
+    181042,
+    181143,
+    181156,
+    181158,
+    181262,
+    181313,
+    181335,
+    181336,
+    181338,
+    181339,
+    181340,
+    181350,
+    181440,
+    181480,
+    181577,
+    181581,
+    181708,
+    181709,
+    181710,
+    181711,
+    181712,
+    181713,
+    181780,
+    181782,
+    181867,
+    181964,
+    181965,
+    182020,
+    182101,
+    182176,
+    182333,
+    182540,
+    182541,
+    182542,
+    182543,
+    182565,
+    182713,
+    182729,
+    182845,
+    182935,
+    182983,
+    183130,
+    183155,
+    183417,
+    183497,
+    183516,
+    183606
+  ],
+  "checkedRange": {
+    "firstId": 180258,
+    "lastId": 183606
+  },
+  "profileSnapshotVerifiedCount": 24,
+  "profileDescriptionAvailableCount": 24,
+  "modifiedIds": [
+    180692,
+    180694,
+    180884,
+    181440,
+    181780,
+    181782,
+    181964,
+    181965
+  ],
+  "source": {
+    "name": "AniList GraphQL 角色资料快照（本地缓存 + 2026-10-22 实时补查）",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "voiceMediaFetchedAt": "2026-10-13T03:04:01.115Z",
+    "records": [
+      {
+        "id": 180548,
+        "url": "https://anilist.co/character/180548"
+      },
+      {
+        "id": 180693,
+        "url": "https://anilist.co/character/180693"
+      },
+      {
+        "id": 181025,
+        "url": "https://anilist.co/character/181025"
+      },
+      {
+        "id": 181027,
+        "url": "https://anilist.co/character/181027"
+      },
+      {
+        "id": 181030,
+        "url": "https://anilist.co/character/181030"
+      },
+      {
+        "id": 181035,
+        "url": "https://anilist.co/character/181035"
+      },
+      {
+        "id": 181036,
+        "url": "https://anilist.co/character/181036"
+      },
+      {
+        "id": 181042,
+        "url": "https://anilist.co/character/181042"
+      },
+      {
+        "id": 181313,
+        "url": "https://anilist.co/character/181313"
+      },
+      {
+        "id": 181336,
+        "url": "https://anilist.co/character/181336"
+      },
+      {
+        "id": 181338,
+        "url": "https://anilist.co/character/181338"
+      },
+      {
+        "id": 181339,
+        "url": "https://anilist.co/character/181339"
+      },
+      {
+        "id": 181340,
+        "url": "https://anilist.co/character/181340"
+      },
+      {
+        "id": 181480,
+        "url": "https://anilist.co/character/181480"
+      },
+      {
+        "id": 181708,
+        "url": "https://anilist.co/character/181708"
+      },
+      {
+        "id": 181709,
+        "url": "https://anilist.co/character/181709"
+      },
+      {
+        "id": 181710,
+        "url": "https://anilist.co/character/181710"
+      },
+      {
+        "id": 181711,
+        "url": "https://anilist.co/character/181711"
+      },
+      {
+        "id": 181712,
+        "url": "https://anilist.co/character/181712"
+      },
+      {
+        "id": 181713,
+        "url": "https://anilist.co/character/181713"
+      },
+      {
+        "id": 182176,
+        "url": "https://anilist.co/character/182176"
+      },
+      {
+        "id": 182333,
+        "url": "https://anilist.co/character/182333"
+      },
+      {
+        "id": 183497,
+        "url": "https://anilist.co/character/183497"
+      },
+      {
+        "id": 183606,
+        "url": "https://anilist.co/character/183606"
+      }
+    ],
+    "round23FetchedAt": "2026-10-22T08:12:12.134Z",
+    "voiceMediaRound23": "2026-10-22T08:13:37.394Z",
+    "voiceStaffSearchRound23B": "2026-10-22T08:42:40.218Z"
+  },
+  "pendingExternalVerificationIds": [],
+  "pendingProfileNoDescriptionIds": [
+    180265,
+    180266,
+    180306,
+    180418,
+    180422,
+    180424,
+    180434,
+    180882,
+    180883,
+    180884,
+    180888,
+    180987,
+    181156,
+    181158,
+    181581,
+    182713,
+    182845,
+    183130,
+    183516
+  ],
+  "pendingShortDescriptionIds": [
+    180694,
+    183417
+  ],
+  "pendingDescriptionQualityIds": [
+    180418,
+    180419,
+    180420,
+    180421,
+    180422,
+    180423,
+    180424,
+    180425,
+    180427,
+    180428,
+    180429,
+    180430,
+    180431,
+    180432,
+    180433,
+    180434,
+    180435,
+    180436,
+    180881,
+    180882,
+    180883,
+    180884,
+    180885,
+    180888,
+    181143,
+    181156,
+    181158,
+    181350,
+    182713,
+    182845
+  ],
+  "pendingTraitVerificationIds": [
+    180418,
+    180419,
+    180420,
+    180421,
+    180422,
+    180423,
+    180424,
+    180425,
+    180427,
+    180428,
+    180429,
+    180430,
+    180431,
+    180432,
+    180433,
+    180434,
+    180435,
+    180436,
+    180693,
+    180881,
+    180882,
+    180883,
+    180884,
+    180885,
+    180888,
+    181036,
+    181143,
+    181156,
+    181158,
+    181313,
+    181335,
+    181350,
+    181708,
+    181709,
+    181710,
+    181711,
+    181712,
+    181713,
+    181780,
+    181782,
+    182176,
+    182713,
+    182845
+  ],
+  "pendingExactGenericTraitIds": [
+    180418,
+    180419,
+    180420,
+    180421,
+    180422,
+    180423,
+    180424,
+    180425,
+    180427,
+    180428,
+    180429,
+    180430,
+    180431,
+    180432,
+    180433,
+    180434,
+    180435,
+    180436,
+    180881,
+    180882,
+    180883,
+    180884,
+    180885,
+    180888,
+    181143,
+    181156,
+    181158,
+    181350,
+    181964,
+    181965,
+    182713,
+    182845,
+    183417
+  ],
+  "pendingVoiceActorIds": [
+    180500,
+    180885,
+    180888,
+    181335
+  ],
+  "pendingVoiceActorImageIds": [
+    181350
+  ],
+  "pendingVisualVerificationIds": [],
+  "pendingColorTraitKeywordIds": [],
+  "pendingImageMismatchIds": [],
+  "localFollowup": {
+    "nicknameIssuesResolved": [
+      180692,
+      180694,
+      180884,
+      181440,
+      181964,
+      181965
+    ],
+    "voiceActorImagesRepaired": [],
+    "characterImagesRefreshed": [],
+    "factualCorrections": [],
+    "searchIndex": {
+      "rebuilt": true,
+      "formulaVerified": true,
+      "descriptionExcluded": true,
+      "mismatchCountBeforeRebuild": 8
+    },
+    "localExportsRegenerated": true,
+    "nicknameAudit": {
+      "checkedCount": 100,
+      "duplicateCountAfter": 0,
+      "canonicalAniListNameMissingAfter": 0
+    },
+    "anilistProfilesRefetched": [
+      180548,
+      180693,
+      181025,
+      181027,
+      181030,
+      181035,
+      181036,
+      181042,
+      181313,
+      181336,
+      181338,
+      181339,
+      181340,
+      181480,
+      181708,
+      181709,
+      181710,
+      181711,
+      181712,
+      181713,
+      182176,
+      182333,
+      183497,
+      183606
+    ],
+    "anilistDescriptionsAvailable": [
+      180548,
+      180693,
+      181025,
+      181027,
+      181030,
+      181035,
+      181036,
+      181042,
+      181313,
+      181336,
+      181338,
+      181339,
+      181340,
+      181480,
+      181708,
+      181709,
+      181710,
+      181711,
+      181712,
+      181713,
+      182176,
+      182333,
+      183497,
+      183606
+    ],
+    "officialAliasesAdded": [],
+    "officialCharacterImagesRefreshed": [],
+    "searchIndexRebuiltForProfileChanges": [],
+    "voiceActorImagesFetchedRound23": [],
+    "voiceActorImagesFetchedAt": "2026-10-22T08:13:37.394Z",
+    "visualImageAuditRound23": {
+      "checkedAt": "2026-10-22T08:32:24.195Z",
+      "source": "逐张检查 AniList 官方角色头像；图片与角色链接见 visual-audit-round23/manifest.json",
+      "reviewedIds": [
+        180692,
+        180694,
+        180884,
+        181262,
+        181440,
+        181964,
+        181965,
+        182729,
+        183417
+      ],
+      "colorCorrections": [
+        {
+          "id": 180694,
+          "name": "市川莱诺",
+          "anime": "怪兽8号",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "白发",
+            "紫瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180694-Q0Ocr4aqBu4k.png"
+        },
+        {
+          "id": 180884,
+          "name": "九·伊普西隆",
+          "anime": "DARLING in the FRANXX",
+          "beforeColorTraits": [
+            "银发",
+            "蓝眼"
+          ],
+          "afterColorTraits": [
+            "紫发",
+            "灰瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180884-kCOnNjcSY043.jpg"
+        },
+        {
+          "id": 181262,
+          "name": "安中萌",
+          "anime": "刀剑神域外传 Gun Gale Online",
+          "beforeColorTraits": [
+            "游戏角色金发"
+          ],
+          "afterColorTraits": [
+            "金发"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181262-D5UzE1dGaSLx.png"
+        },
+        {
+          "id": 181440,
+          "name": "岸本薰",
+          "anime": "棋魂",
+          "beforeColorTraits": [
+            "棕发",
+            "棕色眼瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181440-pnhK5efPFMVj.jpg"
+        },
+        {
+          "id": 181964,
+          "name": "久堂清霞",
+          "anime": "我的幸福婚姻",
+          "beforeColorTraits": [
+            "黑发",
+            "蓝色眼瞳"
+          ],
+          "afterColorTraits": [
+            "白发",
+            "紫瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181964-hBQzTQAG6zIs.png"
+        },
+        {
+          "id": 181965,
+          "name": "斋森美世",
+          "anime": "我的幸福婚姻",
+          "beforeColorTraits": [
+            "黑发",
+            "灰色眼瞳"
+          ],
+          "afterColorTraits": [
+            "紫发",
+            "红瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181965-VJEPa9R5ZklX.png"
+        },
+        {
+          "id": 183417,
+          "name": "水神小夜",
+          "anime": "憧憬成为魔法少女",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "蓝发",
+            "红瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183417-4wWFMvcf0jpW.png"
+        }
+      ],
+      "pendingIds": [
+        182729
+      ]
+    },
+    "factualCorrectionsRound23": [],
+    "voiceActorImagesResolvedFromAniListStaffRound23B": [],
+    "voiceActorStaffSearchRound23B": "2026-10-22T08:42:40.218Z",
+    "visualImageFollowupRound23B": {
+      "checkedAt": "2026-10-22T08:55:56.108Z",
+      "resolved": [
+        {
+          "id": 182729,
+          "name": "博士",
+          "decision": "头像遮脸；删除无依据瞳色，现有记录不再声称未知颜色。"
+        }
+      ],
+      "remainingIds": []
+    },
+    "supabaseSyncRound23B": {
+      "verifiedAt": "2026-10-22T09:08:41.840Z",
+      "voiceActorImagesSynced": 0,
+      "characterIdsSynced": [
+        182729
+      ],
+      "placeholderVoiceActorRemoved": false
+    }
+  },
+  "note": "AniList 官方头像进一步复核了颜色；修正错误颜色或删除头像无法证实的颜色标签，剩余不清晰记录继续待核。",
+  "scopeLimitations": [
+    "发色、瞳色没有逐图目视核验。",
+    "短简介、模板简介和泛化特征在缺少可靠事实来源时未改写。",
+    "本次只更新本地文件；Supabase 未同步，远端数据未回读。",
+    "AniList 实时接口仅未返回合成占位 ID 990000001；该记录继续标为待核。",
+    "AniList 未提供简介的角色仍需其他可靠人物资料来源；未根据作品简介推造人物传记。"
+  ],
+  "databaseSync": {
+    "syncedAt": null,
+    "syncedCount": 0,
+    "readbackVerified": false,
+    "status": "not_synced"
+  },
+  "syncAttempt": {
+    "attemptedThisTurn": false,
+    "reason": "本轮仅处理本地缓存与导出，没有向 Supabase 发起写入。"
+  }
+}

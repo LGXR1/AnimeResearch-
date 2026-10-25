@@ -1,0 +1,906 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-04T04:32:13.176Z",
+  "mode": "manual-curation",
+  "instructions": "AniList source snapshot; curate manually before write.",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 101165,
+      "anime_title": "哥布林杀手",
+      "anime_origin": "JP",
+      "source": {
+        "id": 101165,
+        "titles": [
+          "GOBLIN SLAYER",
+          "ゴブリンスレイヤー",
+          "Goblin Slayer"
+        ],
+        "year": 2018,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/101165"
+      },
+      "characters": [
+        {
+          "id": 126458,
+          "name": "Goblin Slayer",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126458-wCulCEFEPZSK.png",
+          "description": "",
+          "nicknames": [
+            "Goblin Slayer",
+            "ゴブリンスレイヤー",
+            "Orcbolg",
+            "Beard-cutter"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "梅原裕一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118908-a6LPeZI87Pf9.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Goblin Slayer",
+            "name_native": "ゴブリンスレイヤー",
+            "name_alternative": [
+              "Orcbolg",
+              "Beard-cutter"
+            ],
+            "description": "The series' main character, an experienced silver ranked adventurer who only concerns himself with hunting goblins. The jobs he takes merely involve goblins and he takes no interest in others. His appearance is not as glamorous or elegant due to using equipment that would seem lacking for an adventurer of his rank. He wears a gray suit of grubby leather armor, with chainmail underneath, a small buckler shield with a sharpened rim attached on his left forearm. His weapon is a sword of strange length, of cheap quality, which he carries in a makeshift scabbard, allowing him to place swords of any shape he salvages. Due to the excellent sense of smell goblins possess, Goblin Slayer has a habit of neglecting the cleanliness of his armor, as clean equipment would reek of metal, which would immediately alert his foes.\n\nStoic and calm, he seems not to mind the jeers the other adventurers rebuke him for his appearance which doesn't befit his rank. As he has little regard for matters that don't include goblins, he has difficulty socializing, since he lacks the ability to understand most basic social norms. Nonetheless, reserved as he might be, he does care about others, as evidenced by when he asks Guild Girl which other parties, usually entirely formed by rookies, have accepted goblin slaying quests, in order to judge if they might be able to handle the job or should he lend them a hand.\n\nHis style of combat favors more on pragmatism such as setting traps, using their own weapon against the user, and taking whatever advantage that may come. He even uses his own imagination of using a protection spell in order to kill all the goblins in a burning Elven fortress. The most defining trait of his is the hatred of goblins that fuels him and his actions. The reason behind this is how his family, which consisted of his parents and sister, and the entire village he lived in were cruelly massacred by goblins, which made him swear a vendetta against all goblins everywhere.\n\n~!He believes the Goblins come from the Green Moon, his older sister told him so. Since the moon is a desolate place formed entirely by rock, with no grass, trees or water, the goblins turned envious and jealous of what they did not have, which is why they decided to invade the lands of humankind. Townsfolk tend to say that if you turn envious, you become a goblin.!~"
+          }
+        },
+        {
+          "id": 126483,
+          "name": "Onna Shinkan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126483-NQuBqaXHUJO2.jpg",
+          "description": "",
+          "nicknames": [
+            "Onna Shinkan",
+            "女神官",
+            "Priestess"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小倉唯",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105981-CDMPx1Q79Aum.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Onna Shinkan",
+            "name_native": "女神官",
+            "name_alternative": [
+              "Priestess"
+            ],
+            "description": "__Race:__ Human \n__Rank:__ Obsidian (Previously), Porcelain (Previously), Steel (current rank)\n        \nThe main female protagonist. She is a porcelain rank adventurer, the lowest rank as she had just joined. Her personality consist of being young, kind, and a generally helpful person. She is capable of using healing magic and protective spells with a high amount of proficiency.\n\nAfter her first goblin hunt rapidly goes downhill and saved by Goblin Slayer, she joins with him as a new party. Even after the events of her first job, she still wishes to be an adventurer and helps her party however she can. As she fights along Goblin Slayer, she learns how to use spells alternatively, gaining new spells, and has started to wear armour as the story progresses. Her backstory is that of an orphan raised in a temple into priesthood along with other orphans like her. Since coming of age, she decided to leave the temple and help adventurers in need"
+          }
+        },
+        {
+          "id": 126457,
+          "name": "Yousei Yunde",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126457-leHoOLIOZy2a.png",
+          "description": "",
+          "nicknames": [
+            "Yousei Yunde",
+            "妖精弓手",
+            "High Elf Archer",
+            "Anvil Chest"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "東山奈央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106184-rFA0sHFJrbk4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yousei Yunde",
+            "name_native": "妖精弓手",
+            "name_alternative": [
+              "High Elf Archer",
+              "Anvil Chest"
+            ],
+            "description": "A high elf adventurer. She came with Dwarf Shaman and Lizard Priest to find Goblin Slayer and recruit his help. They face some trouble earlier as they are unable to pronounce \"Goblin Slayer\" and refer to him in other names, until they find him. They revel their objective; due to the increase in other demon monsters, there are not enough people to deal with Goblins and the elf army cannot mobilize to attack goblins as it would create suspicion and panic, if the army were focusing only on taking out the weakest monsters. They wish to hire Goblin Slayer to help them kill goblins. Her party also joins him to help him. She initially looks down on Goblin Slayer, due to his unkempt and weak appearance, but later comes to respect him, when she sees him in battle. She is a light-weight when it comes to drinking. She is Silver Rank."
+          }
+        },
+        {
+          "id": 126484,
+          "name": "Ushikai Musume",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/126484-izE4ON548jnn.jpg",
+          "description": "",
+          "nicknames": [
+            "Ushikai Musume",
+            "牛飼娘",
+            "Cow Girl"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井口裕香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95885-NrKdS094Ae59.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ushikai Musume",
+            "name_native": "牛飼娘",
+            "name_alternative": [
+              "Cow Girl"
+            ],
+            "description": "Cow Girl is the childhood friend of [Goblin Slayer](https://anilist.co/character/126458) and a farm hand on her uncle's farm. \n~!Her uncle took her in on his farm after her family was massacred by goblins during her childhood.!~"
+          }
+        },
+        {
+          "id": 126485,
+          "name": "Uketsuke-jou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/126485-2zo57ux4EMeC.jpg",
+          "description": "",
+          "nicknames": [
+            "Uketsuke-jou",
+            "受付嬢",
+            "Guild Girl"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内田真礼",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Uketsuke-jou",
+            "name_native": "受付嬢",
+            "name_alternative": [
+              "Guild Girl"
+            ],
+            "description": "A young woman who runs the Guild's front office as a receptionist and hands out contracts to adventurers. She shows concern over the villages pleading for help against the goblins and is exasperated from how few experienced adventurers would take such jobs. This problem would leave inexperienced rookies to die from them or worse. She holds great amounts of respect for Goblin Slayer, due to his willingness to take on many goblin contracts others would not touch."
+          }
+        },
+        {
+          "id": 126486,
+          "name": "Majo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n126486-e0DjNT3rBOT7.png",
+          "description": "",
+          "nicknames": [
+            "Majo",
+            "魔女",
+            "Witch"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日笠陽子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Majo",
+            "name_native": "魔女",
+            "name_alternative": [
+              "Witch"
+            ],
+            "description": "Witch is a silver ranked adventurer who is in a party with [Spearman](https://anilist.co/character/126488/Yaritsukai). She is a beautiful spell-caster with long, purple hair who wears a revealing set of robes, dark colored with gold yellow outlining. She is usually shown as being rather seductive, acting in a rather amorous manner, often suggesting sexual undertones in otherwise normal conversation, which causes those she interacts with to become flustered or embarrassed. Despite her teasing, she is shown to be caring of those around her, offering advice and help to those who need it. She tends to speak in terse and paused sentences. \n\nAs a powerful spellcaster, she is known to posess at least the spells Inflammarae (burn), Magic Missile, and Missile Deflect. She is shown using her Inflammarae spell to light a smoking pipe, to which she herself admits is quite the waste.\n\nWitch is first shown helping [Priestess](https://anilist.co/character/126483/Onna-Shinkan) get away from a pair of privy newbies who wanted to scout her for their own party. She also gives her advice on her current situation with [Goblin Slayer](https://anilist.co/character/126458/Goblin-Slayer), explaining she did him a favor by selling him a magic scroll not too long ago, but without entering into much more detail."
+          }
+        },
+        {
+          "id": 126487,
+          "name": "Tokage Souryo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n126487-TErPQ7ADCryW.jpg",
+          "description": "",
+          "nicknames": [
+            "Tokage Souryo",
+            "蜥蜴僧侶",
+            "Lizard Priest"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "杉田智和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tokage Souryo",
+            "name_native": "蜥蜴僧侶",
+            "name_alternative": [
+              "Lizard Priest"
+            ],
+            "description": "A lizardman adventurer who forms a party with High Elf Archer and Dwarf Shaman. They later team up with Goblin Slayer and Priestess. His rank is silver, the third highest rank.\nCalm and composed, he speaks to people politely and adresses them in a respectful manner. He seems to be the most soft-spoken, even-tempered, and sociable member of the party.\n\nLizard Priest has green skin and horns on his head. His intimidating visage and towering stature makes him come off as unnerving, even to his friends. He wears what is presumed to be the traditional garb among priests in his people. \n\nLizard Priest is a skilled close quarters combatant, proficient with his curved blades. By using a catalyst, he is able to summon a Dragon-Tooth Warrior, a bipedal draconian skeleton, as an ally. In addition, he is capable of using healing magic to a degree.\n\nWhen he tries out cheese, he instantly becomes enamored with the taste, and  often calls it \"sweet nectar\" or \"the nectar of the gods\", since he finds it extremely exotic as his people do not practice the art of raising livestock."
+          }
+        },
+        {
+          "id": 126488,
+          "name": "Yaritsukai",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n126488-fW2f7wryREzj.jpg",
+          "description": "",
+          "nicknames": [
+            "Yaritsukai",
+            "槍使い",
+            "Lancer"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yaritsukai",
+            "name_native": "槍使い",
+            "name_alternative": [
+              "Lancer"
+            ],
+            "description": "Spearman is a silver-ranked adventurer based in the frontier. He is the partner of Witch. As a silver ranked adventurer, the third highest rank attainable, he induces the respect of his fellow adventurers, especially newbies, who look up to him.\n\nHe has brown spiky hair, and has light red earrings matching the color of his eyes. He wears a resplendent blue armor and is equipped with his singature weapon, a spear.\nExtremely confident in his abilities, he is keen on trying to impress other people in the Adventurer's Guild by boasting about his skills, and he can be often seen doing so at the desk in front of Guild Girl.\n\n~!It is quite apparent he has somewhat of a crush on Guild Girl, since he is always trying to show off in front of her.!~"
+          }
+        },
+        {
+          "id": 128254,
+          "name": "Kouhito Doushi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n128254-6x8qS52q9Q0n.jpg",
+          "description": "",
+          "nicknames": [
+            "Kouhito Doushi",
+            "鉱人道士",
+            "Dwarf Shaman"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中村悠一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kouhito Doushi",
+            "name_native": "鉱人道士",
+            "name_alternative": [
+              "Dwarf Shaman"
+            ],
+            "description": "A dwarf and a member of the party with Lizard Priest and High Elf Archer. They team up with Goblin Slayer and Priestess in order to infiltrate some ruins invaded by goblins. As a silver adventurer, he is an experienced spell caster. Well-built and with good physique despite his short stature, Dwarf Shaman's long hair is completely white, which he ties up in a ponytail, and the beard he often strokes is elaborately braided. His earlobes have been elongated and are pierced by earrings. His priest garment is completely white, which contrasts with his dark colored gloves and bracers and the piece of armor he wears on his lower torso. He is cheerful and happy most of the time and can be often seen arguing with High Elf Archer over the most trivial matters, but they do so without malice."
+          }
+        },
+        {
+          "id": 129080,
+          "name": "Tsurugi no Otome",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129080-zTT3T3jUnBya.png",
+          "description": "",
+          "nicknames": [
+            "Tsurugi no Otome",
+            "剣の乙女",
+            "Sword Maiden"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "遠藤綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tsurugi no Otome",
+            "name_native": "剣の乙女",
+            "name_alternative": [
+              "Sword Maiden"
+            ],
+            "description": "A former gold-ranked adventurer who currently serves as the Temple of Law's Archbishop of the Supreme God."
+          }
+        },
+        {
+          "id": 131808,
+          "name": "Minarai Seishokusha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131808-oZTRwGOy7pqt.jpg",
+          "description": "",
+          "nicknames": [
+            "Minarai Seishokusha",
+            "見習い聖職者",
+            "Apprentice Cleric"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "伊藤彩沙",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118799-DWknGwlGYqRT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Minarai Seishokusha",
+            "name_native": "見習い聖職者",
+            "name_alternative": [
+              "Apprentice Cleric"
+            ],
+            "description": "A porcelain ranked adventurer who is a two person party with Rookie Warrior"
+          }
+        },
+        {
+          "id": 131809,
+          "name": "Kajiya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131809-ItViBoLkdOMd.jpg",
+          "description": "",
+          "nicknames": [
+            "Kajiya",
+            "鍛冶屋",
+            "Blacksmith"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋伸也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105148-wgwzwTxAERbM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kajiya",
+            "name_native": "鍛冶屋",
+            "name_alternative": [
+              "Blacksmith"
+            ],
+            "description": "He is the local blacksmith whose establishment is close to the Adventurer's Guild."
+          }
+        },
+        {
+          "id": 131810,
+          "name": "Yuusha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131810-15s8G2ZXn6nj.png",
+          "description": "",
+          "nicknames": [
+            "Yuusha",
+            "勇者",
+            "Hero"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "島袋美由利",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126579-aYXUMZi7ozKD.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuusha",
+            "name_native": "勇者",
+            "name_alternative": [
+              "Hero"
+            ],
+            "description": "Yuusha is a young girl who became a platinum-ranked adventurer after defeating the Demon Lord.\nAlong with her party, she battles the Demon Lord's forces and other powerful threats.\n\n- In the light novel Yuusha has dark cyan-colored eyes and long black hair, with a single strand pointed upward."
+          }
+        },
+        {
+          "id": 131811,
+          "name": "Rhea Sekkou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131811-IND0nu8rSyjR.png",
+          "description": "",
+          "nicknames": [
+            "Rhea Sekkou",
+            "圃人斥候",
+            "Rhea Scout"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岩中睦樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129952-ONqSM6ixI6pq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rhea Sekkou",
+            "name_native": "圃人斥候",
+            "name_alternative": [
+              "Rhea Scout"
+            ],
+            "description": "An adventurer who was a member of a party of steel-ranked adventurers. He is a greedy and selfish individual who attempts to keep up a friendly facade. \n~!However, when he loses his composure, he is willing to kill people to vent his frustrations.!~"
+          }
+        },
+        {
+          "id": 131812,
+          "name": "Omoi Kenshi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131812-4mY1CxbvGqka.jpg",
+          "description": "",
+          "nicknames": [
+            "Omoi Kenshi",
+            "重い剣士",
+            "Heavy Swordsman"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "濱野大輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120263-v4Hq7oOv7act.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Omoi Kenshi",
+            "name_native": "重い剣士",
+            "name_alternative": [
+              "Heavy Swordsman"
+            ],
+            "description": "Race: Human\nJob: Adventurer\nRank: Silver\nAffiliation: Adventurer's Guildis \n\nA silver ranked adventurer. He is currently acting as an instructor teaching new adventurers basic combat."
+          }
+        },
+        {
+          "id": 131813,
+          "name": "Ushikai Musume no Oji",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131813-QrpUdKPIfg35.jpg",
+          "description": "",
+          "nicknames": [
+            "Ushikai Musume no Oji",
+            "牛飼い娘の叔父",
+            "Cow Girl's Uncle"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "林大地",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121241-Vfs2dkk6SLW0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ushikai Musume no Oji",
+            "name_native": "牛飼い娘の叔父",
+            "name_alternative": [
+              "Cow Girl's Uncle"
+            ],
+            "description": "His family runs a dairy farm just outside of town for several generations. When his younger sister married, she moved out of the Dairy Farm to her husband's village, leaving him the sole heir to the farm.\n\nHe is the uncle of Cow Girl and the landlord of Goblin Slayer."
+          }
+        },
+        {
+          "id": 131814,
+          "name": "Senshi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131814-5oZVcdOKfO70.png",
+          "description": "",
+          "nicknames": [
+            "Senshi",
+            "戦士",
+            "Warrior"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内匠靖明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/11510.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Senshi",
+            "name_native": "戦士",
+            "name_alternative": [
+              "Warrior"
+            ],
+            "description": "An adventurer in a newbie party that was tasked with a goblin slaying quest.\n~!He was a rookie adventurer in a party with Wizard, Priestess and Fighter. They took on a job to exterminate goblins believing it would be easy. However, upon entering the goblins' cave, they were ambushed. Warrior managed to kill several goblins but was stabbed in the leg by a goblin. As he attempted to swing his sword again, it fell off his hand when it hit the side of the cave and Warrior was swarmed and hacked to death by goblin!~\n"
+          }
+        },
+        {
+          "id": 131815,
+          "name": "Butouka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131815-ePm4XKSq9b2U.png",
+          "description": "",
+          "nicknames": [
+            "Butouka",
+            "武闘家",
+            "Fighter"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石上静香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118738-60gKflxjl80c.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Butouka",
+            "name_native": "武闘家",
+            "name_alternative": [
+              "Fighter"
+            ],
+            "description": "A former adventurer who retired after her disastrous first quest.\n~!Along with two of her friends, they decided to become adventurers. They recruited Priestess to be part of their party before taking on a goblin slaying quest. As they entered the caves, they are ambushed by goblins who critically injure Wizard and maul Warrior to death. She tells Priestess to take Wizard and leave her to fend off the goblins. She easily took down some of the goblins until the hobgoblin entered the fray, who easily overpowers her. The goblins proceeded to rape her until Goblin Slayer came to her rescue. After the incident, she became traumatized and unresponsive, thus was immediately relinquished from being an adventurer. She was then seen being brought to a temple with the other women who were also captured by the goblins to recover.!~"
+          }
+        },
+        {
+          "id": 131816,
+          "name": "Hitojichi Yousei Teisatsu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131816-4rnnnkJl6w6r.jpg",
+          "description": "",
+          "nicknames": [
+            "Hitojichi Yousei Teisatsu",
+            "人質妖精偵察",
+            " Captured Elf Scout"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "長谷川育美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n132768-r4FwpBpHnRtZ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hitojichi Yousei Teisatsu",
+            "name_native": "人質妖精偵察",
+            "name_alternative": [
+              " Captured Elf Scout"
+            ],
+            "description": "An unnamed elf scout was a scout for a nearby Elf settlement in the forest who was assigned to spy on a goblin nest and draw up a map of the ruins they inhabited."
+          }
+        },
+        {
+          "id": 131817,
+          "name": "Mahoutsukai",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131817-OPZc4EBqu9LH.png",
+          "description": "",
+          "nicknames": [
+            "Mahoutsukai",
+            "魔法使い",
+            "Wizard"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小岩井ことり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109131-IS92Cw9ldM2x.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mahoutsukai",
+            "name_native": "魔法使い",
+            "name_alternative": [
+              "Wizard"
+            ],
+            "description": "A spell-casting adventurer who was part of a porcelain-ranked party on a goblin slaying quest.\nShe had graduated at the top of her class from the academy in the Capital where she had learned her spells.\n~!After graduating, she joined a party who decided to take a goblin slaying quest. Entering a cave, they were soon attacked by goblins from side tunnels they had failed to notice and quickly overpower Wizard. In a fit of rage she flailed wildly, but stopped after being stabbed in the abdomen. Unable to save the other party members, Priestess attempted to heal Wizard's wound, but only worsened her condition. When Goblin Slayer arrived, he revealed that the dagger she was stabbed with was poisoned. Wizard begged him to kill her, which Goblin Slayer obliged.!~"
+          }
+        },
+        {
+          "id": 131818,
+          "name": "Ogre",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131818-dX8du9yqbhpd.png",
+          "description": "",
+          "nicknames": [
+            "Ogre"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "各務立基",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124812-FeNFM7iMFO4b.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ogre",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "One of the Demon Lord's sixteen generals. Ogre was arrogant and vicious, shown when he told Goblin Slayer's party that they will all die with certainty. He also cared nothing for the goblins he had made his subordinates. However, Ogre shared the sadism of the goblins, as he had confined an elf for use a plaything."
+          }
+        },
+        {
+          "id": 131819,
+          "name": "Onna Kishi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131819-ciC7jlbevxx4.png",
+          "description": "",
+          "nicknames": [
+            "Onna Kishi",
+            "女騎士",
+            "Female Knight"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤井ゆきよ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106162-k7Jn7QGysSFk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Onna Kishi",
+            "name_native": "女騎士",
+            "name_alternative": [
+              "Female Knight"
+            ],
+            "description": "__Race:__ Human\n__Job:__ Adventurer\n__Title:__ Paladin+__Affiliation:__ Adventurer's Guild\n\nShe is a young woman with long blonde hair and is clad in white body-fitting armor and a cape, although the anime shows the former to be grey with gold bits."
+          }
+        },
+        {
+          "id": 131820,
+          "name": "Shoshinsha Senshi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n131820-pPZHnlbfNsam.jpg",
+          "description": "",
+          "nicknames": [
+            "Shoshinsha Senshi",
+            "初心者戦士",
+            "Rookie Warrior "
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "前田誠二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128082-977ZN23pwzJ4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shoshinsha Senshi",
+            "name_native": "初心者戦士",
+            "name_alternative": [
+              "Rookie Warrior "
+            ],
+            "description": "He is a porcelain ranked adventurer who is in a two person party with Apprentice Cleric"
+          }
+        },
+        {
+          "id": 131821,
+          "name": "Goblin Slayer no Ane",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b131821-sN5YazHPcWE6.png",
+          "description": "",
+          "nicknames": [
+            "Goblin Slayer no Ane",
+            "ゴブリンスレイヤーの姉",
+            "Goblin Slayer's Sister"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上田麗奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118602-C4bNcnyEhDTu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Goblin Slayer no Ane",
+            "name_native": "ゴブリンスレイヤーの姉",
+            "name_alternative": [
+              "Goblin Slayer's Sister"
+            ],
+            "description": "Was the sole loved one of Goblin Slayer during his childhood. Her death is the primary circumstance that triggered Goblin Slayer's obsessive trait to kill all the Goblins."
+          }
+        },
+        {
+          "id": 132632,
+          "name": "Goblins",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132632-rHa6hK46MzYb.jpg",
+          "description": "",
+          "nicknames": [
+            "Goblins",
+            "ゴブリン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "竹田海渡",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n132633-VZAF3zoz5U7u.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Goblins",
+            "name_native": "ゴブリン",
+            "name_alternative": [],
+            "description": "Monsters that destroy and steal anything they come across. They all have a predisposition to hate \"those with words\"."
+          }
+        },
+        {
+          "id": 132708,
+          "name": "Goblin Lord",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132708-dMkPZ6c81ESI.jpg",
+          "description": "",
+          "nicknames": [
+            "Goblin Lord",
+            "ゴブリンロード",
+            "Goburinroudo"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井上和彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95021-9qAoAn6GNZ3S.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Goblin Lord",
+            "name_native": "ゴブリンロード",
+            "name_alternative": [
+              "Goburinroudo"
+            ],
+            "description": "Having lived a long life, the Goblin Lord fancies himself as being far more cunning and intelligent than the other Goblins in his forces. To that end, he is willing to sacrifice them for the sake of getting away, knowing he can grow even more clever and resourceful over time.\n\nHowever, despite his ambition and position as a leader of goblins, he does not care about the others of his kind and views them as dispensable resources. As such, like every goblin, he prioritizes his personal preservation above all else. He loathes begging for his life and bending the knee to any others, especially to humans, and only uses it as a means of getting the upper hand​."
+          }
+        },
+        {
+          "id": 132710,
+          "name": "Shoujo Fujutsushi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n132710-bZNp9XpbHaML.jpg",
+          "description": "",
+          "nicknames": [
+            "Shoujo Fujutsushi",
+            "少女巫術師",
+            "Druid Girl"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "原田彩楓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121049-R3O74zAFacxv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shoujo Fujutsushi",
+            "name_native": "少女巫術師",
+            "name_alternative": [
+              "Druid Girl"
+            ],
+            "description": "\n__Age:__ +20\n__Race:__ Rhea\n__Job:__ Adventurer\n__Rank:__ Bronze\n__Affiliation:__ Adventurer's Guild - Heavy Warrior's Party\n\nDruid Girl has a kind disposition and is friendly towards others. She tries to give advice to newer adventurers when given the chance."
+          }
+        },
+        {
+          "id": 134322,
+          "name": "Goblin Champion",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n134322-bmQMEKAsaksp.jpg",
+          "description": "",
+          "nicknames": [
+            "Goblin Champion",
+            "ゴブリンチャンピオン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山根雅史",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n134336-1YmYcqStqD2O.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Goblin Champion",
+            "name_native": "ゴブリンチャンピオン",
+            "name_alternative": [],
+            "description": "Heroes of the Goblin race; those that have become large enough to even be seen as ogres in terms of strength. They often lack in intelligence, but are capable fighters that can give even veteran adventurers trouble. (Considered to be the silver-ranked among goblins)."
+          }
+        },
+        {
+          "id": 134323,
+          "name": "Kantoku-kan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n134323-cgKSmSGZbJvj.png",
+          "description": "",
+          "nicknames": [
+            "Kantoku-kan",
+            "監督官",
+            "Inspector"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日岡なつみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112777-ZK3Jxr4CpZiC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kantoku-kan",
+            "name_native": "監督官",
+            "name_alternative": [
+              "Inspector"
+            ],
+            "description": "She is a receptionist working at the Adventurer's Guild in the frontier and a priest of the Supreme God. She is Guild Girl's co-worker."
+          }
+        },
+        {
+          "id": 36309,
+          "name": "Narrator",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg",
+          "description": "",
+          "nicknames": [
+            "Narrator",
+            "ナレーター",
+            "Katarite (語り手)",
+            "Narration (ナレーション)",
+            "Narrador",
+            "Rozprávač",
+            "Vyprávěč",
+            "Dış ses",
+            "Narratore",
+            "Pripovjedač",
+            "Narradora",
+            "Рассказчик",
+            "Người dẫn chuyện",
+            "Tagapagsalaysay",
+            "내레이터",
+            "Narratore",
+            "Erzählperson",
+            "מספר",
+            "Narrátor",
+            "讲述人",
+            "راوي",
+            "Forteller",
+            "Berättare",
+            "Αφηγητής",
+            "Narrate"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "悠木碧",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Narrator",
+            "name_native": "ナレーター",
+            "name_alternative": [
+              "Katarite (語り手)",
+              "Narration (ナレーション)",
+              "Narrador",
+              "Rozprávač",
+              "Vyprávěč",
+              "Dış ses",
+              "Narratore",
+              "Pripovjedač",
+              "Narradora",
+              "Рассказчик",
+              "Người dẫn chuyện",
+              "Tagapagsalaysay",
+              "내레이터",
+              "Narratore",
+              "Erzählperson",
+              "מספר",
+              "Narrátor",
+              "讲述人",
+              "راوي",
+              "Forteller",
+              "Berättare",
+              "Αφηγητής",
+              "Narrate"
+            ],
+            "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page."
+          }
+        }
+      ]
+    }
+  ]
+}

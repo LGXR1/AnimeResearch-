@@ -1,0 +1,517 @@
+{
+  "fetchedAt": "2026-10-05T11:38:44.919Z",
+  "id": 10372,
+  "title": {
+    "romaji": "Kamisama Dolls",
+    "english": null,
+    "native": "神様ドォルズ"
+  },
+  "synonyms": [
+    "Kami-sama Dolls"
+  ],
+  "format": "TV",
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Supernatural"
+  ],
+  "description": "Kyouhei, after moving away to Tokyo from his old town to get away from the events that happened, is on a goukon with his friends, including his old neighbor, Shiba. After drinking for a whole night, he and Shiba discover a dead, bloody body in the elevator. He is told by his younger sister, Utao with her Kamisama Doll, that Aki, an old friend, and his Doll are the culprits responsible.",
+  "siteUrl": "https://anilist.co/anime/10372",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 41300,
+        "name": {
+          "full": "Kyouhei Kuga",
+          "native": "枸雅匡平",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41300-EbUzQguZhuEc.png"
+        },
+        "description": "A college student who grew up in a village and later abandoned his hometown when he moved to Tokyo and immersed himself in college life.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95270,
+          "name": {
+            "full": "Nobuhiko Okamoto",
+            "native": "岡本信彦"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 41301,
+        "name": {
+          "full": "Utao Kuga",
+          "native": "枸雅詩緒",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41301-IvWCVcXQSD7Z.png"
+        },
+        "description": "Utao is the younger sister of Kyouhei and the current partner of Kukuri. She comes to Tokyo to meet her brother out of fear that Aki would come for him. Her fears are confirmed and after destroying Kyouhei&#039;s apartment while confronting Aki, she moves to Hibino&#039;s house with her brother, working at the Shiba family&#039;s caf&eacute; while training herself to improve her control over Kukuri&#039;s movements.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95207,
+          "name": {
+            "full": "Misato Fukuen",
+            "native": "福圓美里"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95207-TYPMa0JKUDAf.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 41302,
+        "name": {
+          "full": "Hibino Shiba",
+          "native": "史場日々乃",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41302-fDu5qsJtTdXe.png"
+        },
+        "description": "Hibino is an attractive young woman who attends the same university as Kyohei, who has a longtime crush on her, but is unaware of her own feelings for him. She was asked in date by many of their male collegemates, but declined all of them.    ~! Despite her father came from the same village as Kyohei's family, she never knew about its secrets until he invited Kyohei (whose apartment was destroyed) and Utao to live with them. According to Aki, Kyohei's affection for her is because Hibino resembles their former teacher. !~ (Source: Wikipedia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105765,
+          "name": {
+            "full": "Ai Kayano",
+            "native": "茅野愛衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 42810,
+        "name": {
+          "full": "Aki Kuga",
+          "native": "枸雅阿幾",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42810-iwvVHgH6xvwp.png"
+        },
+        "description": "A fugitive from Kyouhei's hometown. His kakashi is Kuramitsuha. His rival and old best friend is Kyohei.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96762,
+          "name": {
+            "full": "Ryouhei Kimura",
+            "native": "木村良平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 42811,
+        "name": {
+          "full": "Koushirou Hyuuga",
+          "native": "日向勾司朗",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42811-B06b09yIn35l.png"
+        },
+        "description": "A Seki from the Hyuuga family. He and Kirio are tasked to capture Aki and bring him back to the village.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95555,
+          "name": {
+            "full": "Katsuki Murase",
+            "native": "村瀬克輝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/555.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 42812,
+        "name": {
+          "full": "Kirio",
+          "native": "桐生",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42812-pUbujOFpICW9.png"
+        },
+        "description": "A Seki who bears an uncanny resemblance to Utao. He enjoys teasing her and causing her stress, possibly out of contempt for her.     ~!It is later revealed that he is Utao&#039;s brother. He was taken by the Hyuga clan at birth, and raised in secret.!~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95539,
+          "name": {
+            "full": "Yumiko Kobayashi",
+            "native": "小林由美子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95539-vFLypMio70hC.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 42813,
+        "name": {
+          "full": "Kuuko Karahari",
+          "native": "空張久羽子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42813-PB2CUI5jd2Ge.png"
+        },
+        "description": "Kyohei&#039;s and Hibino&#039;s eccentric classmate. She is fed up with normalcy and became interested in the supernatural, but was close to giving up because all her leads turned out to be shams. She was overjoyed when she discovered the kakashi and forcibly becomes involved in the situation. ~!She kidnaps Aki, who later decides to hide out in her apartment.!~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95099,
+          "name": {
+            "full": "Miyuki Sawashiro",
+            "native": "沢城みゆき"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 42815,
+        "name": {
+          "full": "Mahiru Hyuuga",
+          "native": "日向まひる",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42815-G7axvBwdhuJI.png"
+        },
+        "description": "The most powerful Seki from the Hyuuga family who considers all other Seki inferior to her except for Kyouhei. She is Koushirou's cousin and excels in controlling her Doll, Magatsuhi, whose special ability is to stop other dolls' movements.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95185,
+          "name": {
+            "full": "Kana Hanazawa",
+            "native": "花澤香菜"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 43604,
+        "name": {
+          "full": "Moyako Somaki",
+          "native": "杣木靄子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43604-2zHz7dVfG8WS.png"
+        },
+        "description": "A kakashi repair woman who lives in the village.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95823,
+          "name": {
+            "full": "Ayahi Takagaki",
+            "native": "高垣彩陽"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95823-gJC6Tr9HDOqy.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 44104,
+        "name": {
+          "full": "Yurako Somaki",
+          "native": "杣木由良子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b44104-7D38vcM2URVe.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107042,
+          "name": {
+            "full": "Rie Yamaguchi",
+            "native": "山口理恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107042-JHYiVL4PU70l.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 44105,
+        "name": {
+          "full": "Hitomi Kuga",
+          "native": "枸雅 日都美",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b44105-RgZ0bcHCKa7J.png"
+        },
+        "description": "Kyouhei&#039;s mother.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107715,
+          "name": {
+            "full": "Keiko Taniguchi",
+            "native": "佳子 谷口"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12715.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 44106,
+        "name": {
+          "full": "Yasuyuki Kuga",
+          "native": "枸雅 泰之",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b44106-jxxSfMoKDmWL.png"
+        },
+        "description": "Kyouhei&#039;s father.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107661,
+          "name": {
+            "full": "Naoki Imamura",
+            "native": "今村直樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107661-ovrwO42xqRiG.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 44107,
+        "name": {
+          "full": "Suou",
+          "native": "スオー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b44107-ak90hGvJdgFb.png"
+        },
+        "description": "Hibino&#039;s friend.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95523,
+          "name": {
+            "full": "Eri Sendai",
+            "native": "仙台エリ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95523-Z2mIzxl8NgnE.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 44108,
+        "name": {
+          "full": "Shingo Shiba",
+          "native": "史場 慎吾",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b44108-YszieY4mCY3g.png"
+        },
+        "description": "Hibino&#039;s father.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100491,
+          "name": {
+            "full": "Atsushi Ono",
+            "native": "斧アツシ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100491-6xlkDMFJdADo.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 44282,
+        "name": {
+          "full": "Kyousuke Karahari",
+          "native": "空張 恭助",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b44282-bl7dhHG9pXmK.png"
+        },
+        "description": "Kuuko&#039;s father. He&#039;s a detective. The two have a rocky relationship.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95296,
+          "name": {
+            "full": "Takuya Kirimoto",
+            "native": "桐本拓哉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95296-fYLp5Ff3eDI3.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 45477,
+        "name": {
+          "full": "Chihaya Senou",
+          "native": "瀬能千波野",
+          "alternative": [
+            "Sensei"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b45477-USRk8TYAcOdc.png"
+        },
+        "description": "She's Kyouhei and Aki's teacher.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96155,
+          "name": {
+            "full": "Makiko Nabei",
+            "native": "鍋井まき子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1155.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 48801,
+        "name": {
+          "full": "Family Head Hyuuga",
+          "native": "日向家当主",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b48801-ymjqrRECm0gk.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95018,
+          "name": {
+            "full": "Hidekatsu Shibata",
+            "native": "柴田秀勝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95018-HXJMMED74SVO.png"
+          }
+        }
+      ]
+    }
+  ]
+}

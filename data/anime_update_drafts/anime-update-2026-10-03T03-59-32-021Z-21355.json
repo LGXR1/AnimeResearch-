@@ -1,0 +1,1177 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:59:32.022Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "Re:从零开始的异世界生活",
+      "id": 88572,
+      "name": "Emilia",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Re:从零开始的异世界生活",
+      "id": 88573,
+      "name": "Subaru Natsuki",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Re:从零开始的异世界生活",
+      "id": 88575,
+      "name": "Rem",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Re:从零开始的异世界生活",
+      "id": 88576,
+      "name": "Ram",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Re:从零开始的异世界生活",
+      "id": 90178,
+      "name": "Aldebaran",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Re:从零开始的异世界生活",
+      "id": 90181,
+      "name": "Beatrice",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "Re:从零开始的异世界生活",
+      "id": 124116,
+      "name": "Theresia van Astrea",
+      "reason": "作品内同名或别名已存在：Sword Saint"
+    },
+    {
+      "anime": "Re:从零开始的异世界生活",
+      "id": 185046,
+      "name": "Russell Fellow",
+      "reason": "AniList ID 已存在或批次重复"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 21355,
+      "anime_title": "Re:从零开始的异世界生活",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21355,
+        "titles": [
+          "Re:Zero kara Hajimeru Isekai Seikatsu",
+          "Re:ZERO -Starting Life in Another World-",
+          "Re:ゼロから始める異世界生活",
+          "Re: Life in a different world from zero",
+          "ReZero",
+          "Re Zero",
+          "Re：从零开始的异世界生活",
+          "Re:Zero รีเซทชีวิต ฝ่าวิกฤตต่างโลก",
+          "Re:Zero — жизнь с нуля в другом мире",
+          "Re:Zero Empezar de cero en un mundo diferente",
+          "Re:Zero – Bắt đầu lại ở thế giới khác"
+        ],
+        "year": 2016,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21355"
+      },
+      "characters": [
+        {
+          "id": 88574,
+          "name": "Felt",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88574-Hau8t0GlMvhp.jpg",
+          "description": "",
+          "nicknames": [
+            "Felt",
+            "フェルト",
+            "Feruto"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "赤﨑千夏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107652-wHdkKzhetbiH.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Felt",
+            "name_native": "フェルト",
+            "name_alternative": [
+              "Feruto"
+            ],
+            "description": "**Height:** 150 cm (4'11\")\n\nA thief that lives in the slums. Felt stole [Emilia's](https://anilist.co/character/88572/Emilia) insignia, hoping for quick, easy cash. Though Felt can usually handle her own, she does consider [Rom](https://anilist.co/character/124117/Rom) to be like family.\n\n~!After being chosen by the insignia, she is forced to participate in the Royal Selection and is currently a candidate to become the 42nd King of Lugunica.!~"
+          }
+        },
+        {
+          "id": 88577,
+          "name": "Reinhard van Astrea",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88577-nrwzPBVwqAfO.png",
+          "description": "",
+          "nicknames": [
+            "Reinhard van Astrea",
+            "ラインハルト・ヴァン・アストレア",
+            "Kensei (剣聖)",
+            "Sword Saint",
+            "Knight Implacable"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中村悠一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Reinhard van Astrea",
+            "name_native": "ラインハルト・ヴァン・アストレア",
+            "name_alternative": [
+              "Kensei (剣聖)",
+              "Sword Saint",
+              "Knight Implacable"
+            ],
+            "description": "__Height__: 184 cm (6'0\")\n\nReinhard van Astrea is the current Sword Saint and a member of the Royal Guard, currently acting as [Felt's](https://anilist.co/character/88574/Felt) knight. \n\nAs the Sword Saint and the Knight of the Royal Guard, Reinhard embodies chivalry and elegance, treating everyone with exceptional respect. He is fair, brave, and always acts in the name of justice, whether on duty or simply strolling through the Royal Capital.\n\nAs a knight, Reinhard only uses his sword when necessary, since, in addition to being a rule, his iron-clad rule is to not inflict pain to others if not absolutely necessary, be it a normal thug or a member of the Witch Cult."
+          }
+        },
+        {
+          "id": 90170,
+          "name": "Petelgeuse Romanee-Conti",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90170-sHsO9ojQDLa3.jpg",
+          "description": "",
+          "nicknames": [
+            "Petelgeuse Romanee-Conti",
+            "ペテルギウス・ロマネコンティ",
+            "Betelgeuse",
+            "Geuse (ジュース)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Petelgeuse Romanee-Conti",
+            "name_native": "ペテルギウス・ロマネコンティ",
+            "name_alternative": [
+              "Betelgeuse",
+              "Geuse (ジュース)"
+            ],
+            "description": "Sin Archbishop of the Witch Cult, representing sloth.\n\n~!He was later killed by [Natsuki Subaru](https://anilist.co/character/88573/Natsuki-Subaru) with the help of [Julius Juukulius](https://anilist.co/character/90183/Euclius-Julius).!~\n\n~!A hundred years earlier, Petelgeuse was a moderate, upright and rational man. He was close friends with [Fortuna](https://anilist.co/character/183732/Fortuna) and [Emilia](https://anilist.co/character/88572/Emilia), enough to be described as being like a family. However, when [Regulus](https://anilist.co/character/174098/Corneas-Regulus) and [Pandora](https://anilist.co/character/137522/Pandora) attacked their village, he accidentally killed Fortuna through Pandora's power, causing him to go mad.!~"
+          }
+        },
+        {
+          "id": 90177,
+          "name": "Anastasia Hoshin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90177-K1XztcZqHl3c.png",
+          "description": "",
+          "nicknames": [
+            "Anastasia Hoshin",
+            "アナスタシア・ホーシン",
+            "Black Fox",
+            "Greedy Princess",
+            "Iron Plate Magistrate",
+            "Megitsune"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "植田佳奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Anastasia Hoshin",
+            "name_native": "アナスタシア・ホーシン",
+            "name_alternative": [
+              "Black Fox",
+              "Greedy Princess",
+              "Iron Plate Magistrate",
+              "Megitsune"
+            ],
+            "description": "Anastasia Hoshin is the head of the Hoshin Trading Company and a candidate to become the 42nd King of Lugunica. Her knight is [Julius Juukulius](https://anilist.co/character/90183/Euclius-Julius).\n\nDespite her surname being \"Hoshin\", she's not directly related to Hoshin of the Wilderness. She chose the name because she was inspired by his legacy."
+          }
+        },
+        {
+          "id": 90179,
+          "name": "Wilhelm van Astrea",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90179-dBqDPUn2i7dM.jpg",
+          "description": "",
+          "nicknames": [
+            "Wilhelm van Astrea",
+            "ヴィルヘルム・ヴァン・アストレア",
+            "Sword Demon (剣鬼 Kenki)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "堀内賢雄",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/262.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Wilhelm van Astrea",
+            "name_native": "ヴィルヘルム・ヴァン・アストレア",
+            "name_alternative": [
+              "Sword Demon (剣鬼 Kenki)"
+            ],
+            "description": "__Height:__ 178 cm (5'10\")\n\nWilhelm van Astrea né Trias, is a member of the Crusch Camp and was [Theresia van Astrea](https://anilist.co/character/124116/van-Astrea-Theresia)'s husband.\n\nWilhelm is a refined man with a highly gentle and humble demeanor. However unearth that even temperament belied a fierce warrior who often is the first to help when something happens. However this wasn't always the case as in youth, Wilhelm was very opposite of who he was in his later years. Brash, afoot, short tempered, lonely and often cold with others. He was a troubled individual who devoted himself wholly to the sword and cared for little else. Even so, he knew how to analyze a situation, always finding a way out. Nonetheless, Theresia greatly influenced his personality, becoming increasingly sociable and protective, achieving more results during the Demi-human War. It was through her most of all that he would become the person he is today."
+          }
+        },
+        {
+          "id": 90180,
+          "name": "Elsa Granhiert",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90180-YXbXfcSlalav.png",
+          "description": "",
+          "nicknames": [
+            "Elsa Granhiert",
+            "エルザ・グランヒルテ",
+            "The Bowel Hunter"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "能登麻美子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Elsa Granhiert",
+            "name_native": "エルザ・グランヒルテ",
+            "name_alternative": [
+              "The Bowel Hunter"
+            ],
+            "description": "An assassin-for-hire from the Northernmost nation, the Holy Kingdom of Gusteko, known as \"The Bowel Hunter\". Elsa wishes to make a trade for an insignia, as her client's wishes.  \n\n~!Elsa Granhiert was an assassin working together with [Meili](https://anilist.co/character/175577) for an individual they refer to as \"Mother\" until her death.!~"
+          }
+        },
+        {
+          "id": 90182,
+          "name": "Roswaal Mathers",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90182-Ho0NS06tc6NL.png",
+          "description": "",
+          "nicknames": [
+            "Roswaal Mathers",
+            "ロズワール・Ｌ・メイザース",
+            "Ros-chi"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Roswaal Mathers",
+            "name_native": "ロズワール・Ｌ・メイザース",
+            "name_alternative": [
+              "Ros-chi"
+            ],
+            "description": "~!__Mental age:__ 400+!~\nThe lord of the Roswaal Mansion and a descendant of the original Roswaal.\n\nHe comes across as an eccentric due to his flamboyant appearance and odd speaking style, the latter which he shares with his grandmother. However, he harbors a more calculating and reserved side with a sharp political mind and gaze that reads others quite well.\n\n~!It is later revealed that he is in fact the original Roswaal, Roswaal A. Mathers, who has been possessing his descendants' bodies to meet his teacher Echidna again at any cost, even if that means sacrificing himself or those close to him.!~"
+          }
+        },
+        {
+          "id": 90183,
+          "name": "Julius Euclius",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90183-LWx59kSa5Vjl.png",
+          "description": "",
+          "nicknames": [
+            "Julius Euclius",
+            "ユリウス・ユークリウス",
+            "Julius Juukulius",
+            "Saiyuu no Kishi (最優の騎士)",
+            "Valuable Knight",
+            "Juli (ユーリ)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "江口拓也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Julius Euclius",
+            "name_native": "ユリウス・ユークリウス",
+            "name_alternative": [
+              "Julius Juukulius",
+              "Saiyuu no Kishi (最優の騎士)",
+              "Valuable Knight",
+              "Juli (ユーリ)"
+            ],
+            "description": "__Height:__ 179 cm (5'10\")\n\nJulius Euclius is [Anastasia Hoshin's](https://anilist.co/character/90177/Hoshin-Anastasi) knight and a member of the Royal Guard. Julius lived with his family at the Euclius House. After his father, Klein Euclius died, he started to live with his uncle Alviero and he started to take care of Julius and became his adoptive father.\n\nAs a member of Lugnica's nobility, Julius acts in a proper fashion, always having an air of nobility and conviction. He is also considerate and doesn't forget to show care toward others. He also shows a strict side, giving out accurate assessments of others whether they're good or bad, which is a result of his upbringing as an elite, and in actuality, he believes that he and others can do better than they currently are.\n\nJulius doesn't like those who forget their place, leading him to have bad relations with [Subaru](https://anilist.co/character/88573/Natsuki-Subaru) for a while. While both have apologized to each other after the battle with the Hakugei, Subaru told him he still hated him. Julius said he didn't intend to be friends. They both became very intimate very quickly during the planning and attacking the Witch Cult. In the end, Julius directly considered Subaru as his friend.\n"
+          }
+        },
+        {
+          "id": 90184,
+          "name": "Felix Argyle",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90184-o1ZFF6osCZX7.png",
+          "description": "",
+          "nicknames": [
+            "Felix Argyle",
+            "フェリックス・アーガイル",
+            "Argail",
+            "Ferris (フェリス)",
+            "Ferri-chan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "堀江由衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95028-MHT1m3E5wGZx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Felix Argyle",
+            "name_native": "フェリックス・アーガイル",
+            "name_alternative": [
+              "Argail",
+              "Ferris (フェリス)",
+              "Ferri-chan"
+            ],
+            "description": "Felix Argyle commonly known as Ferris, is [Crusch Karsten](https://anilist.co/character/90185)'s knight. He is a beast human (demi-human)."
+          }
+        },
+        {
+          "id": 90185,
+          "name": "Crusch Karsten",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90185-FR9JHyNe5038.jpg",
+          "description": "",
+          "nicknames": [
+            "Crusch Karsten",
+            "クルシュ・カルステン",
+            "Goddess of War (戦争の女神; Sensou no Megami)",
+            "Valkyrie"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井口裕香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95885-NrKdS094Ae59.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Crusch Karsten",
+            "name_native": "クルシュ・カルステン",
+            "name_alternative": [
+              "Goddess of War (戦争の女神; Sensou no Megami)",
+              "Valkyrie"
+            ],
+            "description": "Crusch Karsten is the Matriarch of House Karsten and a candidate to become the 42nd King of Lugnica.\n\nWhile normally calm and serious, Crusch is honest, sincere, right, being a type of person who is destined to stand above others, though she has talent and has worked hard to reach where she is now. She is already the head of her family, finishing her work better than her father. She prefers to act herself and has the pride of a warrior. Crusch is also gentle, often believing the false knowledge jokingly told to her by [Ferris](https://anilist.co/character/90184), and sometimes displays an airheaded side. Like her mother Helena Karsten, she is shown to be ruthless and reckless."
+          }
+        },
+        {
+          "id": 90186,
+          "name": "Priscilla Barielle",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90186-yr2PT4gI2qa3.png",
+          "description": "",
+          "nicknames": [
+            "Priscilla Barielle",
+            "プリシラ・バーリエル",
+            "Sun Princess",
+            "Scarlet Princess",
+            "Bloody Bride"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田村ゆかり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Priscilla Barielle",
+            "name_native": "プリシラ・バーリエル",
+            "name_alternative": [
+              "Sun Princess",
+              "Scarlet Princess",
+              "Bloody Bride"
+            ],
+            "description": "The matriarch of House Barielle and a candidate to become the 42nd King of Lugunica. Her knight is [Al](https://anilist.co/character/90178/Aldebaran).\n"
+          }
+        },
+        {
+          "id": 90187,
+          "name": "Puck",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b90187-xJXlD84KXl3t.jpg",
+          "description": "",
+          "nicknames": [
+            "Puck",
+            "パック"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内山夕実",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106784-reDoHBLWxi7J.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Puck",
+            "name_native": "パック",
+            "name_alternative": [],
+            "description": "__Height:__ 7 cm\n\nPuck is an Artificial Spirit that [Emilia](https://anilist.co/character/88572/Emilia) was formerly contracted with. He is the current Great Spirit of Fire.\n\n~!He is currently known as the Beast of The End.!~\n\n~!Around 400 years ago, Puck was created by Echidna, though he had apparently left her by the time she moved into the Sanctuary. Seven years before the start of the election, Puck unfroze Emilia and began to act as her friend and mentor, and later on started to live at Roswaal's mansion where he was reunited with Beatrice.!~\n\nPuck can be described as cute or adorable, thus his skin being pink around his cheeks. His fur is mostly grey with silver in certain spots (i.e. tip of the tail). His eyebrows are pretty small and rhombus-shaped. He also has a gold earring on his left ear. Sometimes, he carries a purple bag.\n\nPuck is generally a nice spirit. He is very happy and stays at Emilia's side to protect her, affectionately calling her \"Lia\". He occasionally goofs around and gets along especially well with [Beatrice](https://anilist.co/character/90181/Beatrice). \n\n~!However, Puck's demeanor greatly changes in loops where Emilia dies, showing a complete disregard for anyone except her, and was even willing to destroy the world because of the condition in their contract.!~"
+          }
+        },
+        {
+          "id": 124110,
+          "name": "Otto Suwen",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124110-Gfr3IYI6FwqE.jpg",
+          "description": "",
+          "nicknames": [
+            "Otto Suwen",
+            "オットー・スーウェン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "天崎滉平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119871-Tz1rIT1YahPu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Otto Suwen",
+            "name_native": "オットー・スーウェン",
+            "name_alternative": [],
+            "description": "\nOtto Suwen is a merchant appearing in  Re:Zero. His remarkable misfortune always takes him to dangerous situations, from which he escapes thanks to his wit.\nOtto has gray hair that is mentioned to be as long as a gal game protagonist. He is said to be somewhat handsome if he has a serious expression. However, he is usually either retorting, shouting, or panicking, ruining his looks. He has a medium build, but has trained himself since he used to work as a merchant.\n"
+          }
+        },
+        {
+          "id": 124115,
+          "name": "Rachins Hoffman",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124115-AlzT5EbLBWbt.png",
+          "description": "",
+          "nicknames": [
+            "Rachins Hoffman",
+            "ラチンス・ホフマン",
+            "Chin"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "室元気",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108055-xpbp6CAEStk2.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rachins Hoffman",
+            "name_native": "ラチンス・ホフマン",
+            "name_alternative": [
+              "Chin"
+            ],
+            "description": "One of the three thugs that attacked Subaru at the very start of Arc 1. \n\n~! He later joined the Felt Camp when [Felt](https://anilist.co/character/88574/Felt) employed him after Royal Selection began. After being employed by Felt, he started to get trained by Reinhard and has developed considerable power. !~\n\n~! He was born as a noble from the Royal Capital of Lugunica, to [Rickert Hoffman](https://anilist.co/character/226757/Rickert-Hoffman) and an unnamed woman. However, after unknown events, he left his family and began living in the slums. He scorns his father and chose to cut ties with his family. !~"
+          }
+        },
+        {
+          "id": 124117,
+          "name": "Rom",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124117-9wZEIt0h4Ioq.jpg",
+          "description": "",
+          "nicknames": [
+            "Rom",
+            "ロム",
+            "Old Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "麦人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1436.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rom",
+            "name_native": "ロム",
+            "name_alternative": [
+              "Old Man"
+            ],
+            "description": "Rom, commonly known as Grandpa or Old Man Rom, is a member of the Felt Camp and the former owner of the Stolen Goods Warehouse."
+          }
+        },
+        {
+          "id": 124118,
+          "name": "Kadomon Risch",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124118-ZWc6vrpwxZAL.jpg",
+          "description": "",
+          "nicknames": [
+            "Kadomon Risch",
+            "カドモン・リッシュ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "三宅健太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kadomon Risch",
+            "name_native": "カドモン・リッシュ",
+            "name_alternative": [],
+            "description": "Kadomon is a fruit seller in the royal capital."
+          }
+        },
+        {
+          "id": 124119,
+          "name": "Plum Risch",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124119-pJxrHniJERVk.jpg",
+          "description": "",
+          "nicknames": [
+            "Plum Risch",
+            "プラム・リッシュ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中あいみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119281-JTPeNOrPAx3O.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Plum Risch",
+            "name_native": "プラム・リッシュ",
+            "name_alternative": [],
+            "description": "Plum is the daughter of [Kadomon Risch](https://anilist.co/character/124118)"
+          }
+        },
+        {
+          "id": 141858,
+          "name": "Petra Leyte",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141858-wO0Uj6o4OpUI.jpg",
+          "description": "",
+          "nicknames": [
+            "Petra Leyte",
+            "ペトラ・レイテ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高野麻里佳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119383-En92dXrTlJTY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Petra Leyte",
+            "name_native": "ペトラ・レイテ",
+            "name_alternative": [],
+            "description": "Petra is a bright and kind girl from Irlam Village. She likes [Subaru](https://anilist.co/character/88573/Natsuki-Subaru) very much after he saved her from the Wolgarm incident.\n\n~!She became a maid at the Roswaal Mansion after Subaru came back from the witchcult incident. !~"
+          }
+        },
+        {
+          "id": 157961,
+          "name": "Mimi Pearlbaton",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157961-gvUztmBkzSMB.png",
+          "description": "",
+          "nicknames": [
+            "Mimi Pearlbaton",
+            "ミミ・パールバトン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤井ゆきよ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106162-k7Jn7QGysSFk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mimi Pearlbaton",
+            "name_native": "ミミ・パールバトン",
+            "name_alternative": [],
+            "description": "__Height:__ 135 cm (4'5\")\n\nMimi is one of Anastasia Hoshin's followers and is one of three vice-captains of the mercenary group Fang of Steel."
+          }
+        },
+        {
+          "id": 175577,
+          "name": "Meili Portroute",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b175577-lUNPAV3Gujl3.jpg",
+          "description": "",
+          "nicknames": [
+            "Meili Portroute",
+            "メィリィ・ポートルート"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鈴木絵理",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118688-z1eYfW49NzFc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Meili Portroute",
+            "name_native": "メィリィ・ポートルート",
+            "name_alternative": [],
+            "description": "One of the children that lives in the village within [Roswaal](https://anilist.co/character/90182)'s region. She's timid, though is friendly, such as when she introduces a small dog to [Subaru](https://anilist.co/character/88573). \n~!Meili Portroute is a Demon Beast User.!~"
+          }
+        },
+        {
+          "id": 181313,
+          "name": "Patrasche",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181313-eT4mFPCZj1OZ.jpg",
+          "description": "",
+          "nicknames": [
+            "Patrasche",
+            "パトラッシュ"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Patrasche",
+            "name_native": "パトラッシュ",
+            "name_alternative": [],
+            "description": "[Subaru](https://anilist.co/character/88573/Natsuki-Subaru)'s Earth Dragon that he officially received from [Crusch Karsten](https://anilist.co/character/90185/Karsten-Crusch) for his efforts in the Hakugei battle. Despite being of a species known for being feisty, Patrasche is extremely loyal to Subaru, as she is willing to put her life on the line for him."
+          }
+        },
+        {
+          "id": 181314,
+          "name": "Ricardo Welkin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b181314-OB2xgtbugqwZ.png",
+          "description": "",
+          "nicknames": [
+            "Ricardo Welkin",
+            "リカード・ウェルキン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "乃村健次",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95299-emNsgDYS4DBi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ricardo Welkin",
+            "name_native": "リカード・ウェルキン",
+            "name_alternative": [],
+            "description": "Ricardo Welkin is one of Anastasia Hoshin's followers and the captain of the mercenary group: Fang of Iron."
+          }
+        },
+        {
+          "id": 185043,
+          "name": "Lucas",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185043-sE8wxN5FrHHL.jpg",
+          "description": "",
+          "nicknames": [
+            "Lucas",
+            "リュカ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "芳野由奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127248-g8EDcsY0nX7n.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lucas",
+            "name_native": "リュカ",
+            "name_alternative": [],
+            "description": "Citizen of Irlam Village."
+          }
+        },
+        {
+          "id": 185044,
+          "name": "Ketty Muttart",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185044-9Ofs1dFdTP27.jpg",
+          "description": "",
+          "nicknames": [
+            "Ketty Muttart",
+            "ケティ・ムッタート"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "家中宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95477-zUeFZNtjTgap.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ketty Muttart",
+            "name_native": "ケティ・ムッタート",
+            "name_alternative": [],
+            "description": "Was a merchant and a member of the Witch Cult."
+          }
+        },
+        {
+          "id": 185045,
+          "name": "Raksha Risch",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185045-4Kw0YT6e7Ns6.jpg",
+          "description": "",
+          "nicknames": [
+            "Raksha Risch",
+            "ラクシャ・リッシュ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山村響",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107750-ncaOycwTveFP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Raksha Risch",
+            "name_native": "ラクシャ・リッシュ",
+            "name_alternative": [],
+            "description": "Wife of Kadomon Risch."
+          }
+        },
+        {
+          "id": 187763,
+          "name": "Tivey Pearlbaton",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187763-R4qQ7xhZ9JTP.png",
+          "description": "",
+          "nicknames": [
+            "Tivey Pearlbaton",
+            "ティビー・パールバトン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "下和田ヒロキ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95586-aPnJxZN3fKcZ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tivey Pearlbaton",
+            "name_native": "ティビー・パールバトン",
+            "name_alternative": [],
+            "description": "One of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group Fang of Iron."
+          }
+        },
+        {
+          "id": 203919,
+          "name": "Hetaro Pearlbaton",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203919-C4m7N3cBUfCw.png",
+          "description": "",
+          "nicknames": [
+            "Hetaro Pearlbaton",
+            "ヘータロー・パールバトン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "潘めぐみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hetaro Pearlbaton",
+            "name_native": "ヘータロー・パールバトン",
+            "name_alternative": [],
+            "description": "Hetaro Pearlbaton  is one of Anastasia Hoshin's followers and is one of the three vice captains of the mercenary group Fang of Iron."
+          }
+        },
+        {
+          "id": 205260,
+          "name": "Marcos Gildark",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205260-VWLQccRJmTfv.png",
+          "description": "",
+          "nicknames": [
+            "Marcos Gildark",
+            "マーコス・ギルダーク"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山本格",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/16959.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Marcos Gildark",
+            "name_native": "マーコス・ギルダーク",
+            "name_alternative": [],
+            "description": "Marcos Gildark is the captain of the Royal Guard and Knight Commander."
+          }
+        },
+        {
+          "id": 205261,
+          "name": "Kan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205261-v1HJzOXXVEJf.png",
+          "description": "",
+          "nicknames": [
+            "Kan",
+            "カン",
+            "Camberley (カンバリー)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山下大輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116971-KDHjlYPO4HrS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kan",
+            "name_native": "カン",
+            "name_alternative": [
+              "Camberley (カンバリー)"
+            ],
+            "description": "__Height:__ 130 cm (4'3\")\n\nCamberley, commonly known as Kan, is one of the three thugs that attacked Subaru.\n\n~! He later joined the [Felt](https://anilist.co/character/88574/Felt) Camp when Felt employed him after Royal Selection began. After being employed by Felt, he began getting trained by Reinhard and has developed considerable power. !~"
+          }
+        },
+        {
+          "id": 205262,
+          "name": "Gaston",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205262-4QkNpvgw0svU.png",
+          "description": "",
+          "nicknames": [
+            "Gaston",
+            "ガストン",
+            "Ton"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "稲田徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gaston",
+            "name_native": "ガストン",
+            "name_alternative": [
+              "Ton"
+            ],
+            "description": "Gaston, commonly known as Ton, is one of the three thugs that attacked Subaru.\n\n~! He later joined the [Felt](https://anilist.co/character/88574/Felt) Camp when Felt employed him after Royal Selection began. After being employed by Felt, he started to get trained by Reinhard and has developed considerable power. !~"
+          }
+        },
+        {
+          "id": 205582,
+          "name": "Temae",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205582-L17J97ryPKGT.png",
+          "description": "",
+          "nicknames": [
+            "Temae",
+            "テマエ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "木村亜希子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/467.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Temae",
+            "name_native": "テマエ",
+            "name_alternative": [],
+            "description": "Temae was Ram and Rem's mother.\n"
+          }
+        },
+        {
+          "id": 205583,
+          "name": "Setanta",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205583-hzc7pOCz0RDW.jpg",
+          "description": "",
+          "nicknames": [
+            "Setanta",
+            "セタンタ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "手塚秀彰",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105185-JPuDW9dX28ed.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Setanta",
+            "name_native": "セタンタ",
+            "name_alternative": [],
+            "description": "Setanta was the chief of the Oni Village Ram and Rem lived at when they were young.\n"
+          }
+        },
+        {
+          "id": 205584,
+          "name": "Quark",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205584-q2PkKhVgz3O0.png",
+          "description": "",
+          "nicknames": [
+            "Quark",
+            "クオーク"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "千葉進歩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95260-pKyM0LbhEznc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Quark",
+            "name_native": "クオーク",
+            "name_alternative": [],
+            "description": "Quark was Ram and Rem's father.\n"
+          }
+        },
+        {
+          "id": 218202,
+          "name": "Bordeaux Zellgef",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b218202-zCXaFinepDRV.png",
+          "description": "",
+          "nicknames": [
+            "Bordeaux Zellgef",
+            "ボルドー・ツェルゲフ",
+            "Mad Dog"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斉藤次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102914-7ygW5ZSwODbF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bordeaux Zellgef",
+            "name_native": "ボルドー・ツェルゲフ",
+            "name_alternative": [
+              "Mad Dog"
+            ],
+            "description": "Bordeaux Zellgef is a member of the Sage Council. During the Demi-Human war, he acted as the captain of the Zellgef Squadron. Four decades ago during the Demi-Human War, Bordeaux was a tall, muscular and somewhat frightening man, usually donned in heavy iron armour and wielding a massive battle axe. He had short and spiky light blue hair, and equally blue and thick eyebrows. His eyes radiated a strong fighting spirit."
+          }
+        },
+        {
+          "id": 226757,
+          "name": "Rickert Hoffman",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b226757-bzteWo2C4j8J.jpg",
+          "description": "",
+          "nicknames": [
+            "Rickert Hoffman",
+            "リッカートホフマン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "青山穣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96538-mM7J8gp87gut.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rickert Hoffman",
+            "name_native": "リッカートホフマン",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 226758,
+          "name": "Hitosashiyubi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b226758-MOQj5kr5GUIv.jpg",
+          "description": "",
+          "nicknames": [
+            "Hitosashiyubi",
+            "人差し指",
+            "First Finger"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日笠陽子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hitosashiyubi",
+            "name_native": "人差し指",
+            "name_alternative": [
+              "First Finger"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 354519,
+          "name": "Miklotov McMahon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b354519-0RCQ84r7RIh7.png",
+          "description": "",
+          "nicknames": [
+            "Miklotov McMahon",
+            "マイクロトフ・マクマホン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "清川元夢",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95333-11aYjXsaWLIp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miklotov McMahon",
+            "name_native": "マイクロトフ・マクマホン",
+            "name_alternative": [],
+            "description": "The representative of the Council of Wise Men who are currently ruling over the Dragon Kingdom of Lugunica. Many have considered Miklotov to be the true brains of the Kingdom who, in the event that the royal family were to disappear, would be a suitable replacement ruler."
+          }
+        },
+        {
+          "id": 127242,
+          "name": "Satella",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/127242-UVgHhBEnLAJn.png",
+          "description": "",
+          "nicknames": [
+            "Satella",
+            "サテラ",
+            "Witch of Envy"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋李依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Satella",
+            "name_native": "サテラ",
+            "name_alternative": [
+              "Witch of Envy"
+            ],
+            "description": "Satella is one of the Witches of Sin, being the Witch of Envy. ~! Contrary to popular belief, Satella and the Witch of Envy are separate personalities. Both of them love Subaru, though the Witch of Envy is aggressive about it.!~"
+          }
+        },
+        {
+          "id": 143378,
+          "name": "Frederica Baumann",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b143378-1pXqjZho4dhz.png",
+          "description": "",
+          "nicknames": [
+            "Frederica Baumann",
+            "フレデリカ・バウマン",
+            "Frederica Tinsel"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "名塚佳織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95078-tMm7zdlRNZ3P.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Frederica Baumann",
+            "name_native": "フレデリカ・バウマン",
+            "name_alternative": [
+              "Frederica Tinsel "
+            ],
+            "description": "Frederica Baumann is a maid working for [Roswaal L. Mathers](https://anilist.co/character/90182/Mathers-Roswaal) and a member of the Emilia Camp. She quit her job as a maid a few months before [Subaru's](https://anilist.co/character/88573/Natsuki-Subaru) appearance, but returned after [Ram](https://anilist.co/character/88576/Ram) couldn't manage the mansion ~!after [Rem](https://anilist.co/character/88575/Rem) had her name and memories eaten. !~\n\n~!She is the half-sister of [Garfiel Tinsel](https://anilist.co/character/133847/Tinsel-Garfiel).!~"
+          }
+        },
+        {
+          "id": 205259,
+          "name": "Schult",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205259-Pythrq9UT2h0.png",
+          "description": "",
+          "nicknames": [
+            "Schult",
+            "シュルト"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Schult",
+            "name_native": "シュルト",
+            "name_alternative": [],
+            "description": "Schult is a member of the Priscilla Camp. Though not much is known about him, he's extremely loyal to his mistress and is one of her closest attendants."
+          }
+        },
+        {
+          "id": 205881,
+          "name": "Chamov",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205881-N0M5seiqPYyf.jpg",
+          "description": "",
+          "nicknames": [
+            "Chamov",
+            "チャモフ"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Chamov",
+            "name_native": "チャモフ",
+            "name_alternative": [],
+            "description": "Chamov is a puppy demihuman, with white hair, blue eyes, and an amiable puppy face. He typically likes to wear a hat."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+[
+  {
+    "verifiedAt": "2026-10-04T15:30:53.099Z",
+    "curatedFile": "scripts/new_anime_curated_batch11.js",
+    "anime": [
+      {
+        "id": 5530,
+        "title": "潘朵拉之心",
+        "count": 19,
+        "excluded": [
+          {
+            "id": 21420,
+            "name": "阿嵬茨的意志",
+            "reason": "AniList 图片无 hash"
+          },
+          {
+            "id": 24007,
+            "name": "扎伊·贝萨流士",
+            "reason": "AniList 图片无 hash"
+          },
+          {
+            "id": 25151,
+            "name": "方",
+            "reason": "AniList 日配头像无 hash"
+          },
+          {
+            "id": 25152,
+            "name": "达格",
+            "reason": "人物资料不足，尚不能核实八项独立特征"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/5530"
+        ]
+      },
+      {
+        "id": 166710,
+        "title": "异世界自杀小队",
+        "count": 16,
+        "excluded": [
+          {
+            "name": "巫妖",
+            "reason": "官网已核实，AniList 未找到与作品关联的角色和图片"
+          },
+          {
+            "id": 338934,
+            "name": "亚当",
+            "reason": "缺少足够人物资料"
+          },
+          {
+            "id": 338935,
+            "name": "韦德看守长",
+            "reason": "缺少足够人物资料"
+          },
+          {
+            "id": 338939,
+            "name": "银行职员",
+            "reason": "缺少足够人物资料"
+          },
+          {
+            "name": "兽人儿童、精灵儿童、工作人员A/B/C",
+            "reason": "AniList 只有默认头像且无人物简介"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/166710",
+          "https://wwws.warnerbros.co.jp/suicidesquad-isekai/character/"
+        ]
+      }
+    ],
+    "insertedCharacters": 0,
+    "insertedVoiceActors": 0,
+    "updatedCharacters": 2,
+    "verifiedCharacters": 35,
+    "verifiedVoiceActors": 35
+  },
+  {
+    "verifiedAt": "2026-10-04T15:33:44.424Z",
+    "curatedFile": "scripts/new_anime_curated_batch11.js",
+    "anime": [
+      {
+        "id": 21439,
+        "title": "圣洁天使",
+        "count": 19,
+        "excluded": [
+          {
+            "name": "索菲娜",
+            "reason": "AniList 角色或日配图片不符合 hash 要求"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/21439",
+          "https://ange-vierge-anime.com/character/"
+        ]
+      }
+    ],
+    "insertedCharacters": 19,
+    "insertedVoiceActors": 19,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 19,
+    "verifiedVoiceActors": 19
+  },
+  {
+    "verifiedAt": "2026-10-04T15:36:00.461Z",
+    "curatedFile": "scripts/new_anime_curated_batch11.js",
+    "anime": [
+      {
+        "id": 21298,
+        "title": "南镰仓高校女子自行车社",
+        "count": 8,
+        "excluded": [],
+        "references": [
+          "https://anilist.co/anime/21298",
+          "https://minakama-anime.jp/character/"
+        ]
+      }
+    ],
+    "insertedCharacters": 8,
+    "insertedVoiceActors": 8,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 8,
+    "verifiedVoiceActors": 8
+  },
+  {
+    "verifiedAt": "2026-10-04T15:38:46.345Z",
+    "curatedFile": "scripts/new_anime_curated_batch11.js",
+    "anime": [
+      {
+        "id": 9330,
+        "title": "龙之界点",
+        "count": 11,
+        "excluded": [
+          {
+            "id": 41438,
+            "name": "凯",
+            "reason": "AniList 日配头像无 hash"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/9330"
+        ]
+      }
+    ],
+    "insertedCharacters": 11,
+    "insertedVoiceActors": 11,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 11,
+    "verifiedVoiceActors": 11
+  }
+]

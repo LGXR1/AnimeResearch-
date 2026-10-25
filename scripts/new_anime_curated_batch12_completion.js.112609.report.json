@@ -1,0 +1,32 @@
+{
+  "verifiedAt": "2026-10-05T06:38:13.761Z",
+  "curatedFile": "scripts/new_anime_curated_batch12_completion.js",
+  "anime": [
+    {
+      "id": 112609,
+      "title": "魔女之旅",
+      "count": 17,
+      "excluded": [
+        {
+          "name": "其他城镇居民、守卫、父母及背景人物",
+          "reason": "部分图片无hash；其余人物缺少足够独立资料，暂缓而不臆造"
+        },
+        {
+          "name": "艾维莉亚",
+          "reason": "本轮AniList动画快照未含角色关联，后续补查"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/112609",
+        "https://majotabi.jp/#Character",
+        "https://zh.wikipedia.org/wiki/魔女之旅",
+        "https://mod.cht.com.tw/modweb/product/259226.do"
+      ]
+    }
+  ],
+  "insertedCharacters": 17,
+  "insertedVoiceActors": 17,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 17,
+  "verifiedVoiceActors": 17
+}

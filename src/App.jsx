@@ -3,14 +3,18 @@ import SearchPage from './pages/SearchPage'
 import SearchResultsPage from './pages/SearchResultsPage'
 import CharacterDetailPage from './pages/CharacterDetailPage'
 import NotFoundPage from './pages/NotFoundPage'
+import VisitCounter from './components/VisitCounter'
 
 export default function App() {
   return (
-    <Routes>
-      <Route path="/" element={<SearchPage />} />
-      <Route path="/search" element={<SearchResultsPage />} />
-      <Route path="/character/:id" element={<CharacterDetailPage />} />
-      <Route path="*" element={<NotFoundPage />} />
-    </Routes>
+    <>
+      <Routes>
+        <Route path="/" element={<SearchPage />} />
+        <Route path="/search" element={<SearchResultsPage />} />
+        <Route path="/character/:id" element={<CharacterDetailPage />} />
+        <Route path="*" element={<NotFoundPage />} />
+      </Routes>
+      <VisitCounter />
+    </>
   )
 }

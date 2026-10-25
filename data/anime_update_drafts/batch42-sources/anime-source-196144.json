@@ -1,0 +1,755 @@
+{
+  "id": 196144,
+  "title": {
+    "romaji": "Snowball Earth",
+    "english": "SNOWBALL EARTH",
+    "native": "スノウボールアース"
+  },
+  "synonyms": [
+    "สโนว์บอลเอิร์ธ",
+    "Земля-снежок"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2026,
+    "month": 4,
+    "day": 3
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Mecha",
+    "Sci-Fi"
+  ],
+  "popularity": 15305,
+  "characters": [
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 36309,
+        "name": {
+          "full": "Narrator",
+          "native": "ナレーター",
+          "alternative": [
+            "Katarite (語り手)",
+            "Narration (ナレーション)",
+            "Narrador",
+            "Rozprávač",
+            "Vyprávěč",
+            "Dış ses",
+            "Narratore",
+            "Pripovjedač",
+            "Narradora",
+            "Рассказчик",
+            "Người dẫn chuyện",
+            "Tagapagsalaysay",
+            "내레이터",
+            "Narratore",
+            "Erzählperson",
+            "מספר",
+            "Narrátor",
+            "讲述人",
+            "راوي",
+            "Forteller",
+            "Berättare",
+            "Αφηγητής",
+            "Narrate"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+        },
+        "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119185,
+          "name": {
+            "full": "Shunsuke Takeuchi",
+            "native": "武内駿輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119185-65kkxuTRxAgo.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 242827,
+        "name": {
+          "full": "Tetsuo Yabusame",
+          "native": "流鏑馬鉄男",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b242827-yU5joZqemtCU.png"
+        },
+        "description": "A young pilot who fights against galactic monsters with his robot partner [Yukio](https://anilist.co/character/242828/Yukio). He belongs to the anti-monster battle front \"E-RDE\" and is known as the \"savior\" who protects the Earth. He is extremely shy and has no friends other than Yukio, but his abilities are well-known.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106662,
+          "name": {
+            "full": "Takuto Yoshinaga",
+            "native": "吉永拓斗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106662-vMH32seE8gq5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 382685,
+        "name": {
+          "full": "Ao Nogi",
+          "native": "乃木蒼",
+          "alternative": [
+            "Chief Nogi"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b382685-XDzhN8qw4AAn.png"
+        },
+        "description": "A curious kaiju tamer who lives in Mishima Mall. She controls a fiery monster called \"Human Earth\" to protect the village. She also serves as the mall's accounting manager, but is often scolded for skipping work.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95070,
+          "name": {
+            "full": "Ami Koshimizu",
+            "native": "小清水亜美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 242828,
+        "name": {
+          "full": "Yukio",
+          "native": "ユキオ",
+          "alternative": [
+            "Earth Defense Robot Snowman",
+            "Snowman"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b242828-ssrhBGNw5HTh.jpg"
+        },
+        "description": "[Tetsuo's](https://anilist.co/character/242827/Tetsuo-Yabusame) partner and the robot that battles galactic monsters. A kind-hearted character who looks after Tetsuo, who struggles with communication.\n\n~!He self-destructed in battle, but transmitted all his data to an escape pod and was restored.!~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95183,
+          "name": {
+            "full": "Daisuke Hirakawa",
+            "native": "平川大輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95183-5C42gbrKIP7L.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 382684,
+        "name": {
+          "full": "Hagane Takimura",
+          "native": "瀧村矧音",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b382684-jpiF3U875hbI.png"
+        },
+        "description": "The eldest daughter of the Takimura family living in Mishima Mall. An engineer who inherited her mother's passion for research, possessing advanced technical skills sufficient to create close-combat weapons against kaiju. Her natural cheerfulness allowed her to quickly warm up to the shy [Tetsuo](https://anilist.co/character/242827/Tetsuo-Yabusame).",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 278499,
+          "name": {
+            "full": "Konomi Tamura",
+            "native": "田村好"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n278499-FXysdARUxoz9.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 396160,
+        "name": {
+          "full": "Tamiya Sakurai",
+          "native": "桜井多見哉",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b396160-5cexdwbZpFPx.png"
+        },
+        "description": "A member of the \"Light of E-RDE (Vierde).\" He controls a kaiju called \"Eros (Marshal's Arrow)\" and calmly and coolly picks off his targets.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 167563,
+          "name": {
+            "full": "Tomohiro Oono",
+            "native": "大野智敬"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167563-2Vh9UK4sFLFm.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 396164,
+        "name": {
+          "full": "Isseki Sagami",
+          "native": "相模逸石",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b396164-SvAEHwY0NcAX.png"
+        },
+        "description": "He is the leader of a group of kaiju tamers known as the \"Light of E-RDE (Vierde).\" He harbors a strong hatred for [Tetsuo](https://anilist.co/character/242827/Tetsuo-Yabusame), their \"savior.\" He controls a kaiju called \"Hercules, the Sword of the Marshal.\"",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95002,
+          "name": {
+            "full": "Tomokazu Sugita",
+            "native": "杉田智和"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 396167,
+        "name": {
+          "full": "Yuma Uzuki",
+          "native": "卯月ゆま",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b396167-FCgBtUvK9zG4.png"
+        },
+        "description": "A member of the \"Light of E-RDE (Vierde),\" she has a stronger admiration for Sagami than anyone else. She controls a kaiju called \"Artemis (Eye of the Commander).\"",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 396166,
+          "name": {
+            "full": "Manami Narahira",
+            "native": "奈良平愛実"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n396166-wA4F4M8QYcqz.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 396165,
+        "name": {
+          "full": "Riko Akagi",
+          "native": "赤城莉子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b396165-vEvnnPFcToxj.png"
+        },
+        "description": "A member of the \"Light of E-RDE (Vierde)\", she is fascinated by Sagami and has a personality that is not afraid to make ruthless decisions. She controls a kaiju called \"Aphrodite, the Rope of the Commander\".",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 127542,
+          "name": {
+            "full": "Maki Kawase",
+            "native": "河瀬茉希"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n127542-rHFIx0NCHfsU.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408135,
+        "name": {
+          "full": "Nadare",
+          "native": "雪崩",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408135-yovD5wK1ZTss.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119821,
+          "name": {
+            "full": "Rika Kinugawa",
+            "native": "衣川里佳"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119821-q3681hu03ayO.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 396161,
+        "name": {
+          "full": "Makoto Saionji",
+          "native": "西園寺真琴",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b396161-q7ai8kwtRsGl.png"
+        },
+        "description": "A member of the \"Light of E-RDE (Vierde)\", he wears a monster costume and controls a kaiju called \"Hephaestus (Cauldron of the Marshal)\".",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119813,
+          "name": {
+            "full": "Chitose Morinaga",
+            "native": "森永千才"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119813-M3X0yu8k0MGB.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 396162,
+        "name": {
+          "full": "Nayuta Izumi",
+          "native": "泉那由他",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b396162-v3tU339Pcv4F.png"
+        },
+        "description": "A member of the \"Light of E-RDE (Vierde).\" A militant warrior, he controls a kaiju called \"Ares (Fist of the Commander).\"",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 110877,
+          "name": {
+            "full": "Kengo Kawanishi",
+            "native": "河西健吾"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110877-8mqVadVTaFl4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 396163,
+        "name": {
+          "full": "Otoichi Kinoe",
+          "native": "甲乙一",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b396163-sVGMK4M6ljZI.png"
+        },
+        "description": "A member of the \"Light of E-RDE (Vierde),\" he serves as a sort of strategist beside Sagami. He controls a monster called \"Hermès (Hermès),\" the Marshal's Swift Runner.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 182100,
+          "name": {
+            "full": "Anna Nagase",
+            "native": "永瀬アンナ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n182100-drkeWjMKToYg.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408130,
+        "name": {
+          "full": "Tadashi Furumachi",
+          "native": "古町正",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408130-PNSn5kXM0Qap.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 143864,
+          "name": {
+            "full": "Hayato Kaneko",
+            "native": "金子隼人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n143864-NY8jmqTZhPlv.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408131,
+        "name": {
+          "full": "Kashiki",
+          "native": "樫木",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408131-YnrIImArDkCX.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95221,
+          "name": {
+            "full": "Kentarou Itou",
+            "native": "伊藤健太郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95221-b7nCzXAoQgIy.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408132,
+        "name": {
+          "full": "Ningen no Daichi",
+          "native": "人間の大地",
+          "alternative": [
+            "Land of Men"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408132-xPKEE1JwB3Rc.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96659,
+          "name": {
+            "full": "Tooru Nara",
+            "native": "奈良徹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96659-zLvDfHLoxCne.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408133,
+        "name": {
+          "full": "Lonely Iwaki",
+          "native": "ロンリー岩木",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408133-pxwMxwElMe00.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 123450,
+          "name": {
+            "full": "Ryouta Suzuki",
+            "native": "鈴木崚汰"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123450-Hmi5iu3KDHwc.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408134,
+        "name": {
+          "full": "Mist",
+          "native": "ミスト",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408134-zoS5nGcZbrGT.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 221711,
+          "name": {
+            "full": "Momoko Notomi",
+            "native": "納冨ももこ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n221711-5PAoBShRTFwo.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408136,
+        "name": {
+          "full": "Nishimura",
+          "native": "西村",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408136-7FB0ZZs17dfe.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118511,
+          "name": {
+            "full": "Satoshi Mikami",
+            "native": "三上哲"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118511-htoA4dCjugsd.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408137,
+        "name": {
+          "full": "Shimojima",
+          "native": "下島",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408137-tA1ETp0w1EjW.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 191128,
+          "name": {
+            "full": "Hiroya Egashira",
+            "native": "江頭宏哉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n191128-QvdPhpQFWULM.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408138,
+        "name": {
+          "full": "Asuka Shinjou",
+          "native": "新條明日",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408138-zpT9lI0E0sLI.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 296335,
+          "name": {
+            "full": "Shuri Miyumi",
+            "native": "海弓シュリ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n296335-D9OyS2sKVh5a.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408139,
+        "name": {
+          "full": "Jouji Takimura",
+          "native": "瀧村丈二",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408139-93rsLubAjfqR.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119740,
+          "name": {
+            "full": "Natsumi Fujiwara",
+            "native": "藤原夏海"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119740-EEZ5DErQhOht.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408140,
+        "name": {
+          "full": "Korezou Takimura",
+          "native": "瀧村是造",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408140-pgruWZUs35xG.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95299,
+          "name": {
+            "full": "Kenji Nomura",
+            "native": "乃村健次"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95299-emNsgDYS4DBi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 408141,
+        "name": {
+          "full": "Suzu Takimura",
+          "native": "瀧村すず",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b408141-Ak4cq19VSasm.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95076,
+          "name": {
+            "full": "Akemi Okamura",
+            "native": "岡村明美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95076-itRGy8F3x5Em.png"
+          }
+        }
+      ]
+    }
+  ]
+}

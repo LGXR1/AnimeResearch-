@@ -1,0 +1,698 @@
+{
+  "checkedAt": "2026-10-22T07:58:29.670Z",
+  "batchStatus": "reviewed_with_followups",
+  "checkedCount": 100,
+  "checkedIds": [
+    201746,
+    202153,
+    202154,
+    202155,
+    202156,
+    202157,
+    202158,
+    202401,
+    202488,
+    202665,
+    202667,
+    202863,
+    202982,
+    202984,
+    202985,
+    203119,
+    203120,
+    203167,
+    203210,
+    203213,
+    203214,
+    203268,
+    203269,
+    203384,
+    203438,
+    203559,
+    203563,
+    203655,
+    203656,
+    203657,
+    203658,
+    203662,
+    203965,
+    204143,
+    204182,
+    204185,
+    204186,
+    204187,
+    204189,
+    204190,
+    204204,
+    204293,
+    204416,
+    204418,
+    204421,
+    204422,
+    204443,
+    204456,
+    204457,
+    204458,
+    204495,
+    204496,
+    204522,
+    204523,
+    204530,
+    204540,
+    204554,
+    204807,
+    204808,
+    204860,
+    204987,
+    205035,
+    205036,
+    205044,
+    205046,
+    205047,
+    205053,
+    205054,
+    205055,
+    205177,
+    205373,
+    205374,
+    205375,
+    205376,
+    205434,
+    205447,
+    205448,
+    205449,
+    205450,
+    205451,
+    205452,
+    205453,
+    205566,
+    205567,
+    205568,
+    205569,
+    205570,
+    205571,
+    205579,
+    205705,
+    205706,
+    205707,
+    205710,
+    205711,
+    205771,
+    205878,
+    205904,
+    206062,
+    206067,
+    206074
+  ],
+  "checkedRange": {
+    "firstId": 201746,
+    "lastId": 206074
+  },
+  "profileSnapshotVerifiedCount": 24,
+  "profileDescriptionAvailableCount": 20,
+  "modifiedIds": [
+    203119,
+    203120,
+    203384,
+    203655,
+    203656,
+    203657,
+    203658,
+    203662,
+    204293,
+    205374,
+    205376,
+    205566,
+    205567,
+    205568,
+    205569,
+    205570,
+    205571
+  ],
+  "source": {
+    "name": "AniList GraphQL 角色资料快照（本地缓存 + 2026-10-22 实时补查）",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "voiceMediaFetchedAt": "2026-10-13T03:04:01.115Z",
+    "records": [
+      {
+        "id": 201746,
+        "url": "https://anilist.co/character/201746"
+      },
+      {
+        "id": 202401,
+        "url": "https://anilist.co/character/202401"
+      },
+      {
+        "id": 202488,
+        "url": "https://anilist.co/character/202488"
+      },
+      {
+        "id": 202982,
+        "url": "https://anilist.co/character/202982"
+      },
+      {
+        "id": 202984,
+        "url": "https://anilist.co/character/202984"
+      },
+      {
+        "id": 202985,
+        "url": "https://anilist.co/character/202985"
+      },
+      {
+        "id": 203438,
+        "url": "https://anilist.co/character/203438"
+      },
+      {
+        "id": 203559,
+        "url": "https://anilist.co/character/203559"
+      },
+      {
+        "id": 203965,
+        "url": "https://anilist.co/character/203965"
+      },
+      {
+        "id": 204443,
+        "url": "https://anilist.co/character/204443"
+      },
+      {
+        "id": 205434,
+        "url": "https://anilist.co/character/205434"
+      },
+      {
+        "id": 205447,
+        "url": "https://anilist.co/character/205447"
+      },
+      {
+        "id": 205448,
+        "url": "https://anilist.co/character/205448"
+      },
+      {
+        "id": 205449,
+        "url": "https://anilist.co/character/205449"
+      },
+      {
+        "id": 205450,
+        "url": "https://anilist.co/character/205450"
+      },
+      {
+        "id": 205451,
+        "url": "https://anilist.co/character/205451"
+      },
+      {
+        "id": 205452,
+        "url": "https://anilist.co/character/205452"
+      },
+      {
+        "id": 205453,
+        "url": "https://anilist.co/character/205453"
+      },
+      {
+        "id": 205579,
+        "url": "https://anilist.co/character/205579"
+      },
+      {
+        "id": 205771,
+        "url": "https://anilist.co/character/205771"
+      },
+      {
+        "id": 205878,
+        "url": "https://anilist.co/character/205878"
+      },
+      {
+        "id": 206062,
+        "url": "https://anilist.co/character/206062"
+      },
+      {
+        "id": 206067,
+        "url": "https://anilist.co/character/206067"
+      },
+      {
+        "id": 206074,
+        "url": "https://anilist.co/character/206074"
+      }
+    ],
+    "round23FetchedAt": "2026-10-22T08:12:12.134Z",
+    "voiceMediaRound23": "2026-10-22T08:13:37.394Z",
+    "voiceStaffSearchRound23B": "2026-10-22T08:42:40.218Z"
+  },
+  "pendingExternalVerificationIds": [],
+  "pendingProfileNoDescriptionIds": [
+    202157,
+    202158,
+    202984,
+    202985,
+    203559,
+    203965,
+    204293,
+    204540,
+    205035,
+    205036,
+    205044,
+    205046,
+    205047,
+    205373,
+    205375,
+    205376
+  ],
+  "pendingShortDescriptionIds": [
+    203119,
+    203120,
+    203384,
+    204293,
+    205567,
+    205568,
+    205569,
+    205570,
+    205571
+  ],
+  "pendingDescriptionQualityIds": [
+    203655,
+    203656,
+    203657,
+    203658,
+    203662,
+    204495,
+    204496,
+    205035,
+    205036,
+    205044,
+    205046,
+    205047,
+    205373,
+    205374,
+    205375,
+    205376
+  ],
+  "pendingTraitVerificationIds": [
+    202401,
+    202488,
+    203658,
+    203662,
+    203965,
+    204143,
+    204418,
+    204495,
+    204496,
+    204522,
+    204523,
+    204530,
+    204540,
+    204554,
+    204807,
+    204808,
+    204860,
+    205035,
+    205036,
+    205044,
+    205046,
+    205047,
+    205373,
+    205374,
+    205375,
+    205376,
+    205434,
+    205579
+  ],
+  "pendingExactGenericTraitIds": [
+    203119,
+    203120,
+    203658,
+    203662,
+    204143,
+    204293,
+    204495,
+    204496,
+    204522,
+    204523,
+    204530,
+    204540,
+    204554,
+    204807,
+    204808,
+    204860,
+    205035,
+    205036,
+    205044,
+    205046,
+    205047,
+    205373,
+    205374,
+    205375,
+    205376,
+    205566,
+    205567,
+    205569,
+    205570,
+    205571
+  ],
+  "pendingVoiceActorIds": [
+    203658
+  ],
+  "pendingVoiceActorImageIds": [
+    205036,
+    205044,
+    205046
+  ],
+  "pendingVisualVerificationIds": [],
+  "pendingColorTraitKeywordIds": [],
+  "pendingImageMismatchIds": [],
+  "localFollowup": {
+    "nicknameIssuesResolved": [
+      203119,
+      203120,
+      203384,
+      203655,
+      203656,
+      203657,
+      203658,
+      203662,
+      204293,
+      205374,
+      205376,
+      205566,
+      205567,
+      205568,
+      205569,
+      205570,
+      205571
+    ],
+    "voiceActorImagesRepaired": [],
+    "characterImagesRefreshed": [],
+    "factualCorrections": [],
+    "searchIndex": {
+      "rebuilt": true,
+      "formulaVerified": true,
+      "descriptionExcluded": true,
+      "mismatchCountBeforeRebuild": 17
+    },
+    "localExportsRegenerated": true,
+    "nicknameAudit": {
+      "checkedCount": 100,
+      "duplicateCountAfter": 0,
+      "canonicalAniListNameMissingAfter": 0
+    },
+    "anilistProfilesRefetched": [
+      201746,
+      202401,
+      202488,
+      202982,
+      202984,
+      202985,
+      203438,
+      203559,
+      203965,
+      204443,
+      205434,
+      205447,
+      205448,
+      205449,
+      205450,
+      205451,
+      205452,
+      205453,
+      205579,
+      205771,
+      205878,
+      206062,
+      206067,
+      206074
+    ],
+    "anilistDescriptionsAvailable": [
+      201746,
+      202401,
+      202488,
+      202982,
+      203438,
+      204443,
+      205434,
+      205447,
+      205448,
+      205449,
+      205450,
+      205451,
+      205452,
+      205453,
+      205579,
+      205771,
+      205878,
+      206062,
+      206067,
+      206074
+    ],
+    "officialAliasesAdded": [],
+    "officialCharacterImagesRefreshed": [],
+    "searchIndexRebuiltForProfileChanges": [],
+    "voiceActorImagesFetchedRound23": [
+      {
+        "characterId": 203384,
+        "voiceActor": "石见舞菜香",
+        "anilistName": "石見舞菜香"
+      }
+    ],
+    "voiceActorImagesFetchedAt": "2026-10-22T08:13:37.394Z",
+    "visualImageAuditRound23": {
+      "checkedAt": "2026-10-22T08:32:24.195Z",
+      "source": "逐张检查 AniList 官方角色头像；图片与角色链接见 visual-audit-round23/manifest.json",
+      "reviewedIds": [
+        203119,
+        203120,
+        203384,
+        203655,
+        203656,
+        203657,
+        203658,
+        203662,
+        204293,
+        205566,
+        205567,
+        205568,
+        205569,
+        205570,
+        205571
+      ],
+      "colorCorrections": [
+        {
+          "id": 203119,
+          "name": "安妮丝菲亚",
+          "anime": "转生王女与天才千金的魔法革命",
+          "beforeColorTraits": [
+            "粉发",
+            "粉瞳"
+          ],
+          "afterColorTraits": [
+            "金发",
+            "绿瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203119-1vybpGB6PaEh.png"
+        },
+        {
+          "id": 203120,
+          "name": "尤菲莉亚",
+          "anime": "转生王女与天才千金的魔法革命",
+          "beforeColorTraits": [
+            "银发",
+            "蓝瞳"
+          ],
+          "afterColorTraits": [
+            "白发",
+            "紫瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203120-8vNUsyywkAn9.png"
+        },
+        {
+          "id": 203384,
+          "name": "黑川茜",
+          "anime": "我推的孩子",
+          "beforeColorTraits": [
+            "黑发",
+            "蓝色眼瞳"
+          ],
+          "afterColorTraits": [
+            "紫发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203384-YuSppFDMw2wn.png"
+        },
+        {
+          "id": 203655,
+          "name": "格奥尔基·波波维奇",
+          "anime": "冰上的尤里",
+          "beforeColorTraits": [
+            "黑发",
+            "灰眼"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203655-ABwPb2Z43Eto.jpg"
+        },
+        {
+          "id": 203656,
+          "name": "莉莉娅·巴兰诺夫斯卡雅",
+          "anime": "冰上的尤里",
+          "beforeColorTraits": [
+            "银发",
+            "蓝眼"
+          ],
+          "afterColorTraits": [
+            "黑发",
+            "灰瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203656-nIb8zW84egaQ.jpg"
+        },
+        {
+          "id": 203657,
+          "name": "季光虹",
+          "anime": "冰上的尤里",
+          "beforeColorTraits": [
+            "黑发",
+            "棕眼"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203657-QaboiwP93K85.jpg"
+        },
+        {
+          "id": 203658,
+          "name": "安娅",
+          "anime": "冰上的尤里",
+          "beforeColorTraits": [
+            "金发",
+            "棕眼"
+          ],
+          "afterColorTraits": [
+            "黑发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203658-2A8oAT32tfBi.jpg"
+        },
+        {
+          "id": 204293,
+          "name": "布雷德",
+          "anime": "回复术士的重来人生",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "金发",
+            "绿瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204293-RmER90bkY1Wz.png"
+        },
+        {
+          "id": 205567,
+          "name": "藤宫澄夏",
+          "anime": "异世界归来的舅舅",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "灰瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205567-rrbwLRpGW2Yj.jpg"
+        },
+        {
+          "id": 205568,
+          "name": "高冈贵文",
+          "anime": "异世界归来的舅舅",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "灰瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205568-fFzXaTbrukNh.png"
+        },
+        {
+          "id": 205569,
+          "name": "梅贝尔·雷贝尔",
+          "anime": "异世界归来的舅舅",
+          "beforeColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "afterColorTraits": [
+            "银发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205569-uFcBLlhb3pM2.jpg"
+        },
+        {
+          "id": 205570,
+          "name": "精灵翠",
+          "anime": "异世界归来的舅舅",
+          "beforeColorTraits": [
+            "金发",
+            "绿瞳"
+          ],
+          "afterColorTraits": [
+            "绿发",
+            "绿瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205570-eZr6Ac7NBd0L.jpg"
+        },
+        {
+          "id": 205571,
+          "name": "艾莉西亚·埃德卢西亚",
+          "anime": "异世界归来的舅舅",
+          "beforeColorTraits": [
+            "银发",
+            "蓝瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "紫瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b205571-pup5B6tpG1Cp.jpg"
+        }
+      ],
+      "pendingIds": []
+    },
+    "factualCorrectionsRound23": [],
+    "voiceActorImagesResolvedFromAniListStaffRound23B": [
+      {
+        "characterId": 205035,
+        "voiceActor": "李元韬",
+        "aniListStaffId": 188524
+      },
+      {
+        "characterId": 205047,
+        "voiceActor": "梁达伟",
+        "aniListStaffId": 188475
+      }
+    ],
+    "voiceActorStaffSearchRound23B": "2026-10-22T08:42:40.218Z",
+    "supabaseSyncRound23B": {
+      "verifiedAt": "2026-10-22T09:08:41.849Z",
+      "voiceActorImagesSynced": 2,
+      "characterIdsSynced": [],
+      "placeholderVoiceActorRemoved": false
+    }
+  },
+  "note": "本轮可唯一对应的 AniList 声优头像已补入；莉莉的残缺及泛化特征已清理。其余待核项仅在来源不足时保留。",
+  "scopeLimitations": [
+    "发色、瞳色没有逐图目视核验。",
+    "短简介、模板简介和泛化特征在缺少可靠事实来源时未改写。",
+    "本次只更新本地文件；Supabase 未同步，远端数据未回读。",
+    "AniList 实时接口仅未返回合成占位 ID 990000001；该记录继续标为待核。",
+    "AniList 未提供简介的角色仍需其他可靠人物资料来源；未根据作品简介推造人物传记。"
+  ],
+  "databaseSync": {
+    "syncedAt": null,
+    "syncedCount": 0,
+    "readbackVerified": false,
+    "status": "not_synced"
+  },
+  "syncAttempt": {
+    "attemptedThisTurn": false,
+    "reason": "本轮仅处理本地缓存与导出，没有向 Supabase 发起写入。"
+  }
+}

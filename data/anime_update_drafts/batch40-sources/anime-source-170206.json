@@ -1,0 +1,1895 @@
+{
+  "fetchedAt": "2026-10-25T02:49:47.092Z",
+  "id": 170206,
+  "title": {
+    "romaji": "Scott Pilgrim Takes Off",
+    "english": "Scott Pilgrim Takes Off",
+    "native": "スコット・ピルグリム テイクス・オフ"
+  },
+  "synonyms": [
+    "Scott Pilgrim zaskakuje",
+    "Scott Pilgrim da el salto",
+    "Σκοτ Πίλγκριμ: Η Σειρά",
+    "Скотт Пилигрим жмет на газ",
+    "Scott Pilgrim: A Série",
+    "Scott Pilgrim prend son envol",
+    "Скотт Пілігрим стає до бою",
+    "Scott Pilgrim hebt ab",
+    "سكوت بيلغرام يمضي قدمًا",
+    "Scott Pilgrim prend son envol",
+    "Scott Pilgrim: La serie",
+    "스콧 필그림, 날아오르다!",
+    "Scott Pilgrim nu se lasă",
+    "สก็อตต์ พิลกริมออกสตาร์ท"
+  ],
+  "format": "ONA",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2023,
+    "month": 11,
+    "day": 17
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Romance",
+    "Supernatural"
+  ],
+  "description": "<i>When girl meets boy, love takes off...</i>\n<br><br>\n\nScott Pilgrim meets the girl of his dreams, Ramona Flowers, but learns he must defeat her seven evil exes in order to date her. Then things get even more complicated. Based on the graphic novels by Bryan Lee O'Malley. <br><br>\n\n(Source: Science Saru, Netflix)",
+  "siteUrl": "https://anilist.co/anime/170206",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 317364,
+        "name": {
+          "full": "Ramona Flowers",
+          "native": "ラモーナ・フラワーズ",
+          "alternative": [
+            "Rammy",
+            "Ramona Victoria Flowers"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317364-IlSYOQCSmsMY.png"
+        },
+        "description": "American expatriate who lived in New York and now works as a \"Ninja delivery girl\" in Canada.",
+        "gender": "Female",
+        "age": "24"
+      },
+      "voiceActors": [
+        {
+          "id": 133625,
+          "name": {
+            "full": "Fairouz Ai",
+            "native": "ファイルーズあい"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n133625-YpEgKD7flV2S.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317366,
+        "name": {
+          "full": "Wallace Wells",
+          "native": "ウォレス・ウェルズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317366-1RPjPshcKdJs.png"
+        },
+        "description": "Scott's cool gay roommate.",
+        "gender": "Male",
+        "age": "25"
+      },
+      "voiceActors": [
+        {
+          "id": 175016,
+          "name": {
+            "full": "Masaya Fukunishi",
+            "native": "福西勝也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n175016-ehNBIRIxCScY.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 317362,
+        "name": {
+          "full": "Scott Pilgrim",
+          "native": "スコット・ピルグリム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317362-vAf7EUPirt52.jpg"
+        },
+        "description": "Bass player for the band *Sex Bob-Omb* with his friends [Stephen Stills](https://anilist.co/character/317372) and [Kim Pine](https://anilist.co/character/317384). Formerly dated rock star [Envy Adams](https://anilist.co/character/317368), lead singer and keyboardist for the band *The Clash at Demonhead.* He believes that smoking is evil, drinks \"only on occasions\", and he doesn't hit girls.",
+        "gender": "Male",
+        "age": "23"
+      },
+      "voiceActors": [
+        {
+          "id": 95356,
+          "name": {
+            "full": "Hiro Shimono",
+            "native": "下野紘"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png"
+          }
+        },
+        {
+          "id": 95284,
+          "name": {
+            "full": "Fumihiko Tachiki",
+            "native": "立木文彦"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95284-k97k9dULn4vr.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317384,
+        "name": {
+          "full": "Kim Pine",
+          "native": "キム・パイン",
+          "alternative": [
+            "Kimberly Pine",
+            "The drummer"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317384-G43VjPrILNYA.png"
+        },
+        "description": "Scott's high school friend and drummer of Sex Bob-Omb. She was Scott's first girlfriend, whom he \"saved\" from Simon Lee. Kim has a sarcastic personality and dislikes many people. She is employed at No-Account Video throughout the series.",
+        "gender": "Female",
+        "age": "23"
+      },
+      "voiceActors": [
+        {
+          "id": 107238,
+          "name": {
+            "full": "Tomo Muranaka",
+            "native": "村中知"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107238-dDJNRNH3N4yy.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317392,
+        "name": {
+          "full": "Knives Chau",
+          "native": "ナイフ・チャウ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317392-r7IzgHk02EVw.png"
+        },
+        "description": "Chinese-Canadian high school girl and self-described \"Scottaholic.\"",
+        "gender": "Female",
+        "age": "17"
+      },
+      "voiceActors": [
+        {
+          "id": 123268,
+          "name": {
+            "full": "Aoi Koga",
+            "native": "古賀葵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123268-zIZLjZ5Xfbk4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317394,
+        "name": {
+          "full": "Young Neil",
+          "native": "ヤング・ニール",
+          "alternative": [
+            "Neil Nordegraf"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317394-amrAHyIeVNke.png"
+        },
+        "description": "Stephen Stills' roommate.",
+        "gender": "Male",
+        "age": "20"
+      },
+      "voiceActors": [
+        {
+          "id": 319416,
+          "name": {
+            "full": "Yuuto Kawasaki",
+            "native": "川崎勇人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317414,
+        "name": {
+          "full": "Roxy Richter",
+          "native": "ロキシー・リヒター",
+          "alternative": [
+            "Roxanne",
+            "Roxie"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317414-yMu8Eo43n52A.png"
+        },
+        "description": "Ramona Flower's fourth evil ex. She was Ramona's university roommate and her only ex-girlfriend.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 117329,
+          "name": {
+            "full": "Naomi Oozora",
+            "native": "大空直美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117329-b0JyOtyttcJI.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317396,
+        "name": {
+          "full": "Julie Powers",
+          "native": "ジュリー・パワーズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317396-6Uzh4ipH6Ido.png"
+        },
+        "description": "Known to be snarky and mean, particularly to [Scott](https://anilist.co/character/317362/Pilgrim-Scott), Julie is the social glue binding most of the characters in the series together. She frequently hosts parties, introduces characters to each other, and is known to be a full-time bitch and a half.",
+        "gender": "Female",
+        "age": "23"
+      },
+      "voiceActors": [
+        {
+          "id": 95034,
+          "name": {
+            "full": "Yuu Kobayashi",
+            "native": "小林ゆう"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95034-AwobjrcmkMi9.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317397,
+        "name": {
+          "full": "Lucas Lee",
+          "native": "ルーカス・リー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317397-w57pklY5er2H.png"
+        },
+        "description": "Ramona Flowers' second evil ex.  Lucas is a skateboarder turned sell-out actor who is shown as the star in a number of cheesy action movies.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95513,
+          "name": {
+            "full": "Yuuichi Nakamura",
+            "native": "中村悠一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317372,
+        "name": {
+          "full": "Stephen Stills",
+          "native": "スティーブン・スティルズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317372-vn5i7Oj1f9m0.png"
+        },
+        "description": "Lead singer, guitarist, and \"talent\" of Sex Bob-omb. Stephen went to university with Scott Pilgrim at the University of Toronto, where he played in the band Kid Chameleon with Scott, Envy Adams, and others. He is employed at The Happy Avocado vegetarian restaurant as a cook.",
+        "gender": "Male",
+        "age": "22"
+      },
+      "voiceActors": [
+        {
+          "id": 95756,
+          "name": {
+            "full": "Anri Katsu",
+            "native": "勝杏里"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95756-MmmuyQK4Thzl.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317401,
+        "name": {
+          "full": "Todd Ingram",
+          "native": "トッド・イングラム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317401-w1ljTGwNqoXj.png"
+        },
+        "description": "Ramona Flowers's third ex. Todd is the bass player for The Clash at Demonhead and is dating Envy Adams, the band's lead singer. Todd is also a Vegan, though he is known to cheat on both his vegan diet as well as his girlfriend, believing he can get away with mostly anything because he's a rock star.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95098,
+          "name": {
+            "full": "Wataru Hatano",
+            "native": "羽多野渉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317415,
+        "name": {
+          "full": "Gideon Graves",
+          "native": "ギデオン・グレイブス",
+          "alternative": [
+            "G-Man",
+            "Mr. G"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317415-jn01uU0ib7eI.png"
+        },
+        "description": "Ramona Flowers' seventh evil ex and the leader/founder of the League of Ramona's Evil Exes.",
+        "gender": "Male",
+        "age": "31"
+      },
+      "voiceActors": [
+        {
+          "id": 95001,
+          "name": {
+            "full": "Tomokazu Seki",
+            "native": "関智一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317399,
+        "name": {
+          "full": "Matthew Patel",
+          "native": "マシュー・パテル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317399-jx6mdtQgyOrC.png"
+        },
+        "description": "Ramona's first evil ex. Matthew has mystical powers and can summon Demon Hipster Chicks at will.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 229185,
+          "name": {
+            "full": "Shinji Saitou",
+            "native": "斉藤慎二"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n229185-U8nBpZxZvW77.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317368,
+        "name": {
+          "full": "Envy Adams",
+          "native": "エンヴィー・アダムス",
+          "alternative": [
+            "Natalie V. Adams"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317368-o5lgF7whYAG5.png"
+        },
+        "description": "Lead singer and keyboardist for the popular emerging band The Clash at Demonhead. She is Scott Pilgrim's ex-girlfriend, brutally dumping Scott in college prior to the events of the series.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95185,
+          "name": {
+            "full": "Kana Hanazawa",
+            "native": "花澤香菜"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 319368,
+        "name": {
+          "full": "Hollie",
+          "native": "ホリー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319368-FU6nenraHkaS.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118454,
+          "name": {
+            "full": "Nanako Mori",
+            "native": "森なな子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118454-c5IJ0x8GoDuo.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 317370,
+        "name": {
+          "full": "Stacey Pilgrim",
+          "native": "ステイシー・ピルグリム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b317370-akMUqo8b5OSb.png"
+        },
+        "description": "Scott's younger sister. She works at the Second Cup with Julie Powers and is also friends with Ramona.",
+        "gender": "Female",
+        "age": "19"
+      },
+      "voiceActors": [
+        {
+          "id": 149680,
+          "name": {
+            "full": "Misato Matsuoka",
+            "native": "松岡美里"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n149680-3Rfw8Ji2wyHo.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322788,
+        "name": {
+          "full": "Mobile",
+          "native": "モバイル",
+          "alternative": [
+            "Person Next to Wallace"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322788-M9s7EqVRlv15.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 168156,
+          "name": {
+            "full": "Hikaru Tanaka",
+            "native": "田中光"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n168156-WxGTGwPV602a.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 319328,
+        "name": {
+          "full": "Ken Katayanagi",
+          "native": "片柳健",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319328-lsRUscLYqMSo.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119185,
+          "name": {
+            "full": "Shunsuke Takeuchi",
+            "native": "武内駿輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119185-65kkxuTRxAgo.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319370,
+        "name": {
+          "full": "Anchisukiru 1",
+          "native": "警備員1",
+          "alternative": [
+            "Studio Security #1"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319370-ncANkS2FM0UL.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 120160,
+          "name": {
+            "full": "Hayato Kimura",
+            "native": "木村隼人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120160-102pkckJiu80.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319374,
+        "name": {
+          "full": "Anchisukiru 2",
+          "native": "警備員2",
+          "alternative": [
+            "Studio Security #2"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319374-YFDicpuhYkaH.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 120276,
+          "name": {
+            "full": "Shunichi Maki",
+            "native": "真木駿一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120276-CPmQg72991Yr.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319390,
+        "name": {
+          "full": "Anime Girl",
+          "native": "アニメガール",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319390-75LajnswZRAj.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 112629,
+          "name": {
+            "full": "Haruka Shiraishi",
+            "native": "白石晴香"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n112629-U0y9a5Z9ogfk.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 319329,
+        "name": {
+          "full": "Kyle Katayanagi",
+          "native": "カイル・カタヤナギ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319329-y4qCwIcdvjQ7.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119185,
+          "name": {
+            "full": "Shunsuke Takeuchi",
+            "native": "武内駿輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119185-65kkxuTRxAgo.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319357,
+        "name": {
+          "full": "Announcer",
+          "native": "アナウンサー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 319358,
+          "name": {
+            "full": "Mark Okita",
+            "native": "マーク・大喜多"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n319358-xdASaag4lX5V.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322789,
+        "name": {
+          "full": "Guy Who Yells The Title",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319359,
+        "name": {
+          "full": "Bartender",
+          "native": "バーテンダー",
+          "alternative": [
+            "Venue Bartender"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319359-3UrqrJQ3vNZ6.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 134336,
+          "name": {
+            "full": "Masashi Yamane",
+            "native": "山根雅史"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n134336-1YmYcqStqD2O.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 319362,
+        "name": {
+          "full": "Sandra",
+          "native": "サンドラ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319362-Bcd53ngbD1LP.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 303477,
+          "name": {
+            "full": "Miyuki Sahaku",
+            "native": "佐伯美由紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n303477-NDlQYOFYhu96.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 319366,
+        "name": {
+          "full": "Monique",
+          "native": "モニカ",
+          "alternative": [
+            "Monica"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319366-HxvEpVgSNocI.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 262547,
+          "name": {
+            "full": "Ahiru Oohira",
+            "native": "大平あひる"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n262547-EnCFmMI00xf5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319369,
+        "name": {
+          "full": "Eiga ni Toujou Suru Josei",
+          "native": "映画に登場する女性",
+          "alternative": [
+            "Actress in a Movie Within the Show"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319369-OhQFQqdEc4eX.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 125475,
+          "name": {
+            "full": "Riho Sugiyama",
+            "native": "杉山里穂"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125475-0CWs2AKNtmfk.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319381,
+        "name": {
+          "full": "Lucas no Agent",
+          "native": "ルーカスのエージェント",
+          "alternative": [
+            "Lucas's Agent"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319381-wK2EhxTUVZns.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 117455,
+          "name": {
+            "full": "Michiko Kaiden",
+            "native": "鷄冠井美智子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/22455.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319389,
+        "name": {
+          "full": "Anime Boy",
+          "native": "アニメボーイ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319389-IMYjRph7888R.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118249,
+          "name": {
+            "full": "Seiichirou Yamashita",
+            "native": "山下誠一郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118249-aws1DsuN7cUW.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322771,
+        "name": {
+          "full": "Actor in the Movie",
+          "native": null,
+          "alternative": [
+            "Straight Wallace (ストレートウォレス)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322771-Z7ewLy0JA3tY.png"
+        },
+        "description": "Actor playing the role of Wallace Wells in the film *Scott Pilgrim's Precious Little Life*.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 123286,
+          "name": {
+            "full": "Gakuto Kajiwara",
+            "native": "梶原岳人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n123286-TfHayiK4hqbk.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319363,
+        "name": {
+          "full": "Envy no Fan 3",
+          "native": "エンヴィーのファン3",
+          "alternative": [
+            "Envy Fan #3"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319363-CXXZGQ2bTXOO.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 206818,
+          "name": {
+            "full": "Yuuki Tamai",
+            "native": "玉井勇輝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n206818-pBrDQWW4mpVl.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319364,
+        "name": {
+          "full": "Envy no Fan 1",
+          "native": "エンヴィーのファン1",
+          "alternative": [
+            "Envy Fan #1"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319364-TpwwPaU4e1PE.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 167513,
+          "name": {
+            "full": "Kouji Seki",
+            "native": "関幸司"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167513-8NJDUdXtIf72.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319365,
+        "name": {
+          "full": "Bengoshi",
+          "native": "弁護士",
+          "alternative": [
+            "Lawyer"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319365-c6DGyu4cGpIX.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 167513,
+          "name": {
+            "full": "Kouji Seki",
+            "native": "関幸司"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n167513-8NJDUdXtIf72.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319376,
+        "name": {
+          "full": "Gossip Announcer 1",
+          "native": "ゴシップアナウンサー",
+          "alternative": [
+            "TV Gossip #1"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319376-Gf3WIONHHdDj.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 131554,
+          "name": {
+            "full": "Soushirou Hori",
+            "native": "堀総士郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131554-gpNdBDdDPzYI.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319377,
+        "name": {
+          "full": "Gossip Announcer 2",
+          "native": "ゴシップアナウンサー",
+          "alternative": [
+            "TV Gossip #2"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319377-tFIzWSOitdtR.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319380,
+        "name": {
+          "full": "First Jokan",
+          "native": "ファースト助監",
+          "alternative": [
+            "First A.D.",
+            "First Assistant Director"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 131578,
+          "name": {
+            "full": "Ryuunosuke Watanuki",
+            "native": "綿貫竜之介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131578-XYDFui7Rf7M1.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319382,
+        "name": {
+          "full": "Paparazzi",
+          "native": "パパラッチ",
+          "alternative": [
+            "Threatening Paparazzi Guy"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319382-GWtp9MJz0x6r.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118552,
+          "name": {
+            "full": "Masashi Nogawa",
+            "native": "野川雅史"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/23552.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319383,
+        "name": {
+          "full": "Kantoku",
+          "native": "監督",
+          "alternative": [
+            "The Director",
+            "Edgar Wrong"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319383-YwIcogdXAHxm.png"
+        },
+        "description": "Director of the film *Scott Pilgrim's Precious Little Life*.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95926,
+          "name": {
+            "full": "Youji Ueda",
+            "native": "上田燿司"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95926-00Pd2b8WZwQS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319384,
+        "name": {
+          "full": "Kachinko Joshi",
+          "native": "カチンコ女子",
+          "alternative": [
+            "Slate Girl",
+            "Clapperboard Girl"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96760,
+          "name": {
+            "full": "Chiaki Omigawa",
+            "native": "小見川千明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96760-z00Vs7vhLR07.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319385,
+        "name": {
+          "full": "Shuzai-sha",
+          "native": "取材者",
+          "alternative": [
+            "Documentarian"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b319385-ek0Iq8CVjyYN.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105571,
+          "name": {
+            "full": "Kentarou Tone",
+            "native": "利根健太朗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105571-Ck9wy1fxMy3N.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319386,
+        "name": {
+          "full": "Telop Announcer",
+          "native": "テロップアナウンサー",
+          "alternative": [
+            "Title Card Reader",
+            "Documentary Voice"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 131578,
+          "name": {
+            "full": "Ryuunosuke Watanuki",
+            "native": "綿貫竜之介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n131578-XYDFui7Rf7M1.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319387,
+        "name": {
+          "full": "Staff",
+          "native": "スタッフ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 319388,
+          "name": {
+            "full": "Yuu Hatori",
+            "native": "羽鳥佑"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n319388-zH2MBrJFP328.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319391,
+        "name": {
+          "full": "Cafe Tennai Dansei Kyaku",
+          "native": "カフェ店内男性客",
+          "alternative": [
+            "Male Cafe Customer"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 166975,
+          "name": {
+            "full": "Yukiya Hayashi",
+            "native": "林幸矢"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n166975-31f1CGNCAMob.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319393,
+        "name": {
+          "full": "Masukomi Dansei",
+          "native": "マスコミ男性",
+          "alternative": [
+            "Male Reporter"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 169109,
+          "name": {
+            "full": "Satoshi Nakao",
+            "native": "中尾智"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n169109-pucvPHS3c8bj.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319394,
+        "name": {
+          "full": "Live Kaijou Dansei Kyaku",
+          "native": "ライブ会場男性客",
+          "alternative": [
+            "Male Audience Member"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 319397,
+          "name": {
+            "full": "Shuuki Satou",
+            "native": "佐藤愁貴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n319397-nQCwTzy3PMXr.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 319395,
+        "name": {
+          "full": "Masukomi Josei",
+          "native": "マスコミ女性",
+          "alternative": [
+            "Female Reporter"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 319396,
+          "name": {
+            "full": "En Yoneda",
+            "native": "米田えん"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n319396-qT1h0e3N6vEj.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322627,
+        "name": {
+          "full": "Valet Attendant",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322627-A2IFgWshgwfo.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322629,
+        "name": {
+          "full": "Butler",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322629-YRqAlLhZ1pCp.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322635,
+        "name": {
+          "full": "Demon Girl 1",
+          "native": "デーモンカール1",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 303477,
+          "name": {
+            "full": "Miyuki Sahaku",
+            "native": "佐伯美由紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n303477-NDlQYOFYhu96.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322636,
+        "name": {
+          "full": "Demon Girl 2",
+          "native": "デーモンカール2",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 262547,
+          "name": {
+            "full": "Ahiru Oohira",
+            "native": "大平あひる"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n262547-EnCFmMI00xf5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322637,
+        "name": {
+          "full": "Demon Girl 4",
+          "native": "デーモンカール4",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 262547,
+          "name": {
+            "full": "Ahiru Oohira",
+            "native": "大平あひる"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n262547-EnCFmMI00xf5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322638,
+        "name": {
+          "full": "Demon Girl 3",
+          "native": "デーモンカール3",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 303477,
+          "name": {
+            "full": "Miyuki Sahaku",
+            "native": "佐伯美由紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n303477-NDlQYOFYhu96.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322640,
+        "name": {
+          "full": "Coffee Customer",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322640-q8ur5Ksojfpn.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322745,
+        "name": {
+          "full": "Envy no Fan 2",
+          "native": "エンヴィーのファン2",
+          "alternative": [
+            "Envy Fan #2"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322745-jEZeazfGzvnS.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322749,
+        "name": {
+          "full": "Envy no Fan 4",
+          "native": "エンヴィーのファン4",
+          "alternative": [
+            "Envy Fan #4"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322750,
+        "name": {
+          "full": "Envy no Fan 5",
+          "native": "エンヴィーのファン5",
+          "alternative": [
+            "Envy Fan #5"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322752,
+        "name": {
+          "full": "Crowd Gossip #1",
+          "native": "参列者の女性1",
+          "alternative": [
+            "Sanretsu-sha no Josei 1"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322752-KIYBcp9pAN82.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 122320,
+          "name": {
+            "full": "Tomoyo Takayanagi",
+            "native": "高柳知葉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122320-tV8CERbhYcNV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322753,
+        "name": {
+          "full": "Crowd Gossip #2",
+          "native": "参列者の女性2",
+          "alternative": [
+            "Sanretsu-sha no Josei 2"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322753-DBw3oUjn41TD.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 308717,
+          "name": {
+            "full": "Saki Takahashi",
+            "native": "髙橋咲貴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n308717-B0sR6OVfcQug.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322757,
+        "name": {
+          "full": "Passerby",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322758,
+        "name": {
+          "full": "Actor in a Movie Within the Show",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322770,
+        "name": {
+          "full": "Knives-yaku no Joyuu",
+          "native": "ナイフス役の女優",
+          "alternative": [
+            "Knives Actress in the Movie"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322770-c6Y1bLSU7I7B.png"
+        },
+        "description": "Actress playing the role of Knives Chau in the film *Scott Pilgrim's Precious Little Life*.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 162412,
+          "name": {
+            "full": "Akiha Matsui",
+            "native": "松井暁波"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n162412-blAgPbN5hJJg.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322779,
+        "name": {
+          "full": "Canada Eiga Kaisha no Otoko",
+          "native": "カナダ映画会社の男",
+          "alternative": [
+            "Nervous Canadian Studio Guy"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b322779-CafiIr5qgLJn.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322781,
+        "name": {
+          "full": "Wallace Stunt Double #1",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322782,
+        "name": {
+          "full": "Wallace Stunt Double #3",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 322783,
+        "name": {
+          "full": "Wallace Stunt Double #2",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    }
+  ]
+}

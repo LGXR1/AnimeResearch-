@@ -1,0 +1,37 @@
+{
+  "verifiedAt": "2026-10-05T11:58:56.437Z",
+  "curatedFile": "scripts/new_anime_curated_batch13.js",
+  "anime": [
+    {
+      "id": 100644,
+      "title": "七美德",
+      "count": 7,
+      "excluded": [
+        {
+          "name": "救世主候补A至G",
+          "reason": "单回匿名人物，现有简介只有登场集数，缺少可核实的详细人物资料，暂缓"
+        },
+        {
+          "name": "贝尔芬格",
+          "reason": "跨作品客串，优先保留七位主要天使；待核查既有原作归属记录后补关联"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/100644",
+        "https://7-virtues.net/anime/",
+        "https://7-virtues.net/chara/faith.html",
+        "https://7-virtues.net/chara/patience.html",
+        "https://7-virtues.net/chara/chastity.html",
+        "https://7-virtues.net/chara/temperance.html",
+        "https://7-virtues.net/chara/kindness.html",
+        "https://7-virtues.net/chara/charity.html",
+        "https://7-virtues.net/chara/diligence.html"
+      ]
+    }
+  ],
+  "insertedCharacters": 7,
+  "insertedVoiceActors": 7,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 7,
+  "verifiedVoiceActors": 7
+}

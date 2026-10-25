@@ -1,0 +1,275 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T14:34:57.682Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 190327,
+      "anime_title": "JOJO的奇妙冒险：飙马野郎",
+      "anime_origin": "JP",
+      "source": {
+        "id": 190327,
+        "titles": [
+          "JoJo no Kimyou na Bouken: Steel Ball Run - 1st STAGE",
+          "STEEL BALL RUN JoJo's Bizarre Adventure 1st STAGE",
+          "ジョジョの奇妙な冒険 スティール・ボール・ラン 1st STAGE",
+          "JoJo's Bizarre Adventure: Part 7–Steel Ball Run",
+          "SBR",
+          "ГОНКА «СТАЛЬНОЙ ШАР»: Невероятные приключения ДжоДжо",
+          "Перегони «Сталева куля»: Химерні пригоди ДжоДжо"
+        ],
+        "year": 2026,
+        "format": "ONA",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/190327"
+      },
+      "characters": [
+        {
+          "id": 11772,
+          "name": "杰洛·齐贝林",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b11772-p7MO37Mk0f5g.png",
+          "description": "杰洛·齐贝林本名尤利乌斯·凯撒·齐贝林，来自那不勒斯王国，是一名职业刽子手。他参加横跨北美的飙马野郎赛马比赛，并在途中与前骑师乔尼·乔斯达结伴。杰洛掌握齐贝林家族传承的回转秘技，以铁球作为战斗媒介，外表自信张扬，内心却重视责任，愿意为他人冒险。他的目标与比赛背后的政治安排和家族使命逐渐交织。",
+          "nicknames": [
+            "杰洛·齐贝林",
+            "Gyro Zeppeli",
+            "ユリウス・カエサル・ツェペリ",
+            "J.Lo",
+            "尤利乌斯·凯撒·齐贝林",
+            "杰洛"
+          ],
+          "traits": [
+            "本名为尤利乌斯·凯撒·齐贝林",
+            "来自那不勒斯王国",
+            "是职业刽子手",
+            "参加横跨北美的飙马野郎赛马比赛",
+            "掌握齐贝林家族的回转秘技",
+            "使用铁球作为主要战斗媒介",
+            "性格自信而爱表现",
+            "关键时刻会为他人承担风险",
+            "与乔尼·乔斯达结伴旅行",
+            "由阿座上洋平配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "阿座上洋平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109155-kQHazg0bG4Pv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Gyro Zeppeli",
+            "name_native": "ユリウス・カエサル・ツェペリ",
+            "name_alternative": [
+              "J.Lo"
+            ],
+            "description": "Gyro has a cocky and flamboyant personality, appearing to have a high opinion of himself. However, he can be driven by emotions for other people and become realistic and serious when a problem presents itself.\n\nLike most Manga archetypes, Gyro is incredibly intelligent when he needs to be. His most distinguishable body features are his long hair, western hat and his gold teeth which have \"GO! GO! ZEPPELI\" displayed on them, revealed whenever he smiles at someone. His signature laugh/chuckle is \"Nyo ho ho ho~\".\n\n~!Note that the \"Caesar\" in his name is pronounced in the traditional Greek way, more akin to the German \"Kaiser\". This is distinct from [Caesar Anthonio Zeppeli](https://anilist.co/character/21959/Zeppeli-Anthonio-Caesar) from [JoJo's Bizarre Adventure Part 2](https://anilist.co/manga/31630/-/), whose name is pronounced in the modern English way.!~"
+          }
+        },
+        {
+          "id": 19492,
+          "name": "乔尼·乔斯达",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19492-gvMnKxhUhT9V.jpg",
+          "description": "乔尼·乔斯达是来自美国的前职业骑师，因一次事故导致下半身瘫痪，随后陷入消沉并对生活失去希望。得知杰洛·齐贝林的铁球可能带有改变身体的力量后，他踏上飙马野郎赛马比赛的旅程。乔尼观察敏锐、学习能力强，逐渐掌握回转秘技，并与杰洛建立深厚伙伴关系。他的目标从恢复行动能力开始，后来牵涉到比赛中的权力斗争与更大的命运选择。",
+          "nicknames": [
+            "乔尼·乔斯达",
+            "Johnny Joestar",
+            "ジョニィ・ジョースター",
+            "Joe Kid",
+            "JoJo",
+            "乔尼",
+            "强尼·乔斯达"
+          ],
+          "traits": [
+            "来自美国的前职业骑师",
+            "因事故导致下半身瘫痪",
+            "性格一度消沉悲观",
+            "仍保留敏锐观察力",
+            "参加飙马野郎赛马比赛",
+            "在比赛中遇见杰洛·齐贝林",
+            "逐渐学习齐贝林回转秘技",
+            "与杰洛成为重要伙伴",
+            "为寻找改变自身命运的方法而行动",
+            "由坂田将吾配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "坂田将吾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n158510-QDmd7dD9Rg89.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Johnny Joestar",
+            "name_native": "ジョニィ・ジョースター",
+            "name_alternative": [
+              "Joe Kid",
+              "JoJo"
+            ],
+            "description": "Johnny Joestar is an American former jockey turned paraplegic, and is the main protagonist of Part 7. He is a depressive man with a bleak outlook on life, but he is also very stubborn and capable of extreme, unwavering determination to the point of disregarding any risks or consequences, putting his goal above all else. He joins the Steel Ball Run race to find out the secret behind [Gyro Zeppeli's](https://anilist.co/character/11772) steel balls, as Johnny believes they're capable of healing his legs.\n\nJohnny was once a horse racing prodigy. However, when waiting in line for a play, the girl he was with convinced him to cut to the front of the line and bribe the bouncers to throw out the youth in the front of the line, who had been waiting there all night. Furious, the youth shot Johnny in the back, paralyzing him from the waist down.\n\n~!Johnny earns a Stand named \"Tusk\" when they venture into the Devil's Palm as a result of their fight with [Dio](https://anilist.co/character/20148/Brando-Diego) and [Dr. Ferdinand](https://anilist.co/character/130205/Ferdinand-Hakase). Tusk is able to fire Johnny's spinning fingernails similar to a revolver, with the nails having to take a few seconds to regrow. This long range attack becomes his primary means of defense. His Stand is small in size and has the same star-pattern over it as on Johnny's clothing, it appears to reside inside of him and only comes out to offer advice. It cannot speak, only make animal-like noises.\n\nLater in the series, Johnny masters Gyro's \"Spin\" technique and uses it with his Stand's fingernail bullets; at one time, even being able to use it on himself. His Stand also evolves although remaining similar in appearance, now able to fire from the toenails on Johnny's paralyzed feet. !~ "
+          }
+        },
+        {
+          "id": 20148,
+          "name": "迪亚哥·布兰度",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20148-mVGqsVJ2t27v.png",
+          "description": "迪亚哥·布兰度是来自英国的著名职业骑师，常被简称为迪奥，也是飙马野郎赛马比赛的参赛者。他与乔斯达家族没有血缘关系，却同样拥有野心和强烈的竞争意识。迪亚哥骑术精湛、头脑灵活，擅长利用局势争取优势，在比赛中多次与乔尼和杰洛正面交锋。虽然名字与系列早期的DIO相似，他是平行世界中的独立角色，拥有自己的出身和经历。",
+          "nicknames": [
+            "迪亚哥·布兰度",
+            "Diego Brando",
+            "ディエゴ・ブランドー",
+            "Dio",
+            "迪奥",
+            "Dio Brando"
+          ],
+          "traits": [
+            "来自英国的职业骑师",
+            "以迪奥为常用简称",
+            "是飙马野郎比赛的参赛者",
+            "骑术高超且富有竞争心",
+            "出身并非乔斯达家族",
+            "行事精于算计",
+            "会为争胜利用局势",
+            "与乔尼和杰洛多次竞争",
+            "拥有独立于DIO的身份与经历",
+            "由石川界人配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "石川界人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Diego Brando",
+            "name_native": "ディエゴ・ブランドー",
+            "name_alternative": [
+              "Dio"
+            ],
+            "description": "Diego Brando (usually called \"Dio\" for short) is a famous professional jockey from England. He is one of the participants in the Steel Ball Run race. Although unrelated to his DIO counterpart directly (parts 1-6 and 7-9 take place in two distinct, separate universes), he appears to be very similar to the original Dio in both looks and personality. \n\n~!He was raised among a group of homeless people after his mother saved him from drowning in a river when he was still a baby. He was later adopted into nobility when his talent as a jockey was discovered. Although he was raised with much love, he acts cold-hearted and will do virtually anything to win.!~"
+          }
+        },
+        {
+          "id": 28967,
+          "name": "桑德曼",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28967-ShW5sAxzZDny.png",
+          "description": "桑德曼来自北美原住民部族，参加飙马野郎比赛，希望赢得奖金后为族人赎回土地。他拥有极强的奔跑能力，能在崎岖地形中高速移动，即使不依靠传统赛马也能成为有力竞争者。他的名字源于外人对族名的误听，族人原本称他为“Soundman”。桑德曼的参赛目标与家园存续直接相关，使比赛对他而言不仅是个人荣誉之争。",
+          "nicknames": [
+            "桑德曼",
+            "Sandman",
+            "サウンドマン",
+            "桑德人",
+            "Soundman"
+          ],
+          "traits": [
+            "来自北美原住民部族",
+            "参加飙马野郎赛马比赛",
+            "最初希望为家乡筹集土地赎金",
+            "跑步能力极强",
+            "擅长在复杂地形中移动",
+            "名字源自外人对其族名的误听",
+            "以速度弥补缺少传统赛马经验",
+            "与主角组在比赛中相遇",
+            "由水中雅章配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "水中雅章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126794-tZzYeLEQbsrj.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sandman",
+            "name_native": "サウンドマン ",
+            "name_alternative": [],
+            "description": "Sandman is a participant in the Steel Ball Run race from a Native American tribe. Despite being ostracized, he hopes that winning the race will earn him the money to buy back his ancestor's land, and he quickly becomes one of the fiercest competitors in the race thanks to his running technique.\n\n~!Sandman is a Stand User who wields In a Silent Way in battle, which can store sounds in objects or even people.!~"
+          }
+        },
+        {
+          "id": 28968,
+          "name": "波可洛可",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b28968-fUKdmdflOwcv.png",
+          "description": "波可洛可是参加飙马野郎赛马比赛的年轻美国人，以惊人好运闻名。他的好运并非纯粹偶然，而与替身能力有所关联，比赛中常在危急时刻意外摆脱困境。波可洛可最初并不是最受看好的骑师，却因连续好运逐渐建立自信，并在长途赛事中展现自己的生存能力。他的经历为紧张的比赛故事带来轻松和意外转折。",
+          "nicknames": [
+            "波可洛可",
+            "Pocoloco",
+            "ポコロコ"
+          ],
+          "traits": [
+            "来自美国的年轻参赛者",
+            "参加飙马野郎赛马比赛",
+            "以异常出众的运气闻名",
+            "运气与替身能力有关",
+            "面对危险时常能意外脱身",
+            "并非传统意义的顶尖骑师",
+            "受到好运影响而逐渐自信",
+            "与各路选手共同穿越北美",
+            "由松田健一郎配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "松田健一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105273-asextl049B2s.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pocoloco",
+            "name_native": "ポコロコ",
+            "name_alternative": [],
+            "description": "A young man who participates in the Steel Ball Run race,  known for his incredible luck due to his stand's power."
+          }
+        },
+        {
+          "id": 172169,
+          "name": "乌尔姆德·阿布德尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b172169-lWLiXRMOj1Y0.jpg",
+          "description": "乌尔姆德·阿布德尔来自埃及，是平行世界中与原作穆罕默德·阿布德尔相对应的人物。他据称每年都会多次横越撒哈拉沙漠，拥有丰富的长途旅行和生存经验。乌尔姆德参与飙马野郎相关事件，熟悉沙漠地形，也能在艰苦环境中保持行动能力。其姓名与既有角色相似，但属于独立世界线中的人物。",
+          "nicknames": [
+            "乌尔姆德·阿布德尔",
+            "Urmd  Avdol",
+            "ウルムド・アブドゥル",
+            "Urmd Abdul",
+            "Urmd Avdol",
+            "阿布德尔",
+            "乌尔姆德"
+          ],
+          "traits": [
+            "来自埃及的通灵者",
+            "是平行世界的阿布德尔",
+            "拥有与原世界穆罕默德·阿布德尔相似的名字",
+            "多次横越撒哈拉沙漠",
+            "以旅行和生存经验著称",
+            "加入飙马野郎比赛阵营",
+            "熟悉沙漠环境与远行",
+            "由三宅健太配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "三宅健太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Urmd  Avdol",
+            "name_native": "ウルムド・アブドゥル",
+            "name_alternative": [
+              "Urmd Abdul"
+            ],
+            "description": "Urmd Avdol is the alternate universe counterpart of the original universe's Muhammad Avdol.\n\nComing from Egypt, Urmd was said to have crossed the Sahara desert three times annually. Unlike the other contestants in the race, Urmd's choice of transportation was a camel, which made him a prime candidate for winning the race. Due to the camel's long legs, it had the ability to keep up with a horse's speed, but at the same time crush any other racers with its 800 kg body.\n\n(Source: JoJo Wiki)\n"
+          }
+        }
+      ]
+    }
+  ]
+}

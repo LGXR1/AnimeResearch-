@@ -1,0 +1,156 @@
+[
+  {
+    "verifiedAt": "2026-10-05T06:12:06.076Z",
+    "curatedFile": "scripts/new_anime_curated_batch12.js",
+    "anime": [
+      {
+        "id": 19769,
+        "title": "魔法战争",
+        "count": 9,
+        "excluded": [
+          {
+            "name": "狼神鹰雄、一氏诚",
+            "reason": "官网列出人物，但补查未找到与本作品关联的 AniList 角色和合规图片"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/19769",
+          "https://www.tbs.co.jp/anime/mahosen/chara/",
+          "https://www.b-ch.com/titles/3994/"
+        ]
+      },
+      {
+        "id": 97673,
+        "title": "猫咪日常",
+        "count": 7,
+        "excluded": [],
+        "references": [
+          "https://anilist.co/anime/97673",
+          "https://www.kadokawa.co.jp/topics/819/",
+          "https://animestore.docomo.ne.jp/animestore/ci_pc?workId=21370",
+          "https://bangumi.tv/subject/193282/characters"
+        ]
+      }
+    ],
+    "insertedCharacters": 16,
+    "insertedVoiceActors": 16,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 16,
+    "verifiedVoiceActors": 16
+  },
+  {
+    "verifiedAt": "2026-10-05T06:15:46.146Z",
+    "curatedFile": "scripts/new_anime_curated_batch12.js",
+    "anime": [
+      {
+        "id": 105081,
+        "title": "女高中生的虚度日常",
+        "count": 10,
+        "excluded": [],
+        "references": [
+          "https://anilist.co/anime/105081",
+          "https://jyoshimuda.com/chara.html",
+          "https://www.kadokawa.co.jp/product/video2575/"
+        ]
+      },
+      {
+        "id": 178022,
+        "title": "群花绽放、彷如修罗",
+        "count": 18,
+        "excluded": [],
+        "references": [
+          "https://anilist.co/anime/178022",
+          "https://hanashura-anime.com/character/detail.html"
+        ]
+      }
+    ],
+    "insertedCharacters": 28,
+    "insertedVoiceActors": 28,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 28,
+    "verifiedVoiceActors": 28
+  },
+  {
+    "verifiedAt": "2026-10-05T06:18:16.098Z",
+    "curatedFile": "scripts/new_anime_curated_batch12.js",
+    "anime": [
+      {
+        "id": 178022,
+        "title": "群花绽放、彷如修罗",
+        "count": 18,
+        "excluded": [],
+        "references": [
+          "https://anilist.co/anime/178022",
+          "https://hanashura-anime.com/character/detail.html"
+        ]
+      }
+    ],
+    "insertedCharacters": 0,
+    "insertedVoiceActors": 0,
+    "updatedCharacters": 10,
+    "verifiedCharacters": 18,
+    "verifiedVoiceActors": 18
+  },
+  {
+    "verifiedAt": "2026-10-05T06:18:22.880Z",
+    "curatedFile": "scripts/new_anime_curated_batch12.js",
+    "anime": [
+      {
+        "id": 20648,
+        "title": "少年好莱坞",
+        "count": 13,
+        "excluded": [
+          {
+            "name": "Cat",
+            "reason": "有真实角色图片，但 AniList 未提供日配资料"
+          },
+          {
+            "name": "风见家人、佐伯唯、远藤卓、远山彻、荒井健、河野草太",
+            "reason": "AniList 简介过于简略或为空，官网未提供对应完整人物资料，暂缓"
+          },
+          {
+            "name": "黑白小姐",
+            "reason": "AniList 简介来自其独立作品，尚未核实本作客串资料"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/20648",
+          "https://king-cr.jp/special/shonen-hollywood-anime/character/",
+          "https://w.atwiki.jp/sho_holly/pages/4.html"
+        ]
+      }
+    ],
+    "insertedCharacters": 13,
+    "insertedVoiceActors": 13,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 13,
+    "verifiedVoiceActors": 13
+  },
+  {
+    "verifiedAt": "2026-10-05T06:19:05.739Z",
+    "curatedFile": "scripts/new_anime_curated_batch12.js",
+    "anime": [
+      {
+        "id": 19769,
+        "title": "魔法战争",
+        "count": 9,
+        "excluded": [
+          {
+            "name": "狼神鹰雄、一氏诚",
+            "reason": "官网列出人物，但补查未找到与本作品关联的 AniList 角色和合规图片"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/19769",
+          "https://www.tbs.co.jp/anime/mahosen/chara/",
+          "https://www.b-ch.com/titles/3994/"
+        ]
+      }
+    ],
+    "insertedCharacters": 0,
+    "insertedVoiceActors": 0,
+    "updatedCharacters": 1,
+    "verifiedCharacters": 9,
+    "verifiedVoiceActors": 9
+  }
+]

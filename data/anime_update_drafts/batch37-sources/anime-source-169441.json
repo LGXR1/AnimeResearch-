@@ -1,0 +1,572 @@
+{
+  "fetchedAt": "2026-10-24T08:44:00.140Z",
+  "id": 169441,
+  "title": {
+    "romaji": "Watashi no Shiawase na Kekkon 2nd Season",
+    "english": "My Happy Marriage Season 2",
+    "native": "わたしの幸せな結婚 第二期"
+  },
+  "synonyms": [
+    "WataKon 2",
+    "ขอให้รักเรานี้ได้มีความสุข",
+    "Moje szczęśliwe małżeństwo. Sezon 2",
+    "Hôn nhân hạnh phúc của tôi",
+    "Meu Casamento Feliz",
+    "Il mio matrimonio felice",
+    "Мій щасливий шлюб",
+    "Mi feliz matrimonio",
+    "わた婚２",
+    "Мой счастливый брак 2"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2025,
+    "month": 1,
+    "day": 6
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Supernatural"
+  ],
+  "description": "Miyo and Kiyoka's love will be put to the test as trouble looms over them. Will they achieve the future they dream of? <br><br>\n\n(Source: Netflix Anime)",
+  "siteUrl": "https://anilist.co/anime/169441",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 181965,
+        "name": {
+          "full": "Miyo Saimori",
+          "native": "斉森美世",
+          "alternative": [
+            "Miyo Kudou (久堂美世)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181965-VJEPa9R5ZklX.png"
+        },
+        "description": "Eldest daughter of the Saimori family. Her mother died when she was young. She is ungifted\n~!Later it was revealed that she is actually gifted, her gift was sealed away by her mother before her death. She has the gift of Dream-Sight!~\n",
+        "gender": "Female",
+        "age": "19"
+      },
+      "voiceActors": [
+        {
+          "id": 118602,
+          "name": {
+            "full": "Reina Ueda",
+            "native": "上田麗奈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118602-C4bNcnyEhDTu.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 181964,
+        "name": {
+          "full": "Kiyoka Kudou",
+          "native": "久堂清霞",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181964-hBQzTQAG6zIs.png"
+        },
+        "description": "Head of the Kudou family. Kiyoka is looked upon as cold or standoffish by others, including his many past prospective fiancés. This is due to his understanding of others' motives.",
+        "gender": "Male",
+        "age": "27"
+      },
+      "voiceActors": [
+        {
+          "id": 115156,
+          "name": {
+            "full": "Kaito Ishikawa",
+            "native": "石川界人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 269670,
+        "name": {
+          "full": "Yurie",
+          "native": "ゆり江",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b269670-YlKrfHlkNiKJ.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95057,
+          "name": {
+            "full": "Houko Kuwashima",
+            "native": "桑島法子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95057-zkd7yTPVxfyu.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 308313,
+        "name": {
+          "full": "Yoshito Godou",
+          "native": "五道佳斗",
+          "alternative": [
+            "ごどうよしと"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308313-QERTqIeNDg0g.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95356,
+          "name": {
+            "full": "Hiro Shimono",
+            "native": "下野紘"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 312290,
+        "name": {
+          "full": "Hazuki Kudou",
+          "native": "久堂葉月",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b312290-aU0Y5ljFdRTZ.png"
+        },
+        "description": "The older sister of Kiyoka Kudou",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102263,
+          "name": {
+            "full": "Youko Hikasa",
+            "native": "日笠陽子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 311059,
+        "name": {
+          "full": "Kazushi Tatsuishi",
+          "native": "辰石一志",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311059-bPztDY1Mo1Wc.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 120290,
+          "name": {
+            "full": "Toshinari Fukamachi",
+            "native": "深町寿成"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n120290-3BgvVA3SK518.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 308314,
+        "name": {
+          "full": "Arata Tsuruki",
+          "native": "鶴木新",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308314-AHFYgkLsO4B2.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": "24"
+      },
+      "voiceActors": [
+        {
+          "id": 96762,
+          "name": {
+            "full": "Ryouhei Kimura",
+            "native": "木村良平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 308315,
+        "name": {
+          "full": "Takaihito",
+          "native": "堯人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b308315-KLXDCMwYfZak.jpg"
+        },
+        "description": "Second Prince of Japan.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95017,
+          "name": {
+            "full": "Akira Ishida",
+            "native": "石田彰"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 311064,
+        "name": {
+          "full": "Sumi Saimori",
+          "native": "斎森澄美",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b311064-lcklVTSHFY5D.png"
+        },
+        "description": "Sumi was Miyo's birth mother and Shinichi Saimori's first wife via an arranged marriage. \n\n~!She was the daughter of the Usuba clan and gifted with a supernatural ability.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 126579,
+          "name": {
+            "full": "Miyuri Shimabukuro",
+            "native": "島袋美由利"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n126579-aYXUMZi7ozKD.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 354138,
+        "name": {
+          "full": "Kaoruko Jinnouchi",
+          "native": "陣之内薫子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b354138-I9GwEcnHnHMu.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": "20"
+      },
+      "voiceActors": [
+        {
+          "id": 95890,
+          "name": {
+            "full": "Haruka Tomatsu",
+            "native": "戸松遥"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 345945,
+        "name": {
+          "full": "Tadakiyo Kudou",
+          "native": "久堂正清",
+          "alternative": [
+            "Kiyoka no Chichi (清霞の父)",
+            "Kiyoka's Father"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b345945-Dx4jGkp5tqbH.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95177,
+          "name": {
+            "full": "Ryoutarou Okiayu",
+            "native": "置鮎龍太郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95177-6SiaUTf3CLkN.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 314168,
+        "name": {
+          "full": "Masashi Ookaito",
+          "native": "大海渡征",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314168-d3wqim1B0tkB.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95720,
+          "name": {
+            "full": "Kenta Miyake",
+            "native": "三宅健太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 345946,
+        "name": {
+          "full": "Fuyu Kudou",
+          "native": "久堂芙由",
+          "alternative": [
+            "Kiyoka no Haha (清霞の母)",
+            "Kiyoka's Mother"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b345946-o5QLfUJ39PR5.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95195,
+          "name": {
+            "full": "Kikuko Inoue",
+            "native": "井上喜久子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 320985,
+        "name": {
+          "full": "Yoshirou Tsuruki",
+          "native": "鶴木義浪",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b320985-uo3c6Jwx6lJu.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102321,
+          "name": {
+            "full": "Kousei Hirota",
+            "native": "廣田行生"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102321-RGZyzVH6DAhs.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 345949,
+        "name": {
+          "full": "Naoshi Usui",
+          "native": "甘水直",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b345949-9yddLZ9xuQtV.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96637,
+          "name": {
+            "full": "Yuuya Uchida",
+            "native": "内田夕夜"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96637-GOQaib9J8Mu6.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 353102,
+        "name": {
+          "full": "Yaoya",
+          "native": "八百屋",
+          "alternative": [
+            "Greengrocer"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b353102-t7rIE6sgCNNr.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 151148,
+          "name": {
+            "full": "Kyou Yaoya",
+            "native": "八百屋杏"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n151148-08ejKs9kUWCd.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 353100,
+        "name": {
+          "full": "Sasaki",
+          "native": "笹木",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b353100-E7KBdNctxUBk.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 255530,
+          "name": {
+            "full": "Yasuhiro Kikuchi",
+            "native": "菊池康弘"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n255530-KoquSTPgRMze.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 353101,
+        "name": {
+          "full": "Nae",
+          "native": "ナエ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b353101-ehoD5AjVmyDu.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 310899,
+          "name": {
+            "full": "Yumiko Konatsu",
+            "native": "小夏ゆみこ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n310899-RbShEdCC217E.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

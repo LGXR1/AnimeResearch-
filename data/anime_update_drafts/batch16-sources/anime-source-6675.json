@@ -1,0 +1,620 @@
+{
+  "fetchedAt": "2026-10-10T02:30:28.795Z",
+  "id": 6675,
+  "title": {
+    "romaji": "REDLINE",
+    "english": "Redline",
+    "native": "REDLINE"
+  },
+  "synonyms": [
+    "Red line",
+    "レッドライン"
+  ],
+  "format": "MOVIE",
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Romance",
+    "Sci-Fi",
+    "Sports"
+  ],
+  "description": "<i>Redline</i> is about the biggest and most deadly racing tournament in the universe. Only held once every five years, everyone wants to stake their claim to fame, including JP, a reckless dare-devil driver oblivious to speed limits with his ultra-customized car - all the while, organized crime and militaristic governments want to leverage the race to their own ends. Amongst the other elite rival drivers in the tournament, JP falls for the alluring Sonoshee - but will she prove his undoing, or can a high speed romance survive a mass destruction race?<br><br>\n(Source: Anchor Bay Films)",
+  "siteUrl": "https://anilist.co/anime/6675",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 33474,
+        "name": {
+          "full": "Sonoshee McLaren",
+          "native": "ソノシー・マクラーレン",
+          "alternative": [
+            "Cherry Boy Hunter"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/33474-RjixX3cpJQ0b.jpg"
+        },
+        "description": "Sonoshee is the winner of the Yellow Race which qualified her to enter the Redline race. She's commonly known as the Cherry Boy Hunter even though it was never completely described why.    ~! Through JP's flashbacks, we learn that they knew each other from awhile back. Her father was a racer and she got the urge to race from him.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96011,
+          "name": {
+            "full": "Yuu Aoi",
+            "native": "蒼井優"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96011-WkaSyWh0Pbhg.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 33973,
+        "name": {
+          "full": "JP",
+          "native": null,
+          "alternative": [
+            "Sweet JP"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b33973-dX6PZFF9atOj.jpg"
+        },
+        "description": "\"Sweet JP\"—a nickname earned for JP's personality and retro style, though most likely from a refusal to mount any form of weapons or upgrades on his race car. Seemingly, the only advantages of JP's car, the Trans Am 20000 WR, are Frisbee's modifications and the Old man's mechanical skills.  One of two human racers to qualify for REDLINE, though through unusual circumstances (default and popular demand). An ambitious and talented racer, JP pushes his driving skill and soul to their limits when he feels the time is right, throwing an extravagant show whilst putting his body and vehicle on the line for the ultimate racing experience.\n~!JP ends up winning Redline together with Sonoshee McLaren.!~ (Source: Wikipedia)",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96137,
+          "name": {
+            "full": "Takuya Kimura",
+            "native": "木村拓哉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96137-bYjfk6hbdicM.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 24623,
+        "name": {
+          "full": "Travastila Anister",
+          "native": "トラヴァ",
+          "alternative": [
+            "Trava"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24623-wojQ4Sr0sga1.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101372,
+          "name": {
+            "full": "Kanji Tsuda",
+            "native": "津田寛治"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101372-p7f3H459Q6Zq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 24624,
+        "name": {
+          "full": "Shinkai",
+          "native": "シンカイ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b24624-g19qdwbZvGje.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 115342,
+          "name": {
+            "full": "Yoshiyuki Morishita",
+            "native": "森下能幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/20342.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 35712,
+        "name": {
+          "full": "Frisbee",
+          "native": "フリスビー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b35712-ubYtzQBGAc3q.jpg"
+        },
+        "description": "A mechanic and JP&#039;s friend.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102104,
+          "name": {
+            "full": "Tadanobu Sato",
+            "native": "忠信 佐藤"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102104-drsFuacFpzfk.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 46205,
+        "name": {
+          "full": "Boiboi",
+          "native": "ボイボイ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/46205.jpg"
+        },
+        "description": "BoiBoi is a racer and a member of royal family from planet Supergrass. Along with BosBos, they are known as SuperBoins and create a singer group. They take part in Redline race in their vehicle called BoinCar.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 159358,
+          "name": {
+            "full": "Akane Sakai",
+            "native": "阪井あかね"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n159358-T3FNGMteV3a6.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 46207,
+        "name": {
+          "full": "Bosbos",
+          "native": "ボスボス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b46207-IPnuteAHIU7H.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 160560,
+          "name": {
+            "full": "AKEMI",
+            "native": null
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n160560-oCCfgzzGKpfI.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 46209,
+        "name": {
+          "full": "Lynchman",
+          "native": "リンチマン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/46209.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96135,
+          "name": {
+            "full": "Tatsuya Gashuin",
+            "native": "我修院達也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96135-lZKrH3tykzo8.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 46211,
+        "name": {
+          "full": "Johnny Boya",
+          "native": "ジョニー ボーヤ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/46211-Gwanh6lwmxRL.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 109817,
+          "name": {
+            "full": "Yoshinori Okada",
+            "native": "岡田義徳"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14817.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 50193,
+        "name": {
+          "full": "Machine Head Tetsujin",
+          "native": "マシンヘッド鉄仁",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b50193-IjV5veirDxxw.jpg"
+        },
+        "description": "The four times consecutive winner of the deadly Redline Race.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95045,
+          "name": {
+            "full": "Kouji Ishii",
+            "native": "石井康嗣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95045-xvCXMLXwg44s.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 77403,
+        "name": {
+          "full": "Bolt-on Taisa",
+          "native": "ボルトン大佐",
+          "alternative": [
+            "Volton"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/77403.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95357,
+          "name": {
+            "full": "Unshou Ishizuka",
+            "native": "石塚運昇"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 160559,
+        "name": {
+          "full": "Deyzuna  Otouto",
+          "native": "デイズナ弟",
+          "alternative": [
+            "Little Deyzuna"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160559-ar2zH9O39luv.jpg"
+        },
+        "description": "Deyzuna Otouto is one of the Roboworld's soldiers. Old friend of Trava and Shinkai.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95720,
+          "name": {
+            "full": "Kenta Miyake",
+            "native": "三宅健太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 160562,
+        "name": {
+          "full": "Mogura Oyaji",
+          "native": "もぐらオヤジ",
+          "alternative": [
+            "Old Man Mole"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160562-5qhK1wEqhG6e.jpg"
+        },
+        "description": "A mechanic who works together as a team with JP and Frisbee, though he claims that is all in the past. In the movie timeline, he helps JP and Frisbee with the new Transam that latter is used by JP in Redline.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95142,
+          "name": {
+            "full": "Takeshi Aono",
+            "native": "青野武"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95142-73E1XmGOOmhG.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 160563,
+        "name": {
+          "full": "Inuki Kumichou",
+          "native": "イヌキ組長",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160563-t3EmKBaXhUAy.jpg"
+        },
+        "description": "He is a mafia boss who sponsors JP behind the scenes.\n\n~!He is the main antagonist who always bets for JP loss and through Frisbee orders him which positions to take in a race with any means necessary, even by almost killing him.!~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95898,
+          "name": {
+            "full": "Choo",
+            "native": "チョー "
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95898-XHSESV65G8Jv.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 160568,
+        "name": {
+          "full": "Hime",
+          "native": "姫",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160568-OCv4UDgC8zKo.jpg"
+        },
+        "description": "The princess of planet Supergrass and the last heir of magical powers. She is a part of the Redline Committee. Her team—Super Boins—takes part in the Redline race.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101634,
+          "name": {
+            "full": "Minako Kotobuki",
+            "native": "寿美菜子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101634-IiPW117K0ybp.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 243932,
+        "name": {
+          "full": "Hameshu Furiini",
+          "native": "ハメシュ・フリーニ",
+          "alternative": [
+            "Gori Rider",
+            "ゴリライダー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b243932-uq8H5RmjNKLL.jpg"
+        },
+        "description": "Corrupt Gorila cop that joins the Redline Race",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95744,
+          "name": {
+            "full": "Daisuke Gouri",
+            "native": "郷里大輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95744-Iu1p0eNvShfN.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 261774,
+        "name": {
+          "full": "Roboworld Daitouryuu",
+          "native": "ロボワールド大統領",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102321,
+          "name": {
+            "full": "Kousei Hirota",
+            "native": "廣田行生"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102321-RGZyzVH6DAhs.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 261775,
+        "name": {
+          "full": "Miki",
+          "native": "三木",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 261778,
+          "name": {
+            "full": "Shunichirou Miki",
+            "native": "三木俊一郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 261776,
+        "name": {
+          "full": "Todoroki",
+          "native": "轟木",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 167286,
+          "name": {
+            "full": "Ikki Todoroki",
+            "native": "轟木一騎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 261777,
+        "name": {
+          "full": "Titan Kokubou Choukan",
+          "native": "タイタン国防長官",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95262,
+          "name": {
+            "full": "Kenyuu Horiuchi",
+            "native": "堀内賢雄"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/262.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

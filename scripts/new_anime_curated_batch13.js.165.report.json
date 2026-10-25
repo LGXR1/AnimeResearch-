@@ -1,0 +1,31 @@
+{
+  "verifiedAt": "2026-10-05T12:11:58.607Z",
+  "curatedFile": "scripts/new_anime_curated_batch13.js",
+  "anime": [
+    {
+      "id": 165,
+      "title": "翼神传说",
+      "count": 10,
+      "excluded": [
+        {
+          "name": "神名麻弥、艾尔菲·哈迪亚特、埃伦斯特·冯·巴贝姆",
+          "reason": "关联存在，但当前日配头像无hash，待补合规图片"
+        },
+        {
+          "name": "亘理士郎、海莲娜·巴贝姆、鸟饲守、功刀仁、金湖月、八云总一、七森小夜子、二神让二",
+          "reason": "关联存在，但当前人物头像无hash，待补合规图片"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/165",
+        "https://en.wikipedia.org/wiki/List_of_RahXephon_characters",
+        "https://zh.wikipedia.org/wiki/翼神世音"
+      ]
+    }
+  ],
+  "insertedCharacters": 10,
+  "insertedVoiceActors": 10,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 10,
+  "verifiedVoiceActors": 10
+}

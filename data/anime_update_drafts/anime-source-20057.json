@@ -1,0 +1,2243 @@
+{
+  "fetchedAt": "2026-10-09T11:53:14.908Z",
+  "id": 20057,
+  "title": {
+    "romaji": "Space☆Dandy",
+    "english": "Space Dandy",
+    "native": "スペース☆ダンディ"
+  },
+  "synonyms": [],
+  "format": "TV",
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "description": "The story of the anime revolves around Dandy, an alien-hunter. His job is to seek out new aliens never seen before, and receives a reward whenever he finds a new species. His mission is to find those new species faster than anyone else as he travels the galaxy. Together with the bucket-of-bolts robot QT and the dimwit alien Meow he picked up along the way, he comes into contact with new planets and their inhabitants..\n<br><br>\n(Source: Anime News Network)",
+  "siteUrl": "https://anilist.co/anime/20057",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 87507,
+        "name": {
+          "full": "Dandy",
+          "native": "ダンディ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/87507-2p41KULKZKvx.png"
+        },
+        "description": "A dandy guy in space who works as an alien hunter. His age is unclear, but he is most likely in his late 20s. He does not care about little things and believes that his dream is somewhere in the world. He frequents \"Boobies,\" a restaurant known for its voluptuous waitresses.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95095,
+          "name": {
+            "full": "Junichi Suwabe",
+            "native": "諏訪部順一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 87509,
+        "name": {
+          "full": "Meow",
+          "native": "ミャウ",
+          "alternative": [
+            "Myau",
+            "ンミュミュイゴロロ",
+            "Somyumyuigororo"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/87509-B3lwG2MUxVeV.png"
+        },
+        "description": "Contrary to expectations, he's not a genetically advanced cat, but he's actually an alien that lives on the planet, Betelgeuse. Meow is very carefree, as if he were raised with no constraints. At times he can come across as excessively lazy, preferring to play video games and read manga instead of working.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95283,
+          "name": {
+            "full": "Hiroyuki Yoshino",
+            "native": "吉野裕行"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95283-g76zV4YacFfm.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 87729,
+        "name": {
+          "full": "QT",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/87729-2FHngCbNv6Tc.png"
+        },
+        "description": "A member of Dandy's crew, a robot that resembles and also operates as a vacuum cleaner. QT boasts being more intelligent and competent than its fellow crewmates, but its usefulness is stymied by problems caused by its outdated hardware such as memory shortages and battery outages. Despite being feminine in voice and some of its mannerisms, QT is referred to as a male by Dandy and Meow on several occasions. \n\n(Source: Wikipedia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118492,
+          "name": {
+            "full": "Uki Satake",
+            "native": "佐武宇綺"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118492-zZQkQM8yFkfD.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 87730,
+        "name": {
+          "full": "Gel Hakase",
+          "native": "ゲル博士",
+          "alternative": [
+            "Dr. Gel"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/87730-TXHli1Uv7Igb.png"
+        },
+        "description": "A gorilla-like scientist working for the Gogol Empire, Dr. Gel endlessly pursues Dandy from his spaceship.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95357,
+          "name": {
+            "full": "Unshou Ishizuka",
+            "native": "石塚運昇"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 88672,
+        "name": {
+          "full": "Perry Teitoku",
+          "native": "ペリー提督",
+          "alternative": [
+            "Admiral Perry"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/88672-ykGVLdL9YA2I.png"
+        },
+        "description": "The ruler of the Gogol Empire, which is at war with the Jaicro Empire for control of the universe. He sends Dr. Gel to capture Dandy, claiming he is the key to the future of the universe. (Source: Wikipedia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95330,
+          "name": {
+            "full": "Banjou Ginga",
+            "native": "銀河万丈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95330-PHDm9uDhKAsT.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 88675,
+        "name": {
+          "full": "Honey",
+          "native": "ハニー",
+          "alternative": [
+            "Lady Nobra"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/88675-U7x1n1duYPx4.png"
+        },
+        "description": "A blonde-haired waitress working at Boobies. She seems to enjoy the Aloha Oe crew's usual visits.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 104713,
+          "name": {
+            "full": "Chiaki Yurin",
+            "native": "ユリン千晶"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104713-zrsI9Z4c61yC.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 88679,
+        "name": {
+          "full": "Scarlet",
+          "native": "スカーレット",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/88679-YzCj6BNnXNGA.png"
+        },
+        "description": "A collected, no nonsense inspector at the space alien registration center tasked with evaluating the aliens brought by Dandy and paying him accordingly when he brings her a worthy specimen. She is also a skilled fighter and can easily see through Dandy's tricks when he attempts to deceive her. (Source: Wikipedia)",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95057,
+          "name": {
+            "full": "Houko Kuwashima",
+            "native": "桑島法子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95057-zkd7yTPVxfyu.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 88682,
+        "name": {
+          "full": "Adélie",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/88682-3Msl9sxkqU6U.png"
+        },
+        "description": "Adélie is a young Gentooan who Dandy meets on Planet Humbolt. Originally hunting her kind for a whopping 8 million woolong reward, Dandy takes a shine to her (and vice versa) and tries to put her in contact with [another Gentooan](https://anilist.co/character/381697/Ojiichan) (her grandfather).\n\nDespite her apparent age, Adélie is feisty, isn't afraid to speak her mind and do what it takes to get what she requires. She does not like to be treated like a child (e.g. demanding an adult train ticket). She was raised only by her mother, who was unmarried and tragically died of sickness, which was the reason why she wanted to find out if her grandpa lived at that apartment.\n\n~!She soon travels with Dandy so that he can send her to the Registration Center to get the money. But, as time goes by and as Adélie spends more time with Dandy, she grows attached to him, as shown when she bursts into tears when she thought Dandy was leaving her. Soon, after Dandy saves her, she wishes to join his crew. When Dandy tells her she's just a kid and that he'll only let her join if she grows up to be a voluptuous woman, she confidently tells herself that she'll grow up fast for him so she can hunt him down and join him once more, showing just how attached she has become to the lewd but kind alien hunter.!~\n\nBeing a Gentooan, she has the ability to transfer others' minds and consciousness into puppets. However, she can only perform this once every day for 666 seconds (11 minutes and 6 seconds).",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95185,
+          "name": {
+            "full": "Kana Hanazawa",
+            "native": "花澤香菜"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 165560,
+        "name": {
+          "full": "Prince",
+          "native": "プリンス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165560-R6vR6lQKiV2O.png"
+        },
+        "description": "A handsome, blue haired racer adored by young women throughout the galaxy whom Dandy competes against in the Magellanic Nebula Grand Prix. He becomes Dandy's rival patron at BooBies.\n\n(Source: Wikipedia)",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95672,
+          "name": {
+            "full": "Yuuki Kaji",
+            "native": "梶裕貴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 165561,
+        "name": {
+          "full": "Meow no Haha",
+          "native": "ミャウの母",
+          "alternative": [
+            "Meow's Mother"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165561-NmenYlKFdyOj.png"
+        },
+        "description": "The mother of Meow and his siblings. She lives in the family house on Planet Betelgeuse.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103016,
+          "name": {
+            "full": "Miyuki Ichijou",
+            "native": "一城みゆ希"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103016-ksxumAK4vYNm.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 165562,
+        "name": {
+          "full": "Meow no Chichi",
+          "native": "ミャウの父",
+          "alternative": [
+            "Meow's Father"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165562-aMzYmr5FW4Sf.png"
+        },
+        "description": "The father of Meow and his siblings. He comes from a long line of metalworkers and runs a factory on Planet Betelgeuse, where he lives with his wife and kids.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101755,
+          "name": {
+            "full": "Kazuhiro Yamaji",
+            "native": "山路和弘"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101755-LsVbHCwg6Pel.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 165565,
+        "name": {
+          "full": "Toaster",
+          "native": "トースター",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165565-npcyIPnGEF0N.png"
+        },
+        "description": "Toaster is a robot appliance that, like many other robots, was dumped at Dream Island due to developing some form of an emotion that made him unable to do his job. With the arrival of Register and Maker to the island, he and Register made plans to start a revolution against all life forms.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95146,
+          "name": {
+            "full": "Akio Ootsuka",
+            "native": "大塚明夫"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95146-T6IEmqXW3xUN.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381669,
+        "name": {
+          "full": "Bea",
+          "native": "ビー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381669-g2jeyXMQy3C2.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106816,
+          "name": {
+            "full": "Kousuke Hatakeyama",
+            "native": "畠山航輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106816-vFAUp2DN21Od.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381680,
+        "name": {
+          "full": "Maboroshi no Ramen-ya no Oyaji",
+          "native": "幻のラーメン屋のオヤジ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381680-hCKZ4KqZfXeF.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101730,
+          "name": {
+            "full": "Ichirou Nagai",
+            "native": "永井一郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101730-PQO9AMRtT5jB.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381685,
+        "name": {
+          "full": "Mamitas",
+          "native": "マミタス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381685-KVRLCbCj2LMr.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101996,
+          "name": {
+            "full": "Ayana Taketatsu",
+            "native": "竹達彩奈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101996-PcY5iaq5LHgd.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381697,
+        "name": {
+          "full": "Ojii-chan",
+          "native": "おじいちゃん",
+          "alternative": [
+            "Mr. Slater"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381697-o1PEBtGRwx4B.png"
+        },
+        "description": "[Adélie's](https://anilist.co/character/88682) grandfather.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95892,
+          "name": {
+            "full": "Tamio Ooki",
+            "native": "大木民夫"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95892-hARexeaqvxfo.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381702,
+        "name": {
+          "full": "Pantsu Seijin",
+          "native": "パンツ星人",
+          "alternative": [
+            "Undiesian"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381702-H6cWoxGUNq1z.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100317,
+          "name": {
+            "full": "Katsuhisa Houki",
+            "native": "宝亀克寿"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100317-8qR7ph0AKfXu.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381703,
+        "name": {
+          "full": "Chokki Seijin",
+          "native": "チョッキ星人",
+          "alternative": [
+            "Vestian"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381703-YJvUnigANNUc.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95243,
+          "name": {
+            "full": "Tooru Ookawa",
+            "native": "大川透"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95243-zhk18RRqSAmx.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381770,
+        "name": {
+          "full": "Zed",
+          "native": "Z",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381770-1mo2ofwMy9lA.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95040,
+          "name": {
+            "full": "Mamiko Noto",
+            "native": "能登麻美子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381771,
+        "name": {
+          "full": "Chuu",
+          "native": "チュウ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381771-DZDQfGSaAZB5.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96522,
+          "name": {
+            "full": "Naoki Tatsuta",
+            "native": "龍田直樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1522.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381784,
+        "name": {
+          "full": "Wanko",
+          "native": "ワンコ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381784-jDnWpMbUhh1p.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95760,
+          "name": {
+            "full": "Keiko Han",
+            "native": "潘恵子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95760-aatvqsrxbFZN.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381785,
+        "name": {
+          "full": "Graviton",
+          "native": "ノ・ミラー兄弟",
+          "alternative": [
+            "No Miraa Kyoudai"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381785-sHMWw7Br9Luf.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95113,
+          "name": {
+            "full": "Rikiya Koyama",
+            "native": "小山力也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381789,
+        "name": {
+          "full": "Gravitito",
+          "native": "ノ・ミラー兄弟",
+          "alternative": [
+            "No Miraa Kyoudai"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381789-Xvfm0Jed4pG7.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95113,
+          "name": {
+            "full": "Rikiya Koyama",
+            "native": "小山力也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381790,
+        "name": {
+          "full": "Dr. H",
+          "native": "Dr. H",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381790-pn6DOPKOl5nl.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96436,
+          "name": {
+            "full": "Mugihito",
+            "native": "麦人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1436.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381791,
+        "name": {
+          "full": "033H",
+          "native": "033H",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381791-TKZaH5iDJZ8y.png"
+        },
+        "description": "[Dr. H's](https://anilist.co/character/381790/) daughter.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95272,
+          "name": {
+            "full": "Tomoko Kaneda",
+            "native": "金田朋子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95272-qfGnqI0gkKK5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381842,
+        "name": {
+          "full": "Toshokan-cho",
+          "native": "図書館長",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381842-2PvUWpvv1VLD.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95425,
+          "name": {
+            "full": "Sumi Shimamoto",
+            "native": "島本須美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95425-wEl09IWpLxIA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381843,
+        "name": {
+          "full": "Fuku-kanchou",
+          "native": "副館長",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381843-Ua0RlLbB2g1K.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96251,
+          "name": {
+            "full": "Shinji Ogawa",
+            "native": "小川真司"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96251-dbyv38Q2KNoz.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381844,
+        "name": {
+          "full": "Toshokanin",
+          "native": "図書館員",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381844-UldSFWEhlZEj.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95067,
+          "name": {
+            "full": "Kappei Yamaguchi",
+            "native": "山口勝平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381875,
+        "name": {
+          "full": "Coffee Maker",
+          "native": "コーヒーメーカー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381875-ysVWz41GOJSx.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95004,
+          "name": {
+            "full": "Aya Hirano",
+            "native": "平野綾"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95004-qWQQHGzY3wqr.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381876,
+        "name": {
+          "full": "Coffee Mill",
+          "native": "コーヒーミル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381876-DLwKYeQpHGMI.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95176,
+          "name": {
+            "full": "Michiko Neya",
+            "native": "根谷美智子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95176-3yZnUwXap7nX.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381877,
+        "name": {
+          "full": "Register",
+          "native": "レジスター",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381877-8q0xdl5lWAe4.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106158,
+          "name": {
+            "full": "Hiroki Gotou",
+            "native": "後藤ヒロキ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 381878,
+        "name": {
+          "full": "Denki Stand",
+          "native": "電気スタンド",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381878-aaXoTfRDZI2h.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107779,
+          "name": {
+            "full": "Kanami Satou",
+            "native": "佐藤奏美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12779.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 36309,
+        "name": {
+          "full": "Narrator",
+          "native": "ナレーター",
+          "alternative": [
+            "Katarite (語り手)",
+            "Narration (ナレーション)",
+            "Narrador",
+            "Rozprávač",
+            "Vyprávěč",
+            "Dış ses",
+            "Narratore",
+            "Pripovjedač",
+            "Narradora",
+            "Рассказчик",
+            "Người dẫn chuyện",
+            "Tagapagsalaysay",
+            "내레이터",
+            "Narratore",
+            "Erzählperson",
+            "מספר",
+            "Narrátor",
+            "讲述人",
+            "راوي",
+            "Forteller",
+            "Berättare",
+            "Αφηγητής",
+            "Narrate"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+        },
+        "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103906,
+          "name": {
+            "full": "Masaaki Yajima",
+            "native": "矢島正明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8906.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381672,
+        "name": {
+          "full": "BooBies Gyaru",
+          "native": "ブービーズガール",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95057,
+          "name": {
+            "full": "Houko Kuwashima",
+            "native": "桑島法子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95057-zkd7yTPVxfyu.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381673,
+        "name": {
+          "full": "BooBies Gyaru",
+          "native": "ブービーズガール",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107779,
+          "name": {
+            "full": "Kanami Satou",
+            "native": "佐藤奏美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12779.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381674,
+        "name": {
+          "full": "BooBies Gyaru",
+          "native": "ブービーズガール",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95580,
+          "name": {
+            "full": "Nozomi Sasaki",
+            "native": "ささきのぞみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95580-QzU7DKsQZ2Tt.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381677,
+        "name": {
+          "full": "Uchuujin-tachi",
+          "native": "宇宙人たち",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106158,
+          "name": {
+            "full": "Hiroki Gotou",
+            "native": "後藤ヒロキ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381678,
+        "name": {
+          "full": "Uchuujin-tachi",
+          "native": "宇宙人たち",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103809,
+          "name": {
+            "full": "Shinya Hamazoe",
+            "native": "浜添伸也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103809-pPQeMwbINnUV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381679,
+        "name": {
+          "full": "Uchuujin-tachi",
+          "native": "宇宙人たち",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 163674,
+          "name": {
+            "full": "Kenta Sasa",
+            "native": "佐々健太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n163674-f2W4ohvETz1B.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381681,
+        "name": {
+          "full": "Candy",
+          "native": "キャンディ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107779,
+          "name": {
+            "full": "Kanami Satou",
+            "native": "佐藤奏美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12779.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381682,
+        "name": {
+          "full": "Andro Seijin",
+          "native": "アンドロ星人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103809,
+          "name": {
+            "full": "Shinya Hamazoe",
+            "native": "浜添伸也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103809-pPQeMwbINnUV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381683,
+        "name": {
+          "full": "Menya Galaxy Tenin",
+          "native": "麺屋ギャラクシー店員",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106158,
+          "name": {
+            "full": "Hiroki Gotou",
+            "native": "後藤ヒロキ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381684,
+        "name": {
+          "full": "Taiin",
+          "native": "隊員",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 115817,
+          "name": {
+            "full": "Shouta Yamamoto",
+            "native": "山本祥太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115817-zG5zN8nFwClS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381688,
+        "name": {
+          "full": "Dai-7 Kantai Taichou",
+          "native": "第7艦隊隊長",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106158,
+          "name": {
+            "full": "Hiroki Gotou",
+            "native": "後藤ヒロキ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381689,
+        "name": {
+          "full": "Raagi Seijin A",
+          "native": "ラーギ星人A",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 163674,
+          "name": {
+            "full": "Kenta Sasa",
+            "native": "佐々健太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n163674-f2W4ohvETz1B.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381690,
+        "name": {
+          "full": "Raagi Seijin B",
+          "native": "ラーギ星人B",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103809,
+          "name": {
+            "full": "Shinya Hamazoe",
+            "native": "浜添伸也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103809-pPQeMwbINnUV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381691,
+        "name": {
+          "full": "Senpai Uchuujin",
+          "native": "先輩宇宙人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106158,
+          "name": {
+            "full": "Hiroki Gotou",
+            "native": "後藤ヒロキ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381692,
+        "name": {
+          "full": "Nurse A",
+          "native": "ナースA",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95580,
+          "name": {
+            "full": "Nozomi Sasaki",
+            "native": "ささきのぞみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95580-QzU7DKsQZ2Tt.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381693,
+        "name": {
+          "full": "Nurse B",
+          "native": "ナースB",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107779,
+          "name": {
+            "full": "Kanami Satou",
+            "native": "佐藤奏美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12779.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381694,
+        "name": {
+          "full": "Isha",
+          "native": "医者",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 163674,
+          "name": {
+            "full": "Kenta Sasa",
+            "native": "佐々健太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n163674-f2W4ohvETz1B.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381695,
+        "name": {
+          "full": "Youhei A",
+          "native": "傭兵A",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103809,
+          "name": {
+            "full": "Shinya Hamazoe",
+            "native": "浜添伸也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103809-pPQeMwbINnUV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381696,
+        "name": {
+          "full": "Youhei B",
+          "native": "傭兵B",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 115817,
+          "name": {
+            "full": "Shouta Yamamoto",
+            "native": "山本祥太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115817-zG5zN8nFwClS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381698,
+        "name": {
+          "full": "Waitress",
+          "native": "ウェイトレス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 98894,
+          "name": {
+            "full": "Megumi Toda",
+            "native": "戸田めぐみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98894-vUppIzWof6Mt.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381699,
+        "name": {
+          "full": "Hostess",
+          "native": "ホステス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95580,
+          "name": {
+            "full": "Nozomi Sasaki",
+            "native": "ささきのぞみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95580-QzU7DKsQZ2Tt.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381700,
+        "name": {
+          "full": "Hunter A",
+          "native": "ハンターA",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106158,
+          "name": {
+            "full": "Hiroki Gotou",
+            "native": "後藤ヒロキ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381701,
+        "name": {
+          "full": "Hunter B",
+          "native": "ハンターB",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106141,
+          "name": {
+            "full": "Ryou Sugisaki",
+            "native": "杉崎亮"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106141-R83sRuA84w7s.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381765,
+        "name": {
+          "full": "Announcer",
+          "native": "アナウンサー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381765-Dl3pe3CAZa0e.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 381766,
+          "name": {
+            "full": "Chris Peppler",
+            "native": "クリス・ペプラー"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n381766-TqliXGDPqX5m.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381772,
+        "name": {
+          "full": "Fukumen Racer",
+          "native": "覆面レーサー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381772-VHphMcoE4DkX.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106158,
+          "name": {
+            "full": "Hiroki Gotou",
+            "native": "後藤ヒロキ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381773,
+        "name": {
+          "full": "Twins",
+          "native": "ツインズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381773-mc7bt1wq6rNn.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103809,
+          "name": {
+            "full": "Shinya Hamazoe",
+            "native": "浜添伸也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103809-pPQeMwbINnUV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381774,
+        "name": {
+          "full": "Crusher Girl",
+          "native": "クラッシャーガール",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381774-EkvOI8zwIfmu.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95094,
+          "name": {
+            "full": "Akeno Watanabe",
+            "native": "渡辺明乃"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95094-nRPWBG1cVGo5.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381775,
+        "name": {
+          "full": "Race Queen",
+          "native": "レースクイーン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381775-4YYOD8foVNDt.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107779,
+          "name": {
+            "full": "Kanami Satou",
+            "native": "佐藤奏美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12779.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381792,
+        "name": {
+          "full": "Cocamuka",
+          "native": "コカムカ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381792-IaPSDog9O123.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 115817,
+          "name": {
+            "full": "Shouta Yamamoto",
+            "native": "山本祥太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115817-zG5zN8nFwClS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381793,
+        "name": {
+          "full": "Movi A",
+          "native": "モヴィA",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106158,
+          "name": {
+            "full": "Hiroki Gotou",
+            "native": "後藤ヒロキ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381794,
+        "name": {
+          "full": "Movi B",
+          "native": "モヴィB",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103809,
+          "name": {
+            "full": "Shinya Hamazoe",
+            "native": "浜添伸也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103809-pPQeMwbINnUV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381795,
+        "name": {
+          "full": "Choujo",
+          "native": "長女",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381795-6C3ijLPfOhYE.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100938,
+          "name": {
+            "full": "Ayuru Oohashi",
+            "native": "大橋歩夕"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100938-2lFwKy8LViBl.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381796,
+        "name": {
+          "full": "Sannan",
+          "native": "三男",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 116971,
+          "name": {
+            "full": "Daiki Yamashita",
+            "native": "山下大輝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116971-KDHjlYPO4HrS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381797,
+        "name": {
+          "full": "Joshi Announcer",
+          "native": "女子アナウンサー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 125030,
+          "name": {
+            "full": "Hana Satou",
+            "native": "佐藤はな"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n125030-qmzaBaeQA7xF.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381798,
+        "name": {
+          "full": "Katie",
+          "native": "ケイティ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381798-2Ik2BbpYVCZF.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95401,
+          "name": {
+            "full": "Miyu Matsuki",
+            "native": "松来未祐"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95401-2ffju56ewc36.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381799,
+        "name": {
+          "full": "Chiimama",
+          "native": "チーママ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381799-A4XJGfvfZ1tC.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96153,
+          "name": {
+            "full": "Yuu Sugimoto",
+            "native": "杉本ゆう"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1153.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381800,
+        "name": {
+          "full": "Oyaji",
+          "native": "オヤジ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106158,
+          "name": {
+            "full": "Hiroki Gotou",
+            "native": "後藤ヒロキ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381801,
+        "name": {
+          "full": "Kyaku",
+          "native": "客",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103809,
+          "name": {
+            "full": "Shinya Hamazoe",
+            "native": "浜添伸也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103809-pPQeMwbINnUV.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381845,
+        "name": {
+          "full": "Operator no Koe",
+          "native": "オペレーターの声",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106158,
+          "name": {
+            "full": "Hiroki Gotou",
+            "native": "後藤ヒロキ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381861,
+        "name": {
+          "full": "Shiranai Ojisan",
+          "native": "知らないおじさん",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381861-j9GffeHYO2oc.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103906,
+          "name": {
+            "full": "Masaaki Yajima",
+            "native": "矢島正明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8906.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381862,
+        "name": {
+          "full": "Rajicase",
+          "native": "ラジカセ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381862-i9c9JbT5vwG3.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103906,
+          "name": {
+            "full": "Masaaki Yajima",
+            "native": "矢島正明"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/8906.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 381880,
+        "name": {
+          "full": "Waitress",
+          "native": "ウェイトレス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b381880-ImgRwbe7Ph3W.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 115817,
+          "name": {
+            "full": "Shouta Yamamoto",
+            "native": "山本祥太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115817-zG5zN8nFwClS.png"
+          }
+        }
+      ]
+    }
+  ]
+}

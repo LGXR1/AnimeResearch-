@@ -1,0 +1,684 @@
+{
+  "checkedAt": "2026-10-22T07:58:29.670Z",
+  "batchStatus": "reviewed_with_followups",
+  "checkedCount": 100,
+  "checkedIds": [
+    358198,
+    358199,
+    358200,
+    358221,
+    358222,
+    358223,
+    358224,
+    358225,
+    358430,
+    358442,
+    358443,
+    358539,
+    358547,
+    358551,
+    358552,
+    358556,
+    358563,
+    358570,
+    358586,
+    358728,
+    358729,
+    358730,
+    358731,
+    358732,
+    358859,
+    358989,
+    359150,
+    359202,
+    359203,
+    359204,
+    359260,
+    359261,
+    359263,
+    359264,
+    359265,
+    359325,
+    359326,
+    359327,
+    359328,
+    359329,
+    359330,
+    359331,
+    359332,
+    359337,
+    359345,
+    359812,
+    359813,
+    359814,
+    359899,
+    360516,
+    360741,
+    360742,
+    360820,
+    360841,
+    361427,
+    361640,
+    361918,
+    361919,
+    362388,
+    362899,
+    363023,
+    363024,
+    363025,
+    363026,
+    363027,
+    363290,
+    363291,
+    363292,
+    363293,
+    363425,
+    363818,
+    363819,
+    363834,
+    363976,
+    363977,
+    364408,
+    364409,
+    364447,
+    364448,
+    364590,
+    364591,
+    364799,
+    365040,
+    365042,
+    365043,
+    365044,
+    365045,
+    365046,
+    365047,
+    365048,
+    365186,
+    365187,
+    365370,
+    365508,
+    365587,
+    365914,
+    365938,
+    365939,
+    366174,
+    366644
+  ],
+  "checkedRange": {
+    "firstId": 358198,
+    "lastId": 366644
+  },
+  "profileSnapshotVerifiedCount": 52,
+  "profileDescriptionAvailableCount": 20,
+  "modifiedIds": [
+    358539,
+    358586,
+    360516,
+    365042
+  ],
+  "source": {
+    "name": "AniList GraphQL 角色资料快照（本地缓存 + 2026-10-22 实时补查）",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "voiceMediaFetchedAt": "2026-10-13T03:04:01.115Z",
+    "records": [
+      {
+        "id": 358442,
+        "url": "https://anilist.co/character/358442"
+      },
+      {
+        "id": 358443,
+        "url": "https://anilist.co/character/358443"
+      },
+      {
+        "id": 358728,
+        "url": "https://anilist.co/character/358728"
+      },
+      {
+        "id": 358729,
+        "url": "https://anilist.co/character/358729"
+      },
+      {
+        "id": 358859,
+        "url": "https://anilist.co/character/358859"
+      },
+      {
+        "id": 359260,
+        "url": "https://anilist.co/character/359260"
+      },
+      {
+        "id": 359261,
+        "url": "https://anilist.co/character/359261"
+      },
+      {
+        "id": 359263,
+        "url": "https://anilist.co/character/359263"
+      },
+      {
+        "id": 359264,
+        "url": "https://anilist.co/character/359264"
+      },
+      {
+        "id": 359265,
+        "url": "https://anilist.co/character/359265"
+      },
+      {
+        "id": 359325,
+        "url": "https://anilist.co/character/359325"
+      },
+      {
+        "id": 359326,
+        "url": "https://anilist.co/character/359326"
+      },
+      {
+        "id": 359327,
+        "url": "https://anilist.co/character/359327"
+      },
+      {
+        "id": 359328,
+        "url": "https://anilist.co/character/359328"
+      },
+      {
+        "id": 359329,
+        "url": "https://anilist.co/character/359329"
+      },
+      {
+        "id": 359330,
+        "url": "https://anilist.co/character/359330"
+      },
+      {
+        "id": 359331,
+        "url": "https://anilist.co/character/359331"
+      },
+      {
+        "id": 359332,
+        "url": "https://anilist.co/character/359332"
+      },
+      {
+        "id": 359337,
+        "url": "https://anilist.co/character/359337"
+      },
+      {
+        "id": 359345,
+        "url": "https://anilist.co/character/359345"
+      },
+      {
+        "id": 359812,
+        "url": "https://anilist.co/character/359812"
+      },
+      {
+        "id": 359813,
+        "url": "https://anilist.co/character/359813"
+      },
+      {
+        "id": 359814,
+        "url": "https://anilist.co/character/359814"
+      },
+      {
+        "id": 360820,
+        "url": "https://anilist.co/character/360820"
+      },
+      {
+        "id": 360841,
+        "url": "https://anilist.co/character/360841"
+      },
+      {
+        "id": 361427,
+        "url": "https://anilist.co/character/361427"
+      },
+      {
+        "id": 361640,
+        "url": "https://anilist.co/character/361640"
+      },
+      {
+        "id": 361918,
+        "url": "https://anilist.co/character/361918"
+      },
+      {
+        "id": 361919,
+        "url": "https://anilist.co/character/361919"
+      },
+      {
+        "id": 362388,
+        "url": "https://anilist.co/character/362388"
+      },
+      {
+        "id": 362899,
+        "url": "https://anilist.co/character/362899"
+      },
+      {
+        "id": 363023,
+        "url": "https://anilist.co/character/363023"
+      },
+      {
+        "id": 363024,
+        "url": "https://anilist.co/character/363024"
+      },
+      {
+        "id": 363025,
+        "url": "https://anilist.co/character/363025"
+      },
+      {
+        "id": 363026,
+        "url": "https://anilist.co/character/363026"
+      },
+      {
+        "id": 363027,
+        "url": "https://anilist.co/character/363027"
+      },
+      {
+        "id": 363290,
+        "url": "https://anilist.co/character/363290"
+      },
+      {
+        "id": 363291,
+        "url": "https://anilist.co/character/363291"
+      },
+      {
+        "id": 363292,
+        "url": "https://anilist.co/character/363292"
+      },
+      {
+        "id": 363293,
+        "url": "https://anilist.co/character/363293"
+      },
+      {
+        "id": 363425,
+        "url": "https://anilist.co/character/363425"
+      },
+      {
+        "id": 363976,
+        "url": "https://anilist.co/character/363976"
+      },
+      {
+        "id": 363977,
+        "url": "https://anilist.co/character/363977"
+      },
+      {
+        "id": 364408,
+        "url": "https://anilist.co/character/364408"
+      },
+      {
+        "id": 364409,
+        "url": "https://anilist.co/character/364409"
+      },
+      {
+        "id": 364590,
+        "url": "https://anilist.co/character/364590"
+      },
+      {
+        "id": 364591,
+        "url": "https://anilist.co/character/364591"
+      },
+      {
+        "id": 365186,
+        "url": "https://anilist.co/character/365186"
+      },
+      {
+        "id": 365370,
+        "url": "https://anilist.co/character/365370"
+      },
+      {
+        "id": 365508,
+        "url": "https://anilist.co/character/365508"
+      },
+      {
+        "id": 365914,
+        "url": "https://anilist.co/character/365914"
+      },
+      {
+        "id": 366644,
+        "url": "https://anilist.co/character/366644"
+      }
+    ],
+    "round23FetchedAt": "2026-10-22T08:12:12.134Z",
+    "voiceMediaRound23": "2026-10-22T08:13:37.394Z",
+    "voiceStaffSearchRound23B": "2026-10-22T08:42:40.218Z"
+  },
+  "pendingExternalVerificationIds": [],
+  "pendingProfileNoDescriptionIds": [
+    358198,
+    358199,
+    358200,
+    358442,
+    358443,
+    358539,
+    358547,
+    358551,
+    358552,
+    358563,
+    358586,
+    358728,
+    358729,
+    359261,
+    359264,
+    359265,
+    359326,
+    359328,
+    359329,
+    359330,
+    359331,
+    359332,
+    360516,
+    360841,
+    361427,
+    361918,
+    361919,
+    362388,
+    362899,
+    363023,
+    363024,
+    363025,
+    363026,
+    363027,
+    363976,
+    363977,
+    364447,
+    364448,
+    364590,
+    364591,
+    364799,
+    365186,
+    365187,
+    365370,
+    365914,
+    366644
+  ],
+  "pendingShortDescriptionIds": [],
+  "pendingDescriptionQualityIds": [
+    358539,
+    358547,
+    358551,
+    358552,
+    358556,
+    358563,
+    358570,
+    358586,
+    359202,
+    359203,
+    359204,
+    365040,
+    365042,
+    365043,
+    365044,
+    365045,
+    365046,
+    365047,
+    365048,
+    365938,
+    365939
+  ],
+  "pendingTraitVerificationIds": [
+    358442,
+    358443,
+    358539,
+    358547,
+    358551,
+    358552,
+    358556,
+    358563,
+    358570,
+    358586,
+    358989,
+    359202,
+    359203,
+    359204,
+    359326,
+    359327,
+    359328,
+    359329,
+    359330,
+    359331,
+    359332,
+    359812,
+    359813,
+    359814,
+    360820,
+    360841,
+    361427,
+    361640,
+    361918,
+    362899,
+    363023,
+    363024,
+    363025,
+    363026,
+    363027,
+    363290,
+    363291,
+    363292,
+    363425,
+    363819,
+    363976,
+    363977,
+    364408,
+    364409,
+    364590,
+    364591,
+    365040,
+    365042,
+    365043,
+    365044,
+    365045,
+    365046,
+    365047,
+    365048,
+    365186,
+    365370,
+    365508,
+    365914,
+    365938,
+    365939,
+    366644
+  ],
+  "pendingExactGenericTraitIds": [
+    358222,
+    358539,
+    358547,
+    358551,
+    358552,
+    358556,
+    358563,
+    358570,
+    358586,
+    359202,
+    359203,
+    359204,
+    360516,
+    365040,
+    365042,
+    365043,
+    365044,
+    365045,
+    365046,
+    365047,
+    365048,
+    365938,
+    365939
+  ],
+  "pendingVoiceActorIds": [],
+  "pendingVoiceActorImageIds": [
+    364799
+  ],
+  "pendingVisualVerificationIds": [
+    360516
+  ],
+  "pendingColorTraitKeywordIds": [
+    360516
+  ],
+  "pendingImageMismatchIds": [],
+  "localFollowup": {
+    "nicknameIssuesResolved": [
+      358539,
+      358586,
+      360516,
+      365042
+    ],
+    "voiceActorImagesRepaired": [],
+    "characterImagesRefreshed": [],
+    "factualCorrections": [],
+    "searchIndex": {
+      "rebuilt": true,
+      "formulaVerified": true,
+      "descriptionExcluded": true,
+      "mismatchCountBeforeRebuild": 4
+    },
+    "localExportsRegenerated": true,
+    "nicknameAudit": {
+      "checkedCount": 100,
+      "duplicateCountAfter": 0,
+      "canonicalAniListNameMissingAfter": 0
+    },
+    "anilistProfilesRefetched": [
+      358442,
+      358443,
+      358728,
+      358729,
+      358859,
+      359260,
+      359261,
+      359263,
+      359264,
+      359265,
+      359325,
+      359326,
+      359327,
+      359328,
+      359329,
+      359330,
+      359331,
+      359332,
+      359337,
+      359345,
+      359812,
+      359813,
+      359814,
+      360820,
+      360841,
+      361427,
+      361640,
+      361918,
+      361919,
+      362388,
+      362899,
+      363023,
+      363024,
+      363025,
+      363026,
+      363027,
+      363290,
+      363291,
+      363292,
+      363293,
+      363425,
+      363976,
+      363977,
+      364408,
+      364409,
+      364590,
+      364591,
+      365186,
+      365370,
+      365508,
+      365914,
+      366644
+    ],
+    "anilistDescriptionsAvailable": [
+      358859,
+      359260,
+      359263,
+      359325,
+      359327,
+      359337,
+      359345,
+      359812,
+      359813,
+      359814,
+      360820,
+      361640,
+      363290,
+      363291,
+      363292,
+      363293,
+      363425,
+      364408,
+      364409,
+      365508
+    ],
+    "officialAliasesAdded": [],
+    "officialCharacterImagesRefreshed": [
+      361918,
+      361919
+    ],
+    "searchIndexRebuiltForProfileChanges": [
+      361918,
+      361919
+    ],
+    "voiceActorImagesFetchedRound23": [],
+    "voiceActorImagesFetchedAt": "2026-10-22T08:13:37.394Z",
+    "visualImageAuditRound23": {
+      "checkedAt": "2026-10-22T08:32:24.195Z",
+      "source": "逐张检查 AniList 官方角色头像；图片与角色链接见 visual-audit-round23/manifest.json",
+      "reviewedIds": [
+        358224,
+        358225,
+        360516
+      ],
+      "colorCorrections": [
+        {
+          "id": 358224,
+          "name": "吉娜",
+          "anime": "古诺希亚",
+          "beforeColorTraits": [
+            "黑发"
+          ],
+          "afterColorTraits": [
+            "紫发"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358224-GDi2b7yFQzWE.png"
+        },
+        {
+          "id": 358225,
+          "name": "拉奇欧",
+          "anime": "古诺希亚",
+          "beforeColorTraits": [
+            "银发"
+          ],
+          "afterColorTraits": [
+            "蓝发"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b358225-HIxvbNzIrZZR.png"
+        }
+      ],
+      "pendingIds": [
+        360516
+      ]
+    },
+    "factualCorrectionsRound23": [],
+    "voiceActorImagesResolvedFromAniListStaffRound23B": [],
+    "voiceActorStaffSearchRound23B": "2026-10-22T08:42:40.218Z",
+    "supabaseSyncRound23B": {
+      "verifiedAt": "2026-10-22T09:08:41.894Z",
+      "voiceActorImagesSynced": 0,
+      "characterIdsSynced": [],
+      "placeholderVoiceActorRemoved": false
+    }
+  },
+  "note": "角色图像已逐张目视复核；可辨认的颜色错误已修正，图片无法确认的记录继续待核。",
+  "scopeLimitations": [
+    "发色、瞳色没有逐图目视核验。",
+    "短简介、模板简介和泛化特征在缺少可靠事实来源时未改写。",
+    "本次只更新本地文件；Supabase 未同步，远端数据未回读。",
+    "AniList 实时接口仅未返回合成占位 ID 990000001；该记录继续标为待核。",
+    "AniList 未提供简介的角色仍需其他可靠人物资料来源；未根据作品简介推造人物传记。"
+  ],
+  "databaseSync": {
+    "syncedAt": null,
+    "syncedCount": 0,
+    "readbackVerified": false,
+    "status": "not_synced"
+  },
+  "syncAttempt": {
+    "attemptedThisTurn": false,
+    "reason": "本轮仅处理本地缓存与导出，没有向 Supabase 发起写入。"
+  }
+}

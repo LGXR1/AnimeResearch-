@@ -1,0 +1,514 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:29:57.896Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 20590,
+      "anime_title": "巴哈姆特之怒：GENESIS",
+      "anime_origin": "JP",
+      "source": {
+        "id": 20590,
+        "titles": [
+          "Shingeki no Bahamut: GENESIS",
+          "Rage of Bahamut: Genesis",
+          "神撃のバハムート GENESIS"
+        ],
+        "year": 2014,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/20590"
+      },
+      "characters": [
+        {
+          "id": 88554,
+          "name": "阿米拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88554-LgNfATf6jtPq.jpg",
+          "description": "阿米拉是一名神秘女子，从天空降落后便执意前往北方的赫尔海姆。她留着粉色长发双马尾，眼睛呈紫色，外表醒目，性格直率而好奇。阿米拉在旅途中与赏金猎人法瓦罗相遇，并与他结伴前往北方；她的身世、力量以及对巴哈姆特的关联逐渐成为旅程的核心谜团，也不断把法瓦罗和凯撒卷入危险事件。",
+          "nicknames": [
+            "阿米拉",
+            "Amira",
+            "アーミラ"
+          ],
+          "traits": [
+            "神秘地从天空降落",
+            "目标是北方的赫尔海姆",
+            "拥有紫色眼睛",
+            "留着粉色长发双马尾",
+            "性格直率而好奇",
+            "掌握非凡力量",
+            "与法瓦罗结伴旅行",
+            "身世与巴哈姆特有关",
+            "对过去记忆模糊",
+            "推动旅途中的核心冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "清水理沙",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107282-fyEJs2MuyVqP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Amira",
+            "name_native": "アーミラ",
+            "name_alternative": [],
+            "description": "A mysterious woman who fell from the sky. She, by all means, wants to reach the northern land called Helheim.\n\nAmira is a very tall young woman with pale skin, violet eyes, and long, flowing, pink hair she ties in two ponytails. Her attire is somewhat unusual, consisting of a white blouse with a black vest above it, and a knee-length tan-colored shirt which acts as a coat, with a maroon and red vest covering her shoulders. She wears white and beige shorts, held up with a black belt, and two long, cowboy-looking boots with folded top edge, patched black in color."
+          }
+        },
+        {
+          "id": 88555,
+          "name": "法瓦罗·莱昂",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88555-cw5l1LvibaSk.jpg",
+          "description": "法瓦罗·莱昂以赏金猎人为生，留着醒目的橙色蓬松卷发，脸上有交叉形伤疤。他性格散漫，喜欢女人、金钱和酒，自称只会照顾自己，不愿承担额外责任。与阿米拉相遇后，法瓦罗被迫踏上前往赫尔海姆的旅途，过去与凯撒的恩怨也重新浮现。面对魔物和追兵，他常靠机敏、胆量与临场应变寻找脱身机会。",
+          "nicknames": [
+            "法瓦罗·莱昂",
+            "Favaro Leone",
+            "ファバロ・レオーネ",
+            "Bomber Head",
+            "Favaro"
+          ],
+          "traits": [
+            "以赏金猎人为生",
+            "留着橙色蓬松卷发",
+            "脸上有醒目的交叉伤疤",
+            "性格散漫爱开玩笑",
+            "喜欢女人、金钱与酒",
+            "习惯宣称只顾自己",
+            "不喜欢承担责任",
+            "与阿米拉意外同行",
+            "擅长在危险中脱身",
+            "与凯撒存在旧日恩怨"
+          ],
+          "voice_actors": [
+            {
+              "name": "吉野裕行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95283-g76zV4YacFfm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Favaro Leone",
+            "name_native": "ファバロ・レオーネ",
+            "name_alternative": [
+              "Bomber Head"
+            ],
+            "description": "Favaro makes his living as a bounty hunter. He can't live without women, money and wine. His life takes a turn when he meets [Amira](https://anilist.co/character/88554/Amira).\n\nFavaro is a young man with an orange hair styled into an afro, and green eyes. He has a large X-shaped scar on his face. His armor consists of a left pauldron, plate on his left elbow, plates on both of his knees and plated boots.\n\nSpeaks with a carefree attitude and is somewhat of a self-proclaimed ladies' man. He doesn't like to be responsible for others and claims that he only watches out for himself."
+          }
+        },
+        {
+          "id": 88556,
+          "name": "凯撒·利德法尔德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88556-Crc8iIzzmeuz.png",
+          "description": "凯撒·利德法尔德出身显赫骑士家族，曾经是一名骑士，后来沦为赏金猎人，并把失去原有地位归咎于法瓦罗。他坚守骑士荣誉与自己的正义理想，虽然执着追捕旧友，却也富有同情心，遇到弱者时愿意伸出援手。过往家庭关系让凯撒格外珍视亲情；与阿米拉相遇后，他也对这名神秘女子产生好感。",
+          "nicknames": [
+            "凯撒·利德法尔德",
+            "Kaisar Lidfard",
+            "カイザル・リドファルド",
+            "Lidfort",
+            "Kaisar"
+          ],
+          "traits": [
+            "出身显赫骑士家族",
+            "曾担任骑士",
+            "后来成为赏金猎人",
+            "持续追踪法瓦罗",
+            "把失去地位归咎于法瓦罗",
+            "坚守骑士荣誉与正义",
+            "性格正直重情义",
+            "富有同情心",
+            "珍视家人与亲情",
+            "对阿米拉抱有好感"
+          ],
+          "voice_actors": [
+            {
+              "name": "井上剛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95527-8eI52NWm305v.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kaisar Lidfard",
+            "name_native": "カイザル・リドファルド",
+            "name_alternative": [
+              "Lidfort"
+            ],
+            "description": "Kaisar used to be a knight from a prestigious family, but has since become a bounty hunter. He chases Favaro, blaming him for his current status.\n\nKaisar is a very tall man, with white pants, a green shirt with white stripes and golden buttons, and a dark green vest hung over it, with green arm covers and golden stripes on the wrists. He has his knight's sword sheathed in a navy blue scabbard on his left side at all times. At times he's seen in gray knight's armor; even when he takes the armor off he keeps the leggins of the armor on his legs. Can be often seen holding a knight's pose and usually bears himself with knightly demeanor.\n\nHe is a righteous man with a very strong sense of honor, and constantly follows his own ideal of justice. Kaisar is shown to be very empathetic and compassionate, as seen during his meeting with Rita. Because of his tragic past as a rebellious son who was distant from his family, Kaisar now highly values family and abhors other people who take their family for granted. Seems to have a crush on Amira, calling her a beauty on their first encounter."
+          }
+        },
+        {
+          "id": 88559,
+          "name": "莉塔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n88559-GnwE7H6ZF1XC.jpg",
+          "description": "莉塔原本是内贝尔村医生的女儿，年幼时村庄遭到怪物袭击，她失去亲人并独自留在当地。为了摆脱孤独，她使用死灵魔法让死者重新活动，再以魔法雾气维持村庄仍有人生活的假象。多年后，凯撒遇见并救下莉塔，她成为不死者后跟随这名前骑士旅行。莉塔性格安静胆怯，却逐渐学会在新的伙伴身边生活。",
+          "nicknames": [
+            "莉塔",
+            "Rita",
+            "リタ"
+          ],
+          "traits": [
+            "住在内贝尔村的女孩",
+            "村庄医生的女儿",
+            "性格安静胆怯",
+            "擅长死灵魔法",
+            "曾独自在雾中生活多年",
+            "能够操纵复生的死者",
+            "后来成为不死者",
+            "获凯撒救下并同行",
+            "面对孤独仍保持坚强",
+            "熟悉村庄周围的亡灵"
+          ],
+          "voice_actors": [
+            {
+              "name": "沢城みゆき",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Rita",
+            "name_native": "リタ",
+            "name_alternative": [],
+            "description": "Rita is a young child who lives in Nebelville, and is the daughter of the village doctor. She has short black hair and bangs, and usually wears a lopsided hat. She has somewhat of a quiet and timid personality.\n\n~!She is actually a young necromancer. One day a monster invaded the village and killed everyone, leaving her as the only survivor of the massacre. Alone and scared, Rita used the Black Bible to revive her parents and the dead villagers, and concealed all of them behind an magical mist that made the zombies look as if they were alive. For two hundred years she lived with the zombified remnants of the town until she was, in the end, bitten by her own parents. After being spared by Kaisar and becoming an undead, she now follows the former knight in his travels.!~"
+          }
+        },
+        {
+          "id": 121629,
+          "name": "阿撒谢尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/121629-G1L7dfAYyMRk.jpg",
+          "description": "阿撒谢尔是一名堕天使，因违抗神而被逐出天界。他将夺取“神之钥”作为目标，希望借此获得足以改变现状的力量，也密切关注巴哈姆特复活的可能。阿撒谢尔拥有强大的超自然能力，擅长利用人类与天界势力之间的矛盾推进自己的计划。法瓦罗和凯撒在旅途中多次遭遇他的行动，他由此成为故事中的重要对手。",
+          "nicknames": [
+            "阿撒谢尔",
+            "Azazel",
+            "アザゼル",
+            "Pervert Demon"
+          ],
+          "traits": [
+            "堕天使",
+            "因违抗神而坠落",
+            "试图夺取神之钥",
+            "拥有强大超自然力量",
+            "关注巴哈姆特复活的可能",
+            "与人类势力发生冲突",
+            "行动目标明确",
+            "具有强烈野心",
+            "善于利用局势谋划",
+            "是故事中的重要反派"
+          ],
+          "voice_actors": [
+            {
+              "name": "森田成一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95205-5P3tKe3eTG9n.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Azazel",
+            "name_native": "アザゼル",
+            "name_alternative": [
+              "Pervert Demon"
+            ],
+            "description": "He is the fallen angel since he dared to disobey the God himself. He now tries to get hold of the God's key."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 21110,
+      "anime_title": "新妹魔王的契约者：BURST",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21110,
+        "titles": [
+          "Shinmai Maou no Testament: BURST",
+          "The Testament of Sister New Devil BURST",
+          "新妹魔王の契約者 BURST",
+          "Shinmai Maou no Keiyakusha BURST"
+        ],
+        "year": 2015,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21110"
+      },
+      "characters": [
+        {
+          "id": 89157,
+          "name": "东城刃更",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89157-66Vbr7hVsTQ5.jpg",
+          "description": "东城刃更曾是勇者族成员，父亲再婚后与两名继妹共同生活，却发现她们都是恶魔。刃更得知成濑澪身陷危险后，决心保护她，不让任何势力伤害她。凭借勇者族训练与战斗经验，他能够正面迎战强敌，也逐渐了解恶魔、勇者和魔界之间的冲突。刃更重视身边人的安全，努力在持续升级的战斗中守住同伴与家庭。",
+          "nicknames": [
+            "东城刃更",
+            "Basara Toujou",
+            "東城刃更",
+            "Toujou Basara"
+          ],
+          "traits": [
+            "勇者族前成员",
+            "与两名继妹共同生活",
+            "继妹身份都是恶魔",
+            "决心保护成濑澪",
+            "战斗能力出众",
+            "熟悉勇者族与恶魔势力",
+            "对同伴有强烈责任感",
+            "在危机中主动迎战",
+            "努力守护平凡生活",
+            "与澪缔结主从契约"
+          ],
+          "voice_actors": [
+            {
+              "name": "中村悠一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Basara Toujou",
+            "name_native": "東城刃更",
+            "name_alternative": [],
+            "description": "Toujou Basara is an ex-member of the Hero-clan. He lives with his two step sisters who are both Demons. Basara is determined no matter what to protect [Naruse](https://anilist.co/character/89158/Naruse-Mio) from anyone wanting to cause harm to her."
+          }
+        },
+        {
+          "id": 89158,
+          "name": "成濑澪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89158-GsNSGPGLXyOA.jpg",
+          "description": "成濑澪是刃更的继妹，也是拥有魔王血脉的少女，因此不断受到各方势力追逐。她留着及腰红发，眼睛呈紫色，平时安静温和，不愿把无辜的人卷入自己的处境。与刃更缔结契约后，澪得到他的保护，却也必须面对恶魔与勇者之间的冲突。她珍惜刃更给予的善意，遇到危险时不会退缩，努力守护自己在意的人。",
+          "nicknames": [
+            "成濑澪",
+            "Mio Naruse",
+            "成瀬澪",
+            "Naruse Mio"
+          ],
+          "traits": [
+            "魔王血脉继承者",
+            "刃更的继妹",
+            "留有及腰红发",
+            "紫色眼睛",
+            "与刃更缔结契约",
+            "性格安静温和",
+            "关心无辜者的安全",
+            "面对威胁时勇敢迎战",
+            "不愿欺骗普通人",
+            "珍惜刃更的保护与善意"
+          ],
+          "voice_actors": [
+            {
+              "name": "朝井彩加",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118939-6W4V2P4JL6QH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mio Naruse",
+            "name_native": "成瀬澪",
+            "name_alternative": [],
+            "description": "__Height:__ 156 cm\n\nMio is a beautiful young girl of average height, with long waist-length red hair and violet eyes. She is noted for having a distinctly voluptuous body for someone her age. Mio has been seen wearing a number of outfits throughout the series, with several casual attires at home that are usually form-fitting or revealing, as well as a uniform for attending school. After forming a contract with [Basara](https://anilist.co/character/89157/Toujou-Basara), Mio gains a choker-like tattoo around her throat which takes the appearance of a love heart with two prongs extending around either side of her neck.\n\nMio normally displays a calm demeanor, preferring to remain quiet when around others; however, she is prone to outbursts when faced with inappropriate situations such as finding erotic magazines underneath Basara's bed or being left at the mercy of [Maria](https://anilist.co/character/89160/Naruse-Maria)'s succubus curse. Despite this, she is also caring and affectionate, genuinely appreciate Basara's kind treatment and protection as well as feeling uncomfortable about having to deceive innocent people. Deep down she is afraid of her current situation and constantly being under threat, but when faced with danger she won't hesitate to face the challenge."
+          }
+        },
+        {
+          "id": 89159,
+          "name": "野中柚希",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89159-BUuPu7SKGQcX.jpg",
+          "description": "野中柚希是勇者族成员，也是刃更的青梅竹马。她奉命看护成濑澪，熟悉勇者族的行动方式，能够在出现威胁时迅速保护目标。柚希对刃更仍保有亲近感，同时认真履行自己的职责；当恶魔势力接近澪时，她必须在族群立场、个人感情和保护朋友之间作出选择。她行动敏捷，愿意主动承担危险任务。",
+          "nicknames": [
+            "野中柚希",
+            "Yuki Nonaka",
+            "Nonaka Yuki"
+          ],
+          "traits": [
+            "勇者族成员",
+            "刃更的青梅竹马",
+            "负责监视并保护澪",
+            "熟悉勇者族行动方式",
+            "与刃更关系亲近",
+            "行动敏捷",
+            "在任务中认真负责",
+            "会主动承担保护职责",
+            "面对恶魔保持警惕",
+            "关心刃更与澪的安全"
+          ],
+          "voice_actors": [
+            {
+              "name": "ブリドカット・セーラ・恵美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114371-OEVE30OTFBsk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuki Nonaka",
+            "name_native": "野中柚希",
+            "name_alternative": [],
+            "description": "__Height:__ 163 cm\n\nYuki is a member of the Hero Clan who watches over Mio Naruse. She is also Basara's childhood friend."
+          }
+        },
+        {
+          "id": 89160,
+          "name": "成濑万理亚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89160-3CpjR2W419Nj.jpg",
+          "description": "成濑万理亚是澪的妹妹与监护人，真实身份与魅魔及恶魔势力有关。她平时孩子气，喜欢捉弄刃更，即使气氛紧张也常用玩笑缓和场面；但遇到重要危机时，万理亚会认真履行守护澪的责任。她曾向刃更揭示自己的真实身份，也了解澪的家族背景，是连接日常生活与魔界事件的重要人物。",
+          "nicknames": [
+            "成濑万理亚",
+            "Maria Naruse",
+            "成瀬万理亜",
+            "Naruse Maria"
+          ],
+          "traits": [
+            "成濑澪的妹妹与监护人",
+            "恶魔族成员",
+            "拥有魅魔身份",
+            "平时表现得孩子气",
+            "喜欢捉弄刃更",
+            "在严肃时刻也会开玩笑",
+            "关键时刻认真可靠",
+            "曾向刃更揭示真实身份",
+            "熟悉澪的家庭背景",
+            "重视守护澪的职责"
+          ],
+          "voice_actors": [
+            {
+              "name": "福原香織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95051-cTWmIVG5piAG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Maria Naruse",
+            "name_native": "成瀬万理亜",
+            "name_alternative": [],
+            "description": "Maria is Mio's sister and guardian.\n\nShe is a rather childish person and likes teasing people no matter how serious the situation is. Despite this, she can be dead serious as seen when she revealed her real identity to Basara."
+          }
+        },
+        {
+          "id": 89161,
+          "name": "野中胡桃",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89161-X100Xt7Uovd5.jpg",
+          "description": "野中胡桃是勇者族成员，也是柚希的妹妹，拥有元素大师的能力。她身材娇小，却能够操纵元素力量参与战斗，作战时会使用灵装防具与灵力护臂。胡桃关心姐姐柚希，也愿意在勇者族的行动中承担职责；面对强敌时，她会认真运用能力支援同伴，证明自己并非只需要被保护的年幼成员。",
+          "nicknames": [
+            "野中胡桃",
+            "Kurumi Nonaka",
+            "Nonaka Kurumi"
+          ],
+          "traits": [
+            "勇者族成员",
+            "柚希的妹妹",
+            "拥有元素大师能力",
+            "擅长操纵元素力量",
+            "体型娇小",
+            "战斗时使用灵装防具",
+            "与勇者族行动有关",
+            "关心姐姐柚希",
+            "行动认真果断",
+            "愿意加入对抗强敌的战斗"
+          ],
+          "voice_actors": [
+            {
+              "name": "野水伊織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103956-SBfEe7v8hV4r.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kurumi Nonaka",
+            "name_native": "野中胡桃",
+            "name_alternative": [],
+            "description": "A Hero and the sister of [Yuki Nonaka](https://anilist.co/character/89159/Nonaka-Yuki). She is also an Element Master.\n\nKurumi is a petite, young girl who is surprisingly developed for her age. She has blue violet hair held up in a ponytail by a white scrunchy and yellow eyes like her sister. Her battle outfit tightly wraps around her slim figure and is the typical attire for female Heroes which is a navy blue leotard with a black collar and a white skirt. Kurumi chooses to wear short tights underneath and her limbs are covered by her Spirit Armor with her Spirit Gauntlet on her left hand."
+          }
+        },
+        {
+          "id": 89163,
+          "name": "长谷川千里",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b89163-c8oEoRkQdjS5.jpg",
+          "description": "长谷川千里是圣丘坂学园的校医，同时拥有魔法能力。她的真实身份与神界十神有关，早期曾担任刃更的导师，在校园生活中为他提供建议。千里成熟沉稳，掌握魔界与神界势力的相关知识，也会在危险时参与行动。随着相处加深，她与刃更之间建立起更亲密的关系，逐渐从指导者变为重要的伙伴。",
+          "nicknames": [
+            "长谷川千里",
+            "Chisato Hasegawa",
+            "長谷川千里",
+            "Afureia",
+            "Hasegawa Chisato"
+          ],
+          "traits": [
+            "圣丘坂学园校医",
+            "拥有魔法能力",
+            "原本属于神界十神",
+            "曾担任刃更的导师",
+            "会向刃更提供建议",
+            "知晓多方势力背景",
+            "性格成熟沉稳",
+            "关键时刻参与战斗",
+            "与刃更逐渐建立亲密关系",
+            "熟悉魔界与神界事务"
+          ],
+          "voice_actors": [
+            {
+              "name": "浅川悠",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95119-ExV6YzTBbIZE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Chisato Hasegawa",
+            "name_native": "長谷川千里",
+            "name_alternative": [
+              "Afureia"
+            ],
+            "description": "__Height:__ 168 cm\n\nChisato Hasegawa is the school nurse of Hijirigasaka Academy and a magic user. Originally she is one of the Ten Gods from the divine realm. At first, she acts as Basara's mentor often providing him with advice. Eventually, they develop a romantic relationship."
+          }
+        },
+        {
+          "id": 136322,
+          "name": "泷川八寻",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136322-IKUHvLArfwn7.jpg",
+          "description": "泷川八寻表面上是圣丘坂学园的学生，实际上奉命监视成濑澪，真实身份是魔王拉尔斯。他擅长隐藏立场，熟悉魔界势力，也掌握与澪安危相关的重要情报。八寻在校内观察刃更一行人的行动，既像同学又带有监督者的距离感；当他的真实身份揭晓后，原本的保护任务和各方关系都发生改变。",
+          "nicknames": [
+            "泷川八寻",
+            "Yahiro Takigawa",
+            "滝川八尋",
+            "Lars",
+            "Takigawa Yahiro"
+          ],
+          "traits": [
+            "伪装成圣丘坂学园学生",
+            "负责监视成濑澪",
+            "真实身份是魔王拉尔斯",
+            "熟悉魔界势力",
+            "擅长隐藏自身立场",
+            "与澪的安全任务有关",
+            "对刃更一行保持观察",
+            "掌握重要情报",
+            "行事谨慎",
+            "身份揭露后改变人物关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "杉田智和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yahiro Takigawa",
+            "name_native": "滝川八尋",
+            "name_alternative": [
+              "Lars"
+            ],
+            "description": "He poses as a student of Hijirigasaka Academy and serves as Mio's observer. He is also known as the Demon Lord Lars"
+          }
+        }
+      ]
+    }
+  ]
+}

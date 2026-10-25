@@ -1,0 +1,480 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:29:57.896Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 759,
+      "anime_title": "东京教父",
+      "anime_origin": "JP",
+      "source": {
+        "id": 759,
+        "titles": [
+          "Tokyo Godfathers",
+          "東京ゴッドファーザーズ",
+          "Rodzice chrzestni z Tokio",
+          "Héroes al Rescate"
+        ],
+        "year": 2003,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/759"
+      },
+      "characters": [
+        {
+          "id": 1077,
+          "name": "花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1077-lT7e7BvB8gZ3.png",
+          "description": "花是一名无家可归的跨性别女性，曾在新宿的酒吧工作，性格善良、富有同情心。在圣诞夜，她与阿银、美雪一起在垃圾堆中发现弃婴清子，随后坚持保护孩子并寻找其亲生父母。花最能体会被遗弃的孤独，也把清子视作自己可以照料的家人；尽管身体状况较差，她仍带着伙伴穿越东京展开寻亲之旅。",
+          "nicknames": [
+            "花",
+            "Hana",
+            "ハナ",
+            "花姐",
+            "花小姐"
+          ],
+          "traits": [
+            "无家可归的跨性别女性",
+            "曾在新宿酒吧工作",
+            "性格善良并富有同情心",
+            "在垃圾堆中发现弃婴清子",
+            "坚持保护清子并寻找其父母",
+            "身体状况较差",
+            "重视家庭和被需要的感觉",
+            "与阿银和美雪一起行动",
+            "由梅垣义明配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "梅垣義明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95977-U8Go1bFTexH9.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hana",
+            "name_native": "ハナ",
+            "name_alternative": [],
+            "description": "A homeless trans woman. She never knew her actual parents, and thus feels the most sympathy for \"Kiyoko\", the baby she finds and names. Because of her upbringing, she is the kindest out of the three main characters, but is also the sickliest, which she hides from the others."
+          }
+        },
+        {
+          "id": 1078,
+          "name": "美雪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1078-APVnWbc5KLxm.png",
+          "description": "美雪是一名离家出走的少女，她因厌恶父亲过度控制而离开家，在街头生活约半年后变得消瘦。美雪起初害怕返回家庭，也不愿面对过去的争执；与花和阿银一起照顾弃婴清子后，她逐渐重新建立对他人的信任。寻亲旅程让她有机会直面父亲，重新考虑是否回家以及如何修复亲子关系。",
+          "nicknames": [
+            "美雪",
+            "Miyuki",
+            "ミユキ",
+            "离家少女"
+          ],
+          "traits": [
+            "离家出走的少女",
+            "因父亲过度控制而离家",
+            "在街头生活约半年",
+            "过去体重较重而后变瘦",
+            "最初害怕返回家庭",
+            "与花和阿银共同照顾清子",
+            "逐渐面对与父亲之间的矛盾",
+            "由冈本绫配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "岡本綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95979-YchO0L155SKo.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Miyuki",
+            "name_native": "ミユキ",
+            "name_alternative": [],
+            "description": "Miyuki's backstory deals with her fear of returning home. She is a runaway girl who leaves home because she hated her father's over-controlling ways. In the past, Miyuki was slightly overweight, but after 6 months on the streets, she has lost a substantial amount of weight.\n\nMiyuki considers herself to be a very independent young woman, however at her young age, she greatly relies on the support and safety that Hana and Gin provide for her in order to survive on the streets."
+          }
+        },
+        {
+          "id": 19439,
+          "name": "清子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19439-rwRf3N55Y4a3.png",
+          "description": "清子是一名在圣诞夜被遗弃的婴儿，由花在垃圾堆中发现。花、阿银和美雪决定暂时共同照顾她，并试着寻找她的亲生父母。清子的出现让三位原本各自漂泊的流浪者组成临时家庭，也促使他们前往东京不同角落追查线索。她是整趟旅程的中心人物，婴儿的安危推动三位主角面对各自的过去。",
+          "nicknames": [
+            "清子",
+            "Kiyoko",
+            "弃婴清子",
+            "圣诞宝宝"
+          ],
+          "traits": [
+            "被遗弃的婴儿",
+            "由花在垃圾堆中发现",
+            "受到花、阿银和美雪共同保护",
+            "名字由照料她的流浪者取定",
+            "成为三人旅行的中心",
+            "需要找到亲生父母",
+            "婴儿的出现改变三位主角的行动",
+            "由こおろぎさとみ配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "こおろぎさとみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95470-xZYG14WGMlmS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kiyoko",
+            "name_native": "清子",
+            "name_alternative": [],
+            "description": "The little baby that Hana, Gin and Miyuki want to protect."
+          }
+        },
+        {
+          "id": 37561,
+          "name": "幸子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37561-kbVVavLLztIE.png",
+          "description": "幸子自称是清子的母亲。清子被父亲遗弃后，她陷入绝望，一度准备自杀；随后花、阿银和美雪寻找孩子的家人，幸子的处境逐渐浮现。她与丈夫泰男的关系已经破裂，关于自己与清子真实亲缘关系的误会也影响了她的选择。幸子最终需要重新面对清子和自己的生活，成为寻亲故事中与婴儿家庭相关的重要人物。",
+          "nicknames": [
+            "幸子",
+            "Sachiko",
+            "清子的养母"
+          ],
+          "traits": [
+            "自称是清子的母亲",
+            "在清子被父亲遗弃后陷入绝望",
+            "一度准备自杀",
+            "与丈夫泰男关系破裂",
+            "和清子的真实亲缘关系存在误会",
+            "其生活经历与寻亲线相连",
+            "在故事后段重新面对清子",
+            "由寺濑今日子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "寺瀬今日子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104032-T2WQPMRn19IB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sachiko",
+            "name_native": "幸子",
+            "name_alternative": [],
+            "description": "~!The self-proclaimed mother of Kiyoko. When Kiyoko is abandoned by her father, Sachiko falls into despair and prepares to commit suicide before Kiyoko is returned to her. In a strange turn of events, it is revealed that Kiyoko is not Sachiko's biological daughter.  !~"
+          }
+        },
+        {
+          "id": 40859,
+          "name": "阿银的女儿",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40859-OVsqR55wElhJ.png",
+          "description": "阿银的女儿是一名护士，与父亲长期分开生活。阿银重新找到她时，她已经接近与一名医生结婚，父女间多年积累的隔阂也随之浮现。她的生活选择让阿银必须面对自己过去离开家庭所造成的伤害。人物没有在资料中提供个人姓名，故事以她作为阿银女儿和护士的身份呈现。",
+          "nicknames": [
+            "阿银的女儿",
+            "Gin no Musume",
+            "ギンの娘",
+            "Kiyoko",
+            "阿银女儿",
+            "护士女儿"
+          ],
+          "traits": [
+            "是阿银的女儿",
+            "职业为护士",
+            "长期与父亲分开生活",
+            "曾接近与医生结婚",
+            "阿银重新找到她时即将步入婚姻",
+            "父女关系中留有多年隔阂",
+            "与阿银的家庭回忆有关",
+            "由能登麻美子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "能登麻美子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gin no Musume",
+            "name_native": "ギンの娘",
+            "name_alternative": [
+              "Kiyoko"
+            ],
+            "description": "~!Gin's daughter, a nurse. She is on the verge of being married to the Doctor by the time she is rediscovered by Gin.!~  (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 71539,
+          "name": "猫婆婆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71539-kXBOwjDxwBVv.png",
+          "description": "猫婆婆是幸子的旧邻居，住在一间破旧房屋里，长期照料许多流浪猫。花、阿银和美雪寻找清子的父母时来到她附近，猫婆婆凭借与邻里的往来提供有关幸子及周围居民的线索。她的生活空间既是猫群的栖身处，也是流浪者寻访东京街区时的重要停留点。",
+          "nicknames": [
+            "猫婆婆",
+            "Neko Baba",
+            "猫ババ",
+            "Cat Lady",
+            "猫婆"
+          ],
+          "traits": [
+            "幸子的旧邻居",
+            "居住在一间破旧房屋中",
+            "在屋里照料许多流浪猫",
+            "与幸子过去相识",
+            "向花等人提供寻找线索",
+            "曾和邻里谈论相关夫妇",
+            "以照顾动物为日常生活的一部分",
+            "由柴田理惠配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "柴田理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116061-eyaotd3iW66N.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Neko Baba",
+            "name_native": "猫ババ",
+            "name_alternative": [
+              "Cat Lady"
+            ],
+            "description": "A former neighbor of Sachiko, which holds in the old ruined house of her cats. The house they visited therefore very regularly to feed the local cats."
+          }
+        },
+        {
+          "id": 71541,
+          "name": "医生",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71541-RWoQGUwLyOUC.png",
+          "description": "医生是一名温和而可靠的医师，愿意公平对待不同处境的病人。他曾失去妻子和孩子，却没有因此放弃照料他人。花、阿银和美雪寻找清子时与他产生交集，医生的家庭经历也映照出主角们对于亲情、失去和重新建立关系的不同态度。他在故事中既提供医疗协助，也让阿银等人看到另一种面对悲伤的生活方式。",
+          "nicknames": [
+            "医生",
+            "Isha",
+            "医者",
+            "Doctor",
+            "清子的医生"
+          ],
+          "traits": [
+            "职业是医生",
+            "为有需要的人提供医疗照护",
+            "给人留下温和可靠的印象",
+            "曾失去妻子和孩子",
+            "把自己的悲伤深藏心中",
+            "与清子的去向产生联系",
+            "会公平对待不同处境的病人",
+            "由大塚明夫配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "大塚明夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95146-T6IEmqXW3xUN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Isha",
+            "name_native": "医者",
+            "name_alternative": [
+              "Doctor"
+            ],
+            "description": "As a doctor, he is a very able man, and because he treats everyone the same patient, he makes on others always a nice impression. His life has not been easy, as both his wife and his child he lost. Of which he has not let it get in Kiyoko and has now found a new love with which he is engaged. He also has a physical disability affecting his right leg."
+          }
+        },
+        {
+          "id": 71543,
+          "name": "美雪的父亲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71543-GVlOhOgLOWDZ.png",
+          "description": "美雪的父亲曾与女儿因管教问题发生激烈争吵，美雪在冲突中持刀伤到他后离家出走。父亲幸存并接受治疗，却没有因此怨恨女儿；他仍希望美雪能够回家，只是女儿一直没有勇气面对过去。寻亲旅程让美雪重新接近父亲，也使两人有机会解释误会并修复破裂的家庭关系。",
+          "nicknames": [
+            "美雪的父亲",
+            "Miyuki no Chichi",
+            "ミユキの父",
+            "Ishida",
+            "Miyuki's Father",
+            "美雪父亲",
+            "美雪的爸爸"
+          ],
+          "traits": [
+            "美雪的父亲",
+            "曾与女儿因家庭管教发生争吵",
+            "女儿持刀伤到他后离家",
+            "伤势得到治疗并幸存",
+            "并未因此怨恨女儿",
+            "希望女儿能够回家",
+            "与美雪的重逢关系到家庭和解",
+            "由屋良有作配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "屋良有作",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100770-UwcMoND5FIgC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miyuki no Chichi",
+            "name_native": "ミユキの父",
+            "name_alternative": [
+              "Ishida",
+              "Miyuki's Father"
+            ],
+            "description": "After an argument with his daughter, he is severely injured by her with a knife, which he survived but. She runs off and no longer has the courage to return home, even though her ​​father is not angry at her, and she would love to go back in its vicinity."
+          }
+        },
+        {
+          "id": 71545,
+          "name": "胡桃泽",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71545-MUuiQbh8BOHL.png",
+          "description": "胡桃泽是在东京街区活动的男性角色，花、美雪和阿银寻找幸子时与他相遇。他试图以掌握的消息接近三人，后来又和附近居民谈起一对夫妇的情况。胡桃泽的情报让主角群继续追查清子去向，同时也体现流浪者在街头寻找线索时必须判断陌生人可信度的处境。",
+          "nicknames": [
+            "胡桃泽",
+            "Kurumizawa",
+            "胡桃沢",
+            "胡桃泽先生"
+          ],
+          "traits": [
+            "在东京街区活动的男性角色",
+            "与美雪、花和阿银相遇",
+            "曾试图凭借消息接近三人",
+            "通过邻里 gossip 获取情报",
+            "带主角群接触周边居民",
+            "与街区夫妻消息有关",
+            "提供寻亲线索但目的未必单纯",
+            "由犬山犬子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "犬山イヌコ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96024-z7W9WbvflI6S.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kurumizawa",
+            "name_native": "胡桃沢",
+            "name_alternative": [],
+            "description": "As Miyuki, Hana and Gin have reached a dead end in their search for Sachiko, Kurumizawa tried to grab the trio with information on the ground. It ends, however, so that they and their neighbors a little gossip about the couple."
+          }
+        },
+        {
+          "id": 71553,
+          "name": "酒吧老板娘",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71553-KyWCY6GUsyNL.png",
+          "description": "酒吧老板娘是花曾经工作过的同性恋酒吧经营者，熟悉花在离开店铺前后的生活。她与花保持旧日联系，也让观众看到花在成为流浪者之前曾拥有的工作和社交环境。老板娘主要以亲昵称呼“妈妈桑”出现，角色关联集中在花的过去和新宿街区的人际网络。",
+          "nicknames": [
+            "酒吧老板娘",
+            "Okaasan",
+            "母さん",
+            "妈妈桑",
+            "花以前的老板"
+          ],
+          "traits": [
+            "经营花曾经工作的酒吧",
+            "是花过去生活圈的熟人",
+            "了解花离开酒吧后的处境",
+            "在新宿街区拥有经营经历",
+            "与花保持旧日联系",
+            "为故事补充花的工作背景",
+            "以亲昵称呼被其他人称呼",
+            "由加藤精三配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "加藤精三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96036-i2L5KwYbS8KR.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Okaasan",
+            "name_native": "母さん",
+            "name_alternative": [],
+            "description": "The proprietor of the gay bar Hana was formerly employed in."
+          }
+        },
+        {
+          "id": 71559,
+          "name": "出租车司机",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71559-vE5rgrIeu0it.png",
+          "description": "出租车司机在东京街头接送乘客，因花、阿银和美雪的寻亲旅程与三人产生交集。他熟悉城市道路和街区环境，在圣诞夜接触到流浪者保护弃婴的故事。出租车司机并非主角团成员，戏份较短，却通过工作身份展现东京夜间城市生活的一角。",
+          "nicknames": [
+            "出租车司机",
+            "Taxi Untenshu",
+            "タクシー運転手",
+            "Taxi Driver"
+          ],
+          "traits": [
+            "职业是出租车司机",
+            "在东京街头接送乘客",
+            "与花、阿银和美雪的旅程产生交集",
+            "参与主角寻找清子的行动线",
+            "熟悉城市道路和街区环境",
+            "在圣诞夜接触流浪者故事",
+            "以短暂但具体的职业角色出现",
+            "由山寺宏一配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "山寺宏一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Taxi Untenshu",
+            "name_native": "タクシー運転手",
+            "name_alternative": [
+              "Taxi Driver"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 71565,
+          "name": "泰男",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71565-rWD0FgH8CssK.png",
+          "description": "泰男是幸子的丈夫，两人过去曾相爱、共同生活并拥有自己的家，也曾期待迎来孩子。后来他们的关系破裂，泰男离开幸子，独自住在简陋破旧的棚屋里。花、阿银和美雪追查清子家庭时逐渐找到他，夫妻之间的往事和误会成为判断孩子亲缘关系的重要线索。",
+          "nicknames": [
+            "泰男",
+            "Yasuo",
+            "幸子的丈夫"
+          ],
+          "traits": [
+            "幸子的丈夫",
+            "曾与幸子相爱并共同生活",
+            "两人曾拥有共同的家",
+            "家庭曾期待迎来孩子",
+            "后来离开幸子独自生活",
+            "住在破旧简陋的棚屋中",
+            "与清子的家庭真相有关",
+            "由石丸博也配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "石丸博也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95718-3ke4CyMs9um5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yasuo",
+            "name_native": "泰男",
+            "name_alternative": [],
+            "description": "Yasuo is Sachiko's husband, who has abandoned her and is currently in a dilapidated shack that can be aptly described as a dump, dwells. It all actually started very well, they loved each other, had a shared house and Sachiko was also pregnant. But then fell Yasuo gambling addiction, by which the marriage was suffering because he also took his wife's money in order to gamble on the tables. Even the alcohol he was not averse and when he was drunk again, it was no longer possible to talk reason with him."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "verifiedAt": "2026-10-05T06:45:29.383Z",
+  "curatedFile": "scripts/new_anime_curated_batch12_completion.js",
+  "anime": [
+    {
+      "id": 158898,
+      "title": "夜樱家的大作战",
+      "count": 25,
+      "excluded": [
+        {
+          "name": "其他组织成员、单元人物及后续登场人物",
+          "reason": "待逐一交叉核实简介、外观与动画日配；已采集来源保留，避免凭空凑齐"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/158898",
+        "https://mission-yozakura-family.com/character/taiyo.html",
+        "https://mission-yozakura-family.com/character/mutsumi.html",
+        "https://mission-yozakura-family.com/character/kyoichiro.html",
+        "https://mission-yozakura-family.com/character/momo.html",
+        "https://mission-yozakura-family.com/character/rei.html",
+        "https://mission-yozakura-family.com/character/tsubomi.html",
+        "https://mission-yozakura-family.com/character/makoto.html"
+      ]
+    }
+  ],
+  "insertedCharacters": 25,
+  "insertedVoiceActors": 27,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 25,
+  "verifiedVoiceActors": 27
+}

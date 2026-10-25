@@ -1,0 +1,2486 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T11:18:44.281Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 118103,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 118103,
+        "titles": [
+          "Kyuuketsuki Sugu Shinu",
+          "The Vampire Dies in No Time",
+          "吸血鬼すぐ死ぬ",
+          "เจ้าแวมไพร์ พันธุ์ตายไว"
+        ],
+        "year": 2021,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/118103"
+      },
+      "characters": [
+        {
+          "id": 195177,
+          "name": "Draluc",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195177-yXosuPbcJag8.png",
+          "description": "",
+          "nicknames": [
+            "Draluc",
+            "ドラルク"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "福山潤",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Draluc",
+            "name_native": "ドラルク",
+            "name_alternative": [],
+            "description": "Draluc is an immortal higher vampire from the prestigious Dragon Clan who keeps dying and turning to dust from all kinds of small things. As his castle was destroyed, he moved in with Ronaldo, much to the other's dismay. Draluc is a typical-looking adult vampire with pale and boney complexion, pointy ears and nose. He has round lazy eyes, short black hair that is combed backwards."
+          }
+        },
+        {
+          "id": 195178,
+          "name": "Ronaldo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195178-rhZQGshcPlO8.png",
+          "description": "",
+          "nicknames": [
+            "Ronaldo",
+            "ロナルド"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "古川慎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112635-ORlGvRvgf5Nq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ronaldo",
+            "name_native": "ロナルド",
+            "name_alternative": [],
+            "description": "A vampire hunter in his 20s with a base of operations in Shin-Yokohama. Originally not thrilled to have [Draluc](https://anilist.co/character/195177/Draluc) as a roommate, the success of the partnership in his novel series, _The Ronaldo Chronicles_, leads him to reluctantly put up with the vampire. He frequently kills Draluc when annoyed. He also has an extreme phobia of celery."
+          }
+        },
+        {
+          "id": 217146,
+          "name": "John",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217146-bXXuJrvBnHFB.png",
+          "description": "",
+          "nicknames": [
+            "John",
+            "ジョン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田村睦心",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105013-DffN0XN2Zw7G.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "John",
+            "name_native": "ジョン",
+            "name_alternative": [],
+            "description": "John is a male armadillo and a familiar of [Draluc](https://anilist.co/character/195177/Draluc). He understands human language, but is unable to speak. As only Draluc can understand him, John uses gestures and signs to communicate with others. He gained immortality after officially becoming Draluc's familiar.\n\n"
+          }
+        },
+        {
+          "id": 217145,
+          "name": "Hinaichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217145-VCcQWihXPYaU.png",
+          "description": "",
+          "nicknames": [
+            "Hinaichi",
+            "ヒナイチ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日岡なつみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112777-ZK3Jxr4CpZiC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hinaichi",
+            "name_native": "ヒナイチ",
+            "name_alternative": [],
+            "description": "An officer from the Vampire Control Division. She's the youngest Vice Captain in the Division's history. She wields dual blades while on duty. While she presents as firm and strict, she's easily flustered. She loves [Draluc](https://anilist.co/character/195177/Draluc)'s cooking, especially his cookies."
+          }
+        },
+        {
+          "id": 217147,
+          "name": "Tou Handa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217147-0CU5dEWC2Paw.png",
+          "description": "",
+          "nicknames": [
+            "Tou Handa",
+            "半田桃"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tou Handa",
+            "name_native": "半田桃",
+            "name_alternative": [],
+            "description": "[Hinaichi](https://anilist.co/character/217145/Hinaichi)'s subordinate. A dhampir and former high school classmate of [Ronaldo](https://anilist.co/character/195178/Ronaldo)'s. As a mama's boy, he hates that his vampire mother is a fan of Ronaldo's books and seeks to show her a less desirable side of the hunter. His hatred borders on obsession, his room decorated with Ronaldo posters and merchandise."
+          }
+        },
+        {
+          "id": 230536,
+          "name": "Maria",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230536-hSWs3AwsvwM7.png",
+          "description": "",
+          "nicknames": [
+            "Maria",
+            "マリア"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日笠陽子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Maria",
+            "name_native": "マリア",
+            "name_alternative": [],
+            "description": "A busty hunter dressed as a nun from [Ronaldo](https://anilist.co/character/195178/Ronaldo)'s  guild whose main job is being a Matagi, hunting bears."
+          }
+        },
+        {
+          "id": 230537,
+          "name": "Satetsu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230537-a3OPzK2EPBg1.png",
+          "description": "",
+          "nicknames": [
+            "Satetsu",
+            "サテツ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "細谷佳正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Satetsu",
+            "name_native": "サテツ",
+            "name_alternative": [],
+            "description": "A vampire hunter from [Ronaldo](https://anilist.co/character/195178/Ronaldo)'s guild with metal armor on his left arm. A reformed delinquent, he keeps his composure under most situations but his past will surface if he's angered."
+          }
+        },
+        {
+          "id": 230538,
+          "name": "Shot",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230538-UJg8l4BYLxOt.png",
+          "description": "",
+          "nicknames": [
+            "Shot",
+            "ショット"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田丸篤志",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103639-eMhnwARYY1YP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shot",
+            "name_native": "ショット",
+            "name_alternative": [],
+            "description": "Another hunter from [Ronaldo](https://anilist.co/character/195178/Ronaldo)'s guild. He has a fetish for girls with body hair. He wears a vaguely American Southwestern style outfit."
+          }
+        },
+        {
+          "id": 230539,
+          "name": "Hiyoshi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230539-sszYCtmGVRUh.png",
+          "description": "",
+          "nicknames": [
+            "Hiyoshi",
+            "ヒヨシ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小野大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95212-wX1M4LJN96q2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hiyoshi",
+            "name_native": "ヒヨシ",
+            "name_alternative": [],
+            "description": "The captain of the Vampire Control Division and [Ronaldo](https://anilist.co/character/195178/Ronaldo)'s older brother. He used to be a hunter."
+          }
+        },
+        {
+          "id": 230540,
+          "name": "Fukuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230540-feusimckYIgH.png",
+          "description": "",
+          "nicknames": [
+            "Fukuma",
+            "フクマ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "土岐隼一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123971-tp8zQxlKuhfZ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Fukuma",
+            "name_native": "フクマ",
+            "name_alternative": [],
+            "description": "[Ronaldo](https://anilist.co/character/195178/Ronaldo)'s editor from Autumn Books. A terrifyingly calm man who wields a battleaxe, as all employees of Autumn Books do. He loves cats more than meeting deadlines."
+          }
+        },
+        {
+          "id": 243493,
+          "name": "Renji Kameya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b243493-Cnyd55Aq6WcD.png",
+          "description": "",
+          "nicknames": [
+            "Renji Kameya",
+            "カメ谷レンジ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "近藤孝行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/829.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Renji Kameya",
+            "name_native": "カメ谷レンジ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 254600,
+          "name": "Bosatsu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b254600-FKAi1zl6Irzg.png",
+          "description": "",
+          "nicknames": [
+            "Bosatsu",
+            "ボサツ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中尾隆聖",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95259-A1sNVqfD2MWp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bosatsu",
+            "name_native": "ボサツ",
+            "name_alternative": [],
+            "description": "Normal cat living in the neighborhood ~!However, in reality, he is a blood-sucking cat that manipulates people with his hypnotic ability.!~"
+          }
+        },
+        {
+          "id": 258658,
+          "name": "Draus",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b258658-fvNQhKX21vrZ.png",
+          "description": "",
+          "nicknames": [
+            "Draus",
+            "ドラウス",
+            "Shirogane no Ookami (白銀の狼)",
+            "Silver Wolf",
+            "Ryuuko Kou (竜子公)",
+            "Prince of Dragons"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "速水奨",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95137-2Q5l3Br9G7sk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Draus",
+            "name_native": "ドラウス",
+            "name_alternative": [
+              "Shirogane no Ookami (白銀の狼)",
+              "Silver Wolf",
+              "Ryuuko Kou (竜子公)",
+              "Prince of Dragons"
+            ],
+            "description": "__Height:__ 188cm\n\nDraus is the father of [Draluc](https://anilist.co/character/195177/). He is an immortal higher vampire who will most likely become the next head of the Dragon Clan."
+          }
+        },
+        {
+          "id": 262757,
+          "name": "Makoto Hagino",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b262757-BsAJtcY23NtN.png",
+          "description": "",
+          "nicknames": [
+            "Makoto Hagino",
+            "萩野真"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "朝井彩加",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118939-6W4V2P4JL6QH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Makoto Hagino",
+            "name_native": "萩野真",
+            "name_alternative": [],
+            "description": "Member of the self-proclaimed Shin-Yokohama Boy Hunters. Three elementary aged boys who go hunting for vampires."
+          }
+        },
+        {
+          "id": 263105,
+          "name": "Yomotsuzaka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b263105-Nm1qHxAgt6yZ.png",
+          "description": "",
+          "nicknames": [
+            "Yomotsuzaka",
+            "ヨモツザカ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yomotsuzaka",
+            "name_native": "ヨモツザカ",
+            "name_alternative": [],
+            "description": "The famous, brilliant head of the vampire research center."
+          }
+        },
+        {
+          "id": 269431,
+          "name": "Kei Kantarou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269431-wrkVJRdL4Yzy.png",
+          "description": "",
+          "nicknames": [
+            "Kei Kantarou",
+            "ケイ・カンタロウ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山下誠一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118249-aws1DsuN7cUW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kei Kantarou",
+            "name_native": "ケイ・カンタロウ",
+            "name_alternative": [],
+            "description": "A member of Vampire Control Division."
+          }
+        },
+        {
+          "id": 269432,
+          "name": "Gousetsu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269432-2MxSXGjJzHnS.png",
+          "description": "",
+          "nicknames": [
+            "Gousetsu",
+            "ゴウセツ",
+            "Master"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "稲田徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gousetsu",
+            "name_native": "ゴウセツ",
+            "name_alternative": [
+              "Master"
+            ],
+            "description": "A former vampire hunter who now serves as the guild's bartender. He receives and assigns jobs given to the guild."
+          }
+        },
+        {
+          "id": 269433,
+          "name": "Vamima no Tenchou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269433-VQrSwVDcPcVo.png",
+          "description": "",
+          "nicknames": [
+            "Vamima no Tenchou",
+            "ヴァミマの店長",
+            "Boboo",
+            "Vamima Store Manager"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山岸治雄",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/22123.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Vamima no Tenchou",
+            "name_native": "ヴァミマの店長",
+            "name_alternative": [
+              "Boboo",
+              "Vamima Store Manager"
+            ],
+            "description": "The manager of the convenience store \"Vamima\" and the father of Takeo."
+          }
+        },
+        {
+          "id": 269434,
+          "name": "Hiroshi Yokota",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269434-q22euJRFu9KR.png",
+          "description": "",
+          "nicknames": [
+            "Hiroshi Yokota",
+            "横田浩"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "菊池紗矢香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175674-NrbVPC3fwaHK.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hiroshi Yokota",
+            "name_native": "横田浩",
+            "name_alternative": [],
+            "description": "Member of the self-proclaimed Shin-Yokohama Boy Hunters. Three elementary aged boys who go hunting for vampires."
+          }
+        },
+        {
+          "id": 269435,
+          "name": "Bubuo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269435-6c9itupDFlV9.png",
+          "description": "",
+          "nicknames": [
+            "Bubuo",
+            "武々夫"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "野津山幸宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163689-feFL7yfBg2si.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bubuo",
+            "name_native": "武々夫",
+            "name_alternative": [],
+            "description": "Vamima Store Manager's son."
+          }
+        },
+        {
+          "id": 269436,
+          "name": "Shinichi Katou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269436-pwvfsg36qkW3.png",
+          "description": "",
+          "nicknames": [
+            "Shinichi Katou",
+            "加藤新一"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤原夏海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119740-EEZ5DErQhOht.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shinichi Katou",
+            "name_native": "加藤新一",
+            "name_alternative": [],
+            "description": "Captain of the self-proclaimed Shin-Yokohama Boy Hunters. Three elementary aged boys who go hunting for vampires."
+          }
+        },
+        {
+          "id": 269437,
+          "name": "Genranium",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269437-h1lN585P3O1O.png",
+          "description": "",
+          "nicknames": [
+            "Genranium",
+            "ゼンラニウム",
+            "Zenranium",
+            "Nudenium"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大塚明夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95146-T6IEmqXW3xUN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Genranium",
+            "name_native": "ゼンラニウム",
+            "name_alternative": [
+              "Zenranium",
+              "Nudenium"
+            ],
+            "description": "A mostly nude vampire whose groin is censored by a cluster of geraniums. He has control over plants and anyone he feeds a seed to."
+          }
+        },
+        {
+          "id": 269438,
+          "name": "Gorgona",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269438-8UDQNT1XEeNx.png",
+          "description": "",
+          "nicknames": [
+            "Gorgona",
+            "ゴルゴナ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小平有希",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95716-BDejHbIYkT7O.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gorgona",
+            "name_native": "ゴルゴナ",
+            "name_alternative": [],
+            "description": "Draluc's aunt and Draus' sister-in-law. She's quite interested in Ronaldo's pole dancing."
+          }
+        },
+        {
+          "id": 269439,
+          "name": "Maremi Gekkouin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269439-g9hGM484UksR.png",
+          "description": "",
+          "nicknames": [
+            "Maremi Gekkouin",
+            "月光院希美"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "花澤香菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Maremi Gekkouin",
+            "name_native": "月光院希美",
+            "name_alternative": [],
+            "description": "She mistook Adam's flirting with her friend to be for her and began stalking him, happy to let him bite her.\n~! Adam bit her after she pushed him out of traffic in order to save his life. After awakening as a vampire, she became extremely powerful, suggesting she was always meant to be a vampire. !~"
+          }
+        },
+        {
+          "id": 269440,
+          "name": "Manner Ihan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269440-4CTTaU4v1yYo.png",
+          "description": "",
+          "nicknames": [
+            "Manner Ihan",
+            "マナー違反",
+            "Etiquette Breacher"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斉藤壮馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Manner Ihan",
+            "name_native": "マナー違反",
+            "name_alternative": [
+              "Etiquette Breacher"
+            ],
+            "description": "A vampire that uses ghouls. He commits etiquette violations such as littering."
+          }
+        },
+        {
+          "id": 269441,
+          "name": "Von na Dubuts",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269441-B2zvI3HYSUK7.png",
+          "description": "",
+          "nicknames": [
+            "Von na Dubuts",
+            "フォン・ナ・ドゥーブツ",
+            "Henna Doubutsu (へんな動物)",
+            "Odd Creature"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高戸靖広",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95752-9T4nDuosYWTu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Von na Dubuts",
+            "name_native": "フォン・ナ・ドゥーブツ",
+            "name_alternative": [
+              "Henna Doubutsu (へんな動物)",
+              "Odd Creature"
+            ],
+            "description": "A vampire with little control over his transformation power due to constant thoughts of sexual thing. His true form in a handsome blond vampire which he can only achieve once he's satisfied or seriously turned off."
+          }
+        },
+        {
+          "id": 269442,
+          "name": "Ojii-sama",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269442-ySGJXDC20i24.png",
+          "description": "",
+          "nicknames": [
+            "Ojii-sama",
+            "御真祖様",
+            "Goshinso-sama",
+            "Progenitor",
+            "Draluc no Sofu (ドラルクの祖父)",
+            "Draluc's Grandfather"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中田譲治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95091-idoMaN26z80B.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ojii-sama",
+            "name_native": "御真祖様",
+            "name_alternative": [
+              "Goshinso-sama",
+              "Progenitor",
+              "Draluc no Sofu (ドラルクの祖父)",
+              "Draluc's Grandfather"
+            ],
+            "description": "Draluc's grandfather. He's the head and the strongest of the clan."
+          }
+        },
+        {
+          "id": 269443,
+          "name": "Nagiri Tsujigiri",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269443-2oO88bQogkGC.png",
+          "description": "",
+          "nicknames": [
+            "Nagiri Tsujigiri",
+            "辻斬りナギリ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "関俊彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95129-AAL7kfwAPpgR.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nagiri Tsujigiri",
+            "name_native": "辻斬りナギリ",
+            "name_alternative": [],
+            "description": "A former serial killer vampire who since entering Shin-Yokohama is a pathetic shell of his former self. He hardens his blood into blades, usually produced from the palm of his hands."
+          }
+        },
+        {
+          "id": 269444,
+          "name": "Demekin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269444-NSGdVGMYud49.png",
+          "description": "",
+          "nicknames": [
+            "Demekin",
+            "デメキン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "若本規夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95084-RTrZSU38POPF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Demekin",
+            "name_native": "デメキン",
+            "name_alternative": [],
+            "description": "A vampiric telescope goldfish."
+          }
+        },
+        {
+          "id": 269445,
+          "name": "Ta Chan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269445-qS0VDAGxG1k2.png",
+          "description": "",
+          "nicknames": [
+            "Ta Chan",
+            "ター・チャン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石原夏織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105217-PyXOw2omIHuJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ta Chan",
+            "name_native": "ター・チャン",
+            "name_alternative": [],
+            "description": "A petite girl who works as hunter from Ronaldo's guild, wearing an outfit resembling a cheongsam.\nShe's blunt and straightforward, known for her specific and personal insults."
+          }
+        },
+        {
+          "id": 269446,
+          "name": "Ydan Oji-san",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269446-gSxFF0nF1mmJ.png",
+          "description": "",
+          "nicknames": [
+            "Ydan Oji-san",
+            "Y談おじさん",
+            "Mr. Lewd Talk"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井上和彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95021-9qAoAn6GNZ3S.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ydan Oji-san",
+            "name_native": "Y談おじさん",
+            "name_alternative": [
+              "Mr. Lewd Talk"
+            ],
+            "description": "A middle-aged looking vampire who uses his hypnosis power to make people speak their secret fetishes. An old acquaintance of Draus."
+          }
+        },
+        {
+          "id": 269447,
+          "name": "Yakyuuken Daisuki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269447-HtDr93EetOdz.png",
+          "description": "",
+          "nicknames": [
+            "Yakyuuken Daisuki",
+            "野球拳大好き",
+            "Yakyuuken Lover"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "千葉繁",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95255-VOwYfPMZuZGQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yakyuuken Daisuki",
+            "name_native": "野球拳大好き",
+            "name_alternative": [
+              "Yakyuuken Lover"
+            ],
+            "description": "A vampire who loves yakyuken that will sequester his opponent in an impenetrable barrier to play. The loser loses their clothes."
+          }
+        },
+        {
+          "id": 269448,
+          "name": "Micro Bikini",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269448-3e0e59DckSxQ.png",
+          "description": "",
+          "nicknames": [
+            "Micro Bikini",
+            "マイクロビキニ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "安元洋貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Micro Bikini",
+            "name_native": "マイクロビキニ",
+            "name_alternative": [],
+            "description": "A vampire who draws his power from the micro bikini he wears. Anyone he bites dons a micro bikini and is under his control. He is the younger brother of Yakyuken Lover."
+          }
+        },
+        {
+          "id": 269449,
+          "name": "Netsuretsu Kiss",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269449-5pnfzhnwyZaO.png",
+          "description": "",
+          "nicknames": [
+            "Netsuretsu Kiss",
+            "小林未沙",
+            "Passsionate Kiss"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小林未沙",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n263886-2gqF7yMycRQb.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Netsuretsu Kiss",
+            "name_native": "小林未沙",
+            "name_alternative": [
+              "Passsionate Kiss"
+            ],
+            "description": "An bizarrely shaped vampire with three sets of lips who targets young, handsome men and sucks blood through kisses."
+          }
+        },
+        {
+          "id": 269450,
+          "name": "Akemi Handa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269450-yfbqVWHgP45B.png",
+          "description": "",
+          "nicknames": [
+            "Akemi Handa",
+            "半田あけ美"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井上喜久子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akemi Handa",
+            "name_native": "半田あけ美",
+            "name_alternative": [],
+            "description": "Tou Handa's vampiric mother. She is a big fan of Ronaldo."
+          }
+        },
+        {
+          "id": 269451,
+          "name": "Adam",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269451-DOGpu5Z4Fa1G.png",
+          "description": "",
+          "nicknames": [
+            "Adam",
+            "アダム"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大町知広",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182646-drVZX51ZXlYr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Adam",
+            "name_native": "アダム",
+            "name_alternative": [],
+            "description": "A handsome vampire who while attempting to flirt with another girl, caught the attention of Maremi instead.\n~! Not wanting her advances, he kept trying to runaway from her to no avail until she saved his life, where he turned her. !~"
+          }
+        },
+        {
+          "id": 269452,
+          "name": "Koyuki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269452-a0nn88QXnkc1.png",
+          "description": "",
+          "nicknames": [
+            "Koyuki",
+            "コユキ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高田憂希",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119154-sWANDEExAuVD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Koyuki",
+            "name_native": "コユキ",
+            "name_alternative": [],
+            "description": "Gousetsu's daughter. She works as a barmaid at \"Shin-Yokohama Highball\"."
+          }
+        },
+        {
+          "id": 269453,
+          "name": "Shouka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269453-PIAb3Z7ms8lp.png",
+          "description": "",
+          "nicknames": [
+            "Shouka",
+            "ショーカ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "間島淳司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95820-5Fuosf1ljdSc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shouka",
+            "name_native": "ショーカ",
+            "name_alternative": [],
+            "description": "A vampire hunter."
+          }
+        },
+        {
+          "id": 269454,
+          "name": "Aranea",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269454-Yiit8bT4g7hm.png",
+          "description": "",
+          "nicknames": [
+            "Aranea",
+            "アラネア",
+            "Ashi-kou no Aranea (脚高のアラネア)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上坂すみれ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109441-6y5vZS0FDE18.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aranea",
+            "name_native": "アラネア",
+            "name_alternative": [
+              "Ashi-kou no Aranea (脚高のアラネア)"
+            ],
+            "description": "A spider-themed vampire."
+          }
+        },
+        {
+          "id": 269455,
+          "name": "Signa Sirisky",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269455-Cmekljflr9LR.png",
+          "description": "",
+          "nicknames": [
+            "Signa Sirisky",
+            "シーニャ・シリスキー",
+            "Senya Siriski"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小野坂昌也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95173-LIuN04REF5eA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Signa Sirisky",
+            "name_native": "シーニャ・シリスキー",
+            "name_alternative": [
+              "Senya Siriski"
+            ],
+            "description": "A Vampire Trainer who uses bondage to train and control inferior vampires."
+          }
+        },
+        {
+          "id": 269456,
+          "name": "Sagyou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269456-T6yFIKzwHJZO.png",
+          "description": "",
+          "nicknames": [
+            "Sagyou",
+            "サギョウ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "西山宏太朗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112075-3XkMb12Pl3Mx.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sagyou",
+            "name_native": "サギョウ",
+            "name_alternative": [],
+            "description": "One of the newer members of the Vampire Control Division. He takes his job rather seriously."
+          }
+        },
+        {
+          "id": 269457,
+          "name": "Medoki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269457-A4Yzagu4TOFJ.png",
+          "description": "",
+          "nicknames": [
+            "Medoki",
+            "メドキ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "酒井広大",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119832-6UV28VP1MXWI.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Medoki",
+            "name_native": "メドキ",
+            "name_alternative": [],
+            "description": "A vampire hunter."
+          }
+        },
+        {
+          "id": 269458,
+          "name": "Rokuon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269458-7Ka17lO3mDdx.png",
+          "description": "",
+          "nicknames": [
+            "Rokuon",
+            "録音"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "柳晃平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131421-UnSKM83TA5Jg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rokuon",
+            "name_native": "録音",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 269459,
+          "name": "Kickboard no Gaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269459-eiN9edbG4xcM.png",
+          "description": "",
+          "nicknames": [
+            "Kickboard no Gaki",
+            "キックボードのガキ",
+            "Kickboard Kid",
+            "Gamer Boy"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田村睦心",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105013-DffN0XN2Zw7G.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kickboard no Gaki",
+            "name_native": "キックボードのガキ",
+            "name_alternative": [
+              "Kickboard Kid",
+              "Gamer Boy"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 269460,
+          "name": "Homerun Batter",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269460-YyhNt9ILzUDU.png",
+          "description": "",
+          "nicknames": [
+            "Homerun Batter",
+            "ホームランバッター"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "塩尻浩規",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n269461-VLeom13Ycize.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Homerun Batter",
+            "name_native": "ホームランバッター",
+            "name_alternative": [],
+            "description": "Vampire hunter who fights with a bat and a ball."
+          }
+        },
+        {
+          "id": 269466,
+          "name": "Vamone",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b269466-7Oa32y4ph2MU.png",
+          "description": "",
+          "nicknames": [
+            "Vamone",
+            "ヴァモネ"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Vamone",
+            "name_native": "ヴァモネ",
+            "name_alternative": [],
+            "description": "A duck-themed vampire hunter. He's very popular."
+          }
+        },
+        {
+          "id": 317569,
+          "name": "Luna",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b317569-clskglYVh0D3.png",
+          "description": "",
+          "nicknames": [
+            "Luna",
+            "ルナ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小山百代",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n126660-lH1rWxt4JPzF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Luna",
+            "name_native": "ルナ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327625,
+          "name": "Mebiyatsu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327625-rGsPZHl2rogw.png",
+          "description": "",
+          "nicknames": [
+            "Mebiyatsu",
+            "メビヤツ",
+            "Mekara Beam Deru Yatsu (目からビーム出るやつ)"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mebiyatsu",
+            "name_native": "メビヤツ",
+            "name_alternative": [
+              "Mekara Beam Deru Yatsu (目からビーム出るやつ)"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327631,
+          "name": "Gregory",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327631-WYQAcJzsTAZu.png",
+          "description": "",
+          "nicknames": [
+            "Gregory",
+            "グレゴリー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "奥村翔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n172200-OTOKA2GqyQxb.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gregory",
+            "name_native": "グレゴリー",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327632,
+          "name": "Finn",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327632-cf7MaKIpEZiE.png",
+          "description": "",
+          "nicknames": [
+            "Finn",
+            "フィン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "柳晃平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131421-UnSKM83TA5Jg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Finn",
+            "name_native": "フィン",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327633,
+          "name": "Eddie",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327633-k7tjno5Werb8.png",
+          "description": "",
+          "nicknames": [
+            "Eddie",
+            "エディ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤祐吾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135932-HC3BWw021yOD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eddie",
+            "name_native": "エディ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327634,
+          "name": "Stella",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327634-tovaBfp46c6I.png",
+          "description": "",
+          "nicknames": [
+            "Stella",
+            "ステラ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中西尚也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n165230-zU58c1PGCfdY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Stella",
+            "name_native": "ステラ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327654,
+          "name": "Wataamezukuri",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327654-H6mpRyvZG8uT.png",
+          "description": "",
+          "nicknames": [
+            "Wataamezukuri",
+            "わたあめ造り",
+            "Cotton Candy Maker"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "柳晃平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131421-UnSKM83TA5Jg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Wataamezukuri",
+            "name_native": "わたあめ造り",
+            "name_alternative": [
+              "Cotton Candy Maker"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327626,
+          "name": "Eri",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327626-gxY1MwRv89Vn.png",
+          "description": "",
+          "nicknames": [
+            "Eri",
+            "エリ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "清水彩香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104108-UXiBJxnycHhL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Eri",
+            "name_native": "エリ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327627,
+          "name": "Gaki no Hahaoya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327627-eKjjABG3Vlds.png",
+          "description": "",
+          "nicknames": [
+            "Gaki no Hahaoya",
+            "ガキの母親",
+            "Gaki's Mother"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "伊吹茅紘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n327620-EJF5nM43rID9.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Gaki no Hahaoya",
+            "name_native": "ガキの母親",
+            "name_alternative": [
+              "Gaki's Mother"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327628,
+          "name": "Obachan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327628-W8z4EOdPZcMN.png",
+          "description": "",
+          "nicknames": [
+            "Obachan",
+            "オバチャン",
+            "Auntie"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "清水彩香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104108-UXiBJxnycHhL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Obachan",
+            "name_native": "オバチャン",
+            "name_alternative": [
+              "Auntie"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327629,
+          "name": "Keisatsukan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327629-YMHnhX8oa22F.png",
+          "description": "",
+          "nicknames": [
+            "Keisatsukan",
+            "警察官",
+            "Police Officer"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "柳晃平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131421-UnSKM83TA5Jg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Keisatsukan",
+            "name_native": "警察官",
+            "name_alternative": [
+              "Police Officer"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327630,
+          "name": "Taiiku Kyoushi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327630-G0vQBBHQD4R1.png",
+          "description": "",
+          "nicknames": [
+            "Taiiku Kyoushi",
+            "体育教師",
+            "PE Teacher"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "蟹江俊介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179310-hYYtBLovsIrQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Taiiku Kyoushi",
+            "name_native": "体育教師",
+            "name_alternative": [
+              "PE Teacher"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327635,
+          "name": "Dansei A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Dansei A",
+            "男性A",
+            "Man A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "柳晃平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131421-UnSKM83TA5Jg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Dansei A",
+            "name_native": "男性A",
+            "name_alternative": [
+              "Man A"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327636,
+          "name": "Dansei B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Dansei B",
+            "男性B",
+            "Man B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "若林佑",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n203135-bRzDAbkRAKrz.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Dansei B",
+            "name_native": "男性B",
+            "name_alternative": [
+              "Man B"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327637,
+          "name": "Ota Yuujin A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Ota Yuujin A",
+            "オタ友人A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内海安希子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n315253-K3foMOnafGky.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Ota Yuujin A",
+            "name_native": "オタ友人A",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327638,
+          "name": "Ota Yuujin B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Ota Yuujin B",
+            "オタ友人B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "榊?夏美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n327639-KzrDJOCt6OiJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Ota Yuujin B",
+            "name_native": "オタ友人B",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327640,
+          "name": "Ota Yuujin C",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Ota Yuujin C",
+            "オタ友人C"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "清水彩香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104108-UXiBJxnycHhL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Ota Yuujin C",
+            "name_native": "オタ友人C",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327641,
+          "name": "Announcer",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Announcer",
+            "アナウンサー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山根綺",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n152204-KPn660ma9Qyv.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Announcer",
+            "name_native": "アナウンサー",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327642,
+          "name": "John Fan Club A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "John Fan Club A",
+            "ジョンファンクラブA"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋伸也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105148-wgwzwTxAERbM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "John Fan Club A",
+            "name_native": "ジョンファンクラブA",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327643,
+          "name": "John Fan Club B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "John Fan Club B",
+            "ジョンファンクラブB"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宮園拓夢",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n190927-al0rO5vIW8wD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "John Fan Club B",
+            "name_native": "ジョンファンクラブB",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327644,
+          "name": "John Fan Club C",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "John Fan Club C",
+            "ジョンファンクラブC"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岡本幸輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n182099-5ELsbRmPWVtq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "John Fan Club C",
+            "name_native": "ジョンファンクラブC",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327645,
+          "name": "Senshu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Senshu",
+            "選手",
+            "Player"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "柳晃平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131421-UnSKM83TA5Jg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Senshu",
+            "name_native": "選手",
+            "name_alternative": [
+              "Player"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327646,
+          "name": "Tenin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Tenin",
+            "店員",
+            "Clerk"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "倉持若菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n224605-hnWbaMungUK8.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Tenin",
+            "name_native": "店員",
+            "name_alternative": [
+              "Clerk"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327647,
+          "name": "Caster",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Caster",
+            "キャスター"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山根綺",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n152204-KPn660ma9Qyv.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Caster",
+            "name_native": "キャスター",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327648,
+          "name": "Chuugakusei",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Chuugakusei",
+            "中学生",
+            "Middle School Student"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小林大紀",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120264-tFX9T4R9BhnV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Chuugakusei",
+            "name_native": "中学生",
+            "name_alternative": [
+              "Middle School Student"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327649,
+          "name": "Oba-san A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327649-sTSNhIEs8UyB.png",
+          "description": "",
+          "nicknames": [
+            "Oba-san A",
+            "おばさんA",
+            "Auntie"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "清水彩香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104108-UXiBJxnycHhL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Oba-san A",
+            "name_native": "おばさんA",
+            "name_alternative": [
+              "Auntie"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327651,
+          "name": "Oba-san B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327651-6j2mmgqZ1ifH.png",
+          "description": "",
+          "nicknames": [
+            "Oba-san B",
+            "おばさんB",
+            "Auntie B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松下真緒",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n264214-tgIH8hcg4BOT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Oba-san B",
+            "name_native": "おばさんB",
+            "name_alternative": [
+              "Auntie B"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327652,
+          "name": "Masaki Okada",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Masaki Okada",
+            "岡田将生"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "葉山翔太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n159684-KcBwnmc9reYs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Masaki Okada",
+            "name_native": "岡田将生",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327653,
+          "name": "Ghoul",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327653-kHhKD9Ueu0F6.png",
+          "description": "",
+          "nicknames": [
+            "Ghoul",
+            "グール"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "福原かつみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n122731-nAnzixFo0dLS.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Ghoul",
+            "name_native": "グール",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327655,
+          "name": "Kyuutaika Shokuin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Kyuutaika Shokuin",
+            "吸対科職員",
+            "Vampire Countermeasure Division Staff"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "外崎友亮",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n134432-9tR7cGK3Wz22.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kyuutaika Shokuin",
+            "name_native": "吸対科職員",
+            "name_alternative": [
+              "Vampire Countermeasure Division Staff"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327656,
+          "name": "Ikemen Hunt A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Ikemen Hunt A",
+            "イケメンハントA"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "杉山里穂",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125475-0CWs2AKNtmfk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Ikemen Hunt A",
+            "name_native": "イケメンハントA",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327657,
+          "name": "Ikemen Hunt B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Ikemen Hunt B",
+            "イケメンハントB"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "菊池紗矢香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175674-NrbVPC3fwaHK.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Ikemen Hunt B",
+            "name_native": "イケメンハントB",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327658,
+          "name": "Torimaki A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Torimaki A",
+            "取り巻きA",
+            "Entourage A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白石晴香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112629-U0y9a5Z9ogfk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Torimaki A",
+            "name_native": "取り巻きA",
+            "name_alternative": [
+              "Entourage A"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327659,
+          "name": "Torimaki B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Torimaki B",
+            "取り巻きB",
+            "Entourage B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "永牟田萌",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n307325-Ld0p9Gc6pTuq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Torimaki B",
+            "name_native": "取り巻きB",
+            "name_alternative": [
+              "Entourage B"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327660,
+          "name": "Chupacabra",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327660-C3c6q8XvCCPe.png",
+          "description": "",
+          "nicknames": [
+            "Chupacabra",
+            "チュパカブラ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "柳晃平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131421-UnSKM83TA5Jg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Chupacabra",
+            "name_native": "チュパカブラ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327661,
+          "name": "Senin A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327661-mEYrbZxCuBsO.png",
+          "description": "",
+          "nicknames": [
+            "Senin A",
+            "船員A",
+            "Sailor A"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤正幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n303877-cwObxKzq2j6k.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Senin A",
+            "name_native": "船員A",
+            "name_alternative": [
+              "Sailor A"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327662,
+          "name": "Senin B",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327662-IKNK0pjuMb1e.png",
+          "description": "",
+          "nicknames": [
+            "Senin B",
+            "船員B",
+            "Sailor B"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "真白健太朗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n164131-O71pY8fnjVah.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Senin B",
+            "name_native": "船員B",
+            "name_alternative": [
+              "Sailor B"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327663,
+          "name": "Akachan Madillo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327663-l9rzRM7e3MqY.png",
+          "description": "",
+          "nicknames": [
+            "Akachan Madillo",
+            "赤ちゃんマジロ",
+            "Baby Armadillo"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "倉持若菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n224605-hnWbaMungUK8.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Akachan Madillo",
+            "name_native": "赤ちゃんマジロ",
+            "name_alternative": [
+              "Baby Armadillo"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 327664,
+          "name": "Chourou Madillo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327664-3AVgLi5VdbeK.png",
+          "description": "",
+          "nicknames": [
+            "Chourou Madillo",
+            "長老マジロ",
+            "Elder Armadillo"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "相馬康一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113545-AiM4kzCRQROf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Chourou Madillo",
+            "name_native": "長老マジロ",
+            "name_alternative": [
+              "Elder Armadillo"
+            ],
+            "description": ""
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 146922,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 146922,
+        "titles": [
+          "Kidou Senshi Gundam: Suisei no Majo - PROLOGUE",
+          "Mobile Suit Gundam: The Witch from Mercury - PROLOGUE",
+          "機動戦士ガンダム 水星の魔女 PROLOGUE",
+          "Mobile Suit Gundam: The Witch from Mercury Episode 0",
+          "G-Witch Prologue",
+          "Мобильный воин Гандам: Ведьма с Меркурия"
+        ],
+        "year": 2022,
+        "format": "SPECIAL",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/146922"
+      },
+      "characters": [
+        {
+          "id": 282618,
+          "name": "Cardo Nabo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282618-Q72gXY9X2HXH.png",
+          "description": "",
+          "nicknames": [
+            "Cardo Nabo",
+            "カルド・ナボ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "一城みゆ希",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103016-ksxumAK4vYNm.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Cardo Nabo",
+            "name_native": "カルド・ナボ",
+            "name_alternative": [],
+            "description": "She was a researcher who represented the Vanadis Institute. As a leading proponent of the \"GUND FORMAT\" theory, she had earned the respect of her fellow researchers"
+          }
+        },
+        {
+          "id": 289107,
+          "name": "Prospera Mercury",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289107-U2GQBQ7dfk6H.jpg",
+          "description": "",
+          "nicknames": [
+            "Prospera Mercury",
+            "プロスペラ・マーキュリー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "能登麻美子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Prospera Mercury",
+            "name_native": "プロスペラ・マーキュリー",
+            "name_alternative": [],
+            "description": "The CEO of the Shin Sei Development Corporation, which is headquartered at Mercury. She was in charge of the Gundam Aerial's development, and is Suletta's mother. She always wears special headgear for physical support."
+          }
+        },
+        {
+          "id": 304462,
+          "name": "Ericht Samaya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304462-hSgSxVT1Npro.png",
+          "description": "",
+          "nicknames": [
+            "Ericht Samaya",
+            "エリクト・サマヤ",
+            "Eri (エリ)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "市ノ瀬加那",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124390-03LHel2XSFel.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ericht Samaya",
+            "name_native": "エリクト・サマヤ",
+            "name_alternative": [
+              "Eri (エリ)"
+            ],
+            "description": "A four-year-old girl who lives with her family at Fólkvangr. She is the daughter of Elnora and Nadim. Ericht is an innocent child, and so curious that her parents sometimes don't know what to do with her.\n\n~!After the Vanadis Incident, she was turned into the Gundam Aerial.!~"
+          }
+        },
+        {
+          "id": 282619,
+          "name": "Wendy Olent",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282619-fqYluTgQlBau.png",
+          "description": "",
+          "nicknames": [
+            "Wendy Olent",
+            "ウェンディ・オレント"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大地葉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109251-ge8rmZwppqxy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Wendy Olent",
+            "name_native": "ウェンディ・オレント",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 282620,
+          "name": "Nyla Bertran",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282620-nJl5pJEzKIso.png",
+          "description": "",
+          "nicknames": [
+            "Nyla Bertran",
+            "ナイラ・バートラン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小島幸子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95276-uj7NdE0RLmEU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nyla Bertran",
+            "name_native": "ナイラ・バートラン",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 282621,
+          "name": "Nadim Samaya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282621-X6RRGOWOKrGm.png",
+          "description": "",
+          "nicknames": [
+            "Nadim Samaya",
+            "ナディム・サマヤ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "土田大",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101214-kvHCKwu88FcF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nadim Samaya",
+            "name_native": "ナディム・サマヤ",
+            "name_alternative": [],
+            "description": "The father of the Samaya family."
+          }
+        },
+        {
+          "id": 288842,
+          "name": "Delling Rembran",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288842-PIWMS5h3zYTi.png",
+          "description": "",
+          "nicknames": [
+            "Delling Rembran",
+            "デリング・レンブラン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内田直哉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95338-hoqbedi0LHZf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Delling Rembran",
+            "name_native": "デリング・レンブラン",
+            "name_alternative": [],
+            "description": "The president of the Benerit Group, and supervising representative of the auditing organization Cathedra."
+          }
+        },
+        {
+          "id": 307151,
+          "name": "Kenanji Avery",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307151-ckcgtfmvSYsa.jpg",
+          "description": "",
+          "nicknames": [
+            "Kenanji Avery",
+            "ケナンジ・アベリー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上田燿司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95926-00Pd2b8WZwQS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kenanji Avery",
+            "name_native": "ケナンジ・アベリー",
+            "name_alternative": [],
+            "description": "A commander in the Dominicus special forces. 21 years earlier, Kenanji served as a Begir-Beu pilot during the Vanadis Incident."
+          }
+        }
+      ]
+    }
+  ]
+}

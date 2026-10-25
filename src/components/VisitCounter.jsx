@@ -1,15 +1,12 @@
 import { useEffect, useState } from 'react'
-import { recordVisit } from '../lib/api'
+import { getVisitCounts, recordVisit } from '../lib/api'
 
-// One increment per full document load. Reuse it across React remounts and Strict Mode.
-let pageVisitRequest
+// Keep the request across React remounts and Vite hot reloads within this document.
+const visitRequestKey = Symbol.for('anime.siteVisitRequest')
 
 function recordPageVisit() {
-  pageVisitRequest ||= recordVisit().catch((error) => {
-    pageVisitRequest = undefined
-    throw error
-  })
-  return pageVisitRequest
+  window[visitRequestKey] ||= recordVisit()
+  return window[visitRequestKey]
 }
 
 export default function VisitCounter() {
@@ -17,35 +14,74 @@ export default function VisitCounter() {
 
   useEffect(() => {
     let cancelled = false
+    let initialLoadFinished = false
+    let refreshing = false
 
-    async function loadVisits() {
+    function showCounts(counts) {
+      if (!cancelled) setVisits(counts)
+    }
+
+    async function refreshCounts() {
+      if (cancelled || !initialLoadFinished || refreshing || document.hidden) return
+      refreshing = true
       try {
-        const counts = await recordPageVisit()
-
-        if (!cancelled) setVisits(counts)
+        showCounts(await getVisitCounts())
       } catch (error) {
-        console.error('无法加载全站访问量:', error)
+        console.error('无法刷新浏览量:', error)
+      } finally {
+        refreshing = false
       }
     }
 
-    loadVisits()
-    return () => { cancelled = true }
+    async function loadVisits() {
+      try {
+        showCounts(await recordPageVisit())
+      } catch (error) {
+        console.error('无法记录本次浏览:', error)
+        if (!cancelled) {
+          try {
+            showCounts(await getVisitCounts())
+          } catch (readError) {
+            console.error('无法加载浏览量:', readError)
+          }
+        }
+      } finally {
+        initialLoadFinished = true
+      }
+    }
+
+    void loadVisits()
+    const refreshWhenVisible = () => { void refreshCounts() }
+    const timer = window.setInterval(refreshWhenVisible, 60_000)
+    document.addEventListener('visibilitychange', refreshWhenVisible)
+    window.addEventListener('focus', refreshWhenVisible)
+    window.addEventListener('pageshow', refreshWhenVisible)
+
+    return () => {
+      cancelled = true
+      window.clearInterval(timer)
+      document.removeEventListener('visibilitychange', refreshWhenVisible)
+      window.removeEventListener('focus', refreshWhenVisible)
+      window.removeEventListener('pageshow', refreshWhenVisible)
+    }
   }, [])
 
-  if (visits === null) return null
-
   return (
-    <div
-      className="fixed bottom-5 left-5 z-20 flex items-center gap-2 border border-white/10 bg-[#14131a]/85 px-3 py-2 text-xs text-gray-400 shadow-lg shadow-black/20 backdrop-blur-md"
-      aria-label={`今日浏览量 ${visits.today}，总浏览量 ${visits.total}`}
-      title="今日浏览量与全站累计浏览量"
+    <footer
+      className="flex h-12 items-center justify-center gap-2 border-t border-white/10 bg-[#0d0d15] px-4 text-xs text-gray-400"
+      aria-label={visits ? `北京时间今日浏览量 ${visits.today}，总浏览量 ${visits.total}` : '浏览量加载中'}
+      title="北京时间今日浏览量与全站累计浏览量"
     >
-      <span className="h-1.5 w-1.5 bg-[#ff6b8a]" aria-hidden="true" />
-      <span>今日浏览量</span>
-      <strong className="font-medium tabular-nums text-[#ffb1c1]">{visits.today.toLocaleString('zh-CN')}</strong>
-      <span className="mx-1 h-4 border-l border-white/10" aria-hidden="true" />
-      <span>总浏览量</span>
-      <strong className="font-medium tabular-nums text-[#ffb1c1]">{visits.total.toLocaleString('zh-CN')}</strong>
-    </div>
+      {visits && (
+        <>
+          <span className="h-1.5 w-1.5 bg-[#ff6b8a]" aria-hidden="true" />
+          <span>今日浏览量</span>
+          <strong className="font-medium tabular-nums text-[#ffb1c1]">{visits.today.toLocaleString('zh-CN')}</strong>
+          <span className="mx-1 h-4 border-l border-white/10" aria-hidden="true" />
+          <span>总浏览量</span>
+          <strong className="font-medium tabular-nums text-[#ffb1c1]">{visits.total.toLocaleString('zh-CN')}</strong>
+        </>
+      )}
+    </footer>
   )
 }

@@ -1,0 +1,485 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T11:24:05.338Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 12467,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 12467,
+        "titles": [
+          "Nazo no Kanojo X",
+          "Mysterious Girlfriend X",
+          "謎の彼女X",
+          "MGX",
+          "NazoKanoX"
+        ],
+        "year": 2012,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/12467"
+      },
+      "characters": [
+        {
+          "id": 7088,
+          "name": "Akira Tsubaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7088-R90DbOUKJlqT.png",
+          "description": "",
+          "nicknames": [
+            "Akira Tsubaki",
+            "椿明"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "入野自由",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Akira Tsubaki",
+            "name_native": "椿明",
+            "name_alternative": [],
+            "description": "This story's main character.  Since he tasted Urabe's drool, the two have entered into a strange love relationship.  He's reached the age where he's just acquired some interest in the opposite sex, but every time he tries seizing the initiative in romancing the beautiful Urabe, he can never seem to make any progress in their relationship."
+          }
+        },
+        {
+          "id": 7089,
+          "name": "Mikoto Urabe",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n7089-URQPMAn9I03h.jpg",
+          "description": "",
+          "nicknames": [
+            "Mikoto Urabe",
+            "卜部美琴"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "吉谷彩子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111073-nrAd4nxNznyp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mikoto Urabe",
+            "name_native": "卜部美琴",
+            "name_alternative": [],
+            "description": "**Class:** 2nd year of high school\n**Height:** 162 cm (5'3\")\n\nUrabe Mikoto is a girl who enjoys cutting things with her \"panty scissors\", sleeping during class, and not associating with anyone other than her boyfriend and friend [Oka](https://anilist.co/character/14886/Oka-Ayuko). While quirky, Urabe is incredibly genuine and sincere to her beloved [Tsubaki](https://anilist.co/character/7088/Tsubaki-Akira)."
+          }
+        },
+        {
+          "id": 14886,
+          "name": "Ayuko Oka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14886-hR9hj2iyWekd.png",
+          "description": "",
+          "nicknames": [
+            "Ayuko Oka",
+            "丘歩子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "広橋涼",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/95111-iw76EbsupYkS.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ayuko Oka",
+            "name_native": "丘歩子",
+            "name_alternative": [],
+            "description": "__Height:__ 143 cm"
+          }
+        },
+        {
+          "id": 23766,
+          "name": "Kouhei Ueno",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23766-GUrpgx6VJcF8.png",
+          "description": "",
+          "nicknames": [
+            "Kouhei Ueno",
+            "上野公平"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "梶裕貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kouhei Ueno",
+            "name_native": "上野公平",
+            "name_alternative": [],
+            "description": "A bespectacled friend and classmate of Tsubaki. He and Oka have been dating for about a year, but try to keep it a secret from their classmates. Only Tsubaki and Urabe (and later Hayakawa) are aware of their relationship. He often fondly recounts to Tsubaki his experiences with Oka; Tsubaki in turn gets romantic ideas to use on Urabe from Ueno's stories. He also seems to possess a possessive style as he won't take Oka to the beach because other guys will see her in a bikini and jealous when other guys talk to her."
+          }
+        },
+        {
+          "id": 32447,
+          "name": "Youko Tsubaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32447-7QyzJN7zA6eI.png",
+          "description": "",
+          "nicknames": [
+            "Youko Tsubaki",
+            "椿陽子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "福圓美里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95207-TYPMa0JKUDAf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Youko Tsubaki",
+            "name_native": "椿陽子",
+            "name_alternative": [],
+            "description": "Tsubaki's elder sister. She considers it her duty to raise her brother properly in place of their deceased mother, and refuses to consider getting married until he graduates and finds a job. She spends her time housekeeping. Tsubaki's occasional strange behavior from the effects of Urabe's saliva sometimes makes Youko worry about her brother."
+          }
+        },
+        {
+          "id": 35362,
+          "name": "Aika Hayakawa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n35362-Rpjv9EQubYUe.png",
+          "description": "",
+          "nicknames": [
+            "Aika Hayakawa",
+            "早川愛香"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "嶋村侑",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100295-SLfRq3RqJEoF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aika Hayakawa",
+            "name_native": "早川愛香",
+            "name_alternative": [],
+            "description": "She was Tsubaki's classmate throughout junior high school, and she was also his first crush. She's a typical beautiful girl. Presently, she attends Hoshinome Girls' Academy, a girls only high school."
+          }
+        },
+        {
+          "id": 49187,
+          "name": "Nakajima",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/49187.jpg",
+          "description": "",
+          "nicknames": [
+            "Nakajima",
+            "中島"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤拓也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104580-UtA5zydwu3ai.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nakajima",
+            "name_native": "中島",
+            "name_alternative": [],
+            "description": "Nakajima is a classmate of Tsubaki and Ueno. He is in the photography club and is usually taking furtive photos of the class's girls and selling them to fellow classmates."
+          }
+        },
+        {
+          "id": 61401,
+          "name": "Tannin no Sensei",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/61401.jpg",
+          "description": "",
+          "nicknames": [
+            "Tannin no Sensei",
+            "担任の先生",
+            "Homeroom teacher"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "古島清孝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95482-TvNE5H6I7pEb.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tannin no Sensei",
+            "name_native": "担任の先生",
+            "name_alternative": [
+              "Homeroom teacher"
+            ],
+            "description": "Appears in episode 1."
+          }
+        },
+        {
+          "id": 61403,
+          "name": "Taiiku no Sensei",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/61403.jpg",
+          "description": "",
+          "nicknames": [
+            "Taiiku no Sensei",
+            "体育の先生",
+            "PE teacher"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤健輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106133-4tm6PaftW91h.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Taiiku no Sensei",
+            "name_native": "体育の先生",
+            "name_alternative": [
+              "PE teacher"
+            ],
+            "description": "Appears in episode 1."
+          }
+        },
+        {
+          "id": 61887,
+          "name": "Ogata",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/61887.jpg",
+          "description": "",
+          "nicknames": [
+            "Ogata",
+            "尾形"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "水島大宙",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95279-5fMO4r9szQKL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ogata",
+            "name_native": "尾形",
+            "name_alternative": [],
+            "description": "Ogata plays on the school's soccer team."
+          }
+        },
+        {
+          "id": 62785,
+          "name": "Hatano",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/62785.jpg",
+          "description": "",
+          "nicknames": [
+            "Hatano",
+            "波多野"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "川崎芽衣子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111943-OrFirqoStbgJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hatano",
+            "name_native": "波多野",
+            "name_alternative": [],
+            "description": "Appears in episode 1."
+          }
+        },
+        {
+          "id": 62787,
+          "name": "Onna Kyoushi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/62787.jpg",
+          "description": "",
+          "nicknames": [
+            "Onna Kyoushi",
+            "女教師",
+            "Female teacher"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "広瀬有香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/16223.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Onna Kyoushi",
+            "name_native": "女教師",
+            "name_alternative": [
+              "Female teacher"
+            ],
+            "description": "Appears in episode 4."
+          }
+        },
+        {
+          "id": 62789,
+          "name": "Nishida",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/62789.jpg",
+          "description": "",
+          "nicknames": [
+            "Nishida",
+            "西田"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "古島清孝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95482-TvNE5H6I7pEb.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nishida",
+            "name_native": "西田",
+            "name_alternative": [],
+            "description": "Appears in episode 5."
+          }
+        },
+        {
+          "id": 62987,
+          "name": "Yajima",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/62987.jpg",
+          "description": "",
+          "nicknames": [
+            "Yajima",
+            "矢島"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "真麻 小林",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/16999.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yajima",
+            "name_native": "矢島",
+            "name_alternative": [],
+            "description": "Appears in episode 7."
+          }
+        },
+        {
+          "id": 63517,
+          "name": "Classmate",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/63517.jpg",
+          "description": "",
+          "nicknames": [
+            "Classmate"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Classmate",
+            "name_native": "",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 65185,
+          "name": "Ryouko Suwano",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65185-SoAhcwyOO9Ag.png",
+          "description": "",
+          "nicknames": [
+            "Ryouko Suwano",
+            "諏訪野亮子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤村歩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95247-3jzUQFPN8clW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ryouko Suwano",
+            "name_native": "諏訪野亮子",
+            "name_alternative": [],
+            "description": "Ryoko Suwano is a girl in the same class of Tsubaki, who said she may had fallen for him and was very curious about Tsubaki's love relationship."
+          }
+        },
+        {
+          "id": 65597,
+          "name": "Arima",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/65597.jpg",
+          "description": "",
+          "nicknames": [
+            "Arima",
+            "有間"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "江口拓也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Arima",
+            "name_native": "有間",
+            "name_alternative": [],
+            "description": "Youko's boyfriend when she was in high-school. Appears in episode 13."
+          }
+        },
+        {
+          "id": 65599,
+          "name": "Tsubaki Chichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/65599.jpg",
+          "description": "",
+          "nicknames": [
+            "Tsubaki Chichi",
+            "椿父",
+            "Tsubaki's Father"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "川島得愛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95911-OTi0Qqvbjphr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tsubaki Chichi",
+            "name_native": "椿父",
+            "name_alternative": [
+              "Tsubaki's Father"
+            ],
+            "description": "Akira and Youko's father. Appears in episode 13."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,933 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:36:05.307Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "SPY×FAMILY",
+      "id": 138100,
+      "name": "Anya Forger",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "SPY×FAMILY",
+      "id": 138101,
+      "name": "Loid Forger",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "SPY×FAMILY",
+      "id": 138102,
+      "name": "Yor Forger",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "SPY×FAMILY",
+      "id": 150425,
+      "name": "Yuuri Briar",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "SPY×FAMILY",
+      "id": 272642,
+      "name": "WISE Kyokuchou",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "SPY×FAMILY",
+      "id": 36309,
+      "name": "Narrator",
+      "reason": "AniList ID 已存在或批次重复"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 140960,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 140960,
+        "titles": [
+          "SPY×FAMILY",
+          "SPY x FAMILY",
+          "SxF",
+          "스파이 패밀리",
+          "间谍过家家",
+          "Семья шпиона",
+          "سباي إكس فاميلي",
+          "Gia Đình Điệp Viên"
+        ],
+        "year": 2022,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/140960"
+      },
+      "characters": [
+        {
+          "id": 150423,
+          "name": "Becky Blackbell",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150423-RxXwrHzeLCss.jpg",
+          "description": "",
+          "nicknames": [
+            "Becky Blackbell",
+            "ベッキー・ブラックベル",
+            "Deko Onna (デコ女)",
+            "Forehead Girl",
+            "Milady"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "加藤英美里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95052-mvDPeBcLCWmX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Becky Blackbell",
+            "name_native": "ベッキー・ブラックベル",
+            "name_alternative": [
+              "Deko Onna (デコ女)",
+              "Forehead Girl",
+              "Milady"
+            ],
+            "description": "__Affiliation:__ Blackbell Family, Blackbell Heavy Industries, Eden Academy, Cecile Hall\n__Occupation:__ Student\n\nThe daughter of the CEO of Blackbell, a major military manufacturer. Attends Eden Academy as part of Cecil House, Group 3. Best friends with [Anya Forger](https://anilist.co/character/138100/Forger-Anya).\n\nBecky is a very kind child but with her being the daughter of a major military manufacturer, she is shown to be somewhat prideful and tries to be mature, attempting to take Anya under her wing as an act of benevolence when she views Anya as a brat. She does not attempt to get close to [Damian Desmond](https://anilist.co/character/150424/Desmond-Damian) despite his social position, even looking down on their classmates who try to befriend Damian and Anya who is initially bullied by Damian's group. Anya's confident smile later wins over Becky's admiration."
+          }
+        },
+        {
+          "id": 150424,
+          "name": "Damian Desmond",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b150424-4B4psF6I4dgO.png",
+          "description": "",
+          "nicknames": [
+            "Damian Desmond",
+            "ダミアン・デズモンド",
+            "Boss-man",
+            "Sy-on",
+            "Jinan (じなん)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤原夏海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119740-EEZ5DErQhOht.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Damian Desmond",
+            "name_native": "ダミアン・デズモンド",
+            "name_alternative": [
+              "Boss-man",
+              "Sy-on",
+              "Jinan (じなん)"
+            ],
+            "description": "__Height:__ 110 cm (3′7″)\n__Affiliation:__ Desmond Family, Eden Academy, Cecile Hall\n__Occupation:__ Student\n\nThe second son of [Donovan Desmond](https://anilist.co/character/180192/Desmond-Donovan) and attends Eden Academy as part of Cecile House, Group 3.  \n\nA young child with an arrogant and rude personality, caused by him being the second son of Donovan Desmond, the leader of the National Unity Party, a group important and powerful enough to threaten the peace between the East and the West. This has caused Damian to gain a highly respected status among his peers and making him incredibly arrogant, assuming [Anya](https://anilist.co/character/138100/Forger-Anya) gained a crush on him when she stared at him. He is shown to prefer being called Lord Damian when spoken to. He gets angry when he is looked down upon by Anya's smile, quickly resorting to insulting her with his limited vocabulary and harassing Anya."
+          }
+        },
+        {
+          "id": 157887,
+          "name": "Sylvia Sherwood",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157887-P66pD0ilpmtZ.png",
+          "description": "",
+          "nicknames": [
+            "Sylvia Sherwood",
+            "シルヴィア・シャーウッド",
+            "Handler (管理官)",
+            "Fullmetal Lady (鋼鉄の淑女)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "甲斐田裕子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95428-1e4kSvr5fkmQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sylvia Sherwood",
+            "name_native": "シルヴィア・シャーウッド",
+            "name_alternative": [
+              "Handler (管理官)",
+              "Fullmetal Lady (鋼鉄の淑女)"
+            ],
+            "description": "__Height:__ 173 cm\n\nShe is [Twilight](https://anilist.co/character/138101/Forger-Loid)'s main contact at WISE."
+          }
+        },
+        {
+          "id": 157888,
+          "name": "Franky Franklin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b157888-zkSfIT5Z8y2S.png",
+          "description": "",
+          "nicknames": [
+            "Franky Franklin",
+            "フランキー・フランクリン",
+            "Scruffy"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "吉野裕行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95283-g76zV4YacFfm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Franky Franklin",
+            "name_native": "フランキー・フランクリン",
+            "name_alternative": [
+              "Scruffy"
+            ],
+            "description": "__Height:__ 166 cm (5′5\")\n__Affiliation:__ Ostania\n__Occupation:__ Tobacco Store Clerk (False Front), Informant, Soldier (formerly)\n\nFranky is an informant who seemingly works at a tobacco store and presumably works for Loid Forger's agency. He gets information regarding Eden Academy's exam and Anya Forger's past records for Loid Forger.\n\nFranky is a kind person willing to help Loid out when he's in a pinch even though the danger is high. He frequently warns Loid Forger not to get too close to other people in their line of work.\n\nHe frequently falls in love with other women but his love life typically fails due to lack of mutual interest or they are already with someone else."
+          }
+        },
+        {
+          "id": 180190,
+          "name": "Henry Henderson",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180190-iQqPtTS182Et.jpg",
+          "description": "",
+          "nicknames": [
+            "Henry Henderson",
+            "ヘンリー・ヘンダーソン",
+            "Housemaster",
+            "Professor Henderson"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山路和弘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101755-LsVbHCwg6Pel.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Henry Henderson",
+            "name_native": "ヘンリー・ヘンダーソン",
+            "name_alternative": [
+              "Housemaster",
+              "Professor Henderson"
+            ],
+            "description": "__Affiliation:__ Eden Academy\n__Occupation:__ History Teacher, Housemaster of Cecile Hall\n\nHenry is a mature and noble person, who places a high importance on \"elegance\". To him, elegance seems to be the way a person conducts themselves, and is not afraid to correct inelegant behavior in others."
+          }
+        },
+        {
+          "id": 180191,
+          "name": "Camilla",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180191-N9bunu7GiTFy.png",
+          "description": "",
+          "nicknames": [
+            "Camilla",
+            "カミラ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "庄司宇芽香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102262-NLLVI1VqqIsa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Camilla",
+            "name_native": "カミラ",
+            "name_alternative": [],
+            "description": "One of Yor Forger's three co-workers at Berlint City Hall."
+          }
+        },
+        {
+          "id": 180192,
+          "name": "Donovan Desmond",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180192-nOvkTcotZyu0.png",
+          "description": "",
+          "nicknames": [
+            "Donovan Desmond",
+            "ドノバン・デズモンド"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Donovan Desmond",
+            "name_native": "ドノバン・デズモンド",
+            "name_alternative": [],
+            "description": "Donovan Desmond is the President of the Nation Unity Party and Twilight's current target."
+          }
+        },
+        {
+          "id": 213881,
+          "name": "Ewen Egeburg",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213881-NrUwR51qHdkV.png",
+          "description": "",
+          "nicknames": [
+            "Ewen Egeburg",
+            "ユーイン・エッジバーグ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岡村明香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n273899-YlxFeE6Im4sC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ewen Egeburg",
+            "name_native": "ユーイン・エッジバーグ",
+            "name_alternative": [],
+            "description": "Best Friend of <a href=\"https://anilist.co/character/150424/Damian-Desmond\">Damian </a> and Student at Eden Academy. He is a loyal person, devotedly following Damian, almost always holding his bag when they walk to class. He also genuinely cares for Damian as a friend, getting concerned for Damian when he is hurt or pushing himself too hard."
+          }
+        },
+        {
+          "id": 213882,
+          "name": "Emile Elman",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213882-BoEgxd5783eU.png",
+          "description": "",
+          "nicknames": [
+            "Emile Elman",
+            "エミールぅ・エルマン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤はな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125030-qmzaBaeQA7xF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Emile Elman",
+            "name_native": "エミールぅ・エルマン",
+            "name_alternative": [],
+            "description": "Best Friend of <a href=\"https://anilist.co/character/150424/Damian-Desmond\">Damian </a> and Student at Eden Academy."
+          }
+        },
+        {
+          "id": 270958,
+          "name": "Millie",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270958-JAs5Jdh7vmDu.png",
+          "description": "",
+          "nicknames": [
+            "Millie",
+            "ミリー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石見舞菜香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121821-tQSkHZEuB3XH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Millie",
+            "name_native": "ミリー",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 270959,
+          "name": "Sharon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270959-HVflw5p1KQb5.png",
+          "description": "",
+          "nicknames": [
+            "Sharon",
+            "シャロン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "熊谷海麗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n227375-cM9egxPBb4AR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sharon",
+            "name_native": "シャロン",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 270960,
+          "name": "Dominic",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270960-ZeCmPnuQp11T.png",
+          "description": "",
+          "nicknames": [
+            "Dominic",
+            "ドミニク"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "梶川翔平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/108745-q3Rngk5Es6Ni.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dominic",
+            "name_native": "ドミニク",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 270961,
+          "name": "Garden Tenchou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b270961-npwGDaryVj6Q.png",
+          "description": "",
+          "nicknames": [
+            "Garden Tenchou",
+            "〈ガーデン〉店長",
+            "Shopkeeper"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "諏訪部順一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Garden Tenchou",
+            "name_native": "〈ガーデン〉店長",
+            "name_alternative": [
+              "Shopkeeper"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 274082,
+          "name": "Edgar",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274082-9GV1yIXv2N70.png",
+          "description": "",
+          "nicknames": [
+            "Edgar",
+            "エドガー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斧アツシ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100491-6xlkDMFJdADo.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Edgar",
+            "name_native": "エドガー",
+            "name_alternative": [],
+            "description": "The father of Karen and the boss of an unknown organization in Ostania. He expresses strong hostility towards Westalis and their people. He antagonizes Twilight by kidnapping Anya Forger in an attempt to blackmail Twilight into working for him."
+          }
+        },
+        {
+          "id": 274083,
+          "name": "Karen",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274083-RoIvenciVoSd.png",
+          "description": "",
+          "nicknames": [
+            "Karen",
+            "カレン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大井麻利衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n176221-OIbPderUA1X0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Karen",
+            "name_native": "カレン",
+            "name_alternative": [],
+            "description": "The daughter of Edgar. Twilight formerly dated her as \"Robert\" with the intention of investigating her father. Karen is known to have participated in a fair amount of criminal activity, enough to get her in trouble if Loid so wishes."
+          }
+        },
+        {
+          "id": 274084,
+          "name": "Murdoch Swan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274084-jbW7ZAfCK0u4.png",
+          "description": "",
+          "nicknames": [
+            "Murdoch Swan",
+            "マードック・スワン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "浦山迅",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107677-4JwhOvVQPItM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Murdoch Swan",
+            "name_native": "マードック・スワン",
+            "name_alternative": [],
+            "description": "The Economics Teacher and the Housemaster of Dormitory 2, Cline Hall at Eden Academy. He is the only son of the former Headmaster of Eden Academy. His wife filed for divorce a month before the Eden Academy admissions interview, where she won full custody of their only daughter."
+          }
+        },
+        {
+          "id": 274085,
+          "name": "Walter Evans",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274085-76olW4lNxegM.png",
+          "description": "",
+          "nicknames": [
+            "Walter Evans",
+            "ウォルター・エバンス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "家中宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95477-zUeFZNtjTgap.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Walter Evans",
+            "name_native": "ウォルター・エバンス",
+            "name_alternative": [],
+            "description": "The English Teacher and the Housemaster of Dormitory 5, Malcom Hall at Eden Academy. He is regarded as gentle, reliable, conservative and well-liked by his students."
+          }
+        },
+        {
+          "id": 277083,
+          "name": "Benedict Goodfellow",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277083-neZF7lClvA4e.jpg",
+          "description": "",
+          "nicknames": [
+            "Benedict Goodfellow",
+            "ベネディクト・アイヴァン・グッドフェラー",
+            "Headmaster"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "多田野曜平 ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100691-3Z7NxFXFVoea.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Benedict Goodfellow",
+            "name_native": "ベネディクト・アイヴァン・グッドフェラー",
+            "name_alternative": [
+              "Headmaster"
+            ],
+            "description": "Current headmaster of Eden Academy. During the entrance ceremony for the new Eden Academy students, he gives a speech welcoming them. According to some facility members, he does not accept \"donations\" from parents and cannot be bought."
+          }
+        },
+        {
+          "id": 278136,
+          "name": "Jim Hayward",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278136-LsqqszqgIXkR.jpg",
+          "description": "",
+          "nicknames": [
+            "Jim Hayward",
+            "ジム・ヘイワード"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋伸也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105148-wgwzwTxAERbM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jim Hayward",
+            "name_native": "ジム・ヘイワード",
+            "name_alternative": [],
+            "description": "He was an informant for WISE working at Berlint City Hall in the financial department. He was caught selling documents to WISE agents in photographs by [Yuuri Briar](https://anilist.co/character/150425/Yuuri-Briar)."
+          }
+        },
+        {
+          "id": 278137,
+          "name": "Burns",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278137-viNMSOVmQulG.jpg",
+          "description": "",
+          "nicknames": [
+            "Burns",
+            "バーンズ",
+            "Chief Burns"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "こばたけまさふみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n254486-8gVRwsQFhknA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Burns",
+            "name_native": "バーンズ",
+            "name_alternative": [
+              "Chief Burns"
+            ],
+            "description": "Section chief of Berlint City Hall, overseeing the work of [Yor Forger](https://anilist.co/character/138102/Yor-Forger), [Camilla](https://anilist.co/character/180191/Camilla), [Millie](https://anilist.co/character/270958/Millie), and [Sharon](https://anilist.co/character/270959/Sharon)."
+          }
+        },
+        {
+          "id": 278821,
+          "name": "Bill Watkins",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278821-yK2ulLgK3KEM.jpg",
+          "description": "",
+          "nicknames": [
+            "Bill Watkins",
+            "ビル・ワトキンス",
+            "Bazooka Bill"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "安元洋貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bill Watkins",
+            "name_native": "ビル・ワトキンス",
+            "name_alternative": [
+              "Bazooka Bill"
+            ],
+            "description": "The 6-year-old son of a major in the National Army who attends Eden Academy as part of Wald Hall. He was given the nickname \"Bazooka Bill\" by his peers for his mental and physical domination in sports since nursery school."
+          }
+        },
+        {
+          "id": 279677,
+          "name": "Chadwick Curtis",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279677-VeVumWIwfdFi.jpg",
+          "description": "",
+          "nicknames": [
+            "Chadwick Curtis",
+            "チャドウィック・カーティス",
+            "SSS Lieutenant",
+            "State Security Service Lieutenant (国家保安局中尉)",
+            "Chad (チャド)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "加瀬康之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95801-Jno6Y2OawOII.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chadwick Curtis",
+            "name_native": "チャドウィック・カーティス",
+            "name_alternative": [
+              "SSS Lieutenant",
+              "State Security Service Lieutenant (国家保安局中尉)",
+              "Chad (チャド)"
+            ],
+            "description": "A scarred man who is a lieutenant and a higher position than [Yuuri Briar](https://anilist.co/character/150425/Yuuri-Briar) in the SSS. He seems to be fairly close to Yuuri and is aware of his drinking habits and sister complex, advising Yuri to get over his sister and focus on his work."
+          }
+        },
+        {
+          "id": 279678,
+          "name": "Wyman Wilker",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b279678-Q59PfmCFihrW.png",
+          "description": "",
+          "nicknames": [
+            "Wyman Wilker",
+            "ワイマン・ウィルカー",
+            "SSS Director",
+            "State Security Service Director (国家保安局局長)",
+            "Boss (ボス)",
+            "Mimima de Cheez (ミミマ・デチーズ)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斉藤次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102914-7ygW5ZSwODbF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Wyman Wilker",
+            "name_native": "ワイマン・ウィルカー",
+            "name_alternative": [
+              "SSS Director",
+              "State Security Service Director (国家保安局局長)",
+              "Boss (ボス)",
+              "Mimima de Cheez (ミミマ・デチーズ)"
+            ],
+            "description": "The boss of the SSS who dotes on [Yuuri](https://anilist.co/character/150425/Yuuri-Briar) because he finds him adorable like a puppy."
+          }
+        },
+        {
+          "id": 301863,
+          "name": "Roujo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301863-mzKXUuQavGJw.jpg",
+          "description": "",
+          "nicknames": [
+            "Roujo",
+            "老女",
+            "Old Woman"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐々木優子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100192-CVPCiU6RNdWr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Roujo",
+            "name_native": "老女",
+            "name_alternative": [
+              "Old Woman"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 301867,
+          "name": "Kojiin no Shujin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301867-Vc4auE6Amt5O.jpg",
+          "description": "",
+          "nicknames": [
+            "Kojiin no Shujin",
+            "孤児院の主人",
+            "Orphanage Owner"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "後藤ヒロキ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/11158.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kojiin no Shujin",
+            "name_native": "孤児院の主人",
+            "name_alternative": [
+              "Orphanage Owner"
+            ],
+            "description": "An inebriated middle-aged man who is the owner of the orphanage where Anya Forger is adopted by Loid Forger. He is apathetic about his orphanage, as shown by the neglected state of the children and his indifference to Loid's given background. He thinks of Anya as a \"creepy little brat\", attempting to give her away to Loid upon hearing he wants a literate child.\n<br><br>\n(Source: Spy x Family Wiki)"
+          }
+        },
+        {
+          "id": 301868,
+          "name": "WISE Kikanin A",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301868-felhZ37s3zzW.jpg",
+          "description": "",
+          "nicknames": [
+            "WISE Kikanin A",
+            "WISE機関員",
+            "WISE Secretary"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日野未歩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96844-s2AOyz0hOrtk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "WISE Kikanin A",
+            "name_native": "WISE機関員",
+            "name_alternative": [
+              "WISE Secretary"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 316686,
+          "name": "Shitateya no Tenin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316686-W5z27mhVDD2i.png",
+          "description": "",
+          "nicknames": [
+            "Shitateya no Tenin",
+            "仕立て屋の店員"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "竹内恵美子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121022-DBivYQLuvknD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shitateya no Tenin",
+            "name_native": "仕立て屋の店員",
+            "name_alternative": [],
+            "description": "An elderly lady who works as a clerk at Mona & Monacca."
+          }
+        },
+        {
+          "id": 316687,
+          "name": "Shitateya no Tenshu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b316687-tfXjCsfbp0N7.png",
+          "description": "",
+          "nicknames": [
+            "Shitateya no Tenshu",
+            "仕立て屋の店主"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤はな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125030-qmzaBaeQA7xF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shitateya no Tenshu",
+            "name_native": "仕立て屋の店主",
+            "name_alternative": [],
+            "description": "The owner of Mona & Monacca, a tailor shop in Berlint. She was one of [Loid](https://anilist.co/character/138101/Forger-Loid)'s candidates as an unmarried woman, but was rejected due to having been arrested for political activities in the past and her somewhat older age. When the Forgers come to her shop to purchase Eden Academy's uniforms for [Anya](https://anilist.co/character/138100/Forger-Anya), she warns them about the bullying and kidnappings in Eden Academy. She also appears to be familiar with [Yor](https://anilist.co/character/138102/Forger-Yor) as she is suggested to be a regular at the shop."
+          }
+        },
+        {
+          "id": 169679,
+          "name": "Bond",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b169679-EFPubVtZFYom.jpg",
+          "description": "",
+          "nicknames": [
+            "Bond",
+            "ボンド",
+            "Subject 8"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Bond",
+            "name_native": "ボンド",
+            "name_alternative": [
+              "Subject 8"
+            ],
+            "description": "Bond is the recently adopted pet of the Forger Family. Formally known as Subject 8, Bond has been used for experiments that resulted in the dog gaining precognition abilities."
+          }
+        },
+        {
+          "id": 274081,
+          "name": "Bondman",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b274081-OQdVAPCoTuBI.png",
+          "description": "",
+          "nicknames": [
+            "Bondman",
+            "ボンドマーン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中野泰佑",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n175300-oYIgY6iAcpmp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Bondman",
+            "name_native": "ボンドマーン",
+            "name_alternative": [],
+            "description": "The protagonist of Spy Wars and the number one spy in the show. He frequently has to take down enemies from the League of Evil in order to save Princess Honey."
+          }
+        },
+        {
+          "id": 277084,
+          "name": "Honey-hime",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b277084-gzuXbmilBj3I.png",
+          "description": "",
+          "nicknames": [
+            "Honey-hime",
+            "ハニー姫",
+            "Hanī-hime",
+            "Princess Honey"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小牧未侑",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n135716-fkQF6lixSr4A.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Honey-hime",
+            "name_native": "ハニー姫",
+            "name_alternative": [
+              "Hanī-hime",
+              "Princess Honey"
+            ],
+            "description": "Princess of the kingdom where Spy Wars takes place. She is frequently saved by Bondman which has caused her to develop feelings for him."
+          }
+        },
+        {
+          "id": 301871,
+          "name": "Bondman no Shirei-kan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b301871-jueSaqakaWFH.jpg",
+          "description": "",
+          "nicknames": [
+            "Bondman no Shirei-kan",
+            "ボンドマンの司令官",
+            "Bondman's Commander"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐久間元輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n198641-asEtMrB8qh84.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Bondman no Shirei-kan",
+            "name_native": "ボンドマンの司令官",
+            "name_alternative": [
+              "Bondman's Commander"
+            ],
+            "description": "He is the headman of Bondman's organization."
+          }
+        }
+      ]
+    }
+  ]
+}

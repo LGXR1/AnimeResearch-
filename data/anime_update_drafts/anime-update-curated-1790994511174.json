@@ -1,0 +1,1493 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T02:25:01.874Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 9760,
+      "anime_title": "追逐繁星的孩子",
+      "anime_origin": "JP",
+      "source": {
+        "id": 9760,
+        "titles": [
+          "Hoshi wo Ou Kodomo",
+          "Children who Chase Lost Voices",
+          "星を追う子ども",
+          "Children who Chase Lost Voices from Deep Below",
+          "Journey to Agartha",
+          "Viaje a Agartha",
+          "Csillaghajsza",
+          "Voyage vers Agartha",
+          "Die Reise nach Agartha",
+          "Viaggio verso Agartha",
+          "I bambini che inseguono le stelle"
+        ],
+        "year": 2011,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/9760"
+      },
+      "characters": [
+        {
+          "id": 39434,
+          "name": "渡濑明日菜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39434-JVxcdY3wxJFm.png",
+          "description": "渡濑明日菜是生活在二十世纪七十年代乡村的小学生。父亲早逝后，护士母亲常因医院长班而不在家，她便独自到山间听自制收音机里的神秘音乐。明日菜遇见来自阿加尔塔的少年修恩后，逐渐接触地下世界的传说与危险。她既怀念父亲，也渴望理解新朋友的去向，最终踏上寻找阿加尔塔的旅程。",
+          "nicknames": [
+            "渡濑明日菜",
+            "Asuna Watase",
+            "渡瀬明日菜",
+            "明日菜"
+          ],
+          "traits": [
+            "故事主角",
+            "生活在二十世纪七十年代乡村",
+            "小学生",
+            "父亲早逝",
+            "母亲是医院护士",
+            "常独自在山间度过时间",
+            "喜欢收听神秘广播",
+            "为寻找失踪少年进入阿加尔塔"
+          ],
+          "voice_actors": [
+            {
+              "name": "金元寿子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103555-2ZtBwZfy9DTi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Asuna Watase",
+            "name_native": "渡瀬明日菜",
+            "name_alternative": [],
+            "description": "Asuna Watase is the main character in Children Who Chase Lost Voices. She is an elementary schoolgirl living in a rural area in the 1970s.  As a young girl, Asuna has been forced to grow up quickly ever since her father had died, while her mother, a nurse, worked long shifts at a hospital. Asuna spent her solitary days listening to the mysterious music emanating from the cat's-whisker receiver her father gave to her as a memento, accompanied by pet cat Mimi.\n\n"
+          }
+        },
+        {
+          "id": 39435,
+          "name": "森崎龙司",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39435-XizQ5T30C440.png",
+          "description": "森崎龙司是明日菜的代课教师，在原任教师休产假期间来到学校。他长期研究地下世界的神话，并寻找传说中的阿加尔塔，希望找到让已故妻子丽莎复活的方法。森崎掌握许多历史与传说知识，却也因对亡妻的执念而变得固执。他和明日菜一同进入地下世界后，必须面对生死、失去和复活的代价。",
+          "nicknames": [
+            "森崎龙司",
+            "Ryuuji Morisaki",
+            "森崎竜司",
+            "森崎老师",
+            "龙司"
+          ],
+          "traits": [
+            "明日菜的代课教师",
+            "研究地下世界神话",
+            "寻找阿加尔塔",
+            "妻子丽莎已经去世",
+            "希望复活亡妻",
+            "熟悉古代传说",
+            "为目标执着行动",
+            "与明日菜同行进入地下世界"
+          ],
+          "voice_actors": [
+            {
+              "name": "井上和彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95021-9qAoAn6GNZ3S.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ryuuji Morisaki",
+            "name_native": "森崎竜司",
+            "name_alternative": [],
+            "description": "Asuna's substitute teacher for the duration her teacher is on maternity leave.    ~!He seeks to find out more information on the mythology of the underworld and is looking for Agaruta. He hopes to be able to revive his dead wife Risa in Agartha. !~"
+          }
+        },
+        {
+          "id": 40077,
+          "name": "辛·迦南·普雷西斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40077-ZWKc2r9Ke2Rb.png",
+          "description": "辛·迦南·普雷西斯来自阿加尔塔的迦南镇，是修恩的弟弟。哥哥失踪后，他来到明日菜身边，试着继续修恩此前进行的行动，并查明其下落。辛熟悉阿加尔塔的生活与居民，也因此能为明日菜讲述地面世界难以理解的风俗。随着旅程深入，他需要面对家人去向、族群关系和地下世界的危险。",
+          "nicknames": [
+            "辛·迦南·普雷西斯",
+            "Shin Canaan Praeses",
+            "シン",
+            "辛",
+            "Canaan Praeses"
+          ],
+          "traits": [
+            "来自阿加尔塔迦南镇",
+            "是修恩的弟弟",
+            "在修恩失踪后寻找其踪迹",
+            "延续哥哥曾经的行动",
+            "与明日菜相遇",
+            "熟悉地下世界生活",
+            "与瑟莉有手足关系",
+            "卷入阿加尔塔的族群冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "入野自由",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shin Canaan Praeses",
+            "name_native": "シン",
+            "name_alternative": [],
+            "description": "Younger brother of Shun. He is from Canaan, a town in Agartha.   Asuna meets him after Shun. Shin comes to Asuna to continue what his older brother had been doing after Shun's disappearance."
+          }
+        },
+        {
+          "id": 39436,
+          "name": "修恩",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39436-nGRA8IijG8wH.png",
+          "description": "修恩是来自阿加尔塔的神秘少年，曾在明日菜遭遇怪物时救下她。明日菜因此对他产生好感，也一直记得他留下的歌声。修恩随后失踪，弟弟辛来到地面继续寻找哥哥曾经的行动线索。关于修恩的身份、歌声和失踪原因，逐渐把明日菜引向阿加尔塔的传说与秘密。",
+          "nicknames": [
+            "修恩",
+            "Shun",
+            "シュン",
+            "瞬"
+          ],
+          "traits": [
+            "来自阿加尔塔的神秘少年",
+            "在怪物袭击时救下明日菜",
+            "明日菜对他产生好感",
+            "擅长歌唱",
+            "最后的歌声被明日菜听见",
+            "之后突然失踪",
+            "是辛的哥哥",
+            "引导明日菜接触地下世界"
+          ],
+          "voice_actors": [
+            {
+              "name": "入野自由",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shun",
+            "name_native": "シュン",
+            "name_alternative": [],
+            "description": "A mysterious boy from Agartha who Asuna takes a liking to after he saves her from a mysterious creature. He is the older brother of Shin. His last song was heard by Asuna, and he then disappeared."
+          }
+        },
+        {
+          "id": 42492,
+          "name": "玛娜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42492-AVXWROexutcF.png",
+          "description": "玛娜是来自阿加尔塔阿玛乌洛特镇的年幼女孩。母亲黛娜去世后，她停止说话，平时由外祖父照料。玛娜的父亲来自地面世界，这使她的家庭同时连接地下居民与地面人。她在明日菜和森崎的旅程中出现，虽然沉默寡言，却以自己的经历让两人看到阿加尔塔居民的家庭生活、丧亲之痛和跨越世界的亲缘关系。",
+          "nicknames": [
+            "玛娜",
+            "Mana",
+            "マナ"
+          ],
+          "traits": [
+            "来自阿加尔塔的阿玛乌洛特镇",
+            "年幼的女孩",
+            "母亲黛娜去世后不再说话",
+            "父亲来自地面世界",
+            "由外祖父照料",
+            "沉默寡言",
+            "与明日菜一行人相遇",
+            "家庭经历连接地下与地面居民"
+          ],
+          "voice_actors": [
+            {
+              "name": "日高里菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100250-L8WsoaLevibT.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mana",
+            "name_native": "マナ",
+            "name_alternative": [],
+            "description": "A little girl who stopped speaking after her mother, Dinah, died. Her father is a Topsider. Mana is from Amaurot, a town in Agartha."
+          }
+        },
+        {
+          "id": 52651,
+          "name": "瑟莉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52651-6xKtm7rwqBnb.png",
+          "description": "瑟莉来自阿加尔塔的迦南镇，是修恩和辛的姐姐。她熟悉当地生活，也关心弟弟们的行动与下落。修恩失踪、辛前往地面寻找线索后，瑟莉成为两兄弟家族关系中的重要一员。她的经历把明日菜的个人旅程与迦南镇居民的家庭故事连接起来，展现地下世界并非只有神话遗迹，也有需要彼此照料的普通人。",
+          "nicknames": [
+            "瑟莉",
+            "Seri",
+            "セリ",
+            "瑟莉·迦南"
+          ],
+          "traits": [
+            "来自阿加尔塔迦南镇",
+            "修恩与辛的姐姐",
+            "熟悉迦南镇的生活",
+            "与地下居民共同生活",
+            "关心弟弟们的行踪",
+            "与明日菜一行人产生交集",
+            "在手足间承担长姐角色",
+            "连接阿加尔塔家族故事线"
+          ],
+          "voice_actors": [
+            {
+              "name": "伊藤かな恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95762-qhWmwni3TT6Y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Seri",
+            "name_native": "セリ",
+            "name_alternative": [],
+            "description": "The sister of Shun and Shin. She is from Canaan, a town in Agartha."
+          }
+        },
+        {
+          "id": 52845,
+          "name": "渡濑明日菜的母亲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52845-AH2hlmU2B40j.png",
+          "description": "渡濑明日菜的母亲是一名医院护士，丈夫去世后独自承担家庭生活。她常需要值长班，无法花太多时间陪伴女儿，两人因此显得不够亲近。明日菜经常独自在山间活动，母亲则担心她的安全，却不总能及时了解女儿的内心。她的工作和家庭处境为明日菜寻找陪伴、理解父亲离世的情绪提供了背景。",
+          "nicknames": [
+            "渡濑明日菜的母亲",
+            "Watase no Haha",
+            "アスナの母",
+            "明日菜的母亲",
+            "渡濑护士"
+          ],
+          "traits": [
+            "明日菜的母亲",
+            "职业是医院护士",
+            "丈夫去世后独自抚养女儿",
+            "经常轮值长班",
+            "很少有时间陪伴明日菜",
+            "母女关系不够亲近",
+            "关心女儿的生活",
+            "代表地面世界的普通家庭"
+          ],
+          "voice_actors": [
+            {
+              "name": "折笠富美子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95152-X9K5ciNGSX35.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Watase no Haha",
+            "name_native": "アスナの母",
+            "name_alternative": [],
+            "description": "Asuna's mother. She is a nurse employed by a hospital and is not able to spend much time with Asuna. Because of this, their mother-daughter relationship is not so good."
+          }
+        },
+        {
+          "id": 52847,
+          "name": "丽莎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52847-UQFtWTCQt8ue.png",
+          "description": "丽莎是森崎龙司已经去世的妻子，生前身体虚弱。她的死亡让森崎长期无法释怀，也促使他研究地下世界传说、寻找阿加尔塔，希望找到复活亡者的可能。丽莎虽然不再参与当下行动，却始终影响森崎的决定和旅程方向。她的角色让故事直接面对失去亲人后，人是否能接受死亡、以及试图改变生死会付出什么代价。",
+          "nicknames": [
+            "丽莎",
+            "Lisa",
+            "リサ",
+            "森崎丽莎"
+          ],
+          "traits": [
+            "森崎龙司的妻子",
+            "生前身体虚弱",
+            "已经去世",
+            "龙司长期思念她",
+            "成为寻找阿加尔塔的动机",
+            "与复活亡者的主题相关",
+            "影响森崎的选择",
+            "以回忆和执念进入故事"
+          ],
+          "voice_actors": [
+            {
+              "name": "島本須美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95425-wEl09IWpLxIA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lisa",
+            "name_native": "リサ",
+            "name_alternative": [],
+            "description": "Morisaki-sensei's wife who had a weak body and died."
+          }
+        },
+        {
+          "id": 52849,
+          "name": "玛娜的外祖父",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52849-YjHAbgmyAjqY.png",
+          "description": "玛娜的外祖父是一位住在阿加尔塔阿玛乌洛特镇的老人，也是玛娜的外祖父。他的女儿黛娜曾与来自地面的男子成家，玛娜因此拥有连接两个世界的家庭背景。黛娜去世后，老人承担起照顾外孙女的责任。通过他的家庭，明日菜和森崎看到阿加尔塔居民如何面对亲人离世、跨世界婚姻和日常生活中的孤独。",
+          "nicknames": [
+            "玛娜的外祖父",
+            "Roujin",
+            "老人",
+            "阿玛乌洛特老人",
+            "玛娜外祖父"
+          ],
+          "traits": [
+            "来自阿加尔塔阿玛乌洛特镇",
+            "年长男性",
+            "是玛娜的外祖父",
+            "女儿名叫黛娜",
+            "照料失去母亲的玛娜",
+            "家族与地面居民有关联",
+            "熟悉当地生活",
+            "经历过亲人离世与家庭变故"
+          ],
+          "voice_actors": [
+            {
+              "name": "大木民夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95892-hARexeaqvxfo.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Roujin",
+            "name_native": "老人",
+            "name_alternative": [],
+            "description": "An old man from Amaurot, a town in Agartha. He is the grandfather of Mana. His daughter, Dinah, married a man who was a Topsiders."
+          }
+        },
+        {
+          "id": 52851,
+          "name": "米米",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52851-dmbkH01kM6Ix.png",
+          "description": "米米是一只陪伴明日菜的猫，经常在她独自活动时待在身边。它看起来像普通家猫，能在山间自由行动，也为明日菜提供安慰；实际上，米米属于来自阿加尔塔的寄生生物“宿生子”。随着明日菜前往地下世界，米米的真实身份逐渐显露，使她对阿加尔塔生物的认识从传说转变为亲身经历。",
+          "nicknames": [
+            "米米",
+            "Mimi",
+            "ミミ"
+          ],
+          "traits": [
+            "陪伴明日菜的猫",
+            "常与明日菜待在一起",
+            "能够在山间活动",
+            "实际属于阿加尔塔寄生生物",
+            "外形看起来像普通猫",
+            "帮助明日菜缓解孤独",
+            "与地下世界生物有关",
+            "在旅途中显露真实身份"
+          ],
+          "voice_actors": [
+            {
+              "name": "竹内順子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95015-QwI9K4FRe4Cq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mimi",
+            "name_native": "ミミ",
+            "name_alternative": [],
+            "description": "A cat who keeps Asuna company.    ~!Mimi is actually a Yadoriko from Agartha. !~"
+          }
+        },
+        {
+          "id": 52853,
+          "name": "渡濑明日菜的父亲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b52853-SMGpzUUFCYlT.png",
+          "description": "渡濑明日菜的父亲在她年幼时去世。失去父亲后，明日菜由担任护士的母亲独自照顾；母亲经常值长班，使她需要习惯独处。父亲的离世长期影响明日菜的情绪，也让她对陪伴与告别格外敏感。虽然他没有出现在明日菜的当前旅程中，家庭失去父亲后的生活仍构成她理解死亡和亲情的重要背景。",
+          "nicknames": [
+            "渡濑明日菜的父亲",
+            "Watase no Chichi",
+            "明日菜的父亲",
+            "渡濑父亲"
+          ],
+          "traits": [
+            "明日菜的父亲",
+            "在明日菜年幼时去世",
+            "他的离世改变家庭生活",
+            "由妻子独自抚养女儿",
+            "明日菜长期思念父亲",
+            "影响母女相处方式",
+            "留给明日菜孤独感",
+            "是明日菜成长经历的重要背景"
+          ],
+          "voice_actors": [
+            {
+              "name": "前田剛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95706-uUD2vTtkdpdi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Watase no Chichi",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Asuna's father who died when she was very little."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 162669,
+      "anime_title": "不灭的你 第三季",
+      "anime_origin": "JP",
+      "source": {
+        "id": 162669,
+        "titles": [
+          "Fumetsu no Anata e Season 3",
+          "To Your Eternity Season 3",
+          "不滅のあなたへ Season 3"
+        ],
+        "year": 2025,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/162669"
+      },
+      "characters": [
+        {
+          "id": 136548,
+          "name": "不死",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136548-FjWExC5ScBqW.jpg",
+          "description": "不死是观测者创造并投放到地球上的不朽存在，最初以观察和保存世界为使命。他能记录自己接触到的生命，并逐渐获得模仿其形态的能力，因此在漫长旅程中不断改变。玛琪曾照料他，古古也成为他视作兄弟的伙伴。进入现代时代后，不死必须重新面对人类社会、守护者与敲门者之间的冲突，并思考自己如何与他人共同生活。",
+          "nicknames": [
+            "不死",
+            "Fushi",
+            "フシ",
+            "Immortal",
+            "Holy Fushi",
+            "Immortal Demon",
+            "Fu",
+            "不死者"
+          ],
+          "traits": [
+            "由观测者创造的不朽存在",
+            "被投放到地球观察万物",
+            "能够记录并模仿接触对象",
+            "经历多个时代",
+            "与观测者存在创造者关系",
+            "曾由玛琪照料",
+            "把古古视作兄弟",
+            "持续面对敲门者与守护者冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "川島零士",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n180532-mOjlNlbvm1N4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Fushi",
+            "name_native": "フシ",
+            "name_alternative": [
+              "Immortal",
+              "Holy Fushi",
+              "Immortal Demon",
+              "Fu"
+            ],
+            "description": "**Age:** ~!~800 years!~\n**Relatives:** [The Beholder](https://anilist.co/character/136553/Kansatsusha) (\"father\"; creator), [March](https://anilist.co/character/136541/March) (adoptive \"mother\"), [Gugu](https://anilist.co/character/136554/Gugu) (adoptive brother)\n\nFushi is an immortal being created by The Beholder and placed on Earth to preserve the world.\n\nFushi is an immortal being that can take the form of anything that has given him stimuli. His original form was a featureless white sphere. Without consciousness, he copied the first thing he bumped into, which happened to be a rock. Soon afterward, he became moss and stayed like that for some time. When a wounded wolf wandered close in the middle of winter and died, the immortal copied the wolf. He retains the ability to turn into these things. Later, after the death of the [nameless boy](https://anilist.co/character/201555/Unnamed-Boy), he mimicked the boy's appearance and took the form of a young boy with white hair, a pale complexion, and green eyes. He wears a short, brown fur cloak and a light blue shirt and pants with fur boots. A rope dangled from his hand and neck as the nameless boy died holding [Joaan](https://anilist.co/character/163694/Joaan)'s leash, though the latter soon disappeared. Fushi commented on the form, saying it felt like it belonged to him the most.\n\nOther than the nameless boy (whose form he usually defaults to), he can also take the form of many others; most notably: ~!March, a little girl with long black hair wearing a simple white dress; Gugu, a young man with defined muscle who hides his face behind a salamander mask; and [Parona](https://anilist.co/character/136544/Parona), a young woman with black hair and a slender body.!~\n\nFushi appears to be a good listener, is curious, brave, and a fast learner. Before learning how to speak, Fushi would learn how to do things by mimicking other people's actions. After learning how to express himself via words, Fushi speaks his mind - no matter how mean it may sound. He cares deeply for others and dislikes death. He also blames himself for the [Nokkers](https://anilist.co/character/232832/Nokkers)' attacks, believing that destruction follows wherever he goes. Fushi finds it extremely hard to make friends because he knows he will have to see their lives to the end; they will always die while he lives forever."
+          }
+        },
+        {
+          "id": 204189,
+          "name": "水叶",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204189-iVPQKXGGG6Ed.png",
+          "description": "水叶是生活在现代时代的少女，也是早濑的后代，后来成为防卫团第十八任领导者。她的成长处在普通校园生活与家族长期延续的守护者传统之间，既要面对同龄人的关系，也承受组织职责带来的压力。水叶与不死在现代社会相遇，使古老的冲突重新进入当代生活。她的选择关系到防卫团未来，也影响不死如何理解人类世代传承的执念。",
+          "nicknames": [
+            "水叶",
+            "Mizuha",
+            "ミズハ"
+          ],
+          "traits": [
+            "生活在现代时代的少女",
+            "是早濑的后代",
+            "防卫团第十八任领导者",
+            "与不死的现代生活相连",
+            "承接守护者家族传统",
+            "处于学生与组织领导者身份之间",
+            "面对家庭及社会压力",
+            "是第三季的重要人物"
+          ],
+          "voice_actors": [
+            {
+              "name": "楠木ともり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124923-SQtqIQeicb7f.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mizuha",
+            "name_native": "ミズハ",
+            "name_alternative": [],
+            "description": "A girl from the present area. ~!She's one of [Hayase](https://anilist.co/character/136545/Hayase)'s descendants and will be the eighteenth leader of the Defense Corps.!~"
+          }
+        },
+        {
+          "id": 136541,
+          "name": "玛琪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136541-gXKd6OtbuffL.png",
+          "description": "玛琪是来自尼南纳的年幼女孩，曾在旅途中与不死相遇并得到他的陪伴。她有父母和年幼的妹妹，始终牵挂着家人，也在危险处境中努力表现得坚强。玛琪与不死之间逐渐形成亲近关系，她对家庭和成长的渴望使不死第一次近距离理解人类的依赖与关爱。她的经历成为不死早期旅程中难以忘怀的部分。",
+          "nicknames": [
+            "玛琪",
+            "March",
+            "マーチ",
+            "小玛琪"
+          ],
+          "traits": [
+            "来自尼南纳的年幼女孩",
+            "曾由不死陪伴",
+            "有未说出口的家庭牵挂",
+            "与父母及妹妹有关联",
+            "在旅途中展现坚强",
+            "被同伴视作家人",
+            "影响不死理解人类情感",
+            "与尼南纳村落故事相连"
+          ],
+          "voice_actors": [
+            {
+              "name": "引坂理絵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124802-VNbDkz25pnAd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "March",
+            "name_native": "マーチ",
+            "name_alternative": [],
+            "description": "**Relatives:** Unnamed [mother](https://anilist.co/character/202865/March-no-Haha) & [father](https://anilist.co/character/201554/March-no-Chichi), [Risa](https://anilist.co/character/202890/Risa) (baby sibling)\n\nMarch is a young girl from Ninannah. When running away from her village, she stumbles across [Fushi](https://anilist.co/character/136548/Fushi) near a pond.\n\nMarch is very skilled at climbing trees. She's also small enough where she can easily crawl through tight spaces adults can't.\n\nMarch was born in the village of Ninannah. Years later, she is chosen as a sacrifice to the [Spirit Bear](https://anilist.co/character/202861/Oniguma), a god her village worships to bring peace and prosperity, but is rescued by [Parona](https://anilist.co/character/136544/Parona)."
+          }
+        },
+        {
+          "id": 136544,
+          "name": "帕罗娜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136544-LGUvcdc4cyPY.jpg",
+          "description": "帕罗娜来自尼南纳，是玛琪亲近的朋友，常像姐姐一样照顾她。她重视家人与伙伴，面对危险时表现出坚定和勇气，也会为了保护玛琪承担风险。尼南纳村落的传统给她带来压力，她需要在熟悉的群体规则和个人判断之间做出选择。帕罗娜与玛琪、不死的相处，让旅程中出现了信任、照料和共同面对困难的关系。",
+          "nicknames": [
+            "帕罗娜",
+            "Parona",
+            "パロナ"
+          ],
+          "traits": [
+            "来自尼南纳的女孩",
+            "是玛琪的好友",
+            "像姐姐一样照看玛琪",
+            "重视家人和同伴",
+            "有勇气面对危险",
+            "与村落传统发生冲突",
+            "和不死共同经历旅程",
+            "在保护玛琪时表现坚韧"
+          ],
+          "voice_actors": [
+            {
+              "name": "内田彩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103921-bnSaJsF0jgH1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Parona",
+            "name_native": "パロナ",
+            "name_alternative": [],
+            "description": "**Relatives:** Unnamed mother, father, and [sister](https://anilist.co/character/201557/Paronas-sister).\n\nParona is a girl from Ninannah and a close friend of [March](https://anilist.co/character/136541/March). She looks after March like an older sister."
+          }
+        },
+        {
+          "id": 136550,
+          "name": "托娜莉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136550-fJiwFtdKLyCf.jpg",
+          "description": "托娜莉是住在贾南达岛上的女孩，不死在岛上遇见了她。她留着短棕发，眼睛呈绿色，常穿蓝色外套和短裤，并养着一只名叫利加德的猫头鹰。托娜莉与岛上的同伴共同生活，面对封闭环境中的危险时表现出主动和坚韧。她与不死同行后，帮助他了解人类群体如何在有限空间中建立规则、互相依赖并寻找离开的机会。",
+          "nicknames": [
+            "托娜莉",
+            "Tonari",
+            "トナリ",
+            "Chief"
+          ],
+          "traits": [
+            "在贾南达岛遇见不死的女孩",
+            "留着短棕发",
+            "绿色眼睛",
+            "肤色偏深",
+            "常穿蓝色外套与短裤",
+            "养有名叫利加德的猫头鹰",
+            "曾组织岛上的同伴",
+            "在离岛后继续影响不死的旅程"
+          ],
+          "voice_actors": [
+            {
+              "name": "稲川英里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119264-Z37euagCAtVQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tonari",
+            "name_native": "トナリ",
+            "name_alternative": [
+              "Chief"
+            ],
+            "description": "__Affiliation:__ Tonari's Group (former)\n\nTonari is a girl that [Fushi](https://anilist.co/character/136548/Fushi) meets on the island of Jananda. She has short brown hair, green eyes, and tan skin. She's seen wearing a blue jacket and shorts, a black and white shirt, and has a pet owl named Ligard. \n\n~!Sometime after Fushi left the island of Jananda, Tonari began ingesting different types of poison to develop strong immunities to them.!~"
+          }
+        },
+        {
+          "id": 136553,
+          "name": "观测者",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136553-9LprfeXY6qYP.png",
+          "description": "观测者是将球体投放到地球上的神秘存在，也是创造不死的人。他希望保存世界，并让不死通过接触生命、收集经验和观察变化来帮助自己完成目标。观测者很少像普通人一样参与事件，而是以旁观者和引导者的身份影响不死的旅程。他与不死之间既是创造者与造物的关系，也涉及使命、自由意志和保护世界的边界。",
+          "nicknames": [
+            "观测者",
+            "Kansatsu-sha",
+            "観察者",
+            "The Beholder",
+            "观察者"
+          ],
+          "traits": [
+            "将球体投放到地球的神秘存在",
+            "创造了不死",
+            "目标是保存世界",
+            "让不死收集世界信息",
+            "以旁观者身份观察变化",
+            "掌握超越常人的能力",
+            "与不死存在创造者关系",
+            "其目的影响整部故事"
+          ],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kansatsu-sha",
+            "name_native": "観察者",
+            "name_alternative": [
+              "The Beholder"
+            ],
+            "description": "The mysterious being and observer who cast the orb onto the Earth. His goal is to preserve the world. He sent [Fushi](https://anilist.co/character/136548/Fushi) to acquire various kinds of information from the world and aid his observations."
+          }
+        },
+        {
+          "id": 136554,
+          "name": "古古",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136554-qySbbPp9nunx.jpg",
+          "description": "古古是来自塔库纳哈的少年，起初在酒爷经营的店里工作，后来与不死结为兄弟。他经历身体和生活的巨大变化，却始终重视同伴，也希望守护能与朋友平静生活的世界。面对敲门者和反对不死的势力时，古古多次站在不死一边战斗。他的真诚、坚韧与兄弟情谊，深刻影响不死对人类关系和家庭意义的理解。",
+          "nicknames": [
+            "古古",
+            "Gugu",
+            "グーグー"
+          ],
+          "traits": [
+            "来自塔库纳哈的少年",
+            "曾在酒爷的店里工作",
+            "是不死的义兄弟",
+            "与不死一同对抗敲门者",
+            "重视同伴与和平生活",
+            "经历身体和身份变化",
+            "性格坚韧善良",
+            "影响不死对家人与友情的理解"
+          ],
+          "voice_actors": [
+            {
+              "name": "八代拓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119833-6CySrXDVAZ2X.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gugu",
+            "name_native": "グーグー",
+            "name_alternative": [],
+            "description": "Gugu is a young man from Takunaha who originally worked at [Booze Man's](https://anilist.co/character/136555/Sakejii) shop. As [Fushi's](https://anilist.co/character/136548/Fushi) sworn brother, he fought the [Nokkers](https://anilist.co/character/232832/Nokkers) and anti-Fushi faction members on several occasions to create the peaceful world the immortal desires.\n\nHe wears a mask to hide his face.\n\n~!His head got crushed by a wood log while trying to save [Rean](https://anilist.co/character/136551/Cropp-Rean). He has been wearing a mask to cover it ever since.!~"
+          }
+        },
+        {
+          "id": 136556,
+          "name": "比奥兰",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136556-UUQtEPFxqpQM.jpg",
+          "description": "比奥兰是一位来自塔库纳哈的年长女性，以灵媒身份来到尼南纳。她熟悉当地习俗，拥有丰富生活经验，常以直接而带有幽默感的方式与年轻人交谈。比奥兰在旅途中与不死建立起深厚关系，既会照顾他，也会提醒他理解人类的需求和情绪。她的陪伴跨越不死生命中的多个阶段，对他的成长和选择产生长期影响。",
+          "nicknames": [
+            "比奥兰",
+            "Pyoran",
+            "ピオラン",
+            "Pioran",
+            "比奥兰婆婆"
+          ],
+          "traits": [
+            "来自塔库纳哈的年长女性",
+            "以灵媒身份来到尼南纳",
+            "熟悉当地习俗",
+            "与不死建立长期关系",
+            "具有生活经验与幽默感",
+            "会照顾旅途中的伙伴",
+            "影响不死的成长",
+            "在故事多个时期留下重要印记"
+          ],
+          "voice_actors": [
+            {
+              "name": "愛河里花子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96840-EjJTxFN32iek.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pyoran",
+            "name_native": "ピオラン",
+            "name_alternative": [
+              "Pioran"
+            ],
+            "description": "Pyoran is an old woman from Takunaha. She comes to Ninannah as a shaman.\n\n"
+          }
+        },
+        {
+          "id": 138875,
+          "name": "卡哈库",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138875-H8EkrxQsUnx4.png",
+          "description": "卡哈库是防卫团第六任继承者，也是首位承接早濑意志的男性。他从家族传统中继承守护不死的职责，同时也承受前代理念和现实选择之间的冲突。卡哈库与不死的关系复杂，既有保护与接近，也受到守护者组织长期目标的影响。他的行动体现家族使命如何一代代传递，以及继承者能否在旧有信念之外形成自己的判断。",
+          "nicknames": [
+            "卡哈库",
+            "Kahaku",
+            "カハク"
+          ],
+          "traits": [
+            "防卫团第六任继承者",
+            "早濑意志的继承人",
+            "首位男性继承者",
+            "肩负守护者家族传统",
+            "与不死产生复杂关系",
+            "处事谨慎而执着",
+            "受到祖先理念影响",
+            "身处守护者与敲门者冲突之中"
+          ],
+          "voice_actors": [
+            {
+              "name": "斎賀みつき",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95197-4Uxn95bRlvMu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kahaku",
+            "name_native": "カハク",
+            "name_alternative": [],
+            "description": "Kahaku is the sixth successor of the Defense Corps and the first male successor of [Hayase](https://anilist.co/character/136545/Hayase)'s will."
+          }
+        },
+        {
+          "id": 138876,
+          "name": "邦谢恩·乌拉利斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b138876-8TsowRGCmx4V.jpg",
+          "description": "邦谢恩·乌拉利斯是乌拉利斯王国的王子，名字包含多个贵族称号，举止带有明显的宫廷排场。他曾邀请不死进入王室生活，也让不死接触到国家权力、继承和贵族礼仪。邦谢恩有时显得夸张自恋，但并非只关心外表，他会在关键时刻支持伙伴。王子身份使他能够调动资源，也让不死必须理解王室责任和普通人的生活差异。",
+          "nicknames": [
+            "邦谢恩·乌拉利斯",
+            "Bonchien Nicoli La Tasty Peach Uralis",
+            "ボンシェン・ニコリ・ラ・テイスティピーチ・ウラリス",
+            "Bon",
+            "Baron Springroll",
+            "Bonchien",
+            "邦谢恩王子"
+          ],
+          "traits": [
+            "乌拉利斯王国王子",
+            "拥有漫长正式姓名",
+            "具备贵族礼仪",
+            "喜欢华丽排场",
+            "曾邀请不死加入王室生活",
+            "身边有忠诚随从",
+            "与王国政治事务相关",
+            "以幽默态度影响不死的旅程"
+          ],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Bonchien Nicoli La Tasty Peach Uralis",
+            "name_native": "ボンシェン・ニコリ・ラ・テイスティピーチ・ウラリス",
+            "name_alternative": [
+              "Bon",
+              "Baron Springroll"
+            ],
+            "description": "Bonchien is the prince of the Uralis Kingdom."
+          }
+        },
+        {
+          "id": 202665,
+          "name": "乌帕",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202665-h4leOYg9URal.jpg",
+          "description": "乌帕是在贾南达岛上与不死相遇的女孩。她和岛上的其他居民一样生活在封闭环境中，需要面对群体规则、竞争和生存压力。乌帕与同伴们建立联系，并在不死的岛上经历中扮演重要角色。她的遭遇让不死进一步认识人类在困境中的选择，也成为他漫长旅程中记住的一段经历。",
+          "nicknames": [
+            "乌帕",
+            "Upa",
+            "ウーパ",
+            "Uba",
+            "Oopa"
+          ],
+          "traits": [
+            "在贾南达岛与不死相遇的女孩",
+            "生活在封闭岛屿环境",
+            "与岛上同伴相识",
+            "性格坚强",
+            "参与岛上生存活动",
+            "与不死建立联系",
+            "经历岛上冲突与离别",
+            "后来成为不死记忆的一部分"
+          ],
+          "voice_actors": [
+            {
+              "name": "小原好美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121961-TaMewK1taQm6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Upa",
+            "name_native": "ウーパ",
+            "name_alternative": [
+              "Uba",
+              "Oopa"
+            ],
+            "description": "One of the girls that [Fushi](https://anilist.co/character/136548/Fushi) meets on the island of Jananda. \n\n~!After she dies she also becomes a form Fushi can take over!~"
+          }
+        },
+        {
+          "id": 202667,
+          "name": "米娅",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202667-typId3TGOkMf.png",
+          "description": "米娅是在贾南达岛上与不死相遇的女孩，和其他孩子一起生活在远离大陆的封闭环境中。岛上的竞争和生存规则使她必须在同伴关系与个人安全之间做选择。米娅参与了不死在岛上的经历，也让他看到人类群体在资源有限时会出现的合作与冲突。她的故事构成贾南达篇章的一部分，并留在不死持续积累的记忆之中。",
+          "nicknames": [
+            "米娅",
+            "Mia",
+            "ミァ"
+          ],
+          "traits": [
+            "在贾南达岛与不死相遇的女孩",
+            "生活在岛屿群体中",
+            "与岛上其他孩子相识",
+            "面对封闭环境的生存规则",
+            "参与同伴间的行动",
+            "与不死产生交集",
+            "经历岛上的危险事件",
+            "影响不死对人类群体的认识"
+          ],
+          "voice_actors": [
+            {
+              "name": "夏吉ゆうこ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n136272-mAV4SN9bQbHl.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mia",
+            "name_native": "ミァ",
+            "name_alternative": [],
+            "description": "One of the girls that [Fushi](https://anilist.co/character/136548/Fushi) meets on the island of Jananda. \n\n~!After she dies she also becomes a form Fushi can take over!~"
+          }
+        },
+        {
+          "id": 202863,
+          "name": "信",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b202863-nJVJiubk15zh.png",
+          "description": "信是古古的“兄弟”，两人曾一起作为被遗弃的仆役生活，并长期像亲兄弟一样相依为命。他熟悉塔库纳哈的日常，也了解古古在与不死相识之前经历的贫困和孤独。信与不死的相遇让古古过去的生活逐渐显露，也帮助不死理解朋友并非凭空出现，而是带着家人、旧日承诺和创伤走进新的关系。",
+          "nicknames": [
+            "信",
+            "Shin",
+            "シン"
+          ],
+          "traits": [
+            "是古古的兄弟",
+            "与古古曾作为被遗弃的仆役生活",
+            "从小像兄弟一样相依",
+            "熟悉塔库纳哈生活",
+            "与不死结识",
+            "重视古古的处境",
+            "经历贫困与被抛弃",
+            "代表古古过去的人际关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "阿部敦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95991-4u24gUBgqeTA.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shin",
+            "name_native": "シン",
+            "name_alternative": [],
+            "description": "[Gugu's](https://anilist.co/character/136554/Gugu) \"brother\". They were both servants that were abandoned. They lived for a long time as siblings."
+          }
+        },
+        {
+          "id": 203210,
+          "name": "凯·雷纳尔德·鲁尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203210-f9DJ6DrKReS0.png",
+          "description": "凯·雷纳尔德·鲁尔是乌拉利斯王国的士兵，受过军事训练并参与王国的防卫事务。他身处邦谢恩王子和王室人员周围，负责执行军队中的具体任务。作为普通军人，凯需要遵从命令，也必须在危机中保护身边的人。他的经历补充了王国篇章中的军队与日常守卫视角，让不死的旅程不只围绕王族和超越常人的力量展开。",
+          "nicknames": [
+            "凯·雷纳尔德·鲁尔",
+            "Kai Renald Roulle",
+            "カイ・レナルド・ロウル",
+            "凯",
+            "雷纳尔德"
+          ],
+          "traits": [
+            "乌拉利斯士兵",
+            "受过军事训练",
+            "参与王国防卫事务",
+            "熟悉军队行动",
+            "与邦谢恩王子相关",
+            "在不死的旅程中提供支援",
+            "处于王国冲突环境",
+            "以普通军人身份执行任务"
+          ],
+          "voice_actors": [
+            {
+              "name": "加瀬康之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95801-Jno6Y2OawOII.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kai Renald Roulle",
+            "name_native": "カイ・レナルド・ロウル",
+            "name_alternative": [],
+            "description": "He is a soldier from Uralys"
+          }
+        },
+        {
+          "id": 203213,
+          "name": "海洛·里奇",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203213-HbezCB13Crhh.png",
+          "description": "海洛·里奇曾在贝内特建国军服役，是经历过战争和政权变化的前士兵。他熟悉军队生活，也见证过冲突如何影响普通人的生计与立场。退役后，海洛仍因过去的军事经历卷入新的行动，并与不死一行发生交集。他的角色提供了王国篇章中老兵的视角，呈现战争结束后留下的记忆、责任和未解决的社会问题。",
+          "nicknames": [
+            "海洛·里奇",
+            "Hairo Rich",
+            "ハイロ・リッチ",
+            "Hylo",
+            "海洛"
+          ],
+          "traits": [
+            "曾是贝内特建国军士兵",
+            "拥有军事经历",
+            "见证王国政权更迭",
+            "熟悉军队生活",
+            "参与冲突后的行动",
+            "与不死一行发生交集",
+            "行事带有老兵经验",
+            "代表战争留下的社会影响"
+          ],
+          "voice_actors": [
+            {
+              "name": "石川界人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115156-ngYfqBazlxYQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hairo Rich",
+            "name_native": "ハイロ・リッチ",
+            "name_alternative": [
+              "Hylo"
+            ],
+            "description": "A former soldier of the Benett founder army"
+          }
+        },
+        {
+          "id": 203214,
+          "name": "艾可",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b203214-9VkEG690mbW3.png",
+          "description": "艾可是来自陶土族的女孩，属于生活方式与普通人类不同的族群。她与不死相识后加入旅程，在与外部世界接触的过程中逐渐建立起对伙伴的信任。艾可对身边环境保持好奇，也让不死和同伴有机会理解陶土族的生活与习俗。她的存在提醒旅人，世界上的生命并不只有人类和敲门者，许多不同族群都在寻找自己的生活位置。",
+          "nicknames": [
+            "艾可",
+            "Eko",
+            "エコ",
+            "Iddy"
+          ],
+          "traits": [
+            "来自陶土族的女孩",
+            "属于特殊族群",
+            "与不死相识",
+            "外表和生活方式不同于人类",
+            "在旅行中提供陪伴",
+            "逐渐与同伴建立信任",
+            "对周围世界保持好奇",
+            "连接陶土族与外部社会"
+          ],
+          "voice_actors": [
+            {
+              "name": "広橋涼",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/95111-iw76EbsupYkS.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eko",
+            "name_native": "エコ",
+            "name_alternative": [
+              "Iddy"
+            ],
+            "description": "A girl from the earthenware people"
+          }
+        },
+        {
+          "id": 204182,
+          "name": "青木爱子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204182-oZs7SbBXhkoP.png",
+          "description": "青木爱子生活在现代时代，是青木勇树的妹妹。她与哥哥共同生活，也因此接触到不死和超自然研究社成员的行动。面对日常环境中出现的异常事件，爱子需要适应家庭生活被改变的现实，并关注哥哥及同伴的安全。她的角色把不死与现代家庭联系起来，呈现普通年轻人如何在熟悉的校园与家庭空间中接触超自然冲突。",
+          "nicknames": [
+            "青木爱子",
+            "Aiko Aoki",
+            "アオキ アイコ",
+            "爱子",
+            "青木爱"
+          ],
+          "traits": [
+            "生活在现代时代",
+            "青木勇树的妹妹",
+            "与哥哥共同生活",
+            "属于不死现代篇章的人物",
+            "接触超自然研究社成员",
+            "关注家人安全",
+            "适应社会中的异常事件",
+            "参与现代人际关系网络"
+          ],
+          "voice_actors": [
+            {
+              "name": "古賀葵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123268-zIZLjZ5Xfbk4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aiko Aoki",
+            "name_native": "アオキ アイコ",
+            "name_alternative": [],
+            "description": "A person living in the present era. [Yuki Aoki](https://anilist.co/character/204185/Aoki-Yuuki)'s younger sibling."
+          }
+        },
+        {
+          "id": 204185,
+          "name": "青木勇树",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204185-kYIvQAlNsxjg.png",
+          "description": "青木勇树是生活在现代时代的少年，担任超自然研究社副社长。遇见不死后，他邀请对方暂住在自己家，也逐渐把这名来历特殊的旅人当作伙伴。勇树有妹妹爱子，必须在学校活动、家庭生活和社团调查之间分配精力。他对未知现象抱有兴趣，愿意帮助朋友，也让不死第一次较长时间地融入普通青少年的校园日常。",
+          "nicknames": [
+            "青木勇树",
+            "Yuuki Aoki",
+            "アオキユーキ",
+            "勇树",
+            "青木"
+          ],
+          "traits": [
+            "生活在现代时代的少年",
+            "不死的现代篇伙伴",
+            "让不死暂住在自己家",
+            "超自然研究社副社长",
+            "愿意帮助新朋友",
+            "有一名妹妹爱子",
+            "与同伴调查异常现象",
+            "试图维持校园与家庭日常"
+          ],
+          "voice_actors": [
+            {
+              "name": "潘めぐみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuuki Aoki",
+            "name_native": "アオキユーキ",
+            "name_alternative": [],
+            "description": "He is a boy from the present era. He offers [Fushi](https://anilist.co/character/136548/Fushi) to stay at his place. He's the vice-president of the occult research club."
+          }
+        },
+        {
+          "id": 204186,
+          "name": "玉木和梦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204186-t61HtHYYJbXW.png",
+          "description": "玉木和梦是生活在现代时代的少年，也是青木勇树的朋友和超自然研究社一年级成员。他自称是社团的力量担当，常以行动积极的方式参与调查与外出活动。和梦并非专业研究者，却愿意陪同伙伴面对超自然事件，也在社团中承担体力和执行工作。他与勇树、铃彦等人的友情构成不死现代生活的一部分，让社团调查成为少年们共同承担的冒险。",
+          "nicknames": [
+            "玉木和梦",
+            "Tamaki Kazumu",
+            "タマキ カズム",
+            "和梦",
+            "玉木"
+          ],
+          "traits": [
+            "生活在现代时代的少年",
+            "青木勇树的朋友",
+            "一年级学生",
+            "超自然研究社成员",
+            "自称社团的力量担当",
+            "行动积极",
+            "参与调查异常事件",
+            "与社团伙伴共同活动"
+          ],
+          "voice_actors": [
+            {
+              "name": "落合福嗣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119506-kCsXHHjcQca6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tamaki Kazumu",
+            "name_native": "タマキ カズム",
+            "name_alternative": [],
+            "description": "A boy from the present era. [Aoki's](https://anilist.co/character/204185/Aoki-Yuuki) friend. He's a first-year, occult-club member and self-professed brawn of the club."
+          }
+        },
+        {
+          "id": 204187,
+          "name": "汉娜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204187-gcOsGMV0T3tY.png",
+          "description": "汉娜是生活在现代时代的少女，也是青木勇树和水叶的朋友。她参与校园生活，与勇树、社团成员及水叶保持往来。随着不死和超自然事件进入他们的日常，汉娜也需要面对熟悉环境突然变得异常的情况。她连接了水叶与青木的朋友圈，让两条原本不同的现代生活线交织起来，并补充年轻角色之间互相支持的关系。",
+          "nicknames": [
+            "汉娜",
+            "Hanna"
+          ],
+          "traits": [
+            "生活在现代时代的少女",
+            "是青木勇树的朋友",
+            "也是水叶的朋友",
+            "参与校园日常",
+            "与超自然研究社成员相识",
+            "关注朋友的处境",
+            "见证现代社会异常事件",
+            "连接水叶与青木的朋友圈"
+          ],
+          "voice_actors": [
+            {
+              "name": "内田彩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103921-bnSaJsF0jgH1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hanna",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "She's a girl from the present era. [Aoki](https://anilist.co/character/204185/Aoki-Yuuki)'s and [Mizuha](https://anilist.co/character/204189/Mizuha)'s friend."
+          }
+        },
+        {
+          "id": 204190,
+          "name": "千羽铃彦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204190-63wmNEa3eZax.png",
+          "description": "千羽铃彦是生活在现代时代的少年，也是青木勇树的朋友和超自然研究社一年级成员。他自称是社团的智囊，习惯分析线索并为调查提出思路。铃彦与自称力量担当的玉木和梦形成互补，两人和勇树一起参与校园社团活动及异常事件调查。面对不死带来的谜团，他努力以推理理解超出日常经验的现象。",
+          "nicknames": [
+            "千羽铃彦",
+            "Senba Suzuhiko",
+            "センバ スズヒコ",
+            "铃彦",
+            "千羽"
+          ],
+          "traits": [
+            "生活在现代时代的少年",
+            "青木勇树的朋友",
+            "一年级学生",
+            "超自然研究社成员",
+            "自称社团的智囊",
+            "喜欢分析异常现象",
+            "与玉木和梦互补合作",
+            "参与校园社团活动"
+          ],
+          "voice_actors": [
+            {
+              "name": "沢城千春",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120159-8g6hMPJrVUSb.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Senba Suzuhiko",
+            "name_native": "センバ スズヒコ",
+            "name_alternative": [],
+            "description": "A boy living in the present era. [Aoki's](https://anilist.co/character/204185/Aoki-Yuuki) friend. He's a first-year occult club member and self-professed brains of the club."
+          }
+        },
+        {
+          "id": 204418,
+          "name": "美森",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204418-GImE1VmO7hfz.png",
+          "description": "美森是生活在现代时代的女性，与博俊存在姻亲关系，是他的嫂子。她的家庭关系把博俊及其亲属带入不死现代篇章的事件中。美森需要在普通家庭生活和周围逐渐显露的异常之间维持日常，也会受到家人选择的影响。她的角色补充了现代时代的亲属网络，让观众看到超自然冲突并非只影响学生和社团成员。",
+          "nicknames": [
+            "美森",
+            "Mimori"
+          ],
+          "traits": [
+            "生活在现代时代的少女",
+            "与博俊存在姻亲关系",
+            "是博俊的嫂子",
+            "家庭关系牵连水叶一行",
+            "与现代家庭篇章相关",
+            "在异常事件中保持日常生活",
+            "需要处理家人间的相处",
+            "出现在不死的现代时代故事中"
+          ],
+          "voice_actors": [
+            {
+              "name": "大久保瑠美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107041-ZqPloXZhcuQw.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mimori",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "A girl from the present era."
+          }
+        },
+        {
+          "id": 204421,
+          "name": "泉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204421-b1xluJO6ESLK.png",
+          "description": "泉是水叶的母亲，生活在现代时代。水叶继承早濑后代的传统并成为防卫团领导者后，泉必须面对女儿承担的组织责任及可能遇到的危险。她既关注水叶的成长，也处在家族长久传承的观念之中。泉与女儿之间的关系让守护者传统落到真实家庭生活中，展现母亲如何看待责任、继承和下一代的选择。",
+          "nicknames": [
+            "泉",
+            "Izumi",
+            "水叶的母亲"
+          ],
+          "traits": [
+            "水叶的母亲",
+            "生活在现代时代",
+            "关注女儿的成长",
+            "与防卫团家族传统相关",
+            "需要面对水叶的领导责任",
+            "参与现代家庭生活",
+            "与不死的现代篇章相连",
+            "在亲子关系中影响水叶的选择"
+          ],
+          "voice_actors": [
+            {
+              "name": "伊藤静",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Izumi",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "[Mizuha](https://anilist.co/character/204189/Mizuha)'s mother"
+          }
+        },
+        {
+          "id": 204422,
+          "name": "水叶的父亲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b204422-fUT6tuXNPGy3.png",
+          "description": "水叶的父亲生活在现代时代，属于延续早濑后代传统的家庭。他见证女儿水叶承担防卫团领导职责，也需要面对家族历史给现代生活带来的压力。作为父亲，他关心水叶的处境和安全；作为传统家族的一员，他也受到组织责任与继承观念影响。这个角色从家庭角度呈现防卫团事务如何进入普通日常。",
+          "nicknames": [
+            "水叶的父亲",
+            "Mizuha no Chichioya",
+            "ミズハの父親",
+            "Mizuha's Father",
+            "水叶父亲",
+            "水叶的爸爸"
+          ],
+          "traits": [
+            "水叶的父亲",
+            "生活在现代时代",
+            "属于早濑后代家族",
+            "与防卫团事务有关",
+            "关注女儿的处境",
+            "参与家庭生活",
+            "见证水叶承担领导职责",
+            "身处守护者传统延续的家庭"
+          ],
+          "voice_actors": [
+            {
+              "name": "三木眞一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mizuha no Chichioya",
+            "name_native": "ミズハの父親",
+            "name_alternative": [
+              "Mizuha's Father"
+            ],
+            "description": "[Mizuha](https://anilist.co/character/204189/Mizuha)'s father."
+          }
+        },
+        {
+          "id": 365587,
+          "name": "悟",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b365587-VtQrpZ7y3oPE.png",
+          "description": "悟以生活在现代时代的人类形态出现，与观测者及其保存世界的使命存在关联。他的身份让不死面临新的问题：创造者与造物之间的关系是否会随着时代变化而改变，观察世界是否等于拥有决定世界的权力。悟并非普通社团成员，他的出现把不死的古老旅程和现代社会联系起来，也促使角色们重新判断观测者的目标。",
+          "nicknames": [
+            "悟",
+            "Satoru",
+            "サトル",
+            "Black Shounen (ブラック少年)",
+            "Boy Black"
+          ],
+          "traits": [
+            "生活在现代时代的人类形态",
+            "与观测者存在关联",
+            "出现在不死现代篇章",
+            "影响现代事件的走向",
+            "身份牵涉世界保存使命",
+            "与不死的旅程产生联系",
+            "具有神秘背景",
+            "连接观测者与现代社会"
+          ],
+          "voice_actors": [
+            {
+              "name": "花守ゆみり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116543-ugu1HZWiQkqi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Satoru",
+            "name_native": "サトル",
+            "name_alternative": [
+              "Black Shounen (ブラック少年)",
+              "Boy Black"
+            ],
+            "description": "~!The human reincarnation of [Kansatsu-sha](https://anilist.co/character/136553/Kansatsusha).!~"
+          }
+        },
+        {
+          "id": 375548,
+          "name": "博俊",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375548-OiaNiMkFlJZ5.png",
+          "description": "博俊生活在现代时代，是美森的小叔子，两人的家庭关系还涉及明显的年龄差。他与父亲及其他亲属共同出现在水叶周围的现代故事线中，家庭内部的身份和辈分关系容易让人感到复杂。博俊需要在日常生活和亲属间的相处中找到自己的位置，也因家人卷入异常事件而受到影响。他的经历补充了现代篇章中的家庭群像。",
+          "nicknames": [
+            "博俊",
+            "Hirotoshi",
+            "ひろとし",
+            "宏俊"
+          ],
+          "traits": [
+            "美森的姻亲",
+            "是美森的小叔子",
+            "生活在现代时代",
+            "与水叶家庭有关联",
+            "家庭关系受到年龄差影响",
+            "身处现代篇章的人际网络",
+            "与父亲共同生活",
+            "参与当代家庭故事线"
+          ],
+          "voice_actors": [
+            {
+              "name": "畠中祐",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107018-UwRPnTdllbPT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hirotoshi",
+            "name_native": "ひろとし",
+            "name_alternative": [],
+            "description": "[Mimori's](https://anilist.co/character/204418/Mimori) brother-in-law"
+          }
+        },
+        {
+          "id": 379905,
+          "name": "雅",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b379905-vKiDIOCkgmTl.png",
+          "description": "雅是生活在现代时代的女性，既是美森的母亲，也是博俊的继母；她和博俊实际上只相差两岁。复杂的家庭称谓与真实年龄差让亲属关系显得出人意料，也影响博俊在家庭中的位置。雅需要处理母女关系、继亲关系和日常生活，同时被卷入不死现代篇章的家庭事件，呈现现代社会中由婚姻和重组家庭形成的关系网络。",
+          "nicknames": [
+            "雅",
+            "Miyabi"
+          ],
+          "traits": [
+            "生活在现代时代的女性",
+            "是美森的母亲",
+            "也是博俊的继母",
+            "与博俊年龄只差两岁",
+            "处在复杂家庭关系中",
+            "参与现代家庭生活",
+            "影响博俊的成长环境",
+            "展现亲属称谓与实际年龄的反差"
+          ],
+          "voice_actors": [
+            {
+              "name": "朝日奈丸佳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119812-tDb8CxZflGRk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miyabi",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "[Mimori's](https://anilist.co/character/204418/) mother and [Hirotoshi's](https://anilist.co/character/375548/) step-mother. She is only 2 years older than Hirotoshi."
+          }
+        },
+        {
+          "id": 379906,
+          "name": "博俊的父亲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b379906-ztq7qLrJlddU.png",
+          "description": "博俊的父亲生活在现代时代，与美森及雅的家庭关系相连。雅既是美森的母亲，也是博俊的继母，两代人之间的年龄差让家庭身份显得复杂。他作为父亲，需要处理儿子在重组家庭中的位置，也参与现代篇章的亲属生活。这个角色虽不是不死旅程的中心人物，却补充了当代家庭关系如何影响年轻人的日常。",
+          "nicknames": [
+            "博俊的父亲",
+            "Hirotoshi no Chichi",
+            "ひろとしの父",
+            "博俊父亲"
+          ],
+          "traits": [
+            "博俊的父亲",
+            "生活在现代时代",
+            "与美森及雅存在姻亲关系",
+            "家庭成员年龄差异明显",
+            "参与重组家庭生活",
+            "关注儿子的处境",
+            "影响博俊的亲属身份",
+            "与现代篇章人物关系相连"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴木琢磨",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101981-M1QHNfoBLovs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hirotoshi no Chichi",
+            "name_native": "ひろとしの父",
+            "name_alternative": [],
+            "description": "[Hirotoshi's](https://anilist.co/character/375548/) father."
+          }
+        }
+      ]
+    }
+  ]
+}

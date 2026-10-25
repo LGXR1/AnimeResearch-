@@ -1,0 +1,39 @@
+{
+  "verifiedAt": "2026-10-05T06:12:06.076Z",
+  "curatedFile": "scripts/new_anime_curated_batch12.js",
+  "anime": [
+    {
+      "id": 19769,
+      "title": "魔法战争",
+      "count": 9,
+      "excluded": [
+        {
+          "name": "狼神鹰雄、一氏诚",
+          "reason": "官网列出人物，但补查未找到与本作品关联的 AniList 角色和合规图片"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/19769",
+        "https://www.tbs.co.jp/anime/mahosen/chara/",
+        "https://www.b-ch.com/titles/3994/"
+      ]
+    },
+    {
+      "id": 97673,
+      "title": "猫咪日常",
+      "count": 7,
+      "excluded": [],
+      "references": [
+        "https://anilist.co/anime/97673",
+        "https://www.kadokawa.co.jp/topics/819/",
+        "https://animestore.docomo.ne.jp/animestore/ci_pc?workId=21370",
+        "https://bangumi.tv/subject/193282/characters"
+      ]
+    }
+  ],
+  "insertedCharacters": 16,
+  "insertedVoiceActors": 16,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 16,
+  "verifiedVoiceActors": 16
+}

@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { useSearchParams, useNavigate } from 'react-router-dom'
+import { Link, useSearchParams, useNavigate } from 'react-router-dom'
 import SearchBar from '../components/SearchBar'
 import CharacterCard from '../components/CharacterCard'
 import Pagination from '../components/Pagination'
@@ -17,13 +17,17 @@ export default function SearchResultsPage() {
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState(null)
   const [allChars, setAllChars] = useState(null)
+  const [retryKey, setRetryKey] = useState(0)
 
-  // Fetch all characters (paginated) on mount
+  // Browsing and searching are separate flows; a search needs only its matches.
   useEffect(() => {
+    if (query) { setAllChars(null); return }
+    let cancelled = false
     getAllCharacters(browsePage, 24)
-      .then(setAllChars)
-      .catch(() => setAllChars(null))
-  }, [browsePage])
+      .then((data) => { if (!cancelled) setAllChars(data) })
+      .catch(() => { if (!cancelled) setAllChars(null) })
+    return () => { cancelled = true }
+  }, [query, browsePage])
 
   // Search when query changes
   useEffect(() => {
@@ -39,7 +43,7 @@ export default function SearchResultsPage() {
       .finally(() => { if (!cancelled) setLoading(false) })
 
     return () => { cancelled = true }
-  }, [query, page])
+  }, [query, page, retryKey])
 
   const handleSearch = (newQuery) => {
     navigate(`/search?q=${encodeURIComponent(newQuery)}`)
@@ -58,12 +62,6 @@ export default function SearchResultsPage() {
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
-  const handleCardClick = (id) => {
-    navigate(`/character/${id}`)
-  }
-
-  const hasSearchResults = results && results.data.length > 0
-
   return (
     <Layout>
 
@@ -74,12 +72,12 @@ export default function SearchResultsPage() {
       <div className="relative z-[1] px-4 py-6">
       {/* Header */}
       <div className="flex flex-col items-center mb-10">
-        <h1 className="text-3xl font-bold cursor-pointer hover:text-[#ff6b8a] transition-colors"
-          style={{ textShadow: '0 0 40px rgba(255,107,138,0.1)' }}
-          onClick={() => navigate('/')}>
-          <span className="bg-gradient-to-r from-[#ff6b8a] via-[#ff8fab] to-[#ff6b8a] bg-clip-text text-transparent">
-            动漫人物搜索
-          </span>
+        <h1 className="text-3xl font-bold" style={{ textShadow: '0 0 40px rgba(255,107,138,0.1)' }}>
+          <Link to="/" className="hover:text-[#ff6b8a] focus-visible:outline focus-visible:outline-2 focus-visible:outline-[#ff6b8a] transition-colors">
+            <span className="bg-gradient-to-r from-[#ff6b8a] via-[#ff8fab] to-[#ff6b8a] bg-clip-text text-transparent">
+              动漫人物搜索
+            </span>
+          </Link>
         </h1>
         <p className="text-gray-500 text-xs tracking-widest mt-2 mb-6 flex items-center gap-2">
           <span>显示搜索结果</span>
@@ -99,7 +97,7 @@ export default function SearchResultsPage() {
       {error && (
         <div className="text-center py-16">
           <p className="text-red-400/80 mb-4 text-sm">{error}</p>
-          <button onClick={() => setSearchParams({ q: query, page: '1' })}
+          <button onClick={() => setRetryKey((current) => current + 1)}
             className="px-8 py-2.5 bg-[#ff6b8a]/90 text-white rounded-full text-sm hover:bg-[#ff5a7a] transition-all shadow-lg shadow-[#ff6b8a]/20">
             重试 <span className="opacity-50 text-xs">再試行</span>
           </button>
@@ -118,7 +116,7 @@ export default function SearchResultsPage() {
             <>
               <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-5">
                 {results.data.map((char) => (
-                  <CharacterCard key={char.id} character={char} onClick={handleCardClick} />
+                  <CharacterCard key={char.id} character={char} />
                 ))}
               </div>
               <Pagination
@@ -134,14 +132,14 @@ export default function SearchResultsPage() {
       )}
 
       {/* All characters */}
-      {!hasSearchResults && !loading && allChars && allChars.data.length > 0 && (
+      {!query && !loading && allChars && allChars.data.length > 0 && (
         <div className="max-w-5xl mx-auto pb-16">
           <h2 className="text-lg font-medium mb-6 text-gray-400 tracking-wide">
-            {query ? <>全部角色 <span className="text-gray-600/50 text-sm">すべてのキャラクター</span></> : <><span className="text-[#ff6b8a]">{allChars.total}</span> 个角色收录中 <span className="text-gray-600/50 text-sm">キャラクター収録中</span></>}
+            <span className="text-[#ff6b8a]">{allChars.total}</span> 个角色收录中 <span className="text-gray-600/50 text-sm">キャラクター収録中</span>
           </h2>
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-5">
             {allChars.data.map((char) => (
-              <CharacterCard key={char.id} character={char} onClick={handleCardClick} />
+              <CharacterCard key={char.id} character={char} />
             ))}
           </div>
           <Pagination

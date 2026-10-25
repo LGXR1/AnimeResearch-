@@ -1,0 +1,409 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T02:42:42.400Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 7724,
+      "anime_title": "尸鬼",
+      "anime_origin": "JP",
+      "source": {
+        "id": 7724,
+        "titles": [
+          "Shiki",
+          "屍鬼",
+          "Corpse Demon"
+        ],
+        "year": 2010,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/7724"
+      },
+      "characters": [
+        {
+          "id": 7582,
+          "name": "结城夏野",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7582-Oq4BTcZZjKI1.png",
+          "description": "结城夏野原本住在城市，后来随父母搬到外场村并在当地上学。他不喜欢村里的生活，更向往城市，平时常显得冷淡，尤其不喜欢清水惠纠缠自己；但对武藤彻等真正的朋友，他仍然温和友善。夏野后来被迫变成尸鬼，却成为极罕见的人狼型尸鬼，能够在阳光下活动。他拒绝饮用人血，并与尾崎敏夫联手对抗桐敷家，仍牵挂着外场村的朋友。",
+          "nicknames": [
+            "结城夏野",
+            "Natsuno Yuuki",
+            "結城夏野",
+            "Koide",
+            "夏野"
+          ],
+          "traits": [
+            "最初居住在城市",
+            "随父母搬到外场村",
+            "就读于外场村学校",
+            "不喜欢乡村生活",
+            "更向往城市",
+            "平时显得冷淡",
+            "善待认可的朋友",
+            "与武藤彻关系亲近",
+            "后来成为罕见的人狼型尸鬼",
+            "可在阳光下活动",
+            "拒绝饮用人血",
+            "与尾崎敏夫合作对抗桐敷家"
+          ],
+          "voice_actors": [
+            {
+              "name": "内山昂輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96764-yJWGrhjanDJQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Natsuno Yuuki",
+            "name_native": "結城夏野",
+            "name_alternative": [
+              "Koide"
+            ],
+            "description": "Natsuno lives and attends school in Sotoba. He hates living in the village and prefers to be in the city. Originally a city dweller, Natsuno reluctantly moves to Sotoba with his parents when they wanted a change of environment. He often exhibits a cold exterior, especially disliking Megumi Shimizu's presence, who has a crush on him and is obsessed(to the point where she stalks him). He is kind and friendly toward those whom he considers his friends (Tooru, Kaori, Akira and Tooru's younger siblings)  Natsuno is one of the two main protagonists in the series.   \n\n~!His best friend Tooru is forced to turn him into a shiki. However, unlike the normal shikis who cannot go out in daylight and can be killed in various ways, Natsuno is the very rare \"werewolf\" type of vampire like Tatsumi, who can stand the sunlight and cannot be killed. As a shiki, Natsuno avoids drinking human blood, which makes him weaker than Tatsumi, and allies himself with Toshio to bring down the Kirishiki family even though Tooru remains by Sunako's side. It is also shown that he still deeply cares about Kaori and Akira. At the end of the anime series, Natsuno tackles Tatsumi and they both fall into a deep pit of dead bodies. Detonating the top of the pit with a stick of dynamite, Natsuno buries himself and Tatsumi beneath the rubble.!~"
+          }
+        },
+        {
+          "id": 7583,
+          "name": "尾崎敏夫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7583-mDBtMyykBIQm.png",
+          "description": "尾崎敏夫是外场村医院的院长，曾在大学医院工作，父亲去世后回到村里接任家业。同事和村民亲切地称他“若先生”。敏夫不满尾崎家总把家族名声放在首位，与室井静信、安森幹康是儿时好友；他有吸烟习惯，妻子京子经营古董店。村里接连出现死亡事件后，敏夫开始调查原因，并下定决心保护村民。确认尸鬼存在后，他秘密筹划阻止屠杀继续。",
+          "nicknames": [
+            "尾崎敏夫",
+            "Toshio Ozaki",
+            "若先生"
+          ],
+          "traits": [
+            "外场村医院院长",
+            "曾在大学医院任职",
+            "父亲去世后回村接任家业",
+            "同事和村民称他若先生",
+            "不满尾崎家重视名声",
+            "与室井静信是儿时好友",
+            "与安森幹康也相识多年",
+            "有吸烟习惯",
+            "妻子经营古董店",
+            "调查村中接连发生的死亡",
+            "决心保护外场村"
+          ],
+          "voice_actors": [
+            {
+              "name": "大川透",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95243-zhk18RRqSAmx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Toshio Ozaki",
+            "name_native": "尾崎敏夫",
+            "name_alternative": [],
+            "description": "The dean of the hospital in Sotoba, Toshio resigned from university hospital, returning to take up his father's position when he passed away. He is fondly given a nickname, \"Waka-sensei\", by his colleagues as well as the residents. Toshio has a dislike to both his mother and his late father, as both of them often put reputation of the Ozaki family before anything else. He is childhood friends with Seishin Muroi and Mikiyasu Yasumori. Toshio is a chain smoker and is married to Kyouko who manages an antique shop. He is baffled by the mysterious deaths and swears to solve the case and protect his village. One of the two main protagonists in the series.   \n\n~! Although he later discovers the truth behind the villagers' death, Toshio is still unable to do anything, as the villagers around him refuse to believe his words and Toshio cannot single-handedly go against Tatsumi, or the roaming Shikis. Still, he vows to put an end to the Shiki's massacres, and secretly teams up with Natsuno, who has become a werewolf like Tatsumi. He lets himself get bitten by Kirishiki Chizuru to lure her out to the village's festival and kill her there, effectively exposing the truth about the Shikis to the village. Afterwards, he leads the villagers on a brutal Shiki extermination, which only ends when the village is burned down.   !~"
+          }
+        },
+        {
+          "id": 7584,
+          "name": "室井静信",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7584-6Foo7nflaoYV.jpg",
+          "description": "室井静信是外场村的僧侣，也是一名小说家，最新作品名为《尸鬼》。他对超自然现象十分敏锐，能察觉村中真正的尸鬼。静信与尾崎敏夫、安森幹康从小相识，自己则一直未婚；大学时期曾在醉酒后试图自杀。随着村里的死亡事件增多，他逐渐接近桐敷沙子并得知尸鬼的真相。与敏夫不同，静信不愿直接对桐敷家采取行动，后来也被卷入尸鬼世界。",
+          "nicknames": [
+            "室井静信",
+            "Seishin Muroi",
+            "静信"
+          ],
+          "traits": [
+            "外场村的当地僧侣",
+            "同时从事小说创作",
+            "新作名为《尸鬼》",
+            "具有敏锐的灵异感知",
+            "能察觉尸鬼存在",
+            "与尾崎敏夫是儿时好友",
+            "与安森幹康也相识多年",
+            "未婚",
+            "曾在大学时期醉酒后试图自杀",
+            "后来与桐敷沙子交好",
+            "不愿对桐敷家采取行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "興津和幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Seishin Muroi",
+            "name_native": "室井静信",
+            "name_alternative": [],
+            "description": "Seishin is the local priest in Sotoba, as well as an author in writing novels. His latest work is called Shiki, which translated in English is called Corpse Demon. He has a sense of the supernatural and detects the presence of the real &quot;shiki.&quot; He is childhood friends with Toshio Ozaki and Mikiyasu Yasumori. He is single and once attempted to commit suicide in a drunken state during his university days.     \n\n~!He befriends Sunako during her nightly visits to his place. Although he eventually comes to discover the nature of the deaths in the village like Ozaki Toshio, unlike Toshio, Seishin refuses to take actions against the Kirishiki family. After his father turns in to the Shikis and becomes a Shiki himself, Seishin willingly visits the Kirishiki household and gets bitten by Sunako. At the end of series, he becomes a werewolf - called also jinrou - and saves Sunako from &quot;death.&quot;!~"
+          }
+        },
+        {
+          "id": 30477,
+          "name": "桐敷沙子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30477-ydht0JHh4Bke.jpg",
+          "description": "桐敷沙子是一名外表年幼的少女，随家人搬进山坡上的神丧宅邸。她患有罕见遗传病SLE，因此白天通常留在室内，只在夜晚外出。沙子和家人喜爱室井静信的随笔与小说，也因此迁居外场村。她曾被吸血鬼咬伤并变成尸鬼，后来成为桐敷家的实际首领。沙子把尸鬼视为自己的族群；当村民开始围剿尸鬼时，她命令辰巳发动全面反击。",
+          "nicknames": [
+            "桐敷沙子",
+            "Sunako Kirishiki",
+            "沙子"
+          ],
+          "traits": [
+            "年幼外表的少女",
+            "搬入山坡上的神丧宅邸",
+            "患有罕见遗传病SLE",
+            "白天通常留在室内",
+            "多在夜晚外出",
+            "喜爱室井静信的随笔与小说",
+            "家族因静信的作品迁居外场村",
+            "曾被吸血后变成尸鬼",
+            "是桐敷家的实际首领",
+            "将尸鬼视作自己的族群"
+          ],
+          "voice_actors": [
+            {
+              "name": "悠木碧",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sunako Kirishiki",
+            "name_native": "桐敷沙子",
+            "name_alternative": [],
+            "description": "A young girl who moves into the Kanemasa mansion atop the hill with her family. She has a rare genetic disorder known as SLE, which leads her to stay inside her home during the day and only come out at night. She and her family are fans of the essays and novels written by Seishin Muroi, and is the reason they moved to Sotoba. Sunako dislikes people calling her name with the honorific \"chan\".   ~! Sunako was originally a beloved daughter of a well-off family. She was bitten by a vampire Western noble, who was a guest of her family, and died. When she revived as a Shiki, her family kept her confined and sent her servants to feed on. After some time, she finally left her refuge and went on a journey to find her family, who had moved. However, her journey went on to no avail for so long that by the time Sunako realized it, her entire family was all dead.  She later bites Muroi Seishin. When Tatsumi informs her of Chizuru's death and the villagers' plot to eradicate the Shiki, she orders him to start an all-out war. !~"
+          }
+        },
+        {
+          "id": 7581,
+          "name": "清水惠",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7581-nekt7w5vgYGK.png",
+          "description": "清水惠就读于结城夏野所在的学校，她厌恶外场村的生活，向往繁华的城市。惠单恋夏野，经常幻想与他交往，对这段感情十分执着；夏野却不喜欢她频繁接近。故事开端时，惠遇见了搬进神丧宅邸的桐敷一家，随后成为外场村最早遭遇尸鬼事件的村民之一。她对城市生活的憧憬和对夏野的执念，使她难以接受自己被困在村里的现实。",
+          "nicknames": [
+            "清水惠",
+            "Megumi Shimizu",
+            "清水恵",
+            "惠"
+          ],
+          "traits": [
+            "就读于夏野所在的学校",
+            "与结城夏野同校",
+            "不喜欢外场村",
+            "向往城市生活",
+            "单恋结城夏野",
+            "经常幻想与夏野恋爱",
+            "对夏野的感情十分执着",
+            "故事开端遇见桐敷一家",
+            "是外场村最早遭遇尸鬼事件的村民之一"
+          ],
+          "voice_actors": [
+            {
+              "name": "戸松遥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Megumi Shimizu",
+            "name_native": "清水恵",
+            "name_alternative": [],
+            "description": "A girl attending the same school as [Natsuno](https://anilist.co/character/7582/Yuuki-Natsuno), Megumi hates living in the village and longs for city life. She has a one-sided crush on Natsuno and often daydreams of a relationship with him. Megumi encounters the Kirishiki family in the beginning of the series."
+          }
+        },
+        {
+          "id": 30478,
+          "name": "武藤彻",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n30478-x97ygaKL1FNV.png",
+          "description": "武藤彻是结城夏野最好的朋友，对护士律子略有好感。他被清水惠咬伤后死亡，又以尸鬼身份复活，并在双方都不情愿的情况下将夏野变成尸鬼。彻没有向其他村民泄露夏野的身份，但为了活下去留在桐敷沙子一方，与昔日好友逐渐疏远。尸鬼围剿开始后，他还必须在服从命令与保护律子之间作出选择，长期承受友情、求生和同伴关系的冲突。",
+          "nicknames": [
+            "武藤彻",
+            "Tooru Mutou",
+            "武藤徹",
+            "彻"
+          ],
+          "traits": [
+            "结城夏野的好友",
+            "与夏野关系亲密",
+            "对护士律子略有好感",
+            "被清水惠咬伤后死亡",
+            "死后以尸鬼身份复活",
+            "被迫将夏野变成尸鬼",
+            "为夏野隐瞒身份",
+            "留在桐敷沙子一方求生",
+            "与夏野的友谊因此陷入冲突",
+            "努力保护律子"
+          ],
+          "voice_actors": [
+            {
+              "name": "岡本信彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tooru Mutou",
+            "name_native": "武藤徹",
+            "name_alternative": [],
+            "description": "Natsuno's best friend. He has a slight crush on the nurse, Ritsuko.    \n\n~!He dies in episode 5 after being bitten by Shimizu Megumi and resurrects as a shiki. He is then forced to turn Natsuno into a shiki against both of their wills. When Natsuno comes back as a Shiki, Tohru begs for his forgiveness, and although he doesn't tell anyone about Natsuno, he remains at Sunako's side, doing everything to survive, even knowing that Natsuno is their enemy, slowly distancing himself from his best friend.   When Ritsuko also dies and becomes a Shiki, she refuses to drink blood, and Tatsumi kidnaps her co-worker Yasuyo and throws her in Ritsuko's cell, while Tohru is forced to witness and make sure Ritsuko attack Yasuyo. When the Shiki extermination breaks out, Ritsuko begs Tohru to release Yasuyo, and after much internal struggles, Tohru eventually complies. Afterwards they stay together in the cell, and gets staked by the villagers when they are asleep, next to eachother. !~"
+          }
+        },
+        {
+          "id": 30576,
+          "name": "桐敷正志郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30576-pTtI3Lx9wwW5.png",
+          "description": "桐敷正志郎是沙子的父亲，也是桐敷宅邸里唯一的人类，负责打理家族财产。他出身显赫，却厌恶自己的父母；加入桐敷家后，逐渐把这个家族当成真正的家人，并偶尔为千鹤提供血液。正志郎曾请求千鹤将自己变成尸鬼，但被拒绝。千鹤死后，他试图向尾崎敏夫复仇，之后在夏野命令下反过来攻击尸鬼家族，最终死于席卷外场村的大火。",
+          "nicknames": [
+            "桐敷正志郎",
+            "Seishirou Kirishiki",
+            "正志郎"
+          ],
+          "traits": [
+            "桐敷沙子的父亲",
+            "桐敷宅邸中唯一的人类",
+            "负责打理家族财产",
+            "出身显赫家族",
+            "厌恶自己的父母",
+            "将桐敷一家视为真正的家人",
+            "会为千鹤提供血液",
+            "曾请求千鹤将自己变成尸鬼",
+            "千鹤死后试图向尾崎敏夫复仇",
+            "最终死于外场村大火"
+          ],
+          "voice_actors": [
+            {
+              "name": "楽斗 ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95314-a4BQtnC8HUOe.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Seishirou Kirishiki",
+            "name_native": "桐敷正志郎",
+            "name_alternative": [],
+            "description": "Sunako's father.\n\n~!He's the only human in the Kirishiki househould. His job is taking care of the properties. Seishirou originally came from a distinguished family, but he found his parents vile and disgusting. Chizuru killed them both, but refused when Seishirou asked her to turn him into a vampire too, pointing out that since his parents didn't rise, he probably couldn't either. Since then, Seishirou has been with the Kirishiki family and thinks of them as his own, and occasionally gives blood to Chizuru.\n\nWhen Chizuru is killed by the village doctor Ozaki Toshio, Seishirou attempts to shoot Ozaki in revenge, but is attacked by Natsuno. Natsuno then orders Seishirou to attack his vampire family. In the anime, he manages to shoot Yoshie to death and eventually perishes in the fire that engulfs the entire Sotoba village. In the manga, he also shoots Yoshie in the head (which doesn't kill her), and kills himself before he can harm anyone else of his vampire family.!~"
+          }
+        },
+        {
+          "id": 30928,
+          "name": "桐敷千鹤",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b30928-1sEWTIDd98y7.png",
+          "description": "桐敷千鹤是桐敷沙子的养母，也是桐敷家重要的成年女性成员。她曾经结过婚，但没有亲生子女，前夫死于南方战事。千鹤与正志郎合作行动，并曾吸取尾崎敏夫的血；然而敏夫受夏野影响后，她的催眠命令无法完全控制他。敏夫随后把千鹤约到村中祭典，在众人面前揭露她尸鬼的身份。千鹤的死亡成为外场村民与尸鬼爆发全面冲突的导火索。",
+          "nicknames": [
+            "桐敷千鹤",
+            "Chizuru Kirishiki",
+            "桐敷千鶴",
+            "千鹤"
+          ],
+          "traits": [
+            "桐敷沙子的养母",
+            "桐敷家的成年女性成员",
+            "曾经结过婚",
+            "没有亲生子女",
+            "前夫死于南方战事",
+            "与正志郎合作行动",
+            "会吸取尾崎敏夫的血",
+            "催眠能力对敏夫失效",
+            "被敏夫引到村中祭典",
+            "死亡引发村民与尸鬼全面冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "折笠愛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95208-DIfpWvWN401M.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chizuru Kirishiki",
+            "name_native": "桐敷千鶴",
+            "name_alternative": [],
+            "description": "Sunako's mother.\n\n~!She is Sunako´s adoptive mother, since Sunako is the head of the family. She targets Ozaki Toshio and sucks his blood with Seishirou's aid. However, her hypnotism doesn't work on him, as Toshio has already been bitten by Natsuno who ordered him to always make things by his own will, so Chizuru's orders only take second priority. Toshio then lures Chizuru out on a date with him to the village's festival. There, he exposes her nature as a Shiki, and together with Mr. Shimizu (her victim's, Megumi's father), impales and kills Chizuru. Her death starts the all-out war between the villagers and the Shikis.\nDuring their short date, Chizuru reveals to Ozaki that prior to becoming a Shiki, she was married but had no children. Her husband died in a war in the South.!~"
+          }
+        },
+        {
+          "id": 32724,
+          "name": "辰巳",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n32724-R6koo4Abd5Jg.png",
+          "description": "辰巳是桐敷家的侍从，平时表现得轻松随和，实际却是特殊尸鬼“人狼”。与普通尸鬼不同，他能够承受阳光，也很难被杀死。辰巳性格残酷，享受折磨猎物，并负责指挥变成尸鬼的村民。他十分尊敬桐敷沙子，执行她的命令时毫不迟疑。外场村民开始围剿尸鬼后，辰巳组织反击，并与成为人狼的夏野形成正面冲突。",
+          "nicknames": [
+            "辰巳",
+            "Tatsumi"
+          ],
+          "traits": [
+            "桐敷家的侍从",
+            "平日表现得轻松随和",
+            "真实身份是特殊尸鬼人狼",
+            "可以承受阳光",
+            "比普通尸鬼更难杀死",
+            "性格残酷",
+            "喜欢折磨猎物",
+            "担任尸鬼化村民的指挥者",
+            "十分尊敬桐敷沙子",
+            "与结城夏野正面对抗"
+          ],
+          "voice_actors": [
+            {
+              "name": "高木渉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95133-cqDtu078voZ1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tatsumi",
+            "name_native": "辰巳",
+            "name_alternative": [],
+            "description": "The happy go lucky servant to the Kirishiki family. However, there's more to him than meets the eye...   ~!Tatsumi is a special kind of vampire called the \"Jin-Roh\", who can withstand the sunlight unlike other Shikis and is very difficult to kill. He's a sadistic individual and enjoys tormenting his victims. He also acts as the commander of the Shiki-turned villagers. He has a great respect for Sunako.!~"
+          }
+        },
+        {
+          "id": 39608,
+          "name": "前田元子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39608-E6zTwm9mznqo.png",
+          "description": "前田元子是住在下外场村的家庭主妇，也在千草得来速餐厅工作。她对外来者抱有强烈敌意，甚至不许孩子靠近公路，担心他们会被外人带走。公公岩尾变成尸鬼后，元子的家人接连遇害，她因此执着于寻找岩尾复仇。后来元子加入尸鬼围剿，并向村民揭发朋友藏匿尸鬼的秘密。经历连续创伤后，她的精神状态彻底崩溃，最终放火焚烧村庄。",
+          "nicknames": [
+            "前田元子",
+            "Motoko Maeda",
+            "前田 元子",
+            "元子"
+          ],
+          "traits": [
+            "下外场村的家庭主妇",
+            "在千草得来速餐厅工作",
+            "对外来者抱有强烈敌意",
+            "不许孩子靠近公路",
+            "担心外来者带走孩子",
+            "公公岩尾变成尸鬼后家庭遭难",
+            "丈夫与孩子被杀害",
+            "执着于寻找岩尾复仇",
+            "加入尸鬼围剿行动",
+            "向村民揭发朋友藏匿尸鬼的秘密",
+            "最后精神崩溃并纵火"
+          ],
+          "voice_actors": [
+            {
+              "name": "阪本智美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107945-XctIwqjvm5bE.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Motoko Maeda",
+            "name_native": "前田 元子",
+            "name_alternative": [],
+            "description": "A housewife from Lower Sotoba who works in drive-in Chigusa. She's xenophobic to the point of unhinged mentality, and forbids her children to play near the motorway as she believes the outsiders will take them away. Her conditions visibly worsens after her father-in-law, Iwao, becomes a Shiki and kills her husband, daughter, mother-in-law and culminates in insanity when her son, the last member of the family, is also murdered.    ~!Later, Motoko joins the Shiki extermination and betrays her friend Kanami's secret (that Kanami's mother Tae is now a Shiki and currently hiding in their house) to the villagers, leading to Tae's death and Kanami's abandonment of the village. She's obsessed with finding Iwao to avenge her children; her efforts are in vain as it's strongly implied that Iwao was already killed by Natsuno. At the end of the series, she becomes completely mad, and sets fire to the village and herself.!~"
+          }
+        }
+      ]
+    }
+  ]
+}

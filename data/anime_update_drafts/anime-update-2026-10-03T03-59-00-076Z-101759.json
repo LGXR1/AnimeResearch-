@@ -1,0 +1,367 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:59:00.077Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "约定的梦幻岛",
+      "id": 121700,
+      "name": "Norman",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "约定的梦幻岛",
+      "id": 121724,
+      "name": "Ray",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "约定的梦幻岛",
+      "id": 121725,
+      "name": "Emma",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "约定的梦幻岛",
+      "id": 121701,
+      "name": "Isabella",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "约定的梦幻岛",
+      "id": 126455,
+      "name": "Gilda",
+      "reason": "AniList ID 已存在或批次重复"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 101759,
+      "anime_title": "约定的梦幻岛",
+      "anime_origin": "JP",
+      "source": {
+        "id": 101759,
+        "titles": [
+          "Yakusoku no Neverland",
+          "The Promised Neverland",
+          "約束のネバーランド",
+          "YakuNeba",
+          "TPN",
+          "نيفرلاند الموعودة",
+          "约定的梦幻岛",
+          "พันธสัญญาเนเวอร์แลนด์",
+          "約定的夢幻島"
+        ],
+        "year": 2019,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/101759"
+      },
+      "characters": [
+        {
+          "id": 121702,
+          "name": "Krone",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b121702-yOmK9dyvOvVL.png",
+          "description": "",
+          "nicknames": [
+            "Krone",
+            "クローネ",
+            "Sister Krone"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤田奈央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/125129-9Oci2U6RhdPm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Krone",
+            "name_native": "クローネ",
+            "name_alternative": [
+              "Sister Krone"
+            ],
+            "description": "Sister Krone runs the Grace Field House orphanage with [Madam Isabella](https://anilist.co/character/121701/Isabella). She has the desire to usurp the position of \"Mama\" from Isabella."
+          }
+        },
+        {
+          "id": 126454,
+          "name": "Don",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126454-TI3LXk2oN7WV.jpg",
+          "description": "",
+          "nicknames": [
+            "Don",
+            "ドン",
+            "Bean Head"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "植木慎英",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129782-WKuWiktd8ZLr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Don",
+            "name_native": "ドン",
+            "name_alternative": [
+              "Bean Head"
+            ],
+            "description": "__Age (2045):__ 10 yo\n__Farm Identifier:__ 16194\n__D.O.B:__ 2035/7/4\n__Height (2045-2049):__ 155 - 174 cm\n\nDon has dark skin and a tall and slender appearance. He has short, messy black hair with an undercut and brown eyes. He wears the standard white uniform. Like [Emma](https://anilist.co/character/121725/Emma), Don cares deeply about his siblings. Don is portrayed as a cheerful and slightly careless boy, however, he too is fairly intelligent, coming around 5th place in the everyday test, after [Gilda](https://anilist.co/character/126455/Gilda). He also has talents in pick pocketing. His physical ability is also fairly strong."
+          }
+        },
+        {
+          "id": 126475,
+          "name": "Phil",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b126475-EqxsU9P6ajKE.jpg",
+          "description": "",
+          "nicknames": [
+            "Phil",
+            "フィル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "河野ひより",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128640-A4tzr5vUxui9.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Phil",
+            "name_native": "フィル",
+            "name_alternative": [],
+            "description": "__Height:__ 100 cm\n__Farm Identifier:__ 34394 (Grace Field House)\n__D.O.B:__ 2041\n\nPhil is very active and can always be seen running around.\n\n~!He is also shown to be very mature and intelligent for his age, even suspecting something was wrong when [Emma](https://anilist.co/character/121725/Emma) and the other older orphans were trying to find out ways to escape.!~"
+          }
+        },
+        {
+          "id": 126504,
+          "name": "Anna",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n126504-xHMVYY9uEfkh.png",
+          "description": "",
+          "nicknames": [
+            "Anna",
+            "アンナ",
+            "Nanny"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "茅野愛衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Anna",
+            "name_native": "アンナ",
+            "name_alternative": [
+              "Nanny"
+            ],
+            "description": "__Age (2045):__ 9 yo\n__Farm Identifier:__ 48194 (Grace Field House)\n__D.O.B:__ 2036/4/25\n__Height (2045-2049):__ 135 - 162 cm \n\nJust like every other orphans of Grace Field, she wears the standard Grace Field Orphanage uniform. Anna grows to be a surprisingly big boned, tall girl. She has blonde hair tied into twin braids. \n~!Later, she cuts her hair in order to help with the escape.!~~!During her time at the B06-32 shelter, she spends a lot of time studying medicine in order to help her family.!~"
+          }
+        },
+        {
+          "id": 129783,
+          "name": "Lannion",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129783-6KAMdcOzkmCv.jpg",
+          "description": "",
+          "nicknames": [
+            "Lannion",
+            "ラニオン",
+            "Lani",
+            "Curry Chow"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "森優子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109905-R0A9ACqmgcpa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lannion",
+            "name_native": "ラニオン",
+            "name_alternative": [
+              "Lani",
+              "Curry Chow"
+            ],
+            "description": "__Age (2045):__ 7 yo\n__Farm Identifier:__ 54294 (Grace Field House)\n__D.O.B:__ 2038/4/28\n__Height (2045-2049):__ 125 - 144 cm \n\nLani is a mischievous and resourceful boy, who enjoys pulling pranks with his best friend, [Thoma](https://anilist.co/character/129784/Thoma). He is a bit cowardly, but also blunt and straightforward."
+          }
+        },
+        {
+          "id": 129784,
+          "name": "Thoma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129784-fn5VoMYAqCsk.jpg",
+          "description": "",
+          "nicknames": [
+            "Thoma",
+            "トーマ",
+            "Pizza Topping"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日野まり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119707-gZ4Zew3Pdulp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Thoma",
+            "name_native": "トーマ",
+            "name_alternative": [
+              "Pizza Topping"
+            ],
+            "description": "__Height:__ 123 cm\n__Farm Identifier:__ 55294 (Grace Field House)\n\nThoma is a resourceful and mischievous boy, who enjoys pulling pranks alongside his best friend [Lani](https://anilist.co/character/129783). He is blunt, but can also be quite cowardly.\n"
+          }
+        },
+        {
+          "id": 129785,
+          "name": "Conny",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129785-7MHIm3Cp2HuM.jpg",
+          "description": "",
+          "nicknames": [
+            "Conny",
+            "コニー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小澤亜李",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118663-fFzQqJDtYNdA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Conny",
+            "name_native": "コニー",
+            "name_alternative": [],
+            "description": "__Height:__ 115cm\n__Farm Identifier:__ 48294\n\nConny is nice and lovely towards Emma, Don and the other orphans. She always carried her stuffed rabbit Little Bernie around with her. Her intellect level seemed to be average for her age."
+          }
+        },
+        {
+          "id": 129805,
+          "name": "Nat",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129805-rUUS2wWGIAnH.png",
+          "description": "",
+          "nicknames": [
+            "Nat",
+            "ナット",
+            "Nose"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石上静香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118738-60gKflxjl80c.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nat",
+            "name_native": "ナット",
+            "name_alternative": [
+              "Nose"
+            ],
+            "description": "__Age (2045):__ 9 yo\n__Farm Identifier:__ 48194 (Grace Field House)\n__D.O.B:__ 2036/12/18\n__Height (2045-2049):__ 133 - 156 cm\n\nNat is a rather frail boy, with brown eyes and a tall nose line (which he takes great pride in).  He wears the standard orphanage uniform. Even though he can be easily intimidated, he does have his moments of bravery."
+          }
+        },
+        {
+          "id": 136463,
+          "name": "Sobo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b136463-CHTYDFuQnr7Q.jpg",
+          "description": "",
+          "nicknames": [
+            "Sobo",
+            "祖母",
+            "Sarah",
+            "Grandma",
+            "Grandmother"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小山茉美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95571-QuL7zlRwRcxa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sobo",
+            "name_native": "祖母",
+            "name_alternative": [
+              "Sarah",
+              "Grandma",
+              "Grandmother"
+            ],
+            "description": "Grandmother is a high-ranking human and once worked as [Isabella's](https://anilist.co/character/121701/Isabella) Mama although she treated her more as a pawn than a human. \n\n~!On January 27, 2046, it was revealed that all of Isabella's mistakes and responsibilities, as in letting the children escape, were placed on Grandma Sarah. Although Isabella wasn't able to manage her products, Sarah wasn't able to manage Isabella. As a result, Sarah was shipped out to be served at the upcoming Tifari in order to make up for the escapees. Isabella took the role of Grandmother after that.!~"
+          }
+        },
+        {
+          "id": 198999,
+          "name": "Leslie",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b198999-bzNwD1iHZNiz.jpg",
+          "description": "",
+          "nicknames": [
+            "Leslie",
+            "レスリー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小林沙苗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95149-xNDmN92Feq8y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Leslie",
+            "name_native": "レスリー",
+            "name_alternative": [],
+            "description": "__Farm Identifier:__ 71584\n\nLeslie was Isabella's childhood friend and is shown to be very kind and loves music."
+          }
+        },
+        {
+          "id": 199114,
+          "name": "Jemima",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199114-dyn7IeoolRi1.png",
+          "description": "",
+          "nicknames": [
+            "Jemima",
+            "ジェミマ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "久遠エリサ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n174347-NGwRl73fkWCs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jemima",
+            "name_native": "ジェミマ",
+            "name_alternative": [],
+            "description": "__Age (2045):__ 5 yo\n__Farm Identifier:__ 31394 (Grace Field House)\n__Height (2045-2049):__ 107 - 134 cm \n\nJemima is cheerful and well-behaved. Though, she can display acts of mischievousness. She is seen to have a strong bond with [Alicia](https://anilist.co/character/199115)."
+          }
+        }
+      ]
+    }
+  ]
+}

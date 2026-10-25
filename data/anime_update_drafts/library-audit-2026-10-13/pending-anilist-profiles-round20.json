@@ -1,0 +1,1104 @@
+{
+  "fetchedAt": "2026-10-20T01:47:35.264Z",
+  "source": "AniList GraphQL API",
+  "ids": [
+    23649,
+    26753,
+    27042,
+    29335,
+    30727,
+    30728,
+    30731,
+    30734,
+    30738,
+    32640,
+    34322,
+    34323,
+    34419,
+    36377,
+    37120,
+    37349,
+    37442,
+    37446,
+    40224,
+    41968,
+    42219,
+    42779,
+    43777,
+    43778,
+    43961,
+    43976
+  ],
+  "records": [
+    {
+      "id": 23649,
+      "name": {
+        "full": "Ringo Roadagain",
+        "native": "リンゴォ・ロードアゲイン",
+        "alternative": []
+      },
+      "description": "__Nationality:__ American\n__Hobbies:__ Dueling\n\nRingo Roadagain is a gunslinger at the service of [Funny Valentine](https://anilist.co/character/20147/Valentine-Funny) who traps [Gyro](https://anilist.co/character/11772/Zeppeli-Gyro), [Johnny](https://anilist.co/character/19492/Joestar-Johnny) and [Hot Pants](https://anilist.co/character/23650/Hot-Pants) at the beginning of the 4th Stage, near Cannon City, to seize the Saint's Corpse's parts. He is a Stand User and uses his time-rewinding Mandom during gun fights to get the upper hand.\n\nRingo is obsessed with bettering himself through duels. Considering himself \"incomplete\", he wants to reach new spiritual heights through duels, thinking that the pure killing intent he experiences to elevate his spirit. Because of this, he also has a strong personal moral code: Ringo prefers to fight on completely fair grounds and will even give pointers to his opponents regarding their weapons and position in order to perfectly level the playing field before their battle begins. Able to discern the dark will to kill in people, Ringo prefers to duel people who won't hesitate to kill on the spot so that his duels are as tense and pure as possible.\n\nRingo's Stand, Mandom, enables him to reverse time by exactly 6 seconds by turning a hand on his wristwatch. Although it is very limited, its ability is critical for Ringo to win his duels.",
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n23649-nXSheGwY1gAW.png"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    {
+      "id": 26753,
+      "name": {
+        "full": "Zaied",
+        "native": "ザイード",
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b26753-hyqPHNk8jnTz.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 71,
+              "title": {
+                "romaji": "Full Metal Panic!",
+                "english": "Full Metal Panic!",
+                "native": "フルメタル・パニック！"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95160,
+                "name": {
+                  "full": "Takehito Koyasu",
+                  "native": "子安武人"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 27042,
+      "name": {
+        "full": "Wekapipo",
+        "native": "ウェカピポ",
+        "alternative": []
+      },
+      "description": "Wekapipo is an exiled Neapolitan and a practitioner of the Spin. He wields a special type of steel ball called Wrecking Ball.\n\nAfter serving as a royal guard for the Kingdom of Naples, Wekapipo was forced into exile and later entered the service of the current President of the United States, Funny Valentine. He, alongside Magent Magent, become amongst those sent to assassinate Johnny Joestar and Gyro Zeppeli for possession of the Saint's Corpse. He now works with the President to get the corpse parts and kill Gyro and Johnny in return for citizenship and residence in the United States, as well as a high ranking position in the government.",
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b27042-yZsByUKCujCt.png"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    {
+      "id": 29335,
+      "name": {
+        "full": "Mysterious Man",
+        "native": "謎の男",
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/29335.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 4879,
+              "title": {
+                "romaji": "Mouryou no Hako",
+                "english": null,
+                "native": "魍魎の匣"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95326,
+                "name": {
+                  "full": "Tooru Furuya",
+                  "native": "古谷徹"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95326-OfRv2DBnFVZU.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 30727,
+      "name": {
+        "full": "Ning",
+        "native": null,
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/30727.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 315,
+              "title": {
+                "romaji": "Xiao Qian",
+                "english": "A Chinese Ghost Story: The Tsui Hark Animation",
+                "native": "小倩"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 95017,
+                "name": {
+                  "full": "Akira Ishida",
+                  "native": "石田彰"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 30728,
+      "name": {
+        "full": "Siu Lan",
+        "native": null,
+        "alternative": [
+          "Xiao Qian"
+        ]
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/30728.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 315,
+              "title": {
+                "romaji": "Xiao Qian",
+                "english": "A Chinese Ghost Story: The Tsui Hark Animation",
+                "native": "小倩"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 96463,
+                "name": {
+                  "full": "Atsuko Yuya",
+                  "native": "湯屋敦子"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96463-FrXKgtjzzqNF.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 30731,
+      "name": {
+        "full": "Red Beard",
+        "native": null,
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/30731.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 315,
+              "title": {
+                "romaji": "Xiao Qian",
+                "english": "A Chinese Ghost Story: The Tsui Hark Animation",
+                "native": "小倩"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 95138,
+                "name": {
+                  "full": "Kenji Utsumi",
+                  "native": "内海賢二"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95138-0iK7jnkuJb6o.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 30734,
+      "name": {
+        "full": "Siu Deep",
+        "native": null,
+        "alternative": [
+          "Butterfly"
+        ]
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/30734.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 315,
+              "title": {
+                "romaji": "Xiao Qian",
+                "english": "A Chinese Ghost Story: The Tsui Hark Animation",
+                "native": "小倩"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95027,
+                "name": {
+                  "full": "Yukari Tamura",
+                  "native": "田村ゆかり"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 30738,
+      "name": {
+        "full": "White Cloud",
+        "native": null,
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/30738.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 315,
+              "title": {
+                "romaji": "Xiao Qian",
+                "english": "A Chinese Ghost Story: The Tsui Hark Animation",
+                "native": "小倩"
+              },
+              "countryOfOrigin": "CN"
+            },
+            "characterRole": "MAIN",
+            "voiceActors": [
+              {
+                "id": 95974,
+                "name": {
+                  "full": "Chikao Ootsuka",
+                  "native": "大塚周夫"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95974-SvJQqqEApoSf.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 32640,
+      "name": {
+        "full": "Magenta Magenta",
+        "native": "マジェンタ マジェンタ",
+        "alternative": [
+          "Magent Magent"
+        ]
+      },
+      "description": "A man accompanying [Wekapipo](https://anilist.co/character/27042/Wekapipo) to take out [Johnny Joestar](https://anilist.co/character/19492/Johnny-Joestar) and [Gyro Zeppeli](https://anilist.co/character/11772/Gyro-Zeppeli). His stand, 20th Century Boy, gives absolute protection to his body from any outwards harm, even things like drowning, as long as his hands are connected to the ground.\n\nMagenta Magenta is described as having a gross, gravelly voice, and he has several nasty habits like licking his own snot. His and Wekapipo's names are both references to the songs of same name by the Japanese rap-group [SOUL'd OUT](https://anilist.co/staff/112773/SOULd-OUT), who are known to be fans of JoJo, and performed the credits song \"Voodoo Kingdom\" for the [JJBA: Phantom Blood movie](https://anilist.co/anime/3603/JoJo-no-Kimyou-na-Bouken-Phantom-Blood/).",
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n32640-yAQx3a7e0OzI.png"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    {
+      "id": 34322,
+      "name": {
+        "full": "Umasaburou Azuma",
+        "native": null,
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/34322.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 28,
+              "title": {
+                "romaji": "Yakitate!! Japan",
+                "english": null,
+                "native": "焼きたて!! ジャぱん"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95898,
+                "name": {
+                  "full": "Choo",
+                  "native": "チョー "
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95898-XHSESV65G8Jv.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 34323,
+      "name": {
+        "full": "Umatarou Azuma",
+        "native": null,
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/34323.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 28,
+              "title": {
+                "romaji": "Yakitate!! Japan",
+                "english": null,
+                "native": "焼きたて!! ジャぱん"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95898,
+                "name": {
+                  "full": "Choo",
+                  "native": "チョー "
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95898-XHSESV65G8Jv.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 34419,
+      "name": {
+        "full": "Haijima",
+        "native": null,
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/34419.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 28,
+              "title": {
+                "romaji": "Yakitate!! Japan",
+                "english": null,
+                "native": "焼きたて!! ジャぱん"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95239,
+                "name": {
+                  "full": "Akemi Kanda",
+                  "native": "神田朱未"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/239.jpg"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 36377,
+      "name": {
+        "full": "Fuu no Sobo",
+        "native": "楓の祖母",
+        "alternative": [
+          "Fuu's Grandmother"
+        ]
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/36377.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 9055,
+              "title": {
+                "romaji": "Tamayura",
+                "english": "Tamayura",
+                "native": "たまゆら"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 96195,
+                "name": {
+                  "full": "Yoshiko Matsuo",
+                  "native": "松尾佳子"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96195-ozwuXmxjpEBj.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 10232,
+              "title": {
+                "romaji": "Tamayura: hitotose",
+                "english": "Tamayura: Hitotose",
+                "native": "たまゆら～hitotose～"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 96195,
+                "name": {
+                  "full": "Yoshiko Matsuo",
+                  "native": "松尾佳子"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96195-ozwuXmxjpEBj.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 11793,
+              "title": {
+                "romaji": "Tamayura: hitotose - Attakai Kaze no Omoide Nanode",
+                "english": null,
+                "native": "たまゆら～hitotose～ 第5.5話「あったかい風の想い出なので」"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 96195,
+                "name": {
+                  "full": "Yoshiko Matsuo",
+                  "native": "松尾佳子"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96195-ozwuXmxjpEBj.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 15731,
+              "title": {
+                "romaji": "Tamayura: More Aggressive",
+                "english": null,
+                "native": "たまゆら ～もあぐれっしぶ～"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 96195,
+                "name": {
+                  "full": "Yoshiko Matsuo",
+                  "native": "松尾佳子"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96195-ozwuXmxjpEBj.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 20579,
+              "title": {
+                "romaji": "Tamayura: More Aggressive - Ichinichi dake no Shuugakuryokou, Nanode",
+                "english": null,
+                "native": "たまゆら～もあぐれっしぶ～ 第8.5話「一日だけの修学旅行、なので」"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 96195,
+                "name": {
+                  "full": "Yoshiko Matsuo",
+                  "native": "松尾佳子"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96195-ozwuXmxjpEBj.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 20805,
+              "title": {
+                "romaji": "Tamayura: Sotsugyou Shashin Part 1 - Kizashi",
+                "english": null,
+                "native": "たまゆら～卒業写真～　第1部 芽-きざし-"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 96195,
+                "name": {
+                  "full": "Yoshiko Matsuo",
+                  "native": "松尾佳子"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96195-ozwuXmxjpEBj.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 21135,
+              "title": {
+                "romaji": "Tamayura: Sotsugyou Shashin Part 2 - Hibiki",
+                "english": null,
+                "native": "たまゆら～卒業写真～　第2部 響-ひびき-"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 96195,
+                "name": {
+                  "full": "Yoshiko Matsuo",
+                  "native": "松尾佳子"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96195-ozwuXmxjpEBj.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 21554,
+              "title": {
+                "romaji": "Tamayura: Sotsugyou Shashin Part 4 - Ashita",
+                "english": null,
+                "native": "たまゆら～卒業写真～　第4部 朝-あした-"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 96195,
+                "name": {
+                  "full": "Yoshiko Matsuo",
+                  "native": "松尾佳子"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96195-ozwuXmxjpEBj.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 37120,
+      "name": {
+        "full": "Mayumi Usami",
+        "native": null,
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/37120.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 5670,
+              "title": {
+                "romaji": "GA: Geijutsuka Art Design Class",
+                "english": "GA Geijutsuka Art Design Class",
+                "native": "GA 芸術科アートデザインクラス"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95323,
+                "name": {
+                  "full": "Omi Minami",
+                  "native": "南央美"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95323-IEzYhIR4WaHK.jpg"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 6959,
+              "title": {
+                "romaji": "GA: Geijutsuka Art Design Class OVA",
+                "english": null,
+                "native": "GA 芸術科アートデザインクラス OVA"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95323,
+                "name": {
+                  "full": "Omi Minami",
+                  "native": "南央美"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95323-IEzYhIR4WaHK.jpg"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 37349,
+      "name": {
+        "full": "Genichirou Tsukiomi",
+        "native": "月臣元一朗",
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/37349.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 218,
+              "title": {
+                "romaji": "Kidou Senkan Nadesico",
+                "english": "Martian Successor Nadesico",
+                "native": "機動戦艦ナデシコ"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95006,
+                "name": {
+                  "full": "Toshiyuki Morikawa",
+                  "native": "森川智之"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png"
+                }
+              }
+            ]
+          },
+          {
+            "node": {
+              "id": 219,
+              "title": {
+                "romaji": "Kidou Senkan Nadesico: The prince of darkness",
+                "english": "Martian Successor Nadesico: The Prince of Darkness",
+                "native": "機動戦艦ナデシコ The prince of darkness"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95006,
+                "name": {
+                  "full": "Toshiyuki Morikawa",
+                  "native": "森川智之"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 37442,
+      "name": {
+        "full": "Sugar Mountain",
+        "native": "シュガーマウンテン",
+        "alternative": []
+      },
+      "description": "A cute and mysterious young girl who lives in a big tree.  She is a stand user and often plays with strange dolls.",
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b37442-eSNMPz9pd7S9.png"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    {
+      "id": 37446,
+      "name": {
+        "full": "D-I-S-C-O",
+        "native": "ディ・ス・コ",
+        "alternative": []
+      },
+      "description": "One of [Valentine](https://anilist.co/character/20147/Funny-Valentine)'s henchmen. He is a stand user, wielding the gauntlet-like Chocolate Disco.",
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/n37446-PbfUzr0AFIMH.png"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    {
+      "id": 40224,
+      "name": {
+        "full": "Oban",
+        "native": null,
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/40224.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 10033,
+              "title": {
+                "romaji": "Toriko",
+                "english": null,
+                "native": "トリコ"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 96052,
+                "name": {
+                  "full": "Takanori Hoshino",
+                  "native": "星野貴紀"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1052.jpg"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 41968,
+      "name": {
+        "full": "Coco Rose",
+        "native": "ココ＝ローズ",
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b41968-OxDFu8h2rZF5.png"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 8425,
+              "title": {
+                "romaji": "GOSICK",
+                "english": "Gosick",
+                "native": "GOSICK"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95080,
+                "name": {
+                  "full": "Aya Hisakawa",
+                  "native": "久川綾"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95080-7dOAcrnsSghI.jpg"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 42219,
+      "name": {
+        "full": "Sophie",
+        "native": "ゾフィ",
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42219-330YqFJhhGlY.png"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 8425,
+              "title": {
+                "romaji": "GOSICK",
+                "english": "Gosick",
+                "native": "GOSICK"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 95176,
+                "name": {
+                  "full": "Michiko Neya",
+                  "native": "根谷美智子"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95176-3yZnUwXap7nX.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 42779,
+      "name": {
+        "full": "Yasuho Hirose",
+        "native": "廣瀬康穂",
+        "alternative": []
+      },
+      "description": "__Height__: 166 cm (5'5\")\n__Occupation__: University Student\n__Stand__: Paisley Park\n\nA young girl who lives in the town of Morioh in the new timeline of JoJo&#039;s Bizarre Adventure. After the events of the March 11th earthquake she finds a mysterious naked man lying under rubble and decides to save him.",
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b42779-0B8YRF1UTvZd.png"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    {
+      "id": 43777,
+      "name": {
+        "full": "Joushuu Higashikata",
+        "native": "東方常秀",
+        "alternative": [
+          "Joshu Higashikata"
+        ]
+      },
+      "description": "Joshu is the spoiled third of Norisuke Higashikata IV's four children and eventually rubs shoulders with Josuke Higashikata without truly becoming a friend. He has an unrequited crush on Yasuho Hirose. Joshu eventually awakens a Stand, Nut King Call.",
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43777-22D6X33amPEZ.png"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    {
+      "id": 43778,
+      "name": {
+        "full": "Jousuke Higashikata",
+        "native": "東方定助",
+        "alternative": [
+          "Josuke Higashikata",
+          "Johsuke",
+          "JoJo"
+        ]
+      },
+      "description": "Seemingly a sailor who is amnesiac about all details of his personal life.  For some reason, he has 4 testicles.\n\nThe real identity of this character is unknown. The second chapter stated that the Jojolion protagonist's name ~!could be Yoshikage Kira, however, it is later revealed that he is merely a doppelganger for the real [Kira](https://anilist.co/character/54055/Kira-Yoshikage).!~ He was later given the name Jousuke by the Higashikata family, who took him in. ~!However, DNA testing implies that they are nearly the same person.!~",
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/b43778-A9Ixc5ZeCsD6.png"
+      },
+      "media": {
+        "edges": []
+      }
+    },
+    {
+      "id": 43961,
+      "name": {
+        "full": "Takae",
+        "native": "多香絵",
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/43961.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 1629,
+              "title": {
+                "romaji": "Devilman Lady",
+                "english": "The Devil Lady",
+                "native": "デビルマンレディー"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 96856,
+                "name": {
+                  "full": "Naoko Takano",
+                  "native": "高野直子"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96856-8Pnq7PbFpxZA.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 43976,
+      "name": {
+        "full": "Takeshi Maki",
+        "native": "真紀猛",
+        "alternative": []
+      },
+      "description": null,
+      "image": {
+        "large": "https://s4.anilist.co/file/anilistcdn/character/large/43976.jpg"
+      },
+      "media": {
+        "edges": [
+          {
+            "node": {
+              "id": 1629,
+              "title": {
+                "romaji": "Devilman Lady",
+                "english": "The Devil Lady",
+                "native": "デビルマンレディー"
+              },
+              "countryOfOrigin": "JP"
+            },
+            "characterRole": "SUPPORTING",
+            "voiceActors": [
+              {
+                "id": 96675,
+                "name": {
+                  "full": "Ryouichi Tanaka",
+                  "native": "田中亮一"
+                },
+                "image": {
+                  "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96675-D33astyM2pF8.png"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

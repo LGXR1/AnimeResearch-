@@ -1,0 +1,1757 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:59:21.974Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "SLAM DUNK",
+      "id": 310,
+      "name": "Hanamichi Sakuragi",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "SLAM DUNK",
+      "id": 311,
+      "name": "Kaede Rukawa",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "SLAM DUNK",
+      "id": 312,
+      "name": "Ryouta Miyagi",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "SLAM DUNK",
+      "id": 313,
+      "name": "Hisashi Mitsui",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "SLAM DUNK",
+      "id": 314,
+      "name": "Takenori Akagi",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "SLAM DUNK",
+      "id": 36309,
+      "name": "Narrator",
+      "reason": "AniList ID 已存在或批次重复"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 170,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 170,
+        "titles": [
+          "SLAM DUNK",
+          "Slam Dunk",
+          "スラムダンク",
+          "슬램덩크",
+          "灌篮高手",
+          "灌籃高手",
+          "สแลมดังก์",
+          "سلام دانك"
+        ],
+        "year": 1993,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/170"
+      },
+      "characters": [
+        {
+          "id": 3403,
+          "name": "Akira Sendou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3403-YkPE1BmqEGGn.png",
+          "description": "",
+          "nicknames": [
+            "Akira Sendou",
+            "仙道彰"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大塚芳忠",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95337-NnvEQEBKV2dR.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akira Sendou",
+            "name_native": "仙道彰",
+            "name_alternative": [],
+            "description": "The ace of Ryonan High School who is considered one of the top players in Kanagawa.\n\nHe is known to be an easygoing, carefree and optimistic person who usually doesn't take much of anything seriously but when it comes to basketball, he seems to enjoy accepting challenges, mostly on 1 on 1 game.\n\n(Source: Slam Dunk Fandom)"
+          }
+        },
+        {
+          "id": 8389,
+          "name": "Kiyota Nobunaga",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8389-EOuhBm7HrtT8.png",
+          "description": "",
+          "nicknames": [
+            "Kiyota Nobunaga",
+            "清田信長"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "森川智之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kiyota Nobunaga",
+            "name_native": "清田信長",
+            "name_alternative": [],
+            "description": "__Year:__ 1st yr\n__Height:__ 178 cm\n__Jersey Number:__ #10\n__Position:__ SF\n\nNobunaga Kiyota is what could be called the personification of arrogance (something like Kainan's parallel to Sakuragi, only slightly more skilled during the events of the Kanagawa Trials). He is always bragging about how he's the real star rookie of Kanagawa, instead of Rukawa. However, he tends to underestimate other teams, especially Shohoku, and this can lead to embarrassing situations, such as when Akagi flattened him with a dunk, and also when Sakuragi faked past him and scored. Kiyota likes to call Hanamichi &quot;Red-furred Monkey&quot; while Hanamichi calls him &quot;Wild Monkey.&quot; Despite being so arrogant, Kiyota has a high level of respect towards his teammates, especially towards his captain Maki.    Kiyota is known for his leaping ability and ball-handing skills. Despite being only 178 cm, he can dunk and block shots quite regularly. He memorably dunked over Uozumi during Kainan's match against Ryonan despite Uozumi's height. Kiyota is the only starter for Kainan who is a 1st year.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 8450,
+          "name": "Toru Hanagata",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8450-axm4NDis9L93.jpg",
+          "description": "",
+          "nicknames": [
+            "Toru Hanagata",
+            "花形透"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "信彦風間",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8942.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Toru Hanagata",
+            "name_native": "花形透",
+            "name_alternative": [],
+            "description": "__Height:__ 197 cm\n__Year:__ 3rd Year  \n__Position:__ Center  \n__Jersey Number:__ #5  \n\nHanagata is considered one of the top centers in the Kanagawa prefecture. He mixes strength and tactical skill in his playing, being able to easily avoid defensive play. When Fujima is not on the court, he takes the role of captain, being responsible for psyching up the team. For this, he is quite a trustworthy player for Shoyo. He is known for his fade-away shot, which is difficult to block. Hanagata is the only starter shown to wear glasses, though they are knocked off his face when Sakuragi commits his fourth foul, and Hanagata plays the rest of the match without them. Hanagata holds his own in the Shohoku match against Akagi, but when he is matched up with Sakuragi, he is totally outclassed in rebounding. \n\nBeing a top center, he is quite agile for his height. He takes on the cudgels of scoring for his team when Fujima is not on the court. He also knows how to use his teammates effectively. He and Nagano are knocked off by Sakuragi after the latter dunks on them, but despite the effort, Sakuragi still got his fifth foul. Nevertheless, he is cheered by the fans. Hanagata also missed a desperate three-point attempt against Shohoku, marking the final score, 62-60."
+          }
+        },
+        {
+          "id": 8451,
+          "name": "Kiminobu Kogure",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b8451-7nS7RUkepKmG.png",
+          "description": "",
+          "nicknames": [
+            "Kiminobu Kogure",
+            "木暮公延"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中秀幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95234-YAu7XmoSIIS7.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kiminobu Kogure",
+            "name_native": "木暮公延",
+            "name_alternative": [],
+            "description": "__Year:__ 3rd Year  \n__Height:__ 178 cm  \n__Jersey Number:__ #5  \n__Position:__ Small Forward  \n\nKiminobu Kogure is Shohoku's vice-captain and a good friend to Akagi and Mitsui. \n\nHe and Akagi are the only two players who have been on the team for all three years - Mitsui left during their first year, while other players quit the team because they found Akagi's training regimen to be too strenuous. Along with Miyagi and Ayako, he always tries to bring out the most of Hanamichi's talent. He is gentle, empathic, and always friendly, and is almost never seen without his glasses on (this is why Sakuragi calls him \"Megane-kun\" which loosely translates as \"glasses-wearing guy\"); however, when needed he shows notable willpower and brutal honesty, such as when he barely flinched after being slapped twice and cruelly insulted by the embittered Mitsui during the gym fight.   \n\nDespite spending a lot of time on the bench, Kogure brings experience and considerable firepower to the team when he's on the court; he is the player most likely to be subbed in to replace one of the starters. A pretty good shooter and tactician, he hit a crucial three-pointer against Ryonan."
+          }
+        },
+        {
+          "id": 8485,
+          "name": "Haruko Akagi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/8485.jpg",
+          "description": "",
+          "nicknames": [
+            "Haruko Akagi",
+            "赤木晴子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "平松晶子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95066-oCD0liGFKqlH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Haruko Akagi",
+            "name_native": "赤木晴子",
+            "name_alternative": [],
+            "description": "__Year:__ 1st Year  \n\nHaruko Akagi is the younger sister of Takenori Akagi and the love interest of Hanamichi Sakuragi who was responsible for uncovering his potential in basketball.\n\nShe is a kind, sweet and friendly girl with a captivating personality who is always around to cheer on the players, especially her brother Takenori Akagi, who is extremely protective of her and taught her the basics of basketball, and Hanamichi Sakuragi, whom she considers her best friend. Haruko often appears at matches together with Sakuragi's cohorts and her two best friends, Fujii and Matsui. She, like most girls in Shohoku, has a strong obsession for Kaede Rukawa, although he never reciprocates her feelings and, later , she acknowledges that he will not love her the way she wants him to and tries to let go of her crush, however unsuccessfully."
+          }
+        },
+        {
+          "id": 9721,
+          "name": "Yohei Mito",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9721-XPim17gJHSCT.jpg",
+          "description": "",
+          "nicknames": [
+            "Yohei Mito",
+            "水戸洋平"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "森川智之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yohei Mito",
+            "name_native": "水戸洋平",
+            "name_alternative": [],
+            "description": "Sakuragi's best friend."
+          }
+        },
+        {
+          "id": 12798,
+          "name": "Shinichi Maki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12798-ZZ3VQRcNXCyT.png",
+          "description": "",
+          "nicknames": [
+            "Shinichi Maki",
+            "牧紳",
+            "Old Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "江川央生",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96481-7houCLOMkp3g.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shinichi Maki",
+            "name_native": "牧紳",
+            "name_alternative": [
+              "Old Man"
+            ],
+            "description": "__Year:__ 3rd Year    \n__Height:__ 184 cm\n__Jersey Number:__ #4    \n__Position:__ Point Guard/Center (if Takasago is out)    \n\nShinichi Maki is reputed to be the best player in the whole prefecture of Kanagawa. Captain of Kainan High, he exerts great leadership over his team, being quite a field leader whose orders are followed to the letter by his teammates. Though not as strict in personality regularly, he can be as strict as Akagi, but mostly only towards Kiyota. Sakuragi calls him, \"Old Man\" because he looks older than he really is; Maki responds by pointing out that Akagi looks even older. Kenji Fujima is considered his primary rival.    \n\nMaki plays mostly as a point guard, although he has the all-round skills to play in virtually any other position. Extremely muscular and strong, he likes to use his physical attributes to drive into the lane to score while drawing fouls. His scoring ability is incredibly difficult to stop and in one game four players from Shohoku were needed to completely shut him down. When teams double or triple-team him, he can then pass the ball to open teammates on the perimeter, such as Soichiro Jin, for open three-point shots. Maki uses his height and power to create mismatches against other point guards, which his team usually capitalizes on effectively."
+          }
+        },
+        {
+          "id": 12799,
+          "name": "Kenji Fujima",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12799-bxHmT7J9UEOt.png",
+          "description": "",
+          "nicknames": [
+            "Kenji Fujima",
+            "藤真健司"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "辻谷耕史",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95427-g0bwNKDLlROd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kenji Fujima",
+            "name_native": "藤真健司",
+            "name_alternative": [],
+            "description": "__Height:__ 178 cm  \n__Year:__ 3rd Year  \n__Position:__ Point Guard/Coach \n__Jersey Number:__ #4   \n\nKenji Fujima is the player/coach of Shoyo High. As such, he only enters the court when his presence is really needed, such as when the team is behind and struggling. Fujima is so respected by his teammates that as much as possible they try not to make it necessary for him to get on the court, and even the hint of his getting off the bench to join them inspires them to play harder. His personality also varies depending on which role he is playing in the game; as a coach and off the court, he is calm, mild-mannered, and friendly (he even personally deals with his fangirls and is very kind to them), but he becomes confident, high-spirited and even ruthless when he's on court. As Maki says in volume #10, \"As a player, he's far from rational.\"\n\nFujima plays as a typical point guard, leading his team and passing the ball, but also shooting and scoring when necessary. He is one of the top point guards in the Kanagawa prefecture and a force to be reckoned with on the court.   Fujima is referenced during the first round of the National Championships when Shohoku plays against Toyotama High School. Toyotama's captain, Tsuyoshi Minami, known as the \"Ace Killer\" injured Fujima in a match resulting in his removal from the game due to his injury. Subsequently, Shoyo lost the match to Toyotama. Throughout the National Championships, there are occasional cut scenes showing Fujima training."
+          }
+        },
+        {
+          "id": 12862,
+          "name": "Mitsuyoshi Anzai",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/12862.jpg",
+          "description": "",
+          "nicknames": [
+            "Mitsuyoshi Anzai",
+            "White-Haired Buddha",
+            "Demon"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "西村知道",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/6175.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mitsuyoshi Anzai",
+            "name_native": "",
+            "name_alternative": [
+              "White-Haired Buddha",
+              "Demon"
+            ],
+            "description": "The coach of the Shohoku High basketball team, and one of the best ones in Japan. Even the coaches of other teams call him \"Anzai-sensei\" with respect. His calm and collected attitude contrasts with the temper he had in the past, when he was nicknameed \"White-Haired Devil\" as a demanding college coach.\n\nA talented player, [Ryuuji Yazawa](https://anilist.co/character/57273/Yazawa-Ryuuji), trained under him and was eyed with high regard by Anzai. However, Yazawa was unhappy about Anzai's tough training for him (especially the repetitive and strenuous basic technique training), and against the Coach's wish, left Japan to play in the USA, where he thought he would have better opportunities to show his talent. 5 years passed without any news, other than an unaddressed video tape showing Yazawa playing in a team, whose players had virtually no concepts of teamwork. One day Anzai learned from the press that Yazawa died in a high-speed head-on car collision, reportedly under drug influence. While visiting Yazawa's grave, Yazawa's mother gave Anzai a letter written 4 years prior, which Yazawa never had the courage to post back. In the letter, Yazawa expressed profound regret about his rebellious decision to leave, and the depression from his experience in the unsupportive American college basketball career. Anzai grieved deeply for the loss of Yazawa and resigned from college basketball coaching ever since. This also changed Anzai's former strict attitude to his now mild temper, for which he is now known as the \"White-Haired Buddha.\"\n\n[Sakuragi](https://anilist.co/character/310/Sakuragi-Hanamichi) always calls Coach Anzai \"Oyaji\" (old man) and has the habit of jiggling his fat when hyped, which makes the others - [Mitsui](https://anilist.co/character/313/Mitsui-Hisashi) in particular - mad at him, as this is considered disrespectful. Anzai, however, appears to tolerate this and has not reprimanded Sakuragi for his behavior. However, Anzai did punish the four players (Mitsui, [Miyagi](https://anilist.co/character/312/Miyagi-Ryouta), Sakuragi and [Rukawa](https://anilist.co/character/311/Rukawa-Kaede)) involved in the fight against Mitsui's gang, by initially benching them during the first interhigh tournament match against Miuradai High School.\n\nHowever behind such an impassible demeanor is a brilliant strategist, who always knows how to turn the tide of a match for his team. Anzai like [Haruko Akagi](https://anilist.co/character/8485/Akagi-Haruko), realized Sakuragi's potential early on and decided to make him a starter even though some of his basketball skills were not yet par. Recognizing that shooting was Sakuragi's weakness, he made him make 20,000 baskets in a week to get ready for the national tournament. Anzai is also very charismatic and able to inspire his players to greater heights, as evidenced before the match against Sannoh, where he managed to bring down the insecurity within Miyagi, Mitsui and, to a lesser extent, Sakuragi. Although they were directly recruited by [Coach Moichi Taoka](https://anilist.co/character/12868/Taoka-Moichi) of Ryonan, both Mitsui and Ryota turned him down, citing Anzai's presence at Shohoku as the primary factor. Mitsui respects Anzai the most, and once put a picture of him on the bench and prayed to it when Anzai was unable to come to the inter-high Shohoku-Ryonan match due to heart attack."
+          }
+        },
+        {
+          "id": 12863,
+          "name": "Kicchou Fukuda",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/12863.jpg",
+          "description": "",
+          "nicknames": [
+            "Kicchou Fukuda"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石川英郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95412-czaGpvAm5pWx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kicchou Fukuda",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Fukuda is the other ace Ryonan has up their sleeve. His offensive power rivals many of the best players in the Kanagawa prefecture and is seen throughout the series doing alley oops with Sendoh as the passer but his defensive ability is weak and can be easily exploited. He has something of a special rivalry going on with Hanamichi from the first time they knew of each other, when the latter was depressed over the loss to Kainan and was near a basketball court where Fukuda was practicing. Fukuda had previously heard about Hanamichi from Sendoh and had wanted to play him, but the latter refused. They do not actually meet each other until the last match of the Interhigh Tournament, when Fukuda outplays Sakuragi for the first half and lights the fire within him, with the words \"I won, Sakuragi\". Unwilling to accept the loss, Hanamichi strengthens his marking over Fukuda in the second half.  Ryonan coach Moichi Taoka saw potential in both Fukuda and Sendoh starting from when they joined the team together. However, as Fukuda still seemed green and thick-skinned, Taoka would frequently criticize him while praising Sendoh. Fukuda however, turned out to be quite sensitive. As a result, in an exhibition match at Ryonan, Fukuda released his pent-up aggression on Taoka. This incident resulted in a suspension from all games up until the Interhigh Tournament. Thus he does not play in the practice match against Shohoku and is not seen until Ryonan plays Kainan. Possibly because of all the rudeness he used to be treated with, Fukuda loves to be respected and praised. He even bursts into tears when the crowd cheers him on against Kainan.  Source: &lt;http://en.wikipedia.org/wiki/Ryonan_High_School_basketball_team&gt;"
+          }
+        },
+        {
+          "id": 12864,
+          "name": "Ryoji Ikegami",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/12864.jpg",
+          "description": "",
+          "nicknames": [
+            "Ryoji Ikegami"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "緑川光",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95112-c275OLptkSYO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ryoji Ikegami",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "__Year:__ 3rd Year \n__Height:__ 183 cm \n__Jersey Number:__ #5 \n__Position:__ Small Forward\n\nAs pointed out by Taoka himself, Ikegami is the best defender in the team. In the last half of the Shohoku-Ryonan match he was asked to mark Mitsui and he did manage shut him down(only for some time). He leaves the team with Uozomi after the loss to Shohoku knocks Ryonan out of the National Championship run. Unlike Uozomi however, who starts to get emotional in encouraging his teammates to bring Ryonan further the next time around, Ikegami is cool and collected.  (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 12865,
+          "name": "Hiroaki Koshino",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/12865.jpg",
+          "description": "",
+          "nicknames": [
+            "Hiroaki Koshino"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "里内信夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1486.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hiroaki Koshino",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "__Year:__ 2nd Year  \n__Height:__ 174 cm\n__Jersey Number:__ #6  \n__Position:__ Shooting Guard  \n\nKoshino is one of Ryonan's main playmakers. Although not up to the level of Mitsui or Jin, he is still a good long range shooter. He also has a rather dry wit.   (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 12866,
+          "name": "Tomoyuki Uekusa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12866-W8c5Fyv3y9SM.jpg",
+          "description": "",
+          "nicknames": [
+            "Tomoyuki Uekusa"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "辻谷耕史",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95427-g0bwNKDLlROd.png",
+              "language": "日语"
+            },
+            {
+              "name": "塩屋浩三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95906-6f6glTy4TkXf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tomoyuki Uekusa",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "__Year:__ 2nd Year \n__Height:__ 170 cm\n__Jersey Number:__ #8 \n__Position:__ Point Guard \n\nUekusa has a discreet court presence, but still has his share of importance in playmaking for Ryonan, especially when Koshino is off court. Though not a strong player, he can hold his own quite well in play. Even Sendoh recognizes him as the player with a high stamina but in the Shohoku game, Uekusa was totally outplayed and exhausted by Miyagi."
+          }
+        },
+        {
+          "id": 12867,
+          "name": "Jun Uozumi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/12867.jpg",
+          "description": "",
+          "nicknames": [
+            "Jun Uozumi"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岸野幸正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100845-LOsfDDyjfnfj.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jun Uozumi",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "__Year:__ 3rd Year \n__Height:__ 202 cm\n__Jersey Number:__ #4 \n__Position:__ Center  \n\nJun Uozomi is the team captain. He considers Takenori Akagi his rival, but has never managed to personally beat him, although Ryonan has beaten Shohoku on occasion. However their rivalry is not antagonistic; indeed, there is respect that borders on friendship. When Akagi was outplayed and discouraged in the match against Sannoh, Uozumi was able to restore Akagi's spirits. After the loss to Shohoku in the Kanagawa prefectural trials eliminated Ryonan from national competition, Uozumi left the team to train as a chef, since his family owns a ramen restaurant; Sendoh succeeds him as team captain. Sakuragi likes to refer to him as \"Boss Monkey\" because he is as well-built as Akagi, and even taller.  \n\nUozumi's size and power are unmatched in high school basketball. However, he started as a very weak player, and was ridiculed and bullied by his upperclassmen for only having height but very little of everything else. Ryonan's coach Taoka Moichi encouraged him to continue playing though, and eventually Uozumi developed into becoming a fearsome center. He is considered as one of the top centers in the Kanagawa prefecture. However, his bad temper and lack of control in game situations has led to serious consequences for his team on more than one occasion; during the second match with Shohoku, Hanamichi tricked him into committing four fouls and almost got him ejected."
+          }
+        },
+        {
+          "id": 12868,
+          "name": "Moichi Taoka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12868-ZLA7xRcuQhlV.png",
+          "description": "",
+          "nicknames": [
+            "Moichi Taoka"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石塚運昇",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Moichi Taoka",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Moichi Taoka is Ryonan's coach and a contemporary of Kainan's Riki Takato, who is a year younger than him. Both of them have known each other since high school, when Taoka was known as “Kanagawa's Taoka”. Taoka compares himself to Sendoh, which his players find hard to believe. Both men are still friends, but are also rivals. Taoka trained his team hard enough that when he asked them to close their eyes and think about it, they became agitated. If he had had his way, his dream team would have consisted of Sendoh, Uozomi, Mitsui, Miyagi, and Rukawa, with the latter three playing the same positions they now play for Shohoku. He personally recruited them, but each turned him down for various reasons (Mitsui and Miyagi because of Anzai, and Rukawa because Shohoku is closer to his home). Still, Taoka is happy with his current team and believes that out of all the teams he has coached, it has trained the hardest. He even believes that this team can beat his dream team.   Taoka is a good coach, but has made mistakes in judging his players and the opposition. He still has an eye for talent though, as he recognized Uozomi's potential and gave him encouragement when Uozomi's skills were weak and he was thinking of quitting. Taoka also realized that when Sendoh and Fukuda joined the team that they would become key players. However, he thought that he could encourage Fukuda by criticizing him while at the same time praising Sendoh. Fukuda's personality turned out to be more sensitive, and after a year of criticism, he snapped, attacking Taoka during a practice match. This resulted in his suspension from the team, which is why Fukuda did not play during the practice match with Shohoku. Having learned from his mistake, Taoka uses Fukuda to great effect during the match with Kainan. During the league round match with Shohoku, Taoka underestimates how much Sakuragi's abilities have grown in the short time since Shohoku first played Ryonan. He also underestimates Kogure's abilities. Both of these underestimations cost Ryonan a shot at the national championships, and Taoka acknowledges them after the game.   (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 12869,
+          "name": "Hikoichi Aida",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b12869-tvY4h69L5lzT.jpg",
+          "description": "",
+          "nicknames": [
+            "Hikoichi Aida"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小野坂昌也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95173-LIuN04REF5eA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hikoichi Aida",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "__Year:__ 1st Year  \n__Height:__ 165 cm\n\nCheerful and energetic, Hikoichi aspires to become a player like his Ryonan teammates but, not being up to their level, he just stays with the reserves (more specifically with the coach, Moichi Taoka) and acts more as a team manager than a full player, taking detailed notes during matches. His catchphrase is \"gotta check it,\" aside from shouting \"Unbelievable!!!\" every time something exciting happens during a match. He too considers Hanamichi a great player, because he was talked into it when they first met. Hikoichi also idolizes Ryota because he is a starter for Shohoku despite his short height (Ryota is only three centimeters - about one inch - taller than Hikoichi). He has an older sister, Yayoi Aida, who is a reporter for a basketball magazine (and from whom Hikoichi might have gotten his habit of taking notes)."
+          }
+        },
+        {
+          "id": 13038,
+          "name": "Soichiro Jin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/13038.jpg",
+          "description": "",
+          "nicknames": [
+            "Soichiro Jin",
+            "神宗一郎"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "神奈延年",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95096-7XONtZWj5lIw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Soichiro Jin",
+            "name_native": "神宗一郎",
+            "name_alternative": [],
+            "description": "__Year:__ 2nd Year  \n__Height:__ 189 cm\n__Jersey Number:__ #6  \n__Position:__ Shooting Guard  \n\nJin is one of the best, if not the best, sharpshooters in Kanagawa, matched only by Mitsui. He originally used to be a center, but his slender build, slow movement and weak leaping ability never allowed him to perform well in this position. Instead of being discouraged, he became a shooting guard, where he could put his talents to better use. Jin became well-versed in 3-pointers as a result of making 500 3 point shots a day after practice. His coach was very much impressed by his tenacity and dedication. Jin has a very mild personality and is always looking calm and agreeable. Jin knows Fukuda from junior high school because they were both on the basketball team."
+          }
+        },
+        {
+          "id": 13686,
+          "name": "Nozomi Takamiya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13686-75Owb29VqqiE.jpg",
+          "description": "",
+          "nicknames": [
+            "Nozomi Takamiya",
+            "高宮望"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "塩屋浩三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95906-6f6glTy4TkXf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nozomi Takamiya",
+            "name_native": "高宮望",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 13687,
+          "name": "Yuji Ookusu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13687-tS9Bf6M7eeLv.jpg",
+          "description": "",
+          "nicknames": [
+            "Yuji Ookusu",
+            "大楠雄二"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "神奈延年",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95096-7XONtZWj5lIw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuji Ookusu",
+            "name_native": "大楠雄二",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 13688,
+          "name": "Chuuichirou Noma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13688-XYESbO76eZMI.jpg",
+          "description": "",
+          "nicknames": [
+            "Chuuichirou Noma",
+            "野間忠一郎"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "幹本雄之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102016-9CmGKajfmYTK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chuuichirou Noma",
+            "name_native": "野間忠一郎",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 14599,
+          "name": "Toki Kuwata",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/14599.jpg",
+          "description": "",
+          "nicknames": [
+            "Toki Kuwata"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "森川智之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Toki Kuwata",
+            "name_native": "",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 23827,
+          "name": "Ayako",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23827-Nt1oz7obcO4F.jpg",
+          "description": "",
+          "nicknames": [
+            "Ayako",
+            "彩子",
+            "Aya-chan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "原えりこ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96407-zvQ89WIomdL4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ayako",
+            "name_native": "彩子",
+            "name_alternative": [
+              "Aya-chan"
+            ],
+            "description": "Ayako is the manager of the team and object of Ryota's affections. Strong-willed, somewhat tomboyish and good-natured, at first Ayako does not seem to reciprocate Ryota's feelings for her, which she knows of, and will not until the end of the series. She is directly responsible for sharpening Hanamichi's abilities for real matches, by training him in the basics, such as ball possession and dribbling. Her disciplinary style is midway between Akagi and Anzai - while not as soft as the latter, she is also not as hard as the former. Her last name is unknown. Curiously, Hanamichi treats her almost as respectfully as Anzai, even though she is in a lower position in the team; possibly because of her gender, since he is generally more respectful towards females. Ryota refers to her as \"Aya-chan\" because of his attraction to her, and she responds by calling him \"Ryota\" rather than by his surname."
+          }
+        },
+        {
+          "id": 55793,
+          "name": "Dai Moroboshi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55793-K7Gfe2YqOmbj.jpg",
+          "description": "",
+          "nicknames": [
+            "Dai Moroboshi"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中尾みち雄",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1684.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Dai Moroboshi",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "The team's captain, shooting guard Dai Moroboshi, is known as the \"Star of Aichi\". He was injured by Meihou's Hiroshi Morishige during the Aichi Interhigh finals, and despite returning to the game later, could not push Aiwa over the top because of Meihou's insurmountable lead. Some consider Moroboshi as the only one who can beat Sannoh's Eiji Sawakita in a one-on-one, though Moroboshi himself does not think so."
+          }
+        },
+        {
+          "id": 57269,
+          "name": "Shouta Sugiyama",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57269.jpg",
+          "description": "",
+          "nicknames": [
+            "Shouta Sugiyama",
+            "杉山祥太"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "曽我部和恭",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96308-4clnaCDKhi9R.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shouta Sugiyama",
+            "name_native": "杉山祥太",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57271,
+          "name": "Kazuo Karasawa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57271.jpg",
+          "description": "",
+          "nicknames": [
+            "Kazuo Karasawa",
+            "唐沢一雄"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "徳丸完",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104182-N9QuVE4pVv8S.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kazuo Karasawa",
+            "name_native": "唐沢一雄",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57273,
+          "name": "Ryuuji Yazawa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57273.jpg",
+          "description": "",
+          "nicknames": [
+            "Ryuuji Yazawa",
+            "谷沢龍二"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中尾みち雄",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1684.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ryuuji Yazawa",
+            "name_native": "谷沢龍二",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57275,
+          "name": "Minori Kishimoto",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57275.jpg",
+          "description": "",
+          "nicknames": [
+            "Minori Kishimoto",
+            "岸本実理"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中一成",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95738-TbYK2DzO5d1Y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Minori Kishimoto",
+            "name_native": "岸本実理",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57277,
+          "name": "Teruo Ookawa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57277.jpg",
+          "description": "",
+          "nicknames": [
+            "Teruo Ookawa",
+            "大川輝男"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石川英郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95412-czaGpvAm5pWx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Teruo Ookawa",
+            "name_native": "大川輝男",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57279,
+          "name": "Doctor T.",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57279.jpg",
+          "description": "",
+          "nicknames": [
+            "Doctor T.",
+            "ドクターティー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "塩屋翼",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96506-toS3CQBXCrnR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Doctor T.",
+            "name_native": "ドクターティー",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57281,
+          "name": "Kouichirou Nangou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57281.jpg",
+          "description": "",
+          "nicknames": [
+            "Kouichirou Nangou",
+            "南郷洸一郎"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "立木文彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95284-k97k9dULn4vr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kouichirou Nangou",
+            "name_native": "南郷洸一郎",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57283,
+          "name": "Mikoshiba",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57283.jpg",
+          "description": "",
+          "nicknames": [
+            "Mikoshiba",
+            "御子柴"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山野井仁",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96444-O71nkyPjijhp.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mikoshiba",
+            "name_native": "御子柴",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57315,
+          "name": "Hiroshi Morishige",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57315.jpg",
+          "description": "",
+          "nicknames": [
+            "Hiroshi Morishige",
+            "森重寛"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石川英郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95412-czaGpvAm5pWx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hiroshi Morishige",
+            "name_native": "森重寛",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57317,
+          "name": "Ryuu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57317.jpg",
+          "description": "",
+          "nicknames": [
+            "Ryuu",
+            "竜"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "信彦風間",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8942.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ryuu",
+            "name_native": "竜",
+            "name_alternative": [],
+            "description": "Ryuu is one of the non-Shohoku members of Mitsui’s gang and the only other non-Shohoku member besides Tetsuo given the most depth. During Mitsui’s attack on the basketball team, he is matched up with Rukawa, giving him a bloody head wound with a broken mop head, but in turn gets knocked out by Rukawa. In the anime, Ryu challenges Tetsuo’s leadership by recruiting new members and targeting him after Mitsui rejoins the basketball team. The arrival of Sakuragi’s Gang enables Mitsui and Sakuragi to break away and head to the 3rd round match (which they are late for), and results in the trouncing of Ryu and all his gang members."
+          }
+        },
+        {
+          "id": 57319,
+          "name": "Tetsuo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57319.jpg",
+          "description": "",
+          "nicknames": [
+            "Tetsuo",
+            "鉄男"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤正治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5386.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tetsuo",
+            "name_native": "鉄男",
+            "name_alternative": [],
+            "description": "Tetsuo is a biker and the only adult member of Mitsui’s gang, which included Norio Hotta and his cronies, in addition to some other delinquent high school students. It would appear that he is the gang leader, although he largely defers to Mitsui when they launch their attack on the Shohoku basketball team. He appears to be in his late 20's/30s, and is the gang’s most experienced and capable fighter. Tetsuo succeeds in knocking out five Shohoku players, among them Rukawa and Miyagi, but is beaten brutally by Sakuragi.   After Mitsui leaves the gang and rejoins the team, Tetsuo later runs into him after the former is heading home after getting his knee checked. He accepts Mitsui as an athlete, reaffirming the latter’s decision to rejoin the team. Tetsuo makes an additional appearance in the anime when on the morning of Shohoku’s match with Shoyo, he is chased and cornered by the non-Shohoku members of his gang, who beat him up in a bid to challenge his leadership. Mitsui comes upon them, but refuses to fight because of the promise he made to Coach Anzai not to fight again. Tetsuo stands up for him, but gets knocked out. However the timely intervention of Sakuragi and his Gang enables the two basketball players to leave the scene, resulting in Tetsuo teaming up with Sakuragi’s Gang to take out Ryu and his cronies."
+          }
+        },
+        {
+          "id": 57321,
+          "name": "Youko Shimamura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57321.jpg",
+          "description": "",
+          "nicknames": [
+            "Youko Shimamura",
+            "島村葉子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白鳥由里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95291-NJi0RGiirXL6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Youko Shimamura",
+            "name_native": "島村葉子",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57323,
+          "name": "Hayama",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57323.jpg",
+          "description": "",
+          "nicknames": [
+            "Hayama",
+            "葉山"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤正治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5386.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hayama",
+            "name_native": "葉山",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57325,
+          "name": "Isamu Yuuki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57325.jpg",
+          "description": "",
+          "nicknames": [
+            "Isamu Yuuki",
+            "結城勇"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "信彦風間",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8942.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Isamu Yuuki",
+            "name_native": "結城勇",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57327,
+          "name": "Yoshihide Miura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57327.jpg",
+          "description": "",
+          "nicknames": [
+            "Yoshihide Miura",
+            "三浦義秀"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "私市淳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95560-zMj9LRxhYkMX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yoshihide Miura",
+            "name_native": "三浦義秀",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57329,
+          "name": "Akira Mayuzumi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57329.jpg",
+          "description": "",
+          "nicknames": [
+            "Akira Mayuzumi",
+            "黛明"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "梅津秀行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101602-wUvWtCkvNGNB.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akira Mayuzumi",
+            "name_native": "黛明",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57331,
+          "name": "Tatsumasa Oda",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57331.jpg",
+          "description": "",
+          "nicknames": [
+            "Tatsumasa Oda",
+            "小田竜政"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石川英郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95412-czaGpvAm5pWx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tatsumasa Oda",
+            "name_native": "小田竜政",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57333,
+          "name": "Harada",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57333.jpg",
+          "description": "",
+          "nicknames": [
+            "Harada",
+            "原田"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "江川央生",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96481-7houCLOMkp3g.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Harada",
+            "name_native": "原田",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57339,
+          "name": "Kazuo Araki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57339.jpg",
+          "description": "",
+          "nicknames": [
+            "Kazuo Araki",
+            "荒木一雄"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "森川智之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kazuo Araki",
+            "name_native": "荒木一雄",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57341,
+          "name": "Tetsuya Naitou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57341.jpg",
+          "description": "",
+          "nicknames": [
+            "Tetsuya Naitou",
+            "内藤鉄也"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "塩屋浩三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95906-6f6glTy4TkXf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tetsuya Naitou",
+            "name_native": "内藤鉄也",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57343,
+          "name": "Kengo Murasame",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57343.jpg",
+          "description": "",
+          "nicknames": [
+            "Kengo Murasame",
+            "村雨 健吾"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "幹本雄之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102016-9CmGKajfmYTK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kengo Murasame",
+            "name_native": "村雨 健吾",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57345,
+          "name": "Taku Itou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57345.jpg",
+          "description": "",
+          "nicknames": [
+            "Taku Itou",
+            "伊藤卓"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "里内信夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1486.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Taku Itou",
+            "name_native": "伊藤卓",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57347,
+          "name": "Shouichi Takano",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57347.jpg",
+          "description": "",
+          "nicknames": [
+            "Shouichi Takano",
+            "高野昭一"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "幹本雄之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102016-9CmGKajfmYTK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shouichi Takano",
+            "name_native": "高野昭一",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57349,
+          "name": "Mitsuru Nagano",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57349.jpg",
+          "description": "",
+          "nicknames": [
+            "Mitsuru Nagano",
+            "永野満"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "神奈延年",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95096-7XONtZWj5lIw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mitsuru Nagano",
+            "name_native": "永野満",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57351,
+          "name": "Kazushi Hasegawa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57351.jpg",
+          "description": "",
+          "nicknames": [
+            "Kazushi Hasegawa",
+            "長谷川 一志"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "塩屋浩三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95906-6f6glTy4TkXf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kazushi Hasegawa",
+            "name_native": "長谷川 一志",
+            "name_alternative": [],
+            "description": "Jersey #: 6  Height: 190 cm  Weight: 80 kg  Position: Forward   Kazushi Hasegawa has a personal history with Hisashi Mitsui. In junior high school, he faced Mitsui's confidence as well as his own inability to beat him in a match. Later on in high school, he encountered Mitsui again after the latter had become a delinquent and was shocked to see how much he had changed. They met again in the last match of the Kanagawa Interhigh Tournament, when he offered to mark Mitsui personally in a box-and-one.    ~!There, Hasegawa brought his memories back and marked Mitsui relentlessly, but to no avail, as Mitsui had already managed to turn the tide of the match for Shohoku. His words (\"don't underestimate high school basketball\") made Mitsui think about how much he could not let his efforts be in vain. Before the match, Hasegawa stated that he would hold Mitsui to no more than 5 points. Having accidentally overheard this, the reawakened Mitsui went on to score 20 points, including five consecutive 3 pointers in the second half, to erase Shoyo's 12 point lead over Shohoku. He is voiced by Kouzou Shioya. !~"
+          }
+        },
+        {
+          "id": 57353,
+          "name": "Riki Takatou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57353.jpg",
+          "description": "",
+          "nicknames": [
+            "Riki Takatou",
+            "高頭力",
+            "Rookie from Hell"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐藤正治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5386.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Riki Takatou",
+            "name_native": "高頭力",
+            "name_alternative": [
+              "Rookie from Hell"
+            ],
+            "description": "Riki Takato is Kainan's coach and a contemporary of Ryonan's Moichi Taoka, who is a year older than him. Both of them have known each other since high school, when Takato was known as the \"Rookie from Hell\" in his first year. He has been responsible to some degree for the team's dominating the Kanagawa Inter High Tournament for the past 17 years. His training regime is so tough that half the incoming players are weeded out within the first week, and more within the first month. After a year, barely a fifth of the new players remain. In the previous year, Takato also coached the team up to the semifinal round of the national championships, which they lost to Sannoh.   He is very shrewd, a fact demonstrated by the ease with which he uncovers Sakuragi's prime weakness in the game against Shohoku. He substitutes Miyamasu for Jin, causing Sakuragi to lose focus and Shohoku to lose many points to Kainan.   Cool and collected when his team is dominating, Takato becomes very agitated and anxious when pressed, and starts yelling at his players."
+          }
+        },
+        {
+          "id": 57355,
+          "name": "Tadashi Mutou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57355.jpg",
+          "description": "",
+          "nicknames": [
+            "Tadashi Mutou",
+            "武藤正"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "塩屋浩三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95906-6f6glTy4TkXf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tadashi Mutou",
+            "name_native": "武藤正",
+            "name_alternative": [],
+            "description": "Name : Tadashi Muto Jersey No : 9 Position : Forward Grade : Senior - 3rd Year  Low profile player in Kainan but also the starting member. Though he's a low profile, he's still a Kainan player that can shoot, defend, run and pass the ball to his teammates."
+          }
+        },
+        {
+          "id": 57357,
+          "name": "Kazuma Takasago",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57357.jpg",
+          "description": "",
+          "nicknames": [
+            "Kazuma Takasago",
+            "高砂 一馬"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "川津泰彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102713-2MmIe1hDrg1j.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kazuma Takasago",
+            "name_native": "高砂 一馬",
+            "name_alternative": [],
+            "description": "Name : Kazuma Takasago Jersey No : 5 Position : Center Height : Weight: Grade : Senior - 3rd Year  He's the starting center member of Kainan. Has the strength to maintain his position under the basket. Skillful and resource are some notable about his game, perhaps the experiences that he had in the high caliber team such as Kainan molded him as what he is now."
+          }
+        },
+        {
+          "id": 57359,
+          "name": "Yoshinori Miyamasu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57359.jpg",
+          "description": "",
+          "nicknames": [
+            "Yoshinori Miyamasu",
+            "宮益義範"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "里内信夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1486.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yoshinori Miyamasu",
+            "name_native": "宮益義範",
+            "name_alternative": [],
+            "description": "Jersey #: 15  Height: 160 cm  Weight: 42 kg   Yoshinori Miyamasu is known as the sixth man for Kainan. His unimposing presence distracts opponents from his basketball skills, especially his reliable 3 point shooting, the accuracy of which is comparable to Jin's and Mitsui's. Though he wears glasses, when called to play, he replaces them with a pair of goggles. Yoshinori plays his first game when he is called in by Coach Riki Takato in order to shut down Sakuragi. Takato correctly deduces that Sakuragi will not take Yoshinori seriously enough to properly mark him, enabling Yoshinori to be effective."
+          }
+        },
+        {
+          "id": 57371,
+          "name": "Nakamura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57371.jpg",
+          "description": "",
+          "nicknames": [
+            "Nakamura",
+            "中村"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "信彦風間",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8942.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nakamura",
+            "name_native": "中村",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57373,
+          "name": "Yayoi Aida",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57373.jpg",
+          "description": "",
+          "nicknames": [
+            "Yayoi Aida",
+            "相田弥生"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "永島由子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96582-pZIoOXgpxn1y.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yayoi Aida",
+            "name_native": "相田弥生",
+            "name_alternative": [],
+            "description": "Yayoi Aida is Hikoichi's older sister, who works as a reporter for a weekly basketball magazine. Even though her brother plays for Ryonan, she is mostly designated to cover Shohoku matches, in which she is always impressesed about Shohoku players' performances, as they mostly play stronger opponents like Kainan or Sannoh. In the National Championship though, she gets to watch Sannoh's exercise training routines. She is almost always accompanied by a bubbly trainee called Nakamura, who does the driving when they need to go from gym to gym even though he drives slowly, as he had just gotten his driving license.She also has a huge crush on Ryonan ace Sendoh.   (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 57375,
+          "name": "Sugadaira",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57375.jpg",
+          "description": "",
+          "nicknames": [
+            "Sugadaira",
+            "菅平"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "辻谷耕史",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95427-g0bwNKDLlROd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sugadaira",
+            "name_native": "菅平",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57377,
+          "name": "Koike",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57377.jpg",
+          "description": "",
+          "nicknames": [
+            "Koike",
+            "小池"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "平野正人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100795-vfXmbcIlRD6T.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Koike",
+            "name_native": "小池",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57379,
+          "name": "Anzai's Wife",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57379.jpg",
+          "description": "",
+          "nicknames": [
+            "Anzai's Wife",
+            "安西夫人"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高木早苗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8775.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Anzai's Wife",
+            "name_native": "安西夫人",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57381,
+          "name": "Mari Kawai",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57381.jpg",
+          "description": "",
+          "nicknames": [
+            "Mari Kawai",
+            "河合 マリ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "七絵 住友",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/16137.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mari Kawai",
+            "name_native": "河合 マリ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57383,
+          "name": "Norio Hotta",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57383.jpg",
+          "description": "",
+          "nicknames": [
+            "Norio Hotta",
+            "堀田徳男"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大塚芳忠",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95337-NnvEQEBKV2dR.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Norio Hotta",
+            "name_native": "堀田徳男",
+            "name_alternative": [],
+            "description": "Norio Hotta is the leader of a gang of fellow Third Year students who are the reigning delinquents at Shohoku. Sakuragi catches his attention on the first day of school when he gets into an altercation with two of his cronies, resulting in his issuing a direct challenge to Sakuragi by interrupting one of his classes. Before Sakuragi and his Gang arrive, Hotta and his cronies run into Rukawa on the school roof, who singlehandedly knocks out all four of them.   Hotta is a good friend of Mitsui, and backed him up when he challenged Miyagi to a fight a year ago. He and his friends provide the muscle again after Miyagi returns, and they join Mitsui in his attack on the basketball team. From Kogure's revelation of Mitsui's prior history with basketball, Hotta realizes that Mitsui deep down wants to play again, and is persuaded by Sakuragi's Gang to share the blame with them for attacking the team, getting the team off the hook for fighting. It should be noted that though Hotta and his friends failed to win in fights against Sakuragi's Gang or even Rukawa, they are portrayed as among the best fighters in Shohoku. Hotta and his cronies later become supporters of the basketball team during the National Championship Tournament (though even they get scared by the aggressiveness of the Toyotama crowd), largely because of their friendship with Mitsui, who they give the epithet Honoo no Otoko (lit. \"Flaming Man\").   (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 57385,
+          "name": "Tatsuhiko Aota",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57385.jpg",
+          "description": "",
+          "nicknames": [
+            "Tatsuhiko Aota",
+            "青田龍彦"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "梅津秀行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101602-wUvWtCkvNGNB.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tatsuhiko Aota",
+            "name_native": "青田龍彦",
+            "name_alternative": [],
+            "description": "The captain of the Shohoku judo team, Tatsuhiko Aota is a childhood friend of the Akagi siblings, having argued with Takenori over which sport was better, judo or basketball, since their youth. This grudge continued until their present age, where their feud is over which team will be National Champion first. He once tried to make Sakuragi join the judo team because he considered his fighting skills exceptional, and to achieve this, \"bribed\" him with some photos of Haruko when she was younger. Still, Sakuragi refused, saying simply, \"because I'm a basketball player\" (actually because he knew he would actually be closer to Haruko if he stayed with the basketball team). But Tatsuhiko does not give up on trying once in a while. He is rather loyal to Takenori when the need arises, cheering him on when he is outplayed and hard-pressed during the second Ryonan match.   Despite his inability to physically coerce Sakuragi into joining the judo team, Tatsuhiko has proven that he is skilled, as he is the sole member of the judo team to qualify for the National Championships in judo. It is also worth noting that Tatsuhiko has had a crush on Haruko since they were young. She calls him \"Ta-chan\" instead of by his last name, which irritates Sakuragi immensely.   (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 57387,
+          "name": "Matsui",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57387.jpg",
+          "description": "",
+          "nicknames": [
+            "Matsui",
+            "松井"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "西川宏美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/8896.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Matsui",
+            "name_native": "松井",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57389,
+          "name": "Fujii",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57389.jpg",
+          "description": "",
+          "nicknames": [
+            "Fujii",
+            "藤井"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "豊嶋真千子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101007-NREmoviauQET.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Fujii",
+            "name_native": "藤井",
+            "name_alternative": [],
+            "description": "Haruko's friend."
+          }
+        },
+        {
+          "id": 57391,
+          "name": "Satoru Sasaoka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57391-dFU7uRbvjv3e.jpg",
+          "description": "",
+          "nicknames": [
+            "Satoru Sasaoka",
+            "佐々岡智"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "里内信夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1486.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Satoru Sasaoka",
+            "name_native": "佐々岡智",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57393,
+          "name": "Kentarou Ishii",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57393.jpg",
+          "description": "",
+          "nicknames": [
+            "Kentarou Ishii",
+            "石井健太郎"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "神奈延年",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95096-7XONtZWj5lIw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kentarou Ishii",
+            "name_native": "石井健太郎",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57395,
+          "name": "Satoru Kakuta",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57395.jpg",
+          "description": "",
+          "nicknames": [
+            "Satoru Kakuta",
+            "角田悟"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "里内信夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1486.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Satoru Kakuta",
+            "name_native": "角田悟",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 57397,
+          "name": "Tetsushi Shiozaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/57397.jpg",
+          "description": "",
+          "nicknames": [
+            "Tetsushi Shiozaki",
+            "潮崎哲士",
+            "Shio-chan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "神奈延年",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95096-7XONtZWj5lIw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tetsushi Shiozaki",
+            "name_native": "潮崎哲士",
+            "name_alternative": [
+              "Shio-chan"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 57399,
+          "name": "Yasuharu Yasuda",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b57399-RFrPfXQ9r30A.png",
+          "description": "",
+          "nicknames": [
+            "Yasuharu Yasuda",
+            "安田靖春"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小野坂昌也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95173-LIuN04REF5eA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yasuharu Yasuda",
+            "name_native": "安田靖春",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    }
+  ]
+}

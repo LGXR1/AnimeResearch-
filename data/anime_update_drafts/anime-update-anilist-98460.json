@@ -1,0 +1,915 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-04T04:39:26.403Z",
+  "mode": "manual-curation",
+  "instructions": "AniList source snapshot; curate manually before write.",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 98460,
+      "anime_title": "恶魔人 Crybaby",
+      "anime_origin": "JP",
+      "source": {
+        "id": 98460,
+        "titles": [
+          "Devilman Crybaby",
+          "DEVILMAN crybaby",
+          "DEVILMAN crybaby"
+        ],
+        "year": 2018,
+        "format": "ONA",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/98460"
+      },
+      "characters": [
+        {
+          "id": 2456,
+          "name": "Akira Fudou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2456-rTjIXMLPHTu2.jpg",
+          "description": "",
+          "nicknames": [
+            "Akira Fudou",
+            "不動明",
+            "Devilman"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内山昂輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96764-yJWGrhjanDJQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Akira Fudou",
+            "name_native": "不動明",
+            "name_alternative": [
+              "Devilman"
+            ],
+            "description": "__Height:__ 182 cm\n\nAkira is a shy, soft spoken, and somewhat cowardly teen. His father has recently went to work in America so he is currently living with his friend Miki's family. He hasn't seen his best friend Ryo in over a month since moving in with Miki's family. When they reunite he is in for a big surprise that will forever change him, his life, and all of mankind.\n\n~!Devilman is Akira Fudo after he merged with Amon in order to save mankind from the demons. While he usually stays in his human form, he turns into Devilman when he needs to fight seriously. Akira still retains his human heart after he becomes Devilman, meaning he can feel love and empathy unlike demons, but his personality changes drastically as a result of the merge.!~"
+          }
+        },
+        {
+          "id": 4092,
+          "name": "Ryo Asuka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4092-63yxC7cCrWke.png",
+          "description": "",
+          "nicknames": [
+            "Ryo Asuka",
+            "飛鳥了"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "村瀬歩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ryo Asuka",
+            "name_native": "飛鳥了",
+            "name_alternative": [],
+            "description": "The best friend of Akira Fudo, the main character of Nagai Go's classical horror manga Devilman. \n\nAs Akira is the strength, Ryo is the brain. His father discovered the existence of demons in our world and decided to fight them. He asked his friend Akira for help. Ryo knew that to be able to beat a demon, one had to become a demon. He and Akira went through a ritual to fuse with demons, but in the end, only Akira was able to do so and became Devilman, leaving Ryo remain as a normal human.\n\n~!Ryo's true identity was much more horrible, much more terrifying than he or Akira could've ever imagined. Ryo turned out to be Satan himself, who sought to destroy the world. Satan is depicted as a beautiful hermaphroditic Seraphim angel with twelve wings. However, it is later revealed by Zenon that Satan is in fact in love with Akira. The Devil's love for Akira was developed through the human relationship between Akira and Ryo.!~"
+          }
+        },
+        {
+          "id": 7968,
+          "name": "Miki Makimura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7968-te8U6niaAoKk.png",
+          "description": "",
+          "nicknames": [
+            "Miki Makimura",
+            "牧村美樹"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "潘めぐみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107961-aMetTdEFTi2W.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Miki Makimura",
+            "name_native": "牧村美樹",
+            "name_alternative": [],
+            "description": "~!Miki Makimura was a lifelong friend to Akira Fudo and had an attraction to him, but Akira often failed to notice, or they never admitted their feelings to one another before Miki’s tragic end. It is tragically rare for Miki to get a good ending.\n\n(Source: Go Nagai Wiki)!~"
+          }
+        },
+        {
+          "id": 7966,
+          "name": "Psycho Jenny",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7966-nh5ZbkAioYaz.jpg",
+          "description": "",
+          "nicknames": [
+            "Psycho Jenny",
+            "サイコジェニー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高戸靖広",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95752-9T4nDuosYWTu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Psycho Jenny",
+            "name_native": "サイコジェニー",
+            "name_alternative": [],
+            "description": "~!Psycho Jenny is one of the leading figures in Satan's demon army.!~"
+          }
+        },
+        {
+          "id": 7967,
+          "name": "Tare Makimura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7967-EytwuXK0gbru.jpg",
+          "description": "",
+          "nicknames": [
+            "Tare Makimura",
+            "村健タレ",
+            "Taro"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "稲川英里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119264-Z37euagCAtVQ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tare Makimura",
+            "name_native": "村健タレ",
+            "name_alternative": [
+              "Taro"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 7971,
+          "name": "Miki Kuroda",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7971-mjwR42qPcQ5N.jpg",
+          "description": "",
+          "nicknames": [
+            "Miki Kuroda",
+            "黒田ミキ",
+            "Miko",
+            "Mikiko Kawamoto"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小清水亜美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miki Kuroda",
+            "name_native": "黒田ミキ",
+            "name_alternative": [
+              "Miko",
+              "Mikiko Kawamoto"
+            ],
+            "description": "Mikiko Kawamoto is a supporting character in the original Devilman manga. \n\nIn the 2017 anime adaptation, _Devilman Crybaby_, Miki Kuroda is on the running track team along with Akira Fudo and Miki Makimura."
+          }
+        },
+        {
+          "id": 7972,
+          "name": "Amon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7972-ro7f4Rjp7Bll.png",
+          "description": "",
+          "nicknames": [
+            "Amon",
+            "アモン",
+            "Lord of War",
+            "Beast of Hell"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Amon",
+            "name_native": "アモン",
+            "name_alternative": [
+              "Lord of War",
+              "Beast of Hell"
+            ],
+            "description": "Amon's original human appearance resembled a light skinned male with messy black hair and dark eyes that featured markings coming down from those eyes. When on duty, he is always seen wearing black form fitting armor with a helmet that featured horns and small wings. He also featured spikes on his arms and a cape.\n\nHowever after becoming a demon he grew far taller while still retaining his human appearance. His skin depended on the artwork with most being blue, turquoise, pale white, and least of all red with legs covered in black fur and a long thin tail with a spiked spade on the end. Amon has yellow eyes which depending on the story had black pupils or none at all. He had thin fangs in his mouth and large bat like wings in place of his ears with a bright red crest in the middle, he also had a pair of antenna connecting to the top of his head."
+          }
+        },
+        {
+          "id": 18590,
+          "name": "Silene",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18590-uSU2YjJWxWgJ.jpg",
+          "description": "",
+          "nicknames": [
+            "Silene",
+            "シレーヌ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中敦子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-v07xvA8V2Yeh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Silene",
+            "name_native": "シレーヌ",
+            "name_alternative": [],
+            "description": "Once Amon's lover, Sirene is on a mission to destroy the being that took her beloved Amon away. Sirene has razor-sharp claws that can tear a man in two. She can also launch her arms at targets."
+          }
+        },
+        {
+          "id": 18591,
+          "name": "Gelmar",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18591-cVL12kCapiyJ.jpg",
+          "description": "",
+          "nicknames": [
+            "Gelmar"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "駒谷昌男",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n229985-hCtcWCtVd06i.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gelmar",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Gelmar/Geruma is a devil with power over water. He is sent by Sirene to attack Miki. In truth, he is fodder sent by Sirene to weaken him so that she may finish him off with ease."
+          }
+        },
+        {
+          "id": 18592,
+          "name": "Jinmen",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18592-bJ0uhY8d7VLT.jpg",
+          "description": "",
+          "nicknames": [
+            "Jinmen",
+            "ジンメン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "広瀬彰勇",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/124957-f8w2jwotBC7E.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jinmen",
+            "name_native": "ジンメン",
+            "name_alternative": [],
+            "description": "Jinmen is a devil with a shell like turtle. However, the shell has the faces of all the humans he's ever consumed. Instead of killing them, they remain alive as a part of him. In the manga, Sachiko, who used to be Akira's neighbor, falls victim to Jinmen. In the OAV, it is Akira's mother."
+          }
+        },
+        {
+          "id": 18593,
+          "name": "Zenon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/18593-dXelacQtcb7V.jpg",
+          "description": "",
+          "nicknames": [
+            "Zenon",
+            "ゼノン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "アヴちゃん",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124946-OTdB3LD8qhm4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zenon",
+            "name_native": "ゼノン",
+            "name_alternative": [],
+            "description": "<b>Zennon</b> is among the most powerful of the demon kind, and Satan's second-in-command alongside Psycho Jenny. While Satan was away, he assumed the role of the leader of the demon race. Zennon is highly respected and feared among his people, with most referring to him as Lord Zennon.\n\n(Source: Devilman Wiki)"
+          }
+        },
+        {
+          "id": 74617,
+          "name": "Agwell",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/74617.jpg",
+          "description": "",
+          "nicknames": [
+            "Agwell",
+            "アグウェル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白熊寛嗣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102698-AMiBjUZB3AFm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Agwell",
+            "name_native": "アグウェル",
+            "name_alternative": [],
+            "description": "Is a devil sent by Sirene to attack Akira."
+          }
+        },
+        {
+          "id": 74856,
+          "name": "Kaim",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74856-crYRRMZDlXfj.jpg",
+          "description": "",
+          "nicknames": [
+            "Kaim"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小山力也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kaim",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Devil that sacrificed himself and merged with Silence in order to help her against Devilman."
+          }
+        },
+        {
+          "id": 124942,
+          "name": "Babo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124942-Hlw2goXjX8Uv.jpg",
+          "description": "",
+          "nicknames": [
+            "Babo",
+            "バボ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "般若",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124943-eR6gvNnS5Qor.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Babo",
+            "name_native": "バボ",
+            "name_alternative": [],
+            "description": "A member of Wamu’s gang, Babo is often seen with the gang but never speaks unless it is to rap. ~!He ultimately betrays the gang.!~\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 124945,
+          "name": "Professor Fikira",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124945-BdjdivVY2Y0X.png",
+          "description": "",
+          "nicknames": [
+            "Professor Fikira"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "アナトリ・クラスノフ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/124944-ritNO7j3qFeR.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Professor Fikira",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "<b>Professor Fikira</b> was a Russian scientist who had discovered evidence of demon kind. He replaces Professor Asuka (Ryo's father in the manga) within the anime."
+          }
+        },
+        {
+          "id": 124947,
+          "name": "Koji Nagasaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124947-0M5vphN498FI.jpg",
+          "description": "",
+          "nicknames": [
+            "Koji Nagasaki",
+            "長崎光司"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Koji Nagasaki",
+            "name_native": "長崎光司",
+            "name_alternative": [],
+            "description": "<b>Koji Nagasaki</b> is Makimura Miki's manager and photographer in the Devilman Crybaby. He came from a bad background and dreams of becoming a respected reporter.\n\n(Source: Devilman Wiki, edited)"
+          }
+        },
+        {
+          "id": 124949,
+          "name": "Wamu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124949-dpKhGAqD3h0A.jpg",
+          "description": "",
+          "nicknames": [
+            "Wamu",
+            "ワム"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "佐久間健",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124950-FXXnfAtNI3iW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Wamu",
+            "name_native": "ワム",
+            "name_alternative": [],
+            "description": "<b>Wamu</b> is the leader of a small street gang in Devilman Crybaby consisting of Gabi, Hie, Babo, and Kukun.\n\n~!He has feelings for Miki Makimura, and helps her and Akira Fudo when chaos digs its claws on the world.!~"
+          }
+        },
+        {
+          "id": 124951,
+          "name": "Gabi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124951-Z47U8coImkBG.jpg",
+          "description": "",
+          "nicknames": [
+            "Gabi",
+            "ガビ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "木村昴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107480-h2RgLXNP7hcj.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gabi",
+            "name_native": "ガビ",
+            "name_alternative": [],
+            "description": "<b>Gabi</b> is part of a group of rappers alongside Wamu, Kukun, Babo, and Hie.\n\n(Source: Devilman Wiki, edited)"
+          }
+        },
+        {
+          "id": 124952,
+          "name": "Kukun",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124952-FPiacv4lGIE1.jpg",
+          "description": "",
+          "nicknames": [
+            "Kukun",
+            "ククン",
+            "Mayuta"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "ヤング・ダイス",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/124953-uZhAZP4Vj9Pw.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kukun",
+            "name_native": "ククン",
+            "name_alternative": [
+              "Mayuta"
+            ],
+            "description": "<b>Kukun</b> is a rapper and label cleaner who lives near Miko's building. He often appears to make small-talk with her after seeing her continuously seeing her planting and watering flowers.\n\n(Source: Devilman Wiki)"
+          }
+        },
+        {
+          "id": 124954,
+          "name": "Hie",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124954-SXOVocZV86dU.jpg",
+          "description": "",
+          "nicknames": [
+            "Hie",
+            "ヒエ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "AFRA",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/124956-8E4MW7m47Sye.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hie",
+            "name_native": "ヒエ",
+            "name_alternative": [],
+            "description": "<b>Hie</b> is the beatboxer for a group of rappers alongside Wamu, Gabi, Babo, and Kukun.\n\n(Source: Devilman Wiki, edited)"
+          }
+        },
+        {
+          "id": 124958,
+          "name": "Moyuru Koda",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124958-Ins5vUvxPuCK.png",
+          "description": "",
+          "nicknames": [
+            "Moyuru Koda",
+            "幸田燃寛"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "平野潤也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124959-vmCWJw9t8ql8.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Moyuru Koda",
+            "name_native": "幸田燃寛",
+            "name_alternative": [],
+            "description": "<b>Moyuru Koda</b> is a track athlete from Kawa High.\n\n(Source: Devilman Wiki, edited)"
+          }
+        },
+        {
+          "id": 124960,
+          "name": "Tako",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124960-kIo6HDkouWAl.png",
+          "description": "",
+          "nicknames": [
+            "Tako",
+            "ターコ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋李依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tako",
+            "name_native": "ターコ",
+            "name_alternative": [],
+            "description": "<b>Tako</b> is the pet cat of Makimura family.\n~!It later transforms into \"devilcat\" and becomes Akira Fudo's aide. During final battle against Satan, he attempts to attack the angel directly, but getting killed again, this time by Satan's telepathic slash.!~"
+          }
+        },
+        {
+          "id": 232957,
+          "name": "Kaori Fudou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232957-a3TcuejGthho.png",
+          "description": "",
+          "nicknames": [
+            "Kaori Fudou",
+            "不動香織",
+            "Sumiko Fudou (不動須弥子)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中村千絵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95300-84lMPsAHkPP3.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kaori Fudou",
+            "name_native": "不動香織",
+            "name_alternative": [
+              "Sumiko Fudou (不動須弥子)"
+            ],
+            "description": "Akira's mother."
+          }
+        },
+        {
+          "id": 232958,
+          "name": "Sumi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232958-hvvS2QwEkkRW.png",
+          "description": "",
+          "nicknames": [
+            "Sumi",
+            "受美"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "村瀬迪与",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116813-GT3gjxNFr1XR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sumi",
+            "name_native": "受美",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 232959,
+          "name": "Akiko Makimura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232959-bwjLoY7HAQy3.png",
+          "description": "",
+          "nicknames": [
+            "Akiko Makimura",
+            "牧村亜樹子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小林さやか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n180437-EmcNqG0nW7Ih.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akiko Makimura",
+            "name_native": "牧村亜樹子",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 232960,
+          "name": "Zay",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232960-XADmJnju5LdB.png",
+          "description": "",
+          "nicknames": [
+            "Zay",
+            "ゼイ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "アヴちゃん",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124946-OTdB3LD8qhm4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zay",
+            "name_native": "ゼイ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 232961,
+          "name": "Noel Makimura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232961-0wrbKVDKpAGv.png",
+          "description": "",
+          "nicknames": [
+            "Noel Makimura",
+            "牧村ノエル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小原雅人 ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n145239-D8jrByJ2BHQd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Noel Makimura",
+            "name_native": "牧村ノエル",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 232962,
+          "name": "Reijirou Fudou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232962-3J7QdFGP4nfc.png",
+          "description": "",
+          "nicknames": [
+            "Reijirou Fudou",
+            "不動礼次郎"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "桐本拓哉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95296-fYLp5Ff3eDI3.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Reijirou Fudou",
+            "name_native": "不動礼次郎",
+            "name_alternative": [],
+            "description": "Akira's father."
+          }
+        },
+        {
+          "id": 232963,
+          "name": "Web Producer",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232963-bkbWjXSQXhmD.png",
+          "description": "",
+          "nicknames": [
+            "Web Producer",
+            "ウェブプロデューサー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "平修",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n185028-mMnyRQFnxZP1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Web Producer",
+            "name_native": "ウェブプロデューサー",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 232964,
+          "name": "Takahama",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232964-cNl6bRH8SDcO.png",
+          "description": "",
+          "nicknames": [
+            "Takahama",
+            "タカハマ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "堀総士郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n131554-gpNdBDdDPzYI.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takahama",
+            "name_native": "タカハマ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 232965,
+          "name": "Kudou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b232965-VDwX8CKZwiYq.png",
+          "description": "",
+          "nicknames": [
+            "Kudou",
+            "クドウ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "中務貴幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128195-BMcl9CbZQKGm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kudou",
+            "name_native": "クドウ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327284,
+          "name": "Kouzou Rainuma",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327284-M2ItJLM1UZK7.png",
+          "description": "",
+          "nicknames": [
+            "Kouzou Rainuma",
+            "雷沼耕造",
+            "Shizego"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n140941-NnA2r3NvTz4d.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kouzou Rainuma",
+            "name_native": "雷沼耕造",
+            "name_alternative": [
+              "Shizego"
+            ],
+            "description": "Dr. Rainuma is a famous research biologist. After the attacks across the world by the Demon menace he became devoted to finding a way to combat the Demons and set up the Demon Busters."
+          }
+        },
+        {
+          "id": 327286,
+          "name": "Track Coach",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327286-l6b4aZfffMqo.png",
+          "description": "",
+          "nicknames": [
+            "Track Coach",
+            "トラックコーチ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "Shinichiro Uchida",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Track Coach",
+            "name_native": "トラックコーチ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327287,
+          "name": "Sachiko",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327287-hAxB7l4cgBMq.png",
+          "description": "",
+          "nicknames": [
+            "Sachiko",
+            "サッちゃん",
+            "Sacchan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "宮原永海",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96824-SRIUpKdY5EfX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sachiko",
+            "name_native": "サッちゃん",
+            "name_alternative": [
+              "Sacchan"
+            ],
+            "description": "She is the girl that lived next to Fudou Akira."
+          }
+        },
+        {
+          "id": 187217,
+          "name": "Donald Trump",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b187217-fvBuVKuaEpU4.png",
+          "description": "",
+          "nicknames": [
+            "Donald Trump"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Donald Trump",
+            "name_native": "",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    }
+  ]
+}

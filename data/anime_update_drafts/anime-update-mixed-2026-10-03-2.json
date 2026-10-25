@@ -1,0 +1,1528 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:05:29.493Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 167820,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 167820,
+        "titles": [
+          "Good Night World",
+          "GOOD NIGHT WORLD",
+          "グッド・ナイト・ワールド",
+          "Добраніч, світе",
+          "Boa Noite, Mundo",
+          "Καληνύχτα, Κόσμε",
+          "Noapte bună, lume!",
+          "Buenas noches, mundo",
+          "กู๊ดไนท์ เวิลด์",
+          "굿 나이트 월드",
+          "تصبح على خير أيها العالم"
+        ],
+        "year": 2023,
+        "format": "ONA",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/167820"
+      },
+      "characters": [
+        {
+          "id": 311489,
+          "name": "Ichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311489-QSTKVmVE3wQY.png",
+          "description": "",
+          "nicknames": [
+            "Ichi",
+            "イチ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "廣瀬大介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121556-clF6MDM5ADgb.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ichi",
+            "name_native": "イチ",
+            "name_alternative": [],
+            "description": "Member of the high-level Akabane Family. Although insanely strong, he's very petty and short-tempered, especially if people don't take his flashy technique names seriously or make fun of him. He also doesn't seem to mind killing other players at any given time - something which the Planet community strongly frowns upon.\n\n~!In the real world, he's a shut-in, living on terrible terms with his family - especially his father, whom he considers loathsome and irredeemable, and his brother, whom he assumes must be looking down on him all the time. However, he's a very skilled programmer, for example being able to create a program to bypass a ban with minimal effort.!~\n\n~!He hates when Aya is brought up in conversation, prompting him to have PTSD flashbacks and snap at whoever brings her up.!~"
+          }
+        },
+        {
+          "id": 311492,
+          "name": "Shiro Akabane",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311492-xsU3K6v1mfNt.png",
+          "description": "",
+          "nicknames": [
+            "Shiro Akabane",
+            "赤羽士郎"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大塚明夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95146-T6IEmqXW3xUN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shiro Akabane",
+            "name_native": "赤羽士郎",
+            "name_alternative": [],
+            "description": "One of the members of the high-ranking Akabane Family. Due to being dependable, wise and strong, Ichi looks up to him as a sort of father figure, and the rest of the guild sees him as their backbone.\n\n~!He's actually Ichi's real-life father, as well as the creator of Planet. Although he's an extremely skilled programmer and tech genius, he's also a hopeless perfectionist who dislikes anything illogical, which often had terrible consequences for his children - most notably Aya, who was often the target of his scrutiny due to her timid nature.!~\n\n~!He blames himself for his daughter's death, having even gone as far as creating an AI replica of her in an attempt to bring her back and apologize for his mistakes.!~"
+          }
+        },
+        {
+          "id": 311493,
+          "name": "AAAAA",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311493-COSEnEy93FAS.png",
+          "description": "",
+          "nicknames": [
+            "AAAAA",
+            "あああああ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "島﨑信長",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "AAAAA",
+            "name_native": "あああああ",
+            "name_alternative": [],
+            "description": "One of the Akabane Family's members. He's very friendly and cheerful, although not as skilled as the rest of the guild's members. He also remarks that he's not a very creative person, which is why he named himself the way he did.\n\n~!In real life, he's actually Ichi's younger brother and seems to have a successful professional career. However, he struggles to express emotions, which makes him often come off as cold and uncaring.!~"
+          }
+        },
+        {
+          "id": 311495,
+          "name": "May",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311495-wBOPYOZeIKpQ.png",
+          "description": "",
+          "nicknames": [
+            "May",
+            "メイ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "遠藤綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "May",
+            "name_native": "メイ",
+            "name_alternative": [],
+            "description": "One of the Akabane Family's members. Although she's not very good in combat, she's an excellent healer, as well as the emotional backbone of the group due to her kindness. She enjoys peaceful side content in the game a fair bit, such as taking care of the flower garden or cooking for the other three guild members, even though she knows it's only a game.\n\n~!She's actually the wife of Shiro/Kojirou in real life, as well as the mother of Ichi and his siblings. Following the death of Aya, she would move out into a net cafe, where she's lived ever since. Her mental health seems to be in a very poor state - although she still cares for her sons and husband when she decides to visit their house, she seems to be largely just going through the motions without thinking much of her actions, repeating the same phrases repeatedly and often smiling in moments that don't require her to.!~"
+          }
+        },
+        {
+          "id": 311494,
+          "name": "Sasumata",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311494-ytdZxlBgQL0T.png",
+          "description": "",
+          "nicknames": [
+            "Sasumata",
+            "サスマタ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "七海ひろき",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n151342-XKmi9w02EzHU.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sasumata",
+            "name_native": "サスマタ",
+            "name_alternative": [],
+            "description": "Leon's best friend, a childish sidekick who often engages in wacky theatrics and carries his head around whenever it gets cut off.\n\n~!Their real identity is an AI, being one of many living within Planet's code as a result of Shiro/Kojirou attempting to bring back his dead daughter. However, Sasumata is the only one aware of their true nature as such, which makes them question the nature of their existence and purpose in life constantly.!~\n"
+          }
+        },
+        {
+          "id": 311496,
+          "name": "Shigatera",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311496-0oQTzGKpUmef.png",
+          "description": "",
+          "nicknames": [
+            "Shigatera",
+            "シガテラ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shigatera",
+            "name_native": "シガテラ",
+            "name_alternative": [],
+            "description": "One of Pico's subordinates, her serious and intimidating right-hand man.\n\n~!He actually never truly cared about Planet and deeply loathes every player around him, seeing everybody, including Pico, as mere means to an end, his only true desire being to get his hands on the prize money offered for capturing the Black Bird.!~\n\n~!In real life, he seems to be a failed musician, living in a rented apartment, which he struggles to pay rent for in time.!~\n\n~!Following his encounter with the Black Bird, he becomes stuck in an endless simulation, dying over and over again.!~"
+          }
+        },
+        {
+          "id": 311497,
+          "name": "Pico",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311497-w2iUK5gSE17k.png",
+          "description": "",
+          "nicknames": [
+            "Pico",
+            "ピコ",
+            "Sakurai Hanako (桜井花子)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "悠木碧",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101686-PTd0lQZMsmcv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pico",
+            "name_native": "ピコ",
+            "name_alternative": [
+              "Sakurai Hanako (桜井花子)"
+            ],
+            "description": "Captain of the pirate guild in Planet. A very arrogant girl who enjoys acting on her whims and prioritizes having fun above all else, often griefing and generally being a nuisance in-game, with her crew consisting of likeminded people who play the game to mess with others. At times, she tends to casually make wordplays that integrate her name into random words.\n\nHer only weakness seems to be a hopeless infatuation with Ichi, as the two had bonded over their loneliness in the past and, impressed with his chuunibyou antics, she considered him the coolest player on Planet. She tends to daydream about what could happen if they met in real life, thinking she would be able to help Ichi recover from his life as a shut-in and even fix him in general.\n\n~!She was one of the AIs made by Kojirou in an attempt to bring back his daughter, and arguably one of the more elaborate ones, being able to swap out at will between Planet and a simulation of the real world, as if she were truly an ordinary human playing a videogame. Her mind is a perfect replica of a deceased girl by the name of Hanako.!~"
+          }
+        },
+        {
+          "id": 311498,
+          "name": "Leon",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311498-S4lnhOLmgLIn.png",
+          "description": "",
+          "nicknames": [
+            "Leon",
+            "レオン",
+            "Kikusaka Seishito (菊坂聖人)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "木村良平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Leon",
+            "name_native": "レオン",
+            "name_alternative": [
+              "Kikusaka Seishito (菊坂聖人)"
+            ],
+            "description": "Head of a trading guild in Planet. Although he tries to stay neutral and maintains that he is, he considers himself to be part of a very small group of Planet players that genuinely love the game, strongly believing that they are morally obliged to backseat moderate, sabotage and eliminate those who, in their view, spoil others' fun, such as Pico's pirates.\n\n~!In real life, he's a young schoolkid who never had friends before meeting Sasumata, which made him want to create a world where AIs get what they want, believing that they are alike.!~"
+          }
+        },
+        {
+          "id": 311499,
+          "name": "Hana Kamuro",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311499-a40LTqfm7w6R.png",
+          "description": "",
+          "nicknames": [
+            "Hana Kamuro",
+            "神室花"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋李依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hana Kamuro",
+            "name_native": "神室花",
+            "name_alternative": [],
+            "description": "Kojirou's right-hand woman, a calm and collected subordinate that sees him as an unquestionable genius. She possesses a very one-sided yet unwavering attraction to her boss, often offering her body to him, much to his ire."
+          }
+        },
+        {
+          "id": 311500,
+          "name": "Aya Arima",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b311500-DGzm4DSTd6K7.png",
+          "description": "",
+          "nicknames": [
+            "Aya Arima",
+            "有間綾"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "水瀬いのり",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106297-DUyxkSjS9pEK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aya Arima",
+            "name_native": "有間綾",
+            "name_alternative": [],
+            "description": "Kojirou's daughter and the youngest of the three siblings. Although she was a very sweet child who cared a lot about others, she was often the target of her father's wrath, as he considered her to be the most clumsy and irrational.\n\n~!After her father forced her to go back to school late at night to pick up a notebook that she forgot to take home, she would fall victim to a serial killer, prompting the family to break apart and traumatize her oldest brother.!~\n\n"
+          }
+        },
+        {
+          "id": 338559,
+          "name": "Nagato",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b338559-nr39CET9Pm9P.png",
+          "description": "",
+          "nicknames": [
+            "Nagato",
+            "長門"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nagato",
+            "name_native": "長門",
+            "name_alternative": [],
+            "description": "Nagato is a member of Pico's Pirates in the virtual world \"Planet\""
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 21818,
+      "anime_title": "",
+      "anime_origin": "CN",
+      "source": {
+        "id": 21818,
+        "titles": [
+          "Aishen Qiaokeli-ING...",
+          "爱神巧克力ING...",
+          "Aishen Qiaokeli Jinxingshi",
+          "God of Love's Chocolate",
+          "Cupid's Chocolates",
+          "爱神巧克力"
+        ],
+        "year": null,
+        "format": "ONA",
+        "countryOfOrigin": "CN",
+        "url": "https://anilist.co/anime/21818"
+      },
+      "characters": [
+        {
+          "id": 89945,
+          "name": "Haoyi Jiang",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89945-9ymTY2IktPJy.jpg",
+          "description": "",
+          "nicknames": [
+            "Haoyi Jiang",
+            "江浩一"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Haoyi Jiang",
+            "name_native": "江浩一",
+            "name_alternative": [],
+            "description": "Birthday: 6 January\n\n(Source: AniDB)"
+          }
+        },
+        {
+          "id": 89946,
+          "name": "Zitong Xia",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89946-cUJjenhGx5hz.jpg",
+          "description": "",
+          "nicknames": [
+            "Zitong Xia",
+            "夏紫瞳"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zitong Xia",
+            "name_native": "夏紫瞳",
+            "name_alternative": [],
+            "description": "Birthday: 10 July\n\n(Source: AniDB)"
+          }
+        },
+        {
+          "id": 89947,
+          "name": "Xuan Tang",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89947-hV9KV42yBbRu.jpg",
+          "description": "",
+          "nicknames": [
+            "Xuan Tang",
+            "唐萱"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Xuan Tang",
+            "name_native": "唐萱",
+            "name_alternative": [],
+            "description": "Birthday: 7 April\n\n(Source: AniDB)"
+          }
+        },
+        {
+          "id": 89948,
+          "name": "Yuan Lin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89948-5qQ1PIZ2Kej2.jpg",
+          "description": "",
+          "nicknames": [
+            "Yuan Lin",
+            "林渊"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuan Lin",
+            "name_native": "林渊",
+            "name_alternative": [],
+            "description": "Birthday: 12 September\n\n(Source: AniDB)"
+          }
+        },
+        {
+          "id": 89949,
+          "name": "Xueli Ouyang",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89949-euffmlHzMtvp.jpg",
+          "description": "",
+          "nicknames": [
+            "Xueli Ouyang",
+            "欧阳雪梨"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Xueli Ouyang",
+            "name_native": "欧阳雪梨",
+            "name_alternative": [],
+            "description": "Birthday: 22 November\n\n(Source: AniDB)\n\nShe is Haoyi's childhood friend. When they grew up together she saw Haoyi as a rival, but somewhere on the way it turned into something entirely different.\n\n~!It is later known that Xueli in fact didn't eat Cupid's Chocolate (she was not in the picture of those who ate Cupid's Chocolate), she has always loved Haoyi since they were little and that's why she came back for him.!~\n\n~!Xueli used to be your typical cute girl, but she changed drastically after her ex-boyfriend did something to her.!~\n\n(Source: MAL)"
+          }
+        },
+        {
+          "id": 89950,
+          "name": "Tata Mei",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/89950-xdUlQ2sV042R.jpg",
+          "description": "",
+          "nicknames": [
+            "Tata Mei",
+            "梅塔塔"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tata Mei",
+            "name_native": "梅塔塔",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 199066,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 199066,
+        "titles": [
+          "Hanaori-san wa Tensei Shite mo Kenka ga Shitai",
+          "Hanaori-san Still Wants to Fight in the Next Life",
+          "花織さんは転生しても喧嘩がしたい",
+          "Hanaori-san Wants to Have A Fight Even If She Reincarnates",
+          "คุณฮานาโอริ เกิดใหม่ครั้งนี้ก็ขอมีเรื่อง"
+        ],
+        "year": 2026,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/199066"
+      },
+      "characters": [
+        {
+          "id": 375493,
+          "name": "Meteor Hanaori",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b375493-m5zCtIr81Ge2.png",
+          "description": "",
+          "nicknames": [
+            "Meteor Hanaori",
+            "花織ミーティア"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "関根明良",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119155-DCKagRHcI95J.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Meteor Hanaori",
+            "name_native": "花織ミーティア",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 387720,
+          "name": "Ryuusei Narukami",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b387720-f1nbj2OPOj6M.png",
+          "description": "",
+          "nicknames": [
+            "Ryuusei Narukami",
+            "鳴神流星"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "福山潤",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ryuusei Narukami",
+            "name_native": "鳴神流星",
+            "name_alternative": [],
+            "description": "A shut-in NEET. He spends his days holed up at home, endlessly gaming… but in another world, he\nwas once the Demon King!"
+          }
+        },
+        {
+          "id": 394828,
+          "name": "Matsurika Nagamori",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394828-wuy2Et9XQ5JL.png",
+          "description": "",
+          "nicknames": [
+            "Matsurika Nagamori",
+            "永守茉莉花"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上田瞳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125306-Kq7WCcO2EwbG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Matsurika Nagamori",
+            "name_native": "永守茉莉花",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 394829,
+          "name": "Mako Satsuki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394829-d7wutrU307Or.png",
+          "description": "",
+          "nicknames": [
+            "Mako Satsuki",
+            "皐月まこ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "星希成奏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n172100-EChzkPCWdvL4.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mako Satsuki",
+            "name_native": "皐月まこ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 394830,
+          "name": "Mana Kuraishi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394830-Fn5kWGkzVeqx.png",
+          "description": "",
+          "nicknames": [
+            "Mana Kuraishi",
+            "倉石摩那"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "徳井青空",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106361-EMvWLkEKavEM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mana Kuraishi",
+            "name_native": "倉石摩那",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 394832,
+          "name": "Minto Takigawa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394832-h9vzcdu0hgGX.png",
+          "description": "",
+          "nicknames": [
+            "Minto Takigawa",
+            "多岐川眠兎"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "稗田寧々",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n163903-22LPSYo8TEYU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Minto Takigawa",
+            "name_native": "多岐川眠兎",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 394834,
+          "name": "Sakura Rokudou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394834-Yf92Ox5S5urJ.png",
+          "description": "",
+          "nicknames": [
+            "Sakura Rokudou",
+            "六道さくら"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日笠陽子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sakura Rokudou",
+            "name_native": "六道さくら",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 394836,
+          "name": "Ayame Takanashi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394836-grImkys6hlvq.png",
+          "description": "",
+          "nicknames": [
+            "Ayame Takanashi",
+            "小鳥遊綾姫"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋李依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ayame Takanashi",
+            "name_native": "小鳥遊綾姫",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 394838,
+          "name": "Eriko Asahina",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394838-vZTSQdUNcgy5.png",
+          "description": "",
+          "nicknames": [
+            "Eriko Asahina",
+            "朝比奈絵理子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "五十嵐裕美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104876-CF5LzglyzCXx.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eriko Asahina",
+            "name_native": "朝比奈絵理子",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 394840,
+          "name": "Moe Narukami",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b394840-XCdmxQRVXo8W.png",
+          "description": "",
+          "nicknames": [
+            "Moe Narukami",
+            "鳴神萌"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "伊藤彩沙",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118799-DWknGwlGYqRT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Moe Narukami",
+            "name_native": "鳴神萌",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 402365,
+          "name": "Meru Tsumugina",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b402365-WjG5fa4SwROn.png",
+          "description": "",
+          "nicknames": [
+            "Meru Tsumugina",
+            "紬奈愛琉"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内田真礼",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Meru Tsumugina",
+            "name_native": "紬奈愛琉",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 759,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 759,
+        "titles": [
+          "Tokyo Godfathers",
+          "東京ゴッドファーザーズ",
+          "Rodzice chrzestni z Tokio",
+          "Héroes al Rescate"
+        ],
+        "year": 2003,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/759"
+      },
+      "characters": [
+        {
+          "id": 1076,
+          "name": "Gin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1076-y90QA5WuLd5m.png",
+          "description": "",
+          "nicknames": [
+            "Gin",
+            "ギン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "江守徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/978.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Gin",
+            "name_native": "ギン",
+            "name_alternative": [],
+            "description": "An alcoholic that once made money by racing bicycles. When his daughter became ill, he threw a race to get the money for her medicine, but because of that got banned from the sport.   ~!... or so he says , in reality he owned a bike shop with his wife , he ran up a gambling debt and ran away from home leaving his wife with the shop and the baby who became a nurse!~   After that he started living on the streets with Hana and Miyuki."
+          }
+        },
+        {
+          "id": 1077,
+          "name": "Hana",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1077-lT7e7BvB8gZ3.png",
+          "description": "",
+          "nicknames": [
+            "Hana",
+            "ハナ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "梅垣義明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95977-U8Go1bFTexH9.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hana",
+            "name_native": "ハナ",
+            "name_alternative": [],
+            "description": "A homeless trans woman. She never knew her actual parents, and thus feels the most sympathy for \"Kiyoko\", the baby she finds and names. Because of her upbringing, she is the kindest out of the three main characters, but is also the sickliest, which she hides from the others."
+          }
+        },
+        {
+          "id": 1078,
+          "name": "Miyuki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b1078-APVnWbc5KLxm.png",
+          "description": "",
+          "nicknames": [
+            "Miyuki",
+            "ミユキ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岡本綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95979-YchO0L155SKo.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Miyuki",
+            "name_native": "ミユキ",
+            "name_alternative": [],
+            "description": "Miyuki's backstory deals with her fear of returning home. She is a runaway girl who leaves home because she hated her father's over-controlling ways. In the past, Miyuki was slightly overweight, but after 6 months on the streets, she has lost a substantial amount of weight.\n\nMiyuki considers herself to be a very independent young woman, however at her young age, she greatly relies on the support and safety that Hana and Gin provide for her in order to survive on the streets."
+          }
+        },
+        {
+          "id": 19439,
+          "name": "Kiyoko",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19439-rwRf3N55Y4a3.png",
+          "description": "",
+          "nicknames": [
+            "Kiyoko",
+            "清子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "こおろぎさとみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95470-xZYG14WGMlmS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kiyoko",
+            "name_native": "清子",
+            "name_alternative": [],
+            "description": "The little baby that Hana, Gin and Miyuki want to protect."
+          }
+        },
+        {
+          "id": 37561,
+          "name": "Sachiko",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37561-kbVVavLLztIE.png",
+          "description": "",
+          "nicknames": [
+            "Sachiko",
+            "幸子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "寺瀬今日子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104032-T2WQPMRn19IB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sachiko",
+            "name_native": "幸子",
+            "name_alternative": [],
+            "description": "~!The self-proclaimed mother of Kiyoko. When Kiyoko is abandoned by her father, Sachiko falls into despair and prepares to commit suicide before Kiyoko is returned to her. In a strange turn of events, it is revealed that Kiyoko is not Sachiko's biological daughter.  !~"
+          }
+        },
+        {
+          "id": 40859,
+          "name": "Gin no Musume",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b40859-OVsqR55wElhJ.png",
+          "description": "",
+          "nicknames": [
+            "Gin no Musume",
+            "ギンの娘",
+            "Kiyoko"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "能登麻美子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gin no Musume",
+            "name_native": "ギンの娘",
+            "name_alternative": [
+              "Kiyoko"
+            ],
+            "description": "~!Gin's daughter, a nurse. She is on the verge of being married to the Doctor by the time she is rediscovered by Gin.!~  (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 71537,
+          "name": "Akiko Takeguchi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71537-3IEzyq6QZPOZ.png",
+          "description": "",
+          "nicknames": [
+            "Akiko Takeguchi",
+            "竹口安芸子"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "伊藤和晃",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10677.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akiko Takeguchi",
+            "name_native": "竹口安芸子",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 71539,
+          "name": "Neko Baba",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71539-kXBOwjDxwBVv.png",
+          "description": "",
+          "nicknames": [
+            "Neko Baba",
+            "猫ババ",
+            "Cat Lady"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "柴田理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116061-eyaotd3iW66N.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Neko Baba",
+            "name_native": "猫ババ",
+            "name_alternative": [
+              "Cat Lady"
+            ],
+            "description": "A former neighbor of Sachiko, which holds in the old ruined house of her cats. The house they visited therefore very regularly to feed the local cats."
+          }
+        },
+        {
+          "id": 71541,
+          "name": "Isha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71541-RWoQGUwLyOUC.png",
+          "description": "",
+          "nicknames": [
+            "Isha",
+            "医者",
+            "Doctor"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大塚明夫",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95146-T6IEmqXW3xUN.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Isha",
+            "name_native": "医者",
+            "name_alternative": [
+              "Doctor"
+            ],
+            "description": "As a doctor, he is a very able man, and because he treats everyone the same patient, he makes on others always a nice impression. His life has not been easy, as both his wife and his child he lost. Of which he has not let it get in Kiyoko and has now found a new love with which he is engaged. He also has a physical disability affecting his right leg."
+          }
+        },
+        {
+          "id": 71543,
+          "name": "Miyuki no Chichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71543-GVlOhOgLOWDZ.png",
+          "description": "",
+          "nicknames": [
+            "Miyuki no Chichi",
+            "ミユキの父",
+            "Ishida",
+            "Miyuki's Father"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "屋良有作",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100770-UwcMoND5FIgC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miyuki no Chichi",
+            "name_native": "ミユキの父",
+            "name_alternative": [
+              "Ishida",
+              "Miyuki's Father"
+            ],
+            "description": "After an argument with his daughter, he is severely injured by her with a knife, which he survived but. She runs off and no longer has the courage to return home, even though her ​​father is not angry at her, and she would love to go back in its vicinity."
+          }
+        },
+        {
+          "id": 71545,
+          "name": "Kurumizawa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71545-MUuiQbh8BOHL.png",
+          "description": "",
+          "nicknames": [
+            "Kurumizawa",
+            "胡桃沢"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "犬山イヌコ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96024-z7W9WbvflI6S.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kurumizawa",
+            "name_native": "胡桃沢",
+            "name_alternative": [],
+            "description": "As Miyuki, Hana and Gin have reached a dead end in their search for Sachiko, Kurumizawa tried to grab the trio with information on the ground. It ends, however, so that they and their neighbors a little gossip about the couple."
+          }
+        },
+        {
+          "id": 71553,
+          "name": "Okaasan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71553-KyWCY6GUsyNL.png",
+          "description": "",
+          "nicknames": [
+            "Okaasan",
+            "母さん"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "加藤精三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96036-i2L5KwYbS8KR.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Okaasan",
+            "name_native": "母さん",
+            "name_alternative": [],
+            "description": "The proprietor of the gay bar Hana was formerly employed in."
+          }
+        },
+        {
+          "id": 71555,
+          "name": "Roujin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71555-W1sgYRimGh1U.png",
+          "description": "",
+          "nicknames": [
+            "Roujin",
+            "老人",
+            "Old Man"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "槐柳二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104012-rNnG1Cdo12bg.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Roujin",
+            "name_native": "老人",
+            "name_alternative": [
+              "Old Man"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 71557,
+          "name": "Oota",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71557-69cIno5PeZQ9.png",
+          "description": "",
+          "nicknames": [
+            "Oota",
+            "太田"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "飯塚昭三",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95726-SddF7dYKZshB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Oota",
+            "name_native": "太田",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 71559,
+          "name": "Taxi Untenshu",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71559-vE5rgrIeu0it.png",
+          "description": "",
+          "nicknames": [
+            "Taxi Untenshu",
+            "タクシー運転手",
+            "Taxi Driver"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山寺宏一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Taxi Untenshu",
+            "name_native": "タクシー運転手",
+            "name_alternative": [
+              "Taxi Driver"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 71561,
+          "name": "Yamanouchi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71561-jsArv7sAJh3a.png",
+          "description": "",
+          "nicknames": [
+            "Yamanouchi",
+            "山之内"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "矢原加奈子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n116063-bDvYWwTtQZ6T.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yamanouchi",
+            "name_native": "山之内",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 71565,
+          "name": "Yasuo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71565-rWD0FgH8CssK.png",
+          "description": "",
+          "nicknames": [
+            "Yasuo",
+            "泰男"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "石丸博也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95718-3ke4CyMs9um5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yasuo",
+            "name_native": "泰男",
+            "name_alternative": [],
+            "description": "Yasuo is Sachiko's husband, who has abandoned her and is currently in a dilapidated shack that can be aptly described as a dump, dwells. It all actually started very well, they loved each other, had a shared house and Sachiko was also pregnant. But then fell Yasuo gambling addiction, by which the marriage was suffering because he also took his wife's money in order to gamble on the tables. Even the alcohol he was not averse and when he was drunk again, it was no longer possible to talk reason with him."
+          }
+        },
+        {
+          "id": 71551,
+          "name": "Mitsuo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71551-LOcsMKADpgzD.png",
+          "description": "",
+          "nicknames": [
+            "Mitsuo",
+            "新郎"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小山力也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Mitsuo",
+            "name_native": "新郎",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 146625,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 146625,
+        "titles": [
+          "Engage Kiss",
+          "エンゲージ・キス",
+          "Project Engage",
+          "Клятвенный поцелуй"
+        ],
+        "year": 2022,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/146625"
+      },
+      "characters": [
+        {
+          "id": 268522,
+          "name": "Shuu Ogata",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268522-vBKz8MlZzIYR.png",
+          "description": "",
+          "nicknames": [
+            "Shuu Ogata",
+            "緒方シュウ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斉藤壮馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n113227-x0UXLNL6v08X.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shuu Ogata",
+            "name_native": "緒方シュウ",
+            "name_alternative": [],
+            "description": "**Height:** 179 cm\n\nThe protagonist who runs a small private military company. He is usually broke as he cannot handle finances well. He is an orphan, as the rest of his family is presumed to be dead after an incident prior to the events of the series."
+          }
+        },
+        {
+          "id": 268523,
+          "name": "Kisara",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268523-2hLDHb2pJ40S.png",
+          "description": "",
+          "nicknames": [
+            "Kisara",
+            "キサラ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "会沢紗弥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129326-LGj20gEbOAPX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kisara",
+            "name_native": "キサラ",
+            "name_alternative": [],
+            "description": "**Height:** 158 cm\n\nA young girl who goes to a high school in Bayron City. She is actually a demon girl who is hundreds of years old. She has the ability to eat the memories of people, including [Shuu](https://anilist.co/character/268522/Ogata-Shuu)."
+          }
+        },
+        {
+          "id": 268524,
+          "name": "Ayano Yuugiri",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268524-XejpzfaojYZ6.png",
+          "description": "",
+          "nicknames": [
+            "Ayano Yuugiri",
+            "夕桐アヤノ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "Lynn",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118806-2aFjOHv08Iwm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ayano Yuugiri",
+            "name_native": "夕桐アヤノ",
+            "name_alternative": [],
+            "description": "**Height:** 165 cm\n\n[Shuu Ogata's](https://anilist.co/character/268522/Ogata-Shuu) first ex-girlfriend. Although she and Shuu have broken up, she still has feelings for him. She is also [Akino's](https://anilist.co/character/278138/Yuugiri-Akino) daughter."
+          }
+        },
+        {
+          "id": 271925,
+          "name": "Sharon Holygrail",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b271925-wsPQZS5qEbZs.png",
+          "description": "",
+          "nicknames": [
+            "Sharon Holygrail",
+            "シャロン・ホーリーグレイル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大久保瑠美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107041-ZqPloXZhcuQw.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sharon Holygrail",
+            "name_native": "シャロン・ホーリーグレイル",
+            "name_alternative": [],
+            "description": "**Height:** 162 cm\n\n[Shuu Ogata's](https://anilist.co/character/268522/Ogata-Shuu) second ex-girlfriend, who dresses as a nun. She is actually an assassin and a part of an international organization tasked with fight against D-Hazards."
+          }
+        },
+        {
+          "id": 278138,
+          "name": "Akino Yuugiri",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278138-sIToMWokwPMu.jpg",
+          "description": "",
+          "nicknames": [
+            "Akino Yuugiri",
+            "夕桐アキノ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "渡辺明乃",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95094-nRPWBG1cVGo5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akino Yuugiri",
+            "name_native": "夕桐アキノ",
+            "name_alternative": [],
+            "description": "__Height:__ 169cm\n\n[Ayano](https://anilist.co/character/268524/Ayano-Yuugiri)'s mother"
+          }
+        },
+        {
+          "id": 278139,
+          "name": "Linhua Hachisuka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278139-Qb3LqNtHdEMZ.jpg",
+          "description": "",
+          "nicknames": [
+            "Linhua Hachisuka",
+            "蜂須賀凛花"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大西沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Linhua Hachisuka",
+            "name_native": "蜂須賀凛花",
+            "name_alternative": [],
+            "description": "The second-oldest daughter of Baylong City's mayor"
+          }
+        },
+        {
+          "id": 278140,
+          "name": "Shenhua Hachisuka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278140-pgrUhi7ULXsj.jpg",
+          "description": "",
+          "nicknames": [
+            "Shenhua Hachisuka",
+            "蜂須賀莎花"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内田彩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103921-bnSaJsF0jgH1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shenhua Hachisuka",
+            "name_native": "蜂須賀莎花",
+            "name_alternative": [],
+            "description": "The oldest daughter of Baylong City's mayor"
+          }
+        },
+        {
+          "id": 278183,
+          "name": "Mikhail Hachisuka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278183-UpGigR1zlmju.jpg",
+          "description": "",
+          "nicknames": [
+            "Mikhail Hachisuka",
+            "蜂須賀ミハイル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "逢坂良太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110743-k2SgQwU0JD33.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mikhail Hachisuka",
+            "name_native": "蜂須賀ミハイル",
+            "name_alternative": [],
+            "description": "__Height:__ 175cm\n\nThe son of Baylong City's mayor"
+          }
+        },
+        {
+          "id": 278184,
+          "name": "Miles Morgan",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278184-3Q5aPrid9q4K.jpg",
+          "description": "",
+          "nicknames": [
+            "Miles Morgan",
+            "マイルズ・モーガン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "松田健一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105273-asextl049B2s.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miles Morgan",
+            "name_native": "マイルズ・モーガン",
+            "name_alternative": [],
+            "description": "Height: 174cm\nA veteran of Baylong City Police's special crimes unit (the \"demon-eradicating unit\")\n"
+          }
+        },
+        {
+          "id": 278185,
+          "name": "Tetsuya Mikami",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b278185-I5DbXDD7RlfV.jpg",
+          "description": "",
+          "nicknames": [
+            "Tetsuya Mikami",
+            "三上テツヤ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "長谷川芳明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119855-B21adyPXI4PL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tetsuya Mikami",
+            "name_native": "三上テツヤ",
+            "name_alternative": [],
+            "description": "Height: 184cm\nA detective in Baylong City Police's special crimes unit (the \"demon-eradicating unit\")"
+          }
+        },
+        {
+          "id": 288123,
+          "name": "Kanna Ogata",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288123-mLl5F9raN38t.png",
+          "description": "",
+          "nicknames": [
+            "Kanna Ogata",
+            "緒方カンナ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "鬼頭明里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-Ls7ORfBejJEP.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kanna Ogata",
+            "name_native": "緒方カンナ",
+            "name_alternative": [],
+            "description": "__Height:__ 145 cm\n\n[Shuu Ogata](https://anilist.co/character/268522/Ogata-Shuu)'s sister. Half human and half demon. Disappeared due to the incident 12 years prior."
+          }
+        }
+      ]
+    }
+  ]
+}

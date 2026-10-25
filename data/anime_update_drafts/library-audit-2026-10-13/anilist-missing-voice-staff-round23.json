@@ -1,0 +1,6120 @@
+{
+  "fetchedAt": "2026-10-22T08:42:40.218Z",
+  "source": "AniList GraphQL Staff search",
+  "requestedNames": [
+    "阿杰",
+    "宝木中阳",
+    "边江",
+    "曹一茜",
+    "常蓉珊",
+    "陈瑀",
+    "陈张太康",
+    "褚珺",
+    "大昕",
+    "大雄",
+    "邓宥希",
+    "邓玉婷",
+    "叮当",
+    "高枫",
+    "谷江山",
+    "郭浩然",
+    "郭皓",
+    "郭盛",
+    "韩雨希",
+    "洪海天",
+    "黄进泽",
+    "黄翔宇",
+    "黄怡晴",
+    "黄莺",
+    "金弦",
+    "黎筱濛",
+    "李蝉妃",
+    "李佳思",
+    "李璐",
+    "李盟",
+    "李轻扬",
+    "李诗萌",
+    "李元韬",
+    "梁达伟",
+    "梁颖",
+    "凌振赫",
+    "刘北辰",
+    "刘琮",
+    "刘红韵",
+    "刘钦",
+    "刘思岑",
+    "马斑马",
+    "马正阳",
+    "孟祥龙",
+    "钱琛",
+    "钱文青",
+    "阮从青",
+    "山新",
+    "沈达威",
+    "沈念如",
+    "史泽鲲",
+    "苏尚卿",
+    "孙路路",
+    "唐小喜",
+    "陶典",
+    "藤新",
+    "佟心竹",
+    "图特哈蒙",
+    "王婧儿",
+    "王潇倩",
+    "吴磊",
+    "小连杀",
+    "笑谈",
+    "谢添天",
+    "谢莹",
+    "星潮",
+    "徐翔",
+    "宴宁",
+    "杨凯祺",
+    "杨天翔",
+    "姚雷",
+    "音匣老鬼",
+    "云鹤追",
+    "暂未收录",
+    "张福正",
+    "张惠霖",
+    "张坤",
+    "张欣",
+    "张媛媛",
+    "张振",
+    "赵铭洲",
+    "赵娜",
+    "赵乾景",
+    "赵爽",
+    "赵毅",
+    "赵熠彤",
+    "朱雀橙",
+    "祖晴",
+    "C小调"
+  ],
+  "staffByName": {
+    "阿杰": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "宝木中阳": [
+      {
+        "id": 175031,
+        "name": {
+          "full": "Zhongyang Baomu",
+          "native": "宝木中阳",
+          "alternative": [
+            "Song Ming (宋明)",
+            "Baomu (宝木)",
+            "寶木中陽",
+            "POMME"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n175031-zsl22ZzSAJiY.png"
+        }
+      }
+    ],
+    "边江": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "曹一茜": [
+      {
+        "id": 222223,
+        "name": {
+          "full": "Yixi Cao",
+          "native": "曹一茜",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+        }
+      }
+    ],
+    "常蓉珊": [
+      {
+        "id": 217500,
+        "name": {
+          "full": "Rongshan Chang",
+          "native": "常蓉珊",
+          "alternative": [
+            "TK菌",
+            "和山",
+            "TK"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n217500-YjTB0BftT331.png"
+        }
+      }
+    ],
+    "陈瑀": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "陈张太康": [
+      {
+        "id": 188395,
+        "name": {
+          "full": "Taikang Chenzhang",
+          "native": "陈张太康",
+          "alternative": [
+            "泽西锅",
+            "星河",
+            "天悬星河"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188395-LCag2XjBhygE.png"
+        }
+      }
+    ],
+    "褚珺": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "大昕": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "大雄": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "邓宥希": [
+      {
+        "id": 229159,
+        "name": {
+          "full": "Youxi Deng",
+          "native": "邓宥希",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n229159-pcbBixGkXtzV.jpg"
+        }
+      }
+    ],
+    "邓玉婷": [
+      {
+        "id": 217581,
+        "name": {
+          "full": "Yuting Deng",
+          "native": "邓玉婷",
+          "alternative": [
+            "邓淑文 (Shuwen Deng)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n217581-POv0pxkChSuP.png"
+        }
+      }
+    ],
+    "叮当": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "高枫": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "谷江山": [
+      {
+        "id": 188394,
+        "name": {
+          "full": "Jiangshan Gu",
+          "native": "谷江山",
+          "alternative": [
+            "山爹"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188394-P1E3bsZsRUH7.png"
+        }
+      }
+    ],
+    "郭浩然": [
+      {
+        "id": 188390,
+        "name": {
+          "full": "Haoran Guo",
+          "native": "郭浩然",
+          "alternative": [
+            "小郭老师"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188390-UG7QLroWFFjx.png"
+        }
+      }
+    ],
+    "郭皓": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "郭盛": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "韩雨希": [
+      {
+        "id": 188525,
+        "name": {
+          "full": "Yuxi Han",
+          "native": "韩雨希",
+          "alternative": [
+            "幻化作风"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188525-FfcRYfOpnYD3.png"
+        }
+      }
+    ],
+    "洪海天": [
+      {
+        "id": 217492,
+        "name": {
+          "full": "Haitian Hong",
+          "native": "洪海天",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n217492-1CBGupkkpyLW.png"
+        }
+      }
+    ],
+    "黄进泽": [
+      {
+        "id": 232745,
+        "name": {
+          "full": "Jinze Huang",
+          "native": "黄进泽",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n232745-TRiGO2AwJDx5.jpg"
+        }
+      }
+    ],
+    "黄翔宇": [
+      {
+        "id": 232746,
+        "name": {
+          "full": "Xiangyu Huang",
+          "native": "黄翔宇",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n232746-Mc0FkuTCHNwS.png"
+        }
+      }
+    ],
+    "黄怡晴": [
+      {
+        "id": 232873,
+        "name": {
+          "full": "Yiqing Huang",
+          "native": "黄怡晴",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+        }
+      }
+    ],
+    "黄莺": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "金弦": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "黎筱濛": [
+      {
+        "id": 217498,
+        "name": {
+          "full": "Huizhang Sidao",
+          "native": "四刀辉彰",
+          "alternative": [
+            "黎筱濛 (Li Xiaomeng)",
+            "蒙蒙",
+            "蒙莓",
+            "黎小萌",
+            "黎筱蒙"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n217498-6YQovwiM87e1.png"
+        }
+      }
+    ],
+    "李蝉妃": [
+      {
+        "id": 180729,
+        "name": {
+          "full": "Chanfei Li",
+          "native": "李蝉妃",
+          "alternative": [
+            "李婵妃"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n180729-naeQHsl4hBrD.png"
+        }
+      }
+    ],
+    "李佳思": [
+      {
+        "id": 377296,
+        "name": {
+          "full": "Sijia Li",
+          "native": "李思佳",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+        }
+      },
+      {
+        "id": 285450,
+        "name": {
+          "full": "Jiasi Li",
+          "native": "李佳思",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n285450-ZnV8FnKxnElf.png"
+        }
+      }
+    ],
+    "李璐": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "李盟": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "李轻扬": [
+      {
+        "id": 220999,
+        "name": {
+          "full": "Qingyang Li",
+          "native": "李轻扬",
+          "alternative": [
+            "轻扬"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n220999-V1pMgQm28Iwo.png"
+        }
+      }
+    ],
+    "李诗萌": [
+      {
+        "id": 164997,
+        "name": {
+          "full": "Shimeng Li",
+          "native": "李诗萌",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164997-n8nBhdTNuA1l.png"
+        }
+      }
+    ],
+    "李元韬": [
+      {
+        "id": 188524,
+        "name": {
+          "full": "Yuantao Li",
+          "native": "李元韬",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188524-ZLnNeeIj9yG6.png"
+        }
+      }
+    ],
+    "梁达伟": [
+      {
+        "id": 188475,
+        "name": {
+          "full": "Dawei Liang",
+          "native": "梁达伟",
+          "alternative": [
+            "万小鳖 (Xiaobie Wan)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188475-NIruozZAMfFI.png"
+        }
+      }
+    ],
+    "梁颖": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "凌振赫": [
+      {
+        "id": 218634,
+        "name": {
+          "full": "Zhenhe Ling",
+          "native": "凌振赫",
+          "alternative": [
+            "凌云"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n218634-BWDFR0HgKU5Q.png"
+        }
+      }
+    ],
+    "刘北辰": [
+      {
+        "id": 217458,
+        "name": {
+          "full": "Beichen Liu",
+          "native": "刘北辰",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n217458-kbcccFl4lLQ8.png"
+        }
+      }
+    ],
+    "刘琮": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "刘红韵": [
+      {
+        "id": 217584,
+        "name": {
+          "full": "Hongyun Liu",
+          "native": "刘红韵",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n217584-pklnos2RV1cK.png"
+        }
+      }
+    ],
+    "刘钦": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "刘思岑": [
+      {
+        "id": 208805,
+        "name": {
+          "full": "Sicen Liu",
+          "native": "刘思岑",
+          "alternative": [
+            "Liu Kang (刘康)",
+            "落雨"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n208805-aFmYLLpViswh.png"
+        }
+      }
+    ],
+    "马斑马": [
+      {
+        "id": 188437,
+        "name": {
+          "full": "Banma Ma",
+          "native": "马斑马",
+          "alternative": [
+            "斑马 (Banma). 马海峰 (Haifeng Ma)",
+            "Raistlin"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188437-qCDEYZVGaUso.png"
+        }
+      }
+    ],
+    "马正阳": [
+      {
+        "id": 188297,
+        "name": {
+          "full": "Zhengyang Ma",
+          "native": "马正阳",
+          "alternative": [
+            "Naoki煦"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188297-McORfiFI9CYk.png"
+        }
+      }
+    ],
+    "孟祥龙": [
+      {
+        "id": 188522,
+        "name": {
+          "full": "Xianglong Meng",
+          "native": "孟祥龙",
+          "alternative": [
+            "大龙"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188522-3TivdEY1wvWf.png"
+        }
+      }
+    ],
+    "钱琛": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "钱文青": [
+      {
+        "id": 188371,
+        "name": {
+          "full": "Wenqing Qian",
+          "native": "钱文青",
+          "alternative": [
+            "钱文清",
+            "拾弎幺",
+            "幺哥"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188371-xeZFhvrzbPOL.png"
+        }
+      }
+    ],
+    "阮从青": [
+      {
+        "id": 284951,
+        "name": {
+          "full": "Congqing Ruan",
+          "native": "阮从青",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n284951-fTH77AxyvVEL.png"
+        }
+      }
+    ],
+    "山新": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "沈达威": [
+      {
+        "id": 188417,
+        "name": {
+          "full": "Dawei Shen",
+          "native": "沈达威",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188417-9B0Xz1Cnoe6B.png"
+        }
+      }
+    ],
+    "沈念如": [
+      {
+        "id": 188833,
+        "name": {
+          "full": "Nianru Shen",
+          "native": "沈念如",
+          "alternative": [
+            "沈欣如 (Xinru Shen)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188833-KRGse7SWvLJx.png"
+        }
+      }
+    ],
+    "史泽鲲": [
+      {
+        "id": 225021,
+        "name": {
+          "full": "Zekun Shi",
+          "native": "史泽鲲",
+          "alternative": [
+            "大鲲",
+            "大鲲儿"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n225021-k5BYCAN4cIOd.png"
+        }
+      }
+    ],
+    "苏尚卿": [
+      {
+        "id": 164993,
+        "name": {
+          "full": "Shangqing Su",
+          "native": "苏尚卿",
+          "alternative": [
+            "西呱双"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n164993-cN3KkpGgtz6O.png"
+        }
+      }
+    ],
+    "孙路路": [
+      {
+        "id": 165004,
+        "name": {
+          "full": "Lulu Sun",
+          "native": "孙路路",
+          "alternative": [
+            "路路"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165004-igGFMayFxQ0r.png"
+        }
+      }
+    ],
+    "唐小喜": [
+      {
+        "id": 188440,
+        "name": {
+          "full": "Xiaoxi Tang",
+          "native": "唐小喜",
+          "alternative": [
+            "唐静 (Jing Tang)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188440-2Ep61ywmDH1d.png"
+        }
+      }
+    ],
+    "陶典": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "藤新": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "佟心竹": [
+      {
+        "id": 174197,
+        "name": {
+          "full": "Xinzhu Tong",
+          "native": "佟心竹",
+          "alternative": [
+            "Olivia Tong",
+            "c Minor (c小调)",
+            "c Xiaotiao",
+            "调姐",
+            "竹竹"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n174197-DHEHKCvz0eUo.png"
+        }
+      }
+    ],
+    "图特哈蒙": [
+      {
+        "id": 163272,
+        "name": {
+          "full": "Hameng Tute",
+          "native": "图特哈蒙",
+          "alternative": [
+            "冯盛"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n163272-zMPUL6ULEbrP.png"
+        }
+      }
+    ],
+    "王婧儿": [
+      {
+        "id": 268293,
+        "name": {
+          "full": "Jinger Wang",
+          "native": "王婧儿",
+          "alternative": [
+            "王婧"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n268293-ZKSNsVFHR1ao.png"
+        }
+      }
+    ],
+    "王潇倩": [
+      {
+        "id": 226164,
+        "name": {
+          "full": "Xiaoqian Wang",
+          "native": "王潇倩",
+          "alternative": [
+            "王小饼",
+            "饼哥"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n226164-HrdMsBzkGhiQ.png"
+        }
+      }
+    ],
+    "吴磊": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "小连杀": [
+      {
+        "id": 188464,
+        "name": {
+          "full": "Sha Xiaolian",
+          "native": "小连杀",
+          "alternative": [
+            "徐静 (Jing Xu)",
+            "连殺 (Sha Lian)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188464-Vd5KhPVv8gYJ.png"
+        }
+      }
+    ],
+    "笑谈": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "谢添天": [
+      {
+        "id": 219659,
+        "name": {
+          "full": "Tiantian Xie",
+          "native": "谢添天",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n219659-NBA5z0uws2LL.png"
+        }
+      }
+    ],
+    "谢莹": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "星潮": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "徐翔": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "宴宁": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "杨凯祺": [
+      {
+        "id": 281573,
+        "name": {
+          "full": "Kaiqi Yang",
+          "native": "杨凯琪",
+          "alternative": [
+            "Feng Ming (枫茗)",
+            "杨凯棋",
+            "杨凯祺"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n281573-bez19KhVvBMB.jpg"
+        }
+      }
+    ],
+    "杨天翔": [
+      {
+        "id": 188400,
+        "name": {
+          "full": "Tianxiang Yang",
+          "native": "杨天翔",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188400-JwoRMFHdJfKc.png"
+        }
+      }
+    ],
+    "姚雷": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "音匣老鬼": [
+      {
+        "id": 165006,
+        "name": {
+          "full": "Shuai Guan",
+          "native": "关帅",
+          "alternative": [
+            "音匣老鬼 (Laogui Yinxia)",
+            "音匣 (Yin Xia)",
+            "老鬼 (Gui Lao)",
+            "鬼叔",
+            "鬼哥"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165006-EP544DIfkZkh.png"
+        }
+      }
+    ],
+    "云鹤追": [
+      {
+        "id": 217729,
+        "name": {
+          "full": "Hedui Yun",
+          "native": "云鹤追",
+          "alternative": [
+            "朱祎 (Yi Zhu)",
+            "饭卡小追",
+            "阿追"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n217729-93NB9qt0sU2I.png"
+        }
+      }
+    ],
+    "暂未收录": [],
+    "张福正": [
+      {
+        "id": 188448,
+        "name": {
+          "full": "Fuzheng Zhang",
+          "native": "张福正",
+          "alternative": [
+            "歪歪 (Waiwai)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n188448-82ladthjFyCN.png"
+        }
+      }
+    ],
+    "张惠霖": [
+      {
+        "id": 231082,
+        "name": {
+          "full": "Huilin Zhang",
+          "native": "张惠霖",
+          "alternative": [
+            "张慧霖"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n231082-SBR6kXy0N5Xv.png"
+        }
+      }
+    ],
+    "张坤": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "张欣": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "张媛媛": [
+      {
+        "id": 188939,
+        "name": {
+          "full": "Yuanyuan Zhang",
+          "native": "张媛媛",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+        }
+      }
+    ],
+    "张振": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "赵铭洲": [
+      {
+        "id": 218581,
+        "name": {
+          "full": "Mingzhou Zhao",
+          "native": "赵铭洲",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n218581-6mZmeA02GwwS.png"
+        }
+      }
+    ],
+    "赵娜": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "赵乾景": [
+      {
+        "id": 180733,
+        "name": {
+          "full": "Qianjing Zhao",
+          "native": "赵乾景",
+          "alternative": [
+            "赵哥"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n180733-QMS2qqgm11sZ.png"
+        }
+      }
+    ],
+    "赵爽": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "赵毅": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "赵熠彤": [
+      {
+        "id": 165001,
+        "name": {
+          "full": "Yitong Zhao",
+          "native": "赵熠彤",
+          "alternative": [
+            "熠彤",
+            "彤姐"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n165001-cttEtyASiE7D.png"
+        }
+      }
+    ],
+    "朱雀橙": [
+      {
+        "id": 221878,
+        "name": {
+          "full": "Quecheng Zhu",
+          "native": "朱雀橙",
+          "alternative": [
+            "申秋香 (Qiuxiang Shen)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n221878-hGfI8V3N20ZJ.png"
+        }
+      }
+    ],
+    "祖晴": [
+      {
+        "id": 95118,
+        "name": {
+          "full": "Hiroshi Kamiya",
+          "native": "神谷浩史",
+          "alternative": [
+            "HiroC (ヒロC)",
+            "Kousuke Kanda (神田浩介)",
+            "Kamiyan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png"
+        }
+      },
+      {
+        "id": 95591,
+        "name": {
+          "full": "Kenjirou Tsuda",
+          "native": "津田健次郎",
+          "alternative": [
+            "TsudaKen",
+            "Kenbou",
+            "Kenjiro Tsuda"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+        }
+      },
+      {
+        "id": 95869,
+        "name": {
+          "full": "Saori Hayami",
+          "native": "早見沙織",
+          "alternative": [
+            "Saori Matsuo (松尾沙織)",
+            "Hayamin (はやみん)",
+            "Misao (みさお)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png"
+        }
+      },
+      {
+        "id": 95065,
+        "name": {
+          "full": "Mamoru Miyano",
+          "native": "宮野真守",
+          "alternative": [
+            "Mamo (マモ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png"
+        }
+      },
+      {
+        "id": 95185,
+        "name": {
+          "full": "Kana Hanazawa",
+          "native": "花澤香菜",
+          "alternative": [
+            "KanaHana",
+            "HanaKana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png"
+        }
+      },
+      {
+        "id": 95672,
+        "name": {
+          "full": "Yuuki Kaji",
+          "native": "梶裕貴",
+          "alternative": [
+            "Yuki Kaji",
+            "Yuu-tan (ゆうたん)",
+            "Kaji-kyun (梶きゅん)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png"
+        }
+      },
+      {
+        "id": 119331,
+        "name": {
+          "full": "Rie Takahashi",
+          "native": "高橋李依",
+          "alternative": [
+            "Riery",
+            "Rieri",
+            "りえりー"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119331-5dPuMCxu4RWf.jpg"
+        }
+      },
+      {
+        "id": 97619,
+        "name": {
+          "full": "Hirohiko Araki",
+          "native": "荒木飛呂彦",
+          "alternative": [
+            "Toshiyuki Araki (荒木利之)",
+            "아라키 히로히코"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n97619-IWURoFca9uNY.jpg"
+        }
+      },
+      {
+        "id": 119917,
+        "name": {
+          "full": "Tatsuki Fujimoto",
+          "native": "藤本タツキ",
+          "alternative": [
+            "Nagato wa Ore (長門は俺)",
+            "Koharu Nagayama (ながやまこはる)",
+            "후지모토 타츠키"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119917-xrVbuHyr6y1I.jpg"
+        }
+      },
+      {
+        "id": 96881,
+        "name": {
+          "full": "Eiichirou Oda",
+          "native": "尾田栄一郎",
+          "alternative": [
+            "Tsukihimizu Kikondou (月火水木金土)",
+            "Odacchi (オダッチ)",
+            "Ei-chan (栄ちゃん)",
+            "오다 에이치로"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96881-Cyv6wFJxpDw7.png"
+        }
+      }
+    ],
+    "C小调": [
+      {
+        "id": 174197,
+        "name": {
+          "full": "Xinzhu Tong",
+          "native": "佟心竹",
+          "alternative": [
+            "Olivia Tong",
+            "c Minor (c小调)",
+            "c Xiaotiao",
+            "调姐",
+            "竹竹"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n174197-DHEHKCvz0eUo.png"
+        }
+      }
+    ]
+  }
+}

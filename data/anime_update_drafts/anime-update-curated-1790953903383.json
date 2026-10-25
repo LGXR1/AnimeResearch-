@@ -1,0 +1,725 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T14:34:57.682Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 151639,
+      "anime_title": "忍者神威",
+      "anime_origin": "JP",
+      "source": {
+        "id": 151639,
+        "titles": [
+          "Ninja Kamui"
+        ],
+        "year": 2024,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/151639"
+      },
+      "characters": [
+        {
+          "id": 326717,
+          "name": "日向",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326717-zTlF70a4TrFl.png",
+          "description": "日向曾以乔·洛根的名字隐居生活，实际是一名离开忍者组织的高手。组织派人杀害他的妻子玛丽和儿子连后，他重新踏上复仇之路，并在行动中遇见调查案件的FBI探员艾玛·萨曼达与迈克·莫里斯。日向精通忍术和近身格斗，也使用高科技战斗装备，在追查真相时逐步揭开忍者组织与大型企业之间的勾连。",
+          "nicknames": [
+            "日向",
+            "Higan",
+            "Joe Logan",
+            "日向忍者",
+            "乔·洛根"
+          ],
+          "traits": [
+            "本名曾使用乔·洛根",
+            "出身忍者组织",
+            "离开组织后隐姓埋名生活",
+            "妻子和儿子遭组织杀害",
+            "为家人复仇而重新投入战斗",
+            "精通忍术和近身格斗",
+            "使用高科技忍者战斗装备",
+            "与艾玛·萨曼达和迈克·莫里斯合作",
+            "由津田健次郎配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Higan",
+            "name_native": "",
+            "name_alternative": [
+              "Joe Logan"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 326719,
+          "name": "艾玛·萨曼达",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326719-vtzorxOd8yWB.png",
+          "description": "艾玛·萨曼达是FBI探员，负责调查乔·洛根家人及同伴遇害的案件，并与资深探员迈克·莫里斯搭档。调查过程中，她发现案件牵涉隐秘的忍者组织和高科技企业，于是与日向合作追查背后的势力。艾玛擅长整理情报、分析线索，在危险行动中仍坚持推进调查。她的视角把忍者复仇故事与联邦执法调查连接起来。",
+          "nicknames": [
+            "艾玛·萨曼达",
+            "Emma Samanda",
+            "艾玛"
+          ],
+          "traits": [
+            "FBI探员",
+            "调查乔·洛根家人的遇害事件",
+            "与迈克·莫里斯搭档办案",
+            "负责分析忍者相关犯罪线索",
+            "具有调查和情报整理能力",
+            "逐渐成为日向的协助者",
+            "面对高危行动仍坚持追查",
+            "由若井友希配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "若井友希",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n122697-kpKnvR4VXxmB.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Emma Samanda",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Emma is an FBI agent investigating the deaths of [Joe](https://anilist.co/character/326717/Higan)'s family and partners with [Moriss](https://anilist.co/character/326720/Moriss-Mike)."
+          }
+        },
+        {
+          "id": 326720,
+          "name": "迈克·莫里斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326720-mTSlTrEVbUqS.png",
+          "description": "迈克·莫里斯是FBI特别探员，参与调查乔·洛根一家遇害案，并与艾玛·萨曼达共同追查线索。他拥有丰富的联邦调查经验，熟悉刑事案件处理程序，能从现场和证据中判断案件走向。随着调查深入，迈克逐渐确认事件与忍者组织及企业势力有关，仍选择支持艾玛继续行动。他是警方调查线中经验丰富的搭档。",
+          "nicknames": [
+            "迈克·莫里斯",
+            "Mike Moriss",
+            "迈克"
+          ],
+          "traits": [
+            "FBI特别探员",
+            "参与调查洛根一家遇害案",
+            "是艾玛·萨曼达的搭档",
+            "拥有多年联邦调查经验",
+            "熟悉刑事案件和执法程序",
+            "会为年轻同事提供判断建议",
+            "协助追查忍者组织活动",
+            "由斧笃配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "斧アツシ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100491-6xlkDMFJdADo.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mike Moriss",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "FBI Special Agent."
+          }
+        },
+        {
+          "id": 326723,
+          "name": "玛丽",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326723-dcARloOJ8TXr.png",
+          "description": "玛丽是日向的妻子，曾与丈夫和儿子连一起过着隐姓埋名的生活。忍者组织最终追踪到他们的住处，并杀害玛丽与连，这场悲剧成为日向重新拿起武器、追查组织真相的直接原因。玛丽主要出现在日向的回忆中，她与家人平静生活的片段和遇害事件形成强烈对照，也说明日向为何不再接受逃避。",
+          "nicknames": [
+            "玛丽",
+            "Mari",
+            "Sara Logan",
+            "日向玛丽",
+            "日向的妻子"
+          ],
+          "traits": [
+            "日向的妻子",
+            "曾与儿子连共同生活",
+            "和日向一起隐姓埋名",
+            "家庭受到忍者组织追杀",
+            "与儿子连一同遇害",
+            "她的死推动日向展开复仇",
+            "出现在日向的回忆中",
+            "由日野由利加配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "日野由利加",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102001-T8ryqiXT5Na8.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mari",
+            "name_native": "",
+            "name_alternative": [
+              "Sara Logan"
+            ],
+            "description": "Wife of [Higan](https://anilist.co/character/326717) and mother of [Ren](https://anilist.co/character/326724)."
+          }
+        },
+        {
+          "id": 326724,
+          "name": "连",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b326724-2Iq0PVZyNHbJ.png",
+          "description": "连是日向与玛丽的儿子，年纪尚小时便与父母一起隐居生活。忍者组织发现他们的身份后，连和母亲在袭击中遇害，日向也因此失去继续远离过去的理由。连的死亡是故事开端的重要悲剧，让日向踏上追查组织和报仇的道路。他主要出现在父亲的回忆里，代表日向曾努力守护的普通家庭生活。",
+          "nicknames": [
+            "连",
+            "Ren",
+            "Kyle Logan",
+            "日向连",
+            "日向的儿子"
+          ],
+          "traits": [
+            "日向与玛丽的儿子",
+            "曾与父母隐居生活",
+            "年纪尚小",
+            "家庭被忍者组织发现",
+            "与母亲玛丽一同遇害",
+            "他的死亡成为父亲复仇的起点",
+            "出现在日向的回忆中",
+            "由木村新汰配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "木村新汰",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n326725-navE820ZsSka.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ren",
+            "name_native": "",
+            "name_alternative": [
+              "Kyle Logan"
+            ],
+            "description": "Son of [Higan](https://anilist.co/character/326717) and [Mari](https://anilist.co/character/326723)."
+          }
+        },
+        {
+          "id": 327163,
+          "name": "约瑟夫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327163-yXjUvmsn0OAb.png",
+          "description": "约瑟夫是大型企业AUZA的重要人物，与忍者组织之间存在合作关系。他推动企业技术与忍者行动结合，利用先进装备强化组织成员的战斗能力，并试图扩大AUZA对社会秩序的控制。日向调查家人遇害案时逐渐接近约瑟夫所代表的企业势力，发现私人复仇背后还有更大的计划。约瑟夫连接了商业权力、科技发展与地下忍者活动。",
+          "nicknames": [
+            "约瑟夫",
+            "Joseph",
+            "约瑟夫·巴克利"
+          ],
+          "traits": [
+            "大型企业AUZA的高层人物",
+            "与忍者组织合作",
+            "推动企业与忍者势力结合",
+            "把高科技用于强化忍者战斗",
+            "追求扩大AUZA的控制力",
+            "成为日向追查的关键对象",
+            "与企业阴谋线相关",
+            "由橘龙丸配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "橘龍丸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n137436-Nm5rgzlEknqg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Joseph",
+            "name_native": "",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327167,
+          "name": "斋",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327167-Ary1Qu1tlhM1.png",
+          "description": "斋曾与日向同属忍者组织，是日向过去认识的同伴。日向离开组织并为家人复仇后，斋奉命追击他，两人从旧日关系走向正面对抗。斋拥有精锐忍者的战斗能力，执行任务时受到组织命令约束；他与日向之间既有立场冲突，也有共同经历留下的复杂情绪。斋的行动体现忍者组织对叛离者的严厉追捕。",
+          "nicknames": [
+            "斋",
+            "Zai",
+            "斋忍者",
+            "日向的旧友"
+          ],
+          "traits": [
+            "曾与日向同属忍者组织",
+            "是日向过去认识的同伴",
+            "奉组织命令追击日向",
+            "拥有精锐忍者战斗能力",
+            "对组织和昔日友情存在冲突",
+            "参与忍者内部追杀行动",
+            "成为日向的重要对手",
+            "由中村悠一配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "中村悠一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zai",
+            "name_native": "",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 327168,
+          "name": "埃迪·里德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327168-1AgK3nUegENr.png",
+          "description": "埃迪·里德是FBI分局主管，过去曾与迈克·莫里斯搭档办案。作为管理者，他掌握联邦调查部门的行动安排和案件信息，也参与艾玛、迈克追查洛根家人遇害案的调查。埃迪与一线探员之间既有上下级关系，也有旧日同事的联系；他代表FBI内部的管理视角，负责在调查推进和部门资源之间作出协调。",
+          "nicknames": [
+            "埃迪·里德",
+            "Eddie Read",
+            "Branch Manager",
+            "Branch Director",
+            "埃迪",
+            "里德局长"
+          ],
+          "traits": [
+            "FBI分局主管",
+            "曾是迈克·莫里斯的搭档",
+            "负责联邦调查工作的管理",
+            "掌握案件与部门行动信息",
+            "与艾玛和迈克的调查相关",
+            "在组织内部承担上级职责",
+            "参与追查洛根家人遇害案",
+            "由高濑右光配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "高瀬右光",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95469-45R6crXZ0gVN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eddie Read",
+            "name_native": "",
+            "name_alternative": [
+              "Branch Manager",
+              "Branch Director"
+            ],
+            "description": "FBI Branch Director. Formerly Mike Moriss's partner."
+          }
+        },
+        {
+          "id": 327169,
+          "name": "山路",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b327169-gaIRQLCeta8h.png",
+          "description": "山路是忍者组织的领导者，掌握成员和行动资源，负责维持组织长期运作。他下令追捕离开组织的日向，并与AUZA企业势力合作，把忍者力量纳入更大的计划。日向调查家人遇害真相时，山路逐渐成为复仇行动的核心目标之一。作为组织首领，他以纪律和权威控制部下，也代表忍者传统与现代企业利益结合后的黑暗秩序。",
+          "nicknames": [
+            "山路",
+            "Yamaji",
+            "Master Yamaji",
+            "山路首领",
+            "忍者组织首领"
+          ],
+          "traits": [
+            "忍者组织的领导者",
+            "掌握组织成员与行动资源",
+            "下令追捕离开的忍者",
+            "与AUZA企业势力存在合作",
+            "追求维持组织的隐秘秩序",
+            "是日向复仇行动的核心目标之一",
+            "在忍者内部拥有绝对权威",
+            "由山路和弘配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "山路和弘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101755-LsVbHCwg6Pel.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yamaji",
+            "name_native": "",
+            "name_alternative": [
+              "Master Yamaji"
+            ],
+            "description": ""
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 10080,
+      "anime_title": "只有神知道的世界II",
+      "anime_origin": "JP",
+      "source": {
+        "id": 10080,
+        "titles": [
+          "Kami nomi zo Shiru Sekai II",
+          "The World God Only Knows II",
+          "神のみぞ知るセカイⅡ",
+          "Kami nomi zo Shiru Sekai 2",
+          "Kaminomi II",
+          "The World God Only Knows 2",
+          "Que sa volonté soit faite II"
+        ],
+        "year": 2011,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/10080"
+      },
+      "characters": [
+        {
+          "id": 14015,
+          "name": "艾露西亚·德·鲁特·伊玛",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14015-7M804nDcgMd6.png",
+          "description": "艾露西亚·德·鲁特·伊玛，昵称艾露西，是受命来到人间捕捉逃逸驱魂的恶魔猎人。她与桂木桂马签订协助契约，借助桂马攻略现实女孩的方式让躲藏在心中的驱魂现身。艾露西在人间就读舞岛学园二年B班，也经常负责桂木家的清扫等家务。她工作热情，却常因笨拙和缺乏现实经验闹出状况，是桂马行动中的重要搭档。",
+          "nicknames": [
+            "艾露西亚·德·鲁特·伊玛",
+            "Elucia de Lute Ima",
+            "エリュシア・デ・ルート・イーマ",
+            "Elsie (エルシィ)",
+            "艾露西",
+            "Elsie"
+          ],
+          "traits": [
+            "昵称是艾露西",
+            "身份是恶魔猎人",
+            "受命捕捉逃逸的驱魂",
+            "在人间使用高中女生身份",
+            "与桂木桂马签订协助契约",
+            "擅长驱魂相关工作但生活能力笨拙",
+            "常负责家务清扫",
+            "就读舞岛学园二年B班",
+            "由伊藤加奈惠配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "伊藤かな恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95762-qhWmwni3TT6Y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Elucia de Lute Ima",
+            "name_native": "エリュシア・デ・ルート・イーマ",
+            "name_alternative": [
+              "Elsie (エルシィ)"
+            ],
+            "description": "__Height:__ 159 cm (with bun)\n__Job:__ Private Household Demon\n__Class:__ 2-B\n\nElsie is a shinigami who was assigned to capture evil spirits that have escaped from hell and is the Deuteragonist of the story. She is shown to have a very sweet, pure and innocent personality and often tries to please [Keima](https://anilist.co/character/13468/Katsuragi-Keima)'s expectations as a \"little sister\" though often fails due to the cultural differences between them.\n\nHer feather cloth (the floating scarf she is always seen with) can change the appearance of an object, create disguises, or hide people in plain sight. She is left-handed and is rarely seen without her broom, which she had for 298 years, as it was from her original role as a cleaner for hell. Ironically, despite being a demon, she is shown to have an incredible fear of ghosts and the dark.  \n\nTo stay close to Keima, she tells [Mari](https://anilist.co/character/22308/Katsuragi-Mari), Keima's mother, that she is an illegitimate child of Keima's father (nearly getting his parents divorced), and ends up living in the Katsuragi household as well as attending the same class in school."
+          }
+        },
+        {
+          "id": 15636,
+          "name": "高原步美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b15636-XnTaCYgqwMtI.png",
+          "description": "高原步美是舞岛学园二年B班学生，身高约158厘米，也是学校田径部成员。她性格开朗直率，行动积极，与中川花音等同学保持亲密关系，平时在校园里很有存在感。步美与桂木桂马同班，成为桂马和恶魔艾露西执行驱魂捕捉任务时接触的对象之一。她的运动员身份和爽朗性格，与桂马沉迷游戏的生活方式形成反差。",
+          "nicknames": [
+            "高原步美",
+            "Ayumi Takahara",
+            "高原歩美",
+            "步美"
+          ],
+          "traits": [
+            "舞岛学园二年B班学生",
+            "身高约158厘米",
+            "加入学校田径部",
+            "性格开朗直率",
+            "是桂木桂马的同班同学",
+            "与中川花音关系密切",
+            "在校园活动中十分活跃",
+            "成为桂马攻略的对象之一",
+            "由竹达彩奈配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "竹達彩奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101996-PcY5iaq5LHgd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ayumi Takahara",
+            "name_native": "高原歩美",
+            "name_alternative": [],
+            "description": "__Class:__ 2-B\n__Height:__ 158 cm\n\nA girl in [Keima Katsuragi](https://anilist.co/character/13468/Katsuragi-Keima)'s class at school, Ayumi is a member of the school's track team. She is an exceptional runner and quite likely the best on the team. However, she was bullied by the upperclasswomen in her team."
+          }
+        },
+        {
+          "id": 18866,
+          "name": "哈克雅·杜·罗特·赫尔米尼姆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18866-E4yDtcaGrvF8.png",
+          "description": "哈克雅·杜·罗特·赫尔米尼姆是恶魔猎人，与艾露西同期毕业，学生时代曾以优秀成绩受到关注。她来到人间追捕逃逸驱魂，持有恶魔镰刀作为武器。哈克雅外表自信、在意能力评价，内心却容易因为失误而不安；与艾露西重逢后，她逐渐面对自己对优秀成绩和社会地位的执着。她既是艾露西的旧友，也是协助桂马处理驱魂事件的重要伙伴。",
+          "nicknames": [
+            "哈克雅·杜·罗特·赫尔米尼姆",
+            "Haqua du Lot Herminium",
+            "ハクア・ド・ロット・ヘルミニウム",
+            "Haq-chan",
+            "哈克雅",
+            "白娅"
+          ],
+          "traits": [
+            "恶魔猎人",
+            "与艾露西同期毕业",
+            "曾是驱魂捕捉成绩优秀的学生",
+            "来到人间追捕逃逸驱魂",
+            "持有恶魔镰刀作为武器",
+            "外表自信内心容易不安",
+            "与艾露西是旧友",
+            "拥有较高的恶魔阶级",
+            "由早见沙织配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "早見沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Haqua du Lot Herminium",
+            "name_native": "ハクア・ド・ロット・ヘルミニウム",
+            "name_alternative": [
+              "Haq-chan"
+            ],
+            "description": "__Height:__ 162 cm\n__Job:__ Domestic Genius\n\nHaqua is a fellow Spirit hunter and friend of [Elsie](https://anilist.co/character/14015/de-Lute-Ima-Elucia). A 300 year old demon, she is an outstanding honor student and the District Chief of Area 32 in Nagumo City. As a child, she always tried to be the best in everything she does hence her perfect record."
+          }
+        },
+        {
+          "id": 22307,
+          "name": "长濑纯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22307-sVqfNk5UPLqX.jpg",
+          "description": "长濑纯是舞岛学园的实习教师，曾从桂木桂马就读的高中毕业，后来以学生教师身份回到母校。她热情而理想主义，希望与学生建立信任，也很在意每个人是否能享受校园生活。纯有时会因积极过头而显得冒失，尤其在试图帮助桂马时容易忽略他的真实想法。她的教师身份让桂马的攻略故事延伸到师生关系与教育理想。",
+          "nicknames": [
+            "长濑纯",
+            "Jun Nagase",
+            "長瀬純",
+            "纯老师",
+            "长濑老师"
+          ],
+          "traits": [
+            "舞岛学园的实习教师",
+            "曾是桂木桂马的高中毕业生校友",
+            "返回母校担任学生教师",
+            "热情理想主义",
+            "重视与学生建立信任",
+            "常因过于积极显得冒失",
+            "关心学生的成长和校园生活",
+            "与桂马进行特别辅导式互动",
+            "由丰崎爱生配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "豊崎愛生",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95599-XDGiluZB7IXL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jun Nagase",
+            "name_native": "長瀬純",
+            "name_alternative": [],
+            "description": "**Height:** 162 cm\n\nNagase is a graduate from [Keima Katsuragi](https://anilist.co/character/13468/Katsuragi-Keima)'s High School and now she's back as a Student Teacher, teaching in Keima's class. \n\nShe admires the pro wrestler Jumbo Tsuruma and she was revealed to be quite innocent and naive. On her first day of teaching, Nagase noticed that Keima was playing games in class. Due to her strong beliefs she decided to take action and help him.\n\nIts also revealed that she was Captain of a basketball team when she attended Maishima Academy High School (Keima's school) and that her team won the national game."
+          }
+        },
+        {
+          "id": 22308,
+          "name": "桂木麻里",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b22308-xjCwafrEA4b6.png",
+          "description": "桂木麻里是桂木桂马的母亲，性格乐观随和，有时显得迷糊天然，外表带着少女漫画式母亲的温柔气质。她生活在桂木家中，熟悉儿子沉迷恋爱游戏的习惯，却不总能理解他的想法。麻里以家庭日常的角度参与故事，为桂马和艾露西在人间执行任务提供生活背景，也展现了主角在家中的另一面。",
+          "nicknames": [
+            "桂木麻里",
+            "Mari Katsuragi",
+            "麻里妈妈",
+            "桂木妈妈"
+          ],
+          "traits": [
+            "桂木桂马的母亲",
+            "经营或协助经营桂木家生活",
+            "性格乐观随和",
+            "有时显得迷糊天然",
+            "外表带有少女漫画式温柔气质",
+            "了解桂马沉迷游戏的习惯",
+            "是桂木家中的主要成年人",
+            "由柚木凉香配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "柚木涼香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95141-RUTdfZUbNcUv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mari Katsuragi",
+            "name_native": "桂木麻里",
+            "name_alternative": [],
+            "description": "__Height:__ 168 cm \n\n[Keima](https://anilist.co/character/13468/Katsuragi-Keima)'s mother resembles a typical shoujo manga-style mother; optimistic, ditsy, and loving. However, when she is angry, Mari removes her glasses and lets her hair down and changes her personality completely. Keima claims that she used to be a part of a biker gang.  \n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 34315,
+          "name": "二阶堂由梨",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34315-rIHM5838XfzA.png",
+          "description": "二阶堂由梨是舞岛学园二年B班的班主任，教授日语课程，身高约170厘米。她天生严厉，甚至带有施虐式的强势作风，会严格管理学生纪律，桂木桂马也常成为她关注的对象。二阶堂与学校其他教师共同维持校园秩序，表面上只是普通班主任，实际与桂马周围的驱魂事件存在更深联系。她是校园日常和主线秘密交汇的重要人物。",
+          "nicknames": [
+            "二阶堂由梨",
+            "Yuri Nikaido",
+            "二階堂由梨",
+            "二阶堂老师"
+          ],
+          "traits": [
+            "舞岛学园二年B班班主任",
+            "教授日语课程",
+            "身高约170厘米",
+            "性格严厉且带有施虐倾向",
+            "会严格管理学生纪律",
+            "对桂木桂马的行为格外关注",
+            "与校内教师及学生长期共事",
+            "由田中敦子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "田中敦子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95100-v07xvA8V2Yeh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuri Nikaido",
+            "name_native": "二階堂由梨",
+            "name_alternative": [],
+            "description": "__Height:__ 170 cm  \n__Class:__ 2-B    \n\nA born sadist, Nikaido is [Keima Katsuragi](https://anilist.co/character/13468/Katsuragi-Keima)'s homeroom and Japanese teacher. She has been ignoring Keima ever since he told her that there are 5012 games that are more fun than her lessons.  Nikaido is also a school senior of [Jun Nagase](https://anilist.co/character/22307/Nagase-Jun).\n\n~!In the later chapter, she was revealed to be one of the partner of demon called 'Akari'. This might have been foreshadowed from the start of the series, as she always had collar around her neck like Keima.\n\nAlthough she is a human and apparently borrowing all her abilities of capturing from [Akari](https://anilist.co/character/36075/Kurakawa-Akari), she is shown to be extremely powerful. She was able to capture level 4 spirit without a single difficulty even though it was not able to be handled by entire run-away spirit squad from the district.!~"
+          }
+        },
+        {
+          "id": 34316,
+          "name": "儿玉一郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34316-lRlllZSGEYPX.png",
+          "description": "儿玉一郎是舞岛学园的英语教师，也是校内艺术社团负责人。他重视社团规章，经常拒绝学生创建新社团的申请，管理方式严厉而不易妥协。儿玉的性格与二阶堂由梨有相似之处，都习惯以强硬方式维持秩序。桂木桂马及同学们在校园社团活动中会遇到他的阻拦，使他成为学校制度和学生自由之间的代表人物。",
+          "nicknames": [
+            "儿玉一郎",
+            "Ichirou Kodama",
+            "児玉一郎",
+            "儿玉老师"
+          ],
+          "traits": [
+            "舞岛学园英语教师",
+            "担任艺术社团负责人",
+            "经常拒绝学生申请新社团",
+            "重视学校社团规章",
+            "性格严厉而好管教",
+            "与二阶堂由梨的处事风格相近",
+            "负责管理校内艺术活动",
+            "由中尾隆圣配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "中尾隆聖",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95259-A1sNVqfD2MWp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ichirou Kodama",
+            "name_native": "児玉一郎",
+            "name_alternative": [],
+            "description": "Maijima High's English teacher and the Head of Arts Clubs. Kodama's personality is similar to that of Nikaido and he has a tendency to deny students from doing what they enjoy, such as denying the creation of a Light Music Club for Chihiro's band unless they all manage to achieve 100 percent in the oncoming test. Kodama has an insidious nature against Keima, because he cannot do anything about Keima playing games in his class due to the fact that Keima was able to ace all of the tests given out by Kodama."
+          }
+        },
+        {
+          "id": 34317,
+          "name": "寺田京",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b34317-PasfSd89xN5I.jpg",
+          "description": "寺田京是舞岛学园二年B班学生，留着长发，与高原步美和中川花音关系亲近。她常出现在同学之间的校园互动中，陪伴朋友参加活动，也会谈论班级和学校生活。京并非桂木桂马最初攻略任务的核心对象，却处在步美与花音的人际关系圈里，为第二季校园日常补充同伴视角。",
+          "nicknames": [
+            "寺田京",
+            "Miyako Terada",
+            "寺田 京",
+            "京"
+          ],
+          "traits": [
+            "舞岛学园二年B班学生",
+            "是高原步美的亲密朋友",
+            "与中川花音也有交情",
+            "留有长发",
+            "常参与同学之间的校园互动",
+            "出现在桂马的学校生活中",
+            "角色背景围绕学生友谊展开",
+            "由近村望实配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "近村望実",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123822-laeLqmlkNUGf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miyako Terada",
+            "name_native": "寺田京",
+            "name_alternative": [],
+            "description": "**Class:** 2-B  \n\nA second-year Maijima High School Academy student enrolled in Class 2-B. Miyako is a close friend of Ayumi and Chihiro. She has a long hair and freckles on her cheeks. Track-and-field club member.  After Chihiro Arc, she became a member of Chihiro's band. Responsible for the keyboard (KORG X50)."
+          }
+        },
+        {
+          "id": 39121,
+          "name": "羽鸟柚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b39121-yObuD7CnyznP.png",
+          "description": "羽鸟柚是桂木桂马恋爱游戏攻略记录中的人物，被资料列为他完成的一万名攻略对象之一。她主要与桂马沉迷美少女游戏的经历相关，体现主角庞大的游戏知识和攻略经验。羽鸟柚并非现实校园驱魂任务的核心对象，更多是桂马过往游戏经历中的一个角色。她的登记信息让观众看到桂马在虚拟恋爱游戏领域积累的成绩。",
+          "nicknames": [
+            "羽鸟柚",
+            "Yuu Hatori",
+            "羽鳥ゆう",
+            "羽鸟优"
+          ],
+          "traits": [
+            "桂木桂马恋爱游戏攻略记录中的对象",
+            "是桂马完成的一万名攻略目标之一",
+            "角色主要关联恋爱游戏情节",
+            "与现实校园中的人物区分开来",
+            "出现在桂马回顾游戏经历的资料中",
+            "对应桂马丰富的游戏经验",
+            "由小林优配音",
+            "AniList标注其为游戏攻略对象"
+          ],
+          "voice_actors": [
+            {
+              "name": "小林ゆう",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95034-AwobjrcmkMi9.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuu Hatori",
+            "name_native": "羽鳥ゆう",
+            "name_alternative": [],
+            "description": "Keima's 10,000th target captured in galge.    \n\n(Source: AniDB)"
+          }
+        }
+      ]
+    }
+  ]
+}

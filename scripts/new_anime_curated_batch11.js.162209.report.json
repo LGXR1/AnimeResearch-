@@ -1,0 +1,30 @@
+{
+  "verifiedAt": "2026-10-04T15:27:29.538Z",
+  "curatedFile": "scripts/new_anime_curated_batch11.js",
+  "anime": [
+    {
+      "id": 162209,
+      "title": "川越男子合唱团",
+      "count": 14,
+      "excluded": [
+        {
+          "ids": [
+            322063,
+            322064,
+            322067,
+            322068
+          ],
+          "reason": "小岚然、增田力、森村充、拉ーテル暂缺足够可核实人物设定"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/162209",
+        "https://boys-sing.com/character/"
+      ]
+    }
+  ],
+  "insertedCharacters": 14,
+  "insertedVoiceActors": 14,
+  "verifiedCharacters": 14,
+  "verifiedVoiceActors": 14
+}

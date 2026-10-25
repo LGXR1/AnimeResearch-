@@ -1,0 +1,59 @@
+[
+  {
+    "search": "Miori Shiba",
+    "http": 404,
+    "errors": [
+      {
+        "message": "Not Found.",
+        "status": 404,
+        "locations": [
+          {
+            "line": 1,
+            "column": 24
+          }
+        ]
+      }
+    ],
+    "data": {
+      "Character": null
+    }
+  },
+  {
+    "search": "Shougen Ikuma",
+    "http": 404,
+    "errors": [
+      {
+        "message": "Not Found.",
+        "status": 404,
+        "locations": [
+          {
+            "line": 1,
+            "column": 24
+          }
+        ]
+      }
+    ],
+    "data": {
+      "Character": null
+    }
+  },
+  {
+    "search": "Shouma Nagisawa",
+    "http": 404,
+    "errors": [
+      {
+        "message": "Not Found.",
+        "status": 404,
+        "locations": [
+          {
+            "line": 1,
+            "column": 24
+          }
+        ]
+      }
+    ],
+    "data": {
+      "Character": null
+    }
+  }
+]

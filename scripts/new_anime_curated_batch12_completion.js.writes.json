@@ -1,0 +1,180 @@
+[
+  {
+    "verifiedAt": "2026-10-05T06:29:05.844Z",
+    "curatedFile": "scripts/new_anime_curated_batch12_completion.js",
+    "anime": [
+      {
+        "id": 21334,
+        "title": "三者三叶",
+        "count": 12,
+        "excluded": [],
+        "references": [
+          "https://anilist.co/anime/21334",
+          "http://sansyasanyou.com/chara/yoko.html",
+          "http://sansyasanyou.com/chara/futaba.html",
+          "http://sansyasanyou.com/chara/teru.html",
+          "http://sansyasanyou.com/chara/nishiyama.html",
+          "http://sansyasanyou.com/chara/kondo.html",
+          "http://sansyasanyou.com/chara/sonobe.html",
+          "http://sansyasanyou.com/chara/yamaji.html",
+          "http://sansyasanyou.com/chara/kou.html",
+          "http://sansyasanyou.com/chara/yu.html",
+          "http://sansyasanyou.com/chara/sakura.html",
+          "http://sansyasanyou.com/chara/hajime.html",
+          "http://sansyasanyou.com/chara/sasame.html"
+        ]
+      },
+      {
+        "id": 179689,
+        "title": "上班族去了异世界后成了四天王",
+        "count": 11,
+        "excluded": [
+          {
+            "name": "欧古雷、居酒屋老板",
+            "reason": "官网资料可核实，AniList关联图片或声优头像尚无合规hash"
+          },
+          {
+            "name": "Chimo、Lilim、Zumo",
+            "reason": "有图片与日配但人物资料不足，待核实身份与经历"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/179689",
+          "https://salaryman-big4.com/character/",
+          "https://www.anibk.com/bk/7595"
+        ]
+      }
+    ],
+    "insertedCharacters": 23,
+    "insertedVoiceActors": 23,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 23,
+    "verifiedVoiceActors": 23
+  },
+  {
+    "verifiedAt": "2026-10-05T06:32:48.246Z",
+    "curatedFile": "scripts/new_anime_curated_batch12_completion.js",
+    "anime": [
+      {
+        "id": 146836,
+        "title": "LV1魔王与独居废勇者",
+        "count": 24,
+        "excluded": [
+          {
+            "name": "格里姆斯、弗兰卡",
+            "reason": "角色图片合规，但日配头像为无hash的旧图"
+          },
+          {
+            "name": "梅内希尔特、塞泽克",
+            "reason": "AniList本作关联缺日配，需要进一步补查声优头像"
+          },
+          {
+            "name": "德娜特拉及未具名背景角色",
+            "reason": "AniList未提供合规角色图片"
+          },
+          {
+            "name": "赫卡忒、德米特里乌斯、弘、加尔莫夫、图蒂",
+            "reason": "补查未找到与本作关联的AniList角色，暂缓"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/146836",
+          "https://lv1room.com/chara/",
+          "https://lv1room.com/chara/demonlord.html",
+          "https://lv1room.com/chara/zenia.html",
+          "https://lv1room.com/chara/fred.html",
+          "https://lv1room.com/chara/leo.html",
+          "https://zh.wikipedia.org/wiki/Lv1魔王與獨居廢勇者",
+          "https://w.atwiki.jp/aniwotawiki/pages/54905.html",
+          "https://enpedia.org/wiki/Lv1魔王とワンルーム勇者"
+        ]
+      },
+      {
+        "id": 14075,
+        "title": "绝园的暴风雨",
+        "count": 8,
+        "excluded": [
+          {
+            "name": "锁部左门、锁部哲马、羽村惠",
+            "reason": "官网资料齐全，但AniList角色头像无hash，暂缓"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/14075",
+          "https://www.zetsuen.net/character/",
+          "https://zh.wikipedia.org/wiki/絕園的暴風雨",
+          "https://bgm.tv/character/18468"
+        ]
+      }
+    ],
+    "insertedCharacters": 32,
+    "insertedVoiceActors": 33,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 32,
+    "verifiedVoiceActors": 33
+  },
+  {
+    "verifiedAt": "2026-10-05T06:38:13.761Z",
+    "curatedFile": "scripts/new_anime_curated_batch12_completion.js",
+    "anime": [
+      {
+        "id": 112609,
+        "title": "魔女之旅",
+        "count": 17,
+        "excluded": [
+          {
+            "name": "其他城镇居民、守卫、父母及背景人物",
+            "reason": "部分图片无hash；其余人物缺少足够独立资料，暂缓而不臆造"
+          },
+          {
+            "name": "艾维莉亚",
+            "reason": "本轮AniList动画快照未含角色关联，后续补查"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/112609",
+          "https://majotabi.jp/#Character",
+          "https://zh.wikipedia.org/wiki/魔女之旅",
+          "https://mod.cht.com.tw/modweb/product/259226.do"
+        ]
+      }
+    ],
+    "insertedCharacters": 17,
+    "insertedVoiceActors": 17,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 17,
+    "verifiedVoiceActors": 17
+  },
+  {
+    "verifiedAt": "2026-10-05T06:45:29.383Z",
+    "curatedFile": "scripts/new_anime_curated_batch12_completion.js",
+    "anime": [
+      {
+        "id": 158898,
+        "title": "夜樱家的大作战",
+        "count": 25,
+        "excluded": [
+          {
+            "name": "其他组织成员、单元人物及后续登场人物",
+            "reason": "待逐一交叉核实简介、外观与动画日配；已采集来源保留，避免凭空凑齐"
+          }
+        ],
+        "references": [
+          "https://anilist.co/anime/158898",
+          "https://mission-yozakura-family.com/character/taiyo.html",
+          "https://mission-yozakura-family.com/character/mutsumi.html",
+          "https://mission-yozakura-family.com/character/kyoichiro.html",
+          "https://mission-yozakura-family.com/character/momo.html",
+          "https://mission-yozakura-family.com/character/rei.html",
+          "https://mission-yozakura-family.com/character/tsubomi.html",
+          "https://mission-yozakura-family.com/character/makoto.html"
+        ]
+      }
+    ],
+    "insertedCharacters": 25,
+    "insertedVoiceActors": 27,
+    "updatedCharacters": 0,
+    "verifiedCharacters": 25,
+    "verifiedVoiceActors": 27
+  }
+]

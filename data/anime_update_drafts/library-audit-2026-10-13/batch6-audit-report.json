@@ -1,0 +1,585 @@
+{
+  "checkedAt": "2026-10-19T04:12:12.928Z",
+  "checkedCount": 100,
+  "profileVerifiedCount": 69,
+  "checkedIds": [
+    1378,
+    1424,
+    1425,
+    1426,
+    1482,
+    1483,
+    1484,
+    1485,
+    1486,
+    1487,
+    1489,
+    1502,
+    1503,
+    1504,
+    1505,
+    1512,
+    1513,
+    1514,
+    1515,
+    1516,
+    1529,
+    1530,
+    1534,
+    1535,
+    1541,
+    1542,
+    1543,
+    1544,
+    1545,
+    1555,
+    1557,
+    1558,
+    1559,
+    1562,
+    1564,
+    1595,
+    1599,
+    1610,
+    1612,
+    1614,
+    1616,
+    1617,
+    1618,
+    1628,
+    1636,
+    1638,
+    1640,
+    1644,
+    1662,
+    1663,
+    1664,
+    1665,
+    1666,
+    1667,
+    1668,
+    1669,
+    1670,
+    1671,
+    1709,
+    1710,
+    1711,
+    1720,
+    1742,
+    1743,
+    1744,
+    1745,
+    1746,
+    1747,
+    1748,
+    1749,
+    1778,
+    1780,
+    1781,
+    1782,
+    1783,
+    1784,
+    1785,
+    1789,
+    1790,
+    1791,
+    1792,
+    1795,
+    1810,
+    1811,
+    1812,
+    1817,
+    1818,
+    1821,
+    1839,
+    1851,
+    1858,
+    1861,
+    1863,
+    1864,
+    1865,
+    1872,
+    1874,
+    1876,
+    1892,
+    1896
+  ],
+  "checkedRange": {
+    "firstId": 1378,
+    "lastId": 1896
+  },
+  "modifiedIds": [
+    1512,
+    1530,
+    1709,
+    1720,
+    1743,
+    1810,
+    1811,
+    1812,
+    1817,
+    1818,
+    1821,
+    1839,
+    1872
+  ],
+  "source": {
+    "name": "AniList GraphQL character profile snapshot plus local character record review",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "records": [
+      {
+        "id": 1378,
+        "url": "https://anilist.co/character/1378"
+      },
+      {
+        "id": 1424,
+        "url": "https://anilist.co/character/1424"
+      },
+      {
+        "id": 1425,
+        "url": "https://anilist.co/character/1425"
+      },
+      {
+        "id": 1426,
+        "url": "https://anilist.co/character/1426"
+      },
+      {
+        "id": 1489,
+        "url": "https://anilist.co/character/1489"
+      },
+      {
+        "id": 1502,
+        "url": "https://anilist.co/character/1502"
+      },
+      {
+        "id": 1503,
+        "url": "https://anilist.co/character/1503"
+      },
+      {
+        "id": 1504,
+        "url": "https://anilist.co/character/1504"
+      },
+      {
+        "id": 1505,
+        "url": "https://anilist.co/character/1505"
+      },
+      {
+        "id": 1512,
+        "url": "https://anilist.co/character/1512"
+      },
+      {
+        "id": 1529,
+        "url": "https://anilist.co/character/1529"
+      },
+      {
+        "id": 1530,
+        "url": "https://anilist.co/character/1530"
+      },
+      {
+        "id": 1534,
+        "url": "https://anilist.co/character/1534"
+      },
+      {
+        "id": 1535,
+        "url": "https://anilist.co/character/1535"
+      },
+      {
+        "id": 1541,
+        "url": "https://anilist.co/character/1541"
+      },
+      {
+        "id": 1542,
+        "url": "https://anilist.co/character/1542"
+      },
+      {
+        "id": 1543,
+        "url": "https://anilist.co/character/1543"
+      },
+      {
+        "id": 1544,
+        "url": "https://anilist.co/character/1544"
+      },
+      {
+        "id": 1545,
+        "url": "https://anilist.co/character/1545"
+      },
+      {
+        "id": 1599,
+        "url": "https://anilist.co/character/1599"
+      },
+      {
+        "id": 1612,
+        "url": "https://anilist.co/character/1612"
+      },
+      {
+        "id": 1614,
+        "url": "https://anilist.co/character/1614"
+      },
+      {
+        "id": 1616,
+        "url": "https://anilist.co/character/1616"
+      },
+      {
+        "id": 1617,
+        "url": "https://anilist.co/character/1617"
+      },
+      {
+        "id": 1618,
+        "url": "https://anilist.co/character/1618"
+      },
+      {
+        "id": 1628,
+        "url": "https://anilist.co/character/1628"
+      },
+      {
+        "id": 1636,
+        "url": "https://anilist.co/character/1636"
+      },
+      {
+        "id": 1638,
+        "url": "https://anilist.co/character/1638"
+      },
+      {
+        "id": 1640,
+        "url": "https://anilist.co/character/1640"
+      },
+      {
+        "id": 1644,
+        "url": "https://anilist.co/character/1644"
+      },
+      {
+        "id": 1662,
+        "url": "https://anilist.co/character/1662"
+      },
+      {
+        "id": 1709,
+        "url": "https://anilist.co/character/1709"
+      },
+      {
+        "id": 1710,
+        "url": "https://anilist.co/character/1710"
+      },
+      {
+        "id": 1711,
+        "url": "https://anilist.co/character/1711"
+      },
+      {
+        "id": 1720,
+        "url": "https://anilist.co/character/1720"
+      },
+      {
+        "id": 1742,
+        "url": "https://anilist.co/character/1742"
+      },
+      {
+        "id": 1743,
+        "url": "https://anilist.co/character/1743"
+      },
+      {
+        "id": 1744,
+        "url": "https://anilist.co/character/1744"
+      },
+      {
+        "id": 1745,
+        "url": "https://anilist.co/character/1745"
+      },
+      {
+        "id": 1746,
+        "url": "https://anilist.co/character/1746"
+      },
+      {
+        "id": 1747,
+        "url": "https://anilist.co/character/1747"
+      },
+      {
+        "id": 1748,
+        "url": "https://anilist.co/character/1748"
+      },
+      {
+        "id": 1749,
+        "url": "https://anilist.co/character/1749"
+      },
+      {
+        "id": 1778,
+        "url": "https://anilist.co/character/1778"
+      },
+      {
+        "id": 1780,
+        "url": "https://anilist.co/character/1780"
+      },
+      {
+        "id": 1781,
+        "url": "https://anilist.co/character/1781"
+      },
+      {
+        "id": 1782,
+        "url": "https://anilist.co/character/1782"
+      },
+      {
+        "id": 1783,
+        "url": "https://anilist.co/character/1783"
+      },
+      {
+        "id": 1784,
+        "url": "https://anilist.co/character/1784"
+      },
+      {
+        "id": 1785,
+        "url": "https://anilist.co/character/1785"
+      },
+      {
+        "id": 1795,
+        "url": "https://anilist.co/character/1795"
+      },
+      {
+        "id": 1810,
+        "url": "https://anilist.co/character/1810"
+      },
+      {
+        "id": 1811,
+        "url": "https://anilist.co/character/1811"
+      },
+      {
+        "id": 1812,
+        "url": "https://anilist.co/character/1812"
+      },
+      {
+        "id": 1817,
+        "url": "https://anilist.co/character/1817"
+      },
+      {
+        "id": 1818,
+        "url": "https://anilist.co/character/1818"
+      },
+      {
+        "id": 1821,
+        "url": "https://anilist.co/character/1821"
+      },
+      {
+        "id": 1839,
+        "url": "https://anilist.co/character/1839"
+      },
+      {
+        "id": 1851,
+        "url": "https://anilist.co/character/1851"
+      },
+      {
+        "id": 1858,
+        "url": "https://anilist.co/character/1858"
+      },
+      {
+        "id": 1861,
+        "url": "https://anilist.co/character/1861"
+      },
+      {
+        "id": 1863,
+        "url": "https://anilist.co/character/1863"
+      },
+      {
+        "id": 1864,
+        "url": "https://anilist.co/character/1864"
+      },
+      {
+        "id": 1865,
+        "url": "https://anilist.co/character/1865"
+      },
+      {
+        "id": 1872,
+        "url": "https://anilist.co/character/1872"
+      },
+      {
+        "id": 1874,
+        "url": "https://anilist.co/character/1874"
+      },
+      {
+        "id": 1876,
+        "url": "https://anilist.co/character/1876"
+      },
+      {
+        "id": 1892,
+        "url": "https://anilist.co/character/1892"
+      },
+      {
+        "id": 1896,
+        "url": "https://anilist.co/character/1896"
+      }
+    ]
+  },
+  "pendingExternalVerificationIds": [
+    1482,
+    1483,
+    1484,
+    1485,
+    1486,
+    1487,
+    1513,
+    1514,
+    1515,
+    1516,
+    1555,
+    1557,
+    1558,
+    1559,
+    1562,
+    1564,
+    1595,
+    1610,
+    1663,
+    1664,
+    1665,
+    1666,
+    1667,
+    1668,
+    1669,
+    1670,
+    1671,
+    1789,
+    1790,
+    1791,
+    1792
+  ],
+  "pendingVisualVerificationIds": [
+    1378,
+    1424,
+    1425,
+    1426,
+    1485,
+    1489,
+    1504,
+    1505,
+    1534,
+    1535,
+    1542,
+    1544,
+    1555,
+    1599,
+    1612,
+    1628,
+    1636,
+    1638,
+    1640,
+    1644,
+    1742,
+    1743,
+    1745,
+    1746,
+    1747,
+    1748,
+    1778,
+    1780,
+    1781,
+    1782,
+    1783,
+    1784,
+    1785,
+    1789,
+    1790,
+    1795,
+    1810,
+    1811,
+    1812,
+    1851,
+    1858,
+    1861,
+    1863,
+    1865,
+    1872,
+    1874,
+    1876,
+    1896
+  ],
+  "pendingSourceReviewIds": [
+    1482,
+    1483,
+    1484,
+    1485,
+    1486,
+    1487,
+    1513,
+    1514,
+    1515,
+    1516,
+    1555,
+    1557,
+    1558,
+    1559,
+    1562,
+    1564,
+    1595,
+    1610,
+    1663,
+    1664,
+    1665,
+    1666,
+    1667,
+    1668,
+    1669,
+    1670,
+    1671,
+    1789,
+    1790,
+    1791,
+    1792
+  ],
+  "verifiedCorrections": [
+    {
+      "id": 1512,
+      "source": "AniList profile 1512: Gekkostate leader, Gekko captain, Terminus R909 and later B303 pilot, age 29–31, older brother Dewey."
+    },
+    {
+      "id": 1530,
+      "source": "AniList profile 1530: Gekko head pilot, Hilda’s friend, Holland relationship and jealousy context."
+    },
+    {
+      "id": 1709,
+      "source": "AniList profile 1709: Gekkostate member, Nirvash pilot with Renton, communication traits and adopted children."
+    },
+    {
+      "id": 1720,
+      "source": "AniList profile 1720: Flower Maiden created from Lunar Flower with alchemy; wolf-blood awakening and Paradise role."
+    },
+    {
+      "id": 1743,
+      "source": "AniList profile 1743: Shiho Miyano/Sherry, APTX 4869 creator, shrunk form and Agasa household; removed unsupported clothing tag."
+    },
+    {
+      "id": 1810,
+      "source": "AniList profile 1810: friendship and letters with Akari, move to Tanegashima, snowy reunion, high-school kyudo club."
+    },
+    {
+      "id": 1811,
+      "source": "AniList profile 1811: childhood friend of Takaki, move to Tochigi, letters later cease."
+    },
+    {
+      "id": 1812,
+      "source": "AniList profile 1812: high-school classmate, surfing, scooter, feelings for Takaki and teacher sister."
+    },
+    {
+      "id": 1817,
+      "source": "AniList profile 1817: Mashiba’s protective relationship with Kumi, hitman style, Flicker Jab, chopping right."
+    },
+    {
+      "id": 1818,
+      "source": "AniList profile 1818: Kumi is Ryo’s younger sister, nurse, and Ippo’s love interest."
+    },
+    {
+      "id": 1821,
+      "source": "AniList profile 1821: Sendo is a featherweight in-fighter with Smash, Ippo rival, Marciano admirer and Takamura fan; it says the character was modeled after boxer Hidekazu Akai."
+    },
+    {
+      "id": 1839,
+      "source": "AniList profile 1839: 22-year-old hikikomori/NEET, rented apartment, parents’ allowance and imagined NHK conspiracy."
+    },
+    {
+      "id": 1872,
+      "source": "AniList profile 1872: purple-haired nun, Second Neck, war-related loss of faith and Orochi abilities."
+    }
+  ],
+  "note": "本地导出及 Supabase 均已更新并回读；31 位缺少 AniList 快照的角色仍待来源核对。",
+  "databaseSync": {
+    "syncedAt": "2026-10-19T04:12:56.966Z",
+    "syncedCount": 101,
+    "readbackVerified": true,
+    "searchTextExcludesDescription": true
+  }
+}

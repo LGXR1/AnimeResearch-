@@ -1,0 +1,859 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T14:34:57.682Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 15379,
+      "anime_title": "琴浦小姐",
+      "anime_origin": "JP",
+      "source": {
+        "id": 15379,
+        "titles": [
+          "Kotoura-san",
+          "The Troubled Life of Miss Kotoura",
+          "琴浦さん"
+        ],
+        "year": 2013,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/15379"
+      },
+      "characters": [
+        {
+          "id": 73019,
+          "name": "琴浦春香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73019-xgqOQTEM13Vy.jpg",
+          "description": "琴浦春香是拥有读心能力的高中女生。年幼时，她无法控制自己听见他人想法的能力，常把无心听到的秘密说出口，因此遭到同学和家人的误解，父母也因此离异。转学后，春香刻意与别人保持距离，却在真锅义久的坦率陪伴下重新尝试交朋友，并加入御舟百合子创立的ESP研究社。她表面沉静，内心仍渴望被理解。",
+          "nicknames": [
+            "琴浦春香",
+            "Haruka Kotoura",
+            "琴浦 春香",
+            "琴浦同学"
+          ],
+          "traits": [
+            "拥有读取他人内心的能力",
+            "小时候无法控制读心能力",
+            "曾因听见他人想法而遭受排斥",
+            "父母离异后与母亲分开生活",
+            "转学后努力隐藏自己的能力",
+            "加入ESP研究社",
+            "外表安静内心敏感",
+            "与真锅义久逐渐建立信任",
+            "由金元寿子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "金元寿子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103555-2ZtBwZfy9DTi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Haruka Kotoura",
+            "name_native": "琴浦春香",
+            "name_alternative": [],
+            "description": "A girl with the power to read minds. Her power has caused her harsh experiences since she was a child, so she's closed off her heart to others. But the truth is that she's still just a normal, weak girl who longs to be with someone. Her heart begins to open after her encounter with [Manabe](https://anilist.co/character/73021/Manabe-Yoshihisa) and the others. Even though she can read minds, she's not used to experiencing sexual thoughts, so she's always getting flustered by Manabe.  "
+          }
+        },
+        {
+          "id": 73021,
+          "name": "真锅义久",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73021-38pBrVAcS5U1.png",
+          "description": "真锅义久是琴浦春香的同班同学，性格直率开朗，脑中常冒出不正经的念头，因此这些想法也会被春香的读心能力听见。与曾经伤害春香的人不同，义久并不因她的能力而躲避她，而是坦然接受她听见自己的真实想法。他愿意在春香遭遇困难时陪在身边，帮助她重新适应校园生活，也逐渐成为她最信任的朋友。",
+          "nicknames": [
+            "真锅义久",
+            "Yoshihisa Manabe",
+            "真鍋義久",
+            "真锅"
+          ],
+          "traits": [
+            "春香的同班同学",
+            "拥有健康活泼的高中生形象",
+            "脑中常浮现不正经的念头",
+            "想法会被春香读到",
+            "面对春香时态度坦率",
+            "不会因读心能力而排斥春香",
+            "愿意主动靠近并安慰她",
+            "不喜欢阴险扭曲的行为",
+            "由福岛润配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "福島潤",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105094-Udz3lBFTZa5W.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yoshihisa Manabe",
+            "name_native": "真鍋義久",
+            "name_alternative": [],
+            "description": "A healthy young, high school boy who always has sex on the brain. Despite his loose appearance, he's a handsome man who hates twisted things. He's also generous, and doesn't mind Haruka's power at all. Though he does tease Haruka with his sexual fantasies, his love for her is clear and true, and he treasures her more than anyone.  (Source: ANN)"
+          }
+        },
+        {
+          "id": 73023,
+          "name": "御舟百合子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73023-ISRe25tDyVqP.png",
+          "description": "御舟百合子是高中ESP研究社的社长，对超能力现象抱有浓厚兴趣。她的母亲曾是灵能力者，过去协助警方调查案件，却因能力遭到质疑并被指责造假。百合子希望查明母亲经历的真相，因此组织社团研究心灵感应等现象。春香转学后，她邀请春香加入研究社，让社团成员得以近距离认识读心能力，也推动了春香与同学之间的关系变化。",
+          "nicknames": [
+            "御舟百合子",
+            "Yuriko Mifune",
+            "御舟社长"
+          ],
+          "traits": [
+            "ESP研究社社长",
+            "对超能力现象抱有兴趣",
+            "母亲曾是灵能力者",
+            "母亲协助过警方调查",
+            "母亲曾被指责为骗子",
+            "希望查明母亲事件的真相",
+            "邀请春香加入研究社",
+            "行动积极且有主见",
+            "由花泽香菜配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "花澤香菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuriko Mifune",
+            "name_native": "御舟百合子",
+            "name_alternative": [],
+            "description": "The president of the ESP Research Club. Her mother was a clairvoyant similar to Haruka, who would often assist in police investigations. However, she was accused of being a fake and hung herself, bringing shame to her family and horrifying Yuriko who believed in her. Ever since, Yuriko has been keen to prove the existence of psychics, finally having the answer in Haruka. At first she plans to use Haruka  for her fortune telling schemes, until Haruka got bullied and blame herself for Haruka's demise."
+          }
+        },
+        {
+          "id": 73025,
+          "name": "室户大智",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73025-qwcmTWriPa3D.png",
+          "description": "室户大智是ESP研究社成员，也是社长御舟百合子的青梅竹马。与热衷调查的百合子相比，他平时显得沉着随和，常以较冷静的态度参与社团活动。春香加入后，大智和其他成员一起观察读心能力带来的影响，也在研究社的日常中协助整理线索。他与百合子相识多年，熟悉她追查母亲往事的执着，是社团里较可靠的同伴。",
+          "nicknames": [
+            "室户大智",
+            "Daichi Muroto",
+            "室戸大智",
+            "大智"
+          ],
+          "traits": [
+            "ESP研究社成员",
+            "御舟百合子的青梅竹马",
+            "平时表现得沉着随和",
+            "擅长资料整理与调查",
+            "参与研究超能力现象",
+            "能冷静观察社团成员互动",
+            "在同伴面前较少慌张",
+            "与百合子长期相识",
+            "由下野纮配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "下野紘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Daichi Muroto",
+            "name_native": "室戸大智",
+            "name_alternative": [],
+            "description": "Daichi is the childhood friend of [Yuriko](https://anilist.co/character/73023/Mifune-Yuriko). When around the club members of ESP Research Club, he has a laid-back appearance and is usually seen reading a book. When he is alone with Yuriko, he tends to be more serious, and his eyes are visible."
+          }
+        },
+        {
+          "id": 73027,
+          "name": "森谷日和",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b73027-gkd4x9TTD7cx.png",
+          "description": "森谷日和是琴浦春香与真锅义久的同班同学，性格比春香外向，在班级中较为活跃。她擅长空手道，家里经营道场并期待她将来继承，但日和对这条安排并不热衷。她曾喜欢义久，也因义久与春香亲近而产生嫉妒，做出伤害春香的举动。随着相处加深，日和逐渐面对自己的情绪，在校园和家庭期待之间寻找方向。",
+          "nicknames": [
+            "森谷日和",
+            "Hiyori Moritani",
+            "森谷ヒヨリ",
+            "森谷同学"
+          ],
+          "traits": [
+            "春香和义久的同班同学",
+            "在班级里较为活跃",
+            "擅长空手道",
+            "被家人期待继承道场",
+            "本人对继承道场并不积极",
+            "曾对义久抱有好感",
+            "面对春香时产生过嫉妒",
+            "与同学关系经历波折",
+            "由久保由利香配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "久保ユリカ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112209-6rgze0vZlnG6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hiyori Moritani",
+            "name_native": "森谷ヒヨリ",
+            "name_alternative": [],
+            "description": "One of Haruka and Manabe's classmates. Unlike Haruka, Hiyori is a social girl. She's set to inherit her family's dojo, but she's not very enthusiastic about the idea. She has a crush on Manabe, so she tends to lash out at Haruka for getting his attention. She's also a bit of a tsundere."
+          }
+        },
+        {
+          "id": 77059,
+          "name": "琴浦久美子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b77059-y5S51cuwhBNZ.png",
+          "description": "琴浦久美子是琴浦春香的母亲。春香小时候的读心能力会无意间揭穿成人隐瞒的想法和秘密，久美子无法承受由此带来的压力，最终与丈夫离婚，并让春香离开自己身边。多年后，春香重新面对母亲，母女关系中的误解和伤痛逐渐浮现。久美子既是春香早年孤独经历的重要来源，也代表了一个普通人面对超能力时的恐惧与无措。",
+          "nicknames": [
+            "琴浦久美子",
+            "Kumiko Kotoura",
+            "春香的母亲"
+          ],
+          "traits": [
+            "琴浦春香的母亲",
+            "拥有读心能力的女儿",
+            "曾因女儿能力感到难以承受",
+            "与丈夫离婚",
+            "春香童年时期与她分开生活",
+            "母女关系长期紧张",
+            "经历家庭秘密被揭露的压力",
+            "由井上喜久子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "井上喜久子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kumiko Kotoura",
+            "name_native": "琴浦久美子",
+            "name_alternative": [],
+            "description": "Haruka's mother."
+          }
+        },
+        {
+          "id": 77061,
+          "name": "琴浦善三",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b77061-LeKGJFSFTcBl.png",
+          "description": "琴浦善三是琴浦春香的父亲，曾与妻子久美子一起抚养春香。春香的读心能力让他隐藏的婚外情也暴露在家人面前，家庭矛盾随后加剧，最终他与久美子离婚，春香也被迫离开原来的生活。善三并未能妥善处理女儿能力带来的压力和夫妻关系问题，他的选择成为春香童年遭受排斥与家庭破裂的重要背景。",
+          "nicknames": [
+            "琴浦善三",
+            "Onozaki",
+            "小野崎",
+            "琴浦春香的父亲"
+          ],
+          "traits": [
+            "琴浦春香的父亲",
+            "曾与久美子共同抚养春香",
+            "因春香的读心能力而承受压力",
+            "与久美子离婚后分开生活",
+            "其婚外情曾被春香读到",
+            "不善面对家庭矛盾",
+            "家庭选择影响春香的童年",
+            "由大川透配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "大川透",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95243-zhk18RRqSAmx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Onozaki",
+            "name_native": "小野崎",
+            "name_alternative": [],
+            "description": "Haruka's father who divorces her mother because he was unable to bear Haruka's ability, especially when he needs to keep his secret affair from Haruka's mother."
+          }
+        },
+        {
+          "id": 80633,
+          "name": "石山严铁",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80633-mXTmVYIWD0m7.png",
+          "description": "石山严铁是一名警察侦探，曾调查或接触过御舟百合子母亲相关的事件。他对灵能力和读心等超自然现象持怀疑态度，更习惯从现实证据出发判断案情。石山与搭档月野亚纪一起行动，逐渐注意到春香的能力可能影响调查结果。他代表警方对异常事件的务实视角，也让百合子追寻母亲往事的调查与现实案件联系起来。",
+          "nicknames": [
+            "石山严铁",
+            "Gantetsu Ishiyama",
+            "石山巌鉄",
+            "石山警部"
+          ],
+          "traits": [
+            "警察侦探",
+            "曾接触御舟百合子母亲相关事件",
+            "对超自然能力持怀疑态度",
+            "掌握案件调查经验",
+            "与搭档月野亚纪共同办案",
+            "留意春香读心能力的线索",
+            "态度严肃而务实",
+            "由菅生隆之配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "菅生隆之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95037-LpJxoQ9ZHDUX.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gantetsu Ishiyama",
+            "name_native": "石山巌鉄",
+            "name_alternative": [],
+            "description": "A police detective. He appears to be familiar with the events that occurred surrounding Yuriko's mother, although he himself is skeptic of supernatural abilities."
+          }
+        },
+        {
+          "id": 80635,
+          "name": "月野亚纪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80635-KGvi7K8Ls1be.png",
+          "description": "月野亚纪是警察侦探石山严铁的搭档，参与调查与御舟百合子母亲有关的事件。她协助搜集线索、跟进调查，也会陪同严铁接触春香等人。亚纪偶尔显得冒失，且常表现出食欲旺盛的一面，与严铁严肃务实的工作态度形成轻松对照。尽管她的戏份不如主角群集中，仍是警方面调查线的重要成员。",
+          "nicknames": [
+            "月野亚纪",
+            "Aki Tsukino",
+            "月野 亜紀",
+            "亚纪刑警"
+          ],
+          "traits": [
+            "警察侦探",
+            "石山严铁的办案搭档",
+            "参与调查御舟家相关事件",
+            "性格偶尔显得冒失",
+            "经常表现出食欲旺盛的一面",
+            "协助整理调查线索",
+            "与严铁一同接触超能力事件",
+            "由渡边明乃配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "渡辺明乃",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95094-nRPWBG1cVGo5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aki Tsukino",
+            "name_native": "月野 亜紀",
+            "name_alternative": [],
+            "description": "Ishiyama's detective partner who is a bit clumsy and usually hungry."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 20529,
+      "anime_title": "我们大家的河合庄",
+      "anime_origin": "JP",
+      "source": {
+        "id": 20529,
+        "titles": [
+          "Bokura wa Minna Kawaisou",
+          "The Kawai Complex Guide to Manors and Hostel Behavior",
+          "僕らはみんな河合荘"
+        ],
+        "year": 2014,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/20529"
+      },
+      "characters": [
+        {
+          "id": 88176,
+          "name": "河合律",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88176-5pgYg4bOlGj2.png",
+          "description": "河合律是河合庄的高中生住户，就读二年级，性格安静内向，最喜欢阅读书籍，常常沉浸在书本世界而忽略周围动静。宇佐和成搬进宿舍后，逐渐被她专注读书的样子吸引，并试着与她交谈。律与管理人河合住子有亲属关系，和宿舍里性格各异的住户共同生活。她不善主动表达感情，和成之间的距离也在日常相处中慢慢变化。",
+          "nicknames": [
+            "河合律",
+            "Ritsu Kawai",
+            "河合 律",
+            "律学姐"
+          ],
+          "traits": [
+            "河合庄的高中生住户",
+            "就读高中二年级",
+            "性格安静内向",
+            "喜欢阅读书籍",
+            "常沉浸在自己的阅读世界",
+            "与宇佐和成住在同一栋宿舍",
+            "是房东河合住子的亲属",
+            "面对感情表达较为迟钝",
+            "由花泽香菜配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "花澤香菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95185-x8ZYvtN7SegC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ritsu Kawai",
+            "name_native": "河合律",
+            "name_alternative": [],
+            "description": "Ritsu is a 2nd year high school student who lives in the same dorm with Usa. She is a seemingly shy girl who likes to read books. Her grandfather is brother to landlady of their dorm who views Ritsu as her relative. She is trusted with looking after the dorm when landlady takes a leave. She keeps multiple weapons around the house and doesn't hesitate to use them if one of the guys crosses into girls side of the house."
+          }
+        },
+        {
+          "id": 88177,
+          "name": "宇佐和成",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88177-IWB5gJCoJ5w3.png",
+          "description": "宇佐和成是高中一年级学生，父母因工作搬家后，他开始独自寻找住处，希望能安静地生活和学习。进入河合庄后，他遇见沉迷阅读的河合律，也认识了个性鲜明的几位室友。和成原本向往清静，却不断被宿舍住户的琐事卷入，逐渐适应这群人的相处方式。他对律产生好感，并在平凡的宿舍生活中摸索如何与她拉近距离。",
+          "nicknames": [
+            "宇佐和成",
+            "Kazunari Usa",
+            "宇佐 和成",
+            "宇佐"
+          ],
+          "traits": [
+            "河合庄的新住户",
+            "高中一年级学生",
+            "父母因工作搬离后独自生活",
+            "希望拥有安静的住宿环境",
+            "性格认真而容易被室友打扰",
+            "对河合律抱有好感",
+            "与宿舍成员建立日常联系",
+            "曾在中学时期有古怪同伴",
+            "由井口祐一配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "井口祐一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105064-Yi6aG3ZtcyjU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kazunari Usa",
+            "name_native": "宇佐和成",
+            "name_alternative": [],
+            "description": "Usa Kazunari is a high school freshman whose parents had to move away for work. He agrees to stay anywhere, as long as he could live on his own in peace and quiet.\nHaving grown up surrounded by his parents' eccentric friends, Usa feels that unique individuals tend to gravitate to him resulting in what he considers a disastrous three years in middle school where he gained a reputation for handling odd people. Although he initially balks at the idea of rooming with dysfunctional people, he decides to stay at the Kawai Complex and quickly adjusts to its residents' behaviors.\n\nHis favorite dish is salisbury steak."
+          }
+        },
+        {
+          "id": 88178,
+          "name": "河合住子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88178-DAE2czYwqvTl.png",
+          "description": "河合住子是河合庄的管理人，也是河合律的长辈亲属。她负责宿舍管理，面试想要入住的人，判断新住户的背景和性格是否适合现有成员。宇佐和成希望独自安静生活时，住子决定让他进入河合庄，使他与律及其他住户相遇。她既要维持宿舍日常，也会观察住户们的关系变化，是河合庄生活能够持续运转的重要人物。",
+          "nicknames": [
+            "河合住子",
+            "Sumiko Kawai",
+            "河合 住子",
+            "河合庄管理员"
+          ],
+          "traits": [
+            "河合庄的管理人",
+            "河合律的亲属长辈",
+            "负责管理宿舍住户",
+            "会面试准备入住的人",
+            "关注新住户与现有成员是否合拍",
+            "为宿舍维持日常秩序",
+            "做事稳重而有判断力",
+            "由小林沙苗配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "小林沙苗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95149-xNDmN92Feq8y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sumiko Kawai",
+            "name_native": "河合住子",
+            "name_alternative": [],
+            "description": "The manager of Kawai Dormitory and the sister of Ritsu's grandfather. She interviews potential boarders first to determine background and compatibility with the current residents. Wanting to be a perfect side character in a romantic drama, she sometimes practices on Usa by giving observations and comments that are meant to be of no value. Rather insightful, she knows just when to serve a resident's favorite dish for dinner.\n\nShe keeps a doll collection in her room."
+          }
+        },
+        {
+          "id": 88179,
+          "name": "锦野麻弓",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88179-QAReTxnGDc9y.png",
+          "description": "锦野麻弓是河合庄的成年住户，平时在公司工作。她的恋爱经历屡屡不顺，因此对身边出现的恋爱关系格外敏感，常用刻薄的话挖苦正在接近彼此的人，尤其会调侃宇佐和成与河合律。麻弓看似爱抱怨、难以相处，其实也参与宿舍住户间的日常互助。她的情绪和玩笑为河合庄的群居生活带来不少成人视角的喜剧冲突。",
+          "nicknames": [
+            "锦野麻弓",
+            "Mayumi Nishikino",
+            "錦野麻弓",
+            "麻弓"
+          ],
+          "traits": [
+            "河合庄的成年女住户",
+            "职业是办公室职员",
+            "恋爱经历常不顺利",
+            "对周围人的恋爱话题格外敏感",
+            "说话尖锐且容易挖苦人",
+            "常拿宇佐的感情烦恼开玩笑",
+            "与宿舍住户一起生活",
+            "由佐藤利奈配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐藤利奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95241-4XvR64oguxwS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mayumi Nishikino",
+            "name_native": "錦野麻弓",
+            "name_alternative": [],
+            "description": "An office lady who has terrible luck with men, she is the fourth resident that Usa meets. She is always spiteful to everyone, especially those who have found romance or are about to find romance. She tends to drink alcohol heavily when depressed and nags when drunk. She is always on the lookout for something to use against Sayaka and considers Miharu a boxful of Sayaka's weaknesses.\n\nShe is particularly fond of interfering with Usa and Ritsu's relationship. Though she often expresses displeasure at their budding romance, she seems to be happy for them in her own way."
+          }
+        },
+        {
+          "id": 88180,
+          "name": "城崎志弦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88180-e3759b1SZhYG.png",
+          "description": "城崎志弦是河合庄的住户，也是宇佐和成的室友，从事小说创作。他有明显的受虐倾向，擅长复杂的绳结和捆绑技巧，也会制作手工物品。城崎经常用古怪言行打破和成期待的安静生活，让宿舍日常变得尴尬又好笑。尽管他兴趣特殊、举止随性，仍是河合庄稳定的住户之一，与其他人形成了熟悉的相处节奏。",
+          "nicknames": [
+            "城崎志弦",
+            "Shizuru Shirosaki",
+            "Shiro",
+            "城崎",
+            "城崎学长"
+          ],
+          "traits": [
+            "河合庄的住户",
+            "是宇佐和成的室友",
+            "职业为小说家",
+            "有明显的受虐倾向",
+            "擅长绳结与捆绑技巧",
+            "会制作手工物品",
+            "性格古怪而爱开玩笑",
+            "常让和成陷入尴尬处境",
+            "由四宫豪配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "四宮豪",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101724-MEUzOW3BRvy2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shizuru Shirosaki",
+            "name_native": "城崎志弦",
+            "name_alternative": [
+              "Shiro"
+            ],
+            "description": "Usa's somewhat perverted author roommate. Known for being a masochist, he specializes in bondage and can tie complex knots that are difficult to undo. He is good at crafting which he usually employs to while away boredom or make Mayumi feel better. When outside, he is usually marched off to the police station for being a suspicious character.\n\nCaught sticking his head through a hole in a fence that surrounded a grade school, he is the third resident that Usa meets.\n"
+          }
+        },
+        {
+          "id": 88181,
+          "name": "渡边彩花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b88181-fMUWb0GfIWlW.png",
+          "description": "渡边彩花是河合庄的女住户，外表甜美亲切，说话温柔，容易给人友善可靠的印象。她私下却喜欢捉弄他人，常以看似无害的方式引导对方透露心事，令宇佐和成难以招架。彩花与锦野麻弓等人共同生活，也和宇佐过去认识的人际关系有所交集。她表里反差鲜明，为宿舍成员间的互动增加了不少恶作剧和误会。",
+          "nicknames": [
+            "渡边彩花",
+            "Sayaka  Watanabe",
+            "渡辺彩花",
+            "Sayaka Watanabe",
+            "彩花"
+          ],
+          "traits": [
+            "河合庄的女住户",
+            "曾是大学生",
+            "外表甜美亲切",
+            "擅长用温柔态度与人交往",
+            "私下喜欢捉弄他人",
+            "善于引导别人透露想法",
+            "与麻弓同住河合庄",
+            "曾和宇佐在中学同学林身边出现",
+            "由金元寿子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "金元寿子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103555-2ZtBwZfy9DTi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sayaka  Watanabe",
+            "name_native": "渡辺彩花",
+            "name_alternative": [],
+            "description": "A college student staying at Kawai Dormitory. She is the last resident that Usa meets. Sweet on the outside but loves to cause trouble for others, she has a penchant for leading men on. She loves to fondle Mayumi, much to the latter's resentment."
+          }
+        },
+        {
+          "id": 146936,
+          "name": "林",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b146936-OtSQl4FRtBNP.jpg",
+          "description": "林是宇佐和成的中学旧同学，曾就读于西中学，也曾和宇佐一起与几位性格古怪的同伴来往。升入新的学校后，她改变了外表和待人方式，希望摆脱过去的形象。再次与宇佐相遇时，旧日经历重新影响两人的交流，也让宇佐回想起从前的校园生活。林的出现把河合庄之外的人际关系带进故事，补充了和成成长经历的一面。",
+          "nicknames": [
+            "林",
+            "Hayashi",
+            "林さん",
+            "小林"
+          ],
+          "traits": [
+            "宇佐和成的中学旧同学",
+            "曾与宇佐在西中学同校",
+            "过去与一群性格古怪的同伴来往",
+            "升学后外表和态度有所改变",
+            "重视自己在新环境中的形象",
+            "再次遇见宇佐后唤起旧日回忆",
+            "与河合庄住户产生交集",
+            "由沼仓爱美配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "沼倉愛美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104973-rymSxCu8uP0Y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hayashi",
+            "name_native": "林",
+            "name_alternative": [],
+            "description": "She is Usa's former middle school classmate from West Junior High, where she was one of the oddballs who was associated with Usa. She later on changes her looks and attitude upon attending high school."
+          }
+        },
+        {
+          "id": 179173,
+          "name": "北条",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179173-DD5hwYzHfXQV.jpg",
+          "description": "北条是宇佐和成在暑期兼职时结识的同事，工作场合使用“山本”这个名字。他把自己塑造成认真修行的角色，对这套人设颇为投入，言行一本正经又显得不合时宜，因此让宇佐联想到过去认识的人。北条与宇佐在工作中共同处理日常事务，短暂扩展了河合庄故事的校园和宿舍范围，也带来一段轻松的职场互动。",
+          "nicknames": [
+            "北条",
+            "Houjou",
+            "Yamamoto",
+            "山本",
+            "北条さん"
+          ],
+          "traits": [
+            "宇佐打工时结识的同事",
+            "工作时使用山本这一名字",
+            "对“修行者”设定十分认真",
+            "在职场中显得一本正经",
+            "与宇佐共同参加暑期兼职",
+            "其言行让宇佐联想到熟人",
+            "为打工篇章提供喜剧互动",
+            "由绿川光配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "緑川光",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95112-c275OLptkSYO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Houjou",
+            "name_native": "北条",
+            "name_alternative": [
+              "Yamamoto",
+              "山本"
+            ],
+            "description": "Houjou is one of the first employees Usa meets at his summer part time job. Going by the name Yamamoto at work, he appears to have assumed the \"apprentice\" character rather seriously and uses lyrical, explanatory notations to emphasize his words."
+          }
+        },
+        {
+          "id": 179174,
+          "name": "黑川",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179174-5vPK8RBdGZug.jpg",
+          "description": "黑川是宇佐和成暑期兼职时认识的同事，工作中使用“西园寺”这个名字。他常谈论守护灵，言行让宇佐想起从前某位熟人，因此很快引起宇佐注意。黑川与北条一起出现在兼职场所，在普通工作对话中加入神秘兮兮的内容，形成轻松的反差。他的戏份连接了宇佐的打工经历，也让观众看到河合庄住户之外另一群古怪人物。",
+          "nicknames": [
+            "黑川",
+            "Kurokawa",
+            "黒川",
+            "Saionji",
+            "西園寺",
+            "西园寺"
+          ],
+          "traits": [
+            "宇佐打工时结识的同事",
+            "工作时使用西园寺这一名字",
+            "经常谈论守护灵",
+            "其说话方式令宇佐觉得熟悉",
+            "与北条在同一处兼职",
+            "参与暑期工作日常",
+            "性格言谈带有神秘感",
+            "由近藤隆配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "近藤隆",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95206-R0eBPiYR9CRD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kurokawa",
+            "name_native": "黒川",
+            "name_alternative": [
+              "Saionji",
+              "西園寺"
+            ],
+            "description": "Kurokawa is also one of the first employees Usa meets at his summer part time job. Going by the name Saionji, he often speaks of guardian spirits which greatly reminds Usa of Hayashi."
+          }
+        },
+        {
+          "id": 179176,
+          "name": "田神",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179176-8qfOEbWkRsAk.jpg",
+          "description": "田神是宇佐和成在学校结识的朋友，主要通过同学关系参与校园日常。他与宇佐谈论学校生活，也让主角的交友范围延伸到河合庄之外。田神并非宿舍核心住户，角色资料较少，但在宇佐的高中生活场景中承担普通同学和朋友的功能，帮助呈现他在住宿生活与校园生活之间的往来。",
+          "nicknames": [
+            "田神",
+            "Tagami",
+            "田神くん",
+            "宇佐的同学"
+          ],
+          "traits": [
+            "宇佐和成的学校朋友",
+            "与宇佐同龄",
+            "通过校园关系参与故事",
+            "和成会与他谈论学校生活",
+            "为宿舍外的校园场景提供联系",
+            "出现在宇佐的日常交往中",
+            "角色背景以同学关系为主",
+            "由酒井俊辅配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "酒井俊輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n179135-hm3SelslD9As.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tagami",
+            "name_native": "田神",
+            "name_alternative": [],
+            "description": "Usa's friend at school.\n"
+          }
+        },
+        {
+          "id": 179177,
+          "name": "常田美晴",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179177-EXsqfILFBKyu.jpg",
+          "description": "常田美晴是渡边彩花的中学同学，与彩花在学生时代便有来往。她通过这段旧同学关系进入河合庄住户周围的人际圈，也补充了彩花在宿舍之外的过往。作品对美晴的个人背景着墨不多，但她的出现让彩花并非只存在于宿舍日常之中，也呈现了角色在校园时期形成的关系。",
+          "nicknames": [
+            "常田美晴",
+            "Miharu Tsuneda",
+            "常田 美晴",
+            "美晴"
+          ],
+          "traits": [
+            "渡边彩花的中学同学",
+            "与彩花有过去的校园交集",
+            "通过彩花进入宿舍住户的关系网",
+            "角色背景与学生时代有关",
+            "在故事中补充彩花的人际关系",
+            "与河合庄成员产生联系",
+            "其经历主要由旧同学关系交代",
+            "由诹访彩花配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "諏訪彩花",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115106-QsQwmOLeNILr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miharu Tsuneda",
+            "name_native": "常田美晴",
+            "name_alternative": [],
+            "description": "Sayaka's classmate back in middle school.\n"
+          }
+        },
+        {
+          "id": 179178,
+          "name": "篠原妙",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179178-z6tT0VkppGEI.png",
+          "description": "篠原妙是河合住子的朋友，也与宇佐和成的暑期兼职经历有关。她为宇佐介绍工作机会，使宇佐得以暂时离开河合庄的日常环境，接触新的同事和职场生活。妙以成年人的身份连接住子、宇佐及打工场景，虽然戏份不算集中，却推动了故事中的兼职篇章，并展现河合庄住户之间互相照应的人际关系。",
+          "nicknames": [
+            "篠原妙",
+            "Tae Shinohara",
+            "篠原タエ",
+            "妙阿姨"
+          ],
+          "traits": [
+            "河合住子的朋友",
+            "与宇佐的暑期兼职有关",
+            "为宇佐介绍工作机会",
+            "和河合庄管理人相识",
+            "以成年人身份参与学生打工日常",
+            "帮助故事延伸到宿舍之外",
+            "角色关系围绕住子与宇佐展开",
+            "由甲斐田裕子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "甲斐田ゆき",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95688-uK5svGURlbgS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tae Shinohara",
+            "name_native": "篠原タエ",
+            "name_alternative": [],
+            "description": "Sumiko's friend and Usa's employer at his summer part-time job.\n"
+          }
+        },
+        {
+          "id": 179179,
+          "name": "千夏",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b179179-hQ3J7j56RaHZ.jpg",
+          "description": "千夏是一名小学生，在城崎志弦帮她找回钱包后与河合庄住户相识。她曾和朋友发生不愉快，随后逐渐亲近河合庄里的成年人，把这里当作能够寻求帮助的地方。千夏以孩子的视角进入宇佐等人的日常，为宿舍生活带来短暂而温暖的变化，也让平时性格古怪的住户展现出照顾他人的一面。",
+          "nicknames": [
+            "千夏",
+            "Chinatsu",
+            "千夏ちゃん",
+            "小千夏"
+          ],
+          "traits": [
+            "小学生",
+            "在故事中与河合庄住户相识",
+            "曾因钱包遗失而获得城崎帮助",
+            "一度与朋友发生不愉快",
+            "逐渐亲近河合庄的成年人",
+            "以孩子视角参与宿舍日常",
+            "性格会随着相处显露依赖感",
+            "由清水爱配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "清水愛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95072-V8FWqUIDJ57b.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chinatsu",
+            "name_native": "千夏",
+            "name_alternative": [],
+            "description": "An elementary school student who becomes attached to the Kawai Dormitory residents after Shirosaki found her wallet during a temporary falling out with her friends. She can be quite frank with her observations and can be unsparing when she speaks her mind. She has a fondness for pudding and, in Shirosaki's point of view, has the makings of a sadist.\n\n(Source: Wikipedia)"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T14:34:57.682Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 115740,
+      "anime_title": "被神捡到的男人",
+      "anime_origin": "JP",
+      "source": {
+        "id": 115740,
+        "titles": [
+          "Kamitachi ni Hirowareta Otoko",
+          "By the Grace of the Gods",
+          "神達に拾われた男",
+          "The man picked up by the gods",
+          "Kamihiro",
+          "Kami-tachi ni Hirowareta Otoko",
+          "เพราะพระเจ้าเลือกเลยได้เกิดใหม่มาเลี้ยงสไลม์ในต่างโลก"
+        ],
+        "year": 2020,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/115740"
+      },
+      "characters": [
+        {
+          "id": 167274,
+          "name": "竹林龙马",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b167274-iBWLUtWBoOO6.jpg",
+          "description": "竹林龙马前世是日本一名平凡的公司职员，长期过劳后在睡梦中去世。因勤恳善良的品性受到神明认可，他转生到异世界并以八岁男孩的外表生活，得到三位神明的祝福。龙马曾独自在森林中修炼魔法、驯养各类史莱姆，后来遇见贾米尔公爵一家并前往吉穆尔城，逐步建立新的事业和人际关系。",
+          "nicknames": [
+            "竹林龙马",
+            "Ryouma Takebayashi",
+            "リョウマ・タケバヤシ",
+            "竹林竜馬",
+            "龙马",
+            "龙马·竹林"
+          ],
+          "traits": [
+            "前世是日本公司职员",
+            "在睡梦中去世后转生异世界",
+            "转生时成为八岁男孩",
+            "受到三位神明祝福",
+            "长期独自在森林生活",
+            "擅长驯养和培育史莱姆",
+            "性格勤恳善良",
+            "后来在吉穆尔城开展新生活",
+            "由田所梓配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "田所あずさ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112297-seUP8O4obuYO.png",
+              "language": "日语"
+            },
+            {
+              "name": "安元洋貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ryouma Takebayashi",
+            "name_native": "リョウマ・タケバヤシ",
+            "name_alternative": [
+              "竹林竜馬"
+            ],
+            "description": "The main protagonist who lived an uneventful life as an office worker in Japan before dying in his sleep. Due to his diligent and kind behavior, he earns the grace of the gods who send him to another world as an 8-year-old boy where he lives in a forest for three years while polishing his skills and taming hundreds of slimes, making use of their multiple abilities in various tasks from combat and hunting to cleaning and crafting, until meeting the Jamil family who warmly welcomes him among them. Determined to live independently, he refuses to overindulge on their hospitality and looks for ways to make ends meet by himself.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 180258,
+          "name": "艾莉亚·贾米尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180258-1tE8utxd0gLX.png",
+          "description": "艾莉亚·贾米尔是贾米尔公爵家的继承人，初次与龙马相遇时年仅十一岁。她很快与龙马成为亲密朋友，也像他一样擅长驯养魔物。艾莉亚拥有强大的魔法潜力，却一度难以控制体内魔力；龙马的指导和陪伴帮助她逐渐掌握力量。她邀请龙马进入贾米尔家族的生活，为龙马离开森林、接触城镇社会提供重要契机。",
+          "nicknames": [
+            "艾莉亚·贾米尔",
+            "Eliaria Jamil",
+            "エリアリア・ジャミール",
+            "Elia",
+            "艾莉亚",
+            "艾莉亚小姐"
+          ],
+          "traits": [
+            "贾米尔公爵家的继承人",
+            "初次与龙马相遇时十一岁",
+            "是龙马在异世界结识的亲密朋友",
+            "本身也是魔物驯养者",
+            "拥有很高的魔法潜力",
+            "早期较难控制强大魔力",
+            "邀请龙马了解贵族生活",
+            "由桑原由气配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "桑原由気",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118399-qM9moluPEbV2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Eliaria Jamil",
+            "name_native": "エリアリア・ジャミール",
+            "name_alternative": [
+              "Elia"
+            ],
+            "description": "Heir to the Jamil dukedom, Eliaria is an 11-year-old girl who becomes Ryoma's close friend. Like Ryoma, she is a monster tamer and her body is gifted with large magic potential, but has difficulty controlling it, until Ryoma teaches her how to train herself properly.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 180259,
+          "name": "盖因",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180259-ZfnfP5tXPYxM.jpg",
+          "description": "盖因是异世界的创造神，与生命之神库福、治愈与爱的女神露露蒂亚共同参与龙马的转生安排。三位神明认可龙马前世勤恳、善良的品性，给予他在异世界重新生活的机会，并向他说明新世界的基本情况。盖因负责创造世界和生命体系，在故事开端为龙马提供神明视角的指引，也确保他能够安全开始新的旅程。",
+          "nicknames": [
+            "盖因",
+            "Gain",
+            "ガイン",
+            "创造神盖因"
+          ],
+          "traits": [
+            "异世界的创造神",
+            "参与龙马转生后的神明指引",
+            "与另外两位神明共同观察龙马",
+            "负责创造世界和生命体系",
+            "认可龙马前世的勤勉品性",
+            "授予龙马转生机会",
+            "为龙马说明异世界基本情况",
+            "由清川元梦配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "清川元夢",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95333-11aYjXsaWLIp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gain",
+            "name_native": "ガイン",
+            "name_alternative": [],
+            "description": "The god of creation.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 180260,
+          "name": "莱因哈特·贾米尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180260-p7QrTMC3iIT0.jpg",
+          "description": "莱因哈特·贾米尔是贾米尔公爵，也是艾莉亚的父亲。他在森林中遇见龙马后，先以个人身份与这名独居少年建立友谊，随后邀请龙马与家族同行，帮助他进入城镇社会。莱因哈特重视女儿艾莉亚的成长，也支持她与龙马相处。他的善意为龙马带来新的生活环境，使故事从森林独居篇转向贵族家族与城市冒险。",
+          "nicknames": [
+            "莱因哈特·贾米尔",
+            "Reinhart Jamil",
+            "ラインハルト・ジャミール",
+            "莱因哈特公爵",
+            "艾莉亚的父亲"
+          ],
+          "traits": [
+            "贾米尔家族的公爵",
+            "是艾莉亚的父亲",
+            "在森林中遇见竹林龙马",
+            "先与龙马建立个人友谊",
+            "邀请龙马与家族同行",
+            "为龙马提供进入城镇的机会",
+            "关心女儿艾莉亚的成长",
+            "由小野大辅配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "小野大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95212-wX1M4LJN96q2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Reinhart Jamil",
+            "name_native": "ラインハルト・ジャミール",
+            "name_alternative": [],
+            "description": "The Duke of Jamil and Eliaria's father, he meets Ryoma in the forest and becomes his friend, later inviting him to live with his family.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 180261,
+          "name": "库福",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180261-ymtUxwU25gT9.jpg",
+          "description": "库福是异世界的生命之神，参与安排竹林龙马的转生，并与创造神盖因、治愈女神露露蒂亚共同给予他祝福。作为掌管生命的神明，他熟悉异世界生物及生命规则，也关注龙马在森林中与史莱姆等魔物相处的情况。库福在故事开端帮助龙马理解新世界，为他独自生活和驯养魔物提供神明层面的指引。",
+          "nicknames": [
+            "库福",
+            "Kufo",
+            "クフォ",
+            "生命之神"
+          ],
+          "traits": [
+            "异世界的生命之神",
+            "参与竹林龙马的转生",
+            "与盖因和露露蒂亚共同给予祝福",
+            "熟悉生命与物种相关知识",
+            "观察龙马在森林中的成长",
+            "为他解释世界中的生命规则",
+            "属于负责指引主角的神明",
+            "由小市真琴配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "小市眞琴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n129325-RhR0e5aA6Yj5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kufo",
+            "name_native": "クフォ",
+            "name_alternative": [],
+            "description": "The god of life.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 180262,
+          "name": "露露蒂亚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180262-it0bREt73Fch.jpg",
+          "description": "露露蒂亚是掌管治愈与爱的女神，与创造神盖因、生命之神库福一同安排龙马的异世界转生。她关心龙马能否在新世界过上平稳生活，并给予他相应祝福。露露蒂亚以温柔亲切的形象出现，负责从治愈和人际关系角度引导龙马，也代表三位神明中与爱、善意和生活照料相关的一面。",
+          "nicknames": [
+            "露露蒂亚",
+            "Lulutia",
+            "ルルティア",
+            "治愈与爱的女神"
+          ],
+          "traits": [
+            "异世界的治愈与爱之女神",
+            "参与龙马的转生安排",
+            "与盖因和库福共同给予祝福",
+            "关心龙马在异世界的生活",
+            "具有温柔亲切的神明形象",
+            "关注治愈与人际关系",
+            "为龙马提供神明指引",
+            "由井上喜久子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "井上喜久子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95195-nLvtZl5sCK0D.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lulutia",
+            "name_native": "ルルティア",
+            "name_alternative": [],
+            "description": "The goddess of healing and love.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 180263,
+          "name": "米娅",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180263-AUOi7jGA4PHf.jpg",
+          "description": "米娅是一名女性猫兽人冒险者，拥有B级冒险者资格。龙马来到吉穆尔城并开始接取工作后，她成为他的第一位清洁委托人，请他打扫自己的住所。米娅随后与龙马建立友谊，也让他接触到城镇冒险者的日常生活。她兼有兽人身份和成熟冒险者经验，是龙马从森林独居走向城市社会后结识的重要朋友。",
+          "nicknames": [
+            "米娅",
+            "Miya",
+            "ミーヤ",
+            "猫兽人米娅"
+          ],
+          "traits": [
+            "女性猫兽人",
+            "职业是冒险者",
+            "冒险者等级为B级",
+            "成为龙马接到的第一位清洁委托人",
+            "委托龙马清扫房屋",
+            "与龙马逐渐成为朋友",
+            "在吉穆尔城生活和活动",
+            "由高野麻里佳配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "高野麻里佳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119383-En92dXrTlJTY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Miya",
+            "name_native": "ミーヤ",
+            "name_alternative": [],
+            "description": "A female cat beastman and rank B adventurer, she becomes Ryoma's first client after he becomes an adventurer when he is tasked to clean her house, later becoming his friend.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 180264,
+          "name": "田渊",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180264-EpnVauy4rMeX.png",
+          "description": "田渊是龙马前世在日本公司工作的同事，主要出现在龙马对过往生活的回忆中。他和龙马共享普通职员的工作环境，也代表龙马转生前那段看似平凡却长期承受压力的人生。田渊并未参与异世界冒险，但通过前世职场关系帮助观众理解龙马为何珍惜如今自由、健康的生活。",
+          "nicknames": [
+            "田渊",
+            "Tabuchi",
+            "田淵",
+            "龙马前世的同事"
+          ],
+          "traits": [
+            "龙马前世在日本公司的同事",
+            "与龙马共享职场经历",
+            "出现在龙马前世回忆中",
+            "代表他曾经的普通上班族生活",
+            "与异世界冒险没有直接关系",
+            "让龙马回想前世工作环境",
+            "由古川慎配音",
+            "人物背景主要围绕公司关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "古川慎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112635-ORlGvRvgf5Nq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tabuchi",
+            "name_native": "田淵",
+            "name_alternative": [],
+            "description": "Ryoma's co-worker during his previous life."
+          }
+        },
+        {
+          "id": 180265,
+          "name": "伊莉丝·贾米尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180265-5j5eEtvhjiWq.png",
+          "description": "伊莉丝·贾米尔是贾米尔公爵莱因哈特的妻子，也是艾莉亚的母亲。龙马进入贾米尔家族生活后，她与丈夫一同接待并照顾这位来自森林的少年，让他体验到家庭式的温暖。伊莉丝关心女儿艾莉亚的成长，也会留意龙马与女儿之间逐渐建立的友谊。她是贾米尔家族中承担照料和家庭关系的重要成员。",
+          "nicknames": [
+            "伊莉丝·贾米尔",
+            "Elise Jamil",
+            "エリーゼ・ジャミール",
+            "伊莉丝夫人",
+            "艾莉亚的母亲"
+          ],
+          "traits": [
+            "贾米尔家族成员",
+            "是艾莉亚的母亲",
+            "莱因哈特·贾米尔的妻子",
+            "关心女儿的成长",
+            "参与接待和照顾龙马",
+            "熟悉贵族家族生活",
+            "为龙马提供家庭式关怀",
+            "由早见沙织配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "早見沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Elise Jamil",
+            "name_native": "エリーゼ・ジャミール",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 180266,
+          "name": "莱因巴赫·贾米尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b180266-TWeYYdhvkBIL.png",
+          "description": "莱因巴赫·贾米尔是贾米尔家族的长辈，也是莱因哈特的父亲和艾莉亚的祖父。他熟悉贵族家族事务，在龙马进入贾米尔家生活后，会观察这名少年的能力和品行。莱因巴赫参与家族接纳龙马的过程，为他在城镇中的新生活提供长辈支持；他的身份也补充了贾米尔家族从祖辈到年轻继承人的家庭结构。",
+          "nicknames": [
+            "莱因巴赫·贾米尔",
+            "Reinbach Jamil",
+            "ラインバッハ・ジャミール",
+            "莱因巴赫公爵",
+            "艾莉亚的祖父"
+          ],
+          "traits": [
+            "贾米尔家族长辈",
+            "是莱因哈特的父亲",
+            "是艾莉亚的祖父",
+            "熟悉家族历史和贵族事务",
+            "与龙马在家族生活中相识",
+            "参与判断龙马的能力与品行",
+            "支持贾米尔家族接纳龙马",
+            "由子安武人配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Reinbach Jamil",
+            "name_native": "ラインバッハ・ジャミール",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 188211,
+          "name": "沃根",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b188211-5yjm6M9t95ck.png",
+          "description": "沃根是吉穆尔冒险者公会分部的负责人，管理当地冒险者登记、任务安排及相关事务。龙马成为冒险者后，需要通过公会接触委托和城市人脉，沃根因此成为他在冒险者社会中的重要联络人。沃根熟悉吉穆尔城的冒险者情况，也能观察龙马如何凭借自身能力逐渐建立名声。",
+          "nicknames": [
+            "沃根",
+            "Worgan",
+            "ウォーガン",
+            "吉穆尔公会会长"
+          ],
+          "traits": [
+            "吉穆尔冒险者公会分部负责人",
+            "管理当地冒险者事务",
+            "负责公会任务和等级评定",
+            "与龙马的冒险者生活有关",
+            "熟悉城镇中的冒险者人脉",
+            "会为新人提供工作安排",
+            "见证龙马逐渐建立名声",
+            "由稻田彻配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "稲田徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Worgan",
+            "name_native": "ウォーガン",
+            "name_alternative": [],
+            "description": "The master of the Adventurer's Guild's Gimuru branch.\n\n(Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 195773,
+          "name": "格莉塞拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195773-bDY7CKNDHwrp.png",
+          "description": "格莉塞拉是吉穆尔城商人公会的会长，负责管理商业事务并熟悉当地商贸网络。龙马在城镇建立清洁业务和其他经营活动后，需要与商人公会打交道，格莉塞拉会评估他的经营能力并给予相应认可。她以公会领袖身份为龙马提供商业方面的联系，使主角的冒险之外也逐渐发展出稳定事业。",
+          "nicknames": [
+            "格莉塞拉",
+            "Glissela",
+            "グリシエーラ",
+            "商人公会会长"
+          ],
+          "traits": [
+            "商人公会的会长",
+            "负责管理商业相关事务",
+            "熟悉吉穆尔城的商贸网络",
+            "与龙马经营的业务产生联系",
+            "能判断新商人的经营潜力",
+            "在公会中拥有较高地位",
+            "为龙马提供商业方面的认可",
+            "由铃木玲子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴木れい子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101504-v5pnjcD80zDL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Glissela",
+            "name_native": "グリシエーラ",
+            "name_alternative": [],
+            "description": "Guildmaster of the Merchant's Guild"
+          }
+        },
+        {
+          "id": 197880,
+          "name": "李玲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197880-b9Am4JnKoi5H.png",
+          "description": "李玲过去曾是一名刺客，后来离开原有生活，成为竹林的员工。她是费玲的女儿，受过专业行动训练，拥有与普通店员不同的经历。转入新的工作环境后，李玲需要适应日常营业和同事关系，也把过去掌握的能力用于保护伙伴与处理意外情况。她的身份体现作品中角色从危险过去转向平稳生活的主题。",
+          "nicknames": [
+            "李玲",
+            "Li Ling",
+            "リーリン",
+            "李玲小姐"
+          ],
+          "traits": [
+            "曾经是刺客",
+            "目前在竹林工作",
+            "是费玲的女儿",
+            "拥有专业的行动和侦察训练",
+            "离开刺客生活后从事日常工作",
+            "与龙马的事业相关",
+            "适应新的工作环境",
+            "由东城日沙子配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "東城日沙子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118400-z4bVC1opOj91.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Li Ling",
+            "name_native": "リーリン",
+            "name_alternative": [],
+            "description": "Former assassin. Current employee of Bamboo Forest. Daughter of <a href=\"https://anilist.co/character/197881\">Fei Ling</a>"
+          }
+        },
+        {
+          "id": 197884,
+          "name": "卡勒姆·诺拉德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197884-D2e8eVFn9o9F.png",
+          "description": "卡勒姆·诺拉德是竹林的员工，也是卡拉·诺拉德的双胞胎兄弟。两人一同参与店铺日常工作，在龙马经营事业的过程中提供协助。卡勒姆与妹妹共同进入新的生活环境，兄妹间的熟悉默契也反映在工作配合上。作品对他的个人经历描写有限，目前可确认的重点是员工身份和双胞胎关系。",
+          "nicknames": [
+            "卡勒姆·诺拉德",
+            "Callum Norad",
+            "カルム・ノーラッド",
+            "卡勒姆",
+            "诺拉德双胞胎哥哥"
+          ],
+          "traits": [
+            "竹林的员工",
+            "是卡拉·诺拉德的双胞胎兄弟",
+            "参与店铺日常工作",
+            "与妹妹共同进入新的生活环境",
+            "有稳定的同伴关系",
+            "在龙马事业周围提供工作协助",
+            "角色身份与双胞胎家庭有关",
+            "由中村樱配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "中村桜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111323-3rH4zdQLTjue.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Callum Norad",
+            "name_native": "カルム・ノーラッド",
+            "name_alternative": [],
+            "description": "Employee of Bamboo Forest. Twin of [Carla](https://anilist.co/character/197885)\n"
+          }
+        },
+        {
+          "id": 197885,
+          "name": "卡拉·诺拉德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b197885-5kDCFcEXmilV.png",
+          "description": "卡拉·诺拉德是竹林的员工，也是卡勒姆·诺拉德的双胞胎姐妹。她与哥哥共同参与店铺工作，帮助龙马的事业稳定运营。兄妹俩在新的生活环境中保持亲密关系，也与其他员工建立日常合作。现有资料没有进一步说明卡拉的过去或专长，因此本条以其已确认的工作身份、兄妹关系和剧情功能为主。",
+          "nicknames": [
+            "卡拉·诺拉德",
+            "Carla Norad",
+            "カルラ・ノーラッド",
+            "卡拉",
+            "诺拉德双胞胎妹妹"
+          ],
+          "traits": [
+            "竹林的员工",
+            "是卡勒姆·诺拉德的双胞胎姐妹",
+            "参与店铺日常工作",
+            "与哥哥共同适应新环境",
+            "和同事建立工作关系",
+            "为龙马的事业提供帮助",
+            "角色背景围绕双胞胎关系展开",
+            "由保科李沙配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "保科李沙",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123782-lu9UhmaXOwGM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Carla Norad",
+            "name_native": "カルラ・ノーラッド",
+            "name_alternative": [],
+            "description": "Employee of Bamboo Forest. Twin of [Callum](https://anilist.co/character/197884)"
+          }
+        },
+        {
+          "id": 199419,
+          "name": "杰夫·格兰杰",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b199419-usbpRr1WTI4i.jpg",
+          "description": "杰夫·格兰杰是B级冒险者，惯用武器为长枪，在吉穆尔城冒险者圈中拥有一定经验。他能够参与需要战斗能力的委托，也会与龙马在冒险者公会和任务活动中产生联系。杰夫的等级和武器说明了他的职业定位，虽然个人经历未被详细展开，但他为作品中的冒险者群体补充了成熟战斗人员的形象。",
+          "nicknames": [
+            "杰夫·格兰杰",
+            "Jeff Grange",
+            "ジェフ",
+            "ジェフ・グランジェ",
+            "杰夫",
+            "长枪冒险者"
+          ],
+          "traits": [
+            "B级冒险者",
+            "惯用武器是长枪",
+            "拥有一定的战斗与任务经验",
+            "活跃于吉穆尔城冒险者公会",
+            "与龙马的冒险者圈子产生联系",
+            "能够参加需要战斗力的委托",
+            "熟悉公会任务流程",
+            "由川田绅司配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "川田紳司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95410-AosJKUc7YZXE.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jeff Grange",
+            "name_native": "ジェフ",
+            "name_alternative": [],
+            "description": "A B-class adventurer wielding a lance."
+          }
+        }
+      ]
+    }
+  ]
+}

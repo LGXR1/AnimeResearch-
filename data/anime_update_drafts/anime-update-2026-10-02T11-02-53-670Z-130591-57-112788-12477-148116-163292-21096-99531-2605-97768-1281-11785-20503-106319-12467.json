@@ -1,0 +1,3857 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T11:02:53.672Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 130591,
+      "anime_title": "食锈末世录",
+      "anime_origin": "JP",
+      "source": {
+        "id": 130591,
+        "titles": [
+          "Sabikui Bisco",
+          "錆喰いビスコ",
+          "Rust-Eater Bisco",
+          "บิสโก้ นรชนคนโคตรเห็ด",
+          "Bisco Si Pemakan Karat"
+        ],
+        "year": 2022,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/130591"
+      },
+      "characters": [
+        {
+          "id": 211161,
+          "name": "赤星毕斯可",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211161-TI6jm5TNqYKk.png",
+          "description": "赤星毕斯可因被称作“食人蘑菇”的蘑菇守护者而遭到通缉。他为寻找能够治疗锈蚀病的“锈食蘑菇”，与医生米洛结伴踏上旅程。毕斯可擅长使用弓箭，将特殊蘑菇作为箭矢种下，让菌类迅速生长并改变战局。他起初独自行动、对外界充满戒备，途中逐渐学会信任同伴，并把拯救患者和守护伙伴放在个人安危之前。",
+          "nicknames": [
+            "Bisco Akaboshi",
+            "赤星ビスコ",
+            "Man-Eating Mushroom",
+            "Man-Eating Redcap",
+            "毕斯可",
+            "Bisco"
+          ],
+          "traits": [
+            "食锈末世录主角",
+            "蘑菇守护者",
+            "通缉犯",
+            "绰号食人蘑菇",
+            "擅长弓术",
+            "携带蘑菇箭",
+            "为寻找锈食蘑菇旅行",
+            "重视搭档米洛",
+            "行动果断"
+          ],
+          "voice_actors": [
+            {
+              "name": "鈴木崚汰",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123450-Hmi5iu3KDHwc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Bisco Akaboshi",
+            "name_native": "赤星ビスコ",
+            "name_alternative": [
+              "Man-Eating Mushroom",
+              "Man-Eating Redcap"
+            ],
+            "description": "__Height:__ 180 cm\n__Occupation:__ Mushroom Keeper\n\nA mushroom protector with the nickname of \"Man-Eating Mushroom\" who is regarded as a terrorist and has a price on his head. He commands a giant crab named Actagawa that is also used as for transport."
+          }
+        },
+        {
+          "id": 211162,
+          "name": "米洛·猫柳",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211162-bB9k8QbeJa56.png",
+          "description": "猫柳米洛是在熊猫诊所工作的年轻医生，拥有出色的医疗知识，左眼旁有一块醒目的熊猫状胎记。他为了寻找能治愈锈蚀病的蘑菇，与被通缉的蘑菇守护者毕斯可一同踏上旅途。米洛起初身体虚弱，也因疾病受到歧视，但他并未放弃救治患者。旅程中他不断锻炼自己，在关键时刻以医术、判断力和勇气支援搭档。",
+          "nicknames": [
+            "Milo Nekoyanagi",
+            "猫柳ミロ",
+            "Panda",
+            "米洛",
+            "Milo"
+          ],
+          "traits": [
+            "食锈末世录主角",
+            "年轻医生",
+            "经营熊猫诊所",
+            "擅长临床诊疗",
+            "患有锈蚀病",
+            "与毕斯可同行",
+            "左眼旁有熊猫状胎记",
+            "性格温和",
+            "重视病患"
+          ],
+          "voice_actors": [
+            {
+              "name": "花江夏樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Milo Nekoyanagi",
+            "name_native": "猫柳ミロ",
+            "name_alternative": [
+              "Panda"
+            ],
+            "description": "__Height:__ 168 cm\n\nA young doctor with outstanding medical skills who runs the Panda Clinic. He has pale blue hair and a panda-like birthmark around his left eye which causes him to be referred to as Panda."
+          }
+        },
+        {
+          "id": 211163,
+          "name": "帕乌·猫柳",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211163-htLuW3w5lMeJ.png",
+          "description": "帕乌·猫柳是医生米洛的姐姐，也是伊美滨警备队的队长。她本人同样罹患锈蚀病，却仍承担守护城镇居民的职责，并率队追捕被视为威胁的蘑菇守护者。帕乌习惯以强硬态度处理危机，行动果断，具有出色的领导力；得知弟弟离开后，她既担忧他的安危，也努力维持城内秩序。她逐渐看见毕斯可一行人的真实目的，开始重新判断敌友。",
+          "nicknames": [
+            "Pawoo Nekoyanagi",
+            "猫柳パウー",
+            "帕乌",
+            "Pawoo"
+          ],
+          "traits": [
+            "米洛的姐姐",
+            "锈蚀病患者",
+            "伊美滨警备队长",
+            "保护城镇居民",
+            "擅长指挥",
+            "坚毅果敢",
+            "重视弟弟",
+            "与毕斯可相识"
+          ],
+          "voice_actors": [
+            {
+              "name": "近藤玲奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124747-uWJRlxZ05TaM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pawoo Nekoyanagi",
+            "name_native": "猫柳パウー",
+            "name_alternative": [],
+            "description": "Milo Nekoyangi's older sister who is stricken with the Rust disease. She is Captain of the Imihama Watch which defends society from \"mushroom terrorists\". \n"
+          }
+        },
+        {
+          "id": 211164,
+          "name": "奇洛尔·大茶釜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b211164-kx6xJ0mv9O6j.png",
+          "description": "奇洛尔·大茶釜是一名年轻的女性佣兵，受城主黑革雇用参与追捕行动。她留着醒目的粉色编发，行动灵活，能够在混乱的局势中迅速判断风险。奇洛尔最初按委托行事，把报酬和自身安全放在前面；随着与毕斯可、米洛等人接触，她开始了解锈蚀病背后的真相，也逐渐展现出不只看重利益的一面。她擅长随机应变，是故事中立场会随事实变化的角色。",
+          "nicknames": [
+            "Tirol Oochagama",
+            "大茶釜チロル",
+            "Jellyfish",
+            "奇洛尔",
+            "Tirol"
+          ],
+          "traits": [
+            "年轻佣兵",
+            "受黑革雇用",
+            "擅长执行委托",
+            "行动灵活",
+            "粉色编发",
+            "具备实战经验",
+            "关注报酬",
+            "对局势敏锐"
+          ],
+          "voice_actors": [
+            {
+              "name": "富田美憂",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119518-vZN7TPy12iuu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tirol Oochagama",
+            "name_native": "大茶釜チロル",
+            "name_alternative": [
+              "Jellyfish"
+            ],
+            "description": "A young female mercenary with plaited pink hair who is employed by Kurokawa."
+          }
+        },
+        {
+          "id": 252175,
+          "name": "黑革",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252175-cXp9CTG9aOE4.jpg",
+          "description": "黑革是掌控伊美滨的城主，拥有军队与行政权力。他以维护秩序为名追捕蘑菇守护者，派出戴兔子面具的部下搜捕毕斯可和米洛，并试图把锈蚀病及其治疗方法纳入自己的控制。黑革行事冷酷，擅长利用权势和舆论塑造敌人形象；随着主角一行揭开城中的秘密，他逐渐显露出对权力的执着，也成为推动冲突升级的重要对手。",
+          "nicknames": [
+            "Kurokawa",
+            "黒革",
+            "城主"
+          ],
+          "traits": [
+            "伊美滨城主",
+            "掌握城市军队",
+            "追捕蘑菇守护者",
+            "使用兔面具卫兵",
+            "政治权力者",
+            "企图控制锈蚀病",
+            "手段强硬",
+            "与米洛和毕斯可对立"
+          ],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kurokawa",
+            "name_native": "黒革",
+            "name_alternative": [],
+            "description": "Corrupt city governor who uses his army of rabbit mask bodyguards to hunt down [Milo](https://anilist.co/character/211162/Milo-Nekoyanagi) and [Bisco.](https://anilist.co/character/211161/Bisco-Akaboshi) He seems to have a strange obsession with Bisco."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 57,
+      "anime_title": "BECK 摇滚新乐团",
+      "anime_origin": "JP",
+      "source": {
+        "id": 57,
+        "titles": [
+          "BECK",
+          "Beck: Mongolian Chop Squad",
+          "ベック"
+        ],
+        "year": 2004,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/57"
+      },
+      "characters": [
+        {
+          "id": 308,
+          "name": "平义行",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308-4a9DDGoSiqOK.jpg",
+          "description": "平义行是摇滚乐队BECK最早加入的成员之一，担任贝斯手，使用Music Man贝斯演奏。他的节奏感稳定、技术成熟，在乐队中承担牢靠的低音基础，也是龙介组建新乐队后最早认可的伙伴之一。平平时不爱夸张表达，更多通过演奏展现实力；面对排练和演出压力时，他能保持专注，帮助不同性格的成员形成统一的音乐节奏。",
+          "nicknames": [
+            "Yoshiyuki Taira",
+            "平義行",
+            "平",
+            "Taira"
+          ],
+          "traits": [
+            "BECK贝斯手",
+            "最早加入乐队的成员",
+            "使用Music Man贝斯",
+            "节奏稳定",
+            "演奏技术娴熟",
+            "性格冷静",
+            "支持龙介组团",
+            "重视乐队合奏"
+          ],
+          "voice_actors": [
+            {
+              "name": "野島健児",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95074-ilLCdbpWIgrF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yoshiyuki Taira",
+            "name_native": "平義行",
+            "name_alternative": [],
+            "description": "The first recruited member of BECK, Taira is the bassist, and the most talented band member next to [Ryusuke](https://anilist.co/character/4170/Minami-Ryuusuke). He plays Music Man StingRay bass. His attitude may sometimes come off as uncaring. He has been seen working as a traffic officer. As the story progresses, we learn that his father was a jazz musician that left him and his mother when he was young."
+          }
+        },
+        {
+          "id": 676,
+          "name": "田中幸雄",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b676-fH6R0OOn5lQb.jpg",
+          "description": "田中幸雄常被朋友称作“小幸”，故事从他平凡而缺乏自信的学生生活开始。结识龙介并接触摇滚乐后，他学习吉他、练习演唱，逐步从旁观者成长为BECK的核心成员。小幸起初不善于表达，也容易被同龄人欺负，但他对音乐的投入让演奏能力持续提升。面对舞台、友情和感情上的选择，他逐渐学会主动承担责任。",
+          "nicknames": [
+            "Yukio Tanaka",
+            "田中幸雄",
+            "Koyuki",
+            "小幸",
+            "Yukio"
+          ],
+          "traits": [
+            "BECK主角",
+            "高中生",
+            "吉他手",
+            "最初缺乏自信",
+            "接受龙介指导",
+            "练习声乐与吉他",
+            "喜欢摇滚乐",
+            "参与组建BECK",
+            "逐步成长为舞台表演者"
+          ],
+          "voice_actors": [
+            {
+              "name": "浪川大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yukio Tanaka",
+            "name_native": "田中幸雄",
+            "name_alternative": [
+              "Koyuki"
+            ],
+            "description": "The main character, the series follows his rapid development from living an average life to becoming an outstanding guitarist. Being a weak individual lacking an authoritative presence , he cannot help but let others push him around, a possible metaphoric stereotype on the very proper and manner conscious Japanese society. Recruited as the last member of BECK, he serves as the second guitarist and vocalist, and has a very beautiful voice that is mostly used for Beck&#039;s slower songs. He owns a Fender Telecaster."
+          }
+        },
+        {
+          "id": 2755,
+          "name": "南真帆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2755-HaqHwcOp17uG.jpg",
+          "description": "南真帆是吉他手南龙介的妹妹，也是一名具有歌唱才能的少女。她与小幸相识后，两人之间逐渐发展出复杂而微妙的感情关系；有时真帆会主动亲近，有时又以直接的态度拉开距离。她并非只围绕乐队成员展开故事，而是有自己的判断和生活选择。真帆对音乐有敏锐感受，也能在小幸成长的过程中带来重要影响。",
+          "nicknames": [
+            "Maho Minami",
+            "南真帆",
+            "真帆",
+            "Maho"
+          ],
+          "traits": [
+            "龙介的妹妹",
+            "歌手",
+            "音乐感受力强",
+            "性格独立",
+            "与小幸相识",
+            "关注乐队活动",
+            "表达直接",
+            "重视个人选择"
+          ],
+          "voice_actors": [
+            {
+              "name": "斉木美帆",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95365-3wV62ahHGAvu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Maho Minami",
+            "name_native": "南真帆",
+            "name_alternative": [],
+            "description": "Ryusuke&#039;s sister who is a talented singer with a strange relationship with Koyuki. At times she seems attracted to him, at others she brushes him off with little regard to his often ignored feelings."
+          }
+        },
+        {
+          "id": 4946,
+          "name": "千叶恒美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4946-WbPIMY0odWkT.jpg",
+          "description": "千叶恒美是BECK的主唱，以充满力量的演出和鲜明个性带动乐队气氛。他的表现方式直接，有时容易冲动，但在舞台上能够把情绪转化为强烈的感染力。龙介组建BECK时正需要一位有存在感的主唱，千叶因此成为乐队的重要成员。他与吉他、贝斯和鼓手共同磨合，在演出中逐渐理解团队配合的重要性，也持续守护乐队的风格。",
+          "nicknames": [
+            "Tsunemi Chiba",
+            "千葉恒美",
+            "千叶",
+            "Chiba"
+          ],
+          "traits": [
+            "BECK主唱",
+            "高能量舞台表现",
+            "乐队核心成员",
+            "擅长带动观众",
+            "性格冲动直接",
+            "与龙介合作",
+            "重视现场气氛",
+            "坚持乐队理想"
+          ],
+          "voice_actors": [
+            {
+              "name": "大畑伸太郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96818-yAH3Krh7Y7Uy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Tsunemi Chiba",
+            "name_native": "千葉恒美",
+            "name_alternative": [],
+            "description": "Main vocalist for BECK, he is the key member that [Ryusuke](https://anilist.co/character/4170/Minami-Ryuusuke) needed to bring [Taira](https://anilist.co/character/308/Taira-Yoshiyuki) into the band. His attitude, style, and appearance was based on Zack De La Rocha from Rage Against The Machine and compared to [Koyuki](https://anilist.co/character/676/Tanaka-Yukio), his voice is more punk and rock oriented, like the majority of the band's songs. He also named the band Beck after staring at [Ryusuke's dog](https://anilist.co/character/141894/Beck) for a few moments. He also tends to pick his nose."
+          }
+        },
+        {
+          "id": 7397,
+          "name": "小笠原桃子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7397-EmHp79QH6iv6.png",
+          "description": "小笠原桃子是小幸在学校的音乐老师，因学生小幸而结识了斋藤研一。两人随后逐渐发展出亲密关系，让桃子与斋藤的生活线和乐队故事产生交集。她在校园中负责音乐教学，也会留意学生们的音乐兴趣和成长。桃子并非乐队成员，却为小幸提供了接触音乐的环境，并展现成年人在工作、感情与日常生活中的另一面。",
+          "nicknames": [
+            "Momoko Ogasawara",
+            "小笠原桃子",
+            "Momo",
+            "桃子",
+            "Momoko"
+          ],
+          "traits": [
+            "小幸的音乐老师",
+            "在学校授课",
+            "教授音乐",
+            "通过小幸结识斋藤",
+            "与斋藤发展关系",
+            "支持学生接触音乐",
+            "关注校园生活",
+            "性格成熟"
+          ],
+          "voice_actors": [
+            {
+              "name": "永島由子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96582-pZIoOXgpxn1y.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Momoko Ogasawara",
+            "name_native": "小笠原桃子",
+            "name_alternative": [
+              "Momo"
+            ],
+            "description": "Koyuki's music teacher at school, she gets to know Saitou through Koyuki and they start to develop a relationship through the series."
+          }
+        },
+        {
+          "id": 7398,
+          "name": "木村荣二",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7398-YN95mT0ROvdP.png",
+          "description": "木村荣二曾加入龙介早期的乐队Serial Mama，之后与龙介走向竞争关系，并参与新的乐队Belle Ame。Belle Ame凭借舞台表现和市场宣传成为BECK的重要对手，令两支乐队在演出和音乐道路上形成对照。荣二熟悉乐队运作，也重视团体的知名度；他与龙介之间的旧交和竞争，使小幸等人不得不面对音乐圈中的较量。",
+          "nicknames": [
+            "Eiji Kimura",
+            "木村栄二",
+            "荣二"
+          ],
+          "traits": [
+            "曾加入龙介的旧乐队Serial Mama",
+            "与龙介成为对手",
+            "参与组建Belle Ame",
+            "身处音乐圈",
+            "与BECK竞争",
+            "熟悉乐队演出",
+            "重视乐队声望",
+            "推动乐队冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "渋谷茂",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95815-IKiWyEytGNvt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eiji Kimura",
+            "name_native": "木村栄二",
+            "name_alternative": [],
+            "description": "Originally in Ryusuke's first band, Serial Mama, he turned into his rival, and his new band, Belle Ame, formed as BECK's competition was mainly succeeding through appeal for the band member's looks and not sound. Getting all the big breaks, Belle Ame seemed destined for greatness, until BECK destroyed their ride to fame, at the cost of being blacklisted in the music industry."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 112788,
+      "anime_title": "海边的异邦人",
+      "anime_origin": "JP",
+      "source": {
+        "id": 112788,
+        "titles": [
+          "Umibe no Étranger",
+          "The Stranger by the Shore",
+          "海辺のエトランゼ",
+          "Seaside Stranger",
+          "Umibe no Etranger",
+          "L'Étranger de la plage",
+          "The Stranger by the Beach"
+        ],
+        "year": 2020,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/112788"
+      },
+      "characters": [
+        {
+          "id": 122187,
+          "name": "桥本骏",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122187-ynVrytSQ36lu.png",
+          "description": "桥本骏是在冲绳生活、希望成为小说家的青年。他在那里结识失去母亲后暂住的知花实央，两人的关系从陌生和误解逐渐发展为亲密感情。骏曾因性向向家人出柜，并因此离开原有生活环境；面对家庭期待和自己的真实感受，他一度选择逃避。与实央重逢后，骏需要正视过去，也学着坦诚表达对伴侣的在意。",
+          "nicknames": [
+            "Shun Hashimoto",
+            "橋本駿",
+            "骏",
+            "Shun"
+          ],
+          "traits": [
+            "海边的异邦人主角",
+            "小说家志向",
+            "居住冲绳",
+            "男性同性恋者",
+            "与实央相识",
+            "曾离开故乡",
+            "面对家庭压力",
+            "重视个人选择"
+          ],
+          "voice_actors": [
+            {
+              "name": "村田太志",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107705-lVfYRzWY5AFW.jpg",
+              "language": "日语"
+            },
+            {
+              "name": "櫻井優輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n98725-reVgCGb24wjv.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shun Hashimoto",
+            "name_native": "橋本駿",
+            "name_alternative": [],
+            "description": "Hashimoto Shun, a gay novelist in the making, lived on the island Okinawa with his family. On Okinawa, he met a boy named Chibana Mio, who later left to pursue his studies for three years. When he returned, he confessed his attraction to Shun and developed a relationship with him.\n\nOriginally from Hokkaido, he moved to Okinawa to live with his grandmother after his parents discovered his sexual orientation."
+          }
+        },
+        {
+          "id": 122188,
+          "name": "知花实央",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b122188-6hwbkiFbSrQi.png",
+          "description": "知花实央在母亲去世后短暂搬到冲绳生活，在海边遇见了桥本骏。起初他对骏的态度和言语感到不快，却在相处中逐渐喜欢上对方。离开冲绳求学数年后，实央重新回到岛上，坦率地追求这段感情。他年纪尚轻，却愿意为自己的选择负责；对骏的坚定也促使两人面对家人、距离和共同生活等现实问题。",
+          "nicknames": [
+            "Mio Chibana",
+            "知花実央",
+            "实央",
+            "Mio"
+          ],
+          "traits": [
+            "海边的异邦人主角",
+            "二十岁",
+            "自由职业者",
+            "母亲去世",
+            "曾在冲绳生活",
+            "爱上桥本骏",
+            "离开后重返故地",
+            "主动追求感情"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            },
+            {
+              "name": "鳴海竜明",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n217888-mF6WbgoTMzJP.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mio Chibana",
+            "name_native": "知花実央",
+            "name_alternative": [],
+            "description": "Mio is a 20-year-old freeter. After his mother's death, he briefly moves to Okinawa, where he meets Shun. Initially offended at Shun's attitude, he soon falls in love and pursues him romantically when he returns to Okinawa. Mio attempts to get better understanding of Shun's concerns, despite Shun constantly dismissing his advances."
+          }
+        },
+        {
+          "id": 182565,
+          "name": "樱子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b182565-RyFcVA0BUgtj.png",
+          "description": "樱子是骏从小认识的朋友，早已知道他喜欢男性，也理解他在家庭关系中的处境。两家曾安排她与骏订婚，但骏向父母出柜后，婚约并未成为两人真正的感情关系。樱子对这段经历看得坦然，仍以朋友身份关心骏；她的出现让骏有机会谈起过去，也帮助实央理解骏离开故乡的原因。",
+          "nicknames": [
+            "Sakurako",
+            "桜子"
+          ],
+          "traits": [
+            "骏的童年好友",
+            "了解骏的性向",
+            "曾与骏订婚",
+            "婚约来自家庭安排",
+            "性格坦率",
+            "尊重个人选择",
+            "与骏保持联系",
+            "理解冲绳生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "嶋村侑",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100295-SLfRq3RqJEoF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sakurako",
+            "name_native": "桜子",
+            "name_alternative": [],
+            "description": "Sakurako is Shun's childhood friend who has known he was gay since high school. Through an arranged marriage, she was also Shun's fiancée until he came out to his parents during the wedding ceremony. Despite this, Sakurako is still in love with him.\n\n~!In Harukaze no Étranger, A few years after Shun and Mio move into the main house, She ends up cutting her hair, claiming that she feels like a bunch of weight has come off her shoulders.!~ ~!It's also said that The adopted son of the Hashimoto household, [Fumi](https://anilist.co/character/185464/Fumi-Hashimoto), has a crush on her because of the kindness she gave him!~"
+          }
+        },
+        {
+          "id": 185791,
+          "name": "绘里",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185791-JsRJBLP4BjgJ.png",
+          "description": "绘里曾与骏及他的祖母一同生活在冲绳，之后搬出去和恋人铃共同居住。她了解骏在岛上的生活经历，也会在他与实央重新相遇后给予关心。绘里与铃的关系自然亲密，两人组成稳定的伴侣生活，为故事中的同性情感提供了另一种现实参照。她待人温和、处事成熟，是连接骏过去生活与当前关系的重要配角。",
+          "nicknames": [
+            "Eri",
+            "絵理"
+          ],
+          "traits": [
+            "曾与骏和祖母同住",
+            "居住冲绳",
+            "与铃交往",
+            "性格亲切",
+            "关注骏的生活",
+            "支持伴侣",
+            "熟悉当地日常",
+            "是骏的朋友"
+          ],
+          "voice_actors": [
+            {
+              "name": "伊藤かな恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95762-qhWmwni3TT6Y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eri",
+            "name_native": "絵理",
+            "name_alternative": [],
+            "description": "Eri is a woman who previously lived with Shun and his grandmother in Okinawa before moving out to live with her girlfriend, Suzu."
+          }
+        },
+        {
+          "id": 185792,
+          "name": "骏的祖母",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b185792-Y7L4g0Jg2sNH.png",
+          "description": "骏的祖母住在冲绳，骏离开原本的家庭生活后曾住在她家中。她为孙子提供安稳的居所，也让骏有机会在海边重新整理自己的感情和未来。祖母虽然不是故事的行动中心，却通过日常照料维系着骏与故乡的联系。她对年轻人的关系保持关心，为骏和实央的相处提供了温暖而平静的生活背景。",
+          "nicknames": [
+            "Oba-chan",
+            "おばちゃん",
+            "骏的奶奶"
+          ],
+          "traits": [
+            "骏的祖母",
+            "居住冲绳",
+            "曾照顾骏",
+            "为骏提供住处",
+            "熟悉当地生活",
+            "关心孙辈",
+            "性格亲切",
+            "支持家人往来"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐藤はな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n125030-qmzaBaeQA7xF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Oba-chan",
+            "name_native": "おばちゃん",
+            "name_alternative": [],
+            "description": "Shun's grandmother. He stays at her place."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 12477,
+      "anime_title": "颠倒的帕特玛",
+      "anime_origin": "JP",
+      "source": {
+        "id": 12477,
+        "titles": [
+          "Sakasama no Patema",
+          "Patema Inverted",
+          "サカサマのパテマ"
+        ],
+        "year": 2013,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/12477"
+      },
+      "characters": [
+        {
+          "id": 55155,
+          "name": "帕特玛",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55155-JF8LKa8D0Fkn.png",
+          "description": "帕特玛生活在地下村落，是当地长老所珍视的年轻居民。她对村外世界充满好奇，常越过禁区探索，因此意外来到重力方向相反的地表，并遇见少年艾吉。两人必须互相抓紧，才能避免被各自世界的重力抛离。帕特玛勇敢而好奇，面对陌生环境仍主动寻找回家的办法，也逐渐发现地下居民历史被隐瞒的真相。",
+          "nicknames": [
+            "Patema",
+            "パテマ"
+          ],
+          "traits": [
+            "颠倒的帕特玛主角",
+            "地下居民",
+            "地下村落的公主",
+            "喜欢探索禁区",
+            "失重世界来客",
+            "行动大胆",
+            "与艾吉相遇",
+            "寻找族人真相"
+          ],
+          "voice_actors": [
+            {
+              "name": "藤井ゆきよ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106162-k7Jn7QGysSFk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Patema",
+            "name_native": "パテマ",
+            "name_alternative": [],
+            "description": "The main character of Patema Inverted. She is a resident of a village that lives deep underground, and often challenges the rule that forbids leaving the village's limits. Throughout the movie, Patema is shown to have an inverted gravity in comparison to those who dwell on the surface, meaning she could fall upwards through the sky should nothing bound her to land."
+          }
+        },
+        {
+          "id": 68365,
+          "name": "艾吉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b68365-Rn0RKwtvWnuO.png",
+          "description": "艾吉是生活在地表的少年，学校和社会不断向他灌输关于地下人的敌意，但他并不盲从权威。遇见从地下坠来的帕特玛后，他选择帮助她躲避追捕，并尝试弄清世界重力颠倒的缘由。艾吉熟悉地表环境，能为帕特玛提供行动上的协助；两人互相依赖、共同冒险，也由此看到官方叙述与真实历史之间的差距。",
+          "nicknames": [
+            "Age",
+            "エイジ"
+          ],
+          "traits": [
+            "地表少年",
+            "就读学校",
+            "拒绝接受极权宣传",
+            "帮助帕特玛",
+            "熟悉地表环境",
+            "重视自由",
+            "面对逆重力世界",
+            "与帕特玛并肩行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "岡本信彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Age",
+            "name_native": "エイジ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 162335,
+          "name": "卡霍",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162335-E1slbOdpSdt1.png",
+          "description": "卡霍是生活在地下世界的居民，与帕特玛及村中年轻人相识。她熟悉村落关于边界和探索的规定，也会关注同伴的行踪。当帕特玛的探索把两种重力世界的冲突带入地下生活后，卡霍需要面对原有规则可能并不完整的事实。她与伙伴们一起卷入寻找真相的过程，体现普通居民在巨大历史事件中的反应与选择。",
+          "nicknames": [
+            "Kaho",
+            "カホ"
+          ],
+          "traits": [
+            "地下居民",
+            "与帕特玛相识",
+            "生活于逆重力世界",
+            "熟悉村落规定",
+            "关注伙伴去向",
+            "参与事件发展",
+            "面对地表危险",
+            "支持同伴"
+          ],
+          "voice_actors": [
+            {
+              "name": "内田真礼",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kaho",
+            "name_native": "カホ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 162337,
+          "name": "伊扎穆拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162337-FY5A3TJSiw5E.png",
+          "description": "伊扎穆拉是地表社会中的权力人物，维护以地心引力和地下人为敌的官方秩序。他利用学校和社会宣传灌输恐惧，并追捕意外来到地表的帕特玛。艾吉开始质疑这种叙事后，伊扎穆拉的命令与少年们的行动发生冲突。他代表控制信息、压制异见的统治力量，也使两位主角必须在逃亡中追问这套世界观究竟建立在什么历史之上。",
+          "nicknames": [
+            "Izamura",
+            "イザムラ"
+          ],
+          "traits": [
+            "地表统治者",
+            "掌握政治权力",
+            "控制学校宣传",
+            "敌视地下居民",
+            "维护既有秩序",
+            "追捕帕特玛",
+            "隐瞒历史真相",
+            "与艾吉立场冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "土師孝也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100427-rXj5mx6gGNfH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Izamura",
+            "name_native": "イザムラ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 162342,
+          "name": "吉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162342-wsnLLFcZq7QA.png",
+          "description": "吉是地下村落中的年长居民，熟悉村里的生活方式和关于禁区的规定。帕特玛不断探索村外世界时，他既理解年轻人对未知的好奇，也担心越界会让她遭遇危险。当地下居民与地表社会的秘密逐渐浮现，吉所代表的长者一代也必须重新面对旧有认知。他是连接帕特玛、村落传统与隐藏历史的关键人物。",
+          "nicknames": [
+            "Jii",
+            "ジィ"
+          ],
+          "traits": [
+            "地下村落长者",
+            "年长居民",
+            "熟悉地下生活",
+            "了解禁区规定",
+            "关心帕特玛",
+            "担忧年轻人冒险",
+            "重视村落安全",
+            "参与寻找真相"
+          ],
+          "voice_actors": [
+            {
+              "name": "ふくまつ進紗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101603-g3HkzJZB923z.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jii",
+            "name_native": "ジィ",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 148116,
+      "anime_title": "冰剑的魔术师将要统一世界",
+      "anime_origin": "JP",
+      "source": {
+        "id": 148116,
+        "titles": [
+          "Hyouken no Majutsushi ga Sekai wo Suberu",
+          "The Iceblade Sorcerer Shall Rule the World",
+          "冰剣の魔術師が世界を統べる"
+        ],
+        "year": 2023,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/148116"
+      },
+      "characters": [
+        {
+          "id": 288007,
+          "name": "雷·怀特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288007-QpoN6YVsVkW1.jpg",
+          "description": "雷·怀特以转学生身份进入阿诺德魔术学院，表面上是来自普通背景的学生，实际是曾在大战中立下功绩的冰剑魔术师。他刻意隐藏过去，希望像同龄人一样生活，却因强大魔力和战斗经验不断卷入学院事件。雷在训练中保持极高自律，也认真对待与同学的关系；当伙伴遇险时，他会重新承担起保护他人的责任。",
+          "nicknames": [
+            "Ray White",
+            "レイ＝ホワイト",
+            "Lily White (リリィー ホワイト)",
+            "雷"
+          ],
+          "traits": [
+            "冰剑的魔术师",
+            "阿诺德魔术学院学生",
+            "转学生",
+            "魔法实力强大",
+            "曾参与大战",
+            "隐藏真实身份",
+            "重视同伴",
+            "擅长体能训练",
+            "以普通学生身份生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "榎木淳弥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png",
+              "language": "日语"
+            },
+            {
+              "name": "釘宮理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ray White",
+            "name_native": "レイ＝ホワイト",
+            "name_alternative": [
+              "Lily White (リリィー ホワイト)"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 288008,
+          "name": "阿梅莉亚·罗斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288008-DzS0IEBKTpn0.jpg",
+          "description": "阿梅莉亚·罗斯是阿诺德魔术学院的学生，出身于罗斯家族，拥有良好的魔法基础。她性格开朗，愿意主动结识新同学，与转学生雷和伊莉莎逐渐建立友谊。面对学院中的竞争和家族期待，阿梅莉亚不满足于依靠出身获得认可，而是通过训练和实战证明自己。她既是雷在校园生活中的重要伙伴，也会在危机中展现坚定的一面。",
+          "nicknames": [
+            "Amelia Rose",
+            "アメリア＝ローズ",
+            "阿梅莉亚"
+          ],
+          "traits": [
+            "阿诺德魔术学院学生",
+            "罗斯家族成员",
+            "擅长魔法",
+            "性格开朗",
+            "重视友情",
+            "与雷成为同学",
+            "积极参与学院活动",
+            "希望证明自身实力"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐伯伊織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n139844-zjqS38xT2FK4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Amelia Rose",
+            "name_native": "アメリア＝ローズ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 288009,
+          "name": "伊莉莎·格里菲斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288009-1DOMkf6QWl1X.png",
+          "description": "伊莉莎·格里菲斯是阿诺德魔术学院的学生，与雷、阿梅莉亚等人一同卷入学院生活和魔法事件。她出身格里菲斯家族，拥有相应的魔法训练背景，做事认真，面对突发状况时会留意同伴的安全。伊莉莎并非只以家族身份行动，她也在与同学的相处中展现自己的判断和责任感，逐步成为主角团中能够互相支援的一员。",
+          "nicknames": [
+            "Elisa Griffith",
+            "エリサ＝グリフィス",
+            "伊莉莎"
+          ],
+          "traits": [
+            "阿诺德魔术学院学生",
+            "格里菲斯家族成员",
+            "雷的熟人",
+            "具备魔法能力",
+            "参与学院训练",
+            "关注同伴安危",
+            "行动认真",
+            "与阿梅莉亚相识"
+          ],
+          "voice_actors": [
+            {
+              "name": "春村奈々",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n146382-kpKvi0ppF1Z0.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Elisa Griffith",
+            "name_native": "エリサ＝グリフィス",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 292025,
+          "name": "瑞贝卡·布拉德利",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292025-KAuekQApoAgm.png",
+          "description": "瑞贝卡·布拉德利是阿诺德魔术学院的三年级学生，比雷等新生更熟悉学院规则和魔法训练。她拥有高年级学生的实战经验，在学院内部事务与突发事件中都能发挥作用。瑞贝卡与低年级成员的接触，让她不仅是校园前辈，也会成为主角们了解学院秩序的重要对象。面对潜藏的危险，她需要在自己的立场与保护同学之间作出判断。",
+          "nicknames": [
+            "Rebecca Bradley",
+            "レベッカ＝ブラッドリィ",
+            "瑞贝卡"
+          ],
+          "traits": [
+            "阿诺德魔术学院三年级生",
+            "高年级学生",
+            "擅长魔法",
+            "参与学院事务",
+            "经验丰富",
+            "关注低年级学生",
+            "面对学院危机",
+            "与雷等人有交集"
+          ],
+          "voice_actors": [
+            {
+              "name": "和氣あず未",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119517-ggxWaTnTOrxW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rebecca Bradley",
+            "name_native": "レベッカ＝ブラッドリィ",
+            "name_alternative": [],
+            "description": "She is a 3rd-year student."
+          }
+        },
+        {
+          "id": 292027,
+          "name": "阿丽安·奥格伦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b292027-OiXPW4CXknnY.jpg",
+          "description": "阿丽安·奥格伦是阿诺德魔术学院的一年级学生，也是阿梅莉亚的儿时好友。她与阿梅莉亚共享一段早年经历，因此能理解对方在家族与学院生活中的压力。进入学院后，阿丽安需要适应新的训练和同学关系；她认真对待魔法学习，也会在阿梅莉亚遇到困难时给予支持。两人的友情为校园故事增加了熟悉感与竞争之外的情感联结。",
+          "nicknames": [
+            "Ariane Algren",
+            "アリアーヌ＝オルグレン",
+            "阿丽安"
+          ],
+          "traits": [
+            "阿诺德魔术学院一年级生",
+            "阿梅莉亚的儿时好友",
+            "出身奥格伦家族",
+            "学习魔法",
+            "性格认真",
+            "关心阿梅莉亚",
+            "参与学院生活",
+            "面对同学竞争"
+          ],
+          "voice_actors": [
+            {
+              "name": "関根明良",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119155-DCKagRHcI95J.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ariane Algren",
+            "name_native": "アリアーヌ＝オルグレン",
+            "name_alternative": [],
+            "description": "Ariane is a first-year student at the Diom Academy of Magical Arts. She is a childhood friend of [Amelia](https://anilist.co/character/288008/)."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 163292,
+      "anime_title": "新人大叔冒险者，被最强队伍操到死成为无敌",
+      "anime_origin": "JP",
+      "source": {
+        "id": 163292,
+        "titles": [
+          "Shinmai Ossan Bouken-sha, Saikyou Party ni Shinu Hodo Kitaerarete Muteki ni Naru.",
+          "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible",
+          "新米オッサン冒険者、最強パーティに死ぬほど鍛えられて無敵になる。"
+        ],
+        "year": 2024,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/163292"
+      },
+      "characters": [
+        {
+          "id": 315381,
+          "name": "里克·格拉迪亚托尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315381-B9nqRaqBUIg7.png",
+          "description": "里克·格拉迪亚托尔原本在冒险者公会担任职员，三十岁时决定追逐成为冒险者的梦想。他接受“奥利哈刚之拳”成员长达两年的严苛训练，身体和战斗能力被锻炼到远超常人。里克起初因年龄和经验不足而受到轻视，却凭不屈意志一次次迎战强敌。他尊重伙伴，也珍惜迟来的机会，在冒险中不断证明努力和积累同样能带来成长。",
+          "nicknames": [
+            "Rick Gladiatol",
+            "リック・グラディアートル",
+            "里克",
+            "Rick"
+          ],
+          "traits": [
+            "新人大叔冒险者主角",
+            "三十岁转职冒险者",
+            "原公会职员",
+            "接受最强队伍训练",
+            "近战能力极强",
+            "耐力惊人",
+            "性格坚韧",
+            "重视伙伴",
+            "越战越强"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐藤拓也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n104580-UtA5zydwu3ai.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Rick Gladiatol",
+            "name_native": "リック・グラディアートル",
+            "name_alternative": [],
+            "description": "At the age of 30, he left his job as a guild clerk to pursue his dream of becoming an adventurer. After undergoing two years of \"terrifying beyond hellish training\" from his seniors from the Orichalcum Fist party, the strongest on the continent, he showed remarkable growth. The days of continuous death and resurrection during training have left him deeply traumatized."
+          }
+        },
+        {
+          "id": 315382,
+          "name": "里内特·埃尔费尔特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315382-o7axWJnuUP0o.png",
+          "description": "里内特·埃尔费尔特是一名黑暗精灵，曾在地下竞技场创下连续9999场胜利的惊人纪录。她如今成为里克的助手与冒险伙伴，常以沉稳态度协助团队处理委托和战斗。里内特实力强大、经验丰富，却并不炫耀战绩；她会观察里克的成长，并在他陷入危险时提供可靠支援。她的温和举止与压倒性的战斗能力形成鲜明反差。",
+          "nicknames": [
+            "Reanette Elfelt",
+            "リーネット・エルフェルト",
+            "Lynette Elfelto",
+            "里内特",
+            "Reanette"
+          ],
+          "traits": [
+            "黑暗精灵",
+            "里克的伙伴",
+            "曾在地下竞技场连胜9999场",
+            "擅长战斗",
+            "担任冒险协助者",
+            "行动沉稳",
+            "观察力强",
+            "保护同伴"
+          ],
+          "voice_actors": [
+            {
+              "name": "大西沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n114884-UzAes6hUiiOJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Reanette Elfelt",
+            "name_native": "リーネット・エルフェルト",
+            "name_alternative": [
+              "Lynette Elfelto"
+            ],
+            "description": "Reanette is a dark elf and Rick's assistant and companion who once achieved the legendary 9999 consecutive victories in an underground arena. She now wears a maid outfit and takes care of all the housework for \"Orichalcum Fist\". She meets Rick through a certain incident and invites him to join her party."
+          }
+        },
+        {
+          "id": 315383,
+          "name": "布罗史顿·阿修克",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315383-mXbiPjKKWfad.png",
+          "description": "布罗史顿·阿修克是加入冒险者行列的兽人武僧，也是“奥利哈刚之拳”的领袖之一。由于庞大的体格、惊人的力量和沉着判断，他被称为“贤兽”。布罗史顿对训练极为严格，却并非只会用暴力解决问题；他会根据成员的性格制定磨炼方式，并亲自帮助里克突破极限。他兼具力量与智慧，是里克成长路上重要的导师和同伴。",
+          "nicknames": [
+            "Broughston Ashorc",
+            "ブロストン・アッシュオーク",
+            "布罗史顿",
+            "Broughston"
+          ],
+          "traits": [
+            "兽人武僧",
+            "奥利哈刚之拳成员",
+            "队伍首领",
+            "绰号贤兽",
+            "体格强健",
+            "拥有丰富阅历",
+            "重视训练",
+            "指导里克",
+            "兼具力量与智慧"
+          ],
+          "voice_actors": [
+            {
+              "name": "三宅健太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Broughston Ashorc",
+            "name_native": "ブロストン・アッシュオーク",
+            "name_alternative": [],
+            "description": "Broughston is a warrior-monk orc who became an adventurer, and is known as \"The Sage Beast\" because of his monstrous physique and intelligence. He currently leads \"Orichalcum Fist,\" and Rick looks up to him as his mentor. Despite his gigantic size, he is skilled in support magic, including healing magic, and can even resurrect the dead if they have died shortly after."
+          }
+        },
+        {
+          "id": 315384,
+          "name": "米泽特·埃尔德瓦夫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315384-vLMqYeJ2rPLs.png",
+          "description": "米泽特·埃尔德瓦夫拥有精灵与矮人混血的血统，外表年轻，实际年龄已超过五十岁。他是“奥利哈刚之拳”的成员，擅长开发以这个世界现有技术难以制造的武器。米泽特把知识、试验和实战经验结合起来，为伙伴改进装备，也参与里克的训练。他个头不高、看上去年轻，却在工艺和判断方面十分老练，是团队的重要技术支持。",
+          "nicknames": [
+            "Mizett Eldwarf",
+            "ミゼット・エルドワーフ",
+            "米泽特",
+            "Mizett"
+          ],
+          "traits": [
+            "半精灵半矮人",
+            "外表年轻",
+            "实际年过五十",
+            "奥利哈刚之拳成员",
+            "擅长武器开发",
+            "精通锻造技术",
+            "重视实用性",
+            "参与训练里克"
+          ],
+          "voice_actors": [
+            {
+              "name": "豊永利行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95600-giNVqkdeWKuF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mizett Eldwarf",
+            "name_native": "ミゼット・エルドワーフ",
+            "name_alternative": [],
+            "description": "The young-looking half-elf, half-dwarf, (but over 50 years of age). He continues to develop weapons that cannot be made with the scientific technology of this world, and people say that he has access to technology from 1000 years into the future, earning him the nickname \"The Thousand-year Workshopper\". He is an invincible womanizer."
+          }
+        },
+        {
+          "id": 315385,
+          "name": "艾丽丝蕾特·德拉库尔",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315385-xCtKJhOe0670.png",
+          "description": "艾丽丝蕾特·德拉库尔是纯血吸血鬼少女，拥有大陆顶尖级别的攻击魔法实力，因破坏力强而得到“毁灭魔童”的称号。她加入“奥利哈刚之拳”，与队友一起磨炼里克；里克在训练中多次被她击倒，却也因此快速提升。艾丽丝蕾特外表年幼、性格活泼，战斗时却毫不含糊。她既是强大的伙伴，也是团队中气氛鲜明的一员。",
+          "nicknames": [
+            "Alicerette Draqul",
+            "アリスレート・ドラクル",
+            "The Demon Child of Devastation",
+            "艾丽丝蕾特",
+            "Alicerette"
+          ],
+          "traits": [
+            "纯血吸血鬼",
+            "少女魔法师",
+            "绰号毁灭魔童",
+            "大陆级强者",
+            "擅长攻击魔法",
+            "奥利哈刚之拳成员",
+            "性格活泼",
+            "参与训练里克"
+          ],
+          "voice_actors": [
+            {
+              "name": "久野美咲",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106641-zsyRkJ74NXvE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Alicerette Draqul",
+            "name_native": "アリスレート・ドラクル",
+            "name_alternative": [
+              "The Demon Child of Devastation"
+            ],
+            "description": "A pure-blooded vampire girl. Nicknamed the \"The Demon Child of Devastation\", she is the continent's strongest super-genius offensive magician. Rick has been killed numerous times during training while she innocently toys around, unleashing tremendous offensive magic that carves into mountains and the earth. She is a glutton, which is difficult to believe given her appearance."
+          }
+        },
+        {
+          "id": 330276,
+          "name": "安洁莉卡·迪尔姆特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330276-tivbELxIgvvb.png",
+          "description": "安洁莉卡·迪尔姆特是迪尔姆特公爵的长女，出身统合北方贵族的显赫家族，也是王国骑士团的二等骑士。她接受过系统的剑术与骑士训练，作风认真、责任感强。安洁莉卡在与里克及其伙伴相遇后，逐渐看到传统贵族秩序之外的可能性。她既要履行家族职责，也会依据自己的判断采取行动，是故事中连接贵族势力与冒险者的关键角色。",
+          "nicknames": [
+            "Angelica Diarmuit",
+            "アンジェリカ・ディルムット",
+            "安洁莉卡",
+            "Angelica"
+          ],
+          "traits": [
+            "迪尔姆特公爵长女",
+            "北方贵族",
+            "王国骑士团成员",
+            "二等骑士",
+            "擅长剑术",
+            "正直坚毅",
+            "与里克相识",
+            "承担家族责任"
+          ],
+          "voice_actors": [
+            {
+              "name": "下地紫野",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118841-5xfivvcPDvpH.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Angelica Diarmuit",
+            "name_native": "アンジェリカ・ディルムット",
+            "name_alternative": [],
+            "description": "She is the eldest daughter of the Duke of Diarmuid, a distinguished family that unites the noble people of the north, and a second-class knight in the Royal Knights. She is known as \"Flash Angelica\" for her high-speed combat skills using the strengthening magic \"Shunkyaku\". Although she can be a little harsh in her words, she is a hard worker and shows a caring side towards her siblings."
+          }
+        },
+        {
+          "id": 330277,
+          "name": "拉斯特·迪尔姆特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330277-CC4Rren6QgWb.png",
+          "description": "拉斯特·迪尔姆特是迪尔姆特公爵的长子，也是安洁莉卡的兄长。他年纪轻轻便成为天才冒险者，十七岁升至A级，并以强力魔法和实战能力闻名。拉斯特肩负贵族家族的继承责任，行事自信，习惯以实力判断他人。与里克等人接触后，他也需要重新审视年龄、经验和成长速度之间的关系。",
+          "nicknames": [
+            "Raster Diarmuit",
+            "ラスター・ディルムット",
+            "拉斯特",
+            "Raster"
+          ],
+          "traits": [
+            "迪尔姆特公爵长子",
+            "安洁莉卡的兄长",
+            "天才冒险者",
+            "十七岁升至A级",
+            "擅长魔法",
+            "战斗经验丰富",
+            "家族继承人",
+            "与里克交手"
+          ],
+          "voice_actors": [
+            {
+              "name": "木村良平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Raster Diarmuit",
+            "name_native": "ラスター・ディルムット",
+            "name_alternative": [],
+            "description": "The eldest son of the Duke of Diarmuid and Angelica's older brother. A genius adventurer who was promoted to A rank at the age of 17, he boasts the strongest A-rank magical abilities. He is also infamous for being an \"F-rank crusher\" who participates in mock battles for the E-rank exam as an examiner and crushes test-takers."
+          }
+        },
+        {
+          "id": 330278,
+          "name": "弗里德·迪尔姆特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b330278-fQFhROxQomin.png",
+          "description": "弗里德·迪尔姆特是迪尔姆特公爵的次子，也是安洁莉卡的弟弟。虽然年仅十一岁，他已经展现出足以媲美高阶冒险者的魔法控制能力，受到家族和周围人的高度期待。弗里德仍处于成长阶段，对自己的力量和责任有许多需要学习之处；与里克等人的接触让他看到训练、实战和成熟并非只由年龄决定。",
+          "nicknames": [
+            "Freed Diarmuit",
+            "フリード・ディルムット",
+            "弗里德",
+            "Freed"
+          ],
+          "traits": [
+            "迪尔姆特公爵次子",
+            "安洁莉卡的弟弟",
+            "年仅十一岁",
+            "魔法天赋出众",
+            "控制力强",
+            "接受贵族教育",
+            "受到家族期待",
+            "关注骑士与冒险者"
+          ],
+          "voice_actors": [
+            {
+              "name": "徳留慎乃佑",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n138019-ThPPMU8dqpnH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Freed Diarmuit",
+            "name_native": "フリード・ディルムット",
+            "name_alternative": [],
+            "description": "He is the second son of the Duke of Diarmuid and Angelica's younger brother. At just 11 years old, he is said to have the ability to control magic that is comparable to C rank, far surpassing all other candidates taking the E rank promotion exam. Perhaps because he was raised as a child prodigy and expected great things from those around him, he acts high and mighty and pompous."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 21096,
+      "anime_title": "同级生",
+      "anime_origin": "JP",
+      "source": {
+        "id": 21096,
+        "titles": [
+          "Doukyuusei",
+          "Doukyuusei -Classmates-",
+          "同級生",
+          "Classmates"
+        ],
+        "year": 2016,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/21096"
+      },
+      "characters": [
+        {
+          "id": 33933,
+          "name": "草壁光",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33933-3X9QQlVIiJsC.png",
+          "description": "草壁光是高中二年级学生，成绩普通，却很有音乐才能，平时在乐队中弹吉他。他性格开朗、表达直接，起初与认真安静的佐条利人几乎没有交集。发现佐条在放学后练习合唱时，光主动接近并逐渐喜欢上他。面对两人生活节奏和性格的差异，光愿意倾听对方，也努力让这段感情建立在坦诚与尊重之上。",
+          "nicknames": [
+            "Hikaru Kusakabe",
+            "草壁光",
+            "Beyan",
+            "光",
+            "Kusakabe"
+          ],
+          "traits": [
+            "同级生主角",
+            "高中二年级生",
+            "吉他手",
+            "擅长音乐",
+            "性格坦率",
+            "善于交际",
+            "喜欢佐条利人",
+            "尊重伴侣选择"
+          ],
+          "voice_actors": [
+            {
+              "name": "神谷浩史",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hikaru Kusakabe",
+            "name_native": "草壁光",
+            "name_alternative": [
+              "Beyan"
+            ],
+            "description": "A second year high school student. He's an average student but a talented musician. Very comfortable around people and usually speaks his mind."
+          }
+        },
+        {
+          "id": 33934,
+          "name": "佐条利人",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b33934-Kwcy5ANGfo2e.jpg",
+          "description": "佐条利人是成绩优秀、做事认真的高中生，为保持好成绩付出大量努力。他不擅长主动与人交往，起初把注意力集中在学业和学校合唱练习上。草壁光注意到他独自练习后，两人从音乐开始熟悉，并逐渐成为恋人。佐条理性克制，面对升学和感情时会谨慎规划；他也在光的陪伴下学习表达真实想法，寻找适合自己的生活方向。",
+          "nicknames": [
+            "Rihito Sajou",
+            "佐条利人",
+            "Licht Sajo",
+            "利人",
+            "Sajou"
+          ],
+          "traits": [
+            "同级生主角",
+            "高中二年级生",
+            "成绩优秀",
+            "勤奋自律",
+            "擅长合唱",
+            "性格内敛",
+            "与草壁光交往",
+            "重视学业规划"
+          ],
+          "voice_actors": [
+            {
+              "name": "野島健児",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95074-ilLCdbpWIgrF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Rihito Sajou",
+            "name_native": "佐条利人",
+            "name_alternative": [
+              "Licht Sajo"
+            ],
+            "description": "Rihito Sajou is an excellent student and he seems to have a high IQ although he works very hard to maintain his top grades. He doesn't actually reach out to people, so he doesn't have any friends until he meets Kusakabe."
+          }
+        },
+        {
+          "id": 65593,
+          "name": "原学",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65593-LG0mtez0cNYO.jpg",
+          "description": "原学是三十七岁的高中教师，性格孤独，曾先后对自己的老师以及学生佐条产生过单恋。他知道师生关系存在边界，也清楚感情未必能够得到回应，因此常把心事藏在日常工作之后。原老师在与佐条和草壁接触时，既是指导学生的成年人，也会显露脆弱的一面。他的经历让故事谈到暗恋、年龄差与如何面对无法实现的感情。",
+          "nicknames": [
+            "Manabu Hara",
+            "原マナブ",
+            "原学",
+            "Harasen",
+            "Hara-sensei",
+            "原老师",
+            "Hara"
+          ],
+          "traits": [
+            "同级生教师角色",
+            "高中教师",
+            "三十七岁",
+            "曾喜欢自己的老师",
+            "后来喜欢佐条",
+            "性格孤独",
+            "擅长观察学生",
+            "面对单恋挫折"
+          ],
+          "voice_actors": [
+            {
+              "name": "石川英郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95412-czaGpvAm5pWx.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Manabu Hara",
+            "name_native": "原マナブ ",
+            "name_alternative": [
+              "原学",
+              "Harasen",
+              "Hara-sensei"
+            ],
+            "description": "A lonely 37-year-old high school teacher who has been the subject of multiple unrequited loves, his first being his old teacher Arisaka and later his own student Sajou. His name Manabu means to \"study.\" Students are prone to making nicknames for him such as Sekuhara (Sexual Harassment) and Harasensei due to his name being easy to create puns with."
+          }
+        },
+        {
+          "id": 165908,
+          "name": "谷",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b165908-DF24VmfFbxj5.png",
+          "description": "谷是草壁光的童年朋友，也是与他一起参与乐队活动的伙伴。他了解草壁爽快直接的个性，在学校日常和排练中都与光保持联系。谷不是感情主线的中心人物，却见证光开始关注佐条、生活重心逐渐变化的过程。作为乐队同伴，他参与音乐练习，也为草壁提供来自老朋友的视角，让主角的校园生活显得更完整。",
+          "nicknames": [
+            "Tani",
+            "谷"
+          ],
+          "traits": [
+            "草壁的童年朋友",
+            "草壁的乐队伙伴",
+            "同校学生",
+            "熟悉草壁性格",
+            "参与乐队演奏",
+            "支持朋友",
+            "关注排练",
+            "连接校园与音乐生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "髙坂篤志",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101968-MbkpqticPIk4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tani",
+            "name_native": "谷",
+            "name_alternative": [],
+            "description": "[Hikaru's](https://anilist.co/character/33933) childhood friend and bandmate."
+          }
+        },
+        {
+          "id": 231799,
+          "name": "佐条久美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b231799-fjz2asbTZyGI.png",
+          "description": "佐条久美是佐条利人的母亲，属于利人校园生活之外的家庭关系。利人平时把精力放在学业和合唱练习上，而母亲的存在补足了他在家中的生活背景。她与佐条家成员共同构成利人的成长环境，使故事不只呈现同学之间的恋爱，也能看到主角回到家庭后的日常联系。久美在作品中戏份不多，但她是利人家庭关系的重要一环。",
+          "nicknames": [
+            "Kumi Sajou",
+            "佐条久美",
+            "久美",
+            "Kumi"
+          ],
+          "traits": [
+            "佐条利人的母亲",
+            "成年人",
+            "佐条家的家庭成员",
+            "与利人的家庭生活相关",
+            "关注儿子的成长",
+            "了解利人的日常",
+            "出现在同级生故事中",
+            "连接校园与家庭"
+          ],
+          "voice_actors": [
+            {
+              "name": "大地葉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109251-ge8rmZwppqxy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kumi Sajou",
+            "name_native": "佐条久美",
+            "name_alternative": [],
+            "description": "[Rihito's](https://anilist.co/character/33934) mother."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 99531,
+      "anime_title": "恶魔战线",
+      "anime_origin": "JP",
+      "source": {
+        "id": 99531,
+        "titles": [
+          "Devils' Line",
+          "デビルズライン",
+          "Devil's Line"
+        ],
+        "year": 2018,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/99531"
+      },
+      "characters": [
+        {
+          "id": 125039,
+          "name": "安斋结贵",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/125039-e7FxmnxkzF80.jpg",
+          "description": "安斋结贵是半人半恶魔的警察，隶属警视厅公安第五课F班，参与调查反恶魔恐怖组织CCC。他拥有超常的体能和敏锐感官，却必须持续压制吸血冲动，以免伤害身边的人。安斋与研究生平司相遇后，两人的关系逐渐加深；他在执行任务时既要遵守警察职责，也要面对自身身份带来的偏见和危险。",
+          "nicknames": [
+            "Yuuki Anzai",
+            "安斎結貴",
+            "安斋"
+          ],
+          "traits": [
+            "恶魔战线男主角",
+            "半人半恶魔",
+            "警视厅公安第五课警员",
+            "隶属F班",
+            "具有超常体能",
+            "嗅觉敏锐",
+            "必须控制吸血冲动",
+            "保护平司",
+            "调查CCC"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuuki Anzai",
+            "name_native": "安斎結貴",
+            "name_alternative": [],
+            "description": "Anzai is the male protagonist of the Devils' Line series. He is a half-devil, half-human hybrid and a police officer who is a member of F Squad in the MPD Public Safety Division 5, responsible for combatting devil crimes. His occupation as a police officer utilizes his abilities as a hybrid.\n\nAnzai was raised at ONLO orphanage in Hokkaido. ~!He was a member of the 15th ONLO hybrid birth project along with [Johannes Kleeman](https://anilist.co/character/125057/Kleeman-Johannes), but was excluded from experimentation due to his weakened healing abilities. Despite spending his childhood believing himself to be an orphan, his parents, human researcher [Midori Anzai](https://anilist.co/character/149554/Sako-Midori) and devil serial killer [Tamaki Anzai](https://anilist.co/character/149555/Anzai-Tamaki), were alive and close by on ONLO grounds.!~\n\n~!Before meeting [Tsukasa](https://anilist.co/character/125040/Taira-Tsukasa), Anzai had never experienced bloodlust, a transformation or the associated healing abilities. This was due to his possession of Redeyes' Metamorphic Insufficiency Syndrome (ReMI).!~"
+          }
+        },
+        {
+          "id": 125040,
+          "name": "平司",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/125040-3785eFEhcRcW.jpg",
+          "description": "平司是庆应大学研究生，原本专攻人文与地理，过着普通学生生活，却意外卷入人类与恶魔之间的冲突。她与半恶魔警员安斋结识后，逐渐了解恶魔的处境，也面对周围社会的恐惧和偏见。平司理性而坚韧，不会因为危险就放弃思考；她对安斋的信任，让两人必须共同处理感情、身份和执法任务带来的复杂问题。",
+          "nicknames": [
+            "Tsukasa Taira",
+            "平つかさ",
+            "平司",
+            "Tsukasa"
+          ],
+          "traits": [
+            "恶魔战线女主角",
+            "庆应大学研究生",
+            "人文地理专业",
+            "普通人类",
+            "遭遇恶魔事件",
+            "与安斋结识",
+            "性格坚韧",
+            "关注社会偏见"
+          ],
+          "voice_actors": [
+            {
+              "name": "石川由依",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100142-k6RP0HzXffUG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Tsukasa Taira",
+            "name_native": "平つかさ",
+            "name_alternative": [],
+            "description": "Tsukasa is the female protagonist of the Devils' Line series. She is a first-year graduate student at Keio University where she originally studied Humanities and Geography. She is a kind-hearted human girl who falls in love with Yuuki Anzai at almost first sight. Despite the difficulties of being in a devil/human relationship, she stays positive and is always trying to make it work. She cares about Yuuki and his suffering as a devil very much and is constantly looking for something she can do."
+          }
+        },
+        {
+          "id": 125057,
+          "name": "约翰尼斯·克莱曼",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b125057-oNYldOcYva5j.jpg",
+          "description": "约翰尼斯·克莱曼是半人半恶魔，曾与安斋在同一设施长大，却没有加入同一小组。他性格随性、说话直率，对恶魔群体和人类社会都保持自己的判断。约翰尼斯熟悉安斋的过去，也知道半恶魔必须面对的生存困境；当两方势力发生冲突时，他的旧交关系和个人立场让他成为安斋难以忽视的角色。",
+          "nicknames": [
+            "Johannes Kleeman",
+            "ヨハネス・クレーマン / 李 ハンス",
+            "Hans Lee",
+            "汉斯",
+            "Johannes"
+          ],
+          "traits": [
+            "半人半恶魔",
+            "与安斋在同一设施长大",
+            "性格随性",
+            "说话直接",
+            "了解恶魔群体",
+            "具有战斗能力",
+            "与安斋有旧交",
+            "在立场间周旋"
+          ],
+          "voice_actors": [
+            {
+              "name": "木村良平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96762-DNKMFBA2vWRr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Johannes Kleeman",
+            "name_native": "ヨハネス・クレーマン / 李 ハンス",
+            "name_alternative": [
+              "Hans Lee"
+            ],
+            "description": "Johannes Kleeman is a devil/human hybrid who was raised at the same facility as Yuuki Anzai, although not a part of the same group. He is a rather carefree and blunt person, and not even blood bothers him. By drinking a little blood every morning and evening he can almost completely control his bloodlust. And because of this, his left eye is almost always transformed.\n\nHe is a part of the White Group 07 of the 15th Hybrid Birth Project at ONLO. These devils are called \"Children of the Dark\" by some. It seems that his departure from ONLO wasn't authorized."
+          }
+        },
+        {
+          "id": 149542,
+          "name": "泽崎孝",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b149542-SvUCks8VmZAC.jpg",
+          "description": "泽崎孝是警视厅公安第五课F班的队长，负责指挥与恶魔有关的案件调查。他经验丰富，知道队员面对的不只是普通犯罪，也包括恶魔本能和社会偏见带来的危险。CCC活动升级后，泽崎需要在维护公共安全、保护部下和遵守制度之间作出判断。他通常以沉稳态度安排任务，是安斋等警员执行行动时的重要上级。",
+          "nicknames": [
+            "Takashi Sawazaki",
+            "沢崎孝",
+            "泽崎",
+            "Sawazaki"
+          ],
+          "traits": [
+            "警视厅公安第五课F班队长",
+            "负责恶魔相关案件",
+            "警务经验丰富",
+            "指挥调查行动",
+            "重视队员安全",
+            "面对CCC威胁",
+            "处事沉稳",
+            "协调人类与恶魔警员"
+          ],
+          "voice_actors": [
+            {
+              "name": "細谷佳正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takashi Sawazaki",
+            "name_native": "沢崎孝",
+            "name_alternative": [],
+            "description": "**Birth date:** November 20, 1975The leader of F Squad in Public Safety Division 5."
+          }
+        },
+        {
+          "id": 149543,
+          "name": "朝海洋祐",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b149543-q6HndoYKiodb.jpg",
+          "description": "朝海洋祐是一名警察，在调查恐怖组织CCC期间被调入公安第五课F班。他参与针对恶魔相关案件的现场行动，需要适应队伍中既有人类也有恶魔的特殊情况。朝海熟悉警务流程，在团队任务中承担调查和执行职责；随着冲突加剧，他也必须重新审视对恶魔的既有认识，并与安斋等队员建立实际合作。",
+          "nicknames": [
+            "Yousuke Asami",
+            "朝海洋祐",
+            "朝海",
+            "Asami"
+          ],
+          "traits": [
+            "警察",
+            "被调入F班",
+            "调查CCC",
+            "熟悉刑事案件流程",
+            "与安斋共事",
+            "执行现场任务",
+            "关注队员配合",
+            "处于人类与恶魔冲突中心"
+          ],
+          "voice_actors": [
+            {
+              "name": "興津和幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yousuke Asami",
+            "name_native": "朝海洋祐",
+            "name_alternative": [],
+            "description": "A police officer who is assigned to F Squad during their investigation of the terrorist group CCC."
+          }
+        },
+        {
+          "id": 149544,
+          "name": "石丸惠巳",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b149544-jFOYLIAr4VMf.jpg",
+          "description": "石丸惠巳是参与恶魔相关案件调查的警察，曾被任命为F班的负责人。他眼下常有明显黑眼圈，看起来像是长期熬夜，但这并不代表他是恶魔。石丸更像一名被繁重工作压得疲惫的普通警员，处理任务时注重调查和判断。在F班与CCC的冲突中，他需要与不同背景的同事合作，维持小队行动的可靠性。",
+          "nicknames": [
+            "Megumi Ishimaru",
+            "石丸惠巳",
+            "石丸",
+            "Ishimaru"
+          ],
+          "traits": [
+            "警察",
+            "曾任F班负责人",
+            "黑眼圈明显",
+            "经常熬夜",
+            "非恶魔",
+            "负责调查任务",
+            "行动谨慎",
+            "参与CCC事件"
+          ],
+          "voice_actors": [
+            {
+              "name": "石田彰",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Megumi Ishimaru",
+            "name_native": "石丸惠巳",
+            "name_alternative": [],
+            "description": "A police officer who is appointed leader of F Squad during their investigation of the terrorist group CCC.\n\nDespite his dark under-eye circles, he is not a devil. He just stays up late reading manga and light novels.\n\n~!He is secretly a member of the CCC, where he acts under the code name 13, or Jason.!~\n\n~!His real position is within Public Safety General Affairs, the 6th Public Safety Investigation Division, Section 11. He infiltrated the CCC in order to obtain enemy intel.!~"
+          }
+        },
+        {
+          "id": 149545,
+          "name": "菊原桐郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b149545-ZCFvrVoWqTtA.jpg",
+          "description": "菊原桐郎是公安第五课A班的队长，表面上是警务系统中的负责人，暗地里却以代号02指挥反恶魔恐怖组织CCC。他利用职务接近调查信息，并策划针对恶魔的暴力行动。菊原善于隐藏真实身份，把偏见转化为组织行动，令安斋所在的F班难以分辨内部敌友。他的双重身份是故事多起冲突和调查的核心线索。",
+          "nicknames": [
+            "Kirio Kikuhara",
+            "菊原桐郎",
+            "菊原",
+            "Kirio"
+          ],
+          "traits": [
+            "公安第五课A班队长",
+            "CCC指挥者",
+            "使用代号02",
+            "潜入警察组织",
+            "反恶魔恐怖组织成员",
+            "策划暴力行动",
+            "善于伪装身份",
+            "安斋的敌人"
+          ],
+          "voice_actors": [
+            {
+              "name": "櫻井孝宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kirio Kikuhara",
+            "name_native": "菊原桐郎",
+            "name_alternative": [],
+            "description": "The leader of A Squad in Public Safety Division 5.\n\n~!He is secretly the commander of the anti-devil terrorist group CCC, where he acts under the code name 02. He infiltrated Public Safety Division 5 to gain intel from the police forces about devils.!~"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 2605,
+      "anime_title": "再见！绝望先生",
+      "anime_origin": "JP",
+      "source": {
+        "id": 2605,
+        "titles": [
+          "Sayonara Zetsubou Sensei",
+          "Sayonara, Zetsubou-Sensei",
+          "さよなら絶望先生",
+          "Sayonara Zetsubo Sensei",
+          "Goodbye Teacher Despair",
+          "SZS"
+        ],
+        "year": 2007,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/2605"
+      },
+      "characters": [
+        {
+          "id": 3169,
+          "name": "糸色望",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3169-brSagWOQuVZp.png",
+          "description": "糸色望是高中教师，也是糸色家最小的儿子，出门常穿和服与袴。他对生活中的各种事物都容易感到绝望，常把普通烦恼推演成荒诞的社会危机；然而他仍每天走进教室，试图处理学生们各式各样的问题。糸色望的悲观发言构成作品的讽刺核心，课堂上他与性格迥异的学生互相吐槽，反映现代生活中的焦虑与矛盾。",
+          "nicknames": [
+            "Nozomu Itoshiki",
+            "糸色望",
+            "Zetsubou-sensei",
+            "Momoiro Kakarichou",
+            "绝望老师",
+            "Nozomu"
+          ],
+          "traits": [
+            "再见绝望先生主角",
+            "高中教师",
+            "糸色家幺子",
+            "常穿和服与袴",
+            "习惯把事态看向悲观面",
+            "善于修辞吐槽",
+            "任教2年へ组",
+            "面对学生烦恼"
+          ],
+          "voice_actors": [
+            {
+              "name": "神谷浩史",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95118-oOElrn1aSaiC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Nozomu Itoshiki",
+            "name_native": "糸色望",
+            "name_alternative": [
+              "Zetsubou-sensei",
+              "Momoiro Kakarichou"
+            ],
+            "description": "A high school teacher and the youngest son of the Itoshiki family. He always wears a hakama and kimono abroad, preferring flippant casual western clothing in his hometown. When his name is written horizontally it resembles zetsubou (\"beyond hope\" or \"despair\"), befitting his extremely negative, paranoid and pessimistic attitude.\n\nHe often shouts \"I'm in despair!\" and attempts suicide several times, though rarely with serious intent. Most of the main girls seem to have feelings for him, but only because they misunderstand what he said to each of them (during the episodes introducing them). \n\nHis negative personality started blossoming when he was in his first year of high school when he \"accidentally\" joined a \"Negative Club\". He is based upon the main character from Dazai Osamu's No Longer Human, which is both Nozomu's and the author's favorite novel."
+          }
+        },
+        {
+          "id": 3170,
+          "name": "风浦可符香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3170-shJQMFp3PEOF.png",
+          "description": "风浦可符香是糸色望班上的学生，性格异常乐观，总能把不幸或尴尬的事解释成值得庆祝的好消息。她擅长为周围人取绰号，思维跳跃，常把老师的绝望言论扭转成积极结论。可符香的乐观并不总符合现实，反而形成作品重要的黑色幽默；她与悲观的糸色望形成鲜明对照，推动许多荒诞的课堂对话。",
+          "nicknames": [
+            "Kafuka Fuura",
+            "風浦可符香",
+            "可符香",
+            "Kafuka"
+          ],
+          "traits": [
+            "糸色望的学生",
+            "极端乐观",
+            "善于重新解释坏消息",
+            "常为人物取绰号",
+            "想象力丰富",
+            "思维跳跃",
+            "活跃于2年へ组",
+            "与绝望老师形成反差"
+          ],
+          "voice_actors": [
+            {
+              "name": "野中藍",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95032-P8Hvtz5iaaoI.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kafuka Fuura",
+            "name_native": "風浦可符香",
+            "name_alternative": [],
+            "description": "A somewhat strange and exceedingly optimistic student who always sees everything in the single most positive light possible: the polar opposite of [Nozomu](https://anilist.co/character/3169/Itoshiki-Nozomu), who sees only the dark side of things and is constantly in despair. She often has bizarre, childishly optimistic explanations for grim situations, calling suicide by hanging &quot;becoming taller&quot; and the act of stalking \"deep love.\" She enjoys giving whimsical nicknames to people (much to their annoyance), and has a strange obsession with aliens. Once she turned in a briefcase full of money to the police.\n\n~!Her cheerfulness apparently conceals a traumatic past. Her father tried to hang himself all the time, as did her mom once. At one point her mother was possessed by demons. In addition, her recent actions; watching the school burn down with a satisfied grin, and the more harmless act of disguising herself as a college girl and making food for her teacher and his nephew hint at a much darker personality. Another hint is the fact that one or more of the other characters are mortally terrified of her; for example, when Kafuka teaches [Meru](https://anilist.co/character/3588/Otonashi-Meru) about communication through eye contact, Meru can sense only bloodlust in her eyes. Another episode hinted that she was slitting her wrists as it is shown that her wrists were wrapped in bandages.!~\n\nKafuka Fuura is a pen name, taken from the name of author Franz Kafka, and is quite at odds with her sunny attitude. Her real name is has not been officially revealed; however, ~!she was referred to as &quot;An-chan&quot; in a flashback, and the surname &quot;Akagi&quot; appears in the attendance book, leading fans to speculate that her real name is An Akagi. This would parallel Nozomu&#039;s comment in the first chapter about her personality resembling Anne of Green Gables (Akage no An).!~"
+          }
+        },
+        {
+          "id": 3385,
+          "name": "小森雾",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3385-afbJlQaoxSut.png",
+          "description": "小森雾是2年へ组的学生，因害怕与外界接触而长期躲在被子里，被老师和同学视作家里蹲。她的长发和被褥常遮住面容，表现出对他人目光的强烈不安。糸色望试图把她带回集体生活，过程中也暴露出学校对内向学生的简单标签。小森虽然很少主动表达，却有自己的感受和边界，逐渐尝试面对教室中的人际关系。",
+          "nicknames": [
+            "Kiri Komori",
+            "小森霧",
+            "Zashiki-warashi",
+            "小森",
+            "Kiri"
+          ],
+          "traits": [
+            "2年へ组学生",
+            "常躲在被子中",
+            "外貌被长发遮挡",
+            "性格内向",
+            "害怕外界目光",
+            "习惯在家闭门",
+            "被称为引きこもり",
+            "受绝望老师关注"
+          ],
+          "voice_actors": [
+            {
+              "name": "谷井あすか",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96004-PdYPfNxaEOSI.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kiri Komori",
+            "name_native": "小森霧",
+            "name_alternative": [
+              "Zashiki-warashi"
+            ],
+            "description": "__Height:__ 165 cm\n\nA beautiful, fair-skinned girl whose looks are hidden behind her long hair and the blanket she wears most of the time. She is a hikikomori, but [Kafuka](https://anilist.co/character/3170/Fuura-Kafuka) believes her to be a zashiki-warashi. [Nozomu](https://anilist.co/character/3169/Itoshiki-Nozomu) and Kafuka unintentionally frighten her out of her home during an attempt to persuade her to resume attending her classes, and she now takes up permanent residence in school. She also falls for Nozumu when he was judging her as a good double suicide partner. She spends most of her time in an unused room, but turns up every now and then in odd places such as school lockers or toilet cubicles. Her name is derived from komorikiri, which means &quot;always stays indoors&quot;."
+          }
+        },
+        {
+          "id": 3417,
+          "name": "新井智惠",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3417-9c1Y6bgYCBpQ.png",
+          "description": "新井智惠是学校的学生辅导员，负责倾听学生的烦恼并处理校园中的心理问题。她与糸色望等教师共事，常以较现实、直接的方式看待学生们制造的混乱。智惠能理解心理咨询的专业边界，也会对荒唐的校园言行作出冷静回应。她的工作让作品在夸张笑料之外触及学生情绪、成长压力和成人职责等议题。",
+          "nicknames": [
+            "Chie Arai",
+            "新井智惠",
+            "智惠老师",
+            "Chie"
+          ],
+          "traits": [
+            "学校学生辅导员",
+            "负责学生咨询",
+            "性格理性",
+            "关注心理问题",
+            "与糸色望共事",
+            "参与校园事件",
+            "言语直接",
+            "面对学生个别烦恼"
+          ],
+          "voice_actors": [
+            {
+              "name": "矢島晶子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95148-JiNi79wg9ScS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chie Arai",
+            "name_native": "新井智惠",
+            "name_alternative": [],
+            "description": "The student counselor. If one supplies an alternate reading for the first kanji in her surname, her name is read &quot;Niichie&quot;, a reference to Friedrich Nietzsche. She has an excellent figure and a large bust, which is admired by the local people during the swimming pool scene. She&#039;s often shown as a sadist rebuking various masochistic males, usually featured in the beginning of various episodes. Nozomu usually does anything she orders him to do (like getting Kiri Komori back to school) as he states her eyes are terrifying but he goes to her anytime he has one of his suicidal breakdowns brought on because of a random conspiracy theory."
+          }
+        },
+        {
+          "id": 3587,
+          "name": "常月缠",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3587-0WZK8cmHZFuu.png",
+          "description": "常月缠是2年へ组的学生，短发齐刘海，最显著的习惯是在喜欢上某人后持续跟踪对方。她将这种执着视为亲密关系的一部分，常悄无声息地出现在糸色望身边。缠的行为既让老师困扰，也形成作品对“跟随与依恋”的夸张讽刺。她话不多，却以持续出现表达感情，随着剧情发展也逐渐面对自己对关系的理解。",
+          "nicknames": [
+            "Matoi Tsunetsuki",
+            "常月まとい",
+            "缠",
+            "Matoi"
+          ],
+          "traits": [
+            "2年へ组学生",
+            "短发齐刘海",
+            "喜欢上谁就跟踪谁",
+            "持续跟随糸色望",
+            "性格执着",
+            "行动安静",
+            "擅长隐藏行踪",
+            "对感情专一"
+          ],
+          "voice_actors": [
+            {
+              "name": "真田アサミ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95126-5riJAYwazk5K.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Matoi Tsunetsuki",
+            "name_native": "常月まとい",
+            "name_alternative": [],
+            "description": "A girl with short, straight-fringed hair who stalks whoever she falls in love with. She is also known for changing her manner of dress to partner those of her current love interest. She falls in love with [Nozomu](https://anilist.co/character/3169/Itoshiki-Nozomu) after misinterpreting one of his statements as a confession of love, and follows him wherever he goes, much to his dismay; even dressing up in a kimono similar to Nozomu and performing many of the duties of a Japanese wife (walking three steps behind, always by his side, etc). She has admitted to having read through Nozomu&#039;s mail and disposing of them before he gets a chance to read them. Her name is a pun on tsune tsukimatoi, which means &quot;always dangling after&quot;."
+          }
+        },
+        {
+          "id": 3588,
+          "name": "音无芽留",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3588-Mm3UzYpI8yvZ.png",
+          "description": "音无芽留是2年へ组中非常害羞的学生，几乎不当面说话，主要通过手机短信与周围人交流。她打字时常使用尖锐、犀利的语言，与安静外表形成反差。芽留不愿成为众人注意的焦点，面对老师和同学时会用屏幕保持距离；她的沟通方式既是性格表现，也成为作品调侃手机文化和网络语言的切入点。",
+          "nicknames": [
+            "Meru Otonashi",
+            "音無芽留",
+            "MeruMeru",
+            "芽留",
+            "Meru"
+          ],
+          "traits": [
+            "2年へ组学生",
+            "性格害羞",
+            "不愿开口说话",
+            "主要用手机短信交流",
+            "文字表达犀利",
+            "熟悉网络用语",
+            "避免当众发言",
+            "与父亲关系复杂"
+          ],
+          "voice_actors": [
+            {
+              "name": "斎藤千和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-R8YSAYX7UFCO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Meru Otonashi",
+            "name_native": "音無芽留",
+            "name_alternative": [
+              "MeruMeru"
+            ],
+            "description": "A very shy girl who does not talk and only communicates via text messaging on her cell phone; she is notably and viciously abusive in her e-mails. Her family name, Otonashi, means &quot;soundless&quot;, and her given name derives from the loan word &quot;mail&quot;. Her e-mail address is &quot;hazukashigariyasan&quot;, which means &quot;full of shyness&quot;. She is called &quot;MeruMeru&quot; by her father\n\nAside from a few weak sounds and squeaks, she is essentially mute, and any attempt to speak will cause her to uncontrollably sputter in a horrific language. Her family also seems ridiculously rich, as her father is able to set up an audition for people to try and dub her voice in real time. In the anime, her voice actress changes every episode and is chosen at random, and is credited with, at most, a short sequence of nonsense characters  with the exception of episode six of Zoku, where she is voiced by Chiwa Saito."
+          }
+        },
+        {
+          "id": 3745,
+          "name": "木津千里",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3745-5QichomkJKHx.jpg",
+          "description": "木津千里是2年へ组的学生，对整齐、平等和规则有近乎苛刻的要求。她会注意生活中的细节，一旦发现不公平或不合规范，就立刻要求纠正。千里认真负责，却常把小问题升级成必须统一处理的大事；她与糸色望等人的争执形成作品一贯的夸张喜剧，也展现她对秩序和公平的强烈执着。",
+          "nicknames": [
+            "Chiri Kitsu",
+            "木津千里",
+            "千里",
+            "Chiri"
+          ],
+          "traits": [
+            "2年へ组学生",
+            "追求绝对整齐",
+            "重视公平一致",
+            "习惯纠正错误",
+            "性格认真强势",
+            "观察细节",
+            "不容忍邋遢",
+            "常与糸色望争论"
+          ],
+          "voice_actors": [
+            {
+              "name": "井上麻里奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95158-OLhgs8zv5xsp.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Chiri Kitsu",
+            "name_native": "木津千里",
+            "name_alternative": [],
+            "description": "A student who demands all things in her life to be precise, equal, and conforming. This is most notable in her hairstyle​, which was originally curly and is parted in the center. She often tries to set things straight and is usually extremely cruel and violent in her ways. She is also very knowledgeable in areas that revolve around violent international historical events. She hides numerous razors and knives within her bra, but her favorite weapon of choice is a spade. The kanji of her first name can be joined together to form the first character of &quot;to bury&quot;.\n\nDespite being the most combative against Nozomu and his antics as well as usually being the most level headed of the class, she often demands him to marry her after they accidentally took a nap together in the same bed. Although she is not the class representative, she is often called so because of her exacting behavior. She is revealed to have an older sister. Her name derives from the Japanese word kicchiri (precisely). She occasionally displays psychic abilities via a third eye; her name contains two of the kanji in the word &quot;clairvoyance&quot;."
+          }
+        },
+        {
+          "id": 3746,
+          "name": "关内·玛利亚·太郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b3746-7jSua7MxXWQ6.jpg",
+          "description": "关内·玛利亚·太郎是2年へ组的学生，过去曾以身份不明的非法移民经历生活，来到学校后由可符香称作“玛太郎”。她逐渐适应班级日常，与同学一起经历课堂和校园中的荒诞事件。玛利亚的经历让作品触及身份、归属和社会制度等话题；她并非只作为笑点出现，也有普通学生想融入群体、建立稳定生活的愿望。",
+          "nicknames": [
+            "Tarou Sekiutsu",
+            "関内・マリア・太郎",
+            "Mataro",
+            "玛太郎",
+            "Maria"
+          ],
+          "traits": [
+            "2年へ组学生",
+            "身份经历复杂",
+            "曾以非法移民身份生活",
+            "由可符香取绰号",
+            "性格直率",
+            "重视日常生活",
+            "适应校园环境",
+            "常参与班级事件"
+          ],
+          "voice_actors": [
+            {
+              "name": "沢城みゆき",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tarou Sekiutsu",
+            "name_native": "関内・マリア・太郎",
+            "name_alternative": [
+              "Mataro"
+            ],
+            "description": "An illegal immigrant of unknown nationality. She is nicknamed &quot;Mataro&quot; by Kafuka, although she refers to herself (as do most others) as simply &quot;Maria&quot;. She purchased the birth certificate of a male student and is attending school under his name.\n\nShe is fascinated by &quot;Japan&#039;s abundance&quot; and hoards food and refuse she finds on the ground or in garbage cans. While Maria frequently displays wild behavior and an unusual abhorrence to panties and shoes, her impoverished appearance and illegal status, coupled with a bright smile, often encourage people to give her things.\n\nThe name &quot;Sekiutsu Tarō&quot; derives from seki-uttarō, which means &quot;You sold your own register, didn&#039;t you?&quot; or &quot;I&#039;ll sell you my register&quot;. Because of their optimistic personalities, Kafuka and Maria get along quite well. Although Maria is legally a boy (since she bought the birth certificate of a male student), she is actually a girl."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 97768,
+      "anime_title": "皇帝圣印战记",
+      "anime_origin": "JP",
+      "source": {
+        "id": 97768,
+        "titles": [
+          "Grancrest Senki",
+          "Record of Grancrest War",
+          "グランクレスト戦記",
+          "บันทึกสงครามแกรนเครสท์"
+        ],
+        "year": 2018,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/97768"
+      },
+      "characters": [
+        {
+          "id": 124760,
+          "name": "缇欧·科涅洛",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124760-IkfMjO9ZHeRQ.jpg",
+          "description": "缇欧·科涅洛是来自锡斯汀的流浪骑士，故乡遭混沌侵袭并受到领主压迫后，他踏上改变局势的道路。缇欧在与混沌核战斗时获得圣印，随后与魔法师希露卡结盟，以解放家乡为目标参与领主间的战争。他重视人民，不愿只为权力扩张领地；凭借战斗能力与朴素信念，逐渐成为能够凝聚盟友的领袖。",
+          "nicknames": [
+            "Theo Cornaro",
+            "テオ・コルネーロ",
+            "缇欧",
+            "Theo"
+          ],
+          "traits": [
+            "皇帝圣印战记男主角",
+            "流浪骑士",
+            "故乡锡斯汀遭混沌侵袭",
+            "获得圣印",
+            "立志解放故乡",
+            "擅长近战",
+            "与希露卡结盟",
+            "追求领地自治"
+          ],
+          "voice_actors": [
+            {
+              "name": "熊谷健太郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124759-Qd1CVnWr4D8L.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Theo Cornaro",
+            "name_native": "テオ・コルネーロ",
+            "name_alternative": [],
+            "description": "Theo Cornaro (テオ・コルネーロ) is the main protagonist of the series. A wandering knight who obtained a Crest from a Chaos Core. He comes from Sistina, a village ravaged by Chaos and oppressed by their Lord, Viscount Phederico Rossini. After rescuing Siluca from soldiers and telling her his goal to free his hometown, he forms a contract with her and together they fight to stop the feuding lords and end the Chaos era."
+          }
+        },
+        {
+          "id": 124767,
+          "name": "希露卡·梅蕾黛思",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124767-rw3OjQouOXaa.jpg",
+          "description": "希露卡·梅蕾黛思是一位天赋出众的年轻魔法师，希望终结领主之间无休止的战争。她原本受雇于强大的领主，在与缇欧相遇后决定与他结盟，协助其争取锡斯汀的自由。希露卡精于魔法和战略分析，擅长评估势力、制定作战方案，也敢在关键时刻承担风险。她与缇欧互相补足，逐渐把个人理想变成推动大陆格局变化的行动。",
+          "nicknames": [
+            "Siluca Meletes",
+            "シルーカ・メルテス",
+            "Silu-chan",
+            "希露卡",
+            "Siluca"
+          ],
+          "traits": [
+            "年轻魔法师",
+            "天赋出众",
+            "希望结束领主纷争",
+            "与缇欧结盟",
+            "擅长战略谋划",
+            "熟悉圣印体系",
+            "行动果断",
+            "作为军师参与战争"
+          ],
+          "voice_actors": [
+            {
+              "name": "鬼頭明里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119722-Ls7ORfBejJEP.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Siluca Meletes",
+            "name_native": "シルーカ・メルテス",
+            "name_alternative": [
+              "Silu-chan"
+            ],
+            "description": "Siluca Meletes is the main female protagonist throughout the series. She is a young mage that has a great amount of potential and talent, and wishes to stop the feuding of lords. She forms a contract with Theo, and possesses a cat familiar, who can travel through shadows and is the king of the cat kingdom."
+          }
+        },
+        {
+          "id": 124768,
+          "name": "艾雪拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124768-Z0SPAE1KeDWf.jpg",
+          "description": "艾雪拉是缇欧阵营中的女战士，长期负责保护希露卡，并在战争和混沌袭击中承担前线战斗。她擅长近身作战，能够使用大型武器压制敌人，行动迅速、经验丰富。艾雪拉不只听从命令，也会根据战场局势主动判断何时掩护同伴。她的坚强与可靠为希露卡提供安全保障，是缇欧势力中不可缺少的战斗成员。",
+          "nicknames": [
+            "Aishela",
+            "アイシェラ",
+            "艾雪拉"
+          ],
+          "traits": [
+            "女战士",
+            "希露卡的护卫",
+            "擅长近身战",
+            "使用大型武器",
+            "作战经验丰富",
+            "保护同伴",
+            "行动敏捷",
+            "随缇欧阵营征战"
+          ],
+          "voice_actors": [
+            {
+              "name": "上田麗奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118602-C4bNcnyEhDTu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aishela",
+            "name_native": "アイシェラ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 124769,
+          "name": "维拉尔·康斯坦斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124769-slfhIRppIxjC.jpg",
+          "description": "维拉尔·康斯坦斯是阿尔图克的领主与独角兽骑士团统领，凭借圣印和政治影响力参与大陆势力角逐。他重视骑士的责任与名誉，也会以领主身份权衡战争造成的后果。希露卡曾在他的势力中任职，因而维拉尔与她的选择和缇欧的崛起密切相关。他既是拥有实力的统治者，也是旧秩序中必须面对联盟变化的关键人物。",
+          "nicknames": [
+            "Villar Constance",
+            "ヴィラール・コンスタンス",
+            "维拉尔",
+            "Villar"
+          ],
+          "traits": [
+            "阿尔图克领主",
+            "独角兽骑士团统领",
+            "拥有圣印",
+            "政治势力核心",
+            "重视骑士荣誉",
+            "与希露卡有雇佣关系",
+            "擅长统领部下",
+            "卷入领主战争"
+          ],
+          "voice_actors": [
+            {
+              "name": "櫻井孝宏",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Villar Constance",
+            "name_native": "ヴィラール・コンスタンス",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 124770,
+          "name": "亚历克西斯·杜塞",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124770-HbCbrR6YoHcB.jpg",
+          "description": "亚历克西斯·杜塞是年轻领主，因政治安排与玛丽涅缔结婚约，希望通过联姻缓和两大势力的冲突。他性格温和，倾向于和平解决问题，却必须承担贵族家族和圣印领主的责任。婚礼及其后的局势变化，使亚历克西斯的私人情感与大陆政治紧密交织；他也因此成为理想、权力与现实妥协之间的代表人物。",
+          "nicknames": [
+            "Alexis Deux",
+            "アレクシス・ドゥーセ",
+            "Alexis Douse",
+            "亚历克西斯",
+            "Alexis"
+          ],
+          "traits": [
+            "年轻领主",
+            "拥有圣印",
+            "与玛丽涅政治联姻",
+            "性格温和",
+            "倾向和平",
+            "面对家族责任",
+            "卷入领主战争",
+            "与缇欧阵营立场交错"
+          ],
+          "voice_actors": [
+            {
+              "name": "井口祐一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105064-Yi6aG3ZtcyjU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Alexis Deux",
+            "name_native": "アレクシス・ドゥーセ",
+            "name_alternative": [
+              "Alexis Douse"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 124771,
+          "name": "莫雷诺·多尔图斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/124771-QIytS8L5OtNL.jpg",
+          "description": "莫雷诺·多尔图斯是效力于维拉尔阵营的魔法师，参与领主之间的战争并为军队提供魔法支援。他熟悉战场上的魔法运用，与希露卡等人有工作往来，能够根据战局协助制定行动方案。莫雷诺身处多方势力交错的环境，既要执行领主的命令，也要面对战斗对同伴和普通居民造成的影响，是阿尔图克阵营的重要成员。",
+          "nicknames": [
+            "Moreno Dortous",
+            "モレーノ・ドルトゥス",
+            "莫雷诺",
+            "Moreno"
+          ],
+          "traits": [
+            "魔法师",
+            "服务于维拉尔阵营",
+            "参与战场支援",
+            "熟悉魔法战术",
+            "与希露卡共事",
+            "负责战略协助",
+            "重视同伴安全",
+            "卷入领主战争"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Moreno Dortous",
+            "name_native": "モレーノ・ドルトゥス",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 124772,
+          "name": "劳拉·哈德利",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b124772-mSMmZ3hstnPB.jpg",
+          "description": "劳拉·哈德利是一名年轻魔法师，生活在圣印领主不断交战的时代，并参与缇欧与希露卡周边势力的行动。她需要在实战中运用魔法，也逐渐理解领主战争不仅是战术较量，还会影响领地居民的生活。劳拉与同伴保持合作，在不断变化的联盟关系中积累经验，是年轻一代在混沌大陆上成长的代表角色之一。",
+          "nicknames": [
+            "Laura Hardly",
+            "ラウラ・ハードリー",
+            "劳拉",
+            "Laura"
+          ],
+          "traits": [
+            "年轻魔法师",
+            "与希露卡阵营有关",
+            "接受魔法训练",
+            "参与战争行动",
+            "熟悉贵族社会",
+            "重视伙伴",
+            "具备施法能力",
+            "在乱世中成长"
+          ],
+          "voice_actors": [
+            {
+              "name": "安済知佳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106030-oz4RUJZ3D9v9.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Laura Hardly",
+            "name_native": "ラウラ・ハードリー",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 118103,
+      "anime_title": "吸血鬼马上死",
+      "anime_origin": "JP",
+      "source": {
+        "id": 118103,
+        "titles": [
+          "Kyuuketsuki Sugu Shinu",
+          "The Vampire Dies in No Time",
+          "吸血鬼すぐ死ぬ",
+          "เจ้าแวมไพร์ พันธุ์ตายไว"
+        ],
+        "year": 2021,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/118103"
+      },
+      "characters": [
+        {
+          "id": 195177,
+          "name": "德拉尔克",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195177-yXosuPbcJag8.png",
+          "description": "德拉尔克是出身名门龙族的高等吸血鬼，拥有不死之身，却会因为各种小事反复死亡并化成灰烬。他的城堡被毁后，只好搬到吸血鬼猎人罗纳德家中寄住，令对方十分头疼。德拉尔克外貌苍白瘦削，留着向后梳的短黑发，常以慵懒态度面对生活。他与使魔犰狳约翰相依为伴，日常失误和复活过程构成作品的喜剧核心。",
+          "nicknames": [
+            "Draluc",
+            "ドラルク",
+            "德拉鲁克"
+          ],
+          "traits": [
+            "吸血鬼马上死主角",
+            "龙族出身的高等吸血鬼",
+            "不死之身",
+            "受小事影响就化为灰烬",
+            "城堡被毁后寄住罗纳德家",
+            "外表苍白瘦削",
+            "短黑发向后梳",
+            "拥有惰懒圆眼",
+            "约翰的主人"
+          ],
+          "voice_actors": [
+            {
+              "name": "福山潤",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Draluc",
+            "name_native": "ドラルク",
+            "name_alternative": [],
+            "description": "Draluc is an immortal higher vampire from the prestigious Dragon Clan who keeps dying and turning to dust from all kinds of small things. As his castle was destroyed, he moved in with Ronaldo, much to the other's dismay. Draluc is a typical-looking adult vampire with pale and boney complexion, pointy ears and nose. He has round lazy eyes, short black hair that is combed backwards."
+          }
+        },
+        {
+          "id": 195178,
+          "name": "罗纳德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b195178-rhZQGshcPlO8.png",
+          "description": "罗纳德是二十多岁的吸血鬼猎人，在新横滨经营事务所并接受各类委托。他原本不愿与德拉尔克合住，但两人合作的经历成为畅销小说《罗纳德战记》的素材，让他只好继续忍受这位总会化灰的室友。罗纳德有强烈的正义感，行动积极，却常被德拉尔克的散漫举止激怒；他还极度讨厌芹菜。猎人工作、写作和室友日常共同构成他的生活。",
+          "nicknames": [
+            "Ronaldo",
+            "ロナルド"
+          ],
+          "traits": [
+            "吸血鬼猎人",
+            "二十多岁",
+            "在新横滨设有事务所",
+            "经营猎人事务",
+            "畅销小说作者",
+            "代表作罗纳德战记",
+            "与德拉尔克合住",
+            "讨厌芹菜",
+            "常被德拉尔克惹怒"
+          ],
+          "voice_actors": [
+            {
+              "name": "古川慎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112635-ORlGvRvgf5Nq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ronaldo",
+            "name_native": "ロナルド",
+            "name_alternative": [],
+            "description": "A vampire hunter in his 20s with a base of operations in Shin-Yokohama. Originally not thrilled to have [Draluc](https://anilist.co/character/195177/Draluc) as a roommate, the success of the partnership in his novel series, _The Ronaldo Chronicles_, leads him to reluctantly put up with the vampire. He frequently kills Draluc when annoyed. He also has an extreme phobia of celery."
+          }
+        },
+        {
+          "id": 217146,
+          "name": "约翰",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217146-bXXuJrvBnHFB.png",
+          "description": "约翰是一只雄性犰狳，也是德拉尔克的使魔。它能听懂人类说话，却无法用人类语言回答，通常依靠手势和动作表达意思；德拉尔克最能理解它的想法。约翰正式成为使魔后获得不死能力，即使遇到危险也会继续陪在主人身边。它性格温顺忠诚，外形可爱，常在罗纳德的事务所和德拉尔克家中活动，是故事里受大家喜爱的吉祥物。",
+          "nicknames": [
+            "John",
+            "ジョン",
+            "约翰君"
+          ],
+          "traits": [
+            "雄性犰狳",
+            "德拉尔克的使魔",
+            "能理解人类语言",
+            "不会说人类语言",
+            "用手势传达意思",
+            "只有德拉尔克懂他的表达",
+            "正式成为使魔后不死",
+            "性格可爱忠诚"
+          ],
+          "voice_actors": [
+            {
+              "name": "田村睦心",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105013-DffN0XN2Zw7G.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "John",
+            "name_native": "ジョン",
+            "name_alternative": [],
+            "description": "John is a male armadillo and a familiar of [Draluc](https://anilist.co/character/195177/Draluc). He understands human language, but is unable to speak. As only Draluc can understand him, John uses gestures and signs to communicate with others. He gained immortality after officially becoming Draluc's familiar.\n\n"
+          }
+        },
+        {
+          "id": 217145,
+          "name": "雏一",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217145-VCcQWihXPYaU.png",
+          "description": "雏一是吸血鬼对策课的警员，也是该部门有史以来最年轻的副队长。她执勤时使用双刀，工作态度严谨，面对吸血鬼案件会认真调查并迅速采取行动；但在突发状况或私人话题面前，她很容易慌张。雏一特别喜欢德拉尔克做的料理，尤其是饼干，这一面与她平日严肃的形象形成反差。她和罗纳德等猎人常因案件发生交集。",
+          "nicknames": [
+            "Hinaichi",
+            "ヒナイチ"
+          ],
+          "traits": [
+            "吸血鬼对策课警员",
+            "历史上最年轻的副队长",
+            "执勤时使用双刀",
+            "外表严肃认真",
+            "容易慌张",
+            "喜欢德拉尔克的料理",
+            "尤其爱吃饼干",
+            "负责调查吸血鬼"
+          ],
+          "voice_actors": [
+            {
+              "name": "日岡なつみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112777-ZK3Jxr4CpZiC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hinaichi",
+            "name_native": "ヒナイチ",
+            "name_alternative": [],
+            "description": "An officer from the Vampire Control Division. She's the youngest Vice Captain in the Division's history. She wields dual blades while on duty. While she presents as firm and strict, she's easily flustered. She loves [Draluc](https://anilist.co/character/195177/Draluc)'s cooking, especially his cookies."
+          }
+        },
+        {
+          "id": 217147,
+          "name": "半田桃",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b217147-0CU5dEWC2Paw.png",
+          "description": "半田桃是吸血鬼对策课的警员，也是雏一的下属。他是半吸血鬼，曾与罗纳德同读高中，因母亲非常喜欢罗纳德的小说而对这位猎人心生嫉妒。半田十分依恋母亲，甚至把房间贴满罗纳德的海报和周边，试图证明偶像并不完美。他对罗纳德的敌意常显得过度执着，也因此卷入猎人、警员与吸血鬼之间的各种闹剧。",
+          "nicknames": [
+            "Tou Handa",
+            "半田桃",
+            "半田"
+          ],
+          "traits": [
+            "吸血鬼对策课警员",
+            "雏一的下属",
+            "半吸血鬼",
+            "罗纳德的高中同学",
+            "极度依恋母亲",
+            "母亲是罗纳德小说粉丝",
+            "嫉妒罗纳德",
+            "房间贴满罗纳德周边"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tou Handa",
+            "name_native": "半田桃",
+            "name_alternative": [],
+            "description": "[Hinaichi](https://anilist.co/character/217145/Hinaichi)'s subordinate. A dhampir and former high school classmate of [Ronaldo](https://anilist.co/character/195178/Ronaldo)'s. As a mama's boy, he hates that his vampire mother is a fan of Ronaldo's books and seeks to show her a less desirable side of the hunter. His hatred borders on obsession, his room decorated with Ronaldo posters and merchandise."
+          }
+        },
+        {
+          "id": 230536,
+          "name": "玛利亚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230536-hSWs3AwsvwM7.png",
+          "description": "玛利亚是罗纳德猎人公会的成员，常穿着修女服执行工作。她的主要职业其实是山猎人，擅长进山追踪并猎捕熊类，与城市里的吸血鬼事件相比，她更熟悉荒野行动。玛利亚和罗纳德等猎人共同处理委托，具有实际的狩猎经验，遇到危险时也能保持行动力。她的装束与猎熊工作的反差，使她在公会成员中格外醒目。",
+          "nicknames": [
+            "Maria",
+            "マリア"
+          ],
+          "traits": [
+            "罗纳德公会的猎人",
+            "常穿修女服",
+            "以猎熊为主要工作",
+            "山猎人",
+            "战斗经验丰富",
+            "与罗纳德共事",
+            "熟悉荒野追踪",
+            "外表与职业反差明显"
+          ],
+          "voice_actors": [
+            {
+              "name": "日笠陽子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Maria",
+            "name_native": "マリア",
+            "name_alternative": [],
+            "description": "A busty hunter dressed as a nun from [Ronaldo](https://anilist.co/character/195178/Ronaldo)'s  guild whose main job is being a Matagi, hunting bears."
+          }
+        },
+        {
+          "id": 230537,
+          "name": "砂铁",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230537-a3OPzK2EPBg1.png",
+          "description": "砂铁是罗纳德猎人公会的吸血鬼猎人，左臂装有醒目的金属护甲。他过去曾是不良少年，后来改过自新，平时努力保持沉着，和同伴一起处理猎人委托。若有人触及他的底线，过去的暴躁一面仍可能显露出来。砂铁拥有实战经验，愿意为公会伙伴行动；金属护甲、复杂的过去和克制的性格构成他的主要特征。",
+          "nicknames": [
+            "Satetsu",
+            "サテツ"
+          ],
+          "traits": [
+            "罗纳德公会的吸血鬼猎人",
+            "左臂装有金属护甲",
+            "曾是不良少年",
+            "已改过自新",
+            "多数时候沉着冷静",
+            "愤怒时旧性格会显露",
+            "擅长实战",
+            "与公会成员合作"
+          ],
+          "voice_actors": [
+            {
+              "name": "細谷佳正",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100626-bH8eZ0wv3HYX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Satetsu",
+            "name_native": "サテツ",
+            "name_alternative": [],
+            "description": "A vampire hunter from [Ronaldo](https://anilist.co/character/195178/Ronaldo)'s guild with metal armor on his left arm. A reformed delinquent, he keeps his composure under most situations but his past will surface if he's angered."
+          }
+        },
+        {
+          "id": 230539,
+          "name": "日吉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b230539-sszYCtmGVRUh.png",
+          "description": "日吉是吸血鬼对策课的队长，也是罗纳德的哥哥。他过去曾从事吸血鬼猎人工作，熟悉猎人面对的危险和对策课的执法方式，因此能指挥警员处理复杂案件。日吉在工作中承担领导职责，也会以兄长身份关注罗纳德的状况。兄弟两人走上不同职业道路，却都持续面对吸血鬼相关事件；日吉的经验让他成为官方部门与猎人之间的重要联系。",
+          "nicknames": [
+            "Hiyoshi",
+            "ヒヨシ"
+          ],
+          "traits": [
+            "吸血鬼对策课队长",
+            "罗纳德的哥哥",
+            "曾当过吸血鬼猎人",
+            "负责指挥警员",
+            "熟悉猎人行业",
+            "处理吸血鬼案件",
+            "关心弟弟",
+            "在警务与猎人之间有经验"
+          ],
+          "voice_actors": [
+            {
+              "name": "小野大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95212-wX1M4LJN96q2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hiyoshi",
+            "name_native": "ヒヨシ",
+            "name_alternative": [],
+            "description": "The captain of the Vampire Control Division and [Ronaldo](https://anilist.co/character/195178/Ronaldo)'s older brother. He used to be a hunter."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 20503,
+      "anime_title": "魔女的使命",
+      "anime_origin": "JP",
+      "source": {
+        "id": 20503,
+        "titles": [
+          "Witch Craft Works",
+          "ウィッチクラフトワークス",
+          "Witchcraft Works"
+        ],
+        "year": 2014,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/20503"
+      },
+      "characters": [
+        {
+          "id": 35503,
+          "name": "多华宫仄",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35503-pmwBErfj44zG.jpg",
+          "description": "多华宫仄是冬月学院的二年级学生，后来成为学生会长，也是故事的男主角。他一直受到学院人气人物火火里绫火的保护，起初不明白自己为何会被塔之魔女袭击。随着事件推进，仄发现体内封印着白姬艾瓦米莉翁，因而成为魔女阵营争夺的关键。他性格温和，在危机中努力理解自身力量，并逐渐主动参与战斗。",
+          "nicknames": [
+            "Honoka Takamiya",
+            "多華宮仄",
+            "仄",
+            "Honoka"
+          ],
+          "traits": [
+            "魔女的使命男主角",
+            "冬月学院二年级生",
+            "新任学生会长",
+            "体内封印白姬",
+            "受到火火里保护",
+            "后来获得魔女力量",
+            "性格温和",
+            "卷入魔女冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "小林裕介",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118407-DMPcKY2AUSHV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Honoka Takamiya",
+            "name_native": "多華宮仄",
+            "name_alternative": [],
+            "description": "Honoka Takamiya (多華宮　仄 Takamiya Honoka?) is the male protagonist of the story. He is a second year student and the new student council president of Tougetsu Academy.\n\n(Source: Witchcraft Works Fandom)"
+          }
+        },
+        {
+          "id": 35504,
+          "name": "火火里绫火",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35504-hRW7DKG14cu9.jpg",
+          "description": "火火里绫火是冬月学院成绩优秀、人气极高的学生，许多女同学称她为“公主”。她拥有强大的火焰魔法，是对抗塔之魔女的重要战力，并受命保护同学多华宫仄。绫火在战斗中冷静果断，日常却不擅长表达感情，面对仄时常显得笨拙。她的守护任务与仄体内封印的秘密相连，也让两人逐渐建立信任。",
+          "nicknames": [
+            "Ayaka Kagari",
+            "火々里綾火",
+            "Princess",
+            "绫火",
+            "Ayaka"
+          ],
+          "traits": [
+            "冬月学院学生",
+            "被同学称为公主",
+            "成绩优秀",
+            "塔之魔女的强敌",
+            "拥有强大火焰魔法",
+            "负责保护多华宫仄",
+            "战斗冷静",
+            "人气极高"
+          ],
+          "voice_actors": [
+            {
+              "name": "瀬戸麻沙美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106787-ojpoY7XEGYgc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ayaka Kagari",
+            "name_native": "火々里綾火",
+            "name_alternative": [
+              "Princess"
+            ],
+            "description": "The female protagonist of the series. She is known as \"Princess\" by many female students due to her intelligence and high grades, which makes her the most popular girl at Tougetsu Academy. Ayaka is Kazane Kagari’s foster daughter, the chairwoman of the school who also happens to be head of \"Workshop Witches.\""
+          }
+        },
+        {
+          "id": 35505,
+          "name": "仓石蒲公英",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b35505-fwykFCHELI5E.png",
+          "description": "仓石蒲公英是塔之魔女，也是KMM团的成员之一。她与几名魔女伙伴转入冬月学院，奉命接近多华宫仄和火火里绫火，并尝试夺取仄体内封印的白姬。蒲公英有一定领导能力，负责协调同伴的行动；她在执行任务时态度认真，却也会因计划受挫而显露情绪。她与绫火的对立推动了学院中的多场魔法冲突。",
+          "nicknames": [
+            "Tanpopo Kuraishi",
+            "倉石たんぽぽ",
+            "蒲公英",
+            "Tanpopo"
+          ],
+          "traits": [
+            "塔之魔女",
+            "KMM团成员",
+            "转入冬月学院",
+            "受命接近仄与绫火",
+            "擅长魔法",
+            "带领魔女同伴",
+            "性格认真",
+            "多次参与袭击行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "井澤詩織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111453-7fe0B5uogy3Z.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tanpopo Kuraishi",
+            "name_native": "倉石たんぽぽ",
+            "name_alternative": [],
+            "description": "Tanpopo Kuraishi is one of the \"Tower Witches\" who transferred to Honoka Takamiya and Ayaka Kagari's high school, Tougetsu Academy.\n\n(Source: Witchcraft Works Fandom)"
+          }
+        },
+        {
+          "id": 43511,
+          "name": "多华宫霞",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43511-8X4Gp2MWCvVG.png",
+          "description": "多华宫霞是仄的妹妹，也是多华宫小町的女儿，就读冬月学院女子中学部。她拥有工房魔女的身份，能够运用魔法参与保护冬月市的行动。霞性格活泼，对哥哥仄的处境十分关心；当家人被卷入塔之魔女的冲突时，她会主动介入。她既是仄的家人，也是年轻魔女群体中的一员，展现了魔法势力在校园之外的组织关系。",
+          "nicknames": [
+            "Kasumi Takamiya",
+            "多華宮霞",
+            "霞",
+            "Kasumi"
+          ],
+          "traits": [
+            "仄的妹妹",
+            "小町的女儿",
+            "就读女子中学部",
+            "工房魔女",
+            "掌握魔法",
+            "性格活泼",
+            "关注哥哥安危",
+            "参与保护冬月市"
+          ],
+          "voice_actors": [
+            {
+              "name": "茅野愛衣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kasumi Takamiya",
+            "name_native": "多華宮霞",
+            "name_alternative": [],
+            "description": "Kasumi Takamiya is daughter of Komachi Takamiya and younger sister of Honoka Takamiya. She is a Workshop Witch. She is studying in Tougetsu Academy's girls middle school branch.\n\n(Source: Witchcraft Works Fandom)"
+          }
+        },
+        {
+          "id": 129725,
+          "name": "桂虎铁",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129725-I2i4HCPokQv8.png",
+          "description": "桂虎铁是塔之魔女，效力于美杜莎，并与蒲公英等人一起转入冬月学院。她接受组织安排接近仄和绫火，参与夺取白姬的行动。虎铁拥有魔法能力，能够与其他塔之魔女配合施术；在任务中她需要服从上级、应对绫火的反击。她的身份体现塔之魔女团体内部的等级与协作，也让学院里的敌对阵营更加具体。",
+          "nicknames": [
+            "Kotetsu Katsura",
+            "かつら虎徹",
+            "虎铁",
+            "Kotetsu"
+          ],
+          "traits": [
+            "塔之魔女",
+            "美杜莎的部下",
+            "转入冬月学院",
+            "与蒲公英同行",
+            "擅长魔法",
+            "执行塔之魔女任务",
+            "参与攻击仄",
+            "与绫火阵营对立"
+          ],
+          "voice_actors": [
+            {
+              "name": "日岡なつみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112777-ZK3Jxr4CpZiC.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kotetsu Katsura",
+            "name_native": "かつら虎徹",
+            "name_alternative": [],
+            "description": "Kotetsu Katsura is a tower witch and an underling of Medusa. She is transferred with other tower witches after the second loss of Tanpopo Kuraishi, to Honoka Takamiya's class.\n\n(Source: Witchcraft Works Fandom)"
+          }
+        },
+        {
+          "id": 129726,
+          "name": "鬼灯火苗",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129726-xihArmh9TFFX.png",
+          "description": "鬼灯火苗曾在绫火读中学时担任照护者，与冬子一起帮助她学习如何与社会相处。她了解绫火成长经历，也关注这位强大魔女在日常生活中的状态。火苗行事可靠，能够在魔女冲突扩大时提供协助，并理解保护仄与处理学院事务之间的联系。她的角色补充了绫火身边的支持网络，说明绫火并非独自面对所有责任。",
+          "nicknames": [
+            "Kanae Hozuki",
+            "鬼灯火苗",
+            "火苗",
+            "Kanae"
+          ],
+          "traits": [
+            "绫火的中学照护者",
+            "曾协助绫火适应社会",
+            "冬月学院相关人员",
+            "熟悉魔女事务",
+            "性格可靠",
+            "关注绫火成长",
+            "参与保护行动",
+            "与塔之魔女冲突有关"
+          ],
+          "voice_actors": [
+            {
+              "name": "大地葉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109251-ge8rmZwppqxy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kanae Hozuki",
+            "name_native": "鬼灯火苗",
+            "name_alternative": [],
+            "description": "Kanae Hozuki is one of the caretakers of Ayaka Kagari in middle school along with Touko. They helped her to interact with society. She is almost like a manager to Ayaka in middle school. She is member of Ayaka's fanclub as well as a student council member.\n\n(Source: Witchcraft Works Fandom)"
+          }
+        },
+        {
+          "id": 129727,
+          "name": "多华宫小町",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b129727-dXOyrKEOiNt0.png",
+          "description": "多华宫小町是仄与霞的母亲，性格会在乐观与悲观之间摇摆，面对压力时也容易受到他人言语影响。她与魔女世界有联系，曾对女儿霞进行严格教育，因此母女之间偶尔发生冲突。小町关心两个孩子，却未必总能用他们期待的方式表达；当仄体内的封印引来危险后，她也必须作为家长面对家庭安全和过去经历。",
+          "nicknames": [
+            "Komachi Takamiya",
+            "多華宮小町",
+            "小町",
+            "Komachi"
+          ],
+          "traits": [
+            "仄与霞的母亲",
+            "工房魔女",
+            "性格乐观",
+            "有时悲观",
+            "经历过严格教育",
+            "关注子女安全",
+            "熟悉魔女世界",
+            "参与家庭冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "川澄綾子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95013-854sZdHTaabG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Komachi Takamiya",
+            "name_native": "多華宮小町",
+            "name_alternative": [],
+            "description": "Kasumi and Honoka's mother. She can be very optimistic and at the same time very pessimistic. She can't handle pressure and harsh words from others. She was once scolded by Kasumi and went into her cycle of depression.\n\nKomachi is also friends with Kazane. They've known each other ever since high school and they were said to be so close that they could marry each other. However, they couldn't because both of them are women and so they promise each other that they would let their children do the marrying for them.\n\n(Source: MAL)"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 146922,
+      "anime_title": "机动战士高达 水星的魔女 序章",
+      "anime_origin": "JP",
+      "source": {
+        "id": 146922,
+        "titles": [
+          "Kidou Senshi Gundam: Suisei no Majo - PROLOGUE",
+          "Mobile Suit Gundam: The Witch from Mercury - PROLOGUE",
+          "機動戦士ガンダム 水星の魔女 PROLOGUE",
+          "Mobile Suit Gundam: The Witch from Mercury Episode 0",
+          "G-Witch Prologue",
+          "Мобильный воин Гандам: Ведьма с Меркурия"
+        ],
+        "year": 2022,
+        "format": "SPECIAL",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/146922"
+      },
+      "characters": [
+        {
+          "id": 282618,
+          "name": "卡尔多·纳博",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282618-Q72gXY9X2HXH.png",
+          "description": "卡尔多·纳博是瓦纳迪斯研究机构的代表性研究员，也是GUND格式理论的重要倡导者。她因推动相关研究而受到同僚尊敬，并希望技术能够服务于医疗与人类拓展，而不是成为战争工具。卡尔多与艾尔诺拉、纳迪姆一家在Fólkvangr共同工作生活，也关心年幼的艾莉克特。面对集团与审查组织的压力，她仍坚持研究理想，是序章事件中的关键长者。",
+          "nicknames": [
+            "Cardo Nabo",
+            "カルド・ナボ"
+          ],
+          "traits": [
+            "瓦纳迪斯研究机构代表",
+            "研究员",
+            "GUND格式理论倡导者",
+            "参与开发医疗技术",
+            "受研究同僚尊敬",
+            "居住于Fólkvangr",
+            "关心艾莉克特",
+            "反对技术被军事化"
+          ],
+          "voice_actors": [
+            {
+              "name": "一城みゆ希",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n103016-ksxumAK4vYNm.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Cardo Nabo",
+            "name_native": "カルド・ナボ",
+            "name_alternative": [],
+            "description": "She was a researcher who represented the Vanadis Institute. As a leading proponent of the \"GUND FORMAT\" theory, she had earned the respect of her fellow researchers"
+          }
+        },
+        {
+          "id": 289107,
+          "name": "普洛斯佩拉·墨丘利",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b289107-U2GQBQ7dfk6H.jpg",
+          "description": "普洛斯佩拉·墨丘利是总部设在水星的新世开发公司CEO，负责风灵高达的开发，也是苏莱塔的母亲。她佩戴用于身体支撑的特殊头盔，行动和外貌都带有明显的机械辅助特征。序章中她以艾尔诺拉·萨玛雅的身份生活，是瓦纳迪斯研究人员和艾莉克特的母亲；瓦纳迪斯事件改变了她的身份、目标与对高达技术的看法。",
+          "nicknames": [
+            "Prospera Mercury",
+            "プロスペラ・マーキュリー",
+            "艾尔诺拉·萨玛雅"
+          ],
+          "traits": [
+            "新世开发公司CEO",
+            "水星总部负责人",
+            "负责风灵高达开发",
+            "艾莉克特的母亲",
+            "佩戴生命维持头盔",
+            "瓦纳迪斯事件幸存者",
+            "擅长工程研究",
+            "身份与过去相关"
+          ],
+          "voice_actors": [
+            {
+              "name": "能登麻美子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95040-hSONMMOAmiJ6.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Prospera Mercury",
+            "name_native": "プロスペラ・マーキュリー",
+            "name_alternative": [],
+            "description": "The CEO of the Shin Sei Development Corporation, which is headquartered at Mercury. She was in charge of the Gundam Aerial's development, and is Suletta's mother. She always wears special headgear for physical support."
+          }
+        },
+        {
+          "id": 304462,
+          "name": "艾莉克特·萨玛雅",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b304462-hSgSxVT1Npro.png",
+          "description": "艾莉克特·萨玛雅是生活在Fólkvangr的四岁女孩，也是艾尔诺拉与纳迪姆的女儿。她天真好奇，喜欢探索家中和研究设施里的事物，常让父母既惊讶又操心。艾莉克特对模拟器和高达表现出特别的亲近感，与母亲的研究环境一同成长。瓦纳迪斯事件后，她与风灵高达之间的关系成为《水星的魔女》贯穿始终的重要谜团。",
+          "nicknames": [
+            "Ericht Samaya",
+            "エリクト・サマヤ",
+            "Eri (エリ)",
+            "艾莉"
+          ],
+          "traits": [
+            "四岁女孩",
+            "萨玛雅家的女儿",
+            "艾尔诺拉与纳迪姆的孩子",
+            "居住在Fólkvangr",
+            "天真好奇",
+            "喜欢操作模拟器",
+            "对高达充满兴趣",
+            "与风灵高达的秘密相关"
+          ],
+          "voice_actors": [
+            {
+              "name": "市ノ瀬加那",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n124390-03LHel2XSFel.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ericht Samaya",
+            "name_native": "エリクト・サマヤ",
+            "name_alternative": [
+              "Eri (エリ)"
+            ],
+            "description": "A four-year-old girl who lives with her family at Fólkvangr. She is the daughter of Elnora and Nadim. Ericht is an innocent child, and so curious that her parents sometimes don't know what to do with her.\n\n~!After the Vanadis Incident, she was turned into the Gundam Aerial.!~"
+          }
+        },
+        {
+          "id": 282621,
+          "name": "纳迪姆·萨玛雅",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b282621-X6RRGOWOKrGm.png",
+          "description": "纳迪姆·萨玛雅是萨玛雅家的父亲，与艾尔诺拉共同照顾年幼的艾莉克特。他们一家住在Fólkvangr，与瓦纳迪斯研究机构的成员一起生活和工作。纳迪姆关心女儿的成长，也支持伴侣参与GUND格式研究；随着审查组织和军事集团介入，家庭生活逐渐被技术争议与武力冲突打破。他的角色呈现研究人员在理想、工作与家庭责任之间的处境。",
+          "nicknames": [
+            "Nadim Samaya",
+            "ナディム・サマヤ"
+          ],
+          "traits": [
+            "萨玛雅家的父亲",
+            "艾莉克特的父亲",
+            "艾尔诺拉的伴侣",
+            "居住于Fólkvangr",
+            "支持家人",
+            "参与瓦纳迪斯研究生活",
+            "关心女儿",
+            "身处高达开发团队"
+          ],
+          "voice_actors": [
+            {
+              "name": "土田大",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101214-kvHCKwu88FcF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nadim Samaya",
+            "name_native": "ナディム・サマヤ",
+            "name_alternative": [],
+            "description": "The father of the Samaya family."
+          }
+        },
+        {
+          "id": 288842,
+          "name": "德林·雷姆布兰",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b288842-PIWMS5h3zYTi.png",
+          "description": "德林·雷姆布兰是贝纳里特集团的总裁，也是审查组织Cathedra的监督代表。他掌握集团政治与军事资源，认为GUND格式技术具有巨大风险，主张对高达研究实施强力监管。德林的决定直接影响瓦纳迪斯研究机构和萨玛雅一家的命运，也揭开集团内部利益与安全论述之间的冲突。他冷静而强势，是序章中推动突袭行动和政治对抗的关键人物。",
+          "nicknames": [
+            "Delling Rembran",
+            "デリング・レンブラン",
+            "德林"
+          ],
+          "traits": [
+            "贝纳里特集团总裁",
+            "审查组织Cathedra代表",
+            "掌握集团权力",
+            "主张监管高达技术",
+            "具有政治影响力",
+            "下达军事命令",
+            "与瓦纳迪斯研究所对立",
+            "推动序章冲突"
+          ],
+          "voice_actors": [
+            {
+              "name": "内田直哉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95338-hoqbedi0LHZf.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Delling Rembran",
+            "name_native": "デリング・レンブラン",
+            "name_alternative": [],
+            "description": "The president of the Benerit Group, and supervising representative of the auditing organization Cathedra."
+          }
+        },
+        {
+          "id": 307151,
+          "name": "肯南吉·埃弗里",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b307151-ckcgtfmvSYsa.jpg",
+          "description": "肯南吉·埃弗里是多米尼克斯特种部队的指挥官。二十一年前的瓦纳迪斯事件中，他曾驾驶贝基尔贝乌参与作战，亲身经历针对研究机构的军事行动。多年后他仍在相关部队任职，并负责指挥新的任务。肯南吉具有机动战士驾驶经验，熟悉高达技术带来的战场风险；他奉命执行行动，也见证了当年的冲突如何影响后来的政治格局。",
+          "nicknames": [
+            "Kenanji Avery",
+            "ケナンジ・アベリー"
+          ],
+          "traits": [
+            "多米尼克斯特种部队指挥官",
+            "曾驾驶贝基尔贝乌",
+            "参与瓦纳迪斯事件",
+            "二十一年前执行作战任务",
+            "具备驾驶员经验",
+            "服从军事命令",
+            "熟悉高达机体威胁",
+            "后来晋升指挥职位"
+          ],
+          "voice_actors": [
+            {
+              "name": "上田燿司",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95926-00Pd2b8WZwQS.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kenanji Avery",
+            "name_native": "ケナンジ・アベリー",
+            "name_alternative": [],
+            "description": "A commander in the Dominicus special forces. 21 years earlier, Kenanji served as a Begir-Beu pilot during the Vanadis Incident."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 106319,
+      "anime_title": "八男？别闹了！",
+      "anime_origin": "JP",
+      "source": {
+        "id": 106319,
+        "titles": [
+          "Hachi-nan tte, Sore wa Nai deshou!",
+          "The 8th Son? Are You Kidding Me?",
+          "八男って、それはないでしょう！",
+          "ผมเนี่ยนะ...ชายแปด!"
+        ],
+        "year": 2020,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/106319"
+      },
+      "characters": [
+        {
+          "id": 153472,
+          "name": "威德林·冯·贝诺·鲍迈斯特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153472-j3OSTwpnvdOx.png",
+          "description": "威德林·冯·贝诺·鲍迈斯特原本是现代商社职员一宫慎吾，转生后成为偏远贵族家中的第八个儿子。因家族资源有限，他很早便离开故乡，凭借异常强大的魔力学习魔法并闯荡世界。威德林在冒险中结识路易丝、伊娜、艾莉丝与威尔玛等伙伴，也逐渐获得领地与社会地位。他必须在贵族责任、个人选择和团队生活之间寻找平衡。",
+          "nicknames": [
+            "Wendelin von Benno Baumeister",
+            "ヴェンデリン・フォン・ベンノ・バウマイスター",
+            "Well",
+            "威尔",
+            "Wendelin"
+          ],
+          "traits": [
+            "八男？别闹了主角",
+            "前世是商社职员一宫慎吾",
+            "贵族家第八子",
+            "拥有强大魔力",
+            "擅长魔法",
+            "离开偏远领地冒险",
+            "与同伴结婚",
+            "努力建立自身地位"
+          ],
+          "voice_actors": [
+            {
+              "name": "石上静香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118738-60gKflxjl80c.png",
+              "language": "日语"
+            },
+            {
+              "name": "榎木淳弥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119319-yIrrUOUaJuSm.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Wendelin von Benno Baumeister",
+            "name_native": "ヴェンデリン・フォン・ベンノ・バウマイスター",
+            "name_alternative": [
+              "Well"
+            ],
+            "description": "Poor son of a nobleman who lives in a remote area far from the royal capital. Formerly, Shingo Ichimiya, a salaryman who works for a food-related trading company, woke up after taking a nap and became a small child in a different world. Since he could not succeed to the territory, he was aiming for independence with one point that he was blessed with magical talent in the situation of being stuck."
+          }
+        },
+        {
+          "id": 153473,
+          "name": "路易丝·奥弗尔韦格",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153473-yJaTVsNMqGCJ.png",
+          "description": "路易丝·奥弗尔韦格是威德林冒险团队中的重要伙伴，出身于奥弗尔韦格家族，接受过贵族与魔法相关的教育。她具备战斗能力，能够在队伍遭遇危险时参与行动，也熟悉上层社会的礼仪与关系。路易丝与威德林共同经历冒险和领地事务，逐渐建立起信任；她既有贵族女性的克制，也能在需要时果断表达立场。",
+          "nicknames": [
+            "Louise Jolande Aurelia Overweg",
+            "ルイーゼ・ヨランデ・アウレリア オーフェルヴェーク",
+            "路易丝",
+            "Louise"
+          ],
+          "traits": [
+            "威德林的同伴",
+            "奥弗尔韦格家族成员",
+            "魔法师",
+            "擅长战斗",
+            "熟悉贵族礼仪",
+            "参与冒险",
+            "与威德林同行",
+            "重视伙伴关系"
+          ],
+          "voice_actors": [
+            {
+              "name": "三村ゆうな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n117657-Hx3of6PcuYFA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Louise Jolande Aurelia Overweg",
+            "name_native": "ルイーゼ・ヨランデ・アウレリア オーフェルヴェーク",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 153474,
+          "name": "威尔玛·埃特尔·冯·阿斯加汉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153474-btZpAGA9D878.png",
+          "description": "威尔玛·埃特尔·冯·阿斯加汉来自阿斯加汉家族，是威德林冒险团队中的战斗成员。她能够在行动中承担护卫和作战职责，也逐渐适应与威德林及其他同伴共同生活。威尔玛性格坚毅，重视自身责任，不会因为身处贵族或冒险者环境的变化而轻易退缩。她参与团队的旅程和领地事务，为威德林的队伍提供可靠的战斗支援。",
+          "nicknames": [
+            "Wilma Etre von Asgahan",
+            "ヴィルマ・エトル・フォン・アスガハン",
+            "威尔玛",
+            "Wilma"
+          ],
+          "traits": [
+            "阿斯加汉家族成员",
+            "威德林的同伴",
+            "擅长战斗",
+            "参与冒险",
+            "适应贵族生活",
+            "关注团队安全",
+            "性格坚毅",
+            "重视职责"
+          ],
+          "voice_actors": [
+            {
+              "name": "市道真央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Wilma Etre von Asgahan",
+            "name_native": "ヴィルマ・エトル・フォン・アスガハン",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 153475,
+          "name": "艾莉丝·卡塔莉娜·冯·霍恩海姆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153475-jS4RJ55cV9fQ.png",
+          "description": "艾莉丝·卡塔莉娜·冯·霍恩海姆是威德林的未婚妻，出身霍恩海姆家族，拥有虔诚的信仰与治愈方面的能力。她在队伍冒险和贵族活动中都给予伙伴支持，尤其关心威德林及同行者的安危。艾莉丝性格温和、做事认真，也必须在家族身份和个人感情之间承担责任。她与威德林的关系逐步从婚约发展为共同面对未来的伙伴关系。",
+          "nicknames": [
+            "Elise Katarina von Hohenheim",
+            "エリーゼ・カタリーナ・フォン・ホーエンハイム",
+            "Saint Hohenheim",
+            "艾莉丝",
+            "Elise"
+          ],
+          "traits": [
+            "威德林的未婚妻",
+            "霍恩海姆家族成员",
+            "信仰虔诚",
+            "擅长治愈魔法",
+            "参与冒险",
+            "关心伙伴",
+            "熟悉贵族社会",
+            "与威德林同行"
+          ],
+          "voice_actors": [
+            {
+              "name": "西明日香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105707-FFTBOiKJwGeh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Elise Katarina von Hohenheim",
+            "name_native": "エリーゼ・カタリーナ・フォン・ホーエンハイム",
+            "name_alternative": [
+              "Saint Hohenheim"
+            ],
+            "description": "Well's Fiancee"
+          }
+        },
+        {
+          "id": 153476,
+          "name": "伊娜·苏珊娜·希尔布兰特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b153476-aVN41Hq5T2wv.png",
+          "description": "伊娜·苏珊娜·希尔布兰特是威德林身边的重要伙伴，出身希尔布兰特家族，受过剑术和贵族礼仪训练。她能在冒险过程中承担近身战斗与护卫职责，也愿意与同伴共同面对未知危险。伊娜性格认真，重视承诺和队伍协作；随威德林处理委托、婚约与领地事务后，她逐渐学会把个人意愿与家族期待一并考虑。",
+          "nicknames": [
+            "Ina Zuzane Hillebrandt",
+            "イーナ・ズザネ・ヒレンブラント",
+            "伊娜",
+            "Ina"
+          ],
+          "traits": [
+            "希尔布兰特家族成员",
+            "威德林的同伴",
+            "擅长剑术",
+            "受过贵族训练",
+            "参与冒险",
+            "性格认真",
+            "保护团队伙伴",
+            "重视承诺"
+          ],
+          "voice_actors": [
+            {
+              "name": "小松未可子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105071-Hcj0X2gcliPq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ina Zuzane Hillebrandt",
+            "name_native": "イーナ・ズザネ・ヒレンブラント",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 154882,
+          "name": "埃里希",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154882-GtPa4vl9LDYf.jpg",
+          "description": "埃里希是鲍迈斯特家族相关人物，生活在偏远领地的贵族家庭环境中。家族成员之间需要分配有限的资源和继承机会，威德林作为第八子离开故乡后，埃里希仍处在家族日常与领地事务之中。他的角色让观众看到主角出走之前的家庭结构，也补充了贵族家族如何安排子女、管理领地和面对继承问题的背景。",
+          "nicknames": [
+            "Erich",
+            "エーリッヒ"
+          ],
+          "traits": [
+            "鲍迈斯特家族成员",
+            "威德林的亲属",
+            "生活在偏远领地",
+            "熟悉贵族家务",
+            "关注家族继承",
+            "参与家族事务",
+            "与威德林有关",
+            "处于领地发展背景中"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡洋平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n236518-5hLipy1n49zw.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Erich",
+            "name_native": "エーリッヒ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 154883,
+          "name": "阿尔弗雷德·莱因福德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b154883-u07zqJmL0N5m.png",
+          "description": "阿尔弗雷德·莱因福德是莱因福德家族成员，生活在王国贵族和领地关系交织的社会中。他与威德林的冒险及贵族事务发生交集，使主角需要面对魔法战斗之外的家族与政治关系。阿尔弗雷德熟悉贵族规矩，能够在领地协商和社交场合中发挥作用；他的出现补充了威德林逐渐进入上层社会后必须处理的人际网络。",
+          "nicknames": [
+            "Alfred Reinford",
+            "アルフレッド・レインフォード",
+            "阿尔弗雷德",
+            "Alfred"
+          ],
+          "traits": [
+            "莱因福德家族成员",
+            "贵族社会人物",
+            "与威德林的冒险有关",
+            "参与领地事务",
+            "熟悉贵族规矩",
+            "处理家族关系",
+            "关注政治局势",
+            "出现在王国社会中"
+          ],
+          "voice_actors": [
+            {
+              "name": "浪川大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Alfred Reinford",
+            "name_native": "アルフレッド・レインフォード",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 168825,
+          "name": "埃尔文·冯·阿尔尼姆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b168825-q7IKPDKJr6IU.jpg",
+          "description": "埃尔文·冯·阿尔尼姆是拥有一座约五百人口村庄的贵族家族第五子。由于并非继承人，他需要另寻人生道路，最终成为冒险者，并与同样较晚踏上冒险之路的威德林相识。埃尔文性格友善，能理解威德林作为新人面对的压力，也会给予鼓励。他的经历呈现贵族次子如何在家族之外建立身份，并让主角认识到选择冒险并非只有自己一人。",
+          "nicknames": [
+            "Elvin von Arnim",
+            "エルヴィン・フォン・アルニム",
+            "埃尔文",
+            "Elvin"
+          ],
+          "traits": [
+            "阿尔尼姆贵族第五子",
+            "家族拥有约五百人口的村庄",
+            "不继承家族",
+            "成为冒险者",
+            "与威德林相识",
+            "性格友善",
+            "鼓励年长新人",
+            "关注冒险者生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "下野紘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Elvin von Arnim",
+            "name_native": "エルヴィン・フォン・アルニム",
+            "name_alternative": [],
+            "description": "Elvin is the fifth son of a noble family who owns a village with a populace of 500. His family's financial situation is similar to Well's and as the family's 5th son he won't inherit their wealth. So to make his living, he plans on using his sword talent to pass the scholarship exam and become an adventurer."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 12467,
+      "anime_title": "谜样女友X",
+      "anime_origin": "JP",
+      "source": {
+        "id": 12467,
+        "titles": [
+          "Nazo no Kanojo X",
+          "Mysterious Girlfriend X",
+          "謎の彼女X",
+          "MGX",
+          "NazoKanoX"
+        ],
+        "year": 2012,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/12467"
+      },
+      "characters": [
+        {
+          "id": 7088,
+          "name": "椿明",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7088-R90DbOUKJlqT.png",
+          "description": "椿明是高中生，与转学生卜部美琴同班。一次偶然尝到卜部的口水后，他发现自己能够通过这种奇特方式感知她的情绪，两人由此建立起与众不同的恋爱关系。椿原本对恋爱兴趣不大，逐渐开始在意卜部的感受，也会因她的神秘行为而困惑。他性格温和，愿意尊重对方的节奏，在交往中学习表达信任与好奇。",
+          "nicknames": [
+            "Akira Tsubaki",
+            "椿明",
+            "明",
+            "Tsubaki"
+          ],
+          "traits": [
+            "谜样女友X男主角",
+            "高中生",
+            "与卜部同班",
+            "尝过卜部的口水",
+            "与卜部建立特殊关系",
+            "性格温和",
+            "开始关注恋爱",
+            "在意他人感受"
+          ],
+          "voice_actors": [
+            {
+              "name": "入野自由",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95088-BHyqnkadBEqi.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Akira Tsubaki",
+            "name_native": "椿明",
+            "name_alternative": [],
+            "description": "This story's main character.  Since he tasted Urabe's drool, the two have entered into a strange love relationship.  He's reached the age where he's just acquired some interest in the opposite sex, but every time he tries seizing the initiative in romancing the beautiful Urabe, he can never seem to make any progress in their relationship."
+          }
+        },
+        {
+          "id": 7089,
+          "name": "卜部美琴",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n7089-URQPMAn9I03h.jpg",
+          "description": "卜部美琴是高中二年级的转学生，留着长发，习惯在课堂上睡觉，也常用随身剪刀剪裁内裤。她不太主动与同学交往，做事方式神秘古怪；椿明尝到她的口水后，两人发展出通过口水传递情绪的特殊关系。卜部不擅长直接表达感情，却会用自己的方式回应椿。她与椿一起摸索亲密关系中的信任、嫉妒和沟通。",
+          "nicknames": [
+            "Mikoto Urabe",
+            "卜部美琴",
+            "美琴",
+            "Urabe"
+          ],
+          "traits": [
+            "谜样女友X女主角",
+            "高中二年级生",
+            "转学生",
+            "留着长发",
+            "喜欢上课睡觉",
+            "用内裤剪刀剪东西",
+            "不擅长社交",
+            "与椿明交往",
+            "口水能传递情绪"
+          ],
+          "voice_actors": [
+            {
+              "name": "吉谷彩子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111073-nrAd4nxNznyp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mikoto Urabe",
+            "name_native": "卜部美琴",
+            "name_alternative": [],
+            "description": "**Class:** 2nd year of high school\n**Height:** 162 cm (5'3\")\n\nUrabe Mikoto is a girl who enjoys cutting things with her \"panty scissors\", sleeping during class, and not associating with anyone other than her boyfriend and friend [Oka](https://anilist.co/character/14886/Oka-Ayuko). While quirky, Urabe is incredibly genuine and sincere to her beloved [Tsubaki](https://anilist.co/character/7088/Tsubaki-Akira)."
+          }
+        },
+        {
+          "id": 14886,
+          "name": "丘步子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14886-hR9hj2iyWekd.png",
+          "description": "丘步子是椿明的同班同学，身高143厘米，与上野公平交往已久。她性格开朗，和卜部美琴也逐渐熟悉，常能从旁观察椿与卜部之间奇特的相处方式。步子既会关心朋友的恋爱进展，也有自己的恋人和校园日常。她的出现让故事从主角二人的秘密扩展到同学之间的交流、好奇与相互支持。",
+          "nicknames": [
+            "Ayuko Oka",
+            "丘歩子",
+            "步子",
+            "Oka"
+          ],
+          "traits": [
+            "椿明同班同学",
+            "身高143厘米",
+            "与上野交往",
+            "性格开朗",
+            "熟悉卜部的秘密",
+            "关注朋友恋情",
+            "参与校园生活",
+            "与椿保持友谊"
+          ],
+          "voice_actors": [
+            {
+              "name": "広橋涼",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/95111-iw76EbsupYkS.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ayuko Oka",
+            "name_native": "丘歩子",
+            "name_alternative": [],
+            "description": "__Height:__ 143 cm"
+          }
+        },
+        {
+          "id": 23766,
+          "name": "上野公平",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b23766-GUrpgx6VJcF8.png",
+          "description": "上野公平是椿明戴眼镜的同学，与丘步子交往约一年，却希望把恋情暂时对同学保密。椿和卜部逐渐发现两人的关系后，上野也成为主角身边可以交流恋爱烦恼的朋友。他在学校参加活动，与椿保持同学间的往来；面对步子和同学们的目光，他需要协调自己的隐私、感情表达和校园社交。",
+          "nicknames": [
+            "Kouhei Ueno",
+            "上野公平",
+            "公平",
+            "Ueno"
+          ],
+          "traits": [
+            "椿明的同学",
+            "戴眼镜",
+            "与丘步子交往",
+            "重视恋情隐私",
+            "擅长球类活动",
+            "与椿关系亲近",
+            "逐渐了解卜部",
+            "参与校园生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "梶裕貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kouhei Ueno",
+            "name_native": "上野公平",
+            "name_alternative": [],
+            "description": "A bespectacled friend and classmate of Tsubaki. He and Oka have been dating for about a year, but try to keep it a secret from their classmates. Only Tsubaki and Urabe (and later Hayakawa) are aware of their relationship. He often fondly recounts to Tsubaki his experiences with Oka; Tsubaki in turn gets romantic ideas to use on Urabe from Ueno's stories. He also seems to possess a possessive style as he won't take Oka to the beach because other guys will see her in a bikini and jealous when other guys talk to her."
+          }
+        },
+        {
+          "id": 32447,
+          "name": "椿阳子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b32447-7QyzJN7zA6eI.png",
+          "description": "椿阳子是椿明的姐姐，在母亲去世后把照顾弟弟视为自己的责任。她认为椿毕业前自己不该考虑结婚，因此长期把家庭放在个人生活之前。阳子熟悉弟弟的性格和成长经历，会直接过问他的日常与交友情况。她既表现出可靠的家庭支柱一面，也需要面对个人愿望与照护责任之间的平衡。",
+          "nicknames": [
+            "Youko Tsubaki",
+            "椿陽子",
+            "阳子",
+            "Youko"
+          ],
+          "traits": [
+            "椿明的姐姐",
+            "承担家庭照料",
+            "母亲去世后照顾弟弟",
+            "关心椿的生活",
+            "暂缓个人婚恋计划",
+            "性格务实",
+            "熟悉椿的成长",
+            "参与家庭日常"
+          ],
+          "voice_actors": [
+            {
+              "name": "福圓美里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95207-TYPMa0JKUDAf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Youko Tsubaki",
+            "name_native": "椿陽子",
+            "name_alternative": [],
+            "description": "Tsubaki's elder sister. She considers it her duty to raise her brother properly in place of their deceased mother, and refuses to consider getting married until he graduates and finds a job. She spends her time housekeeping. Tsubaki's occasional strange behavior from the effects of Urabe's saliva sometimes makes Youko worry about her brother."
+          }
+        },
+        {
+          "id": 35362,
+          "name": "早川爱香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/n35362-Rpjv9EQubYUe.png",
+          "description": "早川爱香曾与椿明在初中同班，是他过去喜欢过的女生。她如今就读于女子学院，外表出众，也拥有自己的生活圈。重新与椿相遇后，爱香注意到他的变化和新恋情，让椿不得不面对旧日好感与现在关系之间的差别。她的出现推动人物关系发生变化，也让卜部更直接地表达对椿的在意。",
+          "nicknames": [
+            "Aika Hayakawa",
+            "早川愛香",
+            "爱香",
+            "Aika"
+          ],
+          "traits": [
+            "椿明的初恋对象",
+            "曾与椿同读初中",
+            "就读女子学院",
+            "外貌出众",
+            "性格自信",
+            "重新与椿相遇",
+            "关注椿的恋情",
+            "推动人物关系变化"
+          ],
+          "voice_actors": [
+            {
+              "name": "嶋村侑",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100295-SLfRq3RqJEoF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Aika Hayakawa",
+            "name_native": "早川愛香",
+            "name_alternative": [],
+            "description": "She was Tsubaki's classmate throughout junior high school, and she was also his first crush. She's a typical beautiful girl. Presently, she attends Hoshinome Girls' Academy, a girls only high school."
+          }
+        },
+        {
+          "id": 65185,
+          "name": "诹访野亮子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65185-SoAhcwyOO9Ag.png",
+          "description": "诹访野亮子是椿明的同班同学，曾表示自己或许喜欢椿，也对他与卜部美琴之间的关系十分好奇。她会观察同学间的互动，并以自己的方式表达好感，使椿不得不面对来自其他人的关注。亮子在校园生活中与主角保持交集，虽然不是恋爱主线的中心，却让椿和卜部的相处出现新的观察角度，也推动了同学之间的情绪变化。",
+          "nicknames": [
+            "Ryouko Suwano",
+            "諏訪野亮子",
+            "亮子"
+          ],
+          "traits": [
+            "椿明的同班同学",
+            "与椿同读高中",
+            "曾表示可能喜欢椿",
+            "对椿的恋情感到好奇",
+            "观察同学关系",
+            "参与校园日常",
+            "与卜部同校",
+            "促使人物关系变化"
+          ],
+          "voice_actors": [
+            {
+              "name": "藤村歩",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95247-3jzUQFPN8clW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ryouko Suwano",
+            "name_native": "諏訪野亮子",
+            "name_alternative": [],
+            "description": "Ryoko Suwano is a girl in the same class of Tsubaki, who said she may had fallen for him and was very curious about Tsubaki's love relationship."
+          }
+        }
+      ]
+    }
+  ]
+}

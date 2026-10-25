@@ -1,0 +1,247 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T11:20:36.848Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 12477,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 12477,
+        "titles": [
+          "Sakasama no Patema",
+          "Patema Inverted",
+          "サカサマのパテマ"
+        ],
+        "year": 2013,
+        "format": "MOVIE",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/12477"
+      },
+      "characters": [
+        {
+          "id": 55155,
+          "name": "Patema",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b55155-JF8LKa8D0Fkn.png",
+          "description": "",
+          "nicknames": [
+            "Patema",
+            "パテマ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤井ゆきよ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106162-k7Jn7QGysSFk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Patema",
+            "name_native": "パテマ",
+            "name_alternative": [],
+            "description": "The main character of Patema Inverted. She is a resident of a village that lives deep underground, and often challenges the rule that forbids leaving the village's limits. Throughout the movie, Patema is shown to have an inverted gravity in comparison to those who dwell on the surface, meaning she could fall upwards through the sky should nothing bound her to land."
+          }
+        },
+        {
+          "id": 68365,
+          "name": "Age",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b68365-Rn0RKwtvWnuO.png",
+          "description": "",
+          "nicknames": [
+            "Age",
+            "エイジ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岡本信彦",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95270-LqNIF238L59u.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Age",
+            "name_native": "エイジ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 64967,
+          "name": "Porta",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/64967.jpg",
+          "description": "",
+          "nicknames": [
+            "Porta",
+            "ポルタ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大畑伸太郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96818-yAH3Krh7Y7Uy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Porta",
+            "name_native": "ポルタ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 162335,
+          "name": "Kaho",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162335-E1slbOdpSdt1.png",
+          "description": "",
+          "nicknames": [
+            "Kaho",
+            "カホ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "内田真礼",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n108639-LLrR4WptCh5s.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kaho",
+            "name_native": "カホ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 162337,
+          "name": "Izamura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162337-FY5A3TJSiw5E.png",
+          "description": "",
+          "nicknames": [
+            "Izamura",
+            "イザムラ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "土師孝也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100427-rXj5mx6gGNfH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Izamura",
+            "name_native": "イザムラ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 162338,
+          "name": "Eiichi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162338-0T7u5JAL2Wyg.png",
+          "description": "",
+          "nicknames": [
+            "Eiichi",
+            "エイイチ"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eiichi",
+            "name_native": "エイイチ",
+            "name_alternative": [],
+            "description": "Age's father."
+          }
+        },
+        {
+          "id": 162339,
+          "name": "Jack",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162339-jo2RTiqbWnul.png",
+          "description": "",
+          "nicknames": [
+            "Jack",
+            "ジャク"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "安元洋貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jack",
+            "name_native": "ジャク",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 162342,
+          "name": "Jii",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162342-wsnLLFcZq7QA.png",
+          "description": "",
+          "nicknames": [
+            "Jii",
+            "ジィ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "ふくまつ進紗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101603-g3HkzJZB923z.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Jii",
+            "name_native": "ジィ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 162343,
+          "name": "Lagos",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b162343-VhNkck41xxmG.png",
+          "description": "",
+          "nicknames": [
+            "Lagos",
+            "ラゴス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "加藤将之 ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95102-3YCVzrTvVhou.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lagos",
+            "name_native": "ラゴス",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    }
+  ]
+}

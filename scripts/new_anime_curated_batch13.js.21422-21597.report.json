@@ -1,0 +1,42 @@
+{
+  "verifiedAt": "2026-10-05T11:48:50.539Z",
+  "curatedFile": "scripts/new_anime_curated_batch13.js",
+  "anime": [
+    {
+      "id": 21422,
+      "title": "魔法少女什么的已经够了啦。",
+      "count": 6,
+      "excluded": [],
+      "references": [
+        "https://anilist.co/anime/21422",
+        "https://smiral-label.com/mahoii/",
+        "https://www.bilibili.com/bangumi/media/md3126",
+        "https://en.wikipedia.org/wiki/Mahō_Shōjo_Nante_Mō_Ii_Desu_kara."
+      ]
+    },
+    {
+      "id": 21597,
+      "title": "斯特拉的魔法",
+      "count": 7,
+      "excluded": [
+        {
+          "name": "饭野水叶、饭野夏",
+          "reason": "AniList关联角色图片不含hash，待补查合规图片"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/21597",
+        "https://www.b-ch.com/titles/5408/",
+        "https://www.kadokawa.co.jp/product/video2491/",
+        "https://mangapedia.com/ステラのまほう-ao6ty3qu3",
+        "https://en.wikipedia.org/wiki/Magic_of_Stella",
+        "https://enpedia.org/wiki/ステラのまほう"
+      ]
+    }
+  ],
+  "insertedCharacters": 13,
+  "insertedVoiceActors": 13,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 13,
+  "verifiedVoiceActors": 13
+}

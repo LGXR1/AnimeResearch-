@@ -1,0 +1,1027 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T03:58:51.570Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [
+    {
+      "anime": "刀剑神域",
+      "id": 36765,
+      "name": "Kazuto Kirigaya",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 36828,
+      "name": "Asuna Yuuki",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 36831,
+      "name": "Suguha Kirigaya",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 36830,
+      "name": "Ryoutarou Tsuboi",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 71579,
+      "name": "Rosalia",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 71581,
+      "name": "Nobuyuki Sugou",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 72337,
+      "name": "Schmitt",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 72339,
+      "name": "Tetsuo",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 72341,
+      "name": "Sasamaru",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 72343,
+      "name": "Ducker",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 72345,
+      "name": "Grimlock",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 72349,
+      "name": "Shinichi Nagata",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 72653,
+      "name": "Kagemune",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 72711,
+      "name": "Kobatz",
+      "reason": "AniList ID 已存在或批次重复"
+    },
+    {
+      "anime": "刀剑神域",
+      "id": 72903,
+      "name": "Eugene",
+      "reason": "AniList ID 已存在或批次重复"
+    }
+  ],
+  "anime": [
+    {
+      "media_id": 11757,
+      "anime_title": "刀剑神域",
+      "anime_origin": "JP",
+      "source": {
+        "id": 11757,
+        "titles": [
+          "Sword Art Online",
+          "ソードアート・オンライン",
+          "S.A.O",
+          "SAO",
+          "אומנות החרב אונליין",
+          "刀剑神域",
+          "ซอร์ดอาร์ตออนไลน์",
+          "Мастера меча онлайн"
+        ],
+        "year": 2012,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/11757"
+      },
+      "characters": [
+        {
+          "id": 36829,
+          "name": "Akihiko Kayaba",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36829-X5zITNEQ7xij.png",
+          "description": "",
+          "nicknames": [
+            "Akihiko Kayaba",
+            "茅場晶彦"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山寺宏一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95011-2RfLzncNyvbR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akihiko Kayaba",
+            "name_native": "茅場晶彦",
+            "name_alternative": [],
+            "description": "Director and creator of the Nerve Gear and *Sword Art Online*. He traps all the players within *Sword Art Online* by using the Nerve Gear to cease sending signals to the users' body. Any attempt of removal, loss of power for a certain period, or if the user dies in the game will also kill the user. His motivation is to observe what happens after he traps them.   \n\n~!He is in fact Heathcliff in the game *SAO*, who is the leader of the guild Knights of Blood.!~"
+          }
+        },
+        {
+          "id": 36832,
+          "name": "Shouzou Yuuki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36832-q664R7PQXI0o.png",
+          "description": "",
+          "nicknames": [
+            "Shouzou Yuuki",
+            "結城彰三"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山路和弘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101755-LsVbHCwg6Pel.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shouzou Yuuki",
+            "name_native": "結城彰三",
+            "name_alternative": [],
+            "description": "Asuna's father. He is a CEO of a major electronics manufacturing company."
+          }
+        },
+        {
+          "id": 36833,
+          "name": "Midori Kirigaya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b36833-SeO3lEvZD9m5.png",
+          "description": "",
+          "nicknames": [
+            "Midori Kirigaya",
+            "桐ヶ谷翠"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "遠藤綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Midori Kirigaya",
+            "name_native": "桐ヶ谷翠",
+            "name_alternative": [],
+            "description": "Kirito and Suguha's mother in the real world. After Kazuto got trapped she went to the hospital two months prior to lean by Kazuto's side, eyes brimming with tears and smile bright with gladness that he was still alive."
+          }
+        },
+        {
+          "id": 37681,
+          "name": "Keiko Ayano",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b37681-GDtOAN6NiJ9M.jpg",
+          "description": "",
+          "nicknames": [
+            "Keiko Ayano",
+            "綾野珪子",
+            "Silica (シリカ)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "日高里菜",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100250-L8WsoaLevibT.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Keiko Ayano",
+            "name_native": "綾野珪子",
+            "name_alternative": [
+              "Silica (シリカ)"
+            ],
+            "description": "She is a middle level dagger user. She is a very cheerful and sweet girl. She has a very rare familiar, a feathery dragon that she named [Pina](https://anilist.co/character/212810/Pina) after her cat in the real world. She treasured Pina a lot and was the reason she survived in the game. Aside from being a female player, she is also a Beast Tamer and thus perceived as an idol amongst the middle level players. She received endless invitations from parties and guilds who wanted an idol player to join them to get more fame. Because of the attention she got, she became overly proud of herself and left a party one time after a misunderstanding. She got surrounded by monsters and lost Pina in the end. She was then rescued by [Kirito](https://anilist.co/character/36765/Kirigaya-Kazuto) who was passing by and helped her to resurrect the dead familiar.   \n"
+          }
+        },
+        {
+          "id": 43892,
+          "name": "Yui",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43892-Ig6ZMdUbQDO2.jpg",
+          "description": "",
+          "nicknames": [
+            "Yui",
+            "ユイ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "伊藤かな恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95762-qhWmwni3TT6Y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yui",
+            "name_native": "ユイ",
+            "name_alternative": [],
+            "description": "A young and cheerful girl with long black hair who looks no older than 10 years old. [Kirito](https://anilist.co/character/36765) and [Asuna](https://anilist.co/character/36828) found her in a forest on the 22nd floor of Aincrad. ~!Her true identity is actually a players' self-regulation program for mental maintenance, Mental Health Counseling Program or MHCP. After being forbidden by the game master [Akihiko Kayaba](https://anilist.co/character/36829) to come close to the players at the beginning of the death game, she was flooded with errors and broke down. In the process she became an AI that possesses actual intelligence. When the Cardinal system governing *Sword Art Online* decided to erase her, Kirito turned her into a tear shaped crystal pendant. He actually converted her to a part of environmental data for the client program and was saved to his NerveGear's local memory.!~  ~!In *ALfheim Online*, she was able to return to her normal form because ALO was based on a copy of the SAO server. She supports Kirito there as a Navigation Pixie. Kirito and Asuna still treat her as their daughter.!~"
+          }
+        },
+        {
+          "id": 43906,
+          "name": "Rika Shinozaki",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43906-15QwTm2ZFDse.png",
+          "description": "",
+          "nicknames": [
+            "Rika Shinozaki",
+            "篠崎里香",
+            "Lis (リズ)",
+            "Lisbeth (リズベット)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高垣彩陽",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95823-gJC6Tr9HDOqy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rika Shinozaki",
+            "name_native": "篠崎里香",
+            "name_alternative": [
+              "Lis (リズ)",
+              "Lisbeth (リズベット)"
+            ],
+            "description": "A mace wielder that runs a blacksmith shop in Aincrad on the 48th floor. She made [Asuna](https://anilist.co/character/36828)’s rapier ‘Lament Light’ and one day got a request from [Kirito](https://anilist.co/character/36765) to make him a sword with similar or better quality than his one handed long sword ‘Elucidator’ that he got from a monster drop. She told him that if she had the right materials she could make weapons that would break any sword, so they formed a party and went on a journey to find the material she needed. Because of that journey she came to the conclusion that she felt lonely and yearned for warmth. In ALO she is Leprechaun race blacksmith. \n\n~!She comes to realize that she loves Kirito but after finding out that the one Asuna had feelings for was in fact Kirito she decided to give up on him despite how she feels so Asuna could express her feelings, however during the moments after Kirito's victory and SAO's announcement that the game has been cleared she shouts at the top of her lungs that she loves Kirito and that she will meet him again in the real world, which after the ALO incident she actually does, going to school with him and Asuna.!~"
+          }
+        },
+        {
+          "id": 54099,
+          "name": "Andrew Gilbert Mills",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54099-fOi8orxVTHt1.png",
+          "description": "",
+          "nicknames": [
+            "Andrew Gilbert Mills",
+            "アンドリュー・ギルバート・ミルズ",
+            "エギル",
+            "Agil"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "安元洋貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Andrew Gilbert Mills",
+            "name_native": "アンドリュー・ギルバート・ミルズ",
+            "name_alternative": [
+              "エギル",
+              "Agil"
+            ],
+            "description": "__Height:__ 180cm\n\nA merchant stationed at city Algate, located at the 50th floor of Aincrad. His shop motto is \"Buy cheap and sell cheap\". He is a very strong axe-wielding warrior in the frontlines.  Kirito sometimes stays in his shop as sort of a disaster shelter, which he gets annoyed with but later ignores as Asuna also visits, which results in some publicity for his shop.   \n\n~!In the real world he is married and owns a Bar called Dicey Cafe!~   \n\n~!In the side story Aria in the Starless Night, he is among the few players who participated in the first floor boss fight and supported Kirito when he knew of the latter's status as a beta tester and later called a Beater. !~   \n\n~!Upon returning to the real world he helps Kirito implement Kayaba's \"seed\" which allows VR games to be easier accessed throughout the world, also vastly decreasing the large licensing cost that companies would pay in servers.!~"
+          }
+        },
+        {
+          "id": 54777,
+          "name": "Sachi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54777-MduA5ck1lJUy.png",
+          "description": "",
+          "nicknames": [
+            "Sachi",
+            "サチ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "早見沙織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95869-qCQ0EaWpq1QT.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sachi",
+            "name_native": "サチ",
+            "name_alternative": [],
+            "description": "A member of the guild «Black Cats of the Full Moon». All the members are actually computer research club members from the same high school in the real world except [Kirito](https://anilist.co/character/36765/Kirigaya-Kazuto).\n\nShe uses a two-handed long spear and her level is rather low compared to the rest of the guild members. She never intended to leave the Starting City but she did, knowing that she probably would die because she is afraid of monsters. According to Kirito, she and him are a lot alike and are both socially awkward, wall themselves in from people but fear loneliness."
+          }
+        },
+        {
+          "id": 54779,
+          "name": "Keita",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b54779-1uCYd8WjboiM.png",
+          "description": "",
+          "nicknames": [
+            "Keita",
+            "ケイタ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "豊永利行",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95600-giNVqkdeWKuF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Keita",
+            "name_native": "ケイタ",
+            "name_alternative": [],
+            "description": "Keita is the leader of the guild Moonlit Black Cats. Excluding [Kirito](https://anilist.co/character/36765), the guild was composed of members from a school's computer club. \n\n~!On June 22, 2023, Keita went to purchase a home for the guild. After buying the house, he returned to the inn that the group had been using, and waited for his guild mates to return from the labyrinth on the 27th floor. Kirito returned alone, and had to tell Keita that everyone else died in the dungeon. Horrified, Keita committed suicide by falling off the edge of Aincrad.!~"
+          }
+        },
+        {
+          "id": 65169,
+          "name": "Diavel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65169-1pgUxA6JjpeA.png",
+          "description": "",
+          "nicknames": [
+            "Diavel",
+            "ディアベル",
+            "Diabel"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "檜山修之",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95257-PgYwsBplRSJa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Diavel",
+            "name_native": "ディアベル",
+            "name_alternative": [
+              "Diabel"
+            ],
+            "description": "A player with a kite shield and proclaims himself to be a knight. He was the one who organized the first meeting of players to form a raid party to take on the first floor boss. He organized the participating players well into groups according to their specialty and displayed great leadership to motivate and lead the raid party. \n\n~!He is also a beta tester of Sword Art Online but pretended to be a newbie player to escape the wrath of the players against them.!~"
+          }
+        },
+        {
+          "id": 65171,
+          "name": "Kibaou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b65171-4gM7UgGDU6H5.png",
+          "description": "",
+          "nicknames": [
+            "Kibaou",
+            "キバオウ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "関智一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95001-vm0RtZhmlzhK.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kibaou",
+            "name_native": "キバオウ",
+            "name_alternative": [],
+            "description": "One of the 10,000 players trapped in Sword Art Online. Kibaou is the leader of the Aincrad Liberation Squad, one of SAO's first major clearing guilds alongside [Lind](https://anilist.co/character/284250)'s Dragon Knights Brigade.\n\n~!In the aftermath of the disastrous 25th Floor battle, Kibaou retires from the front lines due to his guild suffering severe losses, which resulted in their merging with [Thinker](https://anilist.co/character/70681/Thinker)'s guild, MMO Today. This eventually became the Aincrad Liberation Force, of which Kibaou was a sub-leader.!~"
+          }
+        },
+        {
+          "id": 66327,
+          "name": "Kuradeel",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/66327.jpg",
+          "description": "",
+          "nicknames": [
+            "Kuradeel",
+            "クラディール"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "遊佐浩二",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95068-AbL4cVGlYaM8.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kuradeel",
+            "name_native": "クラディール",
+            "name_alternative": [],
+            "description": "A member of the guild Knights of the Blood assigned to protect Asuna.   ~!He was later revealed to be a member of the famous Player Killer guild, Laughing Coffin. He later tried to kill Kirito by setting a trap and killing three of the guild members. He was later stopped by Asuna and killed by Kirito because Asuna can't kill him.!~"
+          }
+        },
+        {
+          "id": 66645,
+          "name": "Tomo Hosaka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b66645-Np9FjjBajBkd.jpg",
+          "description": "",
+          "nicknames": [
+            "Tomo Hosaka",
+            "帆坂カリーナ朋",
+            "Argo (アルゴ)",
+            "The Rat"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井澤詩織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111453-7fe0B5uogy3Z.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tomo Hosaka",
+            "name_native": "帆坂カリーナ朋",
+            "name_alternative": [
+              "Argo (アルゴ)",
+              "The Rat"
+            ],
+            "description": "Argo \"The Rat\" serves as an information broker and courier in the Sword Art Online death game. [Kirito](https://anilist.co/character/36765/Kirigaya-Kazuto) and Argo suspect each-other without doubt to be a fellow beta testers but refuses to ever confirm the topic. As a broker she is known to sell any information for any price, including the story of her mysterious trademark whiskers. While she sells information to some at occasionally hefty prices, she is also known the be the author of free guide books situated in most town shops to help beginners. \n\n~!Argo's whiskers were originally drawn on to learn the \"Martial Arts\" skill during the beta test. Unable to complete the quest before beta testing ended, they became her trademark and source of her nickname.!~"
+          }
+        },
+        {
+          "id": 67149,
+          "name": "Caynz",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b67149-UcNSv3YWMl26.png",
+          "description": "",
+          "nicknames": [
+            "Caynz",
+            "カインズ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "川島得愛",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95911-OTi0Qqvbjphr.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Caynz",
+            "name_native": "カインズ",
+            "name_alternative": [],
+            "description": "A player who was killed inside a city, which is said to be impossible as there is a protection code preventing players to lose HP inside the city area.    \n\n~!His name is written as Caynz but Yoruko gave a false name Kains to Kirito and Asuna to throw them off. There was a person with the same name who died in a Piercing DoT(damage over time) a year before the inside the area incident. They based their plan with this information and matched the time of death with the time the real Kains died.!~   \n\n~!He is part of the guild Golden Apple. It got disbanded when their guild leader Griselda died. He and his friend Yoruko suspected that there was someone from the guild who killed the guild leader for the rare item they picked up earlier. They proceeded to do a plan to scare the culprit into confessing in the makeshift grave of the leader by making it that the guild leader rose from the dead and starts to kill the guild members inside the city.!~"
+          }
+        },
+        {
+          "id": 67151,
+          "name": "Yolko",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/67151.jpg",
+          "description": "",
+          "nicknames": [
+            "Yolko",
+            "ヨルコ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山本希望",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107490-O3FSLNKmFUdF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yolko",
+            "name_native": "ヨルコ",
+            "name_alternative": [],
+            "description": "A close friend of Caynz and the one who first screamed when the inside area incident occurred.   \n\n~!She is part of the guild Golden Apple. It got disbanded when their guild leader Griselda died. Shee and her friend Caynz suspected that there was someone from the guild who killed the guild leader for the rare item they picked up earlier. They proceeded to do a plan to scare the culprit into confessing in the makeshift grave of the leader by making it that the guild leader rose from the dead and starts to kill the guild members inside the city.!~"
+          }
+        },
+        {
+          "id": 69403,
+          "name": "Godfree",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b69403-6C1xSy93KQ51.png",
+          "description": "",
+          "nicknames": [
+            "Godfree",
+            "ゴドフリー",
+            "Godfrey"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "江原正士",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95179-ZXxATX9muGcD.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Godfree",
+            "name_native": "ゴドフリー",
+            "name_alternative": [
+              "Godfrey"
+            ],
+            "description": "He was one of the 10,000 players who got trapped in the death game Sword Art Online. He was part of the guild Knights of the Blood.    ~!He was killed by Kuradeel, during his revenge against Kirito.!~"
+          }
+        },
+        {
+          "id": 70677,
+          "name": "Sasha",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70677-pAInS7JFbijN.png",
+          "description": "",
+          "nicknames": [
+            "Sasha"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "藤井京子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/19335.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sasha",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "She resides in the first floor and takes care of the younger players. She lives with them in a church, where they hide from the members of the Army.\n\n(Source: SAO Wiki)"
+          }
+        },
+        {
+          "id": 70679,
+          "name": "Yulier",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70679-5pdgQUiIhpGb.png",
+          "description": "",
+          "nicknames": [
+            "Yulier",
+            "ユリエール",
+            "Yuriel"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "白石涼子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95348-sLIy7IMrgZeA.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yulier",
+            "name_native": "ユリエール",
+            "name_alternative": [
+              "Yuriel"
+            ],
+            "description": "Yuriel is a silver haired whip user who is part of the Aincrad Liberation Force. She is devoted to aiding Thinker with his duties.   She seeks the aid of Asuna and Kirito after she heard that two strong players from higher floors had come to the first floor. Thinker had been trapped by Kibaou in a hidden high-level dungeon that had recently opened up below the first floor. After journeying with Kirito and Asuna to the center of the floor, she grabs Thinker and is told by Kirito to escape with a teleport crystal.\n\n(Source: SAO Wiki)"
+          }
+        },
+        {
+          "id": 70681,
+          "name": "Thinker",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70681-TJpdp1p7Pcuw.png",
+          "description": "",
+          "nicknames": [
+            "Thinker",
+            "シンカー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "水島大宙",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95279-5fMO4r9szQKL.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Thinker",
+            "name_native": "シンカー",
+            "name_alternative": [],
+            "description": "He is trapped in the dungeon under the Black Iron Castle by a faction leader named Kibaou. He is later rescued by Kirito and Asuna in during the Morning Dew Girl arc events after he was thrown into a hidden dungeon.  \n\n(Source: SAO Wiki)"
+          }
+        },
+        {
+          "id": 70683,
+          "name": "Vassago Casals",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70683-5ATgLAHphZtc.jpg",
+          "description": "",
+          "nicknames": [
+            "Vassago Casals",
+            "ヴァサゴ・カザルス",
+            "プー",
+            "PoH"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "小山剛志",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95285-SCcRgHqau6Q9.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Vassago Casals",
+            "name_native": "ヴァサゴ・カザルス",
+            "name_alternative": [
+              "プー",
+              "PoH"
+            ],
+            "description": "Leader and founder of the red guild \"Laughing Coffin\", known for his large knife and catch phrase \"It's show time.\"  His guild was later destroyed by other players in SAO, but his whereabouts are missing. He is presumed to be alive because he wasn't listed as one of the dead players.  \n\n(Source: SAO Wiki)"
+          }
+        },
+        {
+          "id": 70687,
+          "name": "Atsushi Kanamoto",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b70687-Au0xDfoUoBGy.jpg",
+          "description": "",
+          "nicknames": [
+            "Atsushi Kanamoto",
+            "金本敦",
+            "Johnny Black (ジョニー・ブラック)"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "逢坂良太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n110743-k2SgQwU0JD33.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Atsushi Kanamoto",
+            "name_native": "金本敦",
+            "name_alternative": [
+              "Johnny Black (ジョニー・ブラック)"
+            ],
+            "description": "Johnny Black was a survivor of Sword Art Online, he's a member of the infamous red guild Laughing Coffin and is partnered with Xaxa. He is well known for using poisons and such in battles."
+          }
+        },
+        {
+          "id": 72347,
+          "name": "Nishida",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72347-CeTuU3U5Jorv.png",
+          "description": "",
+          "nicknames": [
+            "Nishida"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斎藤志郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1431.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nishida",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Nishida is one of the oldest players in Sword Art Online. In the game, he is a fisherman, but in reality, he works for the Tohto Broadband Connection, a network operator company that runs SAO. He was in charge of maintaining the network connection before being trapped in the game.   (Source: SAO Wiki)"
+          }
+        },
+        {
+          "id": 72901,
+          "name": "Alicia Rue",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72901-nw8klNK66XFl.png",
+          "description": "",
+          "nicknames": [
+            "Alicia Rue",
+            "アリシャ・ルー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斎藤千和",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-R8YSAYX7UFCO.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Alicia Rue",
+            "name_native": "アリシャ・ルー",
+            "name_alternative": [],
+            "description": "Alicia Rue is the leader of the Cait Sith. She was elected by popular vote. She is also training her dark magic capable of using Moonlight Mirror. She forms an alliance with the Sylphs to finish the Conquer the World Tree Quest.    ~!During the meeting with Sylph , the groups are attacked by Salamanders lead by General Eugene. Kirito dives in to save the day and fights off Eugene although Kirito has inferior equipment.  Later, along with Sylph reinforcements, she aid Kirito's ascension of the World Tree after using collected funds to purchase armor of at least Ancient grade for all of her warriors.!~ (Source: SAO Wiki)"
+          }
+        },
+        {
+          "id": 72905,
+          "name": "Sigurd",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b72905-IgRbCfHOLSCh.png",
+          "description": "",
+          "nicknames": [
+            "Sigurd",
+            "シグルド"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "桐本拓哉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95296-fYLp5Ff3eDI3.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sigurd",
+            "name_native": "シグルド",
+            "name_alternative": [],
+            "description": "Sigurd is a Sylph warrior in the VRMMORPG «ALfheim Online». He lost to Lyfa in the Sylph tournament yet he still retained high ambitions to hold power among the Sylph. He later tries to betray the Sylph to the Salamander. He is later caught and exiled by Sakuya, after the botched assassination attempt.   (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 73811,
+          "name": "Sakuya",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/73811.jpg",
+          "description": "",
+          "nicknames": [
+            "Sakuya",
+            "サクヤ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "矢作紗友里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95380-mOdqKPb6xYnI.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sakuya",
+            "name_native": "サクヤ",
+            "name_alternative": [],
+            "description": "Leader of the Sylph race and an exceptional swordswoman. She was elected as the leader of the Sylph race by popular vote (80% voice of the vote). Her statistics are not very high due to her status as a Lord not allowing her to do much training. Despite her low stats, she is a formidable opponent in the Sylph dueling tournaments.    ~!During a meeting with the Cait Sith, she is attacked by Salamanders led by General Eugene. At the same moment, Kirito flies in to challenge the intruder to a duel. After Kirito wins the battle, she attempts to seduce him along with Alicia Rue. Lyfa smothers their attempt, saying that he is accompanying her to the World Tree. At the end of the arc, Lady Sakuya leads a combined force of Cait Sith and Sylph against the World Tree in an attempt to aid Kirito along his journey.!~ (Source: SAO Wiki)"
+          }
+        },
+        {
+          "id": 74093,
+          "name": "Gtacs",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b74093-wjf0CuXflABx.jpg",
+          "description": "",
+          "nicknames": [
+            "Gtacs",
+            "ジータクス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "田中一成",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95738-TbYK2DzO5d1Y.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gtacs",
+            "name_native": "ジータクス",
+            "name_alternative": [],
+            "description": "Gtacs is a powerful mage and the leader of a Salamanders Mage Group."
+          }
+        },
+        {
+          "id": 212810,
+          "name": "Pina",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b212810-jHVw3QgmELu9.png",
+          "description": "",
+          "nicknames": [
+            "Pina",
+            "ピナ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "井澤詩織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111453-7fe0B5uogy3Z.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Pina",
+            "name_native": "ピナ",
+            "name_alternative": [],
+            "description": "is Silica's Feathered Little Dragon and the first known monster to be tamed in Sword Art Online. It understands Silica's commands and will protect her in any way it can, as it is her «Tamed Monster». It is also present in ALfheim Online as her Cait Sith familiar."
+          }
+        },
+        {
+          "id": 213212,
+          "name": "Daizen",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213212-i1wewHg54961.jpg",
+          "description": "",
+          "nicknames": [
+            "Daizen",
+            "ダイゼン"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Daizen",
+            "name_native": "ダイゼン",
+            "name_alternative": [],
+            "description": "is the finance chief of the Knights of the Brotherhood of Blood guild in Sword Art Online."
+          }
+        },
+        {
+          "id": 221512,
+          "name": "Yanai",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b221512-upXvuBcIUOmc.jpg",
+          "description": "",
+          "nicknames": [
+            "Yanai",
+            "柳井"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yanai",
+            "name_native": "柳井",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 237215,
+          "name": "Griselda",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b237215-YkfnRDgLzBdW.jpg",
+          "description": "",
+          "nicknames": [
+            "Griselda",
+            "グリセルダ"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Griselda",
+            "name_native": "グリセルダ",
+            "name_alternative": [],
+            "description": "She was one of the 10,000 players who were trapped in Sword Art Online, the leader of the «Golden Apple» guild before its dissolution, and the wife of Grimlock both in-game and in the real world."
+          }
+        },
+        {
+          "id": 249118,
+          "name": "Gin",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249118-3rN7kKZNZONd.jpg",
+          "description": "",
+          "nicknames": [
+            "Gin",
+            "ギン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "村中知",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107238-dDJNRNH3N4yy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Gin",
+            "name_native": "ギン",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 249116,
+          "name": "Shivata",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249116-wck4ndWryM03.png",
+          "description": "",
+          "nicknames": [
+            "Shivata",
+            "シヴァタ"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Shivata",
+            "name_native": "シヴァタ",
+            "name_alternative": [],
+            "description": "One of the 10,000 players trapped in Sword Art Online. A member of the Dragon Knights Brigade and, later, the Divine Dragon Alliance. He and [Liten](https://anilist.co/character/280880/Liten) fell in love with each other during their time throughout Aincrad."
+          }
+        },
+        {
+          "id": 249117,
+          "name": "Mina",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249117-3UkBJEYAZ21D.jpg",
+          "description": "",
+          "nicknames": [
+            "Mina",
+            "ミナ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "三上枝織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106236-aGhlIhHPPtjc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Mina",
+            "name_native": "ミナ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 249119,
+          "name": "Kain",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249119-FCL13kWzGpYi.jpg",
+          "description": "",
+          "nicknames": [
+            "Kain",
+            "カイン"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "森優子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109905-R0A9ACqmgcpa.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Kain",
+            "name_native": "カイン",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 264137,
+          "name": "Salamander",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg",
+          "description": "",
+          "nicknames": [
+            "Salamander",
+            "サラマンダー"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高橋伸也",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105148-wgwzwTxAERbM.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Salamander",
+            "name_native": "サラマンダー",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 284250,
+          "name": "Lind",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b284250-62evtgfSN3bL.png",
+          "description": "",
+          "nicknames": [
+            "Lind",
+            "リンド"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "BACKGROUND",
+            "name_full": "Lind",
+            "name_native": "リンド",
+            "name_alternative": [],
+            "description": "Lind is one of the 10,000 players initially trapped in Sword Art Online. He sees himself as [Diavel](https://anilist.co/character/65169/Diavel)'s successor and thus founds the Dragon Knights Brigade, one of the two major clearing guilds early in the game alongside [Kibaou](https://anilist.co/character/65171/Kibaou)'s Aincrad Liberation Squad."
+          }
+        }
+      ]
+    }
+  ]
+}

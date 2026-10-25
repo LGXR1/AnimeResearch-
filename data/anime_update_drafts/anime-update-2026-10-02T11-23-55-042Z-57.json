@@ -1,0 +1,635 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T11:23:55.043Z",
+  "mode": "specified",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 57,
+      "anime_title": "",
+      "anime_origin": "JP",
+      "source": {
+        "id": 57,
+        "titles": [
+          "BECK",
+          "Beck: Mongolian Chop Squad",
+          "ベック"
+        ],
+        "year": 2004,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/57"
+      },
+      "characters": [
+        {
+          "id": 308,
+          "name": "Yoshiyuki Taira",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b308-4a9DDGoSiqOK.jpg",
+          "description": "",
+          "nicknames": [
+            "Yoshiyuki Taira",
+            "平義行"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "野島健児",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95074-ilLCdbpWIgrF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yoshiyuki Taira",
+            "name_native": "平義行",
+            "name_alternative": [],
+            "description": "The first recruited member of BECK, Taira is the bassist, and the most talented band member next to [Ryusuke](https://anilist.co/character/4170/Minami-Ryuusuke). He plays Music Man StingRay bass. His attitude may sometimes come off as uncaring. He has been seen working as a traffic officer. As the story progresses, we learn that his father was a jazz musician that left him and his mother when he was young."
+          }
+        },
+        {
+          "id": 676,
+          "name": "Yukio Tanaka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b676-fH6R0OOn5lQb.jpg",
+          "description": "",
+          "nicknames": [
+            "Yukio Tanaka",
+            "田中幸雄",
+            "Koyuki"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "浪川大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yukio Tanaka",
+            "name_native": "田中幸雄",
+            "name_alternative": [
+              "Koyuki"
+            ],
+            "description": "The main character, the series follows his rapid development from living an average life to becoming an outstanding guitarist. Being a weak individual lacking an authoritative presence , he cannot help but let others push him around, a possible metaphoric stereotype on the very proper and manner conscious Japanese society. Recruited as the last member of BECK, he serves as the second guitarist and vocalist, and has a very beautiful voice that is mostly used for Beck&#039;s slower songs. He owns a Fender Telecaster."
+          }
+        },
+        {
+          "id": 2755,
+          "name": "Maho Minami",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2755-HaqHwcOp17uG.jpg",
+          "description": "",
+          "nicknames": [
+            "Maho Minami",
+            "南真帆"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "斉木美帆",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95365-3wV62ahHGAvu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Maho Minami",
+            "name_native": "南真帆",
+            "name_alternative": [],
+            "description": "Ryusuke&#039;s sister who is a talented singer with a strange relationship with Koyuki. At times she seems attracted to him, at others she brushes him off with little regard to his often ignored feelings."
+          }
+        },
+        {
+          "id": 4170,
+          "name": "Ryuusuke Minami",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4170-YlIlab0JBWv6.jpg",
+          "description": "",
+          "nicknames": [
+            "Ryuusuke Minami",
+            "南竜介",
+            "Ray"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "上野裕馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5217.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Ryuusuke Minami",
+            "name_native": "南竜介",
+            "name_alternative": [
+              "Ray"
+            ],
+            "description": "A Japanese character with a long history in America, he speaks fluent English, and frequently uses both Japanese and English in his conversations. He lives alone in a shack by the fishing pond. His skills and taste in music inspire Koyuki to take up the guitar. The band's creator, Ryusuke is BECK's lead guitarist. A once-younger Ryusuke and Eddie Lee stole the Lucille from the trunk of Syke's vehicle."
+          }
+        },
+        {
+          "id": 4613,
+          "name": "Yuuji Sakurai",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/4613.jpg",
+          "description": "",
+          "nicknames": [
+            "Yuuji Sakurai",
+            "桜井裕志",
+            "Saku"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "奈良徹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96659-zLvDfHLoxCne.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuuji Sakurai",
+            "name_native": "桜井裕志",
+            "name_alternative": [
+              "Saku"
+            ],
+            "description": "The fourth member to join, he was also Koyuki&#039;s first good friend, sticking with him even when the school bully and his gang beat him up for breaking the silent treatment on Koyuki. He is the drummer, inspired by his brother, and replaces the original drummer of BECK who followed Ry&ucirc;suke from his original band, Serial Mama."
+          }
+        },
+        {
+          "id": 4946,
+          "name": "Tsunemi Chiba",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4946-WbPIMY0odWkT.jpg",
+          "description": "",
+          "nicknames": [
+            "Tsunemi Chiba",
+            "千葉恒美"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "大畑伸太郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96818-yAH3Krh7Y7Uy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Tsunemi Chiba",
+            "name_native": "千葉恒美",
+            "name_alternative": [],
+            "description": "Main vocalist for BECK, he is the key member that [Ryusuke](https://anilist.co/character/4170/Minami-Ryuusuke) needed to bring [Taira](https://anilist.co/character/308/Taira-Yoshiyuki) into the band. His attitude, style, and appearance was based on Zack De La Rocha from Rage Against The Machine and compared to [Koyuki](https://anilist.co/character/676/Tanaka-Yukio), his voice is more punk and rock oriented, like the majority of the band's songs. He also named the band Beck after staring at [Ryusuke's dog](https://anilist.co/character/141894/Beck) for a few moments. He also tends to pick his nose."
+          }
+        },
+        {
+          "id": 7395,
+          "name": "Kenichi Saitou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/7395.jpg",
+          "description": "",
+          "nicknames": [
+            "Kenichi Saitou",
+            "斉藤研一"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "掟ポルシェ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5219.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kenichi Saitou",
+            "name_native": "斉藤研一",
+            "name_alternative": [],
+            "description": "Koyuki&#039;s guitar and swimming teacher, Saitou once swam in the Olympics but was unable to achieve his dream of winning so has turned his life to teaching others how to swim better. Saitou is loud and demanding in public, and especially strict when it comes to swimming. But when he is out of the water he is much more open, even turning to Koyuki for advice on his attractions to Momo. Saitou is a fan of British rock and his favorite band in the anime is the fictional Rocket Boys"
+          }
+        },
+        {
+          "id": 7396,
+          "name": "Izumi Ishiguro",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/7396.jpg",
+          "description": "",
+          "nicknames": [
+            "Izumi Ishiguro",
+            "石黒泉"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "丸山美紀",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1168.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Izumi Ishiguro",
+            "name_native": "石黒泉",
+            "name_alternative": [],
+            "description": "Koyuki's childhood friend, he eventually was left to choose between her and Maho, though by the time he reached his decision, the two girls also reached one of their own, luckily a similar conclusion."
+          }
+        },
+        {
+          "id": 7397,
+          "name": "Momoko Ogasawara",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7397-EmHp79QH6iv6.png",
+          "description": "",
+          "nicknames": [
+            "Momoko Ogasawara",
+            "小笠原桃子",
+            "Momo"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "永島由子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96582-pZIoOXgpxn1y.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Momoko Ogasawara",
+            "name_native": "小笠原桃子",
+            "name_alternative": [
+              "Momo"
+            ],
+            "description": "Koyuki's music teacher at school, she gets to know Saitou through Koyuki and they start to develop a relationship through the series."
+          }
+        },
+        {
+          "id": 7398,
+          "name": "Eiji Kimura",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b7398-YN95mT0ROvdP.png",
+          "description": "",
+          "nicknames": [
+            "Eiji Kimura",
+            "木村栄二"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "渋谷茂",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95815-IKiWyEytGNvt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eiji Kimura",
+            "name_native": "木村栄二",
+            "name_alternative": [],
+            "description": "Originally in Ryusuke's first band, Serial Mama, he turned into his rival, and his new band, Belle Ame, formed as BECK's competition was mainly succeeding through appeal for the band member's looks and not sound. Getting all the big breaks, Belle Ame seemed destined for greatness, until BECK destroyed their ride to fame, at the cost of being blacklisted in the music industry."
+          }
+        },
+        {
+          "id": 7399,
+          "name": "Eddie Lee",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/7399.jpg",
+          "description": "",
+          "nicknames": [
+            "Eddie Lee"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "ジェイミー･ヴィッカーズ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n100218-b4fHQTx06w0p.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Eddie Lee",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Lead guitarist of Dying Breed, he was Ryusuke&#039;s close (and only) friend. It is while they are growing up (and carjacking) that Eddie helped him find Beck (the seemingly patchwork dog) and Lucille. He seems to resemble Kurt Cobain from Nirvana, he can be also based on Eddie Vedder of Pearl Jam or Geddy Lee of Rush.     ~!Just before he died, he entrusted Koyuki with part of his new song &quot;Devil&#039;s Way&quot;, later Beck completed the song to perform it live in honor of Eddie!~"
+          }
+        },
+        {
+          "id": 12360,
+          "name": "Ran",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/12360.jpg",
+          "description": "",
+          "nicknames": [
+            "Ran",
+            "蘭"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "一雄寺西",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/5169.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ran",
+            "name_native": "蘭",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 12476,
+          "name": "Masaru Hyodou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/12476.jpg",
+          "description": "",
+          "nicknames": [
+            "Masaru Hyodou",
+            "兵藤マサル"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "森田成一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95205-5P3tKe3eTG9n.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Masaru Hyodou",
+            "name_native": "兵藤マサル",
+            "name_alternative": [],
+            "description": "Masaru Hyodo is the chief instigator in a group who bully Koyuki during his middle school days. Hyodo is also a &quot;technically&quot; accomplished guitarist, but as Ry&ucirc;suke points out, doesn't have any real feeling or passion behind his playing. Hyodo's father is a famous musician, but his parents are divorced (Hyodo is his mother's maiden name)."
+          }
+        },
+        {
+          "id": 12556,
+          "name": "Rikiya Kitazawa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/12556.jpg",
+          "description": "",
+          "nicknames": [
+            "Rikiya Kitazawa",
+            "北沢力也"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "津田健次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Rikiya Kitazawa",
+            "name_native": "北沢力也",
+            "name_alternative": [],
+            "description": "Rikiya Kitawaza is a thug attending Koyuki's middle school and a childhood friend of Hyodo."
+          }
+        },
+        {
+          "id": 12557,
+          "name": "Tanabe",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/12557.jpg",
+          "description": "",
+          "nicknames": [
+            "Tanabe",
+            "田辺"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "岩田光央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/95399-HGKWUmKmZ1el.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tanabe",
+            "name_native": "田辺",
+            "name_alternative": [],
+            "description": "Tanabe is a school friend of Koyuki. His hobbies include photography."
+          }
+        },
+        {
+          "id": 13259,
+          "name": "Yoshito Morozumi",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/13259.jpg",
+          "description": "",
+          "nicknames": [
+            "Yoshito Morozumi",
+            "ヨシト"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "天田真人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/10006.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yoshito Morozumi",
+            "name_native": "ヨシト",
+            "name_alternative": [],
+            "description": "Yoshito Morozumi is a school friend of Maho and a budding actor and model. He competes with Koyuki for Maho's affections, often subjecting him to ridicule. He later joins Belle Ame on stage at Greatful Sound."
+          }
+        },
+        {
+          "id": 18316,
+          "name": "Manabu Miyazawa",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b18316-xwjjjyIB0gCo.jpg",
+          "description": "",
+          "nicknames": [
+            "Manabu Miyazawa",
+            "宮沢学"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "菅原そうた",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n122070-gNies5Fl2ibX.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Manabu Miyazawa",
+            "name_native": "宮沢学",
+            "name_alternative": [],
+            "description": "Manabu Miyazawa is the vocalist for Eiji's group Belle Ame. Before joining Belle Ame, he was in a band called Cloud."
+          }
+        },
+        {
+          "id": 20298,
+          "name": "Matt Reed",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/20298.jpg",
+          "description": "",
+          "nicknames": [
+            "Matt Reed"
+          ],
+          "traits": [],
+          "voice_actors": [],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Matt Reed",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Lead singer for Beck&#039;s American band &quot;Dying Breed&quot;. Known as rock&#039;s craziest guy.    After letting Koyuki sing with them at the stage he became a fan of him and tries to push Koyuki to the top."
+          }
+        },
+        {
+          "id": 20347,
+          "name": "Hiromi Masuoka",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/20347.jpg",
+          "description": "",
+          "nicknames": [
+            "Hiromi Masuoka",
+            "益岡弘美"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "山川琴美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96101-pm0qDcZfXF7u.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hiromi Masuoka",
+            "name_native": "益岡弘美",
+            "name_alternative": [],
+            "description": "Hiromi Masuoka is a student at the Ichieda Gakuen Private High School attended by Koyuki, Saku, and Chiba. She also worked for a period in a doughnut shop next to Koyuki&#039;s, the Seiryuu restaurant. She is a friend of Koyuki and Saku."
+          }
+        },
+        {
+          "id": 43323,
+          "name": "Kazuo Satou",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/43323.jpg",
+          "description": "",
+          "nicknames": [
+            "Kazuo Satou",
+            "佐藤和緒",
+            "Lady",
+            "baa-chan"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "高乃麗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95622-dTBTsrkei7v4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kazuo Satou",
+            "name_native": "佐藤和緒",
+            "name_alternative": [
+              "Lady",
+              "baa-chan"
+            ],
+            "description": "The lady who first gets Beck into Greatful Sound (chapter 23, page 10) (with some &quot;help&quot; from Leon Sykes&quot; (chapter 24)) she is also the woman who gets the band into contact with their first label, the indie label &quot;Lust For Life&quot; (Beck: Mongolian chop Squad chapter 43, page 40-45)."
+          }
+        },
+        {
+          "id": 45067,
+          "name": "Page",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/45067.jpg",
+          "description": "",
+          "nicknames": [
+            "Page"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "エナポゥ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n156735-Z2bfc6uOv3L6.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Page",
+            "name_native": "",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 141894,
+          "name": "Beck",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b141894-3mEkPQ60pg7D.jpg",
+          "description": "",
+          "nicknames": [
+            "Beck"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "麻生智久",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95854-DovWtfrg4gRV.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Beck",
+            "name_native": "",
+            "name_alternative": [],
+            "description": "Beck is Ryusuke's dog. Ryusuke's band was named 'BECK' by Chiba, in reference to Beck the dog."
+          }
+        },
+        {
+          "id": 156732,
+          "name": "Kayo",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156732-qyam6JkvLHQl.jpg",
+          "description": "",
+          "nicknames": [
+            "Kayo",
+            "カヨ"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "エナポゥ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n156735-Z2bfc6uOv3L6.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kayo",
+            "name_native": "カヨ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 156733,
+          "name": "Leon Sykes",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b156733-jsex7AQ3HcC4.jpg",
+          "description": "",
+          "nicknames": [
+            "Leon Sykes",
+            "レオン・サイクス"
+          ],
+          "traits": [],
+          "voice_actors": [
+            {
+              "name": "渡部隆一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n156736-8YkfaciQPfbJ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Leon Sykes",
+            "name_native": "レオン・サイクス",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    }
+  ]
+}

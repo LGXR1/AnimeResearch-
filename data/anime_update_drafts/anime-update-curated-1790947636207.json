@@ -1,0 +1,777 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T13:08:13.514Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 68,
+      "anime_title": "黑猫",
+      "anime_origin": "JP",
+      "source": {
+        "id": 68,
+        "titles": [
+          "Black Cat",
+          "ブラックキャット"
+        ],
+        "year": 2005,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/68"
+      },
+      "characters": [
+        {
+          "id": 42,
+          "name": "托雷·哈特涅特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b42-mMWsls5Qx6wG.jpg",
+          "description": "托雷·哈特涅特曾是秘密组织Chronos的顶尖杀手，代号“黑猫”，并拥有第十三号成员的身份。他使用Chronos为自己打造的专属手枪Hades，战斗力和枪法都很出色。认识沙耶后，托雷开始改变冷酷的处事方式；沙耶死后，他离开杀手组织，转而与斯文一起做清道夫。脖子上的铃铛提醒他不要忘记自己曾经的选择。",
+          "nicknames": [
+            "托雷·哈特涅特",
+            "Train Heartnet",
+            "トレイン・ハートネット",
+            "Black Cat",
+            "Chrono Number XIII",
+            "Train"
+          ],
+          "traits": [
+            "曾是Chronos组织的杀手",
+            "代号黑猫",
+            "Chronos第十三号成员",
+            "使用专属手枪Hades",
+            "脖子上戴着铃铛",
+            "后来成为清道夫",
+            "枪法与战斗能力出众",
+            "对孩子和弱者心软",
+            "性格逐渐变得开朗",
+            "珍惜自由生活"
+          ],
+          "voice_actors": [
+            {
+              "name": "高山みなみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95024-qsZgGp8VHqMP.png",
+              "language": "日语"
+            },
+            {
+              "name": "近藤隆",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95206-R0eBPiYR9CRD.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Train Heartnet",
+            "name_native": "トレイン・ハートネット",
+            "name_alternative": [
+              "Black Cat",
+              "Chrono Number XIII"
+            ],
+            "description": "__Height:__ 175 cm\n\nAlso known as Black Cat and the main protagonist in the story, he starts as a ruthless assassin but learns compassion from [Saya Minatsuki](https://anilist.co/character/4232/Minatsuki-Saya).\n\n~!After his change of heart (when Creed kills Saya), he works as a sweeper alongside Sven and Eve.!~  He always wears a bell around his neck to remind him of what he once was and could once more become. In the manga, he already has the bell from book one. In the anime, Eve gives him the bell from the fable of the Black Cat.  His gun was made just for him by Chronos, called Hades. He also has a soft spot for women and children, especially when tears are shed."
+          }
+        },
+        {
+          "id": 43,
+          "name": "斯文·沃尔菲德",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b43-y00cvAjLFtZe.png",
+          "description": "斯文·沃尔菲德曾是国际调查局侦探，后来成为清道夫并与托雷搭档。与托雷偏重力量和直觉不同，斯文更冷静理性，常靠分析和策略取得优势。他奉行自己的绅士准则，随身携带装有多种机关的公文箱；眼罩下的预知之眼能让他短暂窥见未来，但使用会给精神带来负担。斯文也像父亲一样照顾伊芙。",
+          "nicknames": [
+            "斯文·沃尔菲德",
+            "Sven Vollfied",
+            "スヴェン・ボルフィード",
+            "Sven"
+          ],
+          "traits": [
+            "前国际调查局侦探",
+            "后来成为清道夫",
+            "托雷的搭档",
+            "处事冷静理性",
+            "奉行绅士准则",
+            "擅长制定战斗策略",
+            "使用装有机关的公文箱",
+            "拥有能窥见未来的左眼",
+            "像父亲一样照顾伊芙",
+            "经验丰富且可靠"
+          ],
+          "voice_actors": [
+            {
+              "name": "藤原啓治",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sven Vollfied",
+            "name_native": "スヴェン・ボルフィード",
+            "name_alternative": [],
+            "description": "__Height:__ 180 cm\n\nFormer IBI detective, Sven is now a sweeper, and [Train](https://anilist.co/character/42/Heartnet-Train)'s partner. He also takes [Eve](https://anilist.co/character/44/Eve) in as a sort of daughter after the events at [Torneo](https://anilist.co/character/21599/Rudman-Torneo)'s place. Sven's outlook is much calmer and more logical than Train's; he often has to use his brain to win battles since he doesn't possess the Black Cat's pure physical power. He follows a strict \"gentlemen's code\", which often makes him seem older to other characters.\n\nThe Forseeing Eye (under the eyepatch) allows him to glimpse into the future at the cost of great mental strain. In the manga, it eventually evolves into the Glasper Eye which can manipulate time. He otherwise fights with a briefcase filled with gadgets."
+          }
+        },
+        {
+          "id": 45,
+          "name": "琳丝蕾特·沃克",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b45-z9wTQOTieezu.jpg",
+          "description": "琳丝蕾特·沃克是以委托谋生的职业盗贼，常被称为Rins。她行动独立，只按自己的信念接任务，服务对象从政府到黑帮都有。琳丝蕾特擅长乔装，也喜欢购物和塔罗占卜，自称没有偷不到的东西、也没有摆不平的男人。她多次与托雷和斯文合作，能在情报、潜入和谈判中发挥作用，总有办法让自己带着报酬离开。",
+          "nicknames": [
+            "琳丝蕾特·沃克",
+            "Rinslet Walker",
+            "リンスレット・ウォーカー",
+            "Rins"
+          ],
+          "traits": [
+            "以委托谋生的职业盗贼",
+            "行动独立自主",
+            "自称能偷走任何东西",
+            "擅长乔装易容",
+            "熟悉塔罗占卜",
+            "为政府和黑帮提供服务",
+            "曾与托雷和斯文合作",
+            "善于利用魅力周旋",
+            "重视自身信念",
+            "行动后总能获得报酬"
+          ],
+          "voice_actors": [
+            {
+              "name": "ゆかな",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95140-sFp0uedEmZ9f.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Rinslet Walker",
+            "name_native": "リンスレット・ウォーカー",
+            "name_alternative": [
+              "Rins"
+            ],
+            "description": "__Height:__ 167 cm\n__Occupation:__ thief-for-hire\n\nHer actions are always in line with her beliefs. She is very independent and won't do anything she doesn't want to. Sensing a commonality between herself and [Train](https://anilist.co/character/42/Heartnet-Train), she harbored an interest in him since Sapidoa. A world class thief also known as Rins who she works for everyone, from the government to mob bosses. She likes disguises, shopping and tarrot card reading. She claims she can steal anything and manipulate any man. She sometimes works alongside Train and [Sven](https://anilist.co/character/43/Vollfied-Sven). She always comes out with money in her pockets, regardless of how it might have gotten there."
+          }
+        },
+        {
+          "id": 560,
+          "name": "克里德·迪斯肯斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b560-Cl0cQGdoK3xP.png",
+          "description": "克里德·迪斯肯斯是“星之使徒”的首领，曾在Chronos担任抹杀者，并一度把托雷视作伙伴般仰慕。离开旧组织后，他企图推翻Chronos并改造世界秩序，也执着于说服托雷加入。克里德通过Tao力量施展念力剑，战斗能力危险，身体还接受了纳米机器改造。他的理想逐渐与对托雷的强烈占有欲交织，使其成为故事中的主要敌人。",
+          "nicknames": [
+            "克里德·迪斯肯斯",
+            "Creed Diskenth",
+            "クリード・ディスケンス",
+            "Creed"
+          ],
+          "traits": [
+            "星之使徒组织首领",
+            "曾是Chronos的抹杀者",
+            "过去仰慕托雷",
+            "执着于让托雷加入组织",
+            "企图推翻Chronos",
+            "拥有念力剑等战斗能力",
+            "接受过纳米机器改造",
+            "追求长生与支配",
+            "善于拉拢部下",
+            "行事偏执危险"
+          ],
+          "voice_actors": [
+            {
+              "name": "三木眞一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Creed Diskenth",
+            "name_native": "クリード・ディスケンス",
+            "name_alternative": [],
+            "description": "__Height:__ 176 cm\n\nCreed is the leader of the Apostles of the Stars, which seeks to make revolution, not only to overthrow Chronos, but change the world's leadership by \"incompetent people\". Back when Train was the XIII Chrono Number and Creed was an eraser, he admired him to the point of calling him \"his partner\", even though their relationship was far from close. Creed captured Rinslet to make Train meet with him at Lunafort Tower, in their first encounter after many years; he wants him to join the Apostles Of The Stars. Creed has a choker that looks like Train's, which reflects his recent and disturbing obsession with him. He borders on the insane, but Creed is at his most disturbing at times when we know what he says must be the truth.    ~!When Creed was young, he was abused by his mother. When he found a chance he ran away. There he is abused by police as a way for them to release tension. After this happened he learned he should change the world cause the world as he was a child was reckless and full of \"unworthy people.\" !~ Heavy Spoiler ~!Creed also possesses enigmatic and frightening powers that stem from his manipulation of Chi through Tao, which manifest themselves in his 'Imagine Blade, which was originally called the Kotetsu', which varies between four levels through the story (Lv. 1, the blue transparent balde, Lv.2, the black blade with the shark-shaped demon-head, Lv.3,the form where it's not exactly a blade, but a giant cutting mutant arm implanted into Creed , and Lv. Max, the strongest form where the arm creates a light blade similar to a lightsaber). His ultimate ambition is to elevate his nanomachines in his body to a level where he would become immortal and rule the world forever. Creed's Tao Power is called \"Sword\". His Imagine Blade is shattered by Train in his final battle (When it is in Level Max), when Train ignores all warnings from Dr. Tearju not to use his Rail Gun more than three times a day not to destabilize his electric power (Which would prevent him from using his Rail Gun ability ever again), and charges all his power in Hades to fire the most powerful bolt of electricity he could, which not just breaks Creed's blade, but also depletes most of his Ki, allowing him to barely stand. Eve then uses her powers to remove the immortality nanomachines from Creed, to turn him back into a human. Creed then flees with Echidna to a quiet place. Due to the damage taken, Creed eventually has to use a wheelchair. !~ (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 561,
+          "name": "夏尔登·弗拉姆贝格",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b561-6aRWml2f0m5F.png",
+          "description": "夏尔登·弗拉姆贝格是星之使徒成员，常以墨镜和丝质高礼帽示人，拥有操纵血液的Tao能力，能把血液转化为战斗手段。他曾与恭子搭档执行任务，但逐渐认为克里德沉迷于杀戮，背离了组织最初宣称的正义。夏尔登因此离开星之使徒，却仍继续与Chronos对抗；在最终冲突中，他也会协助托雷一行阻止更大的威胁。",
+          "nicknames": [
+            "夏尔登·弗拉姆贝格",
+            "Charden Flamberg",
+            "シャルデン･フラムブルグ",
+            "Charden",
+            "シャルデン・フラムブルグ"
+          ],
+          "traits": [
+            "星之使徒成员",
+            "常戴墨镜与高礼帽",
+            "拥有操纵血液的Tao能力",
+            "擅长使用敌方流出的血",
+            "常与恭子搭档行动",
+            "对克里德的理念产生怀疑",
+            "后来离开星之使徒",
+            "仍反抗Chronos势力",
+            "作战风格冷静",
+            "坚持自己的正义判断"
+          ],
+          "voice_actors": [
+            {
+              "name": "速水奨",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95137-2Q5l3Br9G7sk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Charden Flamberg",
+            "name_native": "シャルデン･フラムブルグ",
+            "name_alternative": [],
+            "description": "Charden Flamberg in the Manga  Charden is recognizable by his sunglasses and silk top hat (though he is very attractive, almost effeminate, when not wearing them). He wields the power to control blood, including blood drawn from his enemies. Early in the manga, he fights Belze together with Kyoko, although the battle has no outcome due to the intervention of Shiki to bring both members back to the Apostles' helicopter. Later, he sees that Durham is killed after he is taken down by Train. He leaves the Apostles of the Stars, together with Kyoko, over an ideological split with Creed, as he considers Creed's bloodlust is blinding his original sense of justice that formed the Apostles of the Stars, but continues to battle Chronos. He meets Train and Sven later in the plot. In the last chapter of the series Charden is seen coughing up blood, implying that he is dying. Charden's Tao Power is called \"Blood\".   Charden Flamberge in the Anime  Same as in the manga, except the battle against Belze does not take place, and his leaving of the Apostles takes place at a different time. He makes a reappearance near the end of the anime, though his trademark sunglasses and silk top hat are no longer worn as well as him keeping his hair tied back. He decides to aid Train and the group in the cause of stopping Eden, by fighting the Zero numbers at the end, while Train and Sven head for the upper levels to save Eve also when he tries to talk to Sephiria there is a flash back of them fighting but there battle it self is not shown.  Source: Wikipedia"
+          }
+        },
+        {
+          "id": 562,
+          "name": "桐崎恭子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b562-dvQ6onbS59TU.png",
+          "description": "桐崎恭子是星之使徒的一员，性格活泼好动，是一名女高中生，常与夏尔登搭档行动。她早期多负责传递消息，战斗时则能运用Tao力量提升体温并释放火焰。恭子起初以孩子气的方式支持克里德，也很快仰慕上托雷，之后逐渐面对组织理念与个人判断之间的冲突。她看似天真冲动，真正投入战斗时仍敢于迎向危险。",
+          "nicknames": [
+            "桐崎恭子",
+            "Kyouko Kirisaki",
+            "キリサキ・キョウコ",
+            "Kyoko"
+          ],
+          "traits": [
+            "星之使徒成员",
+            "活泼好动的女高中生",
+            "常与夏尔登搭档",
+            "擅长传递组织消息",
+            "使用Tao提升身体温度",
+            "能够释放火焰攻击",
+            "最初支持克里德行动",
+            "对托雷十分仰慕",
+            "性格孩子气",
+            "战斗时敢于正面迎敌"
+          ],
+          "voice_actors": [
+            {
+              "name": "千葉千恵巳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95795-R95HhZinSrFX.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kyouko Kirisaki",
+            "name_native": "キリサキ・キョウコ",
+            "name_alternative": [],
+            "description": "A member of Creed's \"Apostles of the Stars\", Kyoko is a hyperactive high-school student. Often partnered up with Charden, she tends to be more of a messenger than a fighter. In battle however, she can use Tao to raise her body temperature to ridiculous degrees, which she can then expel as fire.  Like other Apostles, she believes what Creed is doing is right, though it's mostly in a \"yeah, whatever\" childish way. She falls in love with Train shortly after their meeting, and continues to idolize him throughout the series."
+          }
+        },
+        {
+          "id": 14894,
+          "name": "蒂雅悠·鲁纳提克",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b14894-Jw12Fs9gmaiK.png",
+          "description": "蒂雅悠·鲁纳提克是知名的纳米技术与生物学研究者，智商超过两百，也是伊芙基因来源的原型人物。她参与过人工生命相关研究，熟悉纳米机器与生物工程的技术细节。蒂雅悠性格理性认真，能够从科学角度分析改造技术的风险，并在托雷一行遇到难题时提供帮助。她对研究成果背后的伦理问题也保持关注，不愿让科学被权力和暴力随意操纵。",
+          "nicknames": [
+            "蒂雅悠·鲁纳提克",
+            "Tearju Lunatique",
+            "ティアーユ・ルナティーク",
+            "Tear",
+            "Dr. Tearju"
+          ],
+          "traits": [
+            "纳米技术与生物学研究者",
+            "智商超过两百",
+            "参与伊芙的基因研究",
+            "伊芙的DNA来源",
+            "拥有专业实验室经验",
+            "理解人工生命技术",
+            "为托雷提供技术意见",
+            "性格理性认真",
+            "关注改造技术的伦理影响",
+            "在组织纷争中保持独立判断"
+          ],
+          "voice_actors": [
+            {
+              "name": "福圓美里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95207-TYPMa0JKUDAf.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tearju Lunatique",
+            "name_native": "ティアーユ・ルナティーク",
+            "name_alternative": [
+              "Tear"
+            ],
+            "description": "__Height:__ 155 cm \n\nIn Black Cat: A renowned nanotechnology and biology researcher with an IQ over 200, Dr. Tearju is the source of Eve's DNA. Although she is the human Eve was cloned from, Tearju's eye color is green while Eve's is violet."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 197754,
+      "anime_title": "欺诈游戏",
+      "anime_origin": "JP",
+      "source": {
+        "id": 197754,
+        "titles": [
+          "LIAR GAME",
+          "ライアーゲーム",
+          "Игра лжецов"
+        ],
+        "year": 2026,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/197754"
+      },
+      "characters": [
+        {
+          "id": 13472,
+          "name": "神崎直",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13472-96yBTxlLK8gr.png",
+          "description": "神崎直是一名极其诚实的年轻女性，偶然收到一亿日元现金与欺诈游戏的参赛卡，被迫在限期内保住自己的钱并设法赢得对手的资金。周围人不相信她时，她联系曾揭穿大型传销组织的秋山真一求助。直虽然缺乏博弈经验，却始终关心对手的处境，常努力帮助负债者脱身；随着比赛继续，她逐渐学会分析规则，同时坚持诚实与信任。",
+          "nicknames": [
+            "神崎直",
+            "Nao Kanzaki",
+            "The Chick",
+            "Nao"
+          ],
+          "traits": [
+            "性格诚实坦率",
+            "意外卷入欺诈游戏",
+            "收到一亿日元与参赛卡",
+            "容易相信他人",
+            "主动寻求秋山协助",
+            "关心对手的困境",
+            "常设法帮助负债玩家",
+            "面对博弈仍坚持诚信",
+            "逐渐学会制定策略",
+            "重视同伴安全"
+          ],
+          "voice_actors": [
+            {
+              "name": "仁見紗綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n330963-jY1jUdktAlvk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Nao Kanzaki",
+            "name_native": "神崎直",
+            "name_alternative": [
+              "The Chick"
+            ],
+            "description": "Nao is a stupidly honest girl who sees herself trapped in the Liar Game after finding 100 million yen in a box along with a card. Now, she has to take care of the money for 30 days and try to steal another 100 million from his rival.   Nao's father is in the hospital and none of her friends believe her so she contacts Akiyama Shinichi to help her.   \n\n ~!As the story goes on she becomes more mature and even gives Akiyama a hand in the game sometimes. She believes that Liar Game is about how much a person can remain honest and plays the games with honesty. She is always concerned about her teammates and opponents and always tries to save them from debts and sometimes in the process sacrificing herself with staying in the game and paying others debts. !~"
+          }
+        },
+        {
+          "id": 13473,
+          "name": "秋山真一",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b13473-sYtvI1hxorvY.png",
+          "description": "秋山真一曾是主修心理学的研究生，因母亲遭遇传销骗局而设计计划，成功揭穿大型传销组织，因而被称为天才欺诈师。神崎直卷入欺诈游戏后，他被她近乎固执的诚实打动，决定帮助她应对比赛。秋山善于分析规则、预测对手心理并制定多步策略，常成为参赛者倚重的领袖；他也努力避免让团队内部出现新的操控与不平等。",
+          "nicknames": [
+            "秋山真一",
+            "Shinichi Akiyama",
+            "Ex Con",
+            "秋山"
+          ],
+          "traits": [
+            "心理学专业研究生出身",
+            "被称为天才欺诈师",
+            "曾揭穿大型传销骗局",
+            "因母亲遭遇而追查传销组织",
+            "协助神崎直参加比赛",
+            "善于分析规则和人心",
+            "制定精密博弈策略",
+            "常被其他玩家视为领袖",
+            "擅长识破操纵手段",
+            "努力让团队保持平等"
+          ],
+          "voice_actors": [
+            {
+              "name": "大塚剛央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n128426-uB8KFqVLbogF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Shinichi Akiyama",
+            "name_native": "秋山真一",
+            "name_alternative": [
+              "Ex Con"
+            ],
+            "description": "Formerly a graduate student majoring in psychology, he is a \"genius swindler\" who took down a giant MLM scam named Shuuei to avenge his mother. He helps Nao when he sees the honest nature she had, just like his mother. Although he is not invited into the Liar Game, he enters by substituting for another player in Round II. By Round III he is respected (and feared) enough by the LGT players to become unofficial leader of the Southern Country, though he tries to keep things equal in the group. Yokoya, however, knows Akiyama had been manipulating his team mates and mocks him for it."
+          }
+        },
+        {
+          "id": 16877,
+          "name": "福永优二",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b16877-HjTBmfuHogJ3.jpg",
+          "description": "福永优二是欺诈游戏的参赛者，也是一名跨性别女性。她曾冒用朋友Hitomi的身份参赛，擅长操纵局势、谈判和利用对手心理，并拥有空手道黑带。福永对金钱有强烈欲望，脾气急躁，因此多次给神崎直与秋山真一制造麻烦；但在后续比赛中，她也会基于自身判断与两人合作。她善于隐藏意图，立场会随局势与利益变化。",
+          "nicknames": [
+            "福永优二",
+            "Yuuji Fukunaga",
+            "福永ユウジ",
+            "Fukunaga"
+          ],
+          "traits": [
+            "欺诈游戏参赛者",
+            "跨性别女性",
+            "曾假扮朋友Hitomi参赛",
+            "擅长操纵与谈判",
+            "拥有空手道黑带",
+            "对金钱有强烈欲望",
+            "脾气急躁",
+            "多次与直和秋山为敌",
+            "后来曾与两人合作",
+            "善于隐藏真实意图"
+          ],
+          "voice_actors": [
+            {
+              "name": "大地葉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109251-ge8rmZwppqxy.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuuji Fukunaga",
+            "name_native": "福永ユウジ",
+            "name_alternative": [],
+            "description": "A trans woman who first appears in Round II, where she poses as a woman named Hitomi (Hitomi is her friend for whom she substitutes as player No. 3). Sly and calculating and also a 5th degree black belt, Fukunaga is a skilled manipulator whose greatest weakness appears to be her desire for money and her bad temper. She greatly hinders Nao and Akiyama during Round II and the Revival Round, but has never been able to outwit Akiyama. However, Fukunaga cooperates with them well during Round III and even when she finishes the round debt-free, she chooses to continue in the tournament. To avoid revealing her skills during the mock stimulation, she sends Nao in her place, matching Solario's expectations. Though Fukunaga seems fond of Nao in her own way, she doesn't think of her as competent.     ~! In chapter 83, Nao comes to the conclusion that Fukunaga has a crush on Akiyama. !~"
+          }
+        },
+        {
+          "id": 20726,
+          "name": "横谷宪彦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b20726-5I6GiAkY9qEp.png",
+          "description": "横谷宪彦是欺诈游戏中的重要对手，性格冷静，擅长操纵、贿赂和威吓。他在第三轮北国阵营中登场，试图控制其他参赛者并扩大自己的影响力。横谷被秋山真一视为强劲对手，双方都能洞察群体内部的欲望与裂痕；神崎直也很早察觉到他的言行并不寻常。横谷常随身带着老鼠，沉着外表下隐藏着强烈的支配欲。",
+          "nicknames": [
+            "横谷宪彦",
+            "Norihiko Yokoya",
+            "横谷憲彦",
+            "The Sneak",
+            "Yokoya"
+          ],
+          "traits": [
+            "欺诈游戏主要反派之一",
+            "冷静而善于操纵",
+            "擅长贿赂与威吓",
+            "第三轮北国阵营的重要玩家",
+            "被秋山视为强劲对手",
+            "随身携带老鼠",
+            "试图支配参赛者团队",
+            "善于利用他人弱点",
+            "外表沉着不易动怒",
+            "与秋山展开策略对抗"
+          ],
+          "voice_actors": [
+            {
+              "name": "花江夏樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Norihiko Yokoya",
+            "name_native": "横谷憲彦",
+            "name_alternative": [
+              "The Sneak"
+            ],
+            "description": "__Occupation:__  Ex-Coporate CEO (Drama)\n__Abilities:__ Manipulation, Bribery, Intimidation\n\nYokoya Norihiko is the current main antagonist of the series, introduced in the Third Round's Northern Country.\n\nHe is a calm, darked-haired man who is fond of carrying mice on his person. Nearco accurately describes him as Akiyama's greatest rival, and Nao senses something odd about him early in the game."
+          }
+        },
+        {
+          "id": 21319,
+          "name": "菊泽隆广",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b21319-bYneOwOsLPv8.png",
+          "description": "菊泽隆广是一名二十岁的汽车修理工，也是欺诈游戏的参赛者。他在第一轮复活赛中被神崎直与秋山真一利用规则击败，后来却没有因此记恨直。第三轮时，菊泽曾和旧同学横谷合作，企图取得更多资金并控制团队；当横谷的真实意图被揭露后，他回到南国阵营，并提醒其他玩家注意横谷强烈的支配欲。",
+          "nicknames": [
+            "菊泽隆广",
+            "Takahiro Kikuzawa",
+            "キクザワタカヒロ",
+            "Kikuzawa"
+          ],
+          "traits": [
+            "二十岁的汽车修理工",
+            "欺诈游戏参赛者",
+            "曾参加复活赛",
+            "最初被直与秋山设局",
+            "后来没有怨恨直",
+            "曾与横谷联手",
+            "和横谷是旧同学",
+            "了解横谷的支配欲",
+            "曾提醒南国阵营成员",
+            "在利益与合作间摇摆"
+          ],
+          "voice_actors": [
+            {
+              "name": "石毛翔弥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n121940-VsqIg2qO2RXF.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takahiro Kikuzawa",
+            "name_native": "キクザワタカヒロ",
+            "name_alternative": [],
+            "description": "A twenty year old automobile mechanic, Kikuzawa was first noted when Nao, under Akiyama's advice, tricked him in the first Revival Round. As she later helped him out, he holds no grudges and even quotes her when he first tries to dominate the Southern Country in Round III. He initially teams up with Yokoya to make money and dominate his team, but when he is exposed he returns to the Southern Country. As he went to school with Yokoya, he knows about Yokoya's fixation on domination and warns the other players just what type of person Yokoya is."
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 369,
+      "anime_title": "幻影死神",
+      "anime_origin": "JP",
+      "source": {
+        "id": 369,
+        "titles": [
+          "Boogiepop wa Warawanai: Boogiepop Phantom",
+          "Boogiepop Phantom",
+          "ブギーポップは笑わない Boogiepop Phantom",
+          "Boogiepop Doesn't Laugh",
+          "Boogiepop Never Laughs"
+        ],
+        "year": 2000,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/369"
+      },
+      "characters": [
+        {
+          "id": 2598,
+          "name": "不吉波普",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2598-LYTKwsCd09WL.jpg",
+          "description": "不吉波普是沉睡在宫下藤花体内的神秘人格，通常保持休眠，只有世界受到威胁时才会出现。深阳学园流传着“死神会在美丽巅峰夺走生命”的传闻，许多学生因此把不吉波普视为危险存在。它总以黑色斗篷和筒状帽遮住面容，气质难辨男女，行动冷静而近乎机械，并以自己的方式追查威胁世界的敌人。",
+          "nicknames": [
+            "不吉波普",
+            "Boogiepop",
+            "ブギーポップ",
+            "The Rumored Shinigami"
+          ],
+          "traits": [
+            "宫下藤花体内的人格",
+            "危机出现时苏醒",
+            "被学生称作死神",
+            "以黑色斗篷示人",
+            "戴黑色筒状帽",
+            "性别气质模糊",
+            "言行冷静机械",
+            "说话带古典腔调",
+            "擅长吹口哨",
+            "负责对抗世界之敌"
+          ],
+          "voice_actors": [
+            {
+              "name": "清水香里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95169-EfU6qQdPxHRv.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Boogiepop",
+            "name_native": "ブギーポップ",
+            "name_alternative": [
+              " The Rumored Shinigami"
+            ],
+            "description": "The shinigami whispered of among the female students of Shinyo Academy, few people know that Boogiepop actually exists. Rumors say that that Boogiepop is a reaper that kills people when they are at their most beautiful point in life. Unknown to them, Boogiepop is normally dormant, rising to the surface when enemies of the world appear. Boogiepop's appearance and voice are ambiguous: they seem both masculine and feminine at the same time. However, hidden beneath their signature black cloak and black, pipe-shaped hat, little is ever seen of them. Straight-faced and to the point, Boogiepop acts as mechanical as they claim to be. Although they are known to make \"asymmetrical faces\" from time to time. Boogiepop speaks in an archaic manner​ and seems fond of whistling the overture to Wagner's Die Meistersinger von Nürnberg."
+          }
+        },
+        {
+          "id": 2608,
+          "name": "雾间凪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2608-EWos7RrSvUvx.jpg",
+          "description": "雾间凪是深阳学园的学生，因调查能力和强烈的行动力被称作“火焰魔女”。她体能与智力都很出众，城市出现连续异常事件时，往往会主动追查真相。父亲雾间诚一是知名作家，他的死亡与凪早年的住院经历改变了她的人生方向。凪认为自己可能给普通人带来危险，因此刻意保持距离，却始终执着于拯救世界。",
+          "nicknames": [
+            "雾间凪",
+            "Nagi Kirima",
+            "霧間凪",
+            "Fire Witch",
+            "火焰魔女"
+          ],
+          "traits": [
+            "深阳学园学生",
+            "被称为火焰魔女",
+            "体能出众",
+            "头脑敏锐",
+            "善于调查异常事件",
+            "主动追查世界威胁",
+            "因危险感而疏远他人",
+            "父亲是知名作家",
+            "曾因疾病住院",
+            "怀有拯救世界的使命感"
+          ],
+          "voice_actors": [
+            {
+              "name": "浅川悠",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95119-ExV6YzTBbIZE.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Nagi Kirima",
+            "name_native": "霧間凪",
+            "name_alternative": [
+              "Fire Witch"
+            ],
+            "description": "Known as the Fire Witch to many, Kirima has made few friends due the way she distances herself from others: she knows that she is too dangerous for 'normal' people to associate with. She has a messianic complex, and seeks to save the world from whatever may threaten it. As such, whenever there are unusual happenings within the city, Kirima can be found investigating what has happened. In the past, she had spent a period of time in hospital. A combination of the events from that period of her life, as well as the death of her father, the famous writer Kirima Seiichi, brought her to follow this path in life. Extremely gifted both physically and intellectually, she has the basic tools she needs to carry out her self-appointed mission."
+          }
+        },
+        {
+          "id": 2609,
+          "name": "宫下藤花",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2609-XXNfaCh29HHs.jpg",
+          "description": "宫下藤花是深阳学园的一名普通学生，与竹田启司交往，也是末真和子的朋友。她平常过着自然平静的校园生活，并不知道自己体内寄宿着名为不吉波普的另一人格。当城市中出现威胁世界的异常存在时，不吉波普会接管身体行动，藤花则往往对发生过的事毫无记忆。她的日常身份与神秘传闻之间形成了作品的重要谜团。",
+          "nicknames": [
+            "宫下藤花",
+            "Touka Miyashita",
+            "宮下藤花",
+            "藤花"
+          ],
+          "traits": [
+            "深阳学园普通学生",
+            "不吉波普的宿主",
+            "本人并不知道另一人格存在",
+            "性格自然随和",
+            "与竹田启司交往",
+            "是末真和子的朋友",
+            "日常生活平静",
+            "异常事件中的另一位主角",
+            "体内人格会替她行动",
+            "与校园怪谈紧密相连"
+          ],
+          "voice_actors": [
+            {
+              "name": "清水香里",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95169-EfU6qQdPxHRv.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Touka Miyashita",
+            "name_native": "宮下藤花",
+            "name_alternative": [],
+            "description": "The alternate protagonist of the Boogiepop Series. She is an ordinary student at Shinyo Academy, the girlfriend of Keiji Takeda, and a good friend of Kazuko Suema. Unbeknownst to most, though, including herself, Touka hosts the mysterious entity known as Boogiepop inside her mind."
+          }
+        },
+        {
+          "id": 19899,
+          "name": "幻影不吉波普",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b19899-beKqT3tGmT4X.png",
+          "description": "幻影不吉波普是在回响者的光芒出现在天空时，于异常电磁场中诞生的存在。它从散落的记忆里只找到不吉波普的服饰，却没有对方的面容，于是随机采用由里原美奈子的外貌，并先自称不吉波普。之后它为表示尊重而改称幻影不吉波普。它同样追击威胁世界的敌人，但有自己的判断与目的，并非藤花体内人格的简单复制。",
+          "nicknames": [
+            "幻影不吉波普",
+            "Boogiepop Phantom",
+            "ブギーポップ・ファントム",
+            "幻影波普"
+          ],
+          "traits": [
+            "由光与电磁场异常诞生",
+            "拥有独立意志",
+            "借用不吉波普的外形",
+            "外表取自由里原美奈子",
+            "追击威胁世界的敌人",
+            "与本体并非同一存在",
+            "具有自己的行动目的",
+            "气质诡异而冷静",
+            "受城市集体记忆影响",
+            "被称为幻影死神"
+          ],
+          "voice_actors": [
+            {
+              "name": "浅野まゆみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95400-BUUDA2OwVREh.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Boogiepop Phantom",
+            "name_native": "ブギーポップ・ファントム",
+            "name_alternative": [],
+            "description": "Boogiepop Phantom is an entity born in the electromagnetic field the moment Echoes' light appeared in the sky. Amongst the memories scattered by the light it could only find Boogiepop's attire, but not his face, and so chose the appearance of Minako Yurihara at random. He claims to be Boogiepop, but later renames himself Boogiepop Phantom out of respect for the original. He too confronts the enemies of the world, but has his own agenda in mind."
+          }
+        },
+        {
+          "id": 2815,
+          "name": "早乙女正美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b2815-G13JNjghvRKp.png",
+          "description": "早乙女正美是深阳学园的学生，也是故事中与螳螂人合作的重要人物之一。他参与多起校园异常事件，逐渐站到危险势力一边，并以协力者身份推动冲突升级。正美并非单纯的旁观者，他与其他学生的关系让超自然现象深入日常校园生活，也使不吉波普和雾间凪必须追查更复杂的动机。随着事件发展，他的选择会影响多名学生的命运。",
+          "nicknames": [
+            "早乙女正美",
+            "Masami Saotome",
+            "Saotome"
+          ],
+          "traits": [
+            "深阳学园学生",
+            "与螳螂人发生关联",
+            "成为螳螂人的主要协力者",
+            "参与校园异常事件",
+            "立场逐渐走向危险",
+            "善于隐藏真实想法",
+            "与超自然传闻相连",
+            "是故事中的反派之一",
+            "影响多名学生命运",
+            "推动事件走向升级"
+          ],
+          "voice_actors": [
+            {
+              "name": "福山潤",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Masami Saotome",
+            "name_native": "早乙女正美",
+            "name_alternative": [],
+            "description": "Masami Saotome is one of the antagonists of Boogiepop Wa Warawanai. He is a student at Shinyo Academy who would later become the Manticore's primary accomplice."
+          }
+        },
+        {
+          "id": 25743,
+          "name": "黑田慎平",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b25743-XHZEWdOfKuWZ.png",
+          "description": "黑田慎平是一名侦探，也是东亚组织的卧底。雾间凪住院期间与他相识，两人建立了特殊羁绊；慎平想成为守护正义的人，这个理想深深影响了凪。凪曾对他抱有恋慕，也一直记挂着这段关系。黑田熟悉调查与潜伏工作，他的身份和经历把凪的个人记忆与城市中更大的组织阴谋连接起来。",
+          "nicknames": [
+            "黑田慎平",
+            "Shinpei Kuroda",
+            "黒田慎平"
+          ],
+          "traits": [
+            "曾是雾间凪住院时结识的侦探",
+            "东亚组织的卧底",
+            "怀有成为正义守护者的理想",
+            "与凪建立特殊羁绊",
+            "让凪长久记挂",
+            "熟悉调查与潜伏",
+            "工作身份隐藏",
+            "影响凪的人生选择",
+            "与超自然事件有关联",
+            "出现在凪的回忆中"
+          ],
+          "voice_actors": [
+            {
+              "name": "近田和生",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n109227-sBNHKwjBOlcu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shinpei Kuroda",
+            "name_native": "黒田慎平",
+            "name_alternative": [],
+            "description": "During Nagi's stay in the hospital, she met a detective whom she forged a special bond with. His name was Shinpei Kuroda, an undercover agent of the Towa organization. His dream to become a defender of justice left a mark on Nagi's life. Nagi in turn fell in love with Shinpei and has been longing for him ever since."
+          }
+        }
+      ]
+    }
+  ]
+}

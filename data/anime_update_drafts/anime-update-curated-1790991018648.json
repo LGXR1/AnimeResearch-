@@ -1,0 +1,927 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T14:20:05.946Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 101239,
+      "anime_title": "鸭子的天空",
+      "anime_origin": "JP",
+      "source": {
+        "id": 101239,
+        "titles": [
+          "Ahiru no Sora",
+          "あひるの空"
+        ],
+        "year": 2019,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/101239"
+      },
+      "characters": [
+        {
+          "id": 9641,
+          "name": "车谷空",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b9641-JATb0rcgNmjQ.jpg",
+          "description": "车谷空身高约149.22厘米，就读九头龙高中，是热爱篮球的一年级学生。他曾答应患病的母亲要在高中首场锦标赛中称霸，因此不断寻找愿意认真打球的队友。空身材矮小，却拥有出色速度、弹跳和外线投篮能力，常凭灵活跑动弥补身高劣势。他进入九头龙高中后，逐渐带动花园兄弟等人重组篮球队。",
+          "nicknames": [
+            "车谷空",
+            "Sora Kurumatani",
+            "車谷空",
+            "空",
+            "小空"
+          ],
+          "traits": [
+            "身高约149.22厘米",
+            "就读九头龙高中",
+            "是高中篮球新生",
+            "从小受到母亲影响热爱篮球",
+            "答应母亲要称霸高中首场锦标赛",
+            "个子矮小但速度和弹跳突出",
+            "擅长从外线投篮",
+            "主动组建并激励篮球队",
+            "由梶裕贵配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "梶裕貴",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95672-T33YV7yCDKnL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Sora Kurumatani",
+            "name_native": "車谷空",
+            "name_alternative": [],
+            "description": "__Initial Height:__ 149.22 cm\n\nKurumatani Sora, 149cm, made a promise to his mother \"I will dominate my first highschool tournament\". But as he joins the basketball club after entering Kuzuryū Highschool, he finds out that it's become a stomping ground for delinquents. A place where everything but basketball is done, but with Sora's genuine zeal for basketball, things begin to stir."
+          }
+        },
+        {
+          "id": 10362,
+          "name": "花园百春",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10362-nMNdcfKQfUBe.jpg",
+          "description": "花园百春是花园千秋的双胞胎哥哥，身高约187厘米，曾在初中时期非常刻苦地训练篮球。因关键比赛失利，他一度对篮球失去兴趣，不愿让车谷空在九头龙高中组建球队。百春拥有出众的弹跳和篮板能力，性格强硬，起初常与空发生冲突；在重新投入篮球后，他成为球队的重要前锋，也逐渐学会与弟弟和队友协作。",
+          "nicknames": [
+            "花园百春",
+            "Momoharu Hanazono",
+            "花園百春",
+            "百春",
+            "花园双胞胎哥哥"
+          ],
+          "traits": [
+            "花园千秋的双胞胎哥哥",
+            "身高约187厘米",
+            "曾在初中时期刻苦练习篮球",
+            "因比赛失利逐渐对篮球失去兴趣",
+            "就读九头龙高中",
+            "最初阻碍空组建篮球队",
+            "拥有出众弹跳和篮板能力",
+            "性格强硬但重视同伴",
+            "由内田雄马配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "内田雄馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Momoharu Hanazono",
+            "name_native": "花園百春",
+            "name_alternative": [],
+            "description": "__Initial Height:__ 187 cm\n\nThe twin brother of Chiaki. He lost interest for Basketball in Junior High after he trained very hard for developing his jump shoot but every shoot that he attempted never went in the basket making him desperate and lose interest on the sport that he loves but after Sora's arrival everything changed, after seeing Sora's devotion for the game made him realize that he never stoped loving playing basketball."
+          }
+        },
+        {
+          "id": 10363,
+          "name": "花园千秋",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b10363-MMisQ8DpeNDM.jpg",
+          "description": "花园千秋是花园百春的双胞胎弟弟，身高约193厘米，担任九头龙高中篮球队的控球后卫。他拥有出众的球场视野和组织能力，能迅速判断队友位置并送出传球，技术比平日懒散的态度更为可靠。千秋与百春性格差异明显，兄弟之间也有未解决的篮球心结；随着空重组球队，他重新发挥控球优势，成为球队攻防组织的核心。",
+          "nicknames": [
+            "花园千秋",
+            "Chiaki Hanazono",
+            "花園千秋",
+            "千秋",
+            "花园双胞胎弟弟"
+          ],
+          "traits": [
+            "花园百春的双胞胎弟弟",
+            "身高约193厘米",
+            "担任九头龙高中篮球队控球后卫",
+            "拥有出众的球场视野",
+            "擅长组织传球和判断局势",
+            "体格高大且技术全面",
+            "有时显得懒散随性",
+            "在球队比赛中负责串联攻防",
+            "由小西克幸配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "小西克幸",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Chiaki Hanazono",
+            "name_native": "花園千秋",
+            "name_alternative": [],
+            "description": "__Height:__ 193 cm\n\nChiaki Hanazono is Kuzu High's point guard. He is very talented in his view of field and often executes difficult and tricky passes that lead to scoring. He is Momoharu Hanazono's twin brother."
+          }
+        },
+        {
+          "id": 49059,
+          "name": "夏目健二",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49059-ERjDQXIeoxms.jpg",
+          "description": "夏目健二身高约178厘米，是九头龙高中篮球队的重要得分手，常被队友称作Tobi。他擅长一对一突破和投篮，比赛中能在关键时刻创造得分机会。夏目的成长经历并不轻松，过去曾在前一所学校卷入麻烦，因此外表显得冷淡、防备心较强。加入球队后，他逐渐与空及其他队友建立信任，也成为九头龙高中得分能力的重要来源。",
+          "nicknames": [
+            "夏目健二",
+            "Kenji Natsume",
+            "Tobi",
+            "夏目"
+          ],
+          "traits": [
+            "常用绰号是Tobi",
+            "身高约178厘米",
+            "是九头龙高中篮球队的得分手",
+            "擅长一对一突破和投篮",
+            "过去经历过艰难的成长环境",
+            "曾在前一所学校惹上麻烦",
+            "外表冷淡但关心队友",
+            "为篮球队贡献关键得分",
+            "由谷山纪章配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "谷山紀章",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95196-t2vbxQMee0ci.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kenji Natsume",
+            "name_native": "夏目健二",
+            "name_alternative": [
+              "Tobi"
+            ],
+            "description": "__Height:__ 178 cm  \n\nTobi's history is fairly tragic in that he was forced to persevere through incredibly tough times in the past. His passion for the game of basketball is so high that no one can understand it. His skills with the ball are top level naturally gifted; his ball control, dribble, and his jump shoot are next the level.  \n\nAfter his father died he and his sister went to live with a foster family, but he never approved his stepfather. He was always fighting and was never happy after his parent death. The ball that he carries always with him was a present of his father for his birthday. He never actually received the gift from his father but instead from the people that found his body three days before his birthday. He would fight with anyone for maltreating his ball. He loves his sister very much and she is the only supporter he believes in. He promised her that he would win the state championship just for her.  \n\nHe entered in the team after Sora's continuing pursuit and dedication and through the understanding of the other teammates.  "
+          }
+        },
+        {
+          "id": 71285,
+          "name": "茂吉要",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b71285-YKc13dIS48yV.jpg",
+          "description": "茂吉要身高约198厘米，是九头龙高中篮球队的中锋，也是队内重要的内线球员。他长期练习勾手投篮，能够利用身高在篮下得分，并负责争抢篮板和保护禁区。茂吉的技术特点较为集中，但稳定的内线威胁能为外线队友创造空间。他性格温和，认真参与球队训练，在空和花园兄弟重组篮球队后成为可靠的中锋。",
+          "nicknames": [
+            "茂吉要",
+            "Kaname Shigeyoshi",
+            "Mokichi",
+            "茂吉",
+            "中锋茂吉"
+          ],
+          "traits": [
+            "身高约198厘米",
+            "担任篮球队中锋",
+            "是球队的重要内线球员",
+            "最擅长勾手投篮",
+            "长期练习勾手技术",
+            "能利用身高保护篮板",
+            "性格温和并认真对待队友",
+            "在禁区承担防守和得分任务",
+            "由宫野真守配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "宮野真守",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95065-eyynywrhombR.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Kaname Shigeyoshi",
+            "name_native": "茂吉要",
+            "name_alternative": [
+              "Mokichi"
+            ],
+            "description": "__Height:__ 198 cm  \n\nThe center of the team. His best attribute is the hook shot, he is been practising the hook shot since grade school. He quit basketball after one year in grade school because of people had selfishly decided to have expectation on him and then selfishly got disappointed when those expectations didn't pan out."
+          }
+        },
+        {
+          "id": 49061,
+          "name": "安原真一",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b49061-5gMDvHawkHdm.jpg",
+          "description": "安原真一是九头龙高中的学生，身高约181厘米，拥有空手道黑带，也是花园兄弟和朋友们的伙伴。他非常珍视身边的人，遇到同伴被欺负时会挺身而出。车谷空重组篮球队后，真一也加入球队，把强健体能和对抗能力带进球场。虽然他的篮球基础需要持续练习，但对朋友的忠诚和积极投入让他成为队伍的重要成员。",
+          "nicknames": [
+            "安原真一",
+            "Shinichi Yasuhara",
+            "Yasu",
+            "真一",
+            "安原"
+          ],
+          "traits": [
+            "九头龙高中学生",
+            "是花园兄弟等人的朋友",
+            "身高约181厘米",
+            "拥有空手道黑带",
+            "热爱并维护自己的朋友",
+            "加入九头龙高中篮球队",
+            "会用格斗经验处理冲突",
+            "在队内逐渐承担防守工作",
+            "由八代拓配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "八代拓",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119833-6CySrXDVAZ2X.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shinichi Yasuhara",
+            "name_native": "安原真一",
+            "name_alternative": [
+              "Yasu"
+            ],
+            "description": "__Height:__ 181 cm   \n\nFriends with Momoharu, Chiaki, Saki, and Nabeshima. He has a black belt in karate. He loves his friends and now basketball."
+          }
+        },
+        {
+          "id": 80237,
+          "name": "不破豹",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80237-adG7tGRakpqH.jpg",
+          "description": "不破豹就读横滨大荣高中，是一名身高约178厘米的二年级前锋。他代表强校参加全国级别的篮球竞争，拥有突出的进攻能力和比赛经验，是九头龙高中需要面对的有力对手。豹的实力和自信让空等人认识到校际篮球水平的差距，也推动九头龙球队加紧训练。他在场上以年轻、有冲劲的前锋身份参与比赛。",
+          "nicknames": [
+            "不破豹",
+            "Fuwa Hyou",
+            "豹",
+            "不破"
+          ],
+          "traits": [
+            "就读横滨大荣高中",
+            "是高中二年级学生",
+            "身高约178厘米",
+            "担任前锋",
+            "参加全国级别的篮球竞争",
+            "具有突出的得分能力",
+            "被视为值得关注的年轻选手",
+            "与车谷空等人处于竞争关系",
+            "由松冈祯丞配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "松岡禎丞",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106817-mioGQjbTWWQ6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Fuwa Hyou",
+            "name_native": "不破豹",
+            "name_alternative": [],
+            "description": "__School:__ Yokohama Taiei\n__Year:__ Sophomore\n__Height:__ 178 cm\n__Position:__ Forward\n\nFuwa plays for the Inter-high top challengers, Yokohama Taiei. He first appeared by challenging Kenji to a 1 on 1 game which he later won.  His ball handling skills rival, if not surpassesl that of Kenji's. He is also a very quick and agile player.  Fuwa has what is called by Kenji and the others, an odd sense in style which makes him stand out and at first glance would not appear to be a typical basketball player. His hair is orange, his eyes oddly cat-like and he wears Nike Air Bakin. It should be noted that Fuwa tends to lick his fingers out of excitement which reinforces the  impression of his cat-like features."
+          }
+        },
+        {
+          "id": 80405,
+          "name": "薮内圆",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80405-29uD3zF0JI0F.jpg",
+          "description": "薮内圆身高约164厘米，与九头龙高中篮球部的训练和校园生活关系密切。她会关注球员状态、球队事务和比赛安排，也在空等人努力重建队伍的过程中成为熟悉的同伴。圆的角色既连接篮球活动与校园日常，也让队员们在比赛之外有了交流和支持。她与球队成员相处直接，常能指出队伍需要面对的问题。",
+          "nicknames": [
+            "薮内圆",
+            "Madoka Yabuuchi",
+            "藪内円",
+            "Maru",
+            "薮内円",
+            "圆",
+            "篮球部经理薮内"
+          ],
+          "traits": [
+            "身高约164厘米",
+            "与九头龙高中篮球部关系密切",
+            "参与球队的管理和日常事务",
+            "关注球员训练和比赛",
+            "在校园生活中与空等人相识",
+            "受到篮球队员的重视",
+            "以直率方式表达看法",
+            "由千本木彩花配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "千本木彩花",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119616-Dakq7gsUo2ja.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Madoka Yabuuchi",
+            "name_native": "藪内円",
+            "name_alternative": [
+              "Maru"
+            ],
+            "description": "__Height:__ 164 cm"
+          }
+        },
+        {
+          "id": 80407,
+          "name": "国分洋子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80407-OyT0Z7t1zepB.png",
+          "description": "国分洋子是九头龙高中学生，参与篮球部周边的校园活动，并与车谷空和球队成员相识。她会关注队伍训练、比赛安排和球员日常，在球队重组与磨合过程中提供同学层面的支持。洋子的个人经历着墨不多，但她的出现让篮球队不只存在于比赛场景，也与九头龙高中的普通校园生活相连。",
+          "nicknames": [
+            "国分洋子",
+            "Youko Kokubu",
+            "You",
+            "洋子",
+            "国分"
+          ],
+          "traits": [
+            "参与九头龙高中篮球部相关活动",
+            "与球队成员在校园中相识",
+            "会关注篮球队训练和比赛",
+            "出现在球员的学校生活里",
+            "是九头龙高中学生",
+            "与队友及同学保持往来",
+            "为篮球部提供支持",
+            "由石上静香配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "石上静香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118738-60gKflxjl80c.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Youko Kokubu",
+            "name_native": "国分洋子",
+            "name_alternative": [
+              "You"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 80409,
+          "name": "富永春美",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b80409-DyRe9gkl1Fw5.jpg",
+          "description": "富永春美是九头龙高中学生，与篮球队成员的校园生活和日常活动有关。她会在训练、比赛及同学互动场景中与空等人产生交集，见证九头龙高中篮球队从人手不足到重新组队的过程。作品对春美的个人背景描写有限，现有资料主要确认其学生身份、同学关系和配音信息。",
+          "nicknames": [
+            "富永春美",
+            "Harumi Tominaga",
+            "春美",
+            "富永"
+          ],
+          "traits": [
+            "九头龙高中学生",
+            "与篮球队日常活动有关",
+            "在校园中与空等人产生交集",
+            "关注球队训练和比赛",
+            "是球队周边的同学伙伴",
+            "参与学校生活场景",
+            "支持九头龙高中篮球队",
+            "由冈咲美保配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "岡咲美保",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n127666-kJTHGXxNtzKU.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Harumi Tominaga",
+            "name_native": "富永春美",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 148261,
+          "name": "茶木正广",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b148261-Y9cCJzjSZwEt.png",
+          "description": "茶木正广是九头龙高中的二年级学生，身高约171厘米，在篮球队担任后卫。他参与球队训练与比赛，在空和花园兄弟重建队伍时与其他队员共同磨合。茶木在后场需要协助组织进攻和防守，身高虽不突出，却能通过位置和配合参与球队攻防。他是九头龙篮球队中补充后卫轮换的重要成员。",
+          "nicknames": [
+            "茶木正广",
+            "Masahiro Saki",
+            "茶木正広",
+            "茶木",
+            "正广"
+          ],
+          "traits": [
+            "就读九头龙高中",
+            "是篮球队二年级学生",
+            "身高约171厘米",
+            "担任后卫",
+            "参与球队训练和比赛",
+            "与空等队友共同重建队伍",
+            "承担后场组织与防守任务",
+            "由KENN配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "KENN",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95857-oHOhHwEDyAlL.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Masahiro Saki",
+            "name_native": "茶木正広",
+            "name_alternative": [],
+            "description": "__School:__ Kuzu High \n__Year:__ 2nd \n__Height:__ 171 cm \n__Position:__ Guard"
+          }
+        },
+        {
+          "id": 151127,
+          "name": "车谷由夏",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151127-SnpBfAAdYIbv.jpg",
+          "description": "车谷由夏是车谷空的母亲，也是空热爱篮球的重要影响者。她身体患病，仍鼓励儿子坚持自己的篮球梦想，并与空约定要在高中首场锦标赛中称霸。由夏的鼓励成为空不断训练、寻找队友的精神动力；即使她无法始终陪在球场边，空也常在比赛和困难时想起母亲的期望。",
+          "nicknames": [
+            "车谷由夏",
+            "Yuka Kurumatani",
+            "車谷由夏",
+            "由夏",
+            "空的母亲"
+          ],
+          "traits": [
+            "车谷空的母亲",
+            "是空热爱篮球的重要影响者",
+            "身体患有疾病",
+            "鼓励空坚持篮球梦想",
+            "与空约定高中篮球目标",
+            "常出现在空的回忆中",
+            "是空努力打球的精神动力",
+            "由远藤绫配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "遠藤綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-8VgnlGK5QX2A.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuka Kurumatani",
+            "name_native": "車谷由夏",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 151124,
+          "name": "车谷智久",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b151124-9jTZ231yhjxU.png",
+          "description": "车谷智久是车谷空的父亲，与妻子由夏共同养育空。作为家庭中的成年人，他了解儿子对篮球的执着，也经历妻子患病给家庭带来的压力。智久的出现补充了空的家庭背景，让观众看到母亲的约定如何影响整个家庭；他在空的篮球成长中虽不常站到球场中心，却是儿子生活的重要亲人。",
+          "nicknames": [
+            "车谷智久",
+            "Tomohisa Kurumatani",
+            "車谷智久",
+            "智久",
+            "空的父亲"
+          ],
+          "traits": [
+            "车谷空的父亲",
+            "与车谷由夏共同养育空",
+            "在家庭生活中照顾儿子",
+            "理解空对篮球的重视",
+            "与九头龙高中生活有关",
+            "出现在空的家庭背景中",
+            "为主角提供家庭关系线索",
+            "由子安武人配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "子安武人",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tomohisa Kurumatani",
+            "name_native": "車谷智久",
+            "name_alternative": [],
+            "description": "Sora's father"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 122441,
+      "anime_title": "桃子男孩渡海而来",
+      "anime_origin": "JP",
+      "source": {
+        "id": 122441,
+        "titles": [
+          "Peach Boy Riverside",
+          "ピーチボーイリバーサイド",
+          "พีชบอยริเวอร์ไซด์"
+        ],
+        "year": 2021,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/122441"
+      },
+      "characters": [
+        {
+          "id": 144683,
+          "name": "萨尔特琳·阿尔达雷克",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b144683-qOUiweknRTBd.png",
+          "description": "萨尔特琳·阿尔达雷克是小国的公主，常被称作萨莉。她性格开朗、好奇心旺盛，厌倦被限制在狭小王国的生活，因此离开故乡踏上冒险旅程。萨莉在路上结识兔族亚人芙拉，并逐渐遇到人类与鬼族之间的冲突。她体内潜藏与鬼族相关的强大力量，如何看待不同族群、是否接受力量，成为她旅途中的重要问题。",
+          "nicknames": [
+            "萨尔特琳·阿尔达雷克",
+            "Saltherine Aldarake",
+            "サルトリーヌ・アルダレイク",
+            "Sally (サリー)",
+            "萨莉",
+            "萨尔特琳公主"
+          ],
+          "traits": [
+            "常用昵称是萨莉",
+            "是小国阿尔达雷克的公主",
+            "性格开朗而富有好奇心",
+            "厌倦狭小王国的生活",
+            "渴望外出冒险",
+            "离开故乡后结识兔族亚人芙拉",
+            "拥有与鬼族有关的特殊力量",
+            "会与鬼族建立复杂关系",
+            "由白石晴香配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "白石晴香",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n112629-U0y9a5Z9ogfk.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Saltherine Aldarake",
+            "name_native": "サルトリーヌ・アルダレイク",
+            "name_alternative": [
+              "Sally (サリー)"
+            ],
+            "description": "Saltherine Aldarake, or Sally, is a bright, cheerful princess who wants to go on an adventure because she is bored of her tiny little castle in the countryside. \n\nSally has a kind-hearted spirit who craves for adventure. She is always protective of her friends and longs to fulfill her goal of having humans and Oni live together in peace. When she activates her Peach eyes she takes on a form almost identical to the one Mikoto takes while fighting Oni."
+          }
+        },
+        {
+          "id": 145480,
+          "name": "芙拉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b145480-tr3D6T6Z1EPL.png",
+          "description": "芙拉是一名兔族亚人，在萨莉离开故乡旅行时与她相遇，并成为最重要的同伴之一。她拥有兔族的外形特征，熟悉旅途中的生活，也会以直率方式看待人类与鬼族之间的冲突。芙拉陪伴萨莉经历各地事件，既提供实际帮助，也让公主逐渐接触王宫之外不同族群的生活。她与萨莉的友谊是旅程中稳定的情感纽带。",
+          "nicknames": [
+            "芙拉",
+            "Frau",
+            "フラウ",
+            "Rabbit",
+            "芙劳",
+            "兔族芙拉"
+          ],
+          "traits": [
+            "兔族亚人",
+            "在旅途中与萨莉相遇",
+            "成为萨莉的重要伙伴",
+            "拥有长耳兔族外形特征",
+            "熟悉旅行和野外生活",
+            "常以直率方式表达想法",
+            "与人类及鬼族角色都有交集",
+            "由市道真央配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "市道真央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118510-iMUv5D7W99C1.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Frau",
+            "name_native": "フラウ",
+            "name_alternative": [
+              "Rabbit"
+            ],
+            "description": "A demi-human rabbit."
+          }
+        },
+        {
+          "id": 183792,
+          "name": "吉备津彦命",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b183792-KfjVH9BJic55.png",
+          "description": "吉备津彦命来自东方大陆，以消灭沿途遇到的鬼族为目标旅行。他拥有强大战斗能力，身边带着一只狗和一名鬼族伙伴米莉亚，行动方式与萨莉试图理解不同族群的态度形成对照。吉备津彦的执着与个人经历影响他如何看待鬼族，也使他在旅途中既可能成为盟友，也会与萨莉一行发生冲突。",
+          "nicknames": [
+            "吉备津彦命",
+            "Mikoto Kibitsu",
+            "キビツ・ミコト",
+            "吉备津彦",
+            "桃太郎"
+          ],
+          "traits": [
+            "来自东方大陆的鬼族讨伐者",
+            "以消灭遇见的鬼族为目标",
+            "旅行时带着一只狗和鬼族米莉亚",
+            "拥有强大的战斗能力",
+            "性格严肃执着",
+            "经历影响了对鬼族的态度",
+            "会与萨莉一行产生冲突",
+            "由东山奈央配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "東山奈央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106184-rFA0sHFJrbk4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mikoto Kibitsu",
+            "name_native": "キビツ・ミコト",
+            "name_alternative": [],
+            "description": "He has come to the Western Continent to kill any and all Oni that he encounters. He travels with a dog and a Oni named Millia."
+          }
+        },
+        {
+          "id": 208337,
+          "name": "霍桑",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208337-WYbmCWwLmkkX.png",
+          "description": "霍桑是《桃子男孩渡海而来》中的重要人物，在旅途中与萨莉和芙拉一行产生联系。他熟悉当地势力与鬼族相关事件，能够为旅人提供情报并参与冲突处理。霍桑的立场和经历使他并非只以普通旅伴身份出现，也连接了王国、宗教团体与鬼族之间的关系。其个人故事通过与主角群的相遇逐渐展开。",
+          "nicknames": [
+            "霍桑",
+            "Hawthorn",
+            "ホーソン",
+            "霍桑神父"
+          ],
+          "traits": [
+            "与王国和宗教团体有关",
+            "是故事中的重要男性角色",
+            "具备处理鬼族事件的经验",
+            "与萨莉一行在旅途中相识",
+            "会参与人类与鬼族冲突",
+            "为旅人提供相关情报",
+            "由增田俊树配音",
+            "在主线中承担协助者角色"
+          ],
+          "voice_actors": [
+            {
+              "name": "増田俊樹",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107017-Jv96B9DBJOy9.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hawthorn",
+            "name_native": "ホーソン",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 208338,
+          "name": "萝卜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208338-EvPrDHPOEj6G.jpg",
+          "description": "萝卜是高阶鬼族，过去曾使用“芽衣”这一名字，在经历身份变化后加入萨莉一行。她亲身经历人类与鬼族之间的冲突，因此对两方关系有复杂感受。萝卜能够运用鬼族力量战斗，性格活泼，也逐渐与萨莉和芙拉建立伙伴关系。她的加入让主角队伍中同时有人类、兔族亚人与鬼族成员。",
+          "nicknames": [
+            "萝卜",
+            "Carrot",
+            "キャロット",
+            "Meki (眼鬼)",
+            "卡萝特",
+            "鬼族萝卜"
+          ],
+          "traits": [
+            "本名曾是芽衣",
+            "属于高阶鬼族",
+            "过去以不同身份出现",
+            "后来加入萨莉一行",
+            "对鬼族和人类关系有切身经历",
+            "能使用鬼族力量战斗",
+            "性格活泼且容易亲近伙伴",
+            "由户田惠配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "戸田めぐみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n98894-vUppIzWof6Mt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Carrot",
+            "name_native": "キャロット",
+            "name_alternative": [
+              "Meki (眼鬼)"
+            ],
+            "description": "Carrot is one of the characters in the Peach Boy Riverside series. She is a High Oni who was previously known as Meki that joins Sally on her travels after losing her powers. She is an Oni from the east."
+          }
+        },
+        {
+          "id": 208339,
+          "name": "犬",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b208339-ihQlmatwyyuT.png",
+          "description": "犬是吉备津彦命旅行时携带的犬类伙伴，随他在大陆各地行动，并参与讨伐鬼族的旅程。它也与鬼族米莉亚一同行动，成为吉备津彦队伍中稳定的动物成员。犬主要以陪伴和协助的方式参与故事，帮助呈现吉备津彦离开故乡后所建立的旅伴关系。",
+          "nicknames": [
+            "犬",
+            "Inu",
+            "Dog",
+            "吉备津彦的狗"
+          ],
+          "traits": [
+            "吉备津彦命的同行伙伴",
+            "外形为犬类",
+            "随主人在大陆旅行",
+            "参与鬼族讨伐旅程",
+            "会与米莉亚一同行动",
+            "是队伍中的动物伙伴",
+            "通过行动陪伴吉备津彦",
+            "由斋藤次郎配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "斉藤次郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n102914-7ygW5ZSwODbF.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Inu",
+            "name_native": "犬",
+            "name_alternative": [
+              "Dog"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 216142,
+          "name": "温妮·埃梅克斯",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b216142-f5Grj2DGXdQD.png",
+          "description": "温妮·埃梅克斯是一名女巫，也被称作温妮女巫，在林姆达尔王国附近经营酒吧。她熟悉当地旅人、势力和鬼族相关消息，萨莉等人在旅行中会到她的店里休息或打听情报。温妮兼具经营者与魔法知识提供者的身份，使酒吧成为主角群认识新人物、了解地区局势的重要地点。",
+          "nicknames": [
+            "温妮·埃梅克斯",
+            "Winnie Emex",
+            "ウィニー・エメクス",
+            "Winnie the Witch",
+            "温妮女巫",
+            "温妮"
+          ],
+          "traits": [
+            "别称是温妮女巫",
+            "职业是女巫",
+            "在林姆达尔王国附近经营酒吧",
+            "熟悉当地旅人和消息",
+            "与萨莉等旅行者产生交集",
+            "为冒险者提供休息和情报",
+            "拥有魔法相关知识",
+            "由户松遥配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "戸松遥",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95890-pDWHkOm4ncq0.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Winnie Emex",
+            "name_native": "ウィニー・エメクス",
+            "name_alternative": [
+              "Winnie the Witch"
+            ],
+            "description": "Winnie, also known as Winnie the Witch, is a witch owning a bar nearby the Rimdarl Kingdom."
+          }
+        },
+        {
+          "id": 226514,
+          "name": "米莉亚",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b226514-2scsJQyzNDIY.png",
+          "description": "米莉亚是一名中阶鬼族，能够操纵头发作为战斗手段。她跟随吉备津彦命旅行，参与讨伐鬼族的行动，因此她与鬼族身份和队伍目标之间存在复杂关系。米莉亚也会与萨莉一行相遇，使萨莉不得不面对鬼族成员为何会帮助讨伐者的问题。她在队伍中承担战斗职责，行动和选择逐步呈现其真实立场。",
+          "nicknames": [
+            "米莉亚",
+            "Millia",
+            "ミリア",
+            "Hatsuki (髪鬼)",
+            "Kami oni (髪鬼)",
+            "中阶鬼族"
+          ],
+          "traits": [
+            "属于中阶鬼族",
+            "能够操纵自己的头发作战",
+            "随吉备津彦命一起旅行",
+            "与吉备津彦的关系复杂",
+            "参与讨伐鬼族的旅程",
+            "会与萨莉一行发生交集",
+            "在队伍中承担战斗职责",
+            "由峰田茉优配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "峯田茉優",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n148029-Vr472ky5v2W2.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Millia",
+            "name_native": "ミリア",
+            "name_alternative": [
+              "Hatsuki (髪鬼)",
+              "Kami oni (髪鬼)"
+            ],
+            "description": "Millia, also known as Hatsuki, is a Middle Oni that is capable of controlling her hair."
+          }
+        },
+        {
+          "id": 226516,
+          "name": "皇鬼",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b226516-vVxuexjQqjm2.png",
+          "description": "皇鬼是鬼族势力中的重要强者，拥有影响其他鬼族行动的地位，并与吉备津彦命的讨伐目标及萨莉旅程中的主线冲突有关。他具备强大战斗力量，立场会影响人类和鬼族之间的对抗。皇鬼的存在让故事中的鬼族不再只是单一的敌人，而是拥有内部秩序和不同选择的群体。",
+          "nicknames": [
+            "皇鬼",
+            "Sumeragi",
+            "鬼族皇鬼"
+          ],
+          "traits": [
+            "鬼族中的重要强者",
+            "拥有统领或支配鬼族的地位",
+            "与吉备津彦的讨伐目标相关",
+            "具备强大的战斗力量",
+            "是鬼族势力冲突的关键人物",
+            "与萨莉旅程中的主线事件有关",
+            "对人类与鬼族关系具有影响",
+            "由平川大辅配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "平川大輔",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95183-5C42gbrKIP7L.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sumeragi",
+            "name_native": "皇鬼",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 238829,
+          "name": "塞特",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b238829-hlhkP6FmAfGE.jpg",
+          "description": "塞特是一名体格高大的类人角色，外貌像海象，长有两根明显獠牙，头顶还有一只黑色鬼角。他与鬼族势力及作品中的冲突有关，外形特征使他在鬼族成员中十分醒目。塞特参与主线相关事件，代表鬼族群体中拥有强悍体格和明显非人特征的一类角色。",
+          "nicknames": [
+            "塞特",
+            "Sett",
+            "セト",
+            "塞特鬼族"
+          ],
+          "traits": [
+            "外形高大的类人角色",
+            "拥有类似海象的面部特征",
+            "长有两根明显獠牙",
+            "额头有一只黑色鬼角",
+            "与鬼族势力有关",
+            "体格强健且外表醒目",
+            "参与作品中的鬼族冲突",
+            "由莲岳大配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "蓮岳大",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96083-o3mjRlUiFAci.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sett",
+            "name_native": "セト",
+            "name_alternative": [],
+            "description": "Sett looks like a large humanoid walrus. He has two long tusks and one big black Oni horn on top of his head.\n\n"
+          }
+        }
+      ]
+    }
+  ]
+}

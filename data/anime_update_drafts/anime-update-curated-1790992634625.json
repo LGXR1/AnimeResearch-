@@ -1,0 +1,1000 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-03T01:44:22.368Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 11785,
+      "anime_title": "潜行吧！奈亚子",
+      "anime_origin": "JP",
+      "source": {
+        "id": 11785,
+        "titles": [
+          "Haiyore! Nyaruko-san",
+          "Nyaruko: Crawling with Love!",
+          "這いよれ！ニャル子さん",
+          "Haiyoru! Nyaruko-san",
+          "Nyarko-san: Another Crawling Chaos"
+        ],
+        "year": 2012,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/11785"
+      },
+      "characters": [
+        {
+          "id": 31417,
+          "name": "八坂真寻",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/31417.jpg",
+          "description": "八坂真寻是故事的男性主角，一名原本过着普通生活的高中生。外星种族奈亚子奉命来到地球保护他，他却常因对方过度热情而感到困扰，甚至拿叉子阻止她靠近。面对接连出现的外星人和超自然事件，真寻努力维持平静，也逐渐与奈亚子、克子和哈斯太建立起复杂的伙伴关系。",
+          "nicknames": [
+            "八坂真寻",
+            "Mahiro Yasaka",
+            "八坂 真尋",
+            "Boy",
+            "真寻"
+          ],
+          "traits": [
+            "普通高中生",
+            "奈亚子保护任务的中心人物",
+            "不喜欢与奈亚子亲近",
+            "常用叉子制止奈亚子胡闹",
+            "面对外星威胁仍努力保持冷静",
+            "与奈亚子同住",
+            "擅长把日常用品当作防身工具",
+            "母亲是兼职神祇猎人"
+          ],
+          "voice_actors": [
+            {
+              "name": "喜多村英梨",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Mahiro Yasaka",
+            "name_native": "八坂 真尋",
+            "name_alternative": [
+              "Boy"
+            ],
+            "description": "The male protagonist of the story. Usually avoids close contact with Nyaruko and often stabs her with a fork. Since this is a parody anime, Mahiro is a tsundere. It is shown that Mahiro has feelings for Nyaruko, but doesn't like her aggressiveness."
+          }
+        },
+        {
+          "id": 31418,
+          "name": "奈亚子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31418-Pvm5XKQsiRAj.jpg",
+          "description": "奈亚子是来自行星的奈亚拉托提普星人，受地球防卫组织派遣前来保护八坂真寻。她性格开朗、行动迅速，遇到危险时会主动迎战；日常则对真寻表现出毫不掩饰的好感，常因热情过头而被真寻用叉子驱赶。奈亚子熟悉地球的特摄、动画和游戏文化，这些兴趣也成为作品戏仿流行文化的来源。",
+          "nicknames": [
+            "奈亚子",
+            "Nyaruko",
+            "ニャル子",
+            "Nyarlathotep",
+            "Nyarko",
+            "奈亚拉托提普"
+          ],
+          "traits": [
+            "奈亚拉托提普星人",
+            "地球防卫组织成员",
+            "奉命保护八坂真寻",
+            "性格开朗活泼",
+            "对真寻抱有强烈好感",
+            "行动力强且战斗能力出众",
+            "热衷特摄与游戏文化",
+            "经常以夸张方式表达情绪"
+          ],
+          "voice_actors": [
+            {
+              "name": "阿澄佳奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95817-UHqRZ5xuSJgW.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Nyaruko",
+            "name_native": "ニャル子",
+            "name_alternative": [
+              "Nyarlathotep"
+            ],
+            "description": "A Nyarlotephian, who has come to Earth on a mission to protect Mahiro. Nyaruko has a bright personality, as she is always shown to be happy and rarely down. She likes anime, manga, games, and superhero shows. She has perverted thoughts that usually revolve around Mahiro, whom she says to love."
+          }
+        },
+        {
+          "id": 31419,
+          "name": "克子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b31419-WwIM0eib7H9V.png",
+          "description": "克子是克图格亚星人，也是奈亚子从幼年时期便认识的朋友。她原本把奈亚子视为宿敌，长大后却把这种竞争转化为强烈的爱慕，并因此将真寻当成情敌。克子平时显得冷静寡言，遇到奈亚子时容易变得激动；她拥有外星战斗能力，既会加入保护真寻的行动，也常把任务变成争夺奈亚子注意力的较量。",
+          "nicknames": [
+            "克子",
+            "Cthuko",
+            "クー子",
+            "Cthugha",
+            "Kuuko",
+            "克图格亚"
+          ],
+          "traits": [
+            "克图格亚星人",
+            "奈亚子的青梅竹马",
+            "在宇宙幼儿园与奈亚子相识",
+            "对奈亚子怀有执着爱意",
+            "把真寻视作情敌",
+            "战斗能力强",
+            "性格冷静寡言",
+            "会因奈亚子而失去镇定"
+          ],
+          "voice_actors": [
+            {
+              "name": "松来未祐",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95401-2ffju56ewc36.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Cthuko",
+            "name_native": "クー子",
+            "name_alternative": [
+              "Cthugha",
+              "Kuuko"
+            ],
+            "description": "A Cthuko (another alien species), who is Nyaruko's childhood friend from kindergarten and elementary school. Instead of thinking of Nyaruko as her enemy (because they're different species, and both Cthuko and Nyarlotephian are enemies), she loves her deeply. Kuko is usually quiet and blushes a lot. She has really perverted thoughts. Nyaruko calls her 'NEET', due to the fact that she loves games."
+          }
+        },
+        {
+          "id": 59571,
+          "name": "露希·吉斯顿",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b59571-1Ar5n2zVyj6s.png",
+          "description": "露希·吉斯顿是克苏鲁星人，曾在一家生产电子游戏等娱乐产品的公司工作。她因工作和外星社会的联系来到真寻一行人的生活中，后来也与奈亚子、克子等人共同经历地球上的事件。露希比几位年轻角色更有职场经验，熟悉商业活动和外星企业运作；她的经历把故事从校园日常延伸到外星公司的社会与工作环境。",
+          "nicknames": [
+            "露希·吉斯顿",
+            "Luhy Jistone",
+            "ルーヒー・ジストーン",
+            "Luhy",
+            "露希"
+          ],
+          "traits": [
+            "克苏鲁星人",
+            "曾在克苏鲁公司工作",
+            "负责电子游戏及娱乐产品",
+            "与奈亚子等人相识",
+            "从事商业经营",
+            "有外星社会工作经历",
+            "能够参与地球一行人的行动",
+            "说话做事带有成熟感"
+          ],
+          "voice_actors": [
+            {
+              "name": "國府田マリ子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95275-qm6Ep9IcLAv7.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Luhy Jistone",
+            "name_native": "ルーヒー・ジストーン",
+            "name_alternative": [],
+            "description": "She is a Cthulhi (also known as the star-spawn of Cthulhu) who was working in company Cthulhu, a space company that producing video games and other entertainment that rivals that of CCE until issues occured.  She now runs a Takoyaki business."
+          }
+        },
+        {
+          "id": 60927,
+          "name": "余市健彦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/60927.jpg",
+          "description": "余市健彦是真寻的同班同学和好友，主要以普通地球学生的身份参与故事。他平时会和真寻一起上学、聊天，也喜欢球类游戏；作品后续还展现了他在多种球类项目上的熟练程度。余市不像奈亚子等外星角色那样拥有特殊能力，他与真寻的日常友谊让校园生活保持现实感，也衬托出真寻周围逐渐失控的宇宙级麻烦。",
+          "nicknames": [
+            "余市健彦",
+            "Takehiko Yoichi",
+            "余市",
+            "健彦"
+          ],
+          "traits": [
+            "真寻的同班同学",
+            "真寻的好友",
+            "普通地球人",
+            "热衷球类游戏",
+            "在球类游戏中十分擅长",
+            "与学校生活关系密切",
+            "常参与同学间的日常活动",
+            "为外星事件提供普通人视角"
+          ],
+          "voice_actors": [
+            {
+              "name": "羽多野渉",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Takehiko Yoichi",
+            "name_native": "余市健彦",
+            "name_alternative": [],
+            "description": "A classmate of Mahiro's and best friend.   ~!In Season 2 (episode 4), it is revealed, that Yoichi is a pro in any kinds of games that include balls.!~"
+          }
+        },
+        {
+          "id": 60929,
+          "name": "哈斯太",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b60929-fgKUKwV7oxcH.png",
+          "description": "哈斯太是哈斯塔星人，与奈亚子和克子在宇宙幼儿园及学校时期就已相识。虽然他是男性，外表和举止常被误认为女孩，性格也比另外两人温和。哈斯太来到地球后加入真寻一行人的生活，既参与他们面对外星势力的行动，也以较为柔和的态度缓和奈亚子与克子之间的争执。",
+          "nicknames": [
+            "哈斯太",
+            "Hasta",
+            "ハス太",
+            "Hasuta",
+            "Hastur",
+            "哈斯塔"
+          ],
+          "traits": [
+            "哈斯塔星人",
+            "奈亚子的幼年旧识",
+            "与奈亚子和克子一同长大",
+            "外表容易被误认为女孩",
+            "待人温和",
+            "加入真寻一行人的生活",
+            "拥有外星能力",
+            "在外星势力冲突中提供帮助"
+          ],
+          "voice_actors": [
+            {
+              "name": "釘宮理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hasta",
+            "name_native": "ハス太",
+            "name_alternative": [
+              "Hasuta",
+              "Hastur"
+            ],
+            "description": "A Hastur (alien species), who attended the same space kindergarden and space elementary school with Nyaruko and Chtuko. Despite Hastur's appearence, Hastur is actually a boy. Nyaruko and Cthuko call him \"Hasuta-kun\". He possess the power of air, and is known to be stronger than both Nyaruko and Cthuko, since he was the one who always stopped their fight during space elementary school.  Hastur is based on Hastur: The deity of the wind.  Hasuta (Shouen version in season 2) is voiced by Seki Tomokazu.\n   ~!Hasuta can transform into an older and stronger version of himself, and it is proven in the 3rd episode of the 2nd season that he is quite scary while in his transformation.!~"
+          }
+        },
+        {
+          "id": 60939,
+          "name": "暮井珠绪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/60939.jpg",
+          "description": "暮井珠绪是真寻的同班同学，也是学校新闻社的成员。她性格活泼、健谈，喜欢追踪校园里发生的事情，常主动打听同学近况，因此被称为“行走的扩音器”。珠绪并不属于外星战斗阵营，却经常因新闻社活动接触真寻、奈亚子等人的生活。她的好奇心推动了不少校园日常情节，也让外星人闹出的动静更容易被普通学生注意。",
+          "nicknames": [
+            "暮井珠绪",
+            "Tamao Kurei",
+            "暮井珠緒",
+            "珠绪",
+            "行走的扩音器"
+          ],
+          "traits": [
+            "真寻的同班同学",
+            "学校新闻社成员",
+            "消息灵通",
+            "性格活泼健谈",
+            "喜欢收集校园新闻",
+            "常追问身边人的情况",
+            "被称为行走的扩音器",
+            "参与真寻一行人的校园日常"
+          ],
+          "voice_actors": [
+            {
+              "name": "大坪由佳",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n107452-PcfGagaON83G.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Tamao Kurei",
+            "name_native": "暮井珠緒",
+            "name_alternative": [],
+            "description": "Another classmate of Mahiro's.  She is a member of the school's newspaper club and also very noisy. She is also called \"Walking Speaker\", and has a habit of gossiping and asking questions like a newsreporter. Tamao is also a close friend of Nyaruko's, telling her usually advices how to get Mahiro hers.    ~!She had a crush on Mahiro, but gave up after Nyaruko's appearance, thinking she has no way to win against her.!~"
+          }
+        },
+        {
+          "id": 62153,
+          "name": "八坂赖子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/62153.jpg",
+          "description": "八坂赖子是八坂真寻的母亲，平日以普通家长的身份生活，私下却兼职从事神祇猎人工作。她战斗经验丰富，能够把常见物品当作武器使用，也对电子游戏十分熟悉。赖子面对奈亚子等外星来客时并不畏惧，往往以强硬态度保护家人。她隐藏的职业和惊人实力，让真寻原本普通的家庭生活与宇宙怪异事件产生直接联系。",
+          "nicknames": [
+            "八坂赖子",
+            "Yoriko Yasaka",
+            "八坂頼子",
+            "赖子",
+            "八坂妈妈"
+          ],
+          "traits": [
+            "八坂真寻的母亲",
+            "兼职神祇猎人",
+            "擅长战斗",
+            "能够熟练使用日常物品作武器",
+            "游戏爱好者",
+            "面对超自然事件镇定",
+            "独自抚养真寻",
+            "对外星来客采取强硬态度"
+          ],
+          "voice_actors": [
+            {
+              "name": "久川綾",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95080-7dOAcrnsSghI.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yoriko Yasaka",
+            "name_native": "八坂頼子",
+            "name_alternative": [],
+            "description": "Mahiro's mother who happens to work as a part-time deity hunter. She is a skilled fighter as well as an avid  gamer, she is adept in using ordinary common dining forks as her throwing weapon."
+          }
+        },
+        {
+          "id": 62311,
+          "name": "尚塔君",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/62311.jpg",
+          "description": "尚塔君是奈亚子饲养的宠物，属于克苏鲁神话体系中的尚塔克生物。它的原始形态融合了鸟类、马头与蝠翼等特征，看起来与地球常见动物截然不同。尚塔君能够改变外形，也能扩大体型，因此既是奈亚子的伙伴，也可以在行动中承担交通或协助任务。它常以活泼的宠物姿态出现，为真寻一行人的外星日常增添奇异又轻松的气氛。",
+          "nicknames": [
+            "尚塔君",
+            "Shantak-kun",
+            "シャンタッ君",
+            "Shantak",
+            "尚塔克"
+          ],
+          "traits": [
+            "奈亚子的宠物",
+            "属于尚塔克一族",
+            "原型带有鸟与马的特征",
+            "拥有蝠翼",
+            "能够变化形态",
+            "体型可以增大",
+            "陪伴奈亚子行动",
+            "具有克苏鲁神话生物的外形"
+          ],
+          "voice_actors": [
+            {
+              "name": "新井里美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95124-8C0BORTX7Bfd.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shantak-kun",
+            "name_native": "シャンタッ君",
+            "name_alternative": [],
+            "description": "Nyaruko's pet. A female shantak (monster in Cthulhu mythos, a bird with horse's head and bat's wing). have many different forms including enlarging to stories high, a dog's size. or turn into different vehicles. According to Nyaruko, shantaks' eggs are precious and expensive food in space, despite Mahiro never accepts to eat them. Nyaruko arrived on earth by taking spaceship transformed from Shantak-kun.  (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 65273,
+          "name": "古塔坦",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/65273.jpg",
+          "description": "古塔坦来自加塔诺索亚星，被送到地球后交由八坂真寻暂时照顾。她表现得像天真稚气的小孩子，容易依赖身边照料自己的人，也会因为对地球生活感到好奇而制造各种状况。古塔坦与奈亚子等人相识后加入他们的日常，她的到来让真寻面对与战斗不同的责任：既要保护自己，也得照看一名需要陪伴和照顾的外星来客。",
+          "nicknames": [
+            "古塔坦",
+            "Ghutatan",
+            "グタタン"
+          ],
+          "traits": [
+            "来自加塔诺索亚星",
+            "以孩童般的样子出现",
+            "性格天真稚气",
+            "被送到地球生活",
+            "由真寻照顾一段时间",
+            "容易依赖照料者",
+            "与奈亚子一行人相识",
+            "制造照顾孩子式的日常事件"
+          ],
+          "voice_actors": [
+            {
+              "name": "三上枝織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106236-aGhlIhHPPtjc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Ghutatan",
+            "name_native": "グタタン",
+            "name_alternative": [],
+            "description": "Ghutatan comes to earth from the planet Ghatanothoa for Mahiro to take care of her as if he were babysitting her. She is kind of childish for an alien, as seen in episode 11 when the Nyarlathotepian trio chases Mahiro for her. She has a butler named Roy Fooger the Lloigor.   ~!It was revealed that in episode 12 that Lloigor has been using Mahiro so he can bring all of Earth's adult games into space, as Ghutatan has completed her purpose on Earth. After Lloigor is destroyed, Mahiro and the Nyarlathotepian trio wish Ghutatan goodbye as she departs for Ghatanothoa.!~ (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 65337,
+          "name": "伊斯香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/65337.jpg",
+          "description": "伊斯香是犹格索托斯族的一员，具有能够借用其他身体行动的特殊能力。她曾暂时占据暮井珠绪的身体，之后也寄居在布偶之中，因此真寻一行人很难仅凭外表判断她是否在场。伊斯香以短暂出现的方式参与地球上的外星事件，她的能力让故事中的身份和附身情节变得更加古怪，也展现了宇宙种族之间差异极大的生命形态。",
+          "nicknames": [
+            "伊斯香",
+            "Isuka",
+            "イス香",
+            "伊斯卡"
+          ],
+          "traits": [
+            "犹格索托斯族成员",
+            "能够借用他人的身体",
+            "曾占据暮井珠绪的身体",
+            "也能附身于布偶",
+            "具有外星精神生命特征",
+            "与奈亚子等人相遇",
+            "行动方式难以预测",
+            "在地球事件中短暂现身"
+          ],
+          "voice_actors": [
+            {
+              "name": "新井里美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95124-8C0BORTX7Bfd.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Isuka",
+            "name_native": "イス香",
+            "name_alternative": [],
+            "description": "A member of the Yith race who temporarily borrows Kurei Tamao's body. She later borrows the body of a stuffed animal."
+          }
+        },
+        {
+          "id": 66527,
+          "name": "奈亚夫",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/66527.jpg",
+          "description": "奈亚夫是奈亚子的哥哥，同属奈亚拉托提普星人。他对妹妹在宇宙学校中的优秀表现心怀嫉妒，因而对奈亚子抱有明显敌意。奈亚夫的出现把冲突扩展到奈亚子的家庭关系，也让真寻一行人面对来自外星社会内部的压力。他并非单纯的地球入侵者，而是以家族成员的身份揭示奈亚子过去的竞争经历和兄妹之间长期累积的矛盾。",
+          "nicknames": [
+            "奈亚夫",
+            "Nyaruo",
+            "ニャル夫",
+            "Nyaro"
+          ],
+          "traits": [
+            "奈亚子的哥哥",
+            "同属奈亚拉托提普星人",
+            "对奈亚子抱有嫉妒和敌意",
+            "在宇宙社会中有一定地位",
+            "因妹妹的成绩而感到不满",
+            "与真寻一行人发生冲突",
+            "擅长利用身份施加压力",
+            "体现奈亚子在家族中的经历"
+          ],
+          "voice_actors": [
+            {
+              "name": "草尾毅",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95134-OZzRIDS8eAUd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Nyaruo",
+            "name_native": "ニャル夫",
+            "name_alternative": [],
+            "description": "Nyaruko's older brother. He has great hatred and jealousy toward Nyaruko since she graduated from one of the best colleges in space as the best of her year, while he dropped out of a third-class college. To seek revenge, he arrived on Earth and killed the gods in Dreamlands.   ~!He is defeated by Nyaruko with Shantak-kun in her motorcycle form; in the novel he was run over multiple times in Dreamlands and later taken into custody by the Space Defence Agency; in the anime he is bumped on the leg and sent flying. Nyaruko looks down on him as she calls him a \"wild Nyarlathotep\" rather than her brother in the story.!~ (Source: Wikipedia)"
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 1281,
+      "anime_title": "学校怪谈",
+      "anime_origin": "JP",
+      "source": {
+        "id": 1281,
+        "titles": [
+          "Gakkou no Kaidan",
+          "Ghost Stories",
+          "学校の怪談",
+          "Ghosts at School",
+          "Fantasmi a scuola",
+          "Historias de Fantasmas"
+        ],
+        "year": 2000,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/1281"
+      },
+      "characters": [
+        {
+          "id": 4494,
+          "name": "宫之下五月",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4494-wwh1UaGutiUU.jpg",
+          "description": "宫之下五月是故事的主角。母亲去世后，她和父亲、弟弟搬回母亲的故乡生活，并在旧校舍发现母亲留下的怪谈笔记。笔记记录了当地幽灵的传说和封印方法，五月因此与伙伴们一起调查学校周边的灵异事件。她起初只是想保护弟弟和同学，后来逐渐承担起封印幽灵的责任，在恐惧中表现出勇气与行动力。",
+          "nicknames": [
+            "宫之下五月",
+            "Satsuki Miyanoshita",
+            "宮ノ下さつき",
+            "Suki",
+            "Satsuki Manshita",
+            "Claire",
+            "五月",
+            "宫之下小月"
+          ],
+          "traits": [
+            "故事主角",
+            "小学六年级学生",
+            "与弟弟搬回母亲故乡",
+            "发现母亲留下的怪谈笔记",
+            "承担封印校园幽灵的任务",
+            "责任感强",
+            "面对危险时勇敢",
+            "擅长带领伙伴调查灵异事件"
+          ],
+          "voice_actors": [
+            {
+              "name": "川上とも子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95071-bmS9MxvAdsTr.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Satsuki Miyanoshita",
+            "name_native": "宮ノ下さつき",
+            "name_alternative": [
+              "Suki",
+              "Satsuki Manshita",
+              "Claire"
+            ],
+            "description": "Satsuki is the main character of the show. She moves with her father and her young brother Keichirou to the hometown of her deceased mother, where she finds that her mother confronted several evil entities that haunted the town, which included Amanojaku, and wrote all her supernatural experiences in a diary, which is entitled \"The Ghost Journal.\"\n\nSatsuki is very strong, brave, and determined, but sometimes bit moody, mostly because of Hajime trying to see her underpants. In the Spanish Dub, she was named \"Claire\". Her nickname in the Animax dub is Suki."
+          }
+        },
+        {
+          "id": 4495,
+          "name": "恋洼桃子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/4495.jpg",
+          "description": "恋洼桃子是五月的好友，也是小学六年级学生。与容易被幽灵吓到的伙伴相比，她似乎很少表现出恐惧，即使身处危险情境也愿意帮助五月。桃子经常陪同学们调查怪谈并面对学校里的幽灵，她的勇敢并不意味着鲁莽，而是源自对朋友的关心和保护意愿。她在团队中提供稳定支持，让伙伴们在害怕时仍能继续寻找解决办法。",
+          "nicknames": [
+            "恋洼桃子",
+            "Momoko Koigakubo",
+            "恋ヶ窪桃子",
+            "桃子"
+          ],
+          "traits": [
+            "五月的好友",
+            "小学六年级学生",
+            "遇事勇敢",
+            "似乎不太害怕幽灵",
+            "常陪伙伴调查怪谈",
+            "具有坚定的行动力",
+            "关心朋友安危",
+            "参与封印幽灵的行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐久間紅美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95392-9vLnfQU7ZiUp.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Momoko Koigakubo",
+            "name_native": "恋ヶ窪桃子",
+            "name_alternative": [],
+            "description": "Momoko is a 6th grader and Satsuki's best friend. She seems to fear nothing, even in very dangerous situations, and is very brave when it comes to helping Satsuki and the gang confront the ghosts. She also seems to have a psychic connection with Satsuki's mother. In the Spanish Dub, she was named as &quot;Nicole&quot;"
+          }
+        },
+        {
+          "id": 4497,
+          "name": "青山肇",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/4497.jpg",
+          "description": "青山肇是五月的邻居，也是和她同龄的学生。他常与五月、玲央一起调查灵异事件，遇到幽灵时嘴上努力表现得勇敢，实际仍会感到害怕。即便如此，肇在伙伴需要帮助时通常愿意行动，不会轻易丢下同伴。他既是调查队伍中的行动成员，也以真实的恐惧和逞强表现出普通孩子面对怪谈时的反应。",
+          "nicknames": [
+            "青山肇",
+            "Hajime Aoyama",
+            "青山ハジメ",
+            "肇"
+          ],
+          "traits": [
+            "五月的邻居",
+            "小学六年级学生",
+            "常与五月一同调查幽灵",
+            "努力表现得勇敢",
+            "关键时刻会帮助同伴",
+            "对危险反应明显",
+            "重视伙伴关系",
+            "参与破解怪谈与封印行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "本田貴子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/41.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hajime Aoyama",
+            "name_native": "青山ハジメ",
+            "name_alternative": [],
+            "description": "Hajime is Satsuki&#039;s neighbor. He is always strong and courageous to help defeat the ghosts, but though he says that this is very brave, he is actually a coward. Despite this, he is one of the most reliable of Satsuki&#039;s friends and has saved her on more than one occasion. Hajime also has a naughty habit of flipping girls&#039; skirts, and his constant victim is no other than Satsuki. This results in frequent comic moments. Throughout the anime, it seems that Hajime and Satsuki develop mutual crushes on each other (not that they&#039;d admit it).    (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 4498,
+          "name": "柿木玲央",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/4498.jpg",
+          "description": "柿木玲央是肇的好友，对超自然现象有强烈兴趣，经常自称灵异研究者。每当学校或街区出现怪谈，他都会积极搜集传闻、提出调查计划，希望用自己的知识解释异常现象。不过，玲央真正遇见幽灵时也常被吓得退缩，形成了理论热情与实际胆量之间的反差。他和五月、肇一起寻找线索，是团队中负责提出怪谈背景和调查方向的重要成员。",
+          "nicknames": [
+            "柿木玲央",
+            "Reo Kakinoki",
+            "柿ノ木レオ",
+            "Leo",
+            "Paul",
+            "玲央"
+          ],
+          "traits": [
+            "肇的好友",
+            "热衷超自然现象",
+            "自称灵异研究者",
+            "喜欢收集怪谈资料",
+            "常提出调查计划",
+            "遇到真正幽灵会害怕",
+            "对灵异知识充满好奇",
+            "与五月和肇共同调查事件"
+          ],
+          "voice_actors": [
+            {
+              "name": "津村まこと",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95648-rMpzJIsJ1bxk.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Reo Kakinoki",
+            "name_native": "柿ノ木レオ",
+            "name_alternative": [
+              "Leo",
+              "Paul"
+            ],
+            "description": "Reo is Hajime's friend and has a big obsession with paranormal themes, and proclaims himself as a respected paranormal researcher. However, whenever Reo finds a clue pertaining to the existence of supernatural entities, it seems that the clue turns against him. Like Hajime, he tries to be brave but is actually just a coward."
+          }
+        },
+        {
+          "id": 4500,
+          "name": "宫之下敬一郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b4500-j9p46lzm25Tq.png",
+          "description": "宫之下敬一郎是五月年幼的弟弟，和姐姐一起搬回母亲的故乡。敬一郎胆子较小，常被学校怪谈吓哭，也因此经常需要五月和伙伴们保护。尽管害怕，他在关键时刻仍会努力克服恐惧，为姐姐提供帮助。敬一郎与五月一同接触母亲留下的怪谈笔记，他的经历让封印幽灵的任务始终与保护家人、守住普通童年紧密相连。",
+          "nicknames": [
+            "宫之下敬一郎",
+            "Keiichirou Miyanoshita",
+            "宮ノ下敬一郎",
+            "Ben",
+            "Keiichi",
+            "敬一郎",
+            "小敬"
+          ],
+          "traits": [
+            "五月的弟弟",
+            "年纪比五月小",
+            "容易被幽灵吓到",
+            "常需要姐姐照顾",
+            "在危险时也会鼓起勇气",
+            "与五月一同发现怪谈笔记",
+            "受到幽灵事件影响",
+            "珍视家人和伙伴"
+          ],
+          "voice_actors": [
+            {
+              "name": "間宮くるみ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95500-a5Rd79pHbdZG.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Keiichirou Miyanoshita",
+            "name_native": "宮ノ下敬一郎",
+            "name_alternative": [
+              "Ben",
+              "Keiichi"
+            ],
+            "description": "Keiichirou is Satsuki&#039;s young brother. He is easily frightened by many things and is seen crying sometimes, but he shows courage where it counts to help in defeating the ghosts. He creates a special friendship with the ghost Amanojaku."
+          }
+        },
+        {
+          "id": 12786,
+          "name": "天邪鬼",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/12786.jpg",
+          "description": "天邪鬼曾被五月的母亲封印在山中树木里，封印意外解除后恢复行动。它最初以猫的形态出现在五月家中，之后被卷入孩子们封印幽灵的行动。天邪鬼性格狡猾、说话刻薄，常与五月争执，却了解许多幽灵的习性和封印方法。随着事件发展，它从危险源头转变为团队的重要帮手，成为孩子们破解怪谈时不可或缺的知识来源。",
+          "nicknames": [
+            "天邪鬼",
+            "Amanojaku",
+            "天の邪鬼",
+            "天邪鬼精"
+          ],
+          "traits": [
+            "被五月母亲封印过的强大妖怪",
+            "因封印解除而重获自由",
+            "起初以猫的形态出现",
+            "被迫与五月等人同行",
+            "性格狡猾且爱挖苦人",
+            "熟悉幽灵与封印知识",
+            "经常与五月发生争执",
+            "逐渐成为伙伴们的重要帮手"
+          ],
+          "voice_actors": [
+            {
+              "name": "中尾隆聖",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95259-A1sNVqfD2MWp.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Amanojaku",
+            "name_native": "天の邪鬼",
+            "name_alternative": [],
+            "description": "Amanojaku is a powerful entity that, long ago, was sealed by Satsuki&#039;s mother in a tree in the mountains, but was finally released from his magic prison due to urbanization. However, he did not have his freedom long, as Satsuki sealed him (by accident) in the body of her pet cat, Kaya. At first, Amanojaku is hostile toward the kids and takes great pleasure in seeing them in trouble, but throughout the series he develops somewhat of a care for them, especially for Satsuki and Keiichirou."
+          }
+        },
+        {
+          "id": 12738,
+          "name": "玛丽",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/12738.jpg",
+          "description": "玛丽是孩子们在垃圾处发现的一只玩偶，众人离开后，它却出现在五月家中，并开始自行活动。这个看似普通的人偶逐渐成为追逐五月和敬一郎的危险存在，让两人无法轻松摆脱。玛丽的故事围绕旧校舍与幽灵传说展开，孩子们必须调查它为何被附着异象、如何阻止追逐，才能重新恢复家庭生活的安全。",
+          "nicknames": [
+            "玛丽",
+            "Mary",
+            "メリー",
+            "玛丽娃娃"
+          ],
+          "traits": [
+            "被孩子们在垃圾处发现的玩偶",
+            "后来出现在五月家中",
+            "会自行活动",
+            "与旧校舍怪谈有关",
+            "外表是普通人偶",
+            "反复追逐五月和弟弟",
+            "被幽灵力量影响",
+            "成为孩子们调查的恐怖事件之一"
+          ],
+          "voice_actors": [
+            {
+              "name": "小桜エツコ",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95782-Zova2vUsykFw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Mary",
+            "name_native": "メリー",
+            "name_alternative": [],
+            "description": "A doll that the kids find on a trash can. They leave the doll there and go home. Later Satsuki finds the doll in her and her brother&#039;s house. After yelling at her brother accusing him of taking the doll home after she told him he shouldn&#039;t weird and strange things start to happen. For one the doll starts calling Satsuki through the phone and creeping her out. She almost succeeds in killing her too."
+          }
+        },
+        {
+          "id": 30221,
+          "name": "宫之下礼一郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/30221.jpg",
+          "description": "宫之下礼一郎是五月与敬一郎的父亲，在妻子去世后带着两个孩子搬回她的故乡。他并不知道孩子们正依照妻子留下的笔记处理幽灵事件，也不相信当地真的存在怪谈。礼一郎平时关心子女，工作与摄影有关，却常因不了解孩子们的秘密而无法及时察觉危险。他代表成年人面对超自然传闻时的怀疑态度，也构成孩子们需要独立行动的原因之一。",
+          "nicknames": [
+            "宫之下礼一郎",
+            "Reiichirou Miyanoshita",
+            "宮ノ下 礼一郎",
+            "礼一郎",
+            "五月的父亲"
+          ],
+          "traits": [
+            "五月和敬一郎的父亲",
+            "妻子去世后独自照顾孩子",
+            "搬回妻子的故乡生活",
+            "不了解孩子承担的驱灵任务",
+            "起初不相信幽灵存在",
+            "从事摄影工作",
+            "关心子女安全",
+            "常被孩子们的怪谈蒙在鼓里"
+          ],
+          "voice_actors": [
+            {
+              "name": "室園丈裕",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/1543.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Reiichirou Miyanoshita",
+            "name_native": "宮ノ下 礼一郎",
+            "name_alternative": [],
+            "description": "Reiichirou is Satsuki&#039;s father. He has no clue about his daughter&#039;s supernatural duties and also doesn&#039;t believe in ghosts.    (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 30222,
+          "name": "宫之下佳耶子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/30222.jpg",
+          "description": "宫之下佳耶子是五月和敬一郎已故的母亲。她生前调查故乡的怪谈，并曾封印山中强大的天邪鬼，还把幽灵资料和处理方法写进日记。孩子们发现这本笔记后，便依据其中线索面对学校与街区出现的异象。佳耶子虽已不在人世，却通过留下的记录持续保护家人；她过去的经历也逐步揭示了当地怪谈之间的联系。",
+          "nicknames": [
+            "宫之下佳耶子",
+            "Kayako Miyanoshita",
+            "宮ノ下 佳耶子",
+            "佳耶子",
+            "五月的母亲"
+          ],
+          "traits": [
+            "五月和敬一郎已故的母亲",
+            "生前曾是驱灵者",
+            "留下怪谈日记",
+            "年轻时调查并封印幽灵",
+            "熟悉地方怪谈",
+            "以笔记帮助孩子们",
+            "保护家人的意愿强烈",
+            "影响整部故事的驱灵行动"
+          ],
+          "voice_actors": [
+            {
+              "name": "三石琴乃",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95009-d01Dg8mMwcg6.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kayako Miyanoshita",
+            "name_native": "宮ノ下 佳耶子",
+            "name_alternative": [],
+            "description": "Kayako is Satsuki&#039;s and Keiichirou&#039;s deceased mother. Through her diary it is revealed that she was an avid exorcist during her childhood. She possesses Momoko two times throughout the series to aid Satsuki against the Piano Ghost and Kutabe and once helped Satsuki and the others to escape from a powerful haunting called Anamnaneki. Her maiden name was Kamiyama.    (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 30220,
+          "name": "坂田老师",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/30220.jpg",
+          "description": "坂田老师是五月、肇和玲央所在班级的教师，平常不相信幽灵和怪谈。他一度把孩子们提到的异常当成想象，然而自己也陆续卷入校内的超自然事件，才发现旧校舍并非普通地方。坂田需要照顾学生，却缺少处理幽灵的经验，因此有时反而要依靠孩子们寻找脱身办法。他的经历展现了成人怀疑与亲身遭遇之间的变化。",
+          "nicknames": [
+            "坂田老师",
+            "Sakata",
+            "坂田",
+            "班主任坂田"
+          ],
+          "traits": [
+            "五月等人的班级教师",
+            "起初不相信幽灵",
+            "在校内遭遇怪异现象",
+            "负责学生的日常教育",
+            "面对危险时需要孩子协助",
+            "与旧校舍事件有关",
+            "体现成年人对怪谈的怀疑",
+            "在故事中多次卷入灵异事件"
+          ],
+          "voice_actors": [
+            {
+              "name": "青山穣",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n96538-mM7J8gp87gut.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Sakata",
+            "name_native": "坂田",
+            "name_alternative": [],
+            "description": "Sakata is the teacher of the class where Satsuki, Hajime and Reo attend. Despite he doesn&#039;t believe in ghosts, he suffered many supernatural issues, as he was possessed, cursed and kidnapped by ghosts a couple of times.    (Source: Wikipedia)"
+          }
+        },
+        {
+          "id": 46717,
+          "name": "花子",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/46717.jpg",
+          "description": "花子是旧校舍女厕所中流传的幽灵，传说学生呼唤她后，她会在隔间里回应。她外表像一名小女孩，出现方式令许多学生害怕，不过她并非始终主动攻击他人。五月和伙伴们调查校园怪谈时逐渐弄清她的来历与行动规律。花子是日本学校怪谈中广为人知的传说形象，也让剧中孩子们面对的幽灵故事与熟悉的校园传闻相连。",
+          "nicknames": [
+            "花子",
+            "Hanako",
+            "Hanako-san of the restroom",
+            "花子小姐",
+            "厕所里的花子"
+          ],
+          "traits": [
+            "旧校舍女厕所的幽灵",
+            "传说中居住在厕所隔间",
+            "外表是小女孩",
+            "会回应呼唤她的学生",
+            "通常并非主动伤害他人",
+            "与校园怪谈紧密相关",
+            "被五月等人调查",
+            "出现在旧校舍的灵异事件中"
+          ],
+          "voice_actors": [
+            {
+              "name": "川澄綾子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95013-854sZdHTaabG.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Hanako",
+            "name_native": "花子",
+            "name_alternative": [
+              "Hanako-san of the restroom"
+            ],
+            "description": "Hanako is the ghost of a little girl that haunts the ladies&#039; restroom of the old school building. She appears to be harmless and has no intention to scare people, for she only wants to play and make friends. She appears mainly in the 2nd episode, trying to call for help when her lair is taken over by Akagami-Aogami, and makes several cameos in the other episodes."
+          }
+        },
+        {
+          "id": 47037,
+          "name": "广播室的茜",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/47037.jpg",
+          "description": "茜是旧校广播室的幽灵，生前在校内广播节目进行时突然死亡。她的怪谈与广播室和播音设备联系在一起，传说听到她声音的人会受到诅咒。五月等人追查广播室的异象时，必须弄清茜的死亡经历和诅咒规则，才能阻止更多学生受害。这个角色把熟悉的校园广播变成危险信号，也让孩子们意识到幽灵事件可能通过声音传播。",
+          "nicknames": [
+            "广播室的茜",
+            "Akane",
+            "Akane of the Broadcast Room",
+            "广播室茜",
+            "播音室幽灵"
+          ],
+          "traits": [
+            "曾在旧校广播节目中死亡",
+            "幽灵盘踞广播室",
+            "声音会引发诅咒",
+            "传闻与广播设备相连",
+            "针对听到声音的人行动",
+            "外表为少女幽灵",
+            "引发校园广播怪谈",
+            "由五月一行调查处理"
+          ],
+          "voice_actors": [
+            {
+              "name": "緒方恵美",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95287-3moX16xmYedv.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Akane",
+            "name_native": "",
+            "name_alternative": [
+              "Akane of the Broadcast Room"
+            ],
+            "description": "Akane is a girl who died of a sudden heart attack during a radio show in the old school. Since then, her ghost curses all those who hear her voice and they will die at the sunset of the same day. She was sealed in the microphone by Satsuki's mother, Kayako. But after many years, the microphone in the old school building was broken and Akane was released.    ~!Satsuki puts her into spiritual sleep by repeating the number four several times (in Japanese culture, \"4\" is an unlucky number, because \"shi\", the word for four, is also the word for death), with Hajime finishing the process by ringing the bell that announced the end of the radio transmission. !~"
+          }
+        },
+        {
+          "id": 47039,
+          "name": "钢琴幽灵",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/47039.jpg",
+          "description": "钢琴幽灵附着在旧校舍的钢琴上，传说与作曲家贝多芬有关。它会自行弹奏《致爱丽丝》，并借琴声诅咒接近钢琴的学生。五月和同伴调查这起事件时，需要弄清幽灵出现的条件和琴曲背后的怪谈，才能避免受到影响。钢琴幽灵把熟悉的音乐变成校园中的威胁，也让旧校舍的日常物品呈现出无法预测的危险。",
+          "nicknames": [
+            "钢琴幽灵",
+            "Piano Ghost",
+            "ピアノお化け",
+            "贝多芬幽灵",
+            "钢琴鬼"
+          ],
+          "traits": [
+            "附着在旧校钢琴上的幽灵",
+            "与作曲家贝多芬的传说相连",
+            "会演奏《致爱丽丝》",
+            "以钢琴曲诅咒学生",
+            "活动地点在旧校舍",
+            "声音是主要威胁手段",
+            "五月等人调查其规律",
+            "属于学校怪谈中的音乐幽灵"
+          ],
+          "voice_actors": [
+            {
+              "name": "小杉十郎太",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95237-nelrZUfvh2FH.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Piano Ghost",
+            "name_native": "ピアノお化け",
+            "name_alternative": [],
+            "description": "The ghost of the German composer Ludwig van Beethoven. He haunts a piano of the old school and curses people through the song F&uuml;r Elise, stating that they will die if they hear the song four times; he can accomplish this by making his victims hear his song through various objects, even ones that couldn&#039;t normally play the song.   ~!Momoko (being possessed by Kayako), sealed him inside a metronome.!~"
+          }
+        }
+      ]
+    }
+  ]
+}

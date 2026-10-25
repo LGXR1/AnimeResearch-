@@ -1,0 +1,728 @@
+{
+  "draft_version": 1,
+  "generated_at": "2026-10-02T14:20:05.946Z",
+  "mode": "random",
+  "instructions": "核对并填写 anime_title、角色中文 name、traits（至少8项）和 description（100–200字中文）；不要编造资料。完成后用 --apply 写入。",
+  "skipped": [],
+  "anime": [
+    {
+      "media_id": 172190,
+      "anime_title": "你是女仆大人。",
+      "anime_origin": "JP",
+      "source": {
+        "id": 172190,
+        "titles": [
+          "Kimi wa Meido-sama.",
+          "You are Ms. Servant",
+          "君は冥土様。"
+        ],
+        "year": 2024,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/172190"
+      },
+      "characters": [
+        {
+          "id": 207175,
+          "name": "雪",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b207175-dWh5vHDaeFLs.png",
+          "description": "雪曾是一名顶尖刺客，离开充满暴力的过去后，主动找到高中生横谷人好，希望受雇成为女仆。她拥有远超常人的战斗技巧，却不熟悉普通家庭的日常和人际交往，需要从头学习料理、家务及女仆礼仪。雪在横谷家逐渐体验平静生活，也开始面对过去组织的追索，在守护新同伴的过程中寻找自己的新身份。",
+          "nicknames": [
+            "雪",
+            "Yuki",
+            "Xue (シュエ)",
+            "Meido-san (メイドさん)",
+            "Yuki Yokoya (横谷雪)",
+            "Maria",
+            "女仆雪",
+            "前顶尖刺客"
+          ],
+          "traits": [
+            "曾是顶尖刺客",
+            "离开充满暴力的过去",
+            "主动应聘成为横谷人好的女仆",
+            "战斗技巧远超普通人",
+            "不熟悉平凡的家庭生活",
+            "学习女仆工作和日常礼仪",
+            "对情感表达较为生疏",
+            "逐步与横谷一家建立信任",
+            "由上田丽奈配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "上田麗奈",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118602-C4bNcnyEhDTu.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Yuki",
+            "name_native": "雪",
+            "name_alternative": [
+              "Xue (シュエ)",
+              "Meido-san (メイドさん)",
+              "Yuki Yokoya (横谷雪)",
+              "Maria"
+            ],
+            "description": "Yuki is a former elite assassin who abandons her violent past and asks to be employed as a maid by high school student [Hitoyoshi Yokoya](https://anilist.co/character/321802/Hitoyoshi-Yokoya). Having been raised solely to kill, she possesses overwhelming combat ability—particularly with knives—but lacks basic experience in ordinary daily life. As she adjusts to her new role, she gradually learns about trust, warmth, and what it means to live peacefully."
+          }
+        },
+        {
+          "id": 321802,
+          "name": "横谷人好",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b321802-v4kEHGTUKimq.jpg",
+          "description": "横谷人好是一名高中生，某天遇到前顶尖刺客雪，并接受她应聘成为家中女仆。人好性格善良，愿意给处境特殊的人机会，也很重视妹妹李恋。与雪共同生活后，他要适应她不合常理的战斗本能和对日常事务的陌生，同时帮助她了解普通社会。人好的接纳让雪有机会离开过去的暴力生活，逐渐找到新的归属。",
+          "nicknames": [
+            "横谷人好",
+            "Hitoyoshi Yokoya",
+            "人好",
+            "横谷同学"
+          ],
+          "traits": [
+            "高中生",
+            "雪应聘的雇主",
+            "最初接受雪进入家中担任女仆",
+            "性格善良且愿意帮助他人",
+            "需要适应与前刺客共同生活",
+            "重视妹妹李恋",
+            "常被雪的超常战斗能力震惊",
+            "逐渐协助雪融入普通社会",
+            "由熊谷俊辉配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "熊谷俊輝",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n259670-NqhqSAG1ygJh.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Hitoyoshi Yokoya",
+            "name_native": "横谷人好",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 322009,
+          "name": "横谷李恋",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322009-xohcAcYoZ1SQ.jpg",
+          "description": "横谷李恋是横谷人好的妹妹，年纪较哥哥小，生活在接纳雪进入家庭后的横谷家中。她会观察哥哥与雪之间的互动，对新来的女仆抱有好奇，也逐渐把雪视作亲近的同伴。李恋参与家庭日常，让雪接触与刺客任务截然不同的生活环境；她和哥哥的关系也促使人好在照顾雪时考虑整个家庭的感受。",
+          "nicknames": [
+            "横谷李恋",
+            "Riko Yokoya",
+            "李恋",
+            "人好的妹妹"
+          ],
+          "traits": [
+            "横谷人好的妹妹",
+            "年纪比哥哥小",
+            "与前刺客雪成为家人般的同伴",
+            "对哥哥和雪的相处十分关注",
+            "参与横谷家的家庭日常",
+            "会直接表达自己的好奇心",
+            "帮助雪适应普通生活",
+            "由饭田光配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "飯田ヒカル",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n144964-nFMfF7pWAvaw.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Riko Yokoya",
+            "name_native": "横谷李恋",
+            "name_alternative": [],
+            "description": "Hitoyoshi's younger sister."
+          }
+        },
+        {
+          "id": 342330,
+          "name": "扬饼太郎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342330-WWn0t4bEg1Xs.png",
+          "description": "扬饼太郎是横谷家中的动物角色，名字取自日式油炸年糕“扬饼”，会出现在人好、李恋与雪共同生活的家庭场景里。雪过去习惯以刺客方式应对危险，和扬饼太郎相处时也需要学习温和照料动物。它的日常互动为作品带来轻松气氛，并让雪逐渐融入横谷家的普通生活。",
+          "nicknames": [
+            "扬饼太郎",
+            "Agemochitarou",
+            "あげもち太郎",
+            "揚餅太郎",
+            "横谷家的狗"
+          ],
+          "traits": [
+            "横谷家饲养的宠物角色",
+            "名字与油炸年糕有关",
+            "出现在横谷家的日常生活中",
+            "与人好和李恋共同生活",
+            "会与女仆雪产生互动",
+            "为家庭场景增添轻松气氛",
+            "由松井惠理子配音",
+            "属于作品中的动物角色"
+          ],
+          "voice_actors": [
+            {
+              "name": "松井恵理子",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n115835-3uhE3pEKEsEN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Agemochitarou",
+            "name_native": "あげもち太郎",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 342331,
+          "name": "日阴仲",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342331-6dOAhbtnSjA6.png",
+          "description": "日阴仲是横谷人好的同学，主要通过校园生活与人好及雪一行产生联系。她会在学校场景中观察同学间的关系，也逐渐接触雪不同于普通女仆的一面。日阴仲并非横谷家中的住户，却构成人好校园朋友圈的一部分，使雪的生活范围从家庭延伸到学校和同龄人的社交环境。作品对她的个人经历描写有限，资料以同学身份为主。",
+          "nicknames": [
+            "日阴仲",
+            "Naka Hikage",
+            "日陰ナカ",
+            "仲",
+            "日阴同学"
+          ],
+          "traits": [
+            "横谷人好的同学",
+            "姓氏读作日阴",
+            "与人好在校园生活中相识",
+            "常出现在学校场景",
+            "对同学关系保持关注",
+            "与雪的身份秘密产生交集",
+            "是人好校园朋友圈的一员",
+            "由稻垣好配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "稲垣好",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n271036-0ek5c2MkANNg.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Naka Hikage",
+            "name_native": "日陰ナカ",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 342332,
+          "name": "格蕾丝",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b342332-KTl6hAUJNZsb.png",
+          "description": "格蕾丝是一名刺客，和雪来自同一个组织，也接受过相近的战斗训练。雪离开组织并在横谷家开始新生活后，格蕾出现在她的周围，使过去的追索重新逼近。她与雪既有组织成员间的旧关系，也站在可能威胁人好一家的位置。格蕾的登场把雪的刺客经历带回当前生活，迫使她决定是否继续逃避过去。",
+          "nicknames": [
+            "格蕾丝",
+            "Grace",
+            "グレイス",
+            "Nitta (新田)",
+            "刺客格蕾丝"
+          ],
+          "traits": [
+            "职业是刺客",
+            "与雪来自同一个组织",
+            "拥有和雪相近的战斗训练",
+            "进入雪的新生活圈",
+            "与雪存在旧日组织关系",
+            "在行动中追寻雪的下落",
+            "面对横谷一家构成威胁",
+            "由Lynn配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "Lynn",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n118806-2aFjOHv08Iwm.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Grace",
+            "name_native": "グレイス",
+            "name_alternative": [
+              "Nitta (新田)"
+            ],
+            "description": "She is an assassin like [Yuki](https://anilist.co/character/207175/Yuki) and from the same organization as her."
+          }
+        },
+        {
+          "id": 347523,
+          "name": "师父",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b347523-75jgaorTj9tL.png",
+          "description": "师父曾指导雪学习刺客所需的战斗技巧，是她过去生活中的重要人物。他了解组织的规则，也影响雪如何看待力量、任务和服从。雪离开刺客生活后，师父与她的关系成为回顾往事的重要线索，说明她并非只靠天赋成为高手，也曾接受长期训练。其具体身份和经历尚未完整公开，现阶段以师徒关系和训练背景为准。",
+          "nicknames": [
+            "师父",
+            "Shishou",
+            "師匠",
+            "Master",
+            "雪的师父",
+            "老师傅"
+          ],
+          "traits": [
+            "曾指导雪学习战斗",
+            "拥有刺客训练背景",
+            "是雪过去生活的重要人物",
+            "教授雪执行任务所需技巧",
+            "与雪之间存在师徒关系",
+            "了解刺客组织的规则",
+            "影响雪对力量和任务的理解",
+            "由三木真一郎配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "三木眞一郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95022-BXggjIr4KHqd.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shishou",
+            "name_native": "師匠",
+            "name_alternative": [
+              "Master"
+            ],
+            "description": ""
+          }
+        },
+        {
+          "id": 347712,
+          "name": "黑川大河",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b347712-1oevrFUqp8cq.png",
+          "description": "黑川大河是横谷人好的同学，通过班级和校园活动进入故事。他与人好同处校园环境，也会注意到新来的雪与人好之间不同寻常的相处方式。大河的个人背景并未被充分展开，目前能够确认的是他与主角的同学关系及日语配音信息。作为校园同伴，他让雪在人好家庭之外逐渐接触更多普通高中生的生活。",
+          "nicknames": [
+            "黑川大河",
+            "Taiga Kurokawa",
+            "黒川大河",
+            "黑川"
+          ],
+          "traits": [
+            "横谷人好的同学",
+            "与人好一同参与校园生活",
+            "是雪在学校结识的同龄人之一",
+            "通过班级关系进入故事",
+            "会注意到雪与人好的相处",
+            "其个人背景并未详细展开",
+            "由永冢拓马配音",
+            "承担校园同伴角色"
+          ],
+          "voice_actors": [
+            {
+              "name": "永塚拓馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n120404-qXzluYLOZMyc.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Taiga Kurokawa",
+            "name_native": "黒川大河",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 347713,
+          "name": "山下小钵",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b347713-lLgTpWs49qVI.png",
+          "description": "山下小钵是横谷人好的同学，常在校园场景和学生间的日常交流中出现。人好与雪开始共同生活后，小钵也处在雪逐步接触普通高中生活的环境里。官方资料没有展开她的个人经历，因此目前以同学身份、校园关系和日语配音作为主要信息，不补写未经确认的家庭背景或能力。",
+          "nicknames": [
+            "山下小钵",
+            "Kobachi Yamashita",
+            "山下小鉢",
+            "小钵"
+          ],
+          "traits": [
+            "横谷人好的同学",
+            "常在校园场景中出现",
+            "与人好处于同一学生社交圈",
+            "会与同学进行日常交流",
+            "和雪的校园生活产生交集",
+            "具备独立角色登记",
+            "由天崎滉平配音",
+            "官方简介没有展开其个人经历"
+          ],
+          "voice_actors": [
+            {
+              "name": "天崎滉平",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119871-Tz1rIT1YahPu.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kobachi Yamashita",
+            "name_native": "山下小鉢",
+            "name_alternative": [],
+            "description": ""
+          }
+        }
+      ]
+    },
+    {
+      "media_id": 164244,
+      "anime_title": "愚蠢天使与恶魔共舞",
+      "anime_origin": "JP",
+      "source": {
+        "id": 164244,
+        "titles": [
+          "Oroka na Tenshi wa Akuma to Odoru",
+          "The Foolish Angel Dances with the Devil",
+          "愚かな天使は悪魔と踊る",
+          "Stupid angel dances with the devil",
+          "Die mit dem Teufel tanzt",
+          "愚蠢天使與惡魔共舞",
+          "Глупый ангел пляшет с демоном",
+          "かな天",
+          "KanaTen"
+        ],
+        "year": 2024,
+        "format": "TV",
+        "countryOfOrigin": "JP",
+        "url": "https://anilist.co/anime/164244"
+      },
+      "characters": [
+        {
+          "id": 132069,
+          "name": "阿久津雅虎",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132069-rhzpxIdCVspQ.png",
+          "description": "阿久津雅虎是从魔界来到人间的恶魔，任务是为魔界招募有才能的人类。他以高中生身份进入校园，原本打算邀请天音莉莉加入自己的计划，却发现莉莉是潜伏在人间的天使，双方的立场随即颠倒。阿久津擅长处理魔界事务，也要适应普通学生生活；与莉莉不断较量之余，他和同学谷川裕也建立友情，逐渐改变最初的任务观念。",
+          "nicknames": [
+            "阿久津雅虎",
+            "Masatora Akutsu",
+            "阿久津",
+            "恶魔阿久津"
+          ],
+          "traits": [
+            "恶魔",
+            "从魔界来到人间",
+            "目标是为魔界招募有才能的人类",
+            "以高中生身份进入校园",
+            "最初试图邀请天音莉莉加入计划",
+            "被莉莉隐藏的天使身份打乱安排",
+            "擅长魔界事务与恶魔能力",
+            "对同学谷川裕也逐渐产生友情",
+            "由内田雄马配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "内田雄馬",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n119617-icFDk96OdV5k.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Masatora Akutsu",
+            "name_native": "阿久津雅虎",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 132070,
+          "name": "天音莉莉",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b132070-CQlBcM1UCMSu.jpg",
+          "description": "天音莉莉是在人间执行任务的天使，平时以高中女生身份隐藏真实身份。她与恶魔阿久津雅虎相遇后，双方都试图完成各自阵营交付的任务，校园生活因此变成攻防不断的较量。莉莉外表亲切，面对恶魔时却行动果断，拥有对抗恶魔的武器和强大战斗力。她的武器真实形态与莉莉娅有关，逐步揭示了她身份背后的秘密。",
+          "nicknames": [
+            "天音莉莉",
+            "Lily Amane",
+            "天音リリー",
+            "莉莉",
+            "天使莉莉"
+          ],
+          "traits": [
+            "在人间活动的天使",
+            "以高中生身份隐藏真实身份",
+            "任务与恶魔阿久津相遇",
+            "拥有对抗恶魔的武器",
+            "战斗时展现强大力量",
+            "外表温柔而行动果断",
+            "将阿久津视为需要处理的恶魔",
+            "真实形态与莉莉娅有关",
+            "由佐仓绫音配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "佐倉綾音",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106622-yemj6ymLz4lY.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "MAIN",
+            "name_full": "Lily Amane",
+            "name_native": "天音リリー",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 213399,
+          "name": "天音莉莉娅",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213399-SjQ9YEw8ioJ3.jpg",
+          "description": "天音莉莉娅是莉莉对恶魔武器的真实形态，平时会伪装成莉莉的妹妹，在莉莉的朋友面前维持这个身份。她并非普通人类，而是与莉莉共享战斗身份的天使武装，能够转化为对抗恶魔的武器。莉莉娅的存在让莉莉在校园生活中需要同时处理亲友关系和战斗秘密，也使阿久津逐步看清莉莉的真实力量。",
+          "nicknames": [
+            "天音莉莉娅",
+            "Lilia Amane",
+            "天音リーリヤ",
+            "莉莉娅",
+            "莉莉的武器"
+          ],
+          "traits": [
+            "是莉莉对恶魔武器的真实形态",
+            "以莉莉妹妹的身份出现",
+            "在莉莉同学面前隐藏真实关系",
+            "与莉莉共享武器与战斗身份",
+            "能够转化为对抗恶魔的武器",
+            "参与莉莉和阿久津的冲突",
+            "本体设定与天使武装有关",
+            "由石原夏织配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "石原夏織",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n105217-PyXOw2omIHuJ.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Lilia Amane",
+            "name_native": "天音リーリヤ",
+            "name_alternative": [],
+            "description": "Lilia is the real form of Lily's anti-demon weapon. She pretends to be Lily's sister towards Lily's friends."
+          }
+        },
+        {
+          "id": 213400,
+          "name": "天音茨维",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b213400-zaFCS64s5ivF.png",
+          "description": "天音茨维是天音莉莉的哥哥，与莉莉和莉莉娅的身份秘密有关。他以年长亲属的身份进入故事，关注妹妹在人间的行动，也让莉莉的天使背景从个人任务扩展到家庭关系。现有资料没有详细说明他的能力和过往经历，因此这里主要记录其与莉莉的兄妹关系及故事定位。",
+          "nicknames": [
+            "天音茨维",
+            "Zwei Amane",
+            "天音ツヴァイ",
+            "茨维",
+            "莉莉的哥哥"
+          ],
+          "traits": [
+            "天音莉莉的哥哥",
+            "与天音家族有关",
+            "在莉莉的天使身份线中出现",
+            "是莉莉的年长亲属",
+            "与莉莉娅存在家庭关系",
+            "关注妹妹在人间的行动",
+            "由置鲇龙太郎配音",
+            "官方简介未展开更多经历"
+          ],
+          "voice_actors": [
+            {
+              "name": "置鮎龍太郎",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95177-6SiaUTf3CLkN.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Zwei Amane",
+            "name_native": "天音ツヴァイ",
+            "name_alternative": [],
+            "description": "Lily's older brother."
+          }
+        },
+        {
+          "id": 315430,
+          "name": "谷川裕也",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315430-cSBZVfYCPXia.png",
+          "description": "谷川裕也是阿久津转学后结识的第一位朋友。乍看之下，他是一个温和无害、不会伤害他人或动物的草食系男生，实际性格还有更多反差。裕也与阿久津一起经历班级日常和天使、恶魔造成的混乱，逐渐成为阿久津在人间的重要朋友。他的存在让阿久津的行动不再只围绕招募任务，也开始有了普通同学间的友情。",
+          "nicknames": [
+            "谷川裕也",
+            "Yuuya Tanigawa",
+            "裕也",
+            "阿久津的朋友"
+          ],
+          "traits": [
+            "阿久津转学后结识的第一位朋友",
+            "是普通高中生",
+            "表面显得温和无害",
+            "待人方式被形容为草食系",
+            "逐渐与阿久津建立友谊",
+            "参与班级日常互动",
+            "在人类校园生活中帮助阿久津适应",
+            "由梅田修一朗配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "梅田修一朗",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n236715-AqVwesOw9zVK.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuuya Tanigawa",
+            "name_native": "谷川裕也",
+            "name_alternative": [],
+            "description": "The first friend Akutsu made after transferring. At first glance, he is a herbivorous man who seems harmless to humans and animals, but he is actually quite a strategist, and his dark side occasionally peeks through."
+          }
+        },
+        {
+          "id": 315431,
+          "name": "广田健作",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315431-WRgREzTpmWgL.png",
+          "description": "广田健作是阿久津雅虎与谷川裕也的同学，属于主角群在校园中的朋友圈。他参与班级日常交流，也会被天音莉莉和阿久津之间不断扩大的混乱卷入。官方资料对健作的个人背景着墨不多，目前能够确认的是他的同学关系及配音信息；他主要承担普通学生同伴的角色，让校园喜剧不只围绕两位超自然主角展开。",
+          "nicknames": [
+            "广田健作",
+            "Kensaku Hirota",
+            "広田健作",
+            "健作",
+            "广田"
+          ],
+          "traits": [
+            "阿久津与谷川的同学",
+            "属于校园朋友圈的一员",
+            "参与班级日常交流",
+            "与谷川裕也关系熟悉",
+            "在学校场景中与主角群互动",
+            "常被卷入同学间的玩笑",
+            "由土岐隼一配音",
+            "官方资料未提供更多个人背景"
+          ],
+          "voice_actors": [
+            {
+              "name": "土岐隼一",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n123971-tp8zQxlKuhfZ.jpg",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Kensaku Hirota",
+            "name_native": "広田健作",
+            "name_alternative": [],
+            "description": ""
+          }
+        },
+        {
+          "id": 315432,
+          "name": "棚桥夕香",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315432-ia2l4FSLOAOM.png",
+          "description": "棚桥夕香是广田健作的青梅竹马，并自称是他的女朋友。她对健作抱有好感，看到天音莉莉与同学们走得很近后，把莉莉当作恋爱竞争对手，常以好胜直接的方式表达不满。夕香参与班级日常和校园恋爱喜剧，也让原本围绕天使与恶魔的冲突加入普通学生之间的情感纠葛。",
+          "nicknames": [
+            "棚桥夕香",
+            "Yuuka Tanahashi",
+            "棚橋夕香",
+            "夕香",
+            "棚桥"
+          ],
+          "traits": [
+            "广田健作的青梅竹马",
+            "自称是健作的女朋友",
+            "对健作抱有好感",
+            "把天音莉莉视作恋爱竞争对手",
+            "性格好胜而直接",
+            "会主动表达对健作的关心",
+            "参与校园同学间的恋爱喜剧",
+            "由东山奈央配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "東山奈央",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n106184-rFA0sHFJrbk4.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Yuuka Tanahashi",
+            "name_native": "棚橋夕香",
+            "name_alternative": [],
+            "description": "Kensaku's childhood friend (self-proclaimed girlfriend). She has a burning rivalry with Lily, who she views as her romantic rival."
+          }
+        },
+        {
+          "id": 315433,
+          "name": "莉兹",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b315433-LLBLJ7HNgeoH.png",
+          "description": "莉兹是阿久津雅虎在魔界的上司，负责将他派往人间，为魔界招募有才能的人类。她对阿久津抱有很高期待，工作时看起来可靠稳重，但也会因任务进展和下属表现而着急。莉兹通过魔界事务与阿久津保持联系，为校园中的天使和恶魔较量增添上级管理线，也呈现魔界并非只有战斗，还有明确的工作与组织结构。",
+          "nicknames": [
+            "莉兹",
+            "Liz",
+            "リズ",
+            "魔界莉兹"
+          ],
+          "traits": [
+            "阿久津在魔界的上司",
+            "将阿久津派往人间执行任务",
+            "期待他为魔界招募人才",
+            "管理魔界相关事务",
+            "工作态度表面上十分可靠",
+            "内心也会因下属表现而着急",
+            "通过联络监督阿久津任务",
+            "由钉宫理惠配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "釘宮理恵",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Liz",
+            "name_native": "リズ",
+            "name_alternative": [],
+            "description": "Akutsu's boss in the demon world. She sends Akutsu to the human world with high expectations. She seems like a good boss who is passionate about her work, but she is a bit out of touch and tends to make misguided plans. She is an unconscious cosplay enthusiast."
+          }
+        },
+        {
+          "id": 322663,
+          "name": "城村老师",
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b322663-2Ka05RD1fYK8.png",
+          "description": "城村老师是阿久津与天音莉莉所在班级的教师，负责授课和日常班级管理。他说话直率、外表有些吓人，却会关心学生的情况；人物设定还提到他对自己发际线逐渐稀薄感到担忧。城村在超自然事件不断发生的校园里仍努力维持普通教师的职责，常以严肃态度面对阿久津和同学们制造的混乱。",
+          "nicknames": [
+            "城村老师",
+            "Shiromura-sensei",
+            "城村先生",
+            "班主任"
+          ],
+          "traits": [
+            "阿久津所在班级的教师",
+            "负责日常授课和班级管理",
+            "说话直率且表情严肃",
+            "其实关心学生",
+            "会留意学生校园表现",
+            "对发际线变稀薄感到担心",
+            "与阿久津和莉莉有师生关系",
+            "由山路和弘配音"
+          ],
+          "voice_actors": [
+            {
+              "name": "山路和弘",
+              "image": "https://s4.anilist.co/file/anilistcdn/staff/large/n101755-LsVbHCwg6Pel.png",
+              "language": "日语"
+            }
+          ],
+          "source": {
+            "role": "SUPPORTING",
+            "name_full": "Shiromura-sensei",
+            "name_native": "城村先生",
+            "name_alternative": [],
+            "description": "The teacher of Akutsu's class. He is concerned about his thinning hair. Although he has a scary and blunt personality, he is a nice guy who guides the students with his strange masculinity and middle-aged sadness."
+          }
+        }
+      ]
+    }
+  ]
+}

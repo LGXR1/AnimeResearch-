@@ -1,0 +1,67 @@
+{
+  "verifiedAt": "2026-10-04T15:47:37.134Z",
+  "curatedFile": "scripts/new_anime_curated_batch11_completion.js",
+  "anime": [
+    {
+      "id": 155418,
+      "title": "圣者无双",
+      "count": 9,
+      "excluded": [
+        {
+          "name": "教皇、格兰哈尔特、乔尔德",
+          "reason": "官网有介绍，但补充查询未找到与本作品关联的 AniList 角色和合规头像"
+        },
+        {
+          "id": 313529,
+          "name": "豪运先生",
+          "reason": "AniList 无简介，尚不足以核实身份及能力等角色资料"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/155418",
+        "https://www.tbs.co.jp/anime/seija/character/"
+      ]
+    },
+    {
+      "id": 21627,
+      "title": "少女编号",
+      "count": 10,
+      "excluded": [
+        {
+          "id": 221318,
+          "name": "难波社长",
+          "reason": "AniList 日配头像无 hash"
+        },
+        {
+          "id": 188387,
+          "name": "Line P",
+          "reason": "官网未列人物介绍，AniList 简介为空，资料不足"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/21627",
+        "https://www.tbs.co.jp/anime/gn/chara/"
+      ]
+    },
+    {
+      "id": 13535,
+      "title": "穷神来了！",
+      "count": 7,
+      "excluded": [
+        {
+          "name": "犬神桃央、懋毘威、山吹、诹访野菊之进、熊谷及其他配角",
+          "reason": "完整 AniList 快照中缺少有 hash 的角色或日配头像；熊谷未找到相应资料"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/13535",
+        "https://www.binbogamiga.net/character/"
+      ]
+    }
+  ],
+  "insertedCharacters": 26,
+  "insertedVoiceActors": 26,
+  "updatedCharacters": 0,
+  "verifiedCharacters": 26,
+  "verifiedVoiceActors": 26
+}

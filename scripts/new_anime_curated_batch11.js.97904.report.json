@@ -1,0 +1,26 @@
+{
+  "verifiedAt": "2026-10-04T15:29:26.290Z",
+  "curatedFile": "scripts/new_anime_curated_batch11.js",
+  "anime": [
+    {
+      "id": 97904,
+      "title": "月野艺能事务所",
+      "count": 17,
+      "excluded": [
+        {
+          "id": 270466,
+          "name": "朝雾茜",
+          "reason": "AniList 列出的其他系列客串人物；目前仅核实组合及月份，资料不足"
+        }
+      ],
+      "references": [
+        "https://anilist.co/anime/97904",
+        "https://tsukipro-anime.com/1st/talent/"
+      ]
+    }
+  ],
+  "insertedCharacters": 17,
+  "insertedVoiceActors": 17,
+  "verifiedCharacters": 17,
+  "verifiedVoiceActors": 17
+}

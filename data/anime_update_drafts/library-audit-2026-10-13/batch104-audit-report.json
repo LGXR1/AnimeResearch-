@@ -1,0 +1,1051 @@
+{
+  "checkedAt": "2026-10-22T07:58:29.670Z",
+  "batchStatus": "reviewed_with_followups",
+  "checkedCount": 100,
+  "checkedIds": [
+    249198,
+    249256,
+    249338,
+    249339,
+    249361,
+    249362,
+    249364,
+    249375,
+    249376,
+    249404,
+    249488,
+    249489,
+    249623,
+    250097,
+    250154,
+    250155,
+    250156,
+    250490,
+    250641,
+    250642,
+    250705,
+    250763,
+    251124,
+    251127,
+    251839,
+    251913,
+    252073,
+    252175,
+    252292,
+    252495,
+    252496,
+    252578,
+    252702,
+    252703,
+    252713,
+    252714,
+    252715,
+    252716,
+    252732,
+    252733,
+    252861,
+    252862,
+    252890,
+    252891,
+    252892,
+    252893,
+    252894,
+    252976,
+    252977,
+    253008,
+    253009,
+    253010,
+    253011,
+    253429,
+    253608,
+    253609,
+    253611,
+    253612,
+    253614,
+    253615,
+    253616,
+    253617,
+    253618,
+    253619,
+    253620,
+    253621,
+    253622,
+    253623,
+    253764,
+    253950,
+    253964,
+    253965,
+    253966,
+    253967,
+    253968,
+    253969,
+    253977,
+    254180,
+    254925,
+    254931,
+    254932,
+    254968,
+    254970,
+    255229,
+    255241,
+    255242,
+    255243,
+    255244,
+    255627,
+    255628,
+    255629,
+    255630,
+    255701,
+    255819,
+    255820,
+    255890,
+    255989,
+    256330,
+    256378,
+    256379
+  ],
+  "checkedRange": {
+    "firstId": 249198,
+    "lastId": 256379
+  },
+  "profileSnapshotVerifiedCount": 28,
+  "profileDescriptionAvailableCount": 18,
+  "modifiedIds": [
+    249256,
+    250490,
+    250641,
+    251839,
+    252292,
+    253608,
+    253609,
+    253611,
+    253612,
+    253614,
+    253616,
+    253964,
+    253965,
+    253966,
+    253967,
+    253968,
+    253969,
+    254925,
+    255890,
+    256378,
+    256379
+  ],
+  "source": {
+    "name": "AniList GraphQL 角色资料快照（本地缓存 + 2026-10-22 实时补查）",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "voiceMediaFetchedAt": "2026-10-13T03:04:01.115Z",
+    "records": [
+      {
+        "id": 249198,
+        "url": "https://anilist.co/character/249198"
+      },
+      {
+        "id": 249338,
+        "url": "https://anilist.co/character/249338"
+      },
+      {
+        "id": 249339,
+        "url": "https://anilist.co/character/249339"
+      },
+      {
+        "id": 249375,
+        "url": "https://anilist.co/character/249375"
+      },
+      {
+        "id": 249376,
+        "url": "https://anilist.co/character/249376"
+      },
+      {
+        "id": 249488,
+        "url": "https://anilist.co/character/249488"
+      },
+      {
+        "id": 249489,
+        "url": "https://anilist.co/character/249489"
+      },
+      {
+        "id": 249623,
+        "url": "https://anilist.co/character/249623"
+      },
+      {
+        "id": 250642,
+        "url": "https://anilist.co/character/250642"
+      },
+      {
+        "id": 250763,
+        "url": "https://anilist.co/character/250763"
+      },
+      {
+        "id": 251124,
+        "url": "https://anilist.co/character/251124"
+      },
+      {
+        "id": 251127,
+        "url": "https://anilist.co/character/251127"
+      },
+      {
+        "id": 252073,
+        "url": "https://anilist.co/character/252073"
+      },
+      {
+        "id": 252495,
+        "url": "https://anilist.co/character/252495"
+      },
+      {
+        "id": 252496,
+        "url": "https://anilist.co/character/252496"
+      },
+      {
+        "id": 252732,
+        "url": "https://anilist.co/character/252732"
+      },
+      {
+        "id": 252733,
+        "url": "https://anilist.co/character/252733"
+      },
+      {
+        "id": 253977,
+        "url": "https://anilist.co/character/253977"
+      },
+      {
+        "id": 254931,
+        "url": "https://anilist.co/character/254931"
+      },
+      {
+        "id": 254932,
+        "url": "https://anilist.co/character/254932"
+      },
+      {
+        "id": 254968,
+        "url": "https://anilist.co/character/254968"
+      },
+      {
+        "id": 254970,
+        "url": "https://anilist.co/character/254970"
+      },
+      {
+        "id": 255241,
+        "url": "https://anilist.co/character/255241"
+      },
+      {
+        "id": 255242,
+        "url": "https://anilist.co/character/255242"
+      },
+      {
+        "id": 255243,
+        "url": "https://anilist.co/character/255243"
+      },
+      {
+        "id": 255244,
+        "url": "https://anilist.co/character/255244"
+      },
+      {
+        "id": 255701,
+        "url": "https://anilist.co/character/255701"
+      },
+      {
+        "id": 256330,
+        "url": "https://anilist.co/character/256330"
+      }
+    ],
+    "round23FetchedAt": "2026-10-22T08:12:12.134Z",
+    "voiceMediaRound23": "2026-10-22T08:13:37.394Z",
+    "voiceStaffSearchRound23B": "2026-10-22T08:42:40.218Z"
+  },
+  "pendingExternalVerificationIds": [],
+  "pendingProfileNoDescriptionIds": [
+    249361,
+    249362,
+    249364,
+    249488,
+    249489,
+    250642,
+    251124,
+    251127,
+    252292,
+    252495,
+    252861,
+    252862,
+    253615,
+    253616,
+    253617,
+    253618,
+    253619,
+    253620,
+    253621,
+    253622,
+    253623,
+    253977,
+    254925,
+    255229,
+    255242,
+    255243,
+    255244,
+    255989
+  ],
+  "pendingShortDescriptionIds": [
+    252292
+  ],
+  "pendingDescriptionQualityIds": [
+    249361,
+    249362,
+    249364,
+    250705,
+    251913,
+    253615,
+    253616,
+    253617,
+    253618,
+    253619,
+    253620,
+    253621,
+    253622,
+    253623,
+    253950,
+    254925,
+    255229,
+    255989
+  ],
+  "pendingTraitVerificationIds": [
+    249198,
+    249361,
+    249362,
+    249364,
+    250705,
+    251124,
+    251127,
+    251913,
+    252073,
+    252292,
+    253615,
+    253616,
+    253617,
+    253618,
+    253619,
+    253620,
+    253621,
+    253622,
+    253623,
+    253950,
+    253977,
+    254970,
+    255229,
+    255989
+  ],
+  "pendingExactGenericTraitIds": [
+    249361,
+    249362,
+    249364,
+    250705,
+    251913,
+    253615,
+    253616,
+    253617,
+    253618,
+    253619,
+    253620,
+    253621,
+    253622,
+    253623,
+    253950,
+    253964,
+    254925,
+    255229,
+    255989
+  ],
+  "pendingVoiceActorIds": [],
+  "pendingVoiceActorImageIds": [],
+  "pendingVisualVerificationIds": [
+    251839
+  ],
+  "pendingColorTraitKeywordIds": [],
+  "pendingImageMismatchIds": [],
+  "localFollowup": {
+    "nicknameIssuesResolved": [
+      249256,
+      250490,
+      250641,
+      251839,
+      252292,
+      253609,
+      253611,
+      253612,
+      253614,
+      253616,
+      253964,
+      253965,
+      253966,
+      253967,
+      253969,
+      254925,
+      256378,
+      256379
+    ],
+    "voiceActorImagesRepaired": [],
+    "characterImagesRefreshed": [],
+    "factualCorrections": [],
+    "searchIndex": {
+      "rebuilt": true,
+      "formulaVerified": true,
+      "descriptionExcluded": true,
+      "mismatchCountBeforeRebuild": 18
+    },
+    "localExportsRegenerated": true,
+    "nicknameAudit": {
+      "checkedCount": 100,
+      "duplicateCountAfter": 0,
+      "canonicalAniListNameMissingAfter": 0
+    },
+    "anilistProfilesRefetched": [
+      249198,
+      249338,
+      249339,
+      249375,
+      249376,
+      249488,
+      249489,
+      249623,
+      250642,
+      250763,
+      251124,
+      251127,
+      252073,
+      252495,
+      252496,
+      252732,
+      252733,
+      253977,
+      254931,
+      254932,
+      254968,
+      254970,
+      255241,
+      255242,
+      255243,
+      255244,
+      255701,
+      256330
+    ],
+    "anilistDescriptionsAvailable": [
+      249198,
+      249338,
+      249339,
+      249375,
+      249376,
+      249623,
+      250763,
+      252073,
+      252496,
+      252732,
+      252733,
+      254931,
+      254932,
+      254968,
+      254970,
+      255241,
+      255701,
+      256330
+    ],
+    "officialAliasesAdded": [],
+    "officialCharacterImagesRefreshed": [],
+    "searchIndexRebuiltForProfileChanges": [],
+    "voiceActorImagesFetchedRound23": [],
+    "voiceActorImagesFetchedAt": "2026-10-22T08:13:37.394Z",
+    "visualImageAuditRound23": {
+      "checkedAt": "2026-10-22T08:32:24.195Z",
+      "source": "逐张检查 AniList 官方角色头像；图片与角色链接见 visual-audit-round23/manifest.json",
+      "reviewedIds": [
+        249256,
+        250097,
+        250490,
+        251839,
+        252292,
+        253608,
+        253609,
+        253611,
+        253612,
+        253614,
+        253964,
+        253965,
+        253966,
+        253967,
+        253968,
+        253969,
+        254925,
+        255890,
+        256378,
+        256379
+      ],
+      "colorCorrections": [
+        {
+          "id": 249256,
+          "name": "索菲亚",
+          "anime": "月光下的异世界之旅",
+          "beforeColorTraits": [
+            "银发",
+            "蓝瞳"
+          ],
+          "afterColorTraits": [
+            "银发",
+            "金瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b249256-31OVFxOOP732.png"
+        },
+        {
+          "id": 250490,
+          "name": "八百谷雏子",
+          "anime": "对我垂涎欲滴的非人少女",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "金瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b250490-uoHFkFhfKP06.jpg"
+        },
+        {
+          "id": 252292,
+          "name": "干蛇",
+          "anime": "里世界郊游",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "黑发",
+            "红瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b252292-xnMrCuwjn4R4.png"
+        },
+        {
+          "id": 253608,
+          "name": "玉城杏夏",
+          "anime": "闪耀路标",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253608-vz68EuymTp4p.jpg"
+        },
+        {
+          "id": 253609,
+          "name": "圣舞理王",
+          "anime": "闪耀路标",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253609-CnqoE8xZpC4D.jpg"
+        },
+        {
+          "id": 253611,
+          "name": "青天国春",
+          "anime": "闪耀路标",
+          "beforeColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "afterColorTraits": [
+            "金发",
+            "红瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253611-xga909lRpksn.jpg"
+        },
+        {
+          "id": 253612,
+          "name": "祇园寺雪音",
+          "anime": "闪耀路标",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "红发",
+            "紫瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253612-uq7kFpYqP9AY.jpg"
+        },
+        {
+          "id": 253614,
+          "name": "伊藤红叶",
+          "anime": "闪耀路标",
+          "beforeColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "afterColorTraits": [
+            "蓝发",
+            "紫瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253614-d9UAOikDCHAE.jpg"
+        },
+        {
+          "id": 253964,
+          "name": "白木阳芽",
+          "anime": "百合是我的工作",
+          "beforeColorTraits": [
+            "金发",
+            "蓝瞳"
+          ],
+          "afterColorTraits": [
+            "粉发",
+            "金瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253964-tHwYMJ8aXKaz.png"
+        },
+        {
+          "id": 253965,
+          "name": "绫小路美月",
+          "anime": "百合是我的工作",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253965-TRnGlbDMTjg5.png"
+        },
+        {
+          "id": 253966,
+          "name": "知花纯加",
+          "anime": "百合是我的工作",
+          "beforeColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "afterColorTraits": [
+            "金发",
+            "绿瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253966-V4VIHtKSTC39.png"
+        },
+        {
+          "id": 253967,
+          "name": "西寺宁宁",
+          "anime": "百合是我的工作",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "白发",
+            "紫瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253967-IAjYZouCRb15.png"
+        },
+        {
+          "id": 253968,
+          "name": "小柴舞",
+          "anime": "百合是我的工作",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "粉发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253968-KzZgH4SmhFJa.png"
+        },
+        {
+          "id": 253969,
+          "name": "间宫果乃子",
+          "anime": "百合是我的工作",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "蓝发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b253969-EzO4Hk5c9jRH.png"
+        },
+        {
+          "id": 254925,
+          "name": "萨拉·克里斯皮诺",
+          "anime": "冰上的尤里",
+          "beforeColorTraits": [
+            "红发",
+            "绿眼"
+          ],
+          "afterColorTraits": [
+            "黑发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b254925-OBKNpJO6g5fx.png"
+        },
+        {
+          "id": 255890,
+          "name": "阿古屋真珠",
+          "anime": "憧憬成为魔法少女",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "紫发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b255890-QaJpYLkOCpwz.png"
+        },
+        {
+          "id": 256378,
+          "name": "诸葛孔明",
+          "anime": "派对浪客诸葛孔明",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b256378-SQI0aqbuTlqI.png"
+        }
+      ],
+      "pendingIds": [
+        251839
+      ]
+    },
+    "factualCorrectionsRound23": [],
+    "voiceActorImagesResolvedFromAniListStaffRound23B": [],
+    "voiceActorStaffSearchRound23B": "2026-10-22T08:42:40.218Z",
+    "supabaseSyncRound23B": {
+      "verifiedAt": "2026-10-22T09:08:41.861Z",
+      "voiceActorImagesSynced": 0,
+      "characterIdsSynced": [],
+      "placeholderVoiceActorRemoved": false
+    },
+    "profileIdentityRound24": {
+      "updatedAt": "2026-10-22T09:39:36.283Z",
+      "correctedNames": [
+        253609,
+        253611
+      ],
+      "descriptionAndTraitCorrections": [
+        253609,
+        253611
+      ],
+      "remainingThinSourceIds": [],
+      "voiceActorRelationsVerified": [
+        {
+          "id": 1186,
+          "characterId": 253609,
+          "name": "Sayumi Suzushiro"
+        },
+        {
+          "id": 1184,
+          "characterId": 253611,
+          "name": "Yuuko Natsuyoshi"
+        }
+      ],
+      "externalWritePending": false,
+      "syncedAt": "2026-10-22T09:39:52.702Z",
+      "verifiedCharacterIds": [
+        253609,
+        253611
+      ]
+    },
+    "profileFactsRound26": {
+      "updatedAt": "2026-10-22T09:49:24.590Z",
+      "correctedDescriptionsAndTraits": [
+        253965,
+        253966,
+        253967,
+        253968,
+        253969
+      ],
+      "externalWritePending": false,
+      "syncedAt": "2026-10-22T09:50:58.726Z",
+      "verifiedCharacterIds": [
+        253965,
+        253966,
+        253967,
+        253968,
+        253969
+      ],
+      "voiceActorRelationsVerified": [
+        {
+          "id": 1449,
+          "name": "Sumire Uesaka",
+          "characterId": 253965
+        },
+        {
+          "id": 1451,
+          "name": "Makoto Koichi",
+          "characterId": 253966
+        },
+        {
+          "id": 1453,
+          "name": "Asami Seto",
+          "characterId": 253967
+        },
+        {
+          "id": 1454,
+          "name": "Yukari Tamura",
+          "characterId": 253968
+        },
+        {
+          "id": 1452,
+          "name": "Minami Tanaka",
+          "characterId": 253969
+        }
+      ]
+    },
+    "profileFactsRound27": {
+      "updatedAt": "2026-10-22T09:54:35.960Z",
+      "correctedDescriptionsTraitsAndAliases": [
+        249256,
+        250490,
+        250641,
+        255890,
+        256378
+      ],
+      "externalWritePending": false,
+      "syncedAt": "2026-10-22T09:55:18.230Z",
+      "verifiedCharacterIds": [
+        249256,
+        250490,
+        250641,
+        255890,
+        256378
+      ],
+      "voiceActorRelationsVerified": [
+        {
+          "id": 1359,
+          "name": "Miyuki Sawashiro",
+          "characterId": 249256
+        },
+        {
+          "id": 1523,
+          "name": "Reina Ueda",
+          "characterId": 250490
+        },
+        {
+          "id": 1299,
+          "name": "Yukari Tamura",
+          "characterId": 250641
+        },
+        {
+          "id": 1440,
+          "name": "Yuuka Aisaka",
+          "characterId": 255890
+        },
+        {
+          "id": 1050,
+          "name": "Ryoutarou Okiayu",
+          "characterId": 256378
+        }
+      ]
+    },
+    "profileFactsRound28": {
+      "updatedAt": "2026-10-22T10:00:32.971Z",
+      "correctedDescriptionsTraits": [
+        253608,
+        253612,
+        253614
+      ],
+      "externalWritePending": false,
+      "syncedAt": "2026-10-22T10:01:02.831Z",
+      "verifiedCharacterIds": [
+        253608,
+        253612,
+        253614
+      ],
+      "voiceActorRelationsVerified": [
+        {
+          "id": 1185,
+          "name": "Moeko Kanisawa",
+          "characterId": 253608
+        },
+        {
+          "id": 1187,
+          "name": "Rimo Hasegawa",
+          "characterId": 253612
+        },
+        {
+          "id": 1188,
+          "name": "Rika Nakagawa",
+          "characterId": 253614
+        }
+      ]
+    },
+    "profileFactsRound29": {
+      "updatedAt": "2026-10-22T10:07:28.623Z",
+      "correctedDescriptionTraitsAndAliases": [
+        251839
+      ],
+      "removedUnverifiedHairAndEyeColorTraits": true,
+      "pendingAvatarVisualReview": true,
+      "externalWritePending": false,
+      "syncedAt": "2026-10-22T10:07:57.126Z",
+      "verifiedCharacterIds": [
+        251839
+      ],
+      "voiceActorRelationsVerified": [
+        {
+          "id": 1372,
+          "name": "Aguri Onishi",
+          "characterId": 251839
+        }
+      ]
+    },
+    "profileFactsRound30": {
+      "updatedAt": "2026-10-22T10:12:59.586Z",
+      "removedUnsupportedCompanionAndPersonalityClaims": true,
+      "verifiedTraits": [
+        "黑发",
+        "红瞳"
+      ],
+      "sourcesSearched": [
+        "AniList",
+        "Otherside Picnic official character page",
+        "official 12 episode summaries",
+        "Bing public search"
+      ],
+      "biographyAndAdditionalTraitsStillPending": true,
+      "externalWritePending": false,
+      "syncedAt": "2026-10-22T10:13:29.554Z",
+      "verifiedCharacterIds": [
+        252292
+      ],
+      "voiceActorRelationsVerified": [
+        {
+          "id": 1508,
+          "name": "Shizuka Itou",
+          "characterId": 252292
+        }
+      ]
+    }
+  },
+  "note": "干蛇原有“与主角亲密、可靠”等无来源描述已移除。AniList无简介，官方人物页和12集梗概均无独立设定，外部检索未找到可靠出处；保留角色名、声优及已核对外观，生平和其他特征仍待核。",
+  "scopeLimitations": [
+    "发色、瞳色没有逐图目视核验。",
+    "短简介、模板简介和泛化特征在缺少可靠事实来源时未改写。",
+    "本次只更新本地文件；Supabase 未同步，远端数据未回读。",
+    "AniList 实时接口仅未返回合成占位 ID 990000001；该记录继续标为待核。",
+    "AniList 未提供简介的角色仍需其他可靠人物资料来源；未根据作品简介推造人物传记。"
+  ],
+  "databaseSync": {
+    "syncedAt": null,
+    "syncedCount": 0,
+    "readbackVerified": false,
+    "status": "not_synced"
+  },
+  "syncAttempt": {
+    "attemptedThisTurn": false,
+    "reason": "本轮仅处理本地缓存与导出，没有向 Supabase 发起写入。"
+  },
+  "identityFixesRound24": [
+    {
+      "id": 253609,
+      "beforeName": "圣舞理王",
+      "afterName": "青天国春",
+      "anilistProfile": "https://anilist.co/character/253609",
+      "pending": []
+    },
+    {
+      "id": 253611,
+      "beforeName": "青天国春",
+      "afterName": "圣舞理王",
+      "anilistProfile": "https://anilist.co/character/253611",
+      "pending": []
+    }
+  ],
+  "profileFactsRound26": [
+    {
+      "id": 253965,
+      "source": "https://anilist.co/character/253965",
+      "verifiedVoiceActor": "Sumire Uesaka"
+    },
+    {
+      "id": 253966,
+      "source": "https://anilist.co/character/253966",
+      "verifiedVoiceActor": "Makoto Koichi"
+    },
+    {
+      "id": 253967,
+      "source": "https://anilist.co/character/253967",
+      "verifiedVoiceActor": "Asami Seto"
+    },
+    {
+      "id": 253968,
+      "source": "https://anilist.co/character/253968",
+      "verifiedVoiceActor": "Yukari Tamura"
+    },
+    {
+      "id": 253969,
+      "source": "https://anilist.co/character/253969",
+      "verifiedVoiceActor": "Minami Tanaka"
+    }
+  ],
+  "profileFactsRound27": [
+    {
+      "id": 249256,
+      "source": "https://anilist.co/character/249256",
+      "verifiedVoiceActor": "Miyuki Sawashiro"
+    },
+    {
+      "id": 250490,
+      "source": "https://anilist.co/character/250490",
+      "verifiedVoiceActor": "Reina Ueda"
+    },
+    {
+      "id": 250641,
+      "source": "https://anilist.co/character/250641",
+      "verifiedVoiceActor": "Yukari Tamura"
+    },
+    {
+      "id": 255890,
+      "source": "https://anilist.co/character/255890",
+      "verifiedVoiceActor": "Yuuka Aisaka"
+    },
+    {
+      "id": 256378,
+      "source": "https://anilist.co/character/256378",
+      "verifiedVoiceActor": "Ryoutarou Okiayu"
+    }
+  ],
+  "profileFactsRound28": [
+    {
+      "id": 253608,
+      "source": "https://shinepost.jp/character/",
+      "officialPageTitle": "CHARACTER｜「シャインポスト」公式サイト"
+    },
+    {
+      "id": 253612,
+      "source": "https://shinepost.jp/character/",
+      "officialPageTitle": "CHARACTER｜「シャインポスト」公式サイト"
+    },
+    {
+      "id": 253614,
+      "source": "https://shinepost.jp/character/",
+      "officialPageTitle": "CHARACTER｜「シャインポスト」公式サイト"
+    }
+  ],
+  "profileFactsRound29": [
+    {
+      "id": 251839,
+      "sources": [
+        "https://bocchi-kouryaku.com/character",
+        "https://anilist.co/character/251839"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,684 @@
+{
+  "fetchedAt": "2026-10-09T09:08:14.504Z",
+  "id": 21321,
+  "title": {
+    "romaji": "Shounen Maid",
+    "english": "Shonen Maid",
+    "native": "少年メイド"
+  },
+  "synonyms": [],
+  "format": "TV",
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "description": "Chihiro Komiya is an energetic elementary school student who was living with his mom. Chihiro is very good at doing housework and chores, and his mother's motto is \"No work, no food.\" After his mother suddenly dies, a man named Madoka Taketori who claims to be his uncle shows up, and asks Chihiro to come live with him. Chihiro initially refuses, but when seeing the horribly dirty state of Madoka's rich home, he decides to start cleaning it. Then Madoka makes another offer to Chihiro: that he comes to live with him, but in exchange Chihiro will do the housework. Chihiro accepts this deal, but suddenly finds himself in a maid uniform.<br><br>(Source: Anime News Network)",
+  "siteUrl": "https://anilist.co/anime/21321",
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 75640,
+        "name": {
+          "full": "Chihiro Komiya",
+          "native": "小宮千尋",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/75640.jpg"
+        },
+        "description": "Chihiro Komiya is an elementary school student who begins working as a housekeeper at his wealthy uncle's home after his mother dies. He likes things to be clean and is also a good cook.\n\nChihiro has long, loose brown hair and olive eyes. When people from his mother's side of the family see him, they think he is the spit and image of his mother. Chihiro is of average build for a fifth grader; however, he is sometimes mistaken for a girl due to his appearance. He wears a frilly uniform made by his uncle, who loves girls' clothing with frills.\n\nChihiro is a neat freak who takes it upon himself to be Madoka's housekeeper, which proves to be difficult because his uncle is a slob and a packrat. He is also good at cooking, as demonstrated when he makes meals every day for Madoka and himself. His highly disciplined ways conflict with the carefree ways of his uncle, which leads to him scolding Madoka on many occasions. Though he initially feels apathetic toward Madoka, he comes to genuinely love and appreciate him over time.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119740,
+          "name": {
+            "full": "Natsumi Fujiwara",
+            "native": "藤原夏海"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119740-EEZ5DErQhOht.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 172715,
+        "name": {
+          "full": "Madoka  Takatori",
+          "native": "鷹取円",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172715-OGsPBql8FdGP.jpg"
+        },
+        "description": "Madoka Takatori is Chihiro's uncle and takes him in after his mother's passing.\n\nHe's an extremely skilled costume designer, known for often turning down prospective clients. As such, he designs costumes not only for Chihiro and Miyako but the idol unit Uchouten Boys too. He seems to be quite skilled at baking, but often leaves the kitchen in a disastrous state when he's done. He is scared of dogs but often picks up stray and abandoned cats despite being allergic. \n\nMadoka has an almost stereotypically elegant appearance, with slightly grown-out blonde hair and blue eyes, which is often contrasted by his slovenliness and stranger fear. All of this makes it difficult for people to figure out that Madoka and Chihiro are relatives.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105989,
+          "name": {
+            "full": "Nobunaga Shimazaki",
+            "native": "島﨑信長"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105989-96etzH1dLNug.jpg"
+          }
+        },
+        {
+          "id": 110919,
+          "name": {
+            "full": "Ayumu Murase",
+            "native": "村瀬歩"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n110919-zz5dq39kyzNC.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 172716,
+        "name": {
+          "full": "Miyako Ootori",
+          "native": "鳳美耶子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b172716-aww5QZseqkeJ.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": "16"
+      },
+      "voiceActors": [
+        {
+          "id": 95089,
+          "name": {
+            "full": "Yui Makino",
+            "native": "牧野由依"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95089-DCoCxSfkD1HC.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 199764,
+        "name": {
+          "full": "Keiichirou Shinozaki",
+          "native": "篠崎桂一郎",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b199764-JCkoxQGxmpNX.jpg"
+        },
+        "description": "He was the only person taking care of Takatori until Chihiro came.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96489,
+          "name": {
+            "full": "Tomoaki Maeno",
+            "native": "前野智昭"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96489-xTzYxgdC9g9l.png"
+          }
+        },
+        {
+          "id": 122482,
+          "name": {
+            "full": "Arisa Sakuraba",
+            "native": "櫻庭有紗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n122482-foDy9FyX0JOM.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 286515,
+        "name": {
+          "full": "Youko Hino",
+          "native": "日野葉子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b286515-dF7cNdRBuPQK.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95031,
+          "name": {
+            "full": "Mai Nakahara",
+            "native": "中原麻衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-ochR43o7TrWs.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 286516,
+        "name": {
+          "full": "Hanako Hino",
+          "native": "日野花子",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b286516-1yxXsxeDyUZY.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95148,
+          "name": {
+            "full": "Akiko Yajima",
+            "native": "矢島晶子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95148-JiNi79wg9ScS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 286517,
+        "name": {
+          "full": "Hino no Chichi",
+          "native": "日野の父",
+          "alternative": [
+            "Hino's Father"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b286517-sWXVF0ovco9J.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 117419,
+          "name": {
+            "full": "Eiji Takeuchi",
+            "native": "竹内栄治"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n117419-coQ1t7nTL6gf.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 286518,
+        "name": {
+          "full": "Kouji Hino",
+          "native": "日野耕司",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b286518-TCXb6q9PnDnX.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105094,
+          "name": {
+            "full": "Jun Fukushima",
+            "native": "福島潤"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105094-Udz3lBFTZa5W.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 286519,
+        "name": {
+          "full": "Shinji Hino",
+          "native": "日野慎司",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b286519-XTWT32rOs4Qg.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95172,
+          "name": {
+            "full": "Momoko Saitou",
+            "native": "斎藤桃子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/172.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 286520,
+        "name": {
+          "full": "Hino no Haha",
+          "native": "日野の母",
+          "alternative": [
+            "Hino's Mother"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b286520-oWdlb3PKAcpc.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95116,
+          "name": {
+            "full": "Kana Ueda",
+            "native": "植田佳奈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 286521,
+        "name": {
+          "full": "Hino no Sofu",
+          "native": "日野の祖父",
+          "alternative": [
+            "Hino's Grandfather"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b286521-Ar6SqrJHvZYG.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96506,
+          "name": {
+            "full": "Yoku Shioya",
+            "native": "塩屋翼"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96506-toS3CQBXCrnR.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 286522,
+        "name": {
+          "full": "Mie Hino",
+          "native": "日野美枝",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b286522-AjFFn9G5pZ85.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95156,
+          "name": {
+            "full": "Kaori Mizuhashi",
+            "native": "水橋かおり"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95156-7tw0zP396ecG.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 304183,
+        "name": {
+          "full": "Chiyo Komiya",
+          "native": "小宮千代",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b304183-pMnOMFywz3ws.jpg"
+        },
+        "description": "Chihiro's mother.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95027,
+          "name": {
+            "full": "Yukari Tamura",
+            "native": "田村ゆかり"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 314673,
+        "name": {
+          "full": "Hayato",
+          "native": "隼人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314673-OxNCEzElNVud.jpg"
+        },
+        "description": "Leader of Uchouten BOYS",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119833,
+          "name": {
+            "full": "Taku Yashiro",
+            "native": "八代拓"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119833-6CySrXDVAZ2X.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 314674,
+        "name": {
+          "full": "Ibuki",
+          "native": "伊吹",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314674-O2cZmxQfsmEC.jpg"
+        },
+        "description": "Member of Uchouten BOYS",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 104790,
+          "name": {
+            "full": "Kazutomi Yamamoto",
+            "native": "山本和臣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104790-F3NQJtS1pels.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 314675,
+        "name": {
+          "full": "Yuuji Hino",
+          "native": "日野祐司",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314675-WjSKOrTvctBw.png"
+        },
+        "description": "Second Son of the Hino family and Chihiro's classmate and friend",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95197,
+          "name": {
+            "full": "Mitsuki Saiga",
+            "native": "斎賀みつき"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95197-4Uxn95bRlvMu.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 314676,
+        "name": {
+          "full": "Ryuuji",
+          "native": "竜児",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314676-aajrE6zYIuQF.jpg"
+        },
+        "description": "Youngest member of Uchouten BOYS",
+        "gender": "Male",
+        "age": "16"
+      },
+      "voiceActors": [
+        {
+          "id": 111635,
+          "name": {
+            "full": "Natsuki Hanae",
+            "native": "花江夏樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n111635-L385UcjTKCBq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 314677,
+        "name": {
+          "full": "Kazusa Takatori",
+          "native": "鷹取一砂",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314677-aTy79GkwOxsV.jpg"
+        },
+        "description": "Chiyo and Madoka's mother and Chihiro's grandmother",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95362,
+          "name": {
+            "full": "Yoshiko Sakakibara",
+            "native": "榊原良子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95362-OdfKlvHimh3b.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 314678,
+        "name": {
+          "full": "Yukito Amahara",
+          "native": "天原雪人",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314678-gzQWgBFn6DJy.jpg"
+        },
+        "description": "Chihiro's classmate and friend",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 129351,
+          "name": {
+            "full": "Asuna Tomari",
+            "native": "泊明日菜"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n129351-XYMaAkroHj8S.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 314679,
+        "name": {
+          "full": "Hiroshi Takei",
+          "native": "竹井宏",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b314679-ulQgRSFsT37G.jpg"
+        },
+        "description": "Chihiro's classmate and friend",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119416,
+          "name": {
+            "full": "Kaede Hondo",
+            "native": "本渡楓"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119416-7RC2mPKDKydB.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 328065,
+        "name": {
+          "full": "Kuromame",
+          "native": "黒豆",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328065-jaf3tk6zcqea.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119416,
+          "name": {
+            "full": "Kaede Hondo",
+            "native": "本渡楓"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119416-7RC2mPKDKydB.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 328066,
+        "name": {
+          "full": "Yuu Nomura",
+          "native": "乃村夕",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b328066-S8RB3V4eKQAg.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119401,
+          "name": {
+            "full": "Mikako Izawa",
+            "native": "井澤美香子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119401-rCnDTIzPtuOc.png"
+          }
+        }
+      ]
+    }
+  ]
+}

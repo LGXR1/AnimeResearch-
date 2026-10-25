@@ -1,0 +1,649 @@
+{
+  "checkedAt": "2026-10-22T07:58:29.670Z",
+  "batchStatus": "reviewed_with_followups",
+  "checkedCount": 100,
+  "checkedIds": [
+    263823,
+    263824,
+    263914,
+    264023,
+    264092,
+    264094,
+    264095,
+    264096,
+    264097,
+    264105,
+    264106,
+    264107,
+    264336,
+    264355,
+    264356,
+    264529,
+    264565,
+    264663,
+    264664,
+    264665,
+    264666,
+    264851,
+    264852,
+    264853,
+    264936,
+    264939,
+    264954,
+    264955,
+    264956,
+    264958,
+    264961,
+    265074,
+    265075,
+    265076,
+    265077,
+    265395,
+    265472,
+    265474,
+    265475,
+    265476,
+    265477,
+    265478,
+    265485,
+    265486,
+    265499,
+    265500,
+    266041,
+    266336,
+    266368,
+    266369,
+    266370,
+    266371,
+    266372,
+    266433,
+    266437,
+    266438,
+    266529,
+    266629,
+    266717,
+    266718,
+    266734,
+    266735,
+    266759,
+    266870,
+    266871,
+    266874,
+    266969,
+    267078,
+    267548,
+    267549,
+    267616,
+    268031,
+    268032,
+    268033,
+    268034,
+    268035,
+    268053,
+    268329,
+    268330,
+    268331,
+    268332,
+    268333,
+    268334,
+    268338,
+    268340,
+    268373,
+    268374,
+    268375,
+    268376,
+    268377,
+    268378,
+    268379,
+    268522,
+    268523,
+    268524,
+    268561,
+    268676,
+    268677,
+    268742,
+    268844
+  ],
+  "checkedRange": {
+    "firstId": 263823,
+    "lastId": 268844
+  },
+  "profileSnapshotVerifiedCount": 40,
+  "profileDescriptionAvailableCount": 28,
+  "modifiedIds": [
+    264355,
+    264529,
+    265395,
+    265472,
+    265474,
+    265475,
+    265476,
+    265477,
+    265478,
+    267616,
+    268677
+  ],
+  "source": {
+    "name": "AniList GraphQL 角色资料快照（本地缓存 + 2026-10-22 实时补查）",
+    "fetchedAt": "2026-10-13T02:54:30.877Z",
+    "voiceMediaFetchedAt": "2026-10-13T03:04:01.115Z",
+    "records": [
+      {
+        "id": 263823,
+        "url": "https://anilist.co/character/263823"
+      },
+      {
+        "id": 263824,
+        "url": "https://anilist.co/character/263824"
+      },
+      {
+        "id": 264023,
+        "url": "https://anilist.co/character/264023"
+      },
+      {
+        "id": 264105,
+        "url": "https://anilist.co/character/264105"
+      },
+      {
+        "id": 264106,
+        "url": "https://anilist.co/character/264106"
+      },
+      {
+        "id": 264107,
+        "url": "https://anilist.co/character/264107"
+      },
+      {
+        "id": 266368,
+        "url": "https://anilist.co/character/266368"
+      },
+      {
+        "id": 266529,
+        "url": "https://anilist.co/character/266529"
+      },
+      {
+        "id": 266717,
+        "url": "https://anilist.co/character/266717"
+      },
+      {
+        "id": 266718,
+        "url": "https://anilist.co/character/266718"
+      },
+      {
+        "id": 266734,
+        "url": "https://anilist.co/character/266734"
+      },
+      {
+        "id": 266735,
+        "url": "https://anilist.co/character/266735"
+      },
+      {
+        "id": 266759,
+        "url": "https://anilist.co/character/266759"
+      },
+      {
+        "id": 266870,
+        "url": "https://anilist.co/character/266870"
+      },
+      {
+        "id": 266871,
+        "url": "https://anilist.co/character/266871"
+      },
+      {
+        "id": 266874,
+        "url": "https://anilist.co/character/266874"
+      },
+      {
+        "id": 267548,
+        "url": "https://anilist.co/character/267548"
+      },
+      {
+        "id": 267549,
+        "url": "https://anilist.co/character/267549"
+      },
+      {
+        "id": 268031,
+        "url": "https://anilist.co/character/268031"
+      },
+      {
+        "id": 268032,
+        "url": "https://anilist.co/character/268032"
+      },
+      {
+        "id": 268033,
+        "url": "https://anilist.co/character/268033"
+      },
+      {
+        "id": 268034,
+        "url": "https://anilist.co/character/268034"
+      },
+      {
+        "id": 268035,
+        "url": "https://anilist.co/character/268035"
+      },
+      {
+        "id": 268053,
+        "url": "https://anilist.co/character/268053"
+      },
+      {
+        "id": 268329,
+        "url": "https://anilist.co/character/268329"
+      },
+      {
+        "id": 268330,
+        "url": "https://anilist.co/character/268330"
+      },
+      {
+        "id": 268331,
+        "url": "https://anilist.co/character/268331"
+      },
+      {
+        "id": 268332,
+        "url": "https://anilist.co/character/268332"
+      },
+      {
+        "id": 268333,
+        "url": "https://anilist.co/character/268333"
+      },
+      {
+        "id": 268334,
+        "url": "https://anilist.co/character/268334"
+      },
+      {
+        "id": 268338,
+        "url": "https://anilist.co/character/268338"
+      },
+      {
+        "id": 268340,
+        "url": "https://anilist.co/character/268340"
+      },
+      {
+        "id": 268373,
+        "url": "https://anilist.co/character/268373"
+      },
+      {
+        "id": 268374,
+        "url": "https://anilist.co/character/268374"
+      },
+      {
+        "id": 268375,
+        "url": "https://anilist.co/character/268375"
+      },
+      {
+        "id": 268376,
+        "url": "https://anilist.co/character/268376"
+      },
+      {
+        "id": 268377,
+        "url": "https://anilist.co/character/268377"
+      },
+      {
+        "id": 268378,
+        "url": "https://anilist.co/character/268378"
+      },
+      {
+        "id": 268379,
+        "url": "https://anilist.co/character/268379"
+      },
+      {
+        "id": 268561,
+        "url": "https://anilist.co/character/268561"
+      }
+    ],
+    "round23FetchedAt": "2026-10-22T08:12:12.134Z",
+    "voiceMediaRound23": "2026-10-22T08:13:37.394Z",
+    "voiceStaffSearchRound23B": "2026-10-22T08:42:40.218Z"
+  },
+  "pendingExternalVerificationIds": [],
+  "pendingProfileNoDescriptionIds": [
+    264095,
+    264096,
+    264097,
+    264936,
+    264939,
+    264954,
+    264955,
+    264956,
+    264958,
+    264961,
+    265074,
+    265075,
+    265076,
+    265077,
+    265472,
+    266368,
+    266717,
+    266718,
+    266734,
+    266735,
+    266871,
+    266874,
+    267078,
+    268330,
+    268331,
+    268332,
+    268338,
+    268379,
+    268844
+  ],
+  "pendingShortDescriptionIds": [
+    264355,
+    264356,
+    267616
+  ],
+  "pendingDescriptionQualityIds": [
+    265395,
+    265472
+  ],
+  "pendingTraitVerificationIds": [
+    264851,
+    265395,
+    265485,
+    265486,
+    266759,
+    267548,
+    267549,
+    267616,
+    268032,
+    268033,
+    268034,
+    268379
+  ],
+  "pendingExactGenericTraitIds": [
+    264356,
+    265395,
+    265472,
+    265474,
+    265475,
+    265478,
+    265485,
+    265486,
+    267616
+  ],
+  "pendingVoiceActorIds": [],
+  "pendingVoiceActorImageIds": [],
+  "pendingVisualVerificationIds": [],
+  "pendingColorTraitKeywordIds": [],
+  "pendingImageMismatchIds": [],
+  "localFollowup": {
+    "nicknameIssuesResolved": [
+      264355,
+      264529,
+      265395,
+      265472,
+      265474,
+      265475,
+      265476,
+      265477,
+      265478,
+      267616,
+      268677
+    ],
+    "voiceActorImagesRepaired": [],
+    "characterImagesRefreshed": [],
+    "factualCorrections": [],
+    "searchIndex": {
+      "rebuilt": true,
+      "formulaVerified": true,
+      "descriptionExcluded": true,
+      "mismatchCountBeforeRebuild": 11
+    },
+    "localExportsRegenerated": true,
+    "nicknameAudit": {
+      "checkedCount": 100,
+      "duplicateCountAfter": 0,
+      "canonicalAniListNameMissingAfter": 0
+    },
+    "anilistProfilesRefetched": [
+      263823,
+      263824,
+      264023,
+      264105,
+      264106,
+      264107,
+      266368,
+      266529,
+      266717,
+      266718,
+      266734,
+      266735,
+      266759,
+      266870,
+      266871,
+      266874,
+      267548,
+      267549,
+      268031,
+      268032,
+      268033,
+      268034,
+      268035,
+      268053,
+      268329,
+      268330,
+      268331,
+      268332,
+      268333,
+      268334,
+      268338,
+      268340,
+      268373,
+      268374,
+      268375,
+      268376,
+      268377,
+      268378,
+      268379,
+      268561
+    ],
+    "anilistDescriptionsAvailable": [
+      263823,
+      263824,
+      264023,
+      264105,
+      264106,
+      264107,
+      266529,
+      266759,
+      266870,
+      267548,
+      267549,
+      268031,
+      268032,
+      268033,
+      268034,
+      268035,
+      268053,
+      268329,
+      268333,
+      268334,
+      268340,
+      268373,
+      268374,
+      268375,
+      268376,
+      268377,
+      268378,
+      268561
+    ],
+    "officialAliasesAdded": [],
+    "officialCharacterImagesRefreshed": [],
+    "searchIndexRebuiltForProfileChanges": [],
+    "voiceActorImagesFetchedRound23": [],
+    "voiceActorImagesFetchedAt": "2026-10-22T08:13:37.394Z",
+    "visualImageAuditRound23": {
+      "checkedAt": "2026-10-22T08:32:24.195Z",
+      "source": "逐张检查 AniList 官方角色头像；图片与角色链接见 visual-audit-round23/manifest.json",
+      "reviewedIds": [
+        264355,
+        264356,
+        264529,
+        265472,
+        265474,
+        265475,
+        265476,
+        265477,
+        265478,
+        266041,
+        267616,
+        268676,
+        268677
+      ],
+      "colorCorrections": [
+        {
+          "id": 264356,
+          "name": "艾菲尔",
+          "anime": "黑之召唤师",
+          "beforeColorTraits": [
+            "银发",
+            "蓝瞳"
+          ],
+          "afterColorTraits": [
+            "金发",
+            "绿瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b264356-ZZo7OqbQbUv4.png"
+        },
+        {
+          "id": 265474,
+          "name": "紫云寺万里",
+          "anime": "紫云寺家的兄弟姐妹",
+          "beforeColorTraits": [
+            "蓝发",
+            "蓝色眼瞳"
+          ],
+          "afterColorTraits": [
+            "棕发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b265474-zWGezE02Q2kE.jpg"
+        },
+        {
+          "id": 265475,
+          "name": "紫云寺南",
+          "anime": "紫云寺家的兄弟姐妹",
+          "beforeColorTraits": [
+            "金发",
+            "蓝色眼瞳"
+          ],
+          "afterColorTraits": [
+            "绿发",
+            "绿瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b265475-A1yGBv4tsaQH.jpg"
+        },
+        {
+          "id": 265476,
+          "name": "紫云寺清叶",
+          "anime": "紫云寺家的兄弟姐妹",
+          "beforeColorTraits": [
+            "棕发",
+            "绿色眼瞳"
+          ],
+          "afterColorTraits": [
+            "蓝发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b265476-lnpa14dVeTYw.jpg"
+        },
+        {
+          "id": 265477,
+          "name": "紫云寺言乃",
+          "anime": "紫云寺家的兄弟姐妹",
+          "beforeColorTraits": [
+            "银发",
+            "蓝色眼瞳"
+          ],
+          "afterColorTraits": [
+            "黑发",
+            "棕瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b265477-dpv82JkWkS9b.png"
+        },
+        {
+          "id": 265478,
+          "name": "紫云寺讴歌",
+          "anime": "紫云寺家的兄弟姐妹",
+          "beforeColorTraits": [
+            "粉发",
+            "紫色眼瞳"
+          ],
+          "afterColorTraits": [
+            "紫发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b265478-MjTkx63ZWnMP.jpg"
+        },
+        {
+          "id": 266041,
+          "name": "喜多郁代",
+          "anime": "孤独摇滚",
+          "beforeColorTraits": [
+            "红发",
+            "红瞳"
+          ],
+          "afterColorTraits": [
+            "红发",
+            "金瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b266041-1HKgjJGP2MmM.png"
+        },
+        {
+          "id": 267616,
+          "name": "芙蕾雅",
+          "anime": "处刑少女的生存之道",
+          "beforeColorTraits": [
+            "黑发",
+            "黑瞳"
+          ],
+          "afterColorTraits": [
+            "红发",
+            "灰瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b267616-aGaiksiQysWL.jpg"
+        },
+        {
+          "id": 268676,
+          "name": "和栗薰子",
+          "anime": "薰香花朵凛然绽放",
+          "beforeColorTraits": [
+            "黑发",
+            "紫色眼瞳"
+          ],
+          "afterColorTraits": [
+            "黑发",
+            "蓝瞳"
+          ],
+          "image": "https://s4.anilist.co/file/anilistcdn/character/large/b268676-aQmqvqj0DNoJ.png"
+        }
+      ],
+      "pendingIds": []
+    },
+    "factualCorrectionsRound23": [],
+    "voiceActorImagesResolvedFromAniListStaffRound23B": [],
+    "voiceActorStaffSearchRound23B": "2026-10-22T08:42:40.218Z",
+    "supabaseSyncRound23B": {
+      "verifiedAt": "2026-10-22T09:08:41.864Z",
+      "voiceActorImagesSynced": 0,
+      "characterIdsSynced": [],
+      "placeholderVoiceActorRemoved": false
+    }
+  },
+  "note": "角色图像已逐张目视复核；可辨认的颜色错误已修正，图片无法确认的记录继续待核。",
+  "scopeLimitations": [
+    "发色、瞳色没有逐图目视核验。",
+    "短简介、模板简介和泛化特征在缺少可靠事实来源时未改写。",
+    "本次只更新本地文件；Supabase 未同步，远端数据未回读。",
+    "AniList 实时接口仅未返回合成占位 ID 990000001；该记录继续标为待核。",
+    "AniList 未提供简介的角色仍需其他可靠人物资料来源；未根据作品简介推造人物传记。"
+  ],
+  "databaseSync": {
+    "syncedAt": null,
+    "syncedCount": 0,
+    "readbackVerified": false,
+    "status": "not_synced"
+  },
+  "syncAttempt": {
+    "attemptedThisTurn": false,
+    "reason": "本轮仅处理本地缓存与导出，没有向 Supabase 发起写入。"
+  }
+}
