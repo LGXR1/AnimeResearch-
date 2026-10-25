@@ -1,0 +1,699 @@
+{
+  "id": 21560,
+  "title": {
+    "romaji": "Berserk",
+    "english": "Berserk (2016)",
+    "native": "ベルセルク"
+  },
+  "synonyms": [],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2016,
+    "month": 7,
+    "day": 1
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Horror",
+    "Supernatural"
+  ],
+  "popularity": 77391,
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 422,
+        "name": {
+          "full": "Guts",
+          "native": "ガッツ",
+          "alternative": [
+            "The Black Swordsman",
+            "Hundred Man Slayer",
+            "Heartless Swordsman",
+            "Struggler",
+            "Kuroi Kenshi"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b422-XTaiTuvRohsV.png"
+        },
+        "description": "Guts is the protagonist of Berserk. He is a tall, muscular man that swings a huge sword called the Dragon Slayer, he has a prosthetic left forearm that has a magnetic grip that also conceals a cannon. Renowned as the \"Black Swordsman\", he is a former mercenary and branded wanderer who travels the world in a constant internal struggle between pursuing his own ends and protecting those dear to him.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 108553,
+          "name": {
+            "full": "Hiroaki Iwanaga",
+            "native": "岩永洋昭"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/13553.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 424,
+        "name": {
+          "full": "Griffith",
+          "native": "グリフィス",
+          "alternative": [
+            "The White Hawk",
+            "The Hawk of Light",
+            "Falcon of Darkness",
+            "The Absolute"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b424-Jfrsf8I7zBps.png"
+        },
+        "description": "Griffith was the founder and leader of the mercenary unit known as the Band of the Hawk, named for his helmet which was forged in the shape of a Hawk's head. \n\nExtraordinarily charismatic, intelligent, and handsome, his skill with his sabre and tactics gives him and his band the reputation of invincibility, making him the favored choice of the Midland King, who was locked in a century long war with the Empire of Chuder. Believing that he is destined for greater things than the average man, Griffith is willing to sacrifice everything for the dream of his own kingdom and only values others so far as they are useful to him. The one exception seems to be [Guts](https://anilist.co/character/422/Guts) and [Casca](https://anilist.co/character/423/Casca), both of whom he confides to in private moments. The source of his ambition is a Behelit given to him by a fortune teller she claimed was \"The Egg of the King,\" which could lead an average person to becoming King himself. \n\n~! Griffith eventually used the Behelit during the Eclipse, and sacrificed nearly the entire Band of the Hawk to become Femto, the fifth member of the God Hand !~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95079,
+          "name": {
+            "full": "Takahiro Sakurai",
+            "native": "櫻井孝宏"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 423,
+        "name": {
+          "full": "Casca",
+          "native": "キャスカ",
+          "alternative": [
+            "Elaine",
+            "Black Witch",
+            "Thousand Soldiers' Commander"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b423-AmVFCaJJOBsc.png"
+        },
+        "description": "Casca was the only female soldier in the original Band of the Hawk and is behind only to [Guts](https://anilist.co/character/422/Guts) and [Griffith](https://anilist.co/character/424/Griffith) in swordsmanship. Her ambivalent relationship to both of them makes her moody and capricious. Casca joins the Band of the Hawk after Griffith saves her from a sexual assault by a nobleman. \n\n~!After Griffith is imprisoned, she becomes the leader of the Band of the Hawk and, along with Guts, leads the mission to rescue Griffith.!~\n\n~!Upon arriving in Elfheim, [Schierke](https://anilist.co/character/7864/Schierke) and [Farnese](https://anilist.co/character/7857/de-Vandimion-Farnese) take it upon themselves to dive into Casca's mind and restore her mental state. They manage to get the old Casca back but at a price of her still not being able to see Guts, without reliving the Eclipse!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 108551,
+          "name": {
+            "full": "Toa Yukinari",
+            "native": "行成とあ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n108551-R4Ro9eFab55G.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 36309,
+        "name": {
+          "full": "Narrator",
+          "native": "ナレーター",
+          "alternative": [
+            "Katarite (語り手)",
+            "Narration (ナレーション)",
+            "Narrador",
+            "Rozprávač",
+            "Vyprávěč",
+            "Dış ses",
+            "Narratore",
+            "Pripovjedač",
+            "Narradora",
+            "Рассказчик",
+            "Người dẫn chuyện",
+            "Tagapagsalaysay",
+            "내레이터",
+            "Narratore",
+            "Erzählperson",
+            "מספר",
+            "Narrátor",
+            "讲述人",
+            "راوي",
+            "Forteller",
+            "Berättare",
+            "Αφηγητής",
+            "Narrate"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+        },
+        "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95357,
+          "name": {
+            "full": "Unshou Ishizuka",
+            "native": "石塚運昇"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 5060,
+        "name": {
+          "full": "Puck",
+          "native": "パック",
+          "alternative": [
+            "Justin Bailey",
+            "Opop Daundaun Lefryte"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5060-PWn2hc2nBy9J.jpg"
+        },
+        "description": "A wind spirit from Elfhelm, a utopia on the island Skellig in the Western Sea. Elves in Berserk can only be seen by the open-minded; the devoutly religious cannot see Puck at all, though he can play with their face unbeknownst to them.\n\nPuck can secrete a powder from his wings to quickly heal wounds and can emit a bright flash to blind enemies. On occasion, he also resorts to his \"Bloody Needle\" attack, tossing a spiny object resembling a seed pod at someone. It deals no injury, but is painful enough to prompt most victims to cry out. Puck was the first to join [Guts](https://anilist.co/character/422/Guts)'s journey, and is starting to show a strange attachment to the Behelit Guts took upon his battle with the Count.\n\nPuck often serves as comic relief along with [Isidro](https://anilist.co/character/7859/Isidro). The two are frequently drawn in an exaggerated manner. He is very angry when he ever is mixed up with a Pixie or Fairy quick to state the difference. He also seems to have a brother-sister relationship with the newest comic relief character the female elf [Evarella](https://anilist.co/character/7866/Evarella).",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95579,
+          "name": {
+            "full": "Kaoru Mizuhara",
+            "native": "水原薫"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95579-5ZsNx7VamyqG.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 7857,
+        "name": {
+          "full": "Farnese de Vandimion",
+          "native": "ファルネーゼ・ド・ヴァンディミオン",
+          "alternative": [
+            "The Devil Child of Vandimion",
+            "Wandering Princess",
+            "Farny"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7857-W7WpcGlw2aeH.png"
+        },
+        "description": "Farnese is a noblewoman who led the Holy See's ceremonial guard, the Holy Iron Chain Knights. Since this position has been traditionally held by a woman, Farnese was appointed during her stay at the convent she was sent to by her father, Federico Vandimion.   A bit of a pyromaniac (and possibly a pyrophiliac), Farnese's habit of maniacally burning things she didn't like, along with her lack of empathy due to her poor upbringing provoked her to hunt down and burn supposed witches and pagans at the stake. This fueled a secret sadistic pleasure that she constantly tried to deny.   She and Serpico left their Holy See positions after her faith was shattered during the devastation of Albion and the events surrounding Griffith's reincarnation. She then chose to follow Guts in hopes of learning more about the world and has changed into a more sympathetic human being. Since then, Farnese has begun to study witchcraft under Schierke's tutelage. Farnese also seems to have developed a crush on Guts which becomes evident in chapter 287 and 288 of the manga.  Farnese is primarily Casca's care taker and thus rarely involves herself in battles. She and Casca both received enchanted chainmail shirts made of silver as well as a silver short sword for protection against creatures from the astral plane. During Ganishka's raid on Vritanis, she also received a trio of snake-like homonculi created by Schierke from thorn vines which Farnese remote controls with a vine ring.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102263,
+          "name": {
+            "full": "Youko Hikasa",
+            "native": "日笠陽子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 7864,
+        "name": {
+          "full": "Schierke",
+          "native": "シールケ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7864-GYAwPktajKmt.png"
+        },
+        "description": "Schierke is a young witch-in-training, a disciple of the witch Flora. She is accompanied by an elf, Evarella. She aided Guts's group with a troll infestation in the nearby village Enoch, where she showed how powerful magic can be in Berserk.   After a series of events, Schierke was forced to leave her home and Flora behind forever when they faced an attack Griffith ordered. Schierke, having lived a sheltered life, doesn't like the Human world or the Holy See's religion, but she finds life outside bearable due to her companions.   Her magic skills and knowledge of the world are impressive for a child her age. One of her most used and handiest spells is the ability to hypnotize or temporarily desensitize others. But due to her youth, she tends to exhibit dangerous overzealousness. Her ability to sense \"Od\" (life force or spirit energy) means she can sense the power, intent, and alignment of all creatures and artifacts.  As she sees Isidro as an incompetent monkey, there is some friction between the two, which frequently lends itself to comic situations. Though she initially couldn't stand Guts, Schierke has developed a slight infatuation with him and both now share a father-daughter relationship. When Sonia gave her an offer to join the Band of the Hawk, Schierke thought of Guts before declining. Their journey together constantly brings them into even deeper understanding.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95061,
+          "name": {
+            "full": "Chiwa Saitou",
+            "native": "斎藤千和"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-ncYFfzPJDoQV.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 7881,
+        "name": {
+          "full": "The Skull Knight",
+          "native": "髑髏の騎士",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7881-I6JM88ItFsnS.png"
+        },
+        "description": "The Skull Knight is one of the most mysterious and prolific characters introduced in Berserk, a towering warrior dressed in full armor whose ornaments, especially his helmet, are shaped as parts of a human skeleton, hence his moniker, who rides a massive, ghostly black horse. Though ominous and macabre, he is an enemy of the Godhand and its acolytes, hunting down Apostles and devouring their Behelits; especially bitter is his rivalry with [Zodd the Immortal](https://anilist.co/character/600/Zodd), whom he was often showed to overwhelm with ease.\n\nHe wields a powerful sword that, when stuck down his throat, becomes a terrible, Behelit-coated blade capable of slashing rifts through reality itself, thus allowing the Skull Knight to move freely around the world or even between different dimensions.\n\nThis enigmatic knight saved [Guts](https://anilist.co/character/422/Guts) in more than one occasion, notably during the infamous Eclipse which saw [Griffith](https://anilist.co/character/424/Griffith) become a member of the Hand of God or when [Slan](https://anilist.co/character/605/Slan) almost slaughtered him, though he never explained why, simply declaring that the Struggler (the way he calls Guts) has to keep following his fate. He was the wearer of the Berserker's Armor, and knew the witch [Flora](https://anilist.co/character/29388/Flora). During the duel between Griffith and [Ganishka](https://anilist.co/character/7878/Ganishka) he suddenly appeared out of thin air through a dimensional rift, trying to land a fatal blow on the Hawk, only to see it diverted on the writhing body of the Kushan Emperor.\n\n~!It is heavily speculated that, during his life as a mortal, the Skull Knight was in fact Gaiseric, the warlord that unified the Midland and became its first Emperor, notorious for his helmet whose shape was that of a human skull and whose ambitions 'prompted God to send four Angels' (most likely the four members of the Hand of God) to punish him.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95146,
+          "name": {
+            "full": "Akio Ootsuka",
+            "native": "大塚明夫"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95146-T6IEmqXW3xUN.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 5059,
+        "name": {
+          "full": "Serpico",
+          "native": "セルピコ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5059-wWVkoasyfJNk.png"
+        },
+        "description": "Serpico is Farnese's companion and unbeknownst to her, her paternal half-brother. During his time with the Holy See, Serpico was Herald for the Holy Iron Chain Knights.   When aggressive, Serpico belies his meek appearance and is comparable to a fox due to his shrewd observation and speed with a rapier.   Despite Farnese's childhood abuse and her forcing him to burn his own mother at the stake, he cares deeply for his half-sister. Serpico was her servant since she found him beaten on a snowy street over a decade ago.   Serpico's relationship with Guts has forever been plagued with animosity, due in large part to the dangers that inevitably surround Guts and anyone he takes into his Band. After a duel with Guts in the underground pillars of Vritannis, Guts spared his life. Their bond rekindled, and Serpico has since learned to trust Guts to protect Farnese when he can not.   Serpico uses two items blessed by the wind spirit Sylph in order to battle with tolerance alongside Guts: a rapier that can generate razor sharp gusts of wind; and a cloak that constantly generates a swirling vortex around its wearer which can deflect projectiles, assist in jumping, and slow falls from great heights.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102288,
+          "name": {
+            "full": "Kazuyuki Okitsu",
+            "native": "興津和幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102288-xqcBKreDyZYN.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 600,
+        "name": {
+          "full": "Zodd",
+          "native": "ゾッド",
+          "alternative": [
+            "Nosferatu Zodd (不死のゾッド)",
+            "Zodd the Immortal"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b600-nLLiWsK0GcVI.png"
+        },
+        "description": "Also known as Nosferatu Zodd, or Zodd the Immortal, an apostle who has lived for three centuries fighting countless battles in search of worthy opponents. Zodd has the ability to transform from his human-like form into a more menacing creature, resembling that of a minotaur with the face and tail of a tiger along with a pair of bat-like wings that he can retract and grow at will. Zodd first encountered and defeated Guts and Griffith during a castle raid, ultimately deciding to spare them upon realizing Griffith's crimson behelit and Guts' inevitable fate. Zodd has had a long standing rivalry with Skull Knight, along with Guts as he increasingly became a more capable opponent.   ~!Zodd eventually found the \"Ultimate Strong One\" in Griffith, instantly being defeated by the Hawk of Light within a dream and costing him his left horn. Afterwards, his search for his ultimate opponent was over, he swore his servitude to Griffith in the new Band of the Hawk. He serves the new Band in many of the same roles that Guts served in the old one, including being Griffith's right hand man, most trusted confidant, and strongest warrior. Zodd's ability to fly made possible both Griffith's rescue of Charlotte and Guts' attack on Ganishka at Vritannis. As both a reminder of his defeat and to make the fact he is a replacement of Guts in this new band of Hawk very clear, his left horn has never regrown like Guts' missing right eye. His reason for joining the band of Hawk is much like Guts' also mainly because he was defeated by Griffith.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 7859,
+        "name": {
+          "full": "Isidro",
+          "native": "イシドロ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7859-ThWoSQUjRlKU.png"
+        },
+        "description": "A runaway brat turned thief, Isidro dreams of becoming a great swordsman, which made him tag along with Guts. Despite his lack of strength and skill, he utilizes his small size and agility to his advantage, along with various tricks and tools. He has a great ego and plans to become the very best; he initially planned to \"observe\" Guts and steal his \"techniques\" to surpass him. But he slowly starts to realize the inconceivable difference in strength between him and Guts, but that there may even be ways for him to become a formidable warrior...  His most important role however, is probably to serve as a comic relief along with Puck.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95356,
+          "name": {
+            "full": "Hiro Shimono",
+            "native": "下野紘"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95356-PFaZRlI9oJ56.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 598,
+        "name": {
+          "full": "Rickert",
+          "native": "リッケルト",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b598-2r2X1nQmr3qP.jpg"
+        },
+        "description": "Rickert was the youngest in the Band of the Hawk, being merely a child. \n\n~!Now, he is one of the few surviving members of the original Band of the Hawk. After the Eclipse (which he wasn't present at), he lived with [Godot](https://anilist.co/character/6848/Godot), the smith who created [Guts](https://anilist.co/character/422/Guts)' Dragon Slayer, and became his smith apprentice. After Godo's death he takes care of [Erica](https://anilist.co/character/73441/Erica).!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101634,
+          "name": {
+            "full": "Minako Kotobuki",
+            "native": "寿美菜子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101634-IiPW117K0ybp.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 26394,
+        "name": {
+          "full": "Luca",
+          "native": "ルカ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b26394-jH9uzZ3ViryM.jpg"
+        },
+        "description": "Luca is the leader of a band of prostitutes at Albion. Red-haired and fiercely loyal to her charges, she is romantically linked to the Holy Iron Chain Knight Jerome. When Jerome gave her a necklace of pearls, she divided them evenly among her girls, believing that they could only survive the hysteria of the heretic hunts by eliminating any cause for jealousy.\n\nLuca took in the wayward [Casca](https://anilist.co/character/423/Casca), calling the mute former Hawk commander Elaine. She covered Casca's face in bandages, pretending that Casca had contracted syphilis.\n\n~!When the cowardly prostitute [Nina](https://anilist.co/character/55205/Nina) visited the nearby goat worshiping cult, and she threatened to turn Luca over to the worshipers, Luca smacked and then spanked the blond haired girl, causing her to submit. When Pepe, one of her prostitutes, was accused of heresy, Luca came to her defense. Luca and Pepe were saved from arrest by a timely appearance by [Guts](https://anilist.co/character/422/Guts). When Guts discovered that Luca had seen Casca, Luca attempted to reunite him with Casca, but she could not since Nina had taken the mute girl to the cult. When Casca and Nina were taken to Mozgus, Luca bribed a guard to allow her to enter the monastery. While Guts was looking for Casca, Luca released Nina from her imprisonment. After Isidro challenged Mozgus to release Casca, one of the priest's torturers attacked, causing Luca to fall. Nina grabbed Luca and tried to hold her, but Luca let go. Luca was spared injury because she was caught by the Skull Knight. She then met the Egg of the Perfect World, who explained his purpose to her. When Albion was being overrun by monsters, Luca hid Nina in a barrel and herself in as well. As a result, Luca and Nina survived the carnage.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95099,
+          "name": {
+            "full": "Miyuki Sawashiro",
+            "native": "沢城みゆき"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 6848,
+        "name": {
+          "full": "Godot",
+          "native": "ゴドー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b6848-dRqp8RccRLZN.png"
+        },
+        "description": "The blacksmith who makes and repairs [Guts](https://anilist.co/character/422/Guts)' sword.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 104224,
+          "name": {
+            "full": "Takashi Inagaki",
+            "native": "稲垣隆史"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/9224.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 7879,
+        "name": {
+          "full": "Silat",
+          "native": "シラット",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7879-nleONLu3YqUL.png"
+        },
+        "description": "The Prince of the exiled Bākiraka Clan, Silat serves Emperor Ganishka, hoping to restore the honor of his exiled clan. While only a human, Silat is still a powerful fighter and employs agility and acrobatic skills as well as various exotic weapons. However, after witnessing the Emperor's cruel and demonic nature, he seems to ponder his allegiance.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95513,
+          "name": {
+            "full": "Yuuichi Nakamura",
+            "native": "中村悠一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 32488,
+        "name": {
+          "full": "Mozgus",
+          "native": "モズグス",
+          "alternative": [
+            "Bloody Scripture Mozgus",
+            "The Great Angel",
+            "Bloodthirsty Mozgus"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b32488-hvSdwbROg4qc.jpg"
+        },
+        "description": "Mozgus is one of the chief Inquisitors of the Holy See, traveling the world with his group of torturers, sent to root out a violent cult of heretics in the city of St. Albion. He&#039;s the main antagonist in the Tower of Conviction, hindering with his excessive religious zeal Guts&#039; efforts in saving Casca. His symbol are four torture wheels, embodying his willingness to use torture as a way to cleanse people from evil.  \n\n",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95113,
+          "name": {
+            "full": "Rikiya Koyama",
+            "native": "小山力也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 73441,
+        "name": {
+          "full": "Erica",
+          "native": "エリカ",
+          "alternative": [
+            "Erika"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73441-wRNZJLhF4tCB.png"
+        },
+        "description": "Adopted daughter of [Godot](https://anilist.co/character/6848/Godot). She was in a wagon being chased by trolls when the Band of the Hawk and [Irvine](https://anilist.co/character/7871/Irvine) saved her.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101996,
+          "name": {
+            "full": "Ayana Taketatsu",
+            "native": "竹達彩奈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101996-PcY5iaq5LHgd.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 29388,
+        "name": {
+          "full": "Flora",
+          "native": "フローラ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b29388-QmxbfQlqCXMx.jpg"
+        },
+        "description": "Flora is Schierke&#039;s mistress, who taught her in the arts of magic and Od (spirit energy, life force, etc). In addition to being a powerful witch of indeterminate age, she is an old friend of the Skull Knight, whom she sees as &quot;still having a human heart.&quot; This would imply that Flora knew the Skull Knight before he took on his current ghoulish form.     Prior to her living in the woods outside Enoch village, she wandered the land, helping people with her magic until the Holy See&#039;s influence drove her into seclusion.    Flora helped Guts&#039; company, at the request of the Skull Knight, by putting magical seals on Guts&#039; and Casca&#039;s brands, stopping evil spirits from being attracted to them. She also provided them with much needed magical equipments in their fight with the trolls. Flora told Schierke that Guts is the man with whom her destiny is bound, though Schierke did not believe at first.     ~!She dies willingly in a fire when Griffith sends apostles to hunt down any witches powerful enough to oppose him, but not before securing an escape route for Schierke and Guts&#039; companions to flee the destruction of her home.!~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 7882,
+        "name": {
+          "full": "Azan",
+          "native": "アザン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b7882-pTZRwQA6onyf.png"
+        },
+        "description": "Once a member of the Holy Iron Chain Knights, Azan is a chivalrous and religious knight, but eventually left the Holy Knights and became a wandering Knight. After ending up on the same ship as Guts and company, he have even helped Isidro in his training.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95025,
+          "name": {
+            "full": "Hiroki Yasumoto",
+            "native": "安元洋貴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95025-LGHr4VufmfCc.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 55205,
+        "name": {
+          "full": "Nina",
+          "native": "ニーナ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b55205-sdqY1n1LSyqZ.jpg"
+        },
+        "description": "A young, reckless prostitute. Nina is a member of Luca's group of travelling prostitutes. During her time at Albion, she dated Joachim, a young refugee. At one time she was a member of a heretic cult group, who held orgies in a cave, worshipping the Goddess of Fire. During her ordeal in the cave, Nina contracted a disease similar to tuberculosis.  Soon after the Tower of Conviction was destroyed, she apologised to Luca for all the trouble she had caused, but soon left afterwards with Joachim, who survived the fall from the cliffs.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106659,
+          "name": {
+            "full": "Natsumi Takamori",
+            "native": "高森奈津美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106659-3LfNtHDY3P0Z.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 250403,
+        "name": {
+          "full": "Jerome",
+          "native": "ジェローム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95183,
+          "name": {
+            "full": "Daisuke Hirakawa",
+            "native": "平川大輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95183-5C42gbrKIP7L.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 250404,
+        "name": {
+          "full": "Tapasa",
+          "native": "ターバサ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95045,
+          "name": {
+            "full": "Kouji Ishii",
+            "native": "石井康嗣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95045-xvCXMLXwg44s.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

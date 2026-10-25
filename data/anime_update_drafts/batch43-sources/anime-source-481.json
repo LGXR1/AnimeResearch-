@@ -1,0 +1,1793 @@
+{
+  "id": 481,
+  "title": {
+    "romaji": "Yu☆Gi☆Oh! Duel Monsters",
+    "english": "Yu-Gi-Oh!",
+    "native": "遊☆戯☆王　デュエルモンスターズ"
+  },
+  "synonyms": [
+    "Yugioh",
+    "Yu-Gi-Oh!: Duel Monsters",
+    "Yugioh: Duel Monsters",
+    "遊戲王－怪獸之決鬥"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2000,
+    "month": 4,
+    "day": 18
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Adventure",
+    "Fantasy"
+  ],
+  "popularity": 86942,
+  "characters": [
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 36309,
+        "name": {
+          "full": "Narrator",
+          "native": "ナレーター",
+          "alternative": [
+            "Katarite (語り手)",
+            "Narration (ナレーション)",
+            "Narrador",
+            "Rozprávač",
+            "Vyprávěč",
+            "Dış ses",
+            "Narratore",
+            "Pripovjedač",
+            "Narradora",
+            "Рассказчик",
+            "Người dẫn chuyện",
+            "Tagapagsalaysay",
+            "내레이터",
+            "Narratore",
+            "Erzählperson",
+            "מספר",
+            "Narrátor",
+            "讲述人",
+            "راوي",
+            "Forteller",
+            "Berättare",
+            "Αφηγητής",
+            "Narrate"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+        },
+        "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95703,
+          "name": {
+            "full": "Masanori Ikeda",
+            "native": "政典池田"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/703.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 1375,
+        "name": {
+          "full": "Yami Yuugi",
+          "native": "闇遊戯",
+          "alternative": [
+            "Yami no Yuugi (闇の遊戯)",
+            "Yami Yugi",
+            "The Other Yugi",
+            "The Other Me",
+            "Pharaoh",
+            "Nameless Pharaoh"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1375-J4lAw8j1ICi1.png"
+        },
+        "description": "__Height:__ 153 cm (5')\n\nYami no Yuugi is the spirit residing in the Milennium Puzzle. After a historic battle against Zorc Necrophadius, he had sealed his soul along with Zorc in order to save Egypt. However, he had lost his memory as a result.\n\n3,000 (5,000 in the dub) years later, [Yuugi Mutou](https://anilist.co/character/1374/Mutou-Yuugi), after trying to solve the puzzle for eight years, awakens Yami no Yuugi from his slumber, although Yugi does not realize this until much later in the story, more specifically, Duelist Kingdom.\n\nAt the end of Duelist Kingdom, he asks Yugi to help him recover his memories and Yugi agrees to help him.  \n\n~!In Battle City, Atem discovers who he was in the past: He was a Pharaoh ruling in Ancient Egypt.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95628,
+          "name": {
+            "full": "Shunsuke Kazama",
+            "native": "風間俊介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95628-Y5Nk5wBGz9J9.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 1378,
+        "name": {
+          "full": "Seto Kaiba",
+          "native": "海馬瀬人",
+          "alternative": [
+            "Kaiba Boy"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1378-PVWGuLucDP44.jpg"
+        },
+        "description": "__Height:__ 186 cm\n\nSeto Kaiba is the majority shareholder and President of his own multi-national company, KaibaCorp, who aims to become the world's greatest player of the Duel Monsters card game. To accomplish this goal, he must defeat his arch-rival, [Yugi Muto](https://anilist.co/character/1374/Mutou-Yuugi).\n\nHe is largely considered an anti-hero, as his motives are usually ego-centric, but in several cases towards a good cause. Among one of the recurring plots in Yu-Gi-Oh! Duel Monsters is Seto Kaiba being forced to deal with either people adversely affected by Gozaburo Kaiba's actions wanting to take their revenge on Seto Kaiba, or people from within KaibaCorp attempting to take over the corporation.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95591,
+          "name": {
+            "full": "Kenjirou Tsuda",
+            "native": "津田健次郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 1377,
+        "name": {
+          "full": "Katsuya Jonouchi",
+          "native": "城之内克也",
+          "alternative": [
+            "Joey Wheeler",
+            "Jounouchi Katsuya"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1377-QpO3YtEaEMa4.jpg"
+        },
+        "description": "Jonouchi is [Yugi](https://anilist.co/character/1374)&#039;s best friend. At the beginning Jonouchi used to bully Yugi but after being saved by Yugi from an even more of a dangerous thug, Jonouchi has been pals with Yugi ever since. Jonouchi likes to hang around with Yugi and learns a lot of new games. He&#039;s not always confident that he&#039;ll win his games but he always tries his best. He enters the Duelist Kingdom Tournament to get money for his sister, [Shizuka](https://anilist.co/character/5989), who is losing her eyesight. He wants to use the money for her surgery.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95064,
+          "name": {
+            "full": "Hiroki Takahashi",
+            "native": "高橋広樹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95064-CcZ7bbDPvJ4v.jpg"
+          }
+        },
+        {
+          "id": 109909,
+          "name": {
+            "full": "Mariko Nagahama",
+            "native": "満里子長浜"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14909.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 1374,
+        "name": {
+          "full": "Yuugi Mutou",
+          "native": "武藤遊戯",
+          "alternative": [
+            "Yugi Muto",
+            "King Of Games",
+            "Yugi Boy"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1374-dZVmlraKNPp3.jpg"
+        },
+        "description": "__Height:__ 153 cm (5'0\")\n\nYugi Mutou is the main protagonist of Yu-Gi-Oh! Duel Monsters. At the start of the series, he is a shy boy who is really short for his age, something he always gets teased about in school. For this reason, he was always alone. However, his grandfather gives him the Millennium Puzzle prior to the story's time line and Yugi is told that if he solved it, one wish of his could be granted. He manages to solve the Millennium Puzzle and he asks for friends and his wish is immediately granted. He also awakens the spirit residing in the Puzzle, but Yugi is not aware of this until much later in the story.  When Yugi does become aware, he and the spirit become very close, with him calling the spirit 'Mou Hitori No Boku' - The Other Me - and the spirit calling him 'Aibou' - Partner. Yugi then becomes a vessel for the spirit and he is told that his duty is to help the spirit find his lost memories. With the help of his friends, he helps the Pharaoh regain his memories while overcoming the most difficult of situations.  \n\nYugi is mostly seen living with his grandfather, since his parents are mostly on business trips. His mother, Ashita, makes a very brief appearance in the beginning of the second season, when Yugi argues with the spirit. Yugi is also very gifted as a duelist with the Duel Monsters card game, thanks to the expertise and upbringing of his grandfather.   Yugi's deck, throughout the series, was really his grandfather's, since his grandfather gave him his deck in episode 1 to battle [Seto Kaiba](https://anilist.co/character/1378/Kaiba-Seto). However, in the last season - Pharaoh's Memory - he uses his own deck, which contains magicians, spellcasters, and machines.  Yugi is also seen as a 'Ladies' Man' in the series, according to the KCGP filler. However, from the beginning, it has been obvious that he has a crush on [Anzu Mazaki](https://anilist.co/character/1379/Mazaki-Anzu), his childhood friend.   \n\n__Yu-Gi-Oh! GX:__ Yugi Mutou makes several apperances in Yu-Gi-Oh! GX. He is first seen as a grown adult in the first episode, whom [Judai Yuki](https://anilist.co/character/1300/Yuki-Judai) runs into on his way to the entrance exam at Duel Academy. Yugi then hands him Winged Kuriboh and walks away. There are also several mentions of him throughout the series. ~!In the final episodes, 179 - 180, he appears again to Judai Yuki, telling him that he has come to help Judai regain what he had lost in the last couple of years, which was the ability to have fun while having a duel. The older Yugi then helps Judai Yuki reach a time period in between Battle City and Doma Arc. A completely different Yugi runs into him and he is challenged to a duel, which he readily accepts. Yugi then notices Judai's strong magical powers as does the spirit, so he lets the spirit take over the duel.!~ \n\n__Yu-Gi-Oh! The Movie - Bonds Beyond Time:__ Yugi is one the main characters in this 10th Anniversary special of Yu-Gi-Oh! He, along with Judai Yuki of Yu-Gi-Oh! GX and [Yusei Fudou](https://anilist.co/character/9700/Fudou-Yusei) of Yu-Gi-Oh! 5D's, battle Paradox in order to save Duel Monsters and the existence of time itself. ~!In one of the 5D's openings, it is shown that Yugi had lost his grandfather's life during one of Paradox's assaults on his time frame and he is extremely distressed over the fact.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95628,
+          "name": {
+            "full": "Shunsuke Kazama",
+            "native": "風間俊介"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95628-Y5Nk5wBGz9J9.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 1489,
+        "name": {
+          "full": "Yami Bakura",
+          "native": "闇の獏良",
+          "alternative": [
+            "Tozoku Ou",
+            "King of Thieves",
+            "Thief Bakura",
+            "Spirit of the Ring",
+            "Dark Bakura",
+            "Dark Master"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1489-dsJraGhhWx4y.png"
+        },
+        "description": "The strange dark spirit that lies inside the Millennium Ring. He searches for all the other Millennium items. Although the purpose is unknown, it&#039;s obvious that the intent is pure evil. When in full possession of Bakura&#039;s body, he is capable of invoking many magical powers of the Shadow Realm into this world. The spirit has linked itself through the Millennium Ring to Bakura and is able to return itself to Bakura even if discarded or lost.    He&#039;s the main arch enemy of Yami Yugi. He holds a 5,000 year old grudge with Yami Yugi which he never reveals.    Yami Bakura uses an occult deck focused around Fiends &amp; Zombies to unleash powerful dark magics.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95678,
+          "name": {
+            "full": "Rica Matsumoto",
+            "native": "松本梨香"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95678-U0iKFbhteND6.png"
+          }
+        },
+        {
+          "id": 96066,
+          "name": {
+            "full": "You Inoue",
+            "native": "井上瑤"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1066.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 5287,
+        "name": {
+          "full": "Marik Ishtar",
+          "native": "マリク・イシュタール",
+          "alternative": [
+            "Namu",
+            "Malik"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/5287.jpg"
+        },
+        "description": "The holder of the Millennium Rod. Marik's family has guarded the tomb of the pharaoh for generations. He attempts to obtain the three God Cards through his secret organization, GHOULS, and become Pharaoh himself. Marik seeks to send the Pharaoh's soul into the darkness in which he had to spend his childhood.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95694,
+          "name": {
+            "full": "Tetsuya Iwanaga",
+            "native": "岩永哲哉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95694-jZqfhOJ54AqZ.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 1379,
+        "name": {
+          "full": "Anzu Mazaki",
+          "native": "真崎杏子",
+          "alternative": [
+            "Téa Gardner"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1379-9rgYwHTOpv0x.png"
+        },
+        "description": "Anzu is the childhood friend of [Yugi Mutou](https://anilist.co/character/1374/Mutou-Yuugi). She becomes a good friend to [Katsuya Jonouchi](https://anilist.co/character/1377/Jonouchi-Katsuya) and [Hiroto Honda](https://anilist.co/character/1380/Honda-Hiroto), though she is not fond of them at first. \n\nIn the first series anime, Miho Nosaka is also one of Anzu's friends. Anzu does not usually play games with Yugi and his friends, though she is once shown beating Jonouchi. In the manga, especially in the beginning, Anzu has a spunky, tomboyish personality, and in the first chapter, frightens Honda and Jonouchi into leaving the room after they bully Yugi. Anzu possesses a very kind-hearted, strong-willed, and supportive personality. In the Duel Monsters anime, she and Honda, are basically cheerleaders for Yugi and Jonouchi whenever they duel, but she has proven herself adept at dueling as well, and usually keeps up with the going-ons of a duel. She is more feminine, polite, and has a stronger sense of faith and friendship for her group of friends, often serving as the mother/sister figure for the boys. She is known among fans of the Duel Monsters English anime for her \"friendship speeches\".  \n\nAnzu is athletic and holds jobs to save money in order to attend a dance school in New York City. In the beginning of the series, she is revealed to be working at \"Burger World\". By Volume 4 in the manga, Anzu is fired from that job for punching a customer who had pinched her buttocks. She gets a job at KaibaCorp afterwards and encounters her friends at KaibaLand. In the Toei anime, Anzu, Honda, and Miho work at Burger World, with Miho and Honda working to support Anzu. Once Burger World closes, Honda and Miho work for a beef bowl restaurant. In the opening scenes of the 1999 film Yugi and his friends discover that she works at \"Duel Monsters Center,\" a Duel Monsters parlor. She already knows Shōgo Aoyama, a regular of the parlor and Yugi's neighbor.  While responding to a fan mail asking him why Yugi and Anzu are not in a romantic relationship, Takahashi stated that the relationship between Anzu and both Yugis is \"pretty much a love triangle.\" He added that Yugi and Anzu \"always\" act in a \"very careful\" manner in front of one another, so they cannot admit their feelings for one another. \n\nAnzu's first Deck is a Fairy Deck. It focuses on Light-Attribute Fairy monsters, and spells to enhance them. Her second Deck is a Spellcaster Deck. Almost all the cards are devoted to the Spellcaster theme, like Fire Sorcerer, Maha Vailo and the Dark Magician Girl because of her one-sided love with both Yugis. She duels once in the manga and three times during the course of the second anime series. During the Virtual World arc, she wields a deck that parallels Yugi's Spellcaster deck, albelit with a more feminine touch.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107670,
+          "name": {
+            "full": "Maki Saitou",
+            "native": "齊藤真紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12670.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 5991,
+        "name": {
+          "full": "Pegasus Crawford",
+          "native": "ペガサス・ジェイ・クロフォード",
+          "alternative": [
+            "Maximillion Pegasus"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/5991.jpg"
+        },
+        "description": "Pegasus is the American creator of the Duel Monsters game and an early antagonist. He possesses the Millennium Eye, and tries to take over the Kaiba Corporation so that he could use its Solid Vision technology to see his departed lover, Cyndia (Cecilia in the English)",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107668,
+          "name": {
+            "full": "Takasugi Jay Jirou",
+            "native": "二郎高杉Jay"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12668.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 5994,
+        "name": {
+          "full": "Mai Kujaku",
+          "native": "孔雀舞",
+          "alternative": [
+            "Mai Valentine"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/5994.jpg"
+        },
+        "description": "__Height:__ 175cm\n\nMai Valentine, known as Mai Kujaku in the manga and Japanese anime, is a character in Yu-Gi-Oh! second series anime and Yu-Gi-Oh! manga    &quot;Kujaku&quot; means &quot;peahen&quot;. Her name in the English anime is a pun of &quot;My Valentine&quot;.     At the beginning of the series, Mai is a self-absorbed woman who is only set out for prize money, personal satisfaction and power.    Mai is extremely lonely and convinces herself she doesn&#039;t need friends at first. At one point she believed her &quot;Harpie Lady&quot; cards were the closest she would have to friends.    Mai&#039;s selfish attitude and outlook on life continues until she meets and finds meaning with Yugi Muto and his friends (of course, she also has a soft spot for Joey). After she meets them, she seems to start caring more for her friends and the deeper meanings of the game. Later on in the series, Mai&#039;s wins become empty and her feelings of loneliness return. However, as the series continues she appears to regain her self-esteem and pride as a true duelist.    In the Japanese version; Mai typically uses a quite informal manner of speech. She commonly omits honorifics when speaking with others, but addresses Anzu and Shizuka as &quot;-chan.&quot; She uses the informal and potentially condescending &quot;anta&quot;, a contraction of the more formal &quot;anata&quot; (similar to the English &quot;hun&quot; from &quot;honey&quot;). She uses the personal pronoun &quot;atakushi&quot;, which tends to be a more elegant, if not older, form of self-reference.",
+        "gender": "Female",
+        "age": "24"
+      },
+      "voiceActors": [
+        {
+          "id": 96501,
+          "name": {
+            "full": "Haruhi Nanao",
+            "native": "七緒はるひ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96501-YdNWqvlQGpIE.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 1488,
+        "name": {
+          "full": "Ryou Bakura",
+          "native": "獏良了",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1488-kxvTwOy1EvEP.png"
+        },
+        "description": "Bakura Ryou is a classmate and friend of [Yugi Muto](https://anilist.co/character/1374/Mutou-Yuugi). [Yami Bakura](https://anilist.co/character/1489/Yami-Bakura) is his other self, released from the power of the Millennium Ring. The two rarely directly converse. Unlike the close, cooperative relationship between Yugi Muto and [Yami Yugi](https://anilist.co/character/1375/Yami-Yuugi), Yami Bakura is a malignant entity that completely suppresses Bakura's spirit when he takes him over.\n",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95678,
+          "name": {
+            "full": "Rica Matsumoto",
+            "native": "松本梨香"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95678-U0iKFbhteND6.png"
+          }
+        },
+        {
+          "id": 96066,
+          "name": {
+            "full": "You Inoue",
+            "native": "井上瑤"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1066.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 330657,
+        "name": {
+          "full": "Black Magician Girl",
+          "native": "ブラック・マジシャン・ガール",
+          "alternative": [
+            "Dark Magician Girl"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330657-yhImUVwuXP3A.png"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95935,
+          "name": {
+            "full": "Fuyuka Ooura",
+            "native": "大浦冬華"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/935.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 5993,
+        "name": {
+          "full": "Ishizu Ishtar",
+          "native": "イシズ・イシュタール",
+          "alternative": [
+            "Isis"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/5993.jpg"
+        },
+        "description": "Malik's sister, she lures Yugi and Kaiba into Duel Monster battles, using the Pharaoh's memories and the God Cards as bait. In an attempt to save Malik, she enters the semi-finals of the Battle City, diguising herself as the mysterious eighth duelist.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95425,
+          "name": {
+            "full": "Sumi Shimamoto",
+            "native": "島本須美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95425-wEl09IWpLxIA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 5990,
+        "name": {
+          "full": "Ryuuji Otogi",
+          "native": "御伽龍児",
+          "alternative": [
+            "Duke Devlin"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5990-Kl7Uv7ILmT6L.png"
+        },
+        "description": "Otogi is the creator of Dungeon Dice Monsters. He opens a rival game shop across the street from the Kame Game Shop. Yugi and Otogi become friends when Yugi bested Otogi at his own game, despite not knowing the rules beforehand.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95293,
+          "name": {
+            "full": "Ryou Naitou",
+            "native": "内藤玲"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95293-WMdddQNhHOt1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 16524,
+        "name": {
+          "full": "Mana",
+          "native": "マナ",
+          "alternative": [
+            "Black Magician Girl"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/16524.jpg"
+        },
+        "description": "Mana is a childhood friend of Atem and Mahad and studies magic under Mahad as his apprentice. She is a light-hearted, open, playful and caring girl, who shares a deep bond between her master and Atem.  Mana is a young magician in training at the Dawn of the Duel arc's beginning who serves the priest Mahad. In the Manga she first appeared before Mahad after hiding in the pots outside of the palace. Mahad sensed her there and told her to come out. After popping out of the pot, she exclaimed how she'd do her training later and Mahad responded by telling her she'd never become a sorcerer that way. After Mahad's death, she swears to become a great magician and eventually is able to summon her own Ka, the \"Dark Magician Girl\".  Later when Yugi's gang discovers her, Yugi explains about the card game back home commenting on her reference to Dark Magician Girl. Mana later helps them to defeat Zorc. She is one of the only two people in the Millennium world who could see Yugi and his friends.  A single panel in the manga shows that she inherited the Millennium Ring after Zorc was defeated.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107351,
+          "name": {
+            "full": "Yuki Nakao",
+            "native": "中尾友紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12351.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 1380,
+        "name": {
+          "full": "Hiroto Honda",
+          "native": "本田ヒロト",
+          "alternative": [
+            "Tristan Taylor"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b1380-ZVPdeDAoizoK.png"
+        },
+        "description": "Another one of Yugi's friends. Honda used to bully Yugi with Jounouchi. He never understood Yugi&#039;s fashination with games but he was able to understand the feelings of others. Honda always helps Jounouchi or Yugi when they are in need. He&#039;s a friend to the end.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95829,
+          "name": {
+            "full": "Takayuki Kondou",
+            "native": "近藤孝行"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/829.jpg"
+          }
+        },
+        {
+          "id": 101136,
+          "name": {
+            "full": "Hidehiro Kikuchi",
+            "native": "菊池英博"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6136.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 1381,
+        "name": {
+          "full": "Mokuba Kaiba",
+          "native": "海馬モクバ",
+          "alternative": [
+            "Mokuba Boy"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/1381.jpg"
+        },
+        "description": "Kaiba&#039;s little brother. Mokuba is always following Seto where ever he goes. He has a very strong bond with his brother and has all of his faith within Seto as well. Mokuba helps run Seto&#039;s company and will do what ever it takes to please his brother.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95015,
+          "name": {
+            "full": "Junko Takeuchi",
+            "native": "竹内順子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95015-QwI9K4FRe4Cq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 16202,
+        "name": {
+          "full": "Sugoroku Mutou",
+          "native": "武藤双六",
+          "alternative": [
+            "Solomon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/16202.jpg"
+        },
+        "description": "Sugoroku Mutou is the grandfather of Yugi Mutou, who gave him his famous Millennium Puzzle as a present, which he had recovered from the tomb of the Pharaoh Atem in his youth. He owns the Kame Game shop, where Yugi and his friends get several of the games they play, and he taught Katsuya Jonouchi how to play the Duel Monsters card game. His fondness for games is even evident in his name: &quot;Sugoroku&quot; is a Japanese game similar to Backgammon.",
+        "gender": "Male",
+        "age": "72"
+      },
+      "voiceActors": [
+        {
+          "id": 95861,
+          "name": {
+            "full": "Tadashi Miyazawa",
+            "native": "宮澤正"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/861.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 26722,
+        "name": {
+          "full": "Mahado",
+          "native": "マハード",
+          "alternative": [
+            "Black Magician (ブラック・マジシャン)",
+            "Dark Magician"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/26722.jpg"
+        },
+        "description": "Mahado was one of the Six Priests of Pharaoh Atem. He was the original owner of the Millennium Ring, and the most powerful Spell-Caster in Ancient Egypt.     -Absolute Anime",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100536,
+          "name": {
+            "full": "Kazunari Kojima",
+            "native": "小嶋一成"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100536-hzujcaLCQXCP.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 12707,
+        "name": {
+          "full": "Kisara",
+          "native": "キサラ",
+          "alternative": [
+            "Blue-Eyes White Dragon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/12707.jpg"
+        },
+        "description": "Name: Kisara \t  Age: Looks about 17 years old \t  Hair: Light blue-white  Eyes: Bright blue  Height: 5&#039;3&quot;    Kisara was a mysterious white-skinned foreigner girl who had the power of a white dragon sealed inside her. The only way the power could be released was if someone killed her. Kisara was saved by Priest Seth from a group of villagers who tried to kill her because they believed she was bad luck. When Priest Seth found out about the power inside Kisara, he refused to kill her out of his love for the girl. However, his father did it for him. When Seth almost got killed protecting her, Kisara&#039;s power was evoked and her soul transferred into the Blue-Eyes White Dragon.    Source: Absolute Anime",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95941,
+          "name": {
+            "full": "Rie Nakagawa",
+            "native": "中川里江"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/941.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 5989,
+        "name": {
+          "full": "Shizuka Kawai",
+          "native": "川井静香",
+          "alternative": [
+            "Serenity Wheeler"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b5989-KmzTsy89XEvf.png"
+        },
+        "description": "Shizuka is Katsuya Jonouchi&#039;s little sister. In the manga and the Duel Monsters anime, Jonouchi enters a Duel Monsters tournament hoping to win and use the prize money for Shizuka&#039;s eye surgery. Shizuka sees Mai Kujaku as a role model.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96413,
+          "name": {
+            "full": "Mika Sakenobe",
+            "native": "鮭延未可"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96413-eVNgc1iTZ7BR.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 5995,
+        "name": {
+          "full": "Shadi",
+          "native": "シャーディー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/5995.jpg"
+        },
+        "description": "Shadi is the guardian of the tomb, the original resting place of the seven Millennium Items. He is the reincarnation of one of the Pharaoh's six priests 3,000 years ago. Because he was killed by Bakura at least five years ago, he is actually a ghost whenever he appears in the anime series. Shadi carries the Millennium Scales and the Millennium Ankh.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95286,
+          "name": {
+            "full": "Nozomu Sasaki",
+            "native": "佐々木望"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95286-1RlrFeFKx3jn.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 12145,
+        "name": {
+          "full": "Varon",
+          "native": "ヴァロン",
+          "alternative": [
+            "Valon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/12145.jpg"
+        },
+        "description": "Varon is one of Dartz's three musketeers. He does not seem to get along with Amelda, as evidenced by the one scene where they actually converse, and end up arguing. He and Rafael seem to get along fine, however. He is responsible for leading Mai Kujaku to Dartz.  Varon has saved Mai multiple times in the anime and hinted to her that he has feelings for her.  In the English dub, Varon has a cockney accent.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95706,
+          "name": {
+            "full": "Takeshi Maeda",
+            "native": "前田剛"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95706-uUD2vTtkdpdi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 12144,
+        "name": {
+          "full": "Dartz",
+          "native": "ダーツ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/12144.jpg"
+        },
+        "description": "Dartz is the main antagonist in the Waking the Dragons story arc of the second series anime. He and this arc do not exist in the manga. He was the last king of the city of Atlantis and his history is tied to that of the lost city.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107364,
+          "name": {
+            "full": "Yuu Emao",
+            "native": "絵麻緒ゆう"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12364.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 6316,
+        "name": {
+          "full": "Keith Howard",
+          "native": "キース・ハワード",
+          "alternative": [
+            "Bandit Keith (バンデット・キース)",
+            "The K Man"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/6316.jpg"
+        },
+        "description": "A skilled Duel Monsters player and American champion, &quot;Bandit&quot; Keith Howard will win by any means necessary.    He uses a Machine Deck with his most powerful monster being the Revolver Dragon (Barrel Dragon in the English version).",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107363,
+          "name": {
+            "full": "Komada Hajime",
+            "native": "駒田一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12363.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 13300,
+        "name": {
+          "full": "Seto",
+          "native": "セト",
+          "alternative": [
+            "Priest",
+            "Seth"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/13300.jpg"
+        },
+        "description": "Seto is a priest who is a cousin of Pharaoh Atem. Seto Kaiba is the reincarnation of Priest Seto. Seto is named after the Egyptian God Set. Priest Seto and Pharaoh Atem were friends and rivals who helped each other by testing their skills (just like Yugi and Kaiba did); as children their relationship was Atem as a prince and Seto as a priest on training.  Source: http://yugioh.wikia.com/wiki/Priest_Seto",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95591,
+          "name": {
+            "full": "Kenjirou Tsuda",
+            "native": "津田健次郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95591-WQGdD3ubbeoq.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 38451,
+        "name": {
+          "full": "Ryota Kajiki",
+          "native": "梶木漁太",
+          "alternative": [
+            "Mako Tsunami"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/38451.jpg"
+        },
+        "description": "ocean-themed duelist appearing both in the Duelist Kingdom and Battle City arcs. Introduced in the Duelist Kingdom arc, he duels Yugi Mutou and is defeated. In Battle City he duels Katsuya Jounouchi, and his backstory is further expanded. It is revealed that Kajiki's father was a great fisherman that was lost at sea. In the English anime, Mako believes his father is alive and duels to raise money to fund a trip to search for him; in the Japanese anime, Kajiki duels in his father's memory. Jounouchi defeats Ryota in their duel. (Wiki)",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95087,
+          "name": {
+            "full": "Daisuke Namikawa",
+            "native": "浪川大輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95087-6dlBBbejsPyg.png"
+          }
+        },
+        {
+          "id": 107351,
+          "name": {
+            "full": "Yuki Nakao",
+            "native": "中尾友紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/12351.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 12143,
+        "name": {
+          "full": "Raphael",
+          "native": "ラフェール",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/12143.jpg"
+        },
+        "description": "Rafael is the strongest of Doma's Swordsmen and the most mysterious in his strategy. He is the only swordsman that defeated his target once. He is also the only swordsman not to lose his soul after he was defeated by his target. He and Alister were responsible for bringing Rex Raptor and Weevil Underwood to Dartz. He is also one of few characters to ever defeat Yami Yugi in a Duel.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95409,
+          "name": {
+            "full": "Yoshihisa Kawahara",
+            "native": "川原慶久"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95409-87S6L0u8gQNf.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 10815,
+        "name": {
+          "full": "Tetsu Ushio",
+          "native": "牛尾哲",
+          "alternative": [
+            "Trudge"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/10815.jpg"
+        },
+        "description": "Ushio is a security staff who observes residents around the Satellite area. He has a violent character but holds high esteem as a duelist on his muscles.    If you remember, Ushio appears once in the first episode of [Yu Gi Oh series 0]. He is a bad character who acts as a student guard and tries to get money from the students for his protection service. Yugi used to be one of his victims.    He has starred in all Yu-Gi-Oh animes so far expect for Capsule Monsters. In the first series he bullied Yugi in one episode, and the same event was featured as a flashback in Yu-Gi-Oh Duel Monsters. In Yu-Gi-Oh Duel Monsters GX he was mentioned as being one of Trueman&#039;s victims and in Yu-Gi-Oh 5D&#039;s he plays a big supporting role.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 43066,
+        "name": {
+          "full": "Rishid Ishtar",
+          "native": "リシド・イシュタール",
+          "alternative": [
+            "Odion"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/43066.jpg"
+        },
+        "description": "Marik&#039;s adoptive brother and the second-in-command of the Ghouls. Abandoned as a child, Rishid was taken in by Marik&#039;s mother prior to his birth. However, his father never accepted him as a suitable heir and treated him as a servant rather than a son. When Marik was born, his father told him to take care of his younger brother and Rishid stood by Marik&#039;s side, even when he turned to a life of evil.      ~!Marik had Rishid pose as him during Battle City, but he fell unconscious. He later awakened during the final battle between Dark Marik and Yugi, and helped Marik overcome his dark alter-ego and take back control of his body. !~    (Source: Wikipedia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105611,
+          "name": {
+            "full": "KONTA",
+            "native": "コンタ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105611-Wde6KrAfnKKc.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 56935,
+        "name": {
+          "full": "Rebecca Hopkins",
+          "native": "レベッカ・ホプキンス",
+          "alternative": [
+            "Becky",
+            "Rebecca Hawkins"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/56935.jpg"
+        },
+        "description": "Rebecca Hawkins, known as Rebecca Hopkins in the Japanese version, is a character in the Yu-Gi-Oh! second series anime. Rebecca is, in the original Japanese version, the American Duel Monsters champion. In the English anime, she is the Intercontinental Champion. Rebecca is also the granddaughter of Arthur Hawkins. She is 12 years old in the original Japanese anime. In the English anime, she is 8.  She is voiced by Kaori Tagami in the Japanese version and Kerry Williams in the English version.   Source - Wikipedia",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 111247,
+          "name": {
+            "full": "Kaori Tagami",
+            "native": "田上香織"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/16247.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 13295,
+        "name": {
+          "full": "Noa Kaiba",
+          "native": "海馬乃亜",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/13295.jpg"
+        },
+        "description": "Kaiba Noa was the son of Gosaburo, the wealthy owner of Kaiba Corporation. He was extremely intelligent, and, being a &quot;privileged child,&quot; he was able to participate in many activities, including sports. His life was, basically, perfect.    Then, tragedy struck. One day, as he was outside, a car came hurling out of nowhere and hit him. He was immediately sent to the hospital, but despite Gosaburo's constant badgering of the doctors, Noa passed away.    Source: Tiny Tenshi",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95904,
+          "name": {
+            "full": "Chisa Yokoyama",
+            "native": "横山智佐"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95904-Hwjlrw4tCDMl.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 13298,
+        "name": {
+          "full": "Insector Haga",
+          "native": "インセクター羽蛾",
+          "alternative": [
+            "Weevil Underwood"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b13298-nP0fPePSGubF.jpg"
+        },
+        "description": "Insector Haga is the Japanese champion at Duel Monsters (Magic and Wizards in the original manga), hailing from East Japan.\n\n He is a cunning trickster who has no qualms about cheating or misconduct in or around his duels. Despite this, he is actually a very talented duelist who plays with a deck of Insect cards. Haga develops into a rival of [Yugi Mutou](https://anilist.co/character/1374/Yuugi-Mutou). He is jealous and adores insects, for his deck is mainly insect-type monsters and insect-related magic and trap cards.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95622,
+          "name": {
+            "full": "Urara Takano",
+            "native": "高乃麗"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95622-dTBTsrkei7v4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 13297,
+        "name": {
+          "full": "Dinosaur Ryuuzaki",
+          "native": "ダイナソー竜崎",
+          "alternative": [
+            "Rex Raptor"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/13297.jpg"
+        },
+        "description": "Ryuzaki is the runner-up in the Japanese Duel Monsters tournament. He is good friends with the champion Insector Haga, and tends to use cards related to dinosaurs (thus his nickname &quot;Dinosaur&quot;) due to his love of dinosaurs. In the English anime, he is named after the tyrannosaurus rex and the Raptor, two types of dinosaurs.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95513,
+          "name": {
+            "full": "Yuuichi Nakamura",
+            "native": "中村悠一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95513-up9ZDuocHgRs.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 69843,
+        "name": {
+          "full": "Siegfried von Schroider",
+          "native": "ジークフリード・フォン・シュレイダー",
+          "alternative": [
+            "Sieg Lloyd",
+            "Zigfried"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/69843.jpg"
+        },
+        "description": "Sieg Lloyd, true name Siegfried von Schroider, is the CEO of Schroeder Corp, a rival of KaibaCorp. As the champion of Europe, he participates in Kaiba's KC Grand Championship. He seeks to take down KaibaCorp as revenge because he feels that Seto Kaiba stole his plans for holographic Dueling technology.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100535,
+          "name": {
+            "full": "Eisuke Tsuda",
+            "native": "津田英佑"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/5535.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 51571,
+        "name": {
+          "full": "Mei",
+          "native": "迷宮兄弟・迷",
+          "alternative": [
+            "Para"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/51571.jpg"
+        },
+        "description": "Para, known in the manga and Japanese version as Mei (迷), is the older of the two Paradox Brothers. He and his brother duel as a tag team, and appear to duel the protagonists in both Yu-Gi-Oh! and Yu-Gi-Oh! GX. Para has the kanji for half of the word \"Labyrinth\" on his head, with his brother's head having the other half.  He and his brother were hired by Maximillion Pegasus to work as Eliminators in his Duelist Kingdom tournament. The two duel as a team, with their \"Labyrinth Wall\" card enabling them to change the playing field to resemble a complicated underground labyrinth, making gameplay more akin to a board game than a card game. The two guard an underground area of the island.  (Source: Yu-Gi-Oh!Wikia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95685,
+          "name": {
+            "full": "Takashi Matsuyama",
+            "native": "松山鷹志"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95685-hBzFgdWzq43x.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 12146,
+        "name": {
+          "full": "Amelda",
+          "native": "アメルダ",
+          "alternative": [
+            "Alister"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b12146-uEDM07U0RR5G.jpg"
+        },
+        "description": "Alister, known in Japan as Amelda, is one of the main antagonists in the Waking the Dragons (or Doma) story arc of the Yu-Gi-Oh! second series anime, which is known as Yu-Gi-Oh! Duel Monsters in Asia. Alister is voiced by Yukinara Iemura in the Japanese version and by Ted Lewis in the English dub. He does not exist in the manga. His dub name was based on Aleister Crowley, the British occultist who created the Unicursal Hexagram, the symbol used for The Seal of Orichalcos. The obscurity of this fact is most likely what helped it slip past the censors.    Alister often quarrels with Valon over whose target is stronger. Alister also bought over half of Seto Kaiba's company, but it's unclear whether he used Pegasus's money or money from the Paradius corporation.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 110915,
+          "name": {
+            "full": "Yukishige Iemura",
+            "native": "幸成 家村"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/15915.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 29315,
+        "name": {
+          "full": "Bobasa",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/29315.jpg"
+        },
+        "description": "Bobasa is a comic relief and a member of an Egyptian cult that protects the Millennium Items. He has the Scales and the Key.   ~!In the manga he is revealed to actually be an alternate persona of Shadi.  In the anime he is his own character and is hinted to be a genie.  There he helps Yugi and his friends discover the tomb that houses the Pharaoh's name.!~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96452,
+          "name": {
+            "full": "Yuu Mizushima",
+            "native": "水島裕"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96452-8CGpwJxc9MJ6.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 51573,
+        "name": {
+          "full": "Kyuu",
+          "native": "迷宮兄弟・宮",
+          "alternative": [
+            "Dox"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/51573.jpg"
+        },
+        "description": "Dox, known in the manga and Japanese version as Kyuu (宮), is the younger of the two Paradox Brothers. He and his brother duel as a tag team, and appear to duel the protagonists in both Yu-Gi-Oh! and Yu-Gi-Oh! GX. Dox has the kanji for half of the word \"Labyrinth\" on his head, with his brother's head having the other half.  He and his brother were hired by Maximillion Pegasus to work as Eliminators in his Duelist Kingdom tournament. The two duel as a team, with their \"Labyrinth Wall\" card enabling them to change the playing field to resemble a complicated underground labyrinth, making game-play more akin to a board game than a card game. The two guard an underground area of the island.  (Source: Yu-Gi-Oh!Wikia).",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 109643,
+          "name": {
+            "full": "Jin Nishimura",
+            "native": "西村仁"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14643.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 70323,
+        "name": {
+          "full": "Vivian Wong",
+          "native": "ヴィヴィアン・ウォン ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/70323.jpg"
+        },
+        "description": "Vivian Wong is the Duel Monsters Asian Champion. She participates in Kaiba's KC Grand Championship. She is very whiny, hoping to get what she wants by obscure means. She is an avid fan of both Yugi and Kaiba to the point of obsession, especially Yugi, whom she hopes to turn him into her love slave.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95060,
+          "name": {
+            "full": "Rie Tanaka",
+            "native": "田中理恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95060-Rw0HZghxH1hF.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 23472,
+        "name": {
+          "full": "Konosuke Oshita",
+          "native": "大下幸之助",
+          "alternative": [
+            "Gansley",
+            "Deepsea Warrior",
+            "Big Five 1"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/23472.jpg"
+        },
+        "description": "Gansley, known as Konosuke Oshita in the Japanese version, is the former vice-president of KaibaCorp and the leader as well as the founder of the Big Five.   Gansley is obsessed with business, and as such refers to his monsters as employees. In the Japanese version, he quotes various warlords and philosophers on how to build a successful army. In the English dub, he gives Yugi Muto advice on business.  In the Japanese version, Gansley knows of Yami Yugi's existence and refers to Yugi as Type-A and Yami Yugi as Type-B Yugi. In the English version, Gansley shows no knowledge of Yami Yugi.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 110917,
+          "name": {
+            "full": "Shintaro Sonooka",
+            "native": "新太郎園岡"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/15917.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 29255,
+        "name": {
+          "full": "Panik",
+          "native": null,
+          "alternative": [
+            "Shadow Player Killer (闇のプレーヤーキラー)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/29255.jpg"
+        },
+        "description": "Panik is a player eliminator hired by the Duelist Kingdom. He was defeated by Yami Yugi and his soul was sent to the Shadow Realm.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101807,
+          "name": {
+            "full": "Hari Kaneko",
+            "native": "はりいかねこ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/6807.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 34220,
+        "name": {
+          "full": "Karim",
+          "native": "カリム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/34220.jpg"
+        },
+        "description": "Karim is one of the six priests (guardians) that guarded Pharaoh Atem 3,000 years ago. He wields the Millenium Scales.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101058,
+          "name": {
+            "full": "Masahito Kawanago",
+            "native": "川中子雅人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101058-mQ6u2VxRjBD0.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 14208,
+        "name": {
+          "full": "Esper Roba",
+          "native": "エスパー絽場",
+          "alternative": [
+            "Espa Roba"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/14208.jpg"
+        },
+        "description": "__Height:__ 172 cm\n\n\"Esper\" Roba known in the English anime as Espa Roba, is a duelist who claims to have ESP. In reality he is a fraud who uses his younger brothers to spy on and relay back to him the cards in his opponent's hand, thus allowing him to 'predict' the opponent's strategies almost before they perform them.\n\nRoba is a young duelist who entered Battle City to uphold his reputation and protect his younger brothers. He is first shown defeating Rex Raptor and taking his \"Serpent Night Dragon\". Rex advises Joey Wheeler not to duel Roba on the grounds that his psychic abilities allow him to read all the cards in his hand. With an air of self-confidence, Joey accepts the duel and begins.  Although Roba initially gains an advantage due to the fact he knows what cards are in Joey's hand and on his field, Joey infers what is happening and attempts to confuse his watchers from above by putting the cards \"Skull Dice\" and \"Graceful Dice\" close to each other in order to confuse Roba. Mokuba Kaiba eventually discovers the source of Espa's \"psychic\" abilities in that his brothers spied upon Joey's hand from upon a high rise building. However, the brothers plead with Mokuba to let Roba continue with the duel, stating that he is a strong duelist despite his cheating ways. The psychic front was to build an impression of an undefeatable duelist and thus deflect any abuse that was usually heaped upon Roba and his brothers. To Mokuba, this situation paralleled his brotherly relationship with his older brother, Seto and he let Roba continue the duel. Due to this, Roba's psychic reputation is tarnished but he continues his duel with Jonouchi nevertheless.  Roba eventually Summoned \"Jinzo\", whose severely crippled Jonouchi's overall strategy. Finally, Jonouchi played \"Roulette Beetle\" (\"Roulette Spider\") which forced \"Jinzo\" to attack a random target on the field, Jinzo attacked Esper's \"Reflect Bounder\", who then reflected the assault back on \"Jinzo\", destroying them both and losing Roba the duel. Due to the Battle City regulations, Roba forfeited his rarest card, \"Jinzo\", to Joey upon his defeat and commented that he was ready to stand up for his brothers without cheating.  He makes a cameo in the Japanese epilogue to duel Mako Tsunami.  In Yu-Gi-Oh! 5D's, Esper Roba is listed as one of the players defeated by Mukuro Enjo.   From Yu-Gi-Oh wikia.",
+        "gender": "Male",
+        "age": "17"
+      },
+      "voiceActors": [
+        {
+          "id": 100537,
+          "name": {
+            "full": "Maiko Itou",
+            "native": "伊藤舞子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100537-ijTECz20ugIz.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 58297,
+        "name": {
+          "full": "Arthur Hopkins",
+          "native": "アーサー・ホプキンス ",
+          "alternative": [
+            "Arthur Hawkins"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/58297.jpg"
+        },
+        "description": "Arthur Hawkins, known as Arthur Hopkins in the Japanese anime, is the American best friend of Solomon Muto and the grandfather of Rebecca.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 111249,
+          "name": {
+            "full": "Odaka Sanryou",
+            "native": "三良小高"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/16249.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 59527,
+        "name": {
+          "full": "Isono",
+          "native": "磯野",
+          "alternative": [
+            "Roland"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/59527.jpg"
+        },
+        "description": "He seems to be Seto Kaiba's right-hand man and business adviser, as he appears later in the anime series to help Kaiba manage KaibaCorp.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95710,
+          "name": {
+            "full": "Masami Iwasaki",
+            "native": "岩崎征実"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95710-FJIApacylT8A.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 65919,
+        "name": {
+          "full": "Chris",
+          "native": "クリス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65919-AZVHKhSiBjDE.png"
+        },
+        "description": "Chris is the daughter of Dartz and the granddaughter of Ironheart. She was the princess of Atlantis.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95050,
+          "name": {
+            "full": "Chieko Higuchi",
+            "native": "樋口智恵子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/50.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 70319,
+        "name": {
+          "full": "Leon Wilson",
+          "native": "レオン・ウィルソン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/70319.jpg"
+        },
+        "description": "Leon is a very famous duelist who has won many tournaments. Since he was young Leon has always been fond of fairy tales and even wrote a letter to Maximillion Pegasus, requesting that he make Fairytale Cards. He has created a very powerful deck as a result. Leon has also always admired Yugi, and aspired to one day duel against him.   ~!During his duel against Yugi in Kaiba's KC Grand Championship, he is revealed to be Siegfried von Schroider's younger brother, with his true name being Leonhart von Schroider. Leon's family never paid very much attention to him when he was a kid. They were always focused on preparing Siegfried to take over the company, and they would punish him for distracting Siegfried from his studies. Once learning of his strength in dueling and how good with computers his younger brother is, Siegfried finally acknowledged Leon and asked him to collaborate, to take down Kaiba corp.!~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 109089,
+          "name": {
+            "full": "Seiko Noguchi",
+            "native": "聖古野口"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/14089.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 70321,
+        "name": {
+          "full": "Aknadin",
+          "native": "アクナディン",
+          "alternative": [
+            "Akhenaden"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/70321.jpg"
+        },
+        "description": "Aknadin is the first owner of the Millennium Eye, back from Atem's time.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101937,
+          "name": {
+            "full": "Hitoshi Bifu",
+            "native": "上別府仁資"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101937-B98Q78lnxThc.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 252279,
+        "name": {
+          "full": "Pandora",
+          "native": "パンドラ",
+          "alternative": [
+            "Arkana"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b252279-QouGCr4ADdLW.png"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95160,
+          "name": {
+            "full": "Takehito Koyasu",
+            "native": "子安武人"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95160-jWevcH7BmfE1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 19410,
+        "name": {
+          "full": "Gozaburo Kaiba",
+          "native": "海馬剛三郎",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b19410-5AWMnGMiFco2.png"
+        },
+        "description": "Gozaburo was the original founder and CEO of Kaiba Corporation, which at that time was a successful arms manufacturer. \n\nHe was also a world famous chess champion, which is how [Seto](https://anilist.co/character/1378/Kaiba-Seto) and [Mokuba](https://anilist.co/character/1381/Kaiba-Mokuba) heard of him at their orphanage. When Gozaburo visited, Seto challenged him to a game of chess, telling Gozaburo that if he refused, he would tell the press he was scared of a little kid. Gozaburo, confident he would not be beaten by a child, agreed to a single game, with Seto stating the stipulation that if he wins, Gozaburo will agree to adopt him and his brother. In the manga, Seto cheated. In the anime, Seto had spent time studying Gozaburo's strategies and how to overcome them, and thus defeated him. Gozaburo had to keep his end of the bargain.\n\nHowever, he was a cruel father to Seto, forcing him to spend all his time studying and forgoing any of the joy or fun usually associated with childhood. At this point his biological son Noah died as well. With his intended Kaiba Corp heir digitized, Gozaburo decided to breed Seto as his heir, pushing him even further. \n\n~!It is revealed that Gozaburo instead digitized his mind like he did his son's, and hid inside the Kaiba Corp computer banks. When Noah lures Seto and others, including Yugi Muto, into the Virtual World, Gozaburo has Noah and the Big Five try and defeat Seto and company. When they fail one by one, Gozaburo reveals himself as the mastermind of the capture, and unveils his plan to digitize mankind, and rein as the king of the Virtual World (this is in the English anime: the Japanese Gozaburo plans to use missiles to destroy the world)..!~\n\n",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96682,
+          "name": {
+            "full": "Tetsuo Komura",
+            "native": "小村哲生"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1682.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 21252,
+        "name": {
+          "full": "Jean Claude Magnum",
+          "native": "ジョン・クロード・マグナム",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/21252.jpg"
+        },
+        "description": "A Hollywood actor who has starred in several Ninja Movies. He is the suitor and opponent of Mai Valentine, who challenged her to a duel for the right to marry her. He attempted to use Hollywood trickery to briefly kidnap Mai after he lost to her. His name is a reference to actor Jean-Claude Van Damme.    (Source:Yugioh wiki)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95936,
+          "name": {
+            "full": "Hozumi Gouda",
+            "native": "郷田ほづみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95936-cBkm9F8KgrRD.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 29322,
+        "name": {
+          "full": "Yami no Kamen",
+          "native": "闇の仮面",
+          "alternative": [
+            "Umbra",
+            "Mask Of Darkness"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/29322.jpg"
+        },
+        "description": "Umbra (Mask Of Darkness) is the tall and thin one with the black-colored, frowning mask on the left side of his face. Underneath his Rare Hunter hood, he has short blue hair.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95045,
+          "name": {
+            "full": "Kouji Ishii",
+            "native": "石井康嗣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95045-xvCXMLXwg44s.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 330556,
+        "name": {
+          "full": "Hikari no Kamen",
+          "native": "光の仮面",
+          "alternative": [
+            "Lumis",
+            "Mask of Light"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330556-oon2YeWW1ZiE.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 330557,
+        "name": {
+          "full": "Crocketts",
+          "native": "クロケッツ",
+          "alternative": [
+            "Mr. Crocketts",
+            "Croquet"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330557-xr8kgxTe8TB6.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 330558,
+        "name": {
+          "full": "Saruwatari",
+          "native": "猿渡",
+          "alternative": [
+            "Kemo"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b330558-Gb5WIrMjnaVz.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    }
+  ]
+}

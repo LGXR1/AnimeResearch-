@@ -1,0 +1,918 @@
+{
+  "id": 12413,
+  "title": {
+    "romaji": "Jormungand",
+    "english": "Jormungand",
+    "native": "ヨルムンガンド"
+  },
+  "synonyms": [],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2012,
+    "month": 4,
+    "day": 11
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "popularity": 90629,
+  "characters": [
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 36309,
+        "name": {
+          "full": "Narrator",
+          "native": "ナレーター",
+          "alternative": [
+            "Katarite (語り手)",
+            "Narration (ナレーション)",
+            "Narrador",
+            "Rozprávač",
+            "Vyprávěč",
+            "Dış ses",
+            "Narratore",
+            "Pripovjedač",
+            "Narradora",
+            "Рассказчик",
+            "Người dẫn chuyện",
+            "Tagapagsalaysay",
+            "내레이터",
+            "Narratore",
+            "Erzählperson",
+            "מספר",
+            "Narrátor",
+            "讲述人",
+            "راوي",
+            "Forteller",
+            "Berättare",
+            "Αφηγητής",
+            "Narrate"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+        },
+        "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96130,
+          "name": {
+            "full": "Shuichiro Moriyama",
+            "native": "森山周一郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96130-mSWbldVowFjT.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 33451,
+        "name": {
+          "full": "Koko Hekmatyar",
+          "native": "ココ・ヘクマティアル",
+          "alternative": [
+            "Princess"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b33451-vtOlLnNM4vIj.png"
+        },
+        "description": "The series' protagonist. A young arms dealer and the daughter of Floyd Hekmatyar, a global shipping magnate. Belongs to HCLI's European and African Logistics Division.\n\nShe is physically attractive, with long silver-white hair, pale alabaster skin, striking blue eyes and her trademark smile, which is present even under dire circumstances. She is extremely charismatic and bold, which earned her great success in her business as well as the fierce loyalty of her subordinates. While generally behaving in a bubbly and slightly childish manner, Koko is actually rather ruthless and has been called a 'monster' by various characters.\n\nShe considers [Jonah](https://anilist.co/character/36566/Mar-Jonathan) a little brother and is very affectionate towards him. [Valmet](https://anilist.co/character/38954/Velmer-Sofia) has a crush on Koko, but whether Koko reciprocates the feelings is unknown.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95093,
+          "name": {
+            "full": "Shizuka Itou",
+            "native": "伊藤静"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 38954,
+        "name": {
+          "full": "Sofia Velmer",
+          "native": "ソフィア・ヴェルマー",
+          "alternative": [
+            "Valmet (バルメ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b38954-7IPak9h2gsbT.png"
+        },
+        "description": "An ex-mechanized jäger major of the Finnish Rapid Deployment Force who is skilled with knives. She is in love with [Koko](https://anilist.co/character/33451/Hekmatyar-Koko), but it is unknown whether Koko returns her feelings. Her real name is Sofia Velmer. Valmet comes from a military family and served as a UN peacekeeping officer in Africa. Her entire Finnish-led UN squad was annihilated by [Chen Guoming](https://anilist.co/character/65311/Guoming-Chen) and she herself lost an eye in that attack. Since then Valmet feels uneasy and even frightened whenever she sets foot on African soil.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95092,
+          "name": {
+            "full": "Sayaka Oohara",
+            "native": "大原さやか"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95092-dQXsTFQXLg3o.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 36566,
+        "name": {
+          "full": "Jonathan Mar",
+          "native": "ジョナサン・マル",
+          "alternative": [
+            "Jonah (ヨナ）"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/36566.jpg"
+        },
+        "description": "A child soldier. His parents were killed by an airstrike by a F-22 Raptor. Picked up as a child soldier soon after this traumatic event. Despite his intense hatred of weapons, Jonah decides to work under the enigmatic arms dealer, [Koko Hekmatyar](https://anilist.co/character/33451/Hekmatyar-Koko). Though he is young, his skills on the battlefield are extraordinary and is frequently shown besting men much older than himself. Also, infrequently displays a childish nature. Is shown to dislike mathematics and science and excels at languages.\n\nHis primary weapon in season 1 is an FN FNC and in season 2 it is the Magpul Masada.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105013,
+          "name": {
+            "full": "Mutsumi Tamura",
+            "native": "田村睦心"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105013-DffN0XN2Zw7G.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 61763,
+        "name": {
+          "full": "Chiquita",
+          "native": "チェキータ",
+          "alternative": [
+            "Chiqui"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b61763-XltQwq1bkFnq.png"
+        },
+        "description": "Kasper's ruthless head of security and Lehm's ex-wife. Both Chiquita and Lehm used to serve as Floyd Hekmatyar's bodyguards. She can be considered the best bodyguard in HCLI.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95435,
+          "name": {
+            "full": "Yumi Touma",
+            "native": "冬馬由美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95435-REiTyMQqIfH4.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 63853,
+        "name": {
+          "full": "Schokolade",
+          "native": "ショコラーデ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63853-YCHBFP3qRAAk.png"
+        },
+        "description": "A CIA asset in South Africa assigned to work with Scarecrow. She's more sympathetic to Koko and secretly works as Koko's informant.  \n\n (Source: Wikipedia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95070,
+          "name": {
+            "full": "Ami Koshimizu",
+            "native": "小清水亜美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95070-klkIfKz1VItS.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 40941,
+        "name": {
+          "full": "Lehm Brick",
+          "native": "レーム",
+          "alternative": [
+            "Old Man"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b40941-tlaBgIfGdeaW.png"
+        },
+        "description": "The oldest member of Koko's crew and the second in command. A former Delta Force operator who used to be active in Somalia during the 1990s, he is a veteran mercenary with strong leadership skills. He acted as Floyd Hekmatyar's bodyguard together with Chiquita, his ex-wife, before joining Koko's squad. Lehm also does sniper work either alone or together with Lutz.  His surname \"Brick\" was reveled in ep7 of season 2.  \n\n(Source: Wikipedia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95357,
+          "name": {
+            "full": "Unshou Ishizuka",
+            "native": "石塚運昇"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95357-umndcceko65h.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 59435,
+        "name": {
+          "full": "William Nelson",
+          "native": "ウィリアム・ネルソン（ワイリ）",
+          "alternative": [
+            "Wilee"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b59435-Y0DDPeFJoIZN.png"
+        },
+        "description": "An Afro-American explosive expert and ex-lieutenant of the 20th Engineer Brigade of the XVIII Airborne Corps in the US Army. Graduated from University of Virginia School of Architecture. Wiley met Lehm and Echo in the first Gulf War when he was assigned to blow up a chemical factory. After several years, Wiley paid Lehm a visit and met Koko. His real name is William Nelson. He is put in charge of giving Jonah English lessons. He is the only person on the team aside from Koko to be blacklisted by the FBI.  \n\n(Source: Wikipedia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95299,
+          "name": {
+            "full": "Kenji Nomura",
+            "native": "乃村健次"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95299-emNsgDYS4DBi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 64959,
+        "name": {
+          "full": "Minami Amada",
+          "native": "天田 南 / Dr.マイアミ",
+          "alternative": [
+            "Doctor Miami"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64959-w02h2xekkf3C.png"
+        },
+        "description": "She is a Japanese expert in robotics, working for Koko and other companies (though she wanted to use her knowledge to make toys at first). She is also a butterfly fanatic and spend most of her time hunting them. She and Koko have a secret plan going on codenamed \"Jormungand\".  \n\n(Source: ami)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95144,
+          "name": {
+            "full": "Megumi Toyoguchi",
+            "native": "豊口めぐみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95144-9Y8CtDVmxogE.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 59329,
+        "name": {
+          "full": "Lutz",
+          "native": "ルツ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b59329-2K4wgHrC9pxN.png"
+        },
+        "description": "A former police sniper who was once part of the counter-terrorist unit, until he becomes one of Koko's mercenaries.   \n\n(Source: ANN)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95098,
+          "name": {
+            "full": "Wataru Hatano",
+            "native": "羽多野渉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95098-x6T2xOTuvkuY.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 61759,
+        "name": {
+          "full": "Kasper Hekmatyar",
+          "native": "キャスパー・ヘクマティアル",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/61759.jpg"
+        },
+        "description": "Koko's older brother. He is the one who sold the weapons responsible for the death of Jonah's parents, and also the reason Jonah joined up with Koko. He always has his bodyguard Chiquita with him.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95042,
+          "name": {
+            "full": "Masaya Matsukaze",
+            "native": "松風雅也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95042-gEcEYD7iDXnF.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 61957,
+        "name": {
+          "full": "Chinatsu",
+          "native": "チナツ",
+          "alternative": [
+            "Commando Girl"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b61957-R3qg76NEJJcJ.png"
+        },
+        "description": "She is an assassin from orchestra.   It is reveled that she came from a well off family, until one day when she and her family were attending a play in an opera house, Orchestra barge in to not only kill his intended target but also mercilessly massacred everyone else in the play, she is the only one who survived, though she did tried to avenge the dead of her family, she only manages to wound him. Orchestra didn't kill her, instead he abducts her and trains her to be his protégé in which she developed Stockholm syndrome and she becomes as proficient and ruthless as Orchestra.  \"Commando Girl\" is a pun given to her by this anime/manga fan-base due the fact that she doesn't wear panties.    (Source: ANN and misc. blogs/forums)   ~! She was sniped by Lehm for drawing (Pointing) a gun at KoKo !~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95239,
+          "name": {
+            "full": "Akemi Kanda",
+            "native": "神田朱未"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/239.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 61911,
+        "name": {
+          "full": "Mildo",
+          "native": "ミルド",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b61911-y1WiVoTM6JYj.png"
+        },
+        "description": "One of Curry's bodyguard. She has a obsessive crush with Valmet, who she admires as a fellow warrior. Mildo is a knife-trained mercenary and as such, prefers using combat knives and machetes as her main weapon.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96504,
+          "name": {
+            "full": "Ayumi Tsunematsu",
+            "native": "恒松あゆみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96504-uR5BYvPwmSWR.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 65585,
+        "name": {
+          "full": "Karen Lo",
+          "native": "カレン・ロウ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65585-hClGoUoahcTP.png"
+        },
+        "description": "A former lieutenant in the People's Liberation Army. Officially she is Chen's secretary but actually,​ she serves as his bodyguard as well as the commander of his soldiers. She tries to avenge Chen after his death but is injured by Jonah. Homeless in South Africa, she is later recruited by Minami Amada and becomes her assistant.  \n\n(Source: Wikipedia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 115054,
+          "name": {
+            "full": "Saori Katou",
+            "native": "加藤沙織"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115054-paqz8pjUbH90.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 59321,
+        "name": {
+          "full": "Akihiko Tojo",
+          "native": "東條秋彦",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b59321-iNnlRruOaFZm.png"
+        },
+        "description": "A former operator of the Japanese Ministry of Defense's secret SR unit. Tojo had seen action in several black ops operations, including Cuba. He left SR and was recruited by Kasper within 20 minutes. His full name is Akihiko Tojo. He is put in charge of giving Jonah Math lessons.  (Source: Wikipedia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102720,
+          "name": {
+            "full": "Hitoshi Yanai",
+            "native": "箭内仁"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/7720.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 59439,
+        "name": {
+          "full": "Renato Socci",
+          "native": "レナート・ソッチ（アール）",
+          "alternative": [
+            "R"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b59439-LTfFkUAm4cTW.png"
+        },
+        "description": "A former Italian Army Bersaglieri intelligence officer who now works for Koko.   ~!R is the CIA's mole from the day he worked with Bookman in Bosnia during the Bosnian Wars. He is eventually killed by Hex while protecting Koko.!~",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95020,
+          "name": {
+            "full": "Katsuyuki Konishi",
+            "native": "小西克幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 59437,
+        "name": {
+          "full": "Ugo",
+          "native": "ウゴ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b59437-KuHMU9FsUl3i.png"
+        },
+        "description": "He is one of Koko's bodyguards who also serves as her driver, he was also a former Mafia enforcer.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106714,
+          "name": {
+            "full": "Kiyoshi Katsunuma",
+            "native": "勝沼紀義"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/11714.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 59319,
+        "name": {
+          "full": "Mao",
+          "native": "マオ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b59319-0iw6q6NFfydj.png"
+        },
+        "description": "A former artillery officer from an Asian country, he was discharged from the military after a deadly training accident and was later recruited by Koko. He is the only member on Koko's team that has a family. He is put in charge of giving Jonah science lessons.  \n\n (Source: Wikipedia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 101724,
+          "name": {
+            "full": "Gou Shinomiya",
+            "native": "四宮豪"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n101724-MEUzOW3BRvy2.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 66599,
+        "name": {
+          "full": "Liliane",
+          "native": "リリアーヌ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66599-a9Tmrm6i4xNP.png"
+        },
+        "description": "A young girl who works with Boss Dominique.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95817,
+          "name": {
+            "full": "Kana Asumi",
+            "native": "阿澄佳奈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95817-UHqRZ5xuSJgW.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 64939,
+        "name": {
+          "full": "Jerry Schatzberg",
+          "native": "ジェリー・シャッツバーグ",
+          "alternative": [
+            "Scarecrow"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b64939-qY9WcEcdxqQ2.png"
+        },
+        "description": "A corrupt CIA agent who works with Schokolade, He is an arrogant and blunt person and dislikes Koko Hekmatyar.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96659,
+          "name": {
+            "full": "Tooru Nara",
+            "native": "奈良徹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96659-zLvDfHLoxCne.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 72199,
+        "name": {
+          "full": "George Black",
+          "native": "ジョージ・ブラック",
+          "alternative": [
+            "Bookman"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b72199-wZl7uK7rj7wq.png"
+        },
+        "description": "He was introduced in the very last part of the episode of season 1 as a shrewd  CIA operative, who is tasked to not only monitor Koko, but to also put her under the agency's control under the so-called​ \"Operation Undershaft.\"\n\n  (Source: Otaku-streamers)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95450,
+          "name": {
+            "full": "Tsutomu Isobe",
+            "native": "勉磯部"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95450-rw0UlIXU7keU.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 65311,
+        "name": {
+          "full": "Chen Guoming",
+          "native": "チェン・グオメン",
+          "alternative": [
+            "陳国明",
+            "Major General"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65311-m6dJUy7l8gec.png"
+        },
+        "description": "The Head of Daxinghai who is always seen with a cane. Under his polite and well mannered appearance is a ruthless man willing to do anything for the interest of China. Held a rank of major general in the PLA. He is the target of Valmet's revenge as her unit was killed by Chen and his men during a UN peacekeeping mission.  ~!Eventually Valmet gets her revenge and kills him after finding the main Daxinghai headquarters in northern Africa.!~ (Source: Wikipedia)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100427,
+          "name": {
+            "full": "Takaya Hashi",
+            "native": "土師孝也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100427-rXj5mx6gGNfH.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 65583,
+        "name": {
+          "full": "Curry",
+          "native": "カリー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65583-lJHwCEs2Pnnz.png"
+        },
+        "description": "A weapons dealer and head of CCAT. Ex-RAF. A British corporation and Koko's rival weapons dealer.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100317,
+          "name": {
+            "full": "Katsuhisa Houki",
+            "native": "宝亀克寿"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100317-8qR7ph0AKfXu.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 77689,
+        "name": {
+          "full": "Orchestra",
+          "native": "師匠",
+          "alternative": [
+            "Shishou"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b77689-FbfTqinfBZI6.png"
+        },
+        "description": "His is a ruthless gun for hire who is known for his flair of massacre, he was also Chinatsu's mentor.   ~!He was killed in ep.4 after failing to assassinate Koko.!~ (Source: ANN)",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95285,
+          "name": {
+            "full": "Tsuyoshi Koyama",
+            "native": "小山剛志"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95285-SCcRgHqau6Q9.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 82667,
+        "name": {
+          "full": "Dragan Nikolaevich",
+          "native": "ドラガン・ニコラヴィッチ",
+          "alternative": [
+            "Baldra"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82667-Zz4b5ZcybTwo.png"
+        },
+        "description": "Leader of the Balkan Dragons militia and an internationally wanted criminal. He is the antagonist of the Dragon Shooter Arc.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95838,
+          "name": {
+            "full": "Dai Matsumoto",
+            "native": "松本大"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/838.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 82713,
+        "name": {
+          "full": "Mokoena",
+          "native": "モコエナ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82713-tL0qEEnGvd0Y.png"
+        },
+        "description": "One of Minami Amada's three secretaries. He also served as her bodyguard until he was replaced in this capacity by Karen Lo.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 109187,
+          "name": {
+            "full": "Takahiro Fujiwara",
+            "native": "藤原貴弘"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n109187-exBKqGYx4WAV.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 61913,
+        "name": {
+          "full": "Lew",
+          "native": "ルー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b61913-wnCgGcAjErgo.png"
+        },
+        "description": "Curry's other bodyguard. Unlike Mildo, Lu is more calmer than her.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105639,
+          "name": {
+            "full": "Manabu Sakamaki",
+            "native": "坂巻学"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/10639.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 82663,
+        "name": {
+          "full": "Amalia Torohovsky",
+          "native": "アマーリア・トロホブスキー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82663-nW6Y1Mn2rA1I.png"
+        },
+        "description": "A former actress turned arms dealer. Although the antagonist of the Mondo Grosso Arc, after she reached an arrangement with Koko Hekmatyar she afterwards begins to conduct business with her.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95497,
+          "name": {
+            "full": "Gara Takashima",
+            "native": "高島雅羅"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95497-ZisMmeLQfZr7.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 82665,
+        "name": {
+          "full": "Lee",
+          "native": "李",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b82665-MlISfY86oGpa.png"
+        },
+        "description": "Former People's Liberation Army officer who served as Chan Guoming's bodyguard and driver, later succeeding Karen Low as his head of security.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96074,
+          "name": {
+            "full": "Makoto Yasumura",
+            "native": "保村真"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96074-mcIujin2kl4o.png"
+          }
+        }
+      ]
+    }
+  ]
+}

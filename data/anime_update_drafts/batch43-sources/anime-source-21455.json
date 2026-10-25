@@ -1,0 +1,576 @@
+{
+  "id": 21455,
+  "title": {
+    "romaji": "NEW GAME!",
+    "english": "NEW GAME!",
+    "native": "NEW GAME!"
+  },
+  "synonyms": [
+    "Новая игра!"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2016,
+    "month": 7,
+    "day": 4
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "popularity": 121858,
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 89644,
+        "name": {
+          "full": "Hifumi Takimoto",
+          "native": "滝本ひふみ",
+          "alternative": [
+            "Hifumin"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89644-p8wdh7nlI17S.png"
+        },
+        "description": "__Height:__ 162 cm\n\nTakimoto Hifumi is a character designer ~!(currently character team leader)!~ for Eagle Jump, a gaming studio located in Tokyo.\n\nHifumi is especially shy to the point of avoiding talking to people or looking at them directly. As a result, in order to not make her feel uncomfortable, the other employees interact with her through the company's computer messenger system. Although, in later seasons she becomes more lively and goes out of her way to try to improve talking to people. \n\nContrary to her normal personality, she becomes very lively, outgoing, and cheerful while texting or messaging, often using emoticons in chat. She secretly enjoys cosplay and owns a pet hedgehog named [Sojiro](https://anilist.co/character/158503/Sojiro).\n\nSome trivia about Hifumi:\n- Her favorite colors are Blue and Pink\n- Her favorite clothing style is \"Sweet Lolita\"",
+        "gender": "Female",
+        "age": "21-23"
+      },
+      "voiceActors": [
+        {
+          "id": 115416,
+          "name": {
+            "full": "Megumi Yamaguchi",
+            "native": "山口愛"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115416-VZfvKTYsFO4r.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 89641,
+        "name": {
+          "full": "Aoba Suzukaze",
+          "native": "涼風青葉",
+          "alternative": [
+            "Aocchi",
+            "Suzumiya",
+            "Suzukaze-san",
+            "Aoba-chan",
+            "Aoba-san"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89641-nVvsn6uqzt2z.png"
+        },
+        "description": "__Birth Place:__ Tokyo, Japan\n__Height:__ 149 cm\n\nA high school graduate who joins the Eagle Jump game company as a character designer, as they made her favorite game, Fairies Story. Due to her small stature, she is often mistaken for a middle school student.",
+        "gender": "Female",
+        "age": "18-20"
+      },
+      "voiceActors": [
+        {
+          "id": 119154,
+          "name": {
+            "full": "Yuuki Takada",
+            "native": "高田憂希"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119154-sWANDEExAuVD.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 89642,
+        "name": {
+          "full": "Kou Yagami",
+          "native": "八神コウ",
+          "alternative": [
+            "Ko"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89642-NLyJWTmHPwMD.jpg"
+        },
+        "description": "__Birth Place:__ Tokyo\n__Height:__ 164 cm\n\nThe lead character designer of Eagle Jump. She spends a lot of time at the office, often sleeping there overnight in her underwear, and has a laid-back but stern attitude. She was the character designer for the game that inspired [Aoba](https://anilist.co/character/89641/Suzukaze-Aoba) to become one herself.",
+        "gender": "Female",
+        "age": "25-26"
+      },
+      "voiceActors": [
+        {
+          "id": 102263,
+          "name": {
+            "full": "Youko Hikasa",
+            "native": "日笠陽子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 89648,
+        "name": {
+          "full": "Umiko Ahagon",
+          "native": "阿波根うみこ",
+          "alternative": [
+            "Umigon"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89648-NDxJh2b2Qmtj.png"
+        },
+        "description": "__Birth Place:__ Okinawa Prefecture, Japan\n__Height:__ 162 cm\n\nA programmer who often gets annoyed when she has to fix errors and is embarrassed by her surname. She is a military fan and has several airsoft weapons in her workspace.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119813,
+          "name": {
+            "full": "Chitose Morinaga",
+            "native": "森永千才"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119813-M3X0yu8k0MGB.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 89646,
+        "name": {
+          "full": "Yun Iijima",
+          "native": "飯島ゆん",
+          "alternative": [
+            "Iizima"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89646-JxXhzDeNJzwH.png"
+        },
+        "description": "__Birth Place:__ Mie Prefecture, Japan\n__Height:__ 151 cm\n\nA character designer who designs monsters and often dresses in gothic clothing. She has two younger siblings.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119811,
+          "name": {
+            "full": "Ayumi Takeo",
+            "native": "竹尾歩美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/24811-kqMBT7x4zx0h.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 89647,
+        "name": {
+          "full": "Nene Sakura",
+          "native": "桜ねね",
+          "alternative": [
+            "Nenecchi"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89647-ulMABzKQOOmi.jpg"
+        },
+        "description": "**Birthplace:** Tokyo\n**Height:** 144 cm\n\nAoba's friend from high school who is currently in university. She took an interest in programming and eventually became an intern at Eagle Jump after beta testing Fairies Story 3.\n\nNene is described as childish, selfish, and goofy by Aoba, who can't stay focused on the task given to her, which is why she's often seen leaving her post. She is also an otaku and a fan of Faries Story Series.",
+        "gender": "Female",
+        "age": "18-19"
+      },
+      "voiceActors": [
+        {
+          "id": 119812,
+          "name": {
+            "full": "Madoka Asahina",
+            "native": "朝日奈丸佳"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119812-tDb8CxZflGRk.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 89645,
+        "name": {
+          "full": "Hajime Shinoda",
+          "native": "篠田はじめ",
+          "alternative": [
+            "Hazime",
+            "Shino",
+            "Miss Designer"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89645-ygtCA0QLEC5i.png"
+        },
+        "description": "__Birth Place:__ Tokushima Prefecture, Japan\n__Height:__ 167 cm\n\nA motion designer who works in the character design department as there are no open seats in the animation department. She enjoys sentai shows and owns various prop weapons.",
+        "gender": "Female",
+        "age": "21"
+      },
+      "voiceActors": [
+        {
+          "id": 98894,
+          "name": {
+            "full": "Megumi Toda",
+            "native": "戸田めぐみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n98894-vUppIzWof6Mt.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 89643,
+        "name": {
+          "full": "Rin Tooyama",
+          "native": "遠山りん",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89643-Vu3H5C5lGeVb.png"
+        },
+        "description": "__Birth Place:__ Aichi prefecture, Japan\n__Height:__ 158 cm\n\nAn art director and head of the background department. She joined the company at the same time as Kou whom she is very close friends with.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 105765,
+          "name": {
+            "full": "Ai Kayano",
+            "native": "茅野愛衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n105765-DDK94me8axVv.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 89649,
+        "name": {
+          "full": "Shizuku Hazuki",
+          "native": "葉月しずく",
+          "alternative": [
+            "Haduki"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89649-BTg9PFCzwXrr.png"
+        },
+        "description": "__Birth Place:__ Tokyo, Japan\n__Height:__ 161 cm\n\nA game director with a strong interest in cute girls, hence why her department is entirely female. She owns a cat named [Mozuku](https://anilist.co/character/127138/Mozuku).",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95413,
+          "name": {
+            "full": "Eri Kitamura",
+            "native": "喜多村英梨"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 127138,
+        "name": {
+          "full": "Mozuku",
+          "native": "もずく",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/127138-cWw91Mh8ozt8.jpg"
+        },
+        "description": "Mozuku is a pet cat owned by Shizuku Hazuki, the director of Eagle Jump.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95413,
+          "name": {
+            "full": "Eri Kitamura",
+            "native": "喜多村英梨"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95413-FwAIrc8Ishpt.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 158503,
+        "name": {
+          "full": "Sojiro",
+          "native": "宗次郎",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b158503-u5F6ZwWWM39X.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 115416,
+          "name": {
+            "full": "Megumi Yamaguchi",
+            "native": "山口愛"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n115416-VZfvKTYsFO4r.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 160096,
+        "name": {
+          "full": "Miu Iijima",
+          "native": "飯島 みう",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160096-mCbldggGwC06.jpg"
+        },
+        "description": "Miu is the younger sister of Yun Iijima and twin sister to Ren Iijima.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 116381,
+          "name": {
+            "full": "Chihiro Kawakami",
+            "native": "川上千尋"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n116381-dvqJcf3NigDB.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 160098,
+        "name": {
+          "full": "Yamada",
+          "native": "やまだ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160098-0j3nZBuVY3pi.png"
+        },
+        "description": "Yamada is found working various jobs around Tokyo.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95504,
+          "name": {
+            "full": "Saki Fujita",
+            "native": "藤田咲"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95504-pDIKpd8t2EYU.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 181234,
+        "name": {
+          "full": "Seiyuu",
+          "native": "声優",
+          "alternative": [
+            "Voice Actress"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181234-LQc8UXXjdE3x.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107750,
+          "name": {
+            "full": "Hibiku Yamamura",
+            "native": "山村響"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107750-ncaOycwTveFP.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 165687,
+        "name": {
+          "full": "Dandy Max",
+          "native": "ダンディーマックス",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165687-1HkUK2b0UQMk.jpg"
+        },
+        "description": "The main character of an anime Hajime is quite fond of.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95720,
+          "name": {
+            "full": "Kenta Miyake",
+            "native": "三宅健太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 160095,
+        "name": {
+          "full": "Ren Iijima",
+          "native": "飯島れん",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b160095-oSUOR9SAnJHp.jpg"
+        },
+        "description": "Ren is the younger brother of Yun Iijima and twin brother of Miu Iijima.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 119960,
+          "name": {
+            "full": "Risae Matsuda",
+            "native": "松田利冴"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n119960-1b9eah3Af5f2.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 160097,
+        "name": {
+          "full": "Aoba's Mother",
+          "native": "青葉の母",
+          "alternative": [
+            "Aoba no Haha"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/default.jpg"
+        },
+        "description": "Mother of the main character, Aoba Suzukaze.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 107750,
+          "name": {
+            "full": "Hibiku Yamamura",
+            "native": "山村響"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n107750-ncaOycwTveFP.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 181233,
+        "name": {
+          "full": "Waitress",
+          "native": "店員",
+          "alternative": [
+            "Tennin"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b181233-0manvpTy02Qf.jpg"
+        },
+        "description": null,
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 118841,
+          "name": {
+            "full": "Shino Shimoji",
+            "native": "下地紫野"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n118841-5xfivvcPDvpH.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

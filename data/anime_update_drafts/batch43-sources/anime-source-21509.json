@@ -1,0 +1,986 @@
+{
+  "id": 21509,
+  "title": {
+    "romaji": "Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen",
+    "english": "Danganronpa 3: The End of Hope’s Peak High School - Future Arc",
+    "native": "ダンガンロンパ３ –The End of 希望ヶ峰学園– 未来編"
+  },
+  "synonyms": [],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2016,
+    "month": 7,
+    "day": 11
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Action",
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "popularity": 91623,
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 63845,
+        "name": {
+          "full": "Kyouko Kirigiri",
+          "native": "霧切響子",
+          "alternative": [
+            "Kyoko Kirigiri",
+            "Miss Conan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63845-43rWjycWhYFF.png"
+        },
+        "description": "__Height:__ 167 cm (5'5\")\n__Talent:__ ???\n\nKyouko is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. Her talent is unknown.\n\nKyouko is a mysterious, stoic, and independent person who deliberately masks her feelings so that others won't be able to read her. Because of this, she has a cold demeanor and appears to remain calm and collected in most situations. Despite this, however, she can sometimes let her emotions get the best of her when she's especially upset. Though aloof and slow to trust others, Kyouko is adept at noticing things that the other students don't, which proves vital once bodies start turning up. She often advises [Makoto](https://anilist.co/character/63851/Naegi-Makoto) on conducting investigations.\n\n~!Her actual talent is the Super High School Level Detective, or the Ultimate Detective in the English localization.!~\n",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102263,
+          "name": {
+            "full": "Youko Hikasa",
+            "native": "日笠陽子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 65523,
+        "name": {
+          "full": "Junko Enoshima",
+          "native": "江ノ島盾子",
+          "alternative": [
+            "Chou Koukou Kyuu no Gal (超高校級のギャル)",
+            "Super High School Level Gal",
+            "Super High School Level Gyaru",
+            "Ultimate Fashionista"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65523-OztiX9PhydrG.png"
+        },
+        "description": "__Height:__ 169 cm (5'7\")\n__Talent:__ Gyaru\n\nJunko is a student in Hope's Peak Academy's Class 78th, and a participant in the Killing School Life. She is the Super High School Level Gyaru, or Ultimate Fashionista in the English localization.\n\nJunko is talkative, charismatic, and can be hotheaded at times.\n\n~!It is discovered that the girl who introduced herself as Junko wasn't really Junko at all, but actually Mukuro Ikusaba, her twin sister, the Ultimate Soldier. She was the \"victim\" of the fifth murder, her body having been used to create a fake crime scene. The real Junko, the younger twin who she switched places with, was the mastermind behind Monokuma, as well as the Tragedy.!~\n\n~!Junko's real personality and mannerisms are erratic and unstable, switching through several \"personalities\" at the drop of a hat, which she says is because she gets bored easily. Junko is incredibly manipulative and cunning, having orchestrated the Tragedy. She is obsessed with despair and finds it to be the most enjoyable emotion in the world.!~\n\n~!It is eventually revealed that her true talent is that of Super High School Level Analytical Prowess. This ability allows her to quickly analyze her surroundings with superhuman speed, detailed thinking, and memorization, giving her the ability to predict the future with near-perfect accuracy, as well as be able to learn and understand new skills by just seeing it once. This ability is also what gave Junko her \"Ultimate Fashionista\" title: because she's able to predict trends, she can predict what will become popular with society.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95144,
+          "name": {
+            "full": "Megumi Toyoguchi",
+            "native": "豊口めぐみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95144-9Y8CtDVmxogE.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 63851,
+        "name": {
+          "full": "Makoto Naegi",
+          "native": "苗木誠",
+          "alternative": [
+            "Ultimate Lucky Student",
+            "Chou Koukou Kyuu no Kou'un (超高校級の幸運)",
+            "Super High School Level Good Luck"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63851-PnzyOWEPVPHD.jpg"
+        },
+        "description": "__Height:__ 160 cm (5'3\")\n__Talent:__ Good Luck\n\nMakoto is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. His talent is Super High School Level Good Luck (超高校級の幸運), meaning he got into Hope's Peak by winning a lottery, rather than being scouted for an extraordinary talent like everyone else. His title is the Ultimate Lucky Student in the English localization.\n\nMakoto is friendly and a lot more down-to-earth than other students. He tends to act passively in conversation. According to him, his most distinguishing feature is his optimism.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95287,
+          "name": {
+            "full": "Megumi Ogata",
+            "native": "緒方恵美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95287-3moX16xmYedv.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 73235,
+        "name": {
+          "full": "Monokuma",
+          "native": "モノクマ",
+          "alternative": [
+            "Ultimate Despair Headmaster",
+            "Monobear"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73235-74a7Y1lzFnDv.jpg"
+        },
+        "description": "__Height:__ 75 cm (2'6\") (DR1 & DRV3), 65 cm (2'2\") (DR2)\n\nA stuffed robotic bear and the self-proclaimed Headmaster of Hope's Peak Academy who instigates the various killing games in the Danganronpa series. Monokuma is often described as easygoing and cheerful at first glance, but with a very sinister undertone.. He loves hysteria, violence, chaos, and most of all, despair.",
+        "gender": "None (DR1), Male (DR2 & DRV3)",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95345,
+          "name": {
+            "full": "TARAKO",
+            "native": null
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95345-mcIqzQn9Fmi7.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 65529,
+        "name": {
+          "full": "Touko Fukawa",
+          "native": "腐川冬子",
+          "alternative": [
+            "Ultimate Writing Prodigy",
+            "Chou Koukou Kyuu no Bungaku Shoujo (超高校級の文学少女)",
+            "Super High School Level Literary Girl",
+            "Toki"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65529-oy5acbdyUy4r.jpg"
+        },
+        "description": "__Height:__ 165 cm  (5'5\")\n__Talent:__ Literature\n\nTouko is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. She is the Super High School Level Literary Girl, or the Ultimate Writing Prodigy in the English localization.\n\nDue to her severe persecution complex that originates from the bullying she suffered at a young age, Touko is highly suspicious of other people, frequently accusing them of thinking bad things about her. She has also caused others to give a bad first impression of her as she is known to blatantly insult others, even though it is the very first time they have met. Despite her young age, she has already won several awards for her writing, and her works are constantly on top of selling lists. She is also in love with [Byakuya Togami](https://anilist.co/character/65541/Togami-Byakuya), constantly swooning over him and acting extremely submissive towards him, although her affection is one-sided.\n\n~!Touko actually has two different identities, the other being the infamous serial killer, Genocider Sho.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95099,
+          "name": {
+            "full": "Miyuki Sawashiro",
+            "native": "沢城みゆき"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 90007,
+        "name": {
+          "full": "Hajime Hinata",
+          "native": "日向創",
+          "alternative": [
+            "Ultimate ???",
+            "Chou Koukou Kyuu no ??? (超高校級の???)",
+            "Super High School Level ???"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90007-ybDO4Rv8ndr5.jpg"
+        },
+        "description": "__Height:__ 179 cm (5'10\")\n__Talent:__ Ultimate ???\n\nA student of Hope's Peak Academy's Class 77-B, and a participant of the Killing School Trip featured in Danganronpa 2: Goodbye Despair. He doesn't remember his talent at the beginning of the Killing Game, so his title is the Ultimate ???.\n\nHajime seems cynical at first glance, but it would be better to describe him as a realist. He is quite skeptical and tends to worry more than the other students, but his worries are usually understandable. He is logical and smart; often annoyed by the idea of not being able to understand someone or something at all. He tends to be quite serious, but he does joke around and often goes along with his classmates' eccentric hobbies anyway, and sometimes smiles awkwardly and sheepishly while his friends engage in some of their usual weird behavior. He is sometimes annoyed by some of his classmates and can be snarky towards them in his thoughts as well as blunt while speaking to them, though he's more frank than sarcastic or mean-spirited. Though sometimes a bit submissive (especially with bossy girls), he is not afraid to speak his mind, and he can be rude if annoyed enough (for example, after enduring [Hiyoko](https://anilist.co/character/90017/Saionji-Hiyoko)'s attitude during her Free Time Events, he finally ends up stating \"I don't even care anymore\"). He can sometimes be short-tempered and snap at others, especially when he's tired or under pressure. He was also quite paranoid during the start of the game and didn't have much interest in friendship, but he later really wanted to believe in his classmates and felt bad about doubting them during the Class Trials, though he understood it was necessary.\n\n~!It was revealed in Chapter 4 by Nagito Komaeda that Hajime was actually a reserve course student who had no talent whatsoever and is not an Ultimate himself.!~\n",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95024,
+          "name": {
+            "full": "Minami Takayama",
+            "native": "高山みなみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95024-qsZgGp8VHqMP.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 65541,
+        "name": {
+          "full": "Byakuya Togami",
+          "native": "十神白夜",
+          "alternative": [
+            "Ultimate Affluent Progeny",
+            "Chou Koukou Kyuu no Onzoushi (超高校級の御曹司)",
+            "Super High School Level Heir"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65541-Nha4B0vJIkFA.png"
+        },
+        "description": "__Height:__ 185 cm (6'1\")\n__Talent:__ Heir\n\nByakuya is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. He is the Super High School Level Heir, or the Ultimate Affluent Progeny in the English localization.\n\nByakuya is arrogant, seeing himself superior to his peers due to having fought to become the heir to his family's massive financial conglomerate. However, he is a sensible student who holds a truthful, albeit cynical, outlook on the world. He is ruthlessly honest about his opinions and often hurts others with his blunt remarks. Despite his negative attitude, he does occasionally lend a hand to other characters.\n",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95017,
+          "name": {
+            "full": "Akira Ishida",
+            "native": "石田彰"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 65531,
+        "name": {
+          "full": "Aoi Asahina",
+          "native": "朝日奈葵",
+          "alternative": [
+            "Hina",
+            "Ultimate Swimming Pro",
+            "Chou Koukou Kyuu no Swimmer (超高校級のスイマー)",
+            "Super High School Level Swimmer"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65531-zem6Bi2RRK2Q.jpg"
+        },
+        "description": "__Height:__ 160 cm (5'3\")\n__Talent:__ Swimming\n\nAoi is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. She is the Super High School Level Swimmer (超高校級のスイマー), or Ultimate Swimming Pro in the English localization.\n\nAlways energetic and friendly, Asahina is also a bit airheaded. She has difficulty remembering names.  \n\n",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95061,
+          "name": {
+            "full": "Chiwa Saitou",
+            "native": "斎藤千和"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-ncYFfzPJDoQV.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 63849,
+        "name": {
+          "full": "Sayaka Maizono",
+          "native": "舞園さやか",
+          "alternative": [
+            "Ultimate Pop Sensation",
+            "Chou Koukou Kyuu no Idol (超高校級のアイドル)",
+            "Super High School Level Idol"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63849-wA9ddqRcEyug.png"
+        },
+        "description": "__Height:__ 165 cm (5'5\")\n__Talent:__ Idol\n\nSayaka is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. She is the Super High School Level Idol (超高校級のアイドル), or the Ultimate Pop Sensation in the English localization.\n\nShe is the lead singer of an incredibly popular idol group. She and Makoto were classmates in middle school.\n",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95745,
+          "name": {
+            "full": "Makiko Oomoto",
+            "native": "大本眞基子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95745-CQXJmwHVOdpn.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 131870,
+        "name": {
+          "full": "Komaru Naegi",
+          "native": "苗木こまる",
+          "alternative": [
+            "Omaru",
+            "Dekomaru",
+            "Komarucchi",
+            "Slowpokemaru",
+            "ドンコマル"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131870-XdhoqOi2W0RO.jpg"
+        },
+        "description": "__Height:__ 163 cm (5'4\")\n\nThe main protagonist of _Danganronpa Another Episode: Ultra Despair Girls_ and the younger sister of [Makoto Naegi](https://anilist.co/character/63851/Naegi-Makoto).\n\nKomaru begins as a somewhat hypersensitive and cowardly person who often wavers between hope and despair. She doesn't want to have strong hope, because she believes it will be lost eventually, leading to worse despair. She has low self-esteem, considering herself boring, ordinary, and weak. She also shows some childish traits, such as being naive, reliant, and easily excitable. She also has an 'unusual' kind of pride, as she gets really worked up from the puzzles of the Monokuma Kids and brags towards the kids when she solves them. She is also very gullible and rather innocent as well, as doesn't seem to have much interest in romance nor sexual things. It's been stated that in the past some creepy guys have taken interest in her, supposedly because of her gullibility, and it's been shown that she isn't very good at noticing their intentions.\n\nWhile a kind person, Komaru sometimes has a hard time relating to certain people and subjects, because she herself has lived a very ordinary life. However, she herself has a few very unusual traits as well, including her strange favorite foods and her apparent ability to sense ghosts, although she doesn't seem to think these traits are anything unusual. Despite sometimes giving up too easily, there are other times which Komaru shows how stubborn and determined she can be. She has a weakness in complicated subjects such as basic computer science, but she does have moments where she is intuitive.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103921,
+          "name": {
+            "full": "Aya Uchida",
+            "native": "内田彩"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103921-bnSaJsF0jgH1.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 90005,
+        "name": {
+          "full": "Seiko Kimura",
+          "native": "忌村静子",
+          "alternative": [
+            "Ultimate Pharmacist",
+            "Super High School Level Pharmacist (超高校級の薬剤師)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90005-amaPrni4bwZ8.jpg"
+        },
+        "description": "__Height:__ 160 cm (5'3\")\n__Talent:__ Ultimate Pharmacist\n\nA former student of Class 76th at Hope's Peak Academy. She is a member of the Future Foundation as the Branch Office 4 Director, responsible for the research and development of new medical techniques. She, along with the other directors, is forced to participate in the Final Killing Game.\n\nSeiko has a reserved personality and a stilted way of speaking. Because she's conscious of how easy it it for people to guess what she's thinking through her facial expressions, she hides her face behind a mask. She's startled easily, often anxious, and has a very soft-hearted nature, being very loyal and forgiving towards people who are kind to her. In high school, Seiko often took requests from other students. She also loves animals, making concoctions specially for helping them. She's very meticulous when dealing with medicine.\n\nAs a pharmacist, Seiko has an extensive knowledge of medicine and drugs. She can create just about any kind, ranging from common ones like laxatives and cold medication to more ludicrous ones like strength enhancers that drastically change one's physical appearence. Seiko drew much attention within the pharmaceutical industry, as she had found new uses for pre-existing medicine. Vying for her talent, many companies reached out to her, but she only accepted minimum help with her research.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95504,
+          "name": {
+            "full": "Saki Fujita",
+            "native": "藤田咲"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95504-pDIKpd8t2EYU.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 73237,
+        "name": {
+          "full": "Monomi",
+          "native": "モノミ",
+          "alternative": [
+            "Usami (ウサミ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73237-w99yKcSulioC.jpg"
+        },
+        "description": "\nUsami  is a rabbit magical girl who features as the mascot character of Danganronpa 2: Goodbye Despair, appearing in the game as the lead teacher of the school trip. After being assaulted by Monokuma, Usami's appearance is forcibly changed to greater resemble him, with Monokuma renaming her Monomi as a result.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 104803,
+          "name": {
+            "full": "Takako Sasuga",
+            "native": "貴家堂子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104803-yeCHDr73XZuI.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 90003,
+        "name": {
+          "full": "Chisa Yukizome",
+          "native": "雪染ちさ",
+          "alternative": [
+            "Super High School-Level Housekeeper (超高校級の家政婦)",
+            "Ultimate Housekeeper"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90003-kDLqxram6G3E.jpg"
+        },
+        "description": "__Height:__ 161 cm (5'3\")\n__Talent:__ Ultimate Housekeeper\n\nShe was later Class 77-B's homeroom teacher, and then the Future Foundation's Branch 5 Office Director responsible for the inquiry and secret intelligence regarding Despair. She, along with the other Future Foundation Directors, is forced to participate in the Final Killing Game.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95031,
+          "name": {
+            "full": "Mai Nakahara",
+            "native": "中原麻衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-ochR43o7TrWs.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 65533,
+        "name": {
+          "full": "Yasuhiro Hagakure",
+          "native": "葉隠康比呂",
+          "alternative": [
+            "Hiro",
+            "Taro",
+            "Afro Thunder",
+            "Ultimate Clairvoyant",
+            "Chou Koukou Kyuu no Uranaishi (超高校級の占い師)",
+            "Super Super High School Level Fortune Teller"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65533-TTk8RyEQaoSe.jpg"
+        },
+        "description": "__Height:__ 180 cm (5'11\")\n__Talent:__ Fortune Telling\n\nYasuhiro is a student of Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. He is the Super High School Level Fortune Teller, or Ultimate Clairvoyant in the English localization.\n\nYasuhiro is cheery, laid-back, and a bit of a conspiracy theorist. He isn't very well-liked by the other students, and Yasuhiro himself has admitted that he is quite cowardly, lazy, slow-witted, and has a habit to act selfishly. Notably, he is mentioned to be very clumsy with money and he has constant problems with massive debts.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95042,
+          "name": {
+            "full": "Masaya Matsukaze",
+            "native": "松風雅也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95042-gEcEYD7iDXnF.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 90000,
+        "name": {
+          "full": "Ryouta Mitarai",
+          "native": "御手洗亮太",
+          "alternative": [
+            "Ultimate Animator",
+            "Super High School Level Animator"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90000-XxHUqSWRqSaF.png"
+        },
+        "description": "__Height:__ 160 cm (5'2\")\n__Talent:__ Ultimate Animator\n\nA character featured in _Danganronpa 3: The End of Hope's Peak High School_. During his time in Class 77-B at Hope's Peak Academy. He is a member of the Future Foundation and is the Branch Office 10 Director. His responsibility as the director is assistance in reviving education and culture. He, along with the other Future Foundation Directors, is forced to participate in the Final Killing Game.\n\nRyota is a very timid, insecure, and rather asocial person. He holds anime in very high regard and is extremely passionate about it, considering it his savior during his harsh childhood. His life goal is to give others a similar sense of hope through his anime. However, this led him to shut himself in his room to work, frequently neglecting to eat or sleep as he wanted to spend all his time creating anime. Ryota suffers from extreme anxiety, worrying constantly, and lacks self-confidence, seeing himself as a burden who fails to protect everyone. He has a weak stomach and is easily startled. Though he's very hard on himself, he does his best when given a mission.\n",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 113401,
+          "name": {
+            "full": "Kanata Hongou",
+            "native": "本郷奏多"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n113401-q3tR4RkO5cVJ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 120464,
+        "name": {
+          "full": "Kotoko Utsugi",
+          "native": "空木言子",
+          "alternative": [
+            "Li'l Ultimate Drama",
+            "超小学生級の学芸会の時間",
+            "The Fighter"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b120464-jjPsU04DcjT2.png"
+        },
+        "description": "__Height:__ 134 cm (4'5\")\n\nOne of the five members of the Warriors of Hope and the head of the \"Fighter\" class. Her title when she attended Hope's Peak Elementary was Li'l Ultimate Drama (超小学生級の学芸会の時間 lit. Super Elementary School Level Arts Festival Period).\n\nKotoko is a hot-headed girl who loves \"adorbs\" things; she collects them and seems even slightly obsessed with the concept. She acts cheerful, polite, and happy, however she is also mentioned to have a bullying nature and she can be very mean and cruel. She's one of the more intelligent members of the group and has a strict, demanding personality, with a habit of curtsying and being rather dramatic, calling to her past as an actress. Kotoko seemingly loved her stage life, but she doesn't like to talk about it and considers it far behind her. It's heavily implied that most of her behavior is an act, and her \"cutesy\" personality is a front created as a coping mechanism.\n\n__Her Past and Trauma:__\n~!Kotoko was born and raised in Towa City. She was a child prodigy and famous child actor whose father was a dentist. However, when Kotoko was about 10 years old, her parents prostituted her to producers and it's implied that she was repeatedly raped by them. Her mother did it out of a twisted form of parental love and prostituted herself alongside Kotoko as a \"mother and daughter set\", claiming that this was in her daughter's best interests because it would help further her career. According to Kotoko, she endured it all without complaining because making her mother cry would've hurt her the most. Meanwhile, Kotoko's father didn't seem to care about his family at all, using the money they gained for his own benefit and cheating on his wife with his dental hygienist.\n\nDue to the trauma caused by the abuse, Kotoko has a trigger for the word \"gentle\" (優しい yasashii), as the men who abused her had said they would be \"gentle\" with her. When she hears this word, she becomes neurotic, crying and screaming in fear and unable to calm herself down until when somebody tells her that they will not be gentle with her. Despite this, she can use the word herself without any problems.!~\n\n__During the Tragedy:__ \n~!Around the time when the Tragedy was first starting, Kotoko was on the verge of committing suicide with the other Warriors of Hope when Junko Enoshima appeared and stopped them, convincing them that the adults are wrong and that they should create a paradise for children. Junko then took the five under her wing, and shortly afterward, Kotoko murdered her parents. She tells Komaru that she does not regret it, and that they should have died more times.!~\n\n~!Supposedly because of Junko's teachings, Kotoko wants to make other \"adorbs\" girls suffer what she went through, exclusively the older ones she considers Demons. She is bitter because nobody helped her in the past and thus is very paranoid of adults, believing they're all pedophiles.!~\n\n(Source: Danganronpa Wiki, edited)",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 89999,
+        "name": {
+          "full": "Juuzou Sakakura",
+          "native": "逆蔵十三",
+          "alternative": [
+            "Ultimate Boxer",
+            "Super High School Level Boxer (超高校級のボクサー)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89999-5cxPJelK9gSd.jpg"
+        },
+        "description": "__Height:__ 190 cm (6'3\")\n__Talent:__ Ultimate Boxer\n\nDuring his time in Class 74th at Hope's Peak Academy.\n\nIn Future Arc, he is a member of the Future Foundation and is the Branch Office 6 Director. His responsibility as the director is maintaining public order via suppression of insurrection, inquiry regarding special/particular criminals, etc., including the Special Crime Investigation Unit featured in _Danganronpa Gaiden: Killer Killer_. He, along with the other Future Foundation Directors, is forced to participate in the Final Killing Game.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95095,
+          "name": {
+            "full": "Junichi Suwabe",
+            "native": "諏訪部順一"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95095-DvSjTQnqcgXP.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 90248,
+        "name": {
+          "full": "Monaka",
+          "native": "塔和最中",
+          "alternative": [
+            "Monaca",
+            "モナカ",
+            "Li'l Ultimate Homeroom",
+            "超小学生級の学活の時間",
+            "The Mage"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90248-AzgYKpveXUQN.jpg"
+        },
+        "description": "__Height:__ 134 cm (4'5\")\n\nThe true leader of the Warriors of Hope and the head of the \"Mage\" class. Her title when she attended Hope's Peak Elementary was Li'l Ultimate Homeroom (超小学生級の学活の時間 lit. Super Elementary School Level Homeroom Period).\n\n~!Her last name is Towa, as she is actually from the powerful Towa family and is Haiji's younger half-sister.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95004,
+          "name": {
+            "full": "Aya Hirano",
+            "native": "平野綾"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95004-qWQQHGzY3wqr.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 90006,
+        "name": {
+          "full": "Sounosuke Izayoi",
+          "native": "十六夜惣之助",
+          "alternative": [
+            "Yoi",
+            "Ultimate Blacksmith",
+            "Super High School Level Blacksmith (超高校級の鍛冶屋)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90006-FTLBsCtwsQRb.jpg"
+        },
+        "description": "__Height:__ 180 cm (5'9\")\n__Talent:__ Ultimate Blacksmith\n\nA former student of Class 76th at Hope's Peak Academy. He is a member of the Future Foundation as the Branch Office 9 Director, responsible for the preparation, development, and management of armaments/weapons. He, along with the other directors, is forced to participate in the Final Killing Game.\n\nSonosuke is stated to be a \"silent type\" who avoids talking to others, the only exception being his romantic partner, Ruruka. Sonosuke is incredibly loyal and protective of her, drawing a weapon on anyone who gets close to her. He loves Ruruka's candy and she seems to feed him as a reward, him often resting his head on her lap as he eats and calling the sweets \"dewicious\". Once Sonosuke's trust is broken, it is very difficult to gain it back, as he believes \"once a traitor, always a traitor\".\n\nAs the Ultimate Blacksmith, Sonosuke is skilled at developing and using different weapons, and he stocks all kinds of hidden weapons inside his coat. His parents, who were also blacksmiths, taught him from a very young age. At the Academy, he opened his own shop to take requests from people to forge any weapons they requested. He created weapons for two purposes, practical and collection. He takes a special interest in weapons that would typically used by ninja. He is also shown to be able to create many kinds of traps, including explosives that can be triggered with a switch or pressure activated traps.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102695,
+          "name": {
+            "full": "Takuya Eguchi",
+            "native": "江口拓也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102695-dGzsJkor0KMj.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 90001,
+        "name": {
+          "full": "Kouichi Kizakura",
+          "native": "黄桜 公一",
+          "alternative": [
+            "Ultimate Talent Scout"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b90001-CHdrJUvYuvHW.png"
+        },
+        "description": "__Talent:__ Ultimate Talent Scout\n\nDuring his time at Hope's Peak Academy, he was the original homeroom teacher of Class 77-B, being succeeded by [Chisa Yukizome](https://anilist.co/character/90003/Chisa-Yukizome), and a scout for talented students.\n\nHe is a member of the Future Foundation and is the Branch Office 3 Director. His responsibility as the director is general HR, including scouting of members and branch heads, distribution of personnel, etc. He, along with the other Future Foundation Directors, is forced to participate in the Final Killing Game.\n\nHe was once a former student of Hope's Peak Academy.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95063,
+          "name": {
+            "full": "Keiji Fujiwara",
+            "native": "藤原啓治"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95063-xAsEUzspuLMG.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 120463,
+        "name": {
+          "full": "Nagisa Shingetsu",
+          "native": "新月渚",
+          "alternative": [
+            "Li'l Ultimate Social Studies",
+            "超小学生級の社会の時間",
+            "The Sage"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/120463-RSyysXjY3Faz.jpg"
+        },
+        "description": "__Height:__ 137 cm (4'6\")\n\nThe vice leader of the Warriors of Hope and the head of the \"Sage\" class. His title when he attended Hope's Peak Elementary was Li'l Ultimate Social Studies.\n\nNagisa is the most serious member of the Warriors. He is calm, intelligent and educated, yet also the most child-like. He has an aversion to things he considers childish and, though he refers to himself as a child, doesn't like to be underestimated on the basis of age.\n\nNagisa is incredibly loyal, humble, compassionate and protective over his friends and fellow children, truly caring about them even though they often annoy him a lot. He is willing to go to any lengths to ensure that they don't have to live in fear any longer.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95655,
+          "name": {
+            "full": "Mariya Ise",
+            "native": "伊瀬茉莉也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95655-cR519BXmteKA.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 131872,
+        "name": {
+          "full": "Kyousuke Munakata",
+          "native": "宗方京助",
+          "alternative": [
+            "Super High School-Level Student Council President",
+            "Former Ultimate Student Council President",
+            "Ultimate Student Council President"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131872-33qX7Gg1pyMB.jpg"
+        },
+        "description": "__Height:__ 186cm (6'1\")\n__Talent:__ Ultimate Student Council President\n\nA character featured in _Danganronpa 3: The End of Hope's Peak High School_. During his time in Class 74th at Hope's Peak Academy, his title was the Ultimate Student Council President. He is later the vice-chairman of the Future Foundation and is the Branch Office 2 Director. His responsibility as the director is the management of the Future Foundation, including construction of new facilities, expansion of the organization, etc. He, along with the other Future Foundation Directors, is forced to participate in the Final Killing Game.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95006,
+          "name": {
+            "full": "Toshiyuki Morikawa",
+            "native": "森川智之"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95006-hoLuiZANeD3Q.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 89998,
+        "name": {
+          "full": "Ruruka Andou",
+          "native": "安藤流流歌",
+          "alternative": [
+            "Ultimate Confectioner",
+            "Super High School Level Confectioner (超高校級のお菓子職人)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89998-EmSCesYfaaxX.png"
+        },
+        "description": "__Height:__ 162 cm (5'4\")\n__Talent:__ Ultimate Confectioner\n\nDuring her time in Class 76th at Hope's Peak Academy.\n\nIn Future Arc, she is a member of the Future Foundation and is the Branch Office 8 Director. Her responsibility as the director is assistance in procuring stable food sources. She, along with the other Future Foundation Directors, is forced to participate in the Final Killing Game.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 106297,
+          "name": {
+            "full": "Inori Minase",
+            "native": "水瀬いのり"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n106297-DUyxkSjS9pEK.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 165525,
+        "name": {
+          "full": "Miaya Gekkogahara",
+          "native": "月光ヶ原美彩",
+          "alternative": [
+            "Ultimate Therapist",
+            "超高校級のセラピスト",
+            "Super High School Level Therapist"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165525-LT1lMmxKj1fs.png"
+        },
+        "description": "__Height:__ 153cm (5'0\")\n__Talent:__ Ultimate Therapist\n\nDuring her time at Hope's Peak Academy, her title was the Ultimate Therapist, where she also helped develop the Neo World Program. She is a member of the Future Foundation and is the Branch Office 7 Director. Her responsibility as the director is providing security to deal with cyber threats and development of new ways to cure despair. She, along with the other Future Foundation Directors, is forced to participate in the Final Killing Game.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 131696,
+        "name": {
+          "full": "Jatarou Kemuri ",
+          "native": "煙蛇太郎",
+          "alternative": [
+            "Li'l Ultimate Art",
+            "超小学生級の図工の時間",
+            "The Priest"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131696-yknvhubgnBTa.png"
+        },
+        "description": "__Height:__ 130 cm (4'3\")\n\nOne of the five members of the Warriors of Hope and the head of the \"Priest\" class. His title when he attended Hope's Peak Elementary was Li'l Ultimate Art (超小学生級の図工の時間 lit. Super Elementary School Level Drawing Period).",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 131632,
+        "name": {
+          "full": "Jin",
+          "native": "霧切仁",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/n131632-8o3BqZPpfZoE.jpg"
+        },
+        "description": "The headmaster of Hope's Peak Academy.\n\n~!He is Kyouko's father. He left her when she was a child.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95113,
+          "name": {
+            "full": "Rikiya Koyama",
+            "native": "小山力也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 90002,
+        "name": {
+          "full": "Great Gozu",
+          "native": "グレート・ゴズ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/90002-dtpd3EcvDw0p.jpg"
+        },
+        "description": null,
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95720,
+          "name": {
+            "full": "Kenta Miyake",
+            "native": "三宅健太"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95720-enxx6kZKuwGi.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 131698,
+        "name": {
+          "full": "Masaru  Daimon ",
+          "native": "大門大",
+          "alternative": [
+            "Li'l Ultimate P.E.",
+            "超小学生級の体育の時間",
+            "The Hero"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131698-ZlenTDpl5jDR.jpg"
+        },
+        "description": "__Height:__ 131 cm (4'3\")\n\nThe \"leader\" of the Warriors of Hope and the head of the \"Hero\" class. His title when he attended Hope's Peak Elementary was Li'l Ultimate P.E. (超小学生級の体育の時間 lit. Super Elementary School Level P.E. Period).\n\nMasaru is a naive, cheerful, hotheaded, and extremely energetic showoff who constantly brags about his role as the hero and leader of the Warriors of Hope, despite the fact that he earned the latter title just by winning a game of rock paper scissors. He loves to boss others around, calling himself \"Lord Masaru Daimon\". Although he's rather childish and arrogant, Masaru is very focused on becoming the ruler of Towa City and the children's paradise, and genuinely cares about the people he leads. He takes his role as the \"hero\" very seriously, working hard to be seen as brave, fearless, and undefeated so that the other children won't need to feel afraid anymore.\n\n__His Past and Trauma:__\n~!Masaru grew up with an alcoholic father who would verbally and physically abuse him for the smallest of reasons. He would also make Masaru buy alcohol for him, which ended up forcing Masaru to repeatedly steal in order to do so, as he couldn't buy alcohol at such a young age. In spite of this, he was terrified that his father would abandon him. Because of this upbringing, Masaru constantly believes that everything is his own fault because he can't do things properly like his dad wanted.!~\n\n__During the Tragedy:__\n~!Around the time when the Tragedy was first starting, Masaru was on the verge of committing suicide with the other Warriors of Hope when Junko Enoshima appeared and stopped them, convincing them that the adults are wrong and that they should create a paradise for children. Junko then took the five under her wing, and shortly afterward, Masaru murdered his parents with no regrets.!~\n\n~!Masaru is the first of the Warriors of Hope to challenge Komaru and Touko to a battle, with the intent of killing them. However, the two end up defeating Masaru, and he is then dragged away by a swarm of Monokuma Kids, leaving only his headphones behind. Despite the kids' reports that Masaru was \"captured by adults\", Monaka insists that he died, and appoints Nagisa as the new leader of the group.\n\nIn the end it's revealed that Masaru, along with the other defeated warriors, actually survived.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": []
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 89997,
+        "name": {
+          "full": "Kazuo Tengan",
+          "native": "天願和夫",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b89997-HHe2cga08Q2F.jpg"
+        },
+        "description": "__Height:__ 140 cm (4'7\")\n\nThe Former Director of Hope's Peak, being succeeded by Jin Kirigiri.\n\nIn Future Arc, he is the founder and chairman of the Future Foundation and is the Branch Office 1 Director. His responsibility as the director is leadership and deciding the conensus of opinion in the Future Foundation. He, along with the other Future Foundation Directors, is forced to participate in the Final Killing Game.\n\n~!In the end, he is revealed to be the mastermind behind the Final Killing Game and an Ultimate Despair.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95018,
+          "name": {
+            "full": "Hidekatsu Shibata",
+            "native": "柴田秀勝"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95018-HXJMMED74SVO.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 90004,
+        "name": {
+          "full": "Daisaku Bandai",
+          "native": "万代 大作",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/90004-6Iu6dXEn6Mbs.jpg"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95008,
+          "name": {
+            "full": "Rie Kugimiya",
+            "native": "釘宮理恵"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95008-2y0EeuSTHIri.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 165524,
+        "name": {
+          "full": "Physical Education Teacher",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b165524-n5Yawet1vrtz.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 165695,
+          "name": {
+            "full": "Mika Nakamura",
+            "native": "中村美香"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/default.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}

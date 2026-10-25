@@ -1,0 +1,820 @@
+{
+  "id": 16592,
+  "title": {
+    "romaji": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei - The Animation",
+    "english": "Danganronpa: The Animation",
+    "native": "ダンガンロンパ 希望の学園と絶望の高校生 The Animation"
+  },
+  "synonyms": [
+    "ダンガンロンパ The Animation",
+    "Danganronpa: Academy of Hope and High School Students of Despair THE ANIMATION",
+    "Danganronpa: Sekolah Harapan dan Murid yang Putus Asa"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2013,
+    "month": 6,
+    "day": 23
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Psychological",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "popularity": 235454,
+  "characters": [
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 63845,
+        "name": {
+          "full": "Kyouko Kirigiri",
+          "native": "霧切響子",
+          "alternative": [
+            "Kyoko Kirigiri",
+            "Miss Conan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63845-43rWjycWhYFF.png"
+        },
+        "description": "__Height:__ 167 cm (5'5\")\n__Talent:__ ???\n\nKyouko is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. Her talent is unknown.\n\nKyouko is a mysterious, stoic, and independent person who deliberately masks her feelings so that others won't be able to read her. Because of this, she has a cold demeanor and appears to remain calm and collected in most situations. Despite this, however, she can sometimes let her emotions get the best of her when she's especially upset. Though aloof and slow to trust others, Kyouko is adept at noticing things that the other students don't, which proves vital once bodies start turning up. She often advises [Makoto](https://anilist.co/character/63851/Naegi-Makoto) on conducting investigations.\n\n~!Her actual talent is the Super High School Level Detective, or the Ultimate Detective in the English localization.!~\n",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 102263,
+          "name": {
+            "full": "Youko Hikasa",
+            "native": "日笠陽子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n102263-aaPZtNXVUljW.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 65523,
+        "name": {
+          "full": "Junko Enoshima",
+          "native": "江ノ島盾子",
+          "alternative": [
+            "Chou Koukou Kyuu no Gal (超高校級のギャル)",
+            "Super High School Level Gal",
+            "Super High School Level Gyaru",
+            "Ultimate Fashionista"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65523-OztiX9PhydrG.png"
+        },
+        "description": "__Height:__ 169 cm (5'7\")\n__Talent:__ Gyaru\n\nJunko is a student in Hope's Peak Academy's Class 78th, and a participant in the Killing School Life. She is the Super High School Level Gyaru, or Ultimate Fashionista in the English localization.\n\nJunko is talkative, charismatic, and can be hotheaded at times.\n\n~!It is discovered that the girl who introduced herself as Junko wasn't really Junko at all, but actually Mukuro Ikusaba, her twin sister, the Ultimate Soldier. She was the \"victim\" of the fifth murder, her body having been used to create a fake crime scene. The real Junko, the younger twin who she switched places with, was the mastermind behind Monokuma, as well as the Tragedy.!~\n\n~!Junko's real personality and mannerisms are erratic and unstable, switching through several \"personalities\" at the drop of a hat, which she says is because she gets bored easily. Junko is incredibly manipulative and cunning, having orchestrated the Tragedy. She is obsessed with despair and finds it to be the most enjoyable emotion in the world.!~\n\n~!It is eventually revealed that her true talent is that of Super High School Level Analytical Prowess. This ability allows her to quickly analyze her surroundings with superhuman speed, detailed thinking, and memorization, giving her the ability to predict the future with near-perfect accuracy, as well as be able to learn and understand new skills by just seeing it once. This ability is also what gave Junko her \"Ultimate Fashionista\" title: because she's able to predict trends, she can predict what will become popular with society.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95144,
+          "name": {
+            "full": "Megumi Toyoguchi",
+            "native": "豊口めぐみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95144-9Y8CtDVmxogE.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 65525,
+        "name": {
+          "full": "Celestia Ludenberg",
+          "native": "セレスティア・ルーデンベルク",
+          "alternative": [
+            "Celeste",
+            "Celes",
+            "Queen of Liars",
+            "Ultimate Gambler",
+            "Chou Koukou Kyuu no Gambler (超高校級のギャンブラー)",
+            "Super High School Level Gambler"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65525-BoB482T3oEoN.jpg"
+        },
+        "description": "__Height:__ 164 cm (5'5\")\n__Talent:__ Gambling\n\nCelestia is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. She is the Super High School Level Gambler, or the Ultimate Gambler in the English localization.\n\nAlso known as the \"Queen of Liars\", Celestia is renowned for her exemplary luck in games of chance. She's accumulated a sizable fortune by robbing anyone stupid enough to challenge her blind. She speaks softly and smiles often, but in a way that tends to creep out everyone around her. She also hides a surprisingly short temper and will start shouting (usually at [Hifumi](https://anilist.co/character/65535/Yamada-Hifumi)) if she isn't pleased.  \n\n~!Her true name is Taeko Yasuhiro.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96482,
+          "name": {
+            "full": "Hekiru Shiina",
+            "native": "椎名へきる"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96482-dH6qurWW2af8.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 63851,
+        "name": {
+          "full": "Makoto Naegi",
+          "native": "苗木誠",
+          "alternative": [
+            "Ultimate Lucky Student",
+            "Chou Koukou Kyuu no Kou'un (超高校級の幸運)",
+            "Super High School Level Good Luck"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63851-PnzyOWEPVPHD.jpg"
+        },
+        "description": "__Height:__ 160 cm (5'3\")\n__Talent:__ Good Luck\n\nMakoto is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. His talent is Super High School Level Good Luck (超高校級の幸運), meaning he got into Hope's Peak by winning a lottery, rather than being scouted for an extraordinary talent like everyone else. His title is the Ultimate Lucky Student in the English localization.\n\nMakoto is friendly and a lot more down-to-earth than other students. He tends to act passively in conversation. According to him, his most distinguishing feature is his optimism.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95287,
+          "name": {
+            "full": "Megumi Ogata",
+            "native": "緒方恵美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95287-3moX16xmYedv.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 73235,
+        "name": {
+          "full": "Monokuma",
+          "native": "モノクマ",
+          "alternative": [
+            "Ultimate Despair Headmaster",
+            "Monobear"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73235-74a7Y1lzFnDv.jpg"
+        },
+        "description": "__Height:__ 75 cm (2'6\") (DR1 & DRV3), 65 cm (2'2\") (DR2)\n\nA stuffed robotic bear and the self-proclaimed Headmaster of Hope's Peak Academy who instigates the various killing games in the Danganronpa series. Monokuma is often described as easygoing and cheerful at first glance, but with a very sinister undertone.. He loves hysteria, violence, chaos, and most of all, despair.",
+        "gender": "None (DR1), Male (DR2 & DRV3)",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 100902,
+          "name": {
+            "full": "Nobuyo Ooyama",
+            "native": "大山のぶ代"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n100902-J6Njn8XxBtYV.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 65529,
+        "name": {
+          "full": "Touko Fukawa",
+          "native": "腐川冬子",
+          "alternative": [
+            "Ultimate Writing Prodigy",
+            "Chou Koukou Kyuu no Bungaku Shoujo (超高校級の文学少女)",
+            "Super High School Level Literary Girl",
+            "Toki"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65529-oy5acbdyUy4r.jpg"
+        },
+        "description": "__Height:__ 165 cm  (5'5\")\n__Talent:__ Literature\n\nTouko is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. She is the Super High School Level Literary Girl, or the Ultimate Writing Prodigy in the English localization.\n\nDue to her severe persecution complex that originates from the bullying she suffered at a young age, Touko is highly suspicious of other people, frequently accusing them of thinking bad things about her. She has also caused others to give a bad first impression of her as she is known to blatantly insult others, even though it is the very first time they have met. Despite her young age, she has already won several awards for her writing, and her works are constantly on top of selling lists. She is also in love with [Byakuya Togami](https://anilist.co/character/65541/Togami-Byakuya), constantly swooning over him and acting extremely submissive towards him, although her affection is one-sided.\n\n~!Touko actually has two different identities, the other being the infamous serial killer, Genocider Sho.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95099,
+          "name": {
+            "full": "Miyuki Sawashiro",
+            "native": "沢城みゆき"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 65541,
+        "name": {
+          "full": "Byakuya Togami",
+          "native": "十神白夜",
+          "alternative": [
+            "Ultimate Affluent Progeny",
+            "Chou Koukou Kyuu no Onzoushi (超高校級の御曹司)",
+            "Super High School Level Heir"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65541-Nha4B0vJIkFA.png"
+        },
+        "description": "__Height:__ 185 cm (6'1\")\n__Talent:__ Heir\n\nByakuya is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. He is the Super High School Level Heir, or the Ultimate Affluent Progeny in the English localization.\n\nByakuya is arrogant, seeing himself superior to his peers due to having fought to become the heir to his family's massive financial conglomerate. However, he is a sensible student who holds a truthful, albeit cynical, outlook on the world. He is ruthlessly honest about his opinions and often hurts others with his blunt remarks. Despite his negative attitude, he does occasionally lend a hand to other characters.\n",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95017,
+          "name": {
+            "full": "Akira Ishida",
+            "native": "石田彰"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 66573,
+        "name": {
+          "full": "Chihiro Fujisaki",
+          "native": "不二咲千尋",
+          "alternative": [
+            "Ultimate Programmer",
+            "Chou Koukou Kyuu no Programmer (超高校級のプログラマー)",
+            "Super High School Level Programmer",
+            "Chi-tan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b66573-a2VZm5cfacP5.png"
+        },
+        "description": "__Height:__ 148 cm (4'9\")\n__Talent:__ Programming\n\nA student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. Chihiro is the Super High School Level Programmer, or the Ultimate Programmer in the English localization.\n\nChihiro is a computer genius behind numerous innovative software. Has a very timid, meek personality, crying easily and apologizing often. However, Chihiro loves to talk about programming and becomes much livelier when it's brought up. \n\nAs a kid, Chihiro spent most of the time on the computer. Chihiro's father, [Taichi Fujisaki](https://anilist.co/character/174957/Fujisaki-Taichi), was a software engineer who developed many major computer programs. While using his computer one day, Chihiro ended up modifying one of Taichi's incomplete programs and soon realized that she could write programs, after that, Chihiro became absorbed in programming and became famous for creating cutting-edge programs, including top-secret AI programs for an unnamed company, and gained many fans for resembling a \"timid little bunny\".\n",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95344,
+          "name": {
+            "full": "Kouki Miyata",
+            "native": "宮田幸季"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95344-wYgLhxYeWEp4.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 65531,
+        "name": {
+          "full": "Aoi Asahina",
+          "native": "朝日奈葵",
+          "alternative": [
+            "Hina",
+            "Ultimate Swimming Pro",
+            "Chou Koukou Kyuu no Swimmer (超高校級のスイマー)",
+            "Super High School Level Swimmer"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65531-zem6Bi2RRK2Q.jpg"
+        },
+        "description": "__Height:__ 160 cm (5'3\")\n__Talent:__ Swimming\n\nAoi is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. She is the Super High School Level Swimmer (超高校級のスイマー), or Ultimate Swimming Pro in the English localization.\n\nAlways energetic and friendly, Asahina is also a bit airheaded. She has difficulty remembering names.  \n\n",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95061,
+          "name": {
+            "full": "Chiwa Saitou",
+            "native": "斎藤千和"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95061-ncYFfzPJDoQV.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 78137,
+        "name": {
+          "full": "Mukuro Ikusaba",
+          "native": "戦刃むくろ",
+          "alternative": [
+            "Ultimate Soldier",
+            "Super High School Level Soldier (超高校級の軍人)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b78137-UfsRPvPOdMAk.jpg"
+        },
+        "description": "__Height:__ 169 cm (5'7\")\n__Talent:__ Soldier\n\nMukuro is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. She is the Super High School Level Soldier (超高校級の軍人), or Ultimate Soldier in the English localization.\n\n~!During the Killing School Life, Mukuro disguised as her younger twin sister, Junko Enoshima, and joined the remaining fifteen students to carry out Junko's plan. However, Mukuro ended up being killed by her: shortly after the first murder, Mukuro was supposed to follow a plan she had agreed on with her sister, but on a whim, Junko decided to kill her for real and Mukuro was brutally impaled by Monokuma with numerous spears, dubbed \"Heavenly Spear, Gungnir\". This incident misled the other students into thinking that “Junko” was killed.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95144,
+          "name": {
+            "full": "Megumi Toyoguchi",
+            "native": "豊口めぐみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95144-9Y8CtDVmxogE.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 63849,
+        "name": {
+          "full": "Sayaka Maizono",
+          "native": "舞園さやか",
+          "alternative": [
+            "Ultimate Pop Sensation",
+            "Chou Koukou Kyuu no Idol (超高校級のアイドル)",
+            "Super High School Level Idol"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b63849-wA9ddqRcEyug.png"
+        },
+        "description": "__Height:__ 165 cm (5'5\")\n__Talent:__ Idol\n\nSayaka is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. She is the Super High School Level Idol (超高校級のアイドル), or the Ultimate Pop Sensation in the English localization.\n\nShe is the lead singer of an incredibly popular idol group. She and Makoto were classmates in middle school.\n",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95745,
+          "name": {
+            "full": "Makiko Oomoto",
+            "native": "大本眞基子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95745-CQXJmwHVOdpn.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 75434,
+        "name": {
+          "full": "Sakura Oogami",
+          "native": "大神さくら",
+          "alternative": [
+            "Ogami",
+            "Ogre",
+            "Ultimate Martial Artist",
+            "Chou Koukou Kyuu no Kakutouka (超高校級の格闘家)",
+            "Super High School Level Marial Artist"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b75434-KFXsL2xG9Ckm.jpg"
+        },
+        "description": "__Height:__ 192 cm (6'4\")\n__Talent:__ Martial Arts\n\nSakura is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. She is the Super High School Level Martial Artist (超高校級の格闘家), or Ultimate Martial Artist in the English localization.\n\nContrary to what her appearance might suggest, Sakura is a kind and level-headed girl. She rarely loses her nerve and seems able to maintain clarity in almost any situation. During more rare moments, she can lose her temper completely and become extremely intense, particularly when her friends get hurt. She also gets impatient if she cannot properly train for a long period of time. She is known for her love of protein and enjoys exercising early in the morning before a large breakfast.\n\nDue to her more old-fashioned upbringing, Sakura has a habit of talking in an old-fashioned, formal manner. Being raised as the sole heir to a dojo with a three-hundred-year history, she believes that being a martial artist is simply her destiny. Along with learning martial arts, she learned to respect nature and animals, being particularly fond of rabbits as they never seem to get frightened when she holds them.\n\nAlong with protecting her legacy as her sworn duty, Sakura wants to prove that a woman can be the Strongest Person Alive. She also believes that she must work harder than men to achieve this goal. As a result of striving to be strong, Sakura is embarrassed about her own softer feelings and being feminine, assuming that other people would laugh at her if they knew.\n\n",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95103,
+          "name": {
+            "full": "Kujira",
+            "native": "くじら"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95103-RJDTcqbeoOUF.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 65543,
+        "name": {
+          "full": "Kiyotaka Ishimaru",
+          "native": "石丸清多夏",
+          "alternative": [
+            "Taka",
+            "Tick Tock",
+            "Ultimate Moral Compass",
+            "Chou Koukou Kyuu no Fuuki Iin (超高校級の風紀委員)",
+            "Super High School Level Public Morals"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65543-eyfH7fv9FMw9.jpg"
+        },
+        "description": "__Height:__ 176 cm (5'9\")\n__Talent:__ Disciplinary Committee Member\n\nKiyotaka is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. He is the Super High School Level Disciplinary Committee Member (超高校級の風紀委員), or Ultimate Moral Compass in the English localization.\n\nKiyotaka is righteous and values order above all else. He is also a hard worker, believing that one can achieve anything through hard work. In fact, he earned his title by the same means too. Due to his extreme dedication to studying and proper conduct, he has difficulties in making friends and could not even hold a ‘normal’ conversation with another person. Kiyotaka is very expressive and intense in his manner of speech.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95097,
+          "name": {
+            "full": "Kousuke Toriumi",
+            "native": "鳥海浩輔"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95097-BhSegy6KBLbE.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 131870,
+        "name": {
+          "full": "Komaru Naegi",
+          "native": "苗木こまる",
+          "alternative": [
+            "Omaru",
+            "Dekomaru",
+            "Komarucchi",
+            "Slowpokemaru",
+            "ドンコマル"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b131870-XdhoqOi2W0RO.jpg"
+        },
+        "description": "__Height:__ 163 cm (5'4\")\n\nThe main protagonist of _Danganronpa Another Episode: Ultra Despair Girls_ and the younger sister of [Makoto Naegi](https://anilist.co/character/63851/Naegi-Makoto).\n\nKomaru begins as a somewhat hypersensitive and cowardly person who often wavers between hope and despair. She doesn't want to have strong hope, because she believes it will be lost eventually, leading to worse despair. She has low self-esteem, considering herself boring, ordinary, and weak. She also shows some childish traits, such as being naive, reliant, and easily excitable. She also has an 'unusual' kind of pride, as she gets really worked up from the puzzles of the Monokuma Kids and brags towards the kids when she solves them. She is also very gullible and rather innocent as well, as doesn't seem to have much interest in romance nor sexual things. It's been stated that in the past some creepy guys have taken interest in her, supposedly because of her gullibility, and it's been shown that she isn't very good at noticing their intentions.\n\nWhile a kind person, Komaru sometimes has a hard time relating to certain people and subjects, because she herself has lived a very ordinary life. However, she herself has a few very unusual traits as well, including her strange favorite foods and her apparent ability to sense ghosts, although she doesn't seem to think these traits are anything unusual. Despite sometimes giving up too easily, there are other times which Komaru shows how stubborn and determined she can be. She has a weakness in complicated subjects such as basic computer science, but she does have moments where she is intuitive.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 103921,
+          "name": {
+            "full": "Aya Uchida",
+            "native": "内田彩"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n103921-bnSaJsF0jgH1.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 65539,
+        "name": {
+          "full": "Mondo Oowada",
+          "native": "大和田紋土",
+          "alternative": [
+            "Owada",
+            "Ultimate Biker Gang Leader",
+            "Chou Koukou Kyuu no Bousouzoku (超高校級の暴走族)",
+            "Super High School Level Biker Gang Leader"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65539-zX1oS4BXtgma.jpg"
+        },
+        "description": "__Height:__ 187 cm (6'2\")\n__Talent:__ Biker Gang Leader\n\nMondo is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. He is the Super High School Level Biker Gang Leader (超高校級の暴走族), or Ultimate Biker Gang Leader in the English localization.\n\nMondo is the second leader of the Crazy Diamonds, Japan's largest and most feared biker gang. He has ​high respect for his brother from whom he inherited the gang from after he died. Mondo acts tough and has a strong sense of honor and loyalty to his companions. After he finishes his role as a gang member, he wants to become a carpenter.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95123,
+          "name": {
+            "full": "Kazuya Nakai",
+            "native": "中井和哉"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95123-54LrTiD9kGwY.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 73237,
+        "name": {
+          "full": "Monomi",
+          "native": "モノミ",
+          "alternative": [
+            "Usami (ウサミ)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b73237-w99yKcSulioC.jpg"
+        },
+        "description": "\nUsami  is a rabbit magical girl who features as the mascot character of Danganronpa 2: Goodbye Despair, appearing in the game as the lead teacher of the school trip. After being assaulted by Monokuma, Usami's appearance is forcibly changed to greater resemble him, with Monokuma renaming her Monomi as a result.",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 104803,
+          "name": {
+            "full": "Takako Sasuga",
+            "native": "貴家堂子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n104803-yeCHDr73XZuI.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 65533,
+        "name": {
+          "full": "Yasuhiro Hagakure",
+          "native": "葉隠康比呂",
+          "alternative": [
+            "Hiro",
+            "Taro",
+            "Afro Thunder",
+            "Ultimate Clairvoyant",
+            "Chou Koukou Kyuu no Uranaishi (超高校級の占い師)",
+            "Super Super High School Level Fortune Teller"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65533-TTk8RyEQaoSe.jpg"
+        },
+        "description": "__Height:__ 180 cm (5'11\")\n__Talent:__ Fortune Telling\n\nYasuhiro is a student of Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. He is the Super High School Level Fortune Teller, or Ultimate Clairvoyant in the English localization.\n\nYasuhiro is cheery, laid-back, and a bit of a conspiracy theorist. He isn't very well-liked by the other students, and Yasuhiro himself has admitted that he is quite cowardly, lazy, slow-witted, and has a habit to act selfishly. Notably, he is mentioned to be very clumsy with money and he has constant problems with massive debts.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95042,
+          "name": {
+            "full": "Masaya Matsukaze",
+            "native": "松風雅也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95042-gEcEYD7iDXnF.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 65537,
+        "name": {
+          "full": "Leon Kuwata",
+          "native": "桑田怜恩",
+          "alternative": [
+            "Ultimate Baseball Star",
+            "Chou Koukou Kyuu no Yakyuu Senshu (超高校級の野球選手)",
+            "Super High School Level Baseball Player"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65537-SwnvmZnRJlTa.jpg"
+        },
+        "description": "__Height:__ 175 cm (5'9\")\n__Talent:__ Baseball\n\nLeon is a student of Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. He is the Super High School Level Baseball Player (超高校級の野球選手), or the Ultimate Baseball Star in the English localization.\n\nLeon is passionate and hot-blooded. He often slacks off from studying and baseball training. However, he never encountered any problem with his attitude due to his status as the Super High School Level Baseball Player. He claims that he actually never liked baseball, and he is determined to change his title to \"Super High School Level Musician\" to win a heart of a girl that he happened to meet at the hair salon. Later, Leon actually states that he somewhat missed playing baseball; something that he did all the time since he was young.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95079,
+          "name": {
+            "full": "Takahiro Sakurai",
+            "native": "櫻井孝宏"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95079-MdbWTLxPUvFf.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 161671,
+        "name": {
+          "full": "Alter Ego",
+          "native": "アルターエゴ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161671-yVmxDXHBgsw5.png"
+        },
+        "description": "An artificial intelligence created by [Chihiro Fujisaki](https://anilist.co/character/66573/Fujisaki-Chihiro). Alter Ego has a kind personality that resembles Chihiro's. When portraying another person, Alter Ego can change their personality, appearance, and voice to mimic that person. It appears that Alter Ego is able to experience and show forms of happiness, determination, and bravery.\n",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95344,
+          "name": {
+            "full": "Kouki Miyata",
+            "native": "宮田幸季"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95344-wYgLhxYeWEp4.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 65535,
+        "name": {
+          "full": "Hifumi Yamada",
+          "native": "山田一二三",
+          "alternative": [
+            "Huffy",
+            "Chou Koukou Kyuu no Doujin Sakka (超高校級の同人作家)",
+            "Super High School Level Doujin Author",
+            "Ultimate Fanfic Creator"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b65535-4ilWWg0b012I.png"
+        },
+        "description": "__Height:__ 170 cm (5'7\")\n__Talent:__ Creating Doujins\n\nHifumi is a student in Hope's Peak Academy's Class 78th, and a participant of the Killing School Life. He is the Super High School Level Doujin Author (超高校級の同人作家), or Ultimate Fanfic Creator in the English localization.\n\nHifumi comes across as creepy and perverted, and he has a habit of referencing anime and video games. He loves Buko, the female lead in his favorite anime series, Heretic Angel ☆ Mochi Mochi Princess. He has a particular dislike toward people who supposedly don’t understand the true meaning of doujin. His dream is to ‘save’ other people by making a doujin that will inspire them to create their own.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95067,
+          "name": {
+            "full": "Kappei Yamaguchi",
+            "native": "山口勝平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 131632,
+        "name": {
+          "full": "Jin",
+          "native": "霧切仁",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/n131632-8o3BqZPpfZoE.jpg"
+        },
+        "description": "The headmaster of Hope's Peak Academy.\n\n~!He is Kyouko's father. He left her when she was a child.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95113,
+          "name": {
+            "full": "Rikiya Koyama",
+            "native": "小山力也"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95113-z9eyYjTKSTX4.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 161672,
+        "name": {
+          "full": "Daiya Oowada",
+          "native": "大和田大亜",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161672-77qc0lkF5wdJ.png"
+        },
+        "description": "The founder and former leader of the Crazy Diamonds, Japan's largest motorcycle gang, and the older brother of Mondo Owada.\n\n~!Daiya died on the night of his retirement party to save Mondo, who had been driving too recklessly in an attempt to win the race that Mondo himself challenged to. Daiya's dying wish was for his little brother to lead the gang in his stead, and to not let it fall apart.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95020,
+          "name": {
+            "full": "Katsuyuki Konishi",
+            "native": "小西克幸"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95020-uOJO2IlwpcX0.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 161673,
+        "name": {
+          "full": "Naegi no Haha",
+          "native": "苗木の母",
+          "alternative": [
+            "Naegi's Mom"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161673-SyiJHYC82isK.png"
+        },
+        "description": "Makoto and Komaru Naegi's mother. She is briefly shown in the DVD given to Makoto by Monokuma as the first motive.\n\n~!It was unknown what happened to her and her and her husband after their disappearance, until revealed in _Danganronpa Another Episode: Ultra Despair Girls_, where they are shown hung in a room full of corpses. However, Komaru reveals to Makoto that upon entering the room where their parents were supposedly murdered, she found no sign of their bodies and concludes it is possible they are alive somewhere.!~",
+        "gender": "Female",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95099,
+          "name": {
+            "full": "Miyuki Sawashiro",
+            "native": "沢城みゆき"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95099-jKP4LfPWqetk.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 161674,
+        "name": {
+          "full": "Naegi no Papa",
+          "native": "苗木のパパ",
+          "alternative": [
+            "Naegi's Dad"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b161674-z5k0XwJDoww3.png"
+        },
+        "description": "Makoto and Komaru Naegi's father. He is briefly shown in the DVD given to Makoto by Monokuma as the first motive.\n\n~!It was unknown what happened to him and his wife after their disappearance, until revealed in _Danganronpa Another Episode: Ultra Despair Girls_, where they are shown hung in a room full of corpses. However, Komaru reveals to Makoto that upon entering the room where their parents were supposedly murdered, she found no sign of their bodies and concludes it is possible they are alive somewhere.!~",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95067,
+          "name": {
+            "full": "Kappei Yamaguchi",
+            "native": "山口勝平"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95067-hqIpNxMfAuN2.png"
+          }
+        }
+      ]
+    }
+  ]
+}

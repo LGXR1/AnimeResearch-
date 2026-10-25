@@ -1,0 +1,931 @@
+{
+  "id": 21595,
+  "title": {
+    "romaji": "Sakamoto desu ga?",
+    "english": "Haven't You Heard? I'm Sakamoto",
+    "native": "坂本ですが?"
+  },
+  "synonyms": [
+    "Sakamoto, pour vous servir !",
+    "เทพศาสตร์ซากาโมโต้",
+    "Gak Pernah Dengar Nama Aku Sakamoto?",
+    "Soy Sakamoto, ¿por?"
+  ],
+  "format": "TV",
+  "status": "FINISHED",
+  "startDate": {
+    "year": 2016,
+    "month": 4,
+    "day": 8
+  },
+  "countryOfOrigin": "JP",
+  "genres": [
+    "Comedy",
+    "Slice of Life"
+  ],
+  "popularity": 193074,
+  "characters": [
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 36309,
+        "name": {
+          "full": "Narrator",
+          "native": "ナレーター",
+          "alternative": [
+            "Katarite (語り手)",
+            "Narration (ナレーション)",
+            "Narrador",
+            "Rozprávač",
+            "Vyprávěč",
+            "Dış ses",
+            "Narratore",
+            "Pripovjedač",
+            "Narradora",
+            "Рассказчик",
+            "Người dẫn chuyện",
+            "Tagapagsalaysay",
+            "내레이터",
+            "Narratore",
+            "Erzählperson",
+            "מספר",
+            "Narrátor",
+            "讲述人",
+            "راوي",
+            "Forteller",
+            "Berättare",
+            "Αφηγητής",
+            "Narrate"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b36309-6KM0riV4lqfN.jpg"
+        },
+        "description": "This character page is set to represent and list all narrators, which haven't been given a visual representation of themselves in their respective work. \n\nPlease add other narrator characters, which were given a visual representation of themselves, separately from this narrator page.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95339,
+          "name": {
+            "full": "Kiyoshi Kobayashi",
+            "native": "小林清志 "
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95339-lEIGi2vIa2hN.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "MAIN",
+      "node": {
+        "id": 123574,
+        "name": {
+          "full": "Sakamoto",
+          "native": "坂本",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b123574-BjW3yjFwphP0.jpg"
+        },
+        "description": "__Height:__ 180 cm (5'10.9\")\n\nSakamoto is the protagonist of the series who is a model student for all in his school. He is the perfect man who can solve any problem with a kind yet calm persona. Because of this, many girls fall for him, and his male classmates resent him. Although he acts strangely sometimes (such as doing weird poses or acting sneakily), it only adds to his coolness. Sakamoto has a range of \"secret skills\" which allow him to do various things, such as catch bugs or blow bubbles.",
+        "gender": "Male",
+        "age": "15"
+      },
+      "voiceActors": [
+        {
+          "id": 95112,
+          "name": {
+            "full": "Hikaru Midorikawa",
+            "native": "緑川光"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95112-c275OLptkSYO.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135864,
+        "name": {
+          "full": "Shou Hayabusa",
+          "native": null,
+          "alternative": [
+            "8823-senpai"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135864-usux4l3BrBcC.png"
+        },
+        "description": "Hayabusa is the leader of the second-year delinquent group. He seems to be more level-headed than the majority of the other delinquents, though he can still be easily angered when provoked. Due to his typically cool demeanor, a handful of underclassmen look up to him.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95068,
+          "name": {
+            "full": "Kouji Yusa",
+            "native": "遊佐浩二"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95068-AbL4cVGlYaM8.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135881,
+        "name": {
+          "full": "Atsushi Maeda",
+          "native": "前田あつし",
+          "alternative": [
+            "Acchan"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135881-gibbWH2Bfcgp.png"
+        },
+        "description": "A classmate in class 1-2, and one of the delinquent trio. His trademark is a red hat. Along with Kenken and Mario, he targets Sakamoto for bullying, but gets rebutted each and every time. He has since become a friend of his after Sakamoto helped rescue him and his friends when they were trapped in a room and accidentally lit the room with cigarettes. It is shown in a later episode that he has since switched to blowing bubbles. It has been hinted that he is harbouring a crush on Sakamoto, often blushing in his presence, stating how cool Sakamoto is, and even ordering a \"smile to-go\".",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95002,
+          "name": {
+            "full": "Tomokazu Sugita",
+            "native": "杉田智和"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95002-nDIvHaynicEg.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 127462,
+        "name": {
+          "full": "Yoshinobu Kubota",
+          "native": null,
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/127462-iwkwmmmzaYiA.jpg"
+        },
+        "description": "Kubota is a rather stocky young man with a heavy build and frizzy, wavy hair that parts in the middle. He seems on the shorter side compared to his peers and had a round nose with small, brown eyes and freckles on his cheeks. He befriends Sakamoto early on and endures many hardships through his High School career.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95017,
+          "name": {
+            "full": "Akira Ishida",
+            "native": "石田彰"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95017-GSRcmQ97a8ZT.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135871,
+        "name": {
+          "full": "Yuuya Sera",
+          "native": "瀬良裕也",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135871-JJlYPgaiANPL.png"
+        },
+        "description": "Sera Yuuya is a male student who is in the same class as Sakamoto. He disliked him for always stealing the class' attention. Sera was a teenage model until an incident involving Sakamoto and a wasp, and now is a class clown who makes bee jokes.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95178,
+          "name": {
+            "full": "Shoutarou Morikubo",
+            "native": "森久保祥太郎"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95178-8R9Itg3Y1v24.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135859,
+        "name": {
+          "full": "Fukase",
+          "native": "深瀬",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135859-AfUesBGI8aUN.png"
+        },
+        "description": "A long-time delinquent who is in his 30's, has an IQ of 180 and had a strange past. He is popular among delinquents due to his tendency of targeting popular students while manipulating others to do his dirty work.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95399,
+          "name": {
+            "full": "Mitsuo Iwata",
+            "native": "岩田光央"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/95399-HGKWUmKmZ1el.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135865,
+        "name": {
+          "full": "Aina Kuronuma",
+          "native": "黒沼あいな",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135865-aQmGjN4qRohR.jpg"
+        },
+        "description": "Kuronuma Aina is a female student in Sakamoto's class who falls for him. She is very popular among boys but has no interest for anyone else except Sakamoto, which makes her disliked by other girls. She charms the boys to do her bidding by making them fall in love with her through 'love lessons', which turned out to be totally invalid to Sakamoto.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95028,
+          "name": {
+            "full": "Yui Horie",
+            "native": "堀江由衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95028-MHT1m3E5wGZx.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135872,
+        "name": {
+          "full": "Megumi Fujita",
+          "native": "藤田恵",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135872-o3VE715goXAs.jpg"
+        },
+        "description": "A weak-willed class representative. Photography is her hobby, and she always takes pictures of how her class is doing. She has a strong feelings about Sakamoto.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95031,
+          "name": {
+            "full": "Mai Nakahara",
+            "native": "中原麻衣"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95031-ochR43o7TrWs.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135876,
+        "name": {
+          "full": "Yagi",
+          "native": "八木",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135876-gUfbTI0obRE8.jpg"
+        },
+        "description": "Yagi is a female student who belongs to Aina's circle of friends.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95184,
+          "name": {
+            "full": "Hitomi Nabatame",
+            "native": "生天目仁美"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95184-OpXCWNXhJJpg.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135866,
+        "name": {
+          "full": "Shigemi Kubota",
+          "native": "久保田茂美",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135866-BQ7ffb43tCNa.png"
+        },
+        "description": "Kubota Shigemi is Yoshinobu's mother, who fell for Sakamoto ever since she met him, as he resembles Chon Choriso, her favorite Korean actor.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95103,
+          "name": {
+            "full": "Kujira",
+            "native": "くじら"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95103-RJDTcqbeoOUF.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135874,
+        "name": {
+          "full": "Mii",
+          "native": "みー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135874-xrGKsewMD3ZG.png"
+        },
+        "description": "Mii-chan is a female student who belongs to Megumi's circle of friends.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95116,
+          "name": {
+            "full": "Kana Ueda",
+            "native": "植田佳奈"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95116-NvhEn6vNMiAq.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135863,
+        "name": {
+          "full": "Kakuta",
+          "native": "角田",
+          "alternative": [
+            "Kakuta-sensei (角田先生)"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135863-4MzHi2i9TINh.png"
+        },
+        "description": "Male gym teacher. In the name of student guidance, he is on the lookout every day for students who break the school rules.",
+        "gender": "Male",
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95091,
+          "name": {
+            "full": "Jouji Nakata",
+            "native": "中田譲治"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95091-idoMaN26z80B.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 135877,
+        "name": {
+          "full": "Miki",
+          "native": "ミキ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135877-lwRRwrEU7ztw.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95093,
+          "name": {
+            "full": "Shizuka Itou",
+            "native": "伊藤静"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95093-MApaH7qqtmVN.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 135860,
+        "name": {
+          "full": "Yuka",
+          "native": "ユカ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135860-XRpeZI9rPrN4.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95054,
+          "name": {
+            "full": "Aya Endou",
+            "native": "遠藤綾"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95054-USmUajnl3bnT.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 135868,
+        "name": {
+          "full": "Yui",
+          "native": "ユイ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135868-MibEa5QW4Vxq.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95144,
+          "name": {
+            "full": "Megumi Toyoguchi",
+            "native": "豊口めぐみ"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95144-9Y8CtDVmxogE.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 135870,
+        "name": {
+          "full": "Tsutsumotase",
+          "native": "美人局",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135870-9DFVtfC6KZt8.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95290,
+          "name": {
+            "full": "Yuri Amano",
+            "native": "天野由梨"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95290-nU8h5vWr8RCv.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135880,
+        "name": {
+          "full": "Kana",
+          "native": "カナ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135880-aM8xYr5r6k1U.jpg"
+        },
+        "description": "Kana-chan is a female student who belongs to Megumi's circle of friends.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95027,
+          "name": {
+            "full": "Yukari Tamura",
+            "native": "田村ゆかり"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95027-Zm9onZDUN7ih.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135861,
+        "name": {
+          "full": "Morita",
+          "native": "森田",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135861-JFl9XkcLGLXt.png"
+        },
+        "description": "Morita is one of Sakamoto's classmates.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96489,
+          "name": {
+            "full": "Tomoaki Maeno",
+            "native": "前野智昭"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n96489-xTzYxgdC9g9l.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135862,
+        "name": {
+          "full": "Mario",
+          "native": "まりお",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135862-JJzGCfa3AMBv.png"
+        },
+        "description": "Mario is a member of the three-member delinquent group together with Atsushi and Kenken.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95402,
+          "name": {
+            "full": "Ken Takeuchi",
+            "native": "武内健"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95402-m32VIL6sZNqC.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135867,
+        "name": {
+          "full": "Yasuda",
+          "native": "安田",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135867-oKntA2UYupw0.png"
+        },
+        "description": "Yasuda is one of Sakamoto's classmates.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95735,
+          "name": {
+            "full": "Tatsuhisa Suzuki",
+            "native": "鈴木達央"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95735-xssSe5BRSkaq.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135869,
+        "name": {
+          "full": "Tanaka",
+          "native": "田中",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135869-Nw27xpPxr2sW.jpg"
+        },
+        "description": "Tanaka is a female student who belongs to Aina's circle of friends.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95504,
+          "name": {
+            "full": "Saki Fujita",
+            "native": "藤田咲"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95504-pDIKpd8t2EYU.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135875,
+        "name": {
+          "full": "Kenken",
+          "native": "ケンケン",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135875-hK8RulK3Z11N.jpg"
+        },
+        "description": "Kenken is a member of the three-member delinquent group together with Atsushi and Mario.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95257,
+          "name": {
+            "full": "Nobuyuki Hiyama",
+            "native": "檜山修之"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95257-PgYwsBplRSJa.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 135878,
+        "name": {
+          "full": "Kouhei",
+          "native": "コウヘイ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135878-BdTyp02kmP7P.png"
+        },
+        "description": "One of the two college students who invited Sakamoto to the mixer.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 96052,
+          "name": {
+            "full": "Takanori Hoshino",
+            "native": "星野貴紀"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/1052.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135884,
+        "name": {
+          "full": "Maruyama",
+          "native": "丸山",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135884-Hwy9bZfolXxF.png"
+        },
+        "description": "A member of the second-year delinquent group. Second after 8823. Makes first-years run errands for him and take care of him in general.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95395,
+          "name": {
+            "full": "Tetsu Inada",
+            "native": "稲田徹"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95395-HpxLuh4ysrzJ.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135873,
+        "name": {
+          "full": "Erika",
+          "native": "エリカ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135873-kbB0J3hI3vSu.png"
+        },
+        "description": "A girl that is sensitive to new trends. She seems to speak foreign accents very well, and she is found usually hanging around with Fujita Megumi's group.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95132,
+          "name": {
+            "full": "Mikako Takahashi",
+            "native": "高橋美佳子"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95132-TpIFKL0tJg84.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 135879,
+        "name": {
+          "full": "Ryou",
+          "native": "リョウ",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135879-hm3gd2xF9MxD.png"
+        },
+        "description": "One of the two college students who invited Sakamoto to the mixer.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95096,
+          "name": {
+            "full": "Nobutoshi Kanna",
+            "native": "神奈延年"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95096-7XONtZWj5lIw.png"
+          }
+        }
+      ]
+    },
+    {
+      "role": "SUPPORTING",
+      "node": {
+        "id": 135882,
+        "name": {
+          "full": "Shigeru Kobayashi",
+          "native": "小林茂",
+          "alternative": [
+            "こばやししげる"
+          ]
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135882-y2t2PjE9d9Kw.png"
+        },
+        "description": "The homeroom teacher for class 1-2. Guides his students using his life experiences where he has overcome many dangerous situations.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95884,
+          "name": {
+            "full": "Masahito Yabe",
+            "native": "矢部雅史"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/884.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 135883,
+        "name": {
+          "full": "Matsuyama",
+          "native": "松山",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135883-KUhnHPR0qLK3.png"
+        },
+        "description": null,
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95197,
+          "name": {
+            "full": "Mitsuki Saiga",
+            "native": "斎賀みつき"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95197-4Uxn95bRlvMu.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "BACKGROUND",
+      "node": {
+        "id": 135885,
+        "name": {
+          "full": "Choriso Chon",
+          "native": "チョン・チョリソー",
+          "alternative": []
+        },
+        "image": {
+          "large": "https://s4.anilist.co/file/anilistcdn/character/large/b135885-1hC8Ptzih6CF.png"
+        },
+        "description": "A Korean idol of whom Shigemi is a fan. Sakamoto's appearance is close to Chon, which partially explains why she falls for the former.",
+        "gender": null,
+        "age": null
+      },
+      "voiceActors": [
+        {
+          "id": 95086,
+          "name": {
+            "full": "Jun Fukuyama",
+            "native": "福山潤"
+          },
+          "image": {
+            "large": "https://s4.anilist.co/file/anilistcdn/staff/large/n95086-cwKYmhOFNtH5.png"
+          }
+        }
+      ]
+    }
+  ]
+}
